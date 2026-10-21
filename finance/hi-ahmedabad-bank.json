@@ -1,0 +1,646 @@
+{
+  "id": "hi-ahmedabad-bank",
+  "name": "Ahmedabad में बैंक — SWIFT/BIC कोड",
+  "title": "Ahmedabad में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Ahmedabad, India. Subset of hi-bank. Source city string preserved verbatim as \"AHMEDABAD\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 9,
+      "bank": "ALLAHABAD BANK",
+      "city": "AHMEDABAD",
+      "branch": "(S.P. NAGAR BRANCH)",
+      "swift_code": "ALLAINBBSPN"
+    },
+    {
+      "id": 73,
+      "bank": "ANDHRA BANK",
+      "city": "AHMEDABAD",
+      "branch": "",
+      "swift_code": "ANDBINBBAHM"
+    },
+    {
+      "id": 145,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "AXISINBB003"
+    },
+    {
+      "id": 146,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(CORPORATE BANKING -AHMEDABAD)",
+      "swift_code": "AXISINBBA03"
+    },
+    {
+      "id": 147,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(MANINAGAR)",
+      "swift_code": "AXISINBB080"
+    },
+    {
+      "id": 148,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(NARODA)",
+      "swift_code": "AXISINBBA69"
+    },
+    {
+      "id": 149,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(NEHRUNAGAR,AHMEDABAD GJ-A47)",
+      "swift_code": "AXISINBBA47"
+    },
+    {
+      "id": 150,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(RELIEF ROAD, AHMEDABAD GJ)",
+      "swift_code": "AXISINBB453"
+    },
+    {
+      "id": 151,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(SARKHEJ GANDHINAGAR H/W,AHD (G):297)",
+      "swift_code": "AXISINBB297"
+    },
+    {
+      "id": 152,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(SHAHIBAUG, AHMEDABAD GJ)",
+      "swift_code": "AXISINBB510"
+    },
+    {
+      "id": 153,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(VASTRAPUR)",
+      "swift_code": "AXISINBB032"
+    },
+    {
+      "id": 154,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(VEJALPUR, AHMEDABAD (GJ))",
+      "swift_code": "AXISINBB058"
+    },
+    {
+      "id": 656,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "UTIBINB1003"
+    },
+    {
+      "id": 741,
+      "bank": "BANK OF BARODA",
+      "city": "AHMEDABAD",
+      "branch": "(ASHRAM ROAD BRANCH)",
+      "swift_code": "BARBINBBAHM"
+    },
+    {
+      "id": 742,
+      "bank": "BANK OF BARODA",
+      "city": "AHMEDABAD",
+      "branch": "(BHADRA BRANCH)",
+      "swift_code": "BARBINBBBHD"
+    },
+    {
+      "id": 743,
+      "bank": "BANK OF BARODA",
+      "city": "AHMEDABAD",
+      "branch": "(CORPORATE FINANCIAL SERVICES, AHMEDABAD)",
+      "swift_code": "BARBINBBCRA"
+    },
+    {
+      "id": 744,
+      "bank": "BANK OF BARODA",
+      "city": "AHMEDABAD",
+      "branch": "(FOREX BACK OFFICE)",
+      "swift_code": "BARBINBBFBO"
+    },
+    {
+      "id": 745,
+      "bank": "BANK OF BARODA",
+      "city": "AHMEDABAD",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "BARBINBBMCA"
+    },
+    {
+      "id": 746,
+      "bank": "BANK OF BARODA",
+      "city": "AHMEDABAD",
+      "branch": "(S.G.HIGHWAY, AHMEDABAD)",
+      "swift_code": "BARBINBBSGH"
+    },
+    {
+      "id": 747,
+      "bank": "BANK OF BARODA",
+      "city": "AHMEDABAD",
+      "branch": "(VATVA INDL ESTATE BR)",
+      "swift_code": "BARBINBBVAT"
+    },
+    {
+      "id": 903,
+      "bank": "BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "BKIDINBBAMB"
+    },
+    {
+      "id": 904,
+      "bank": "BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD LARGE CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBACB"
+    },
+    {
+      "id": 905,
+      "bank": "BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD MID CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBAMD"
+    },
+    {
+      "id": 906,
+      "bank": "BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD NRI)",
+      "swift_code": "BKIDINBBANR"
+    },
+    {
+      "id": 907,
+      "bank": "BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(ASHRAM ROAD)",
+      "swift_code": "BKIDINBBASM"
+    },
+    {
+      "id": 908,
+      "bank": "BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(NAVRANGPURA BRANCH)",
+      "swift_code": "BKIDINBBNAV"
+    },
+    {
+      "id": 909,
+      "bank": "BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(VATVA INDUSTRIAL ESTATE)",
+      "swift_code": "BKIDINBBVTV"
+    },
+    {
+      "id": 1122,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD)",
+      "swift_code": "MAHBINBBAHM"
+    },
+    {
+      "id": 1188,
+      "bank": "BNP PARIBAS INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "BNPAINBBAHM"
+    },
+    {
+      "id": 1207,
+      "bank": "CANARA BANK",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BHADRA MAIN BRANCH)",
+      "swift_code": "CNRBINBBADB"
+    },
+    {
+      "id": 1208,
+      "bank": "CANARA BANK",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBAFD"
+    },
+    {
+      "id": 1209,
+      "bank": "CANARA BANK",
+      "city": "AHMEDABAD",
+      "branch": "(PRIME CORPORATE BR., VEJALPUR)",
+      "swift_code": "CNRBINBBCBA"
+    },
+    {
+      "id": 1398,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(LAL DARWAJA BRANCH)",
+      "swift_code": "CBININBBLAL"
+    },
+    {
+      "id": 1490,
+      "bank": "CORPORATION BANK",
+      "city": "AHMEDABAD",
+      "branch": "(INDUSTRIAL FINANCE BRANCH AHMEDABAD)",
+      "swift_code": "CORPINBB489"
+    },
+    {
+      "id": 1491,
+      "bank": "CORPORATION BANK",
+      "city": "AHMEDABAD",
+      "branch": "(NAVRANGPURA)",
+      "swift_code": "CORPINBB335"
+    },
+    {
+      "id": 1612,
+      "bank": "CREDIT AGRICOLE CIB",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH, INDIA)",
+      "swift_code": "CRLYINBBAHM"
+    },
+    {
+      "id": 1632,
+      "bank": "DCB BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(C.G. ROAD BRANCH, AHMEDABAD)",
+      "swift_code": "DCBLINBB036"
+    },
+    {
+      "id": 1643,
+      "bank": "DENA BANK",
+      "city": "AHMEDABAD",
+      "branch": "(ASHRAM ROAD)",
+      "swift_code": "BKDNINBBAHD"
+    },
+    {
+      "id": 1689,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD)",
+      "swift_code": "DEUTINBBAMD"
+    },
+    {
+      "id": 1732,
+      "bank": "EQUIRUS SECURITIES PRIVATE LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "",
+      "swift_code": "EQSIINA1"
+    },
+    {
+      "id": 1736,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD)",
+      "swift_code": "FDRLINBBAHD"
+    },
+    {
+      "id": 1832,
+      "bank": "HDFC BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "HDFCINBBAHM"
+    },
+    {
+      "id": 1864,
+      "bank": "ICICI BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "ICICINBB024"
+    },
+    {
+      "id": 1901,
+      "bank": "IDBI BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "IBKLINBB009"
+    },
+    {
+      "id": 1902,
+      "bank": "IDBI BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(MAIN CORPORATE BRANCH, AHMEDABAD)",
+      "swift_code": "IBKLINBB130"
+    },
+    {
+      "id": 2003,
+      "bank": "INDIAN BANK",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD MAIN BRANCH)",
+      "swift_code": "IDIBINBBAHM"
+    },
+    {
+      "id": 2096,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "AHMEDABAD",
+      "branch": "(ASHRAM ROAD BRANCH)",
+      "swift_code": "IOBAINBB353"
+    },
+    {
+      "id": 2225,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD, ASHRAM ROAD)",
+      "swift_code": "INDBINBBAHA"
+    },
+    {
+      "id": 2276,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "JAKAINBBAHD"
+    },
+    {
+      "id": 2345,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD NAVARANGAPUR)",
+      "swift_code": "KARBINBBABD"
+    },
+    {
+      "id": 2398,
+      "bank": "KUNVARJI FINSTOCK PVT. LTD.",
+      "city": "AHMEDABAD",
+      "branch": "",
+      "swift_code": "KUFPINA1"
+    },
+    {
+      "id": 2400,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD)",
+      "swift_code": "LAVBINBB114"
+    },
+    {
+      "id": 2460,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "AHMEDABAD",
+      "branch": "",
+      "swift_code": "ORBCINBBAHM"
+    },
+    {
+      "id": 2599,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "AHMEDABAD",
+      "branch": "(AMBAWATI, AHMEDABAD BRANCH)",
+      "swift_code": "PUNBINBBAMB"
+    },
+    {
+      "id": 2600,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "AHMEDABAD",
+      "branch": "(ASHRAM ROAD AHMEDABAD)",
+      "swift_code": "PUNBINBBAAR"
+    },
+    {
+      "id": 2601,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "AHMEDABAD",
+      "branch": "(MCB AHMEDABAD)",
+      "swift_code": "PUNBINBBAMC"
+    },
+    {
+      "id": 2602,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "AHMEDABAD",
+      "branch": "(NRI BRANCH, AHMEDABAD)",
+      "swift_code": "PUNBINBBAIB"
+    },
+    {
+      "id": 2603,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "AHMEDABAD",
+      "branch": "(VANIJIYA BHAWAN AHMEDABAD)",
+      "swift_code": "PUNBINBBAVB"
+    },
+    {
+      "id": 2873,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP56"
+    },
+    {
+      "id": 2874,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB114"
+    },
+    {
+      "id": 2875,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(CORPORATE ACCOUNTS GROUP BRANCH)",
+      "swift_code": "SBININBB219"
+    },
+    {
+      "id": 2876,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(GUJARAT UNIVERSITY BRANCH,AHMEDABAD)",
+      "swift_code": "SBININBB410"
+    },
+    {
+      "id": 2877,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(IIM BRANCH,AHMEDABAD)",
+      "swift_code": "SBININBB412"
+    },
+    {
+      "id": 2878,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBT41"
+    },
+    {
+      "id": 2879,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(LAW GARDEN BRANCH)",
+      "swift_code": "SBININBB651"
+    },
+    {
+      "id": 2880,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(NARODA I E, AHMEDABAD)",
+      "swift_code": "SBININBB209"
+    },
+    {
+      "id": 2881,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBT66"
+    },
+    {
+      "id": 2882,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(NRI BRANCH,AHMEDABAD)",
+      "swift_code": "SBININBB417"
+    },
+    {
+      "id": 2883,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB135"
+    },
+    {
+      "id": 2884,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(SPECIALISED PBB AHMEDABAD)",
+      "swift_code": "SBININBB845"
+    },
+    {
+      "id": 2885,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(SPL NRI BRANCH)",
+      "swift_code": "SBININBB732"
+    },
+    {
+      "id": 2886,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(TRADE FINANCE CENTRAL PROCESSING CENTRE)",
+      "swift_code": "SBININBB598"
+    },
+    {
+      "id": 2887,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(VATWA INDUSTRIAL ESTATE)",
+      "swift_code": "SBININBB203"
+    },
+    {
+      "id": 3723,
+      "bank": "SYNDICATE BANK",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "SYNBINBB023"
+    },
+    {
+      "id": 3724,
+      "bank": "SYNDICATE BANK",
+      "city": "AHMEDABAD",
+      "branch": "(MID CORPORATE AHMEDABAD)",
+      "swift_code": "SYNBINBBAR8"
+    },
+    {
+      "id": 3725,
+      "bank": "SYNDICATE BANK",
+      "city": "AHMEDABAD",
+      "branch": "(MORVI BRANCH)",
+      "swift_code": "SYNBINBBB36"
+    },
+    {
+      "id": 3726,
+      "bank": "SYNDICATE BANK",
+      "city": "AHMEDABAD",
+      "branch": "(NAVRANGPURA)",
+      "swift_code": "SYNBINBB309"
+    },
+    {
+      "id": 3867,
+      "bank": "THE KALUPUR COMMERCIAL CO-OPERATIVE BANK LIMITED",
+      "city": "AHMEDABAD",
+      "branch": "",
+      "swift_code": "KALUINAA"
+    },
+    {
+      "id": 3891,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "AHMEDABAD",
+      "branch": "",
+      "swift_code": "SOININ55179"
+    },
+    {
+      "id": 3955,
+      "bank": "UCO BANK",
+      "city": "AHMEDABAD",
+      "branch": "(INDUSTRIAL FINANCE BRANCH - FORMERLY V.S. HOSPITAL BRANCH)",
+      "swift_code": "UCBAINBB006"
+    },
+    {
+      "id": 4033,
+      "bank": "UNION BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(ELLISBRIDGE BR)",
+      "swift_code": "UBININBBELB"
+    },
+    {
+      "id": 4034,
+      "bank": "UNION BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, AHMEDABAD)",
+      "swift_code": "UBININBBIFA"
+    },
+    {
+      "id": 4135,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "AHMEDABAD",
+      "branch": "(AHMEDABAD BRANCH)",
+      "swift_code": "UTBIINBBAHB"
+    },
+    {
+      "id": 4198,
+      "bank": "VIJAYA BANK",
+      "city": "AHMEDABAD",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "VIJBINBBIFA"
+    },
+    {
+      "id": 4199,
+      "bank": "VIJAYA BANK",
+      "city": "AHMEDABAD",
+      "branch": "(RELIEF ROAD BRANCH)",
+      "swift_code": "VIJBINBBRRA"
+    }
+  ],
+  "meta": {
+    "title": "Ahmedabad में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Ahmedabad, India. Subset of hi-bank. Source city string preserved verbatim as \"AHMEDABAD\". शामिल हैं 85 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Ahmedabad में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Ahmedabad में बैंक — SWIFT/BIC कोड — 85 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 85 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "id": "hi-nagpur-bank",
+  "name": "Nagpur में बैंक — SWIFT/BIC कोड",
+  "title": "Nagpur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Nagpur, India. Subset of hi-bank. Source city string preserved verbatim as \"NAGPUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 504,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NAGPUR",
+      "branch": "(AMRAVATI)",
+      "swift_code": "AXISINBB265"
+    },
+    {
+      "id": 505,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NAGPUR",
+      "branch": "(BYRAMJI TOWN, NAGPUR (MH))",
+      "swift_code": "AXISINBB804"
+    },
+    {
+      "id": 506,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NAGPUR",
+      "branch": "(CHANDRAPUR)",
+      "swift_code": "AXISINBB651"
+    },
+    {
+      "id": 507,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NAGPUR",
+      "branch": "(GANDHIBAGH)",
+      "swift_code": "AXISINBBA85"
+    },
+    {
+      "id": 508,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NAGPUR",
+      "branch": "(LAKADGANJ, NAGPUR MH)",
+      "swift_code": "AXISINBB330"
+    },
+    {
+      "id": 509,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NAGPUR",
+      "branch": "(NAGPUR BRANCH)",
+      "swift_code": "AXISINBB048"
+    },
+    {
+      "id": 510,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NAGPUR",
+      "branch": "(SHANKAR NAGAR)",
+      "swift_code": "AXISINBBA71"
+    },
+    {
+      "id": 704,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "NAGPUR",
+      "branch": "(NAGPUR BRANCH)",
+      "swift_code": "UTIBINB1048"
+    },
+    {
+      "id": 855,
+      "bank": "BANK OF BARODA",
+      "city": "NAGPUR",
+      "branch": "(DHARAMPETH BR., NAGPUR)",
+      "swift_code": "BARBINBBDPN"
+    },
+    {
+      "id": 1056,
+      "bank": "BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(NAGPUR CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBNCB"
+    },
+    {
+      "id": 1057,
+      "bank": "BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(NAGPUR)",
+      "swift_code": "BKIDINBBNAG"
+    },
+    {
+      "id": 1144,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "NAGPUR",
+      "branch": "(SITABULDI, NAGPUR)",
+      "swift_code": "MAHBINBBNGP"
+    },
+    {
+      "id": 1337,
+      "bank": "CANARA BANK",
+      "city": "NAGPUR",
+      "branch": "",
+      "swift_code": "CNRBINBBFXN"
+    },
+    {
+      "id": 1448,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(NAGPUR, PUNE)",
+      "swift_code": "CBININBBNAG"
+    },
+    {
+      "id": 1960,
+      "bank": "IDBI BANK LIMITED",
+      "city": "NAGPUR",
+      "branch": "(S B NAGPUR)",
+      "swift_code": "IBKLINBBNGP"
+    },
+    {
+      "id": 2255,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "NAGPUR",
+      "branch": "(NAGPUR BRANCH)",
+      "swift_code": "INDBINBBNAS"
+    },
+    {
+      "id": 2520,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NAGPUR",
+      "branch": "(KINGSWAY NAGPUR)",
+      "swift_code": "ORBCINBBNGP"
+    },
+    {
+      "id": 2751,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NAGPUR",
+      "branch": "(GANDHI BAGH NAGPUR)",
+      "swift_code": "PUNBINBBNGB"
+    },
+    {
+      "id": 2752,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NAGPUR",
+      "branch": "(KINGSWAY NAGPUR)",
+      "swift_code": "PUNBINBBNKW"
+    },
+    {
+      "id": 2753,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NAGPUR",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "PUNBINBBNMC"
+    },
+    {
+      "id": 3458,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(BHUBANESWAR CIRCLE)",
+      "swift_code": "SBININBBH44"
+    },
+    {
+      "id": 3459,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(HINGNA INDUST. BR. NAGPUR)",
+      "swift_code": "SBININBB358"
+    },
+    {
+      "id": 3460,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, NAGPUR)",
+      "swift_code": "SBININBB195"
+    },
+    {
+      "id": 3461,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(NAGPUR MAIN BRANCH)",
+      "swift_code": "SBININBB239"
+    },
+    {
+      "id": 3462,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(RAMDASPETH,NAGPUR)",
+      "swift_code": "SBININBB534"
+    },
+    {
+      "id": 3463,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(SME NAGPUR BRANCH)",
+      "swift_code": "SBININBB683"
+    },
+    {
+      "id": 3929,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "NAGPUR",
+      "branch": "(NAGPUR)",
+      "swift_code": "SOININ55432"
+    },
+    {
+      "id": 4007,
+      "bank": "UCO BANK",
+      "city": "NAGPUR",
+      "branch": "(MCU NAGPUR)",
+      "swift_code": "UCBAINBBNAG"
+    },
+    {
+      "id": 4008,
+      "bank": "UCO BANK",
+      "city": "NAGPUR",
+      "branch": "(SITABULDI NAGPUR)",
+      "swift_code": "UCBAINBB028"
+    },
+    {
+      "id": 4106,
+      "bank": "UNION BANK OF INDIA",
+      "city": "NAGPUR",
+      "branch": "(DHANTOLI BRANCH)",
+      "swift_code": "UBININBBDHN"
+    },
+    {
+      "id": 4188,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "NAGPUR",
+      "branch": "(SITABULDI, NAGPUR)",
+      "swift_code": "UWBAINB1NGP"
+    },
+    {
+      "id": 4233,
+      "bank": "VIJAYA BANK",
+      "city": "NAGPUR",
+      "branch": "(NAGPUR - MAIN)",
+      "swift_code": "VIJBINBBNGP"
+    }
+  ],
+  "meta": {
+    "title": "Nagpur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Nagpur, India. Subset of hi-bank. Source city string preserved verbatim as \"NAGPUR\". शामिल हैं 32 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Nagpur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Nagpur में बैंक — SWIFT/BIC कोड — 32 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 32 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

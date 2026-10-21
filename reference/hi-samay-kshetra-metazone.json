@@ -1,0 +1,1087 @@
+{
+  "id": "hi-samay-kshetra-metazone",
+  "name": "मेटाज़ोन (महाक्षेत्रीय समय क्षेत्र) — हिन्दी नाम",
+  "title": "मेटाज़ोन (महाक्षेत्रीय समय क्षेत्र) — हिन्दी नाम",
+  "description": "CLDR hi लोकेल के महाक्षेत्रीय समय क्षेत्र (मेटाज़ोन) — सामान्य, मानक और दिवाकाल नामों सहित।",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 148,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "samanya_naam",
+      "label": "Samanya Naam",
+      "type": "string"
+    },
+    {
+      "key": "manak_naam",
+      "label": "Manak Naam",
+      "type": "string"
+    },
+    {
+      "key": "divakaal_naam",
+      "label": "Divakaal Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Afghanistan",
+      "samanya_naam": "",
+      "manak_naam": "अफ़गानिस्तान समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 2,
+      "code": "Africa_Central",
+      "samanya_naam": "",
+      "manak_naam": "मध्य अफ़्रीका समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 3,
+      "code": "Africa_Eastern",
+      "samanya_naam": "",
+      "manak_naam": "पूर्वी अफ़्रीका समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 4,
+      "code": "Africa_Southern",
+      "samanya_naam": "",
+      "manak_naam": "दक्षिण अफ़्रीका मानक समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 5,
+      "code": "Africa_Western",
+      "samanya_naam": "",
+      "manak_naam": "पश्चिम अफ़्रीका समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 6,
+      "code": "Alaska",
+      "samanya_naam": "अलास्का समय",
+      "manak_naam": "अलास्‍का मानक समय",
+      "divakaal_naam": "अलास्‍का डेलाइट समय"
+    },
+    {
+      "id": 7,
+      "code": "Amazon",
+      "samanya_naam": "अमेज़न समय",
+      "manak_naam": "अमेज़न मानक समय",
+      "divakaal_naam": "अमेज़न ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 8,
+      "code": "America_Central",
+      "samanya_naam": "उत्तरी अमेरिकी केंद्रीय समय",
+      "manak_naam": "उत्तरी अमेरिकी केंद्रीय मानक समय",
+      "divakaal_naam": "उत्तरी अमेरिकी केंद्रीय डेलाइट समय"
+    },
+    {
+      "id": 9,
+      "code": "America_Eastern",
+      "samanya_naam": "उत्तरी अमेरिकी पूर्वी समय",
+      "manak_naam": "उत्तरी अमेरिकी पूर्वी मानक समय",
+      "divakaal_naam": "उत्तरी अमेरिकी पूर्वी डेलाइट समय"
+    },
+    {
+      "id": 10,
+      "code": "America_Mountain",
+      "samanya_naam": "उत्तरी अमेरिकी माउंटेन समय",
+      "manak_naam": "उत्तरी अमेरिकी माउंटेन मानक समय",
+      "divakaal_naam": "उत्तरी अमेरिकी माउंटेन डेलाइट समय"
+    },
+    {
+      "id": 11,
+      "code": "America_Pacific",
+      "samanya_naam": "उत्तरी अमेरिकी प्रशांत समय",
+      "manak_naam": "उत्तरी अमेरिकी प्रशांत मानक समय",
+      "divakaal_naam": "उत्तरी अमेरिकी प्रशांत डेलाइट समय"
+    },
+    {
+      "id": 12,
+      "code": "Anadyr",
+      "samanya_naam": "एनाडीयर समय",
+      "manak_naam": "एनाडीयर मानक समय",
+      "divakaal_naam": "एनाडीयर ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 13,
+      "code": "Apia",
+      "samanya_naam": "एपिआ समय",
+      "manak_naam": "एपिआ मानक समय",
+      "divakaal_naam": "एपिआ डेलाइट समय"
+    },
+    {
+      "id": 14,
+      "code": "Arabian",
+      "samanya_naam": "अरब समय",
+      "manak_naam": "अरब मानक समय",
+      "divakaal_naam": "अरब डेलाइट समय"
+    },
+    {
+      "id": 15,
+      "code": "Argentina",
+      "samanya_naam": "अर्जेंटीना समय",
+      "manak_naam": "अर्जेंटीना मानक समय",
+      "divakaal_naam": "अर्जेंटीना ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 16,
+      "code": "Argentina_Western",
+      "samanya_naam": "पश्चिमी अर्जेंटीना समय",
+      "manak_naam": "पश्चिमी अर्जेंटीना मानक समय",
+      "divakaal_naam": "पश्चिमी अर्जेंटीना ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 17,
+      "code": "Armenia",
+      "samanya_naam": "आर्मेनिया समय",
+      "manak_naam": "आर्मेनिया मानक समय",
+      "divakaal_naam": "आर्मेनिया ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 18,
+      "code": "Atlantic",
+      "samanya_naam": "अटलांटिक समय",
+      "manak_naam": "अटलांटिक मानक समय",
+      "divakaal_naam": "अटलांटिक डेलाइट समय"
+    },
+    {
+      "id": 19,
+      "code": "Australia_Central",
+      "samanya_naam": "मध्य ऑस्ट्रेलियाई समय",
+      "manak_naam": "ऑस्‍ट्रेलियाई केंद्रीय मानक समय",
+      "divakaal_naam": "ऑस्‍ट्रेलियाई केंद्रीय डेलाइट समय"
+    },
+    {
+      "id": 20,
+      "code": "Australia_CentralWestern",
+      "samanya_naam": "ऑस्‍ट्रेलियाई केंद्रीय पश्चिमी समय",
+      "manak_naam": "ऑस्‍ट्रेलियाई केंद्रीय पश्चिमी मानक समय",
+      "divakaal_naam": "ऑस्‍ट्रेलियाई केंद्रीय पश्चिमी डेलाइट समय"
+    },
+    {
+      "id": 21,
+      "code": "Australia_Eastern",
+      "samanya_naam": "पूर्वी ऑस्ट्रेलिया समय",
+      "manak_naam": "ऑस्‍ट्रेलियाई पूर्वी मानक समय",
+      "divakaal_naam": "ऑस्‍ट्रेलियाई पूर्वी डेलाइट समय"
+    },
+    {
+      "id": 22,
+      "code": "Australia_Western",
+      "samanya_naam": "पश्चिमी ऑस्ट्रेलिया समय",
+      "manak_naam": "ऑस्ट्रेलियाई पश्चिमी मानक समय",
+      "divakaal_naam": "ऑस्ट्रेलियाई पश्चिमी डेलाइट समय"
+    },
+    {
+      "id": 23,
+      "code": "Azerbaijan",
+      "samanya_naam": "अज़रबैजान समय",
+      "manak_naam": "अज़रबैजान मानक समय",
+      "divakaal_naam": "अज़रबैजान ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 24,
+      "code": "Azores",
+      "samanya_naam": "अज़ोरेस समय",
+      "manak_naam": "अज़ोरेस मानक समय",
+      "divakaal_naam": "अज़ोरेस ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 25,
+      "code": "Bangladesh",
+      "samanya_naam": "बांग्लादेश समय",
+      "manak_naam": "बांग्लादेश मानक समय",
+      "divakaal_naam": "बांग्लादेश ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 26,
+      "code": "Bhutan",
+      "samanya_naam": "",
+      "manak_naam": "भूटान समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 27,
+      "code": "Bolivia",
+      "samanya_naam": "",
+      "manak_naam": "बोलीविया समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 28,
+      "code": "Brasilia",
+      "samanya_naam": "ब्राज़ीलिया समय",
+      "manak_naam": "ब्राज़ीलिया मानक समय",
+      "divakaal_naam": "ब्राज़ीलिया ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 29,
+      "code": "Brunei",
+      "samanya_naam": "",
+      "manak_naam": "ब्रूनेई दारूस्सलम समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 30,
+      "code": "Cape_Verde",
+      "samanya_naam": "केप वर्ड समय",
+      "manak_naam": "केप वर्ड मानक समय",
+      "divakaal_naam": "केप वर्ड ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 31,
+      "code": "Chamorro",
+      "samanya_naam": "",
+      "manak_naam": "चामोरो मानक समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 32,
+      "code": "Chatham",
+      "samanya_naam": "चैथम समय",
+      "manak_naam": "चैथम मानक समय",
+      "divakaal_naam": "चैथम डेलाइट समय"
+    },
+    {
+      "id": 33,
+      "code": "Chile",
+      "samanya_naam": "चिली समय",
+      "manak_naam": "चिली मानक समय",
+      "divakaal_naam": "चिली ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 34,
+      "code": "China",
+      "samanya_naam": "चीन समय",
+      "manak_naam": "चीन मानक समय",
+      "divakaal_naam": "चीन डेलाइट समय"
+    },
+    {
+      "id": 35,
+      "code": "Christmas",
+      "samanya_naam": "",
+      "manak_naam": "क्रिसमस द्वीप समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 36,
+      "code": "Cocos",
+      "samanya_naam": "",
+      "manak_naam": "कोकोस द्वीपसमूह समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 37,
+      "code": "Colombia",
+      "samanya_naam": "कोलंबिया समय",
+      "manak_naam": "कोलंबिया मानक समय",
+      "divakaal_naam": "कोलंबिया ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 38,
+      "code": "Cook",
+      "samanya_naam": "कुक द्वीपसमूह समय",
+      "manak_naam": "कुक द्वीपसमूह मानक समय",
+      "divakaal_naam": "कुक द्वीपसमूह अर्द्ध ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 39,
+      "code": "Cuba",
+      "samanya_naam": "क्यूबा समय",
+      "manak_naam": "क्यूबा मानक समय",
+      "divakaal_naam": "क्यूबा डेलाइट समय"
+    },
+    {
+      "id": 40,
+      "code": "Davis",
+      "samanya_naam": "",
+      "manak_naam": "डेविस समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 41,
+      "code": "DumontDUrville",
+      "samanya_naam": "",
+      "manak_naam": "ड्यूमोंट डी अर्विले समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 42,
+      "code": "East_Timor",
+      "samanya_naam": "",
+      "manak_naam": "पूर्वी तिमोर समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 43,
+      "code": "Easter",
+      "samanya_naam": "ईस्टर द्वीप समय",
+      "manak_naam": "ईस्टर द्वीप मानक समय",
+      "divakaal_naam": "ईस्टर द्वीप ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 44,
+      "code": "Ecuador",
+      "samanya_naam": "",
+      "manak_naam": "इक्वाडोर समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 45,
+      "code": "Europe_Central",
+      "samanya_naam": "मध्य यूरोपीय समय",
+      "manak_naam": "मध्य यूरोपीय मानक समय",
+      "divakaal_naam": "मध्‍य यूरोपीय ग्रीष्‍मकालीन समय"
+    },
+    {
+      "id": 46,
+      "code": "Europe_Eastern",
+      "samanya_naam": "पूर्वी यूरोपीय समय",
+      "manak_naam": "पूर्वी यूरोपीय मानक समय",
+      "divakaal_naam": "पूर्वी यूरोपीय ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 47,
+      "code": "Europe_Further_Eastern",
+      "samanya_naam": "",
+      "manak_naam": "अग्र पूर्वी यूरोपीय समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 48,
+      "code": "Europe_Western",
+      "samanya_naam": "पश्चिमी यूरोपीय समय",
+      "manak_naam": "पश्चिमी यूरोपीय मानक समय",
+      "divakaal_naam": "पश्चिमी यूरोपीय ग्रीष्‍मकालीन समय"
+    },
+    {
+      "id": 49,
+      "code": "Falkland",
+      "samanya_naam": "फ़ॉकलैंड द्वीपसमूह समय",
+      "manak_naam": "फ़ॉकलैंड द्वीपसमूह मानक समय",
+      "divakaal_naam": "फ़ॉकलैंड द्वीपसमूह ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 50,
+      "code": "Fiji",
+      "samanya_naam": "फ़िजी समय",
+      "manak_naam": "फ़िजी मानक समय",
+      "divakaal_naam": "फ़िजी ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 51,
+      "code": "French_Guiana",
+      "samanya_naam": "",
+      "manak_naam": "फ़्रेंच गुयाना समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 52,
+      "code": "French_Southern",
+      "samanya_naam": "",
+      "manak_naam": "दक्षिणी फ़्रांस और अंटार्कटिक समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 53,
+      "code": "GMT",
+      "samanya_naam": "",
+      "manak_naam": "ग्रीनविच मीन टाइम",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 54,
+      "code": "Galapagos",
+      "samanya_naam": "",
+      "manak_naam": "गैलापेगोस का समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 55,
+      "code": "Gambier",
+      "samanya_naam": "",
+      "manak_naam": "गैंबियर समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 56,
+      "code": "Georgia",
+      "samanya_naam": "जॉर्जिया समय",
+      "manak_naam": "जॉर्जिया मानक समय",
+      "divakaal_naam": "जॉर्जिया ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 57,
+      "code": "Gilbert_Islands",
+      "samanya_naam": "",
+      "manak_naam": "गिल्बर्ट द्वीपसमूह समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 58,
+      "code": "Greenland_Eastern",
+      "samanya_naam": "पूर्वी ग्रीनलैंड समय",
+      "manak_naam": "पूर्वी ग्रीनलैंड मानक समय",
+      "divakaal_naam": "पूर्वी ग्रीनलैंड ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 59,
+      "code": "Greenland_Western",
+      "samanya_naam": "पश्चिमी ग्रीनलैंड समय",
+      "manak_naam": "पश्चिमी ग्रीनलैंड मानक समय",
+      "divakaal_naam": "पश्चिमी ग्रीनलैंड ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 60,
+      "code": "Gulf",
+      "samanya_naam": "",
+      "manak_naam": "खाड़ी मानक समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 61,
+      "code": "Guyana",
+      "samanya_naam": "",
+      "manak_naam": "गुयाना समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 62,
+      "code": "Hawaii",
+      "samanya_naam": "",
+      "manak_naam": "हवाई–आल्यूशन मानक समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 63,
+      "code": "Hawaii_Aleutian",
+      "samanya_naam": "हवाई–आल्यूशन समय",
+      "manak_naam": "हवाई–आल्यूशन मानक समय",
+      "divakaal_naam": "हवाई–आल्यूशन डेलाइट समय"
+    },
+    {
+      "id": 64,
+      "code": "Hong_Kong",
+      "samanya_naam": "हाँग काँग समय",
+      "manak_naam": "हाँग काँग मानक समय",
+      "divakaal_naam": "हाँग काँग ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 65,
+      "code": "Hovd",
+      "samanya_naam": "होव्ड समय",
+      "manak_naam": "होव्ड मानक समय",
+      "divakaal_naam": "होव्ड ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 66,
+      "code": "India",
+      "samanya_naam": "",
+      "manak_naam": "भारतीय मानक समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 67,
+      "code": "Indian_Ocean",
+      "samanya_naam": "",
+      "manak_naam": "हिंद महासागर समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 68,
+      "code": "Indochina",
+      "samanya_naam": "",
+      "manak_naam": "इंडोचाइना समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 69,
+      "code": "Indonesia_Central",
+      "samanya_naam": "",
+      "manak_naam": "मध्य इंडोनेशिया समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 70,
+      "code": "Indonesia_Eastern",
+      "samanya_naam": "",
+      "manak_naam": "पूर्वी इंडोनेशिया समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 71,
+      "code": "Indonesia_Western",
+      "samanya_naam": "",
+      "manak_naam": "पश्चिमी इंडोनेशिया समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 72,
+      "code": "Iran",
+      "samanya_naam": "ईरान समय",
+      "manak_naam": "ईरान मानक समय",
+      "divakaal_naam": "ईरान डेलाइट समय"
+    },
+    {
+      "id": 73,
+      "code": "Irkutsk",
+      "samanya_naam": "इर्कुत्स्क समय",
+      "manak_naam": "इर्कुत्स्क मानक समय",
+      "divakaal_naam": "इर्कुत्स्क ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 74,
+      "code": "Israel",
+      "samanya_naam": "इज़राइल समय",
+      "manak_naam": "इज़राइल मानक समय",
+      "divakaal_naam": "इज़राइल डेलाइट समय"
+    },
+    {
+      "id": 75,
+      "code": "Japan",
+      "samanya_naam": "जापान समय",
+      "manak_naam": "जापान मानक समय",
+      "divakaal_naam": "जापान डेलाइट समय"
+    },
+    {
+      "id": 76,
+      "code": "Kamchatka",
+      "samanya_naam": "पेट्रोपेवलास्क-कैमचात्सकी समय",
+      "manak_naam": "पेट्रोपेवलास्क-कैमचात्सकी मानक समय",
+      "divakaal_naam": "पेट्रोपेवलास्क-कैमचात्सकी ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 77,
+      "code": "Kazakhstan",
+      "samanya_naam": "",
+      "manak_naam": "कज़ाखस्तान समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 78,
+      "code": "Kazakhstan_Eastern",
+      "samanya_naam": "",
+      "manak_naam": "पूर्व कज़ाखस्तान समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 79,
+      "code": "Kazakhstan_Western",
+      "samanya_naam": "",
+      "manak_naam": "पश्चिम कज़ाखस्तान समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 80,
+      "code": "Korea",
+      "samanya_naam": "कोरियाई समय",
+      "manak_naam": "कोरियाई मानक समय",
+      "divakaal_naam": "कोरियाई डेलाइट समय"
+    },
+    {
+      "id": 81,
+      "code": "Kosrae",
+      "samanya_naam": "",
+      "manak_naam": "कोसराए समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 82,
+      "code": "Krasnoyarsk",
+      "samanya_naam": "क्रास्नोयार्स्क समय",
+      "manak_naam": "क्रास्नोयार्स्क मानक समय",
+      "divakaal_naam": "क्रास्नोयार्स्क ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 83,
+      "code": "Kyrgystan",
+      "samanya_naam": "",
+      "manak_naam": "किर्गिस्‍तान समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 84,
+      "code": "Line_Islands",
+      "samanya_naam": "",
+      "manak_naam": "लाइन द्वीपसमूह समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 85,
+      "code": "Lord_Howe",
+      "samanya_naam": "लॉर्ड होवे समय",
+      "manak_naam": "लॉर्ड होवे मानक समय",
+      "divakaal_naam": "लॉर्ड होवे डेलाइट समय"
+    },
+    {
+      "id": 86,
+      "code": "Magadan",
+      "samanya_naam": "मागादान समय",
+      "manak_naam": "मागादान मानक समय",
+      "divakaal_naam": "मागादान ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 87,
+      "code": "Malaysia",
+      "samanya_naam": "",
+      "manak_naam": "मलेशिया समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 88,
+      "code": "Maldives",
+      "samanya_naam": "",
+      "manak_naam": "मालदीव समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 89,
+      "code": "Marquesas",
+      "samanya_naam": "",
+      "manak_naam": "मार्केसस समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 90,
+      "code": "Marshall_Islands",
+      "samanya_naam": "",
+      "manak_naam": "मार्शल द्वीपसमूह समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 91,
+      "code": "Mauritius",
+      "samanya_naam": "मॉरीशस समय",
+      "manak_naam": "मॉरीशस मानक समय",
+      "divakaal_naam": "मॉरीशस ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 92,
+      "code": "Mawson",
+      "samanya_naam": "",
+      "manak_naam": "माव्सन समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 93,
+      "code": "Mexico_Pacific",
+      "samanya_naam": "मेक्सिकन प्रशांत समय",
+      "manak_naam": "मेक्सिकन प्रशांत मानक समय",
+      "divakaal_naam": "मेक्सिकन प्रशांत डेलाइट समय"
+    },
+    {
+      "id": 94,
+      "code": "Mongolia",
+      "samanya_naam": "उलान बटोर समय",
+      "manak_naam": "उलान बटोर मानक समय",
+      "divakaal_naam": "उलान बटोर ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 95,
+      "code": "Moscow",
+      "samanya_naam": "मॉस्को समय",
+      "manak_naam": "मॉस्को मानक समय",
+      "divakaal_naam": "मॉस्को ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 96,
+      "code": "Myanmar",
+      "samanya_naam": "",
+      "manak_naam": "म्यांमार समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 97,
+      "code": "Nauru",
+      "samanya_naam": "",
+      "manak_naam": "नौरू समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 98,
+      "code": "Nepal",
+      "samanya_naam": "",
+      "manak_naam": "नेपाल समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 99,
+      "code": "New_Caledonia",
+      "samanya_naam": "न्यू कैलेडोनिया समय",
+      "manak_naam": "न्यू कैलेडोनिया मानक समय",
+      "divakaal_naam": "न्यू कैलेडोनिया ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 100,
+      "code": "New_Zealand",
+      "samanya_naam": "न्यूज़ीलैंड समय",
+      "manak_naam": "न्यूज़ीलैंड मानक समय",
+      "divakaal_naam": "न्यूज़ीलैंड डेलाइट समय"
+    },
+    {
+      "id": 101,
+      "code": "Newfoundland",
+      "samanya_naam": "न्यूफ़ाउंडलैंड समय",
+      "manak_naam": "न्यूफ़ाउंडलैंड मानक समय",
+      "divakaal_naam": "न्यूफ़ाउंडलैंड डेलाइट समय"
+    },
+    {
+      "id": 102,
+      "code": "Niue",
+      "samanya_naam": "",
+      "manak_naam": "नीयू समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 103,
+      "code": "Norfolk",
+      "samanya_naam": "नॉरफ़ॉक द्वीप समय",
+      "manak_naam": "नॉरफ़ॉक द्वीप मानक समय",
+      "divakaal_naam": "नॉरफ़ॉक द्वीप डेलाइट समय"
+    },
+    {
+      "id": 104,
+      "code": "Noronha",
+      "samanya_naam": "फ़र्नांर्डो डे नोरोन्हा समय",
+      "manak_naam": "फ़र्नांर्डो डे नोरोन्हा मानक समय",
+      "divakaal_naam": "फ़र्नांर्डो डे नोरोन्हा ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 105,
+      "code": "Novosibirsk",
+      "samanya_naam": "नोवोसिबिर्स्क समय",
+      "manak_naam": "नोवोसिबिर्स्क मानक समय",
+      "divakaal_naam": "नोवोसिबिर्स्क ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 106,
+      "code": "Omsk",
+      "samanya_naam": "ओम्स्क समय",
+      "manak_naam": "ओम्स्क मानक समय",
+      "divakaal_naam": "ओम्स्क ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 107,
+      "code": "Pakistan",
+      "samanya_naam": "पाकिस्तान समय",
+      "manak_naam": "पाकिस्तान मानक समय",
+      "divakaal_naam": "पाकिस्तान ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 108,
+      "code": "Palau",
+      "samanya_naam": "",
+      "manak_naam": "पलाउ समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 109,
+      "code": "Papua_New_Guinea",
+      "samanya_naam": "",
+      "manak_naam": "पापुआ न्यू गिनी समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 110,
+      "code": "Paraguay",
+      "samanya_naam": "पैराग्वे समय",
+      "manak_naam": "पैराग्वे मानक समय",
+      "divakaal_naam": "पैराग्वे ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 111,
+      "code": "Peru",
+      "samanya_naam": "पेरू समय",
+      "manak_naam": "पेरू मानक समय",
+      "divakaal_naam": "पेरू ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 112,
+      "code": "Philippines",
+      "samanya_naam": "फ़िलिपीन समय",
+      "manak_naam": "फ़िलिपीन मानक समय",
+      "divakaal_naam": "फ़िलिपीन ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 113,
+      "code": "Phoenix_Islands",
+      "samanya_naam": "",
+      "manak_naam": "फ़ीनिक्स द्वीपसमूह समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 114,
+      "code": "Pierre_Miquelon",
+      "samanya_naam": "सेंट पिएरे और मिक्वेलान समय",
+      "manak_naam": "सेंट पिएरे और मिक्वेलान मानक समय",
+      "divakaal_naam": "सेंट पिएरे और मिक्वेलान डेलाइट समय"
+    },
+    {
+      "id": 115,
+      "code": "Pitcairn",
+      "samanya_naam": "",
+      "manak_naam": "पिटकैर्न समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 116,
+      "code": "Ponape",
+      "samanya_naam": "",
+      "manak_naam": "पोनापे समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 117,
+      "code": "Pyongyang",
+      "samanya_naam": "",
+      "manak_naam": "प्योंगयांग समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 118,
+      "code": "Reunion",
+      "samanya_naam": "",
+      "manak_naam": "रीयूनियन समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 119,
+      "code": "Rothera",
+      "samanya_naam": "",
+      "manak_naam": "रोथेरा समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 120,
+      "code": "Sakhalin",
+      "samanya_naam": "सखालिन समय",
+      "manak_naam": "सखालिन मानक समय",
+      "divakaal_naam": "सखालिन ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 121,
+      "code": "Samara",
+      "samanya_naam": "समारा समय",
+      "manak_naam": "समारा मानक समय",
+      "divakaal_naam": "समारा ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 122,
+      "code": "Samoa",
+      "samanya_naam": "समोआ समय",
+      "manak_naam": "समोआ मानक समय",
+      "divakaal_naam": "समोआ डेलाइट समय"
+    },
+    {
+      "id": 123,
+      "code": "Seychelles",
+      "samanya_naam": "",
+      "manak_naam": "सेशेल्स समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 124,
+      "code": "Singapore",
+      "samanya_naam": "",
+      "manak_naam": "सिंगापुर समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 125,
+      "code": "Solomon",
+      "samanya_naam": "",
+      "manak_naam": "सोलोमन द्वीपसमूह समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 126,
+      "code": "South_Georgia",
+      "samanya_naam": "",
+      "manak_naam": "दक्षिणी जॉर्जिया समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 127,
+      "code": "Suriname",
+      "samanya_naam": "",
+      "manak_naam": "सूरीनाम समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 128,
+      "code": "Syowa",
+      "samanya_naam": "",
+      "manak_naam": "स्योवा समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 129,
+      "code": "Tahiti",
+      "samanya_naam": "",
+      "manak_naam": "ताहिती समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 130,
+      "code": "Taipei",
+      "samanya_naam": "ताइपे समय",
+      "manak_naam": "ताइपे मानक समय",
+      "divakaal_naam": "ताइपे डेलाइट समय"
+    },
+    {
+      "id": 131,
+      "code": "Tajikistan",
+      "samanya_naam": "",
+      "manak_naam": "ताजिकिस्तान समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 132,
+      "code": "Tokelau",
+      "samanya_naam": "",
+      "manak_naam": "टोकेलाऊ समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 133,
+      "code": "Tonga",
+      "samanya_naam": "टोंगा समय",
+      "manak_naam": "टोंगा मानक समय",
+      "divakaal_naam": "टोंगा ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 134,
+      "code": "Truk",
+      "samanya_naam": "",
+      "manak_naam": "चुक समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 135,
+      "code": "Turkmenistan",
+      "samanya_naam": "तुर्कमेनिस्तान समय",
+      "manak_naam": "तुर्कमेनिस्तान मानक समय",
+      "divakaal_naam": "तुर्कमेनिस्तान ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 136,
+      "code": "Tuvalu",
+      "samanya_naam": "",
+      "manak_naam": "तुवालू समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 137,
+      "code": "Uruguay",
+      "samanya_naam": "उरुग्वे समय",
+      "manak_naam": "उरुग्वे मानक समय",
+      "divakaal_naam": "उरुग्वे ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 138,
+      "code": "Uzbekistan",
+      "samanya_naam": "उज़्बेकिस्तान समय",
+      "manak_naam": "उज़्बेकिस्तान मानक समय",
+      "divakaal_naam": "उज़्बेकिस्तान ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 139,
+      "code": "Vanuatu",
+      "samanya_naam": "वनुआतू समय",
+      "manak_naam": "वनुआतू मानक समय",
+      "divakaal_naam": "वनुआतू ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 140,
+      "code": "Venezuela",
+      "samanya_naam": "",
+      "manak_naam": "वेनेज़ुएला समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 141,
+      "code": "Vladivostok",
+      "samanya_naam": "व्लादिवोस्तोक समय",
+      "manak_naam": "व्लादिवोस्तोक मानक समय",
+      "divakaal_naam": "व्लादिवोस्तोक ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 142,
+      "code": "Volgograd",
+      "samanya_naam": "वोल्गोग्राड समय",
+      "manak_naam": "वोल्गोग्राड मानक समय",
+      "divakaal_naam": "वोल्गोग्राड ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 143,
+      "code": "Vostok",
+      "samanya_naam": "",
+      "manak_naam": "वोस्तोक समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 144,
+      "code": "Wake",
+      "samanya_naam": "",
+      "manak_naam": "वेक द्वीप समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 145,
+      "code": "Wallis",
+      "samanya_naam": "",
+      "manak_naam": "वालिस और फ़्यूचूना समय",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 146,
+      "code": "Yakutsk",
+      "samanya_naam": "याकुत्स्क समय",
+      "manak_naam": "याकुत्स्क मानक समय",
+      "divakaal_naam": "याकुत्स्क ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 147,
+      "code": "Yekaterinburg",
+      "samanya_naam": "येकातेरिनबर्ग समय",
+      "manak_naam": "येकातेरिनबर्ग मानक समय",
+      "divakaal_naam": "येकातेरिनबर्ग ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 148,
+      "code": "Yukon",
+      "samanya_naam": "",
+      "manak_naam": "युकॉन समय",
+      "divakaal_naam": ""
+    }
+  ],
+  "meta": {
+    "title": "मेटाज़ोन (महाक्षेत्रीय समय क्षेत्र) — हिन्दी नाम - मुफ़्त डाउनलोड",
+    "description": "CLDR hi लोकेल के महाक्षेत्रीय समय क्षेत्र (मेटाज़ोन) — सामान्य, मानक और दिवाकाल नामों सहित। शामिल हैं 148 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मेटाज़ोन (महाक्षेत्रीय समय क्षेत्र) — हिन्दी नाम | ListBase",
+    "seo_description": "डाउनलोड मेटाज़ोन (महाक्षेत्रीय समय क्षेत्र) — हिन्दी नाम — 148 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 148 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

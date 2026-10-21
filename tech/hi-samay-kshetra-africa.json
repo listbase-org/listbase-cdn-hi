@@ -1,0 +1,472 @@
+{
+  "id": "hi-samay-kshetra-africa",
+  "name": "समय क्षेत्र — Africa (52)",
+  "title": "समय क्षेत्र — Africa (52)",
+  "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Africa/' से आरंभ होता है, हिन्दी नामों सहित।",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "kshetra",
+      "label": "Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "shahar",
+      "label": "Shahar",
+      "type": "string"
+    },
+    {
+      "key": "manak_naam",
+      "label": "Manak Naam",
+      "type": "string"
+    },
+    {
+      "key": "divakaal_naam",
+      "label": "Divakaal Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Africa/Abidjan",
+      "kshetra": "Africa",
+      "shahar": "अबिदजान",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Africa/Accra",
+      "kshetra": "Africa",
+      "shahar": "एक्रा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Africa/Addis_Ababa",
+      "kshetra": "Africa",
+      "shahar": "अदीस अबाबा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Africa/Algiers",
+      "kshetra": "Africa",
+      "shahar": "अल्जीयर्स",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Africa/Asmera",
+      "kshetra": "Africa",
+      "shahar": "अस्मारा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Africa/Bamako",
+      "kshetra": "Africa",
+      "shahar": "बामाको",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Africa/Bangui",
+      "kshetra": "Africa",
+      "shahar": "बांगुइ",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Africa/Banjul",
+      "kshetra": "Africa",
+      "shahar": "बैंजुल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Africa/Bissau",
+      "kshetra": "Africa",
+      "shahar": "बिसाऊ",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Africa/Blantyre",
+      "kshetra": "Africa",
+      "shahar": "ब्लांटायर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Africa/Brazzaville",
+      "kshetra": "Africa",
+      "shahar": "ब्राज़ाविले",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Africa/Bujumbura",
+      "kshetra": "Africa",
+      "shahar": "बुजुंबूरा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Africa/Cairo",
+      "kshetra": "Africa",
+      "shahar": "कायरो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Africa/Casablanca",
+      "kshetra": "Africa",
+      "shahar": "कासाब्लांका",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Africa/Ceuta",
+      "kshetra": "Africa",
+      "shahar": "सेउटा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Africa/Conakry",
+      "kshetra": "Africa",
+      "shahar": "कोनाक्री",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Africa/Dakar",
+      "kshetra": "Africa",
+      "shahar": "डकार",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Africa/Dar_es_Salaam",
+      "kshetra": "Africa",
+      "shahar": "दार अस सलाम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Africa/Djibouti",
+      "kshetra": "Africa",
+      "shahar": "जिबूती",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Africa/Douala",
+      "kshetra": "Africa",
+      "shahar": "डूआला",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Africa/El_Aaiun",
+      "kshetra": "Africa",
+      "shahar": "अल आइयून",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Africa/Freetown",
+      "kshetra": "Africa",
+      "shahar": "फ़्रीटाउन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Africa/Gaborone",
+      "kshetra": "Africa",
+      "shahar": "गाबोरोन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Africa/Harare",
+      "kshetra": "Africa",
+      "shahar": "हरारे",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Africa/Johannesburg",
+      "kshetra": "Africa",
+      "shahar": "जोहांसबर्ग",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Africa/Juba",
+      "kshetra": "Africa",
+      "shahar": "जुबा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Africa/Kampala",
+      "kshetra": "Africa",
+      "shahar": "कंपाला",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Africa/Khartoum",
+      "kshetra": "Africa",
+      "shahar": "खार्तूम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Africa/Kigali",
+      "kshetra": "Africa",
+      "shahar": "किगाली",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Africa/Kinshasa",
+      "kshetra": "Africa",
+      "shahar": "किंशासा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Africa/Lagos",
+      "kshetra": "Africa",
+      "shahar": "लागोस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Africa/Libreville",
+      "kshetra": "Africa",
+      "shahar": "लिब्रेविले",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Africa/Lome",
+      "kshetra": "Africa",
+      "shahar": "लोम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Africa/Luanda",
+      "kshetra": "Africa",
+      "shahar": "लुआंडा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Africa/Lubumbashi",
+      "kshetra": "Africa",
+      "shahar": "लुबुमबाशी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Africa/Lusaka",
+      "kshetra": "Africa",
+      "shahar": "लुसाका",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Africa/Malabo",
+      "kshetra": "Africa",
+      "shahar": "मलाबो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Africa/Maputo",
+      "kshetra": "Africa",
+      "shahar": "मापुटो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Africa/Maseru",
+      "kshetra": "Africa",
+      "shahar": "मासेरू",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Africa/Mbabane",
+      "kshetra": "Africa",
+      "shahar": "एमबाबेन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Africa/Mogadishu",
+      "kshetra": "Africa",
+      "shahar": "मोगादिशु",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Africa/Monrovia",
+      "kshetra": "Africa",
+      "shahar": "मोनरोविया",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Africa/Nairobi",
+      "kshetra": "Africa",
+      "shahar": "नैरोबी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Africa/Ndjamena",
+      "kshetra": "Africa",
+      "shahar": "नेद्जामीना",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Africa/Niamey",
+      "kshetra": "Africa",
+      "shahar": "नियामी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Africa/Nouakchott",
+      "kshetra": "Africa",
+      "shahar": "नौआकशॉट",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Africa/Ouagadougou",
+      "kshetra": "Africa",
+      "shahar": "औगाडोगू",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Africa/Porto-Novo",
+      "kshetra": "Africa",
+      "shahar": "पोर्टो-नोवो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Africa/Sao_Tome",
+      "kshetra": "Africa",
+      "shahar": "साओ टोम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Africa/Tripoli",
+      "kshetra": "Africa",
+      "shahar": "त्रिपोली",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Africa/Tunis",
+      "kshetra": "Africa",
+      "shahar": "ट्यूनिस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Africa/Windhoek",
+      "kshetra": "Africa",
+      "shahar": "विंडहोक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    }
+  ],
+  "meta": {
+    "title": "समय क्षेत्र — Africa (52) - मुफ़्त डाउनलोड",
+    "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Africa/' से आरंभ होता है, हिन्दी नामों सहित। शामिल हैं 52 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "समय क्षेत्र — Africa (52) | ListBase",
+    "seo_description": "डाउनलोड समय क्षेत्र — Africa (52) — 52 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 52 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

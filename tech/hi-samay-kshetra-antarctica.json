@@ -1,0 +1,144 @@
+{
+  "id": "hi-samay-kshetra-antarctica",
+  "name": "समय क्षेत्र — Antarctica (11)",
+  "title": "समय क्षेत्र — Antarctica (11)",
+  "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Antarctica/' से आरंभ होता है, हिन्दी नामों सहित।",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "kshetra",
+      "label": "Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "shahar",
+      "label": "Shahar",
+      "type": "string"
+    },
+    {
+      "key": "manak_naam",
+      "label": "Manak Naam",
+      "type": "string"
+    },
+    {
+      "key": "divakaal_naam",
+      "label": "Divakaal Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Antarctica/Casey",
+      "kshetra": "Antarctica",
+      "shahar": "केसी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Antarctica/Davis",
+      "kshetra": "Antarctica",
+      "shahar": "डेविस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Antarctica/DumontDUrville",
+      "kshetra": "Antarctica",
+      "shahar": "ड्यूमोंट डी अर्विले",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Antarctica/Macquarie",
+      "kshetra": "Antarctica",
+      "shahar": "मक्वारी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Antarctica/Mawson",
+      "kshetra": "Antarctica",
+      "shahar": "मॉसन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Antarctica/McMurdo",
+      "kshetra": "Antarctica",
+      "shahar": "मैकमुर्डो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Antarctica/Palmer",
+      "kshetra": "Antarctica",
+      "shahar": "पॉमर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Antarctica/Rothera",
+      "kshetra": "Antarctica",
+      "shahar": "रोथेरा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Antarctica/Syowa",
+      "kshetra": "Antarctica",
+      "shahar": "स्योवा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Antarctica/Troll",
+      "kshetra": "Antarctica",
+      "shahar": "ट्रोल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Antarctica/Vostok",
+      "kshetra": "Antarctica",
+      "shahar": "वोस्तोक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    }
+  ],
+  "meta": {
+    "title": "समय क्षेत्र — Antarctica (11) - मुफ़्त डाउनलोड",
+    "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Antarctica/' से आरंभ होता है, हिन्दी नामों सहित। शामिल हैं 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "समय क्षेत्र — Antarctica (11) | ListBase",
+    "seo_description": "डाउनलोड समय क्षेत्र — Antarctica (11) — 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 11 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

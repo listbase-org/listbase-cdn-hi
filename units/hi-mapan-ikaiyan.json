@@ -1,0 +1,2140 @@
+{
+  "id": "hi-mapan-ikaiyan",
+  "name": "मापन इकाइयाँ — हिन्दी नाम (CLDR)",
+  "title": "मापन इकाइयाँ — हिन्दी नाम (CLDR)",
+  "description": "CLDR hi लोकेल से मापन इकाइयों की सूची — पूरा नाम (naam), संक्षिप्त संकेत (sanket), संकीर्ण रूप (sankeern) और प्रदर्शन पैटर्न (paitarn) सहित।",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "shreni",
+      "label": "Shreni",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sanket",
+      "label": "Sanket",
+      "type": "string"
+    },
+    {
+      "key": "sankeern",
+      "label": "Sankeern",
+      "type": "string"
+    },
+    {
+      "key": "paitarn",
+      "label": "Paitarn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "shreni": "acceleration",
+      "naam": "गुरुत्व बल",
+      "sanket": "गुरुत्व बल",
+      "sankeern": "गु–बल",
+      "paitarn": "{0} गुरुत्व–बल"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "shreni": "acceleration",
+      "naam": "मीटर/से²",
+      "sanket": "मीटर/से²",
+      "sankeern": "मीटर/से²",
+      "paitarn": "{0} मीटर प्रति सेकंड वर्ग"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "shreni": "angle",
+      "naam": "आर्क मिनट",
+      "sanket": "आर्क मिनट",
+      "sankeern": "आर्क मिनट",
+      "paitarn": "{0} आर्क मिनट"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "shreni": "angle",
+      "naam": "आर्क सेकंड",
+      "sanket": "आर्क सेकंड",
+      "sankeern": "आर्क सेकंड",
+      "paitarn": "{0} आर्क सेकंड"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "shreni": "angle",
+      "naam": "अंश",
+      "sanket": "अंश",
+      "sankeern": "अंश",
+      "paitarn": "{0} अंश"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "shreni": "angle",
+      "naam": "रेडियन",
+      "sanket": "रेडियन",
+      "sankeern": "rad",
+      "paitarn": "{0} रेडियन"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "shreni": "angle",
+      "naam": "घूर्णन",
+      "sanket": "घूर्णन",
+      "sankeern": "r",
+      "paitarn": "{0} घूर्णन"
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "shreni": "angle",
+      "naam": "स्टेरेडियन",
+      "sanket": "sr",
+      "sankeern": "sr",
+      "paitarn": "{0} स्टेरेडियन"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "shreni": "area",
+      "naam": "एकड़",
+      "sanket": "एकड़",
+      "sankeern": "एकड़",
+      "paitarn": "{0} एकड़"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "shreni": "area",
+      "naam": "bu [JP]",
+      "sanket": "bu [JP]",
+      "sankeern": "bu [JP]",
+      "paitarn": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "shreni": "area",
+      "naam": "cho [JP]",
+      "sanket": "cho [JP]",
+      "sankeern": "cho [JP]",
+      "paitarn": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "shreni": "area",
+      "naam": "डोनम",
+      "sanket": "डोनम",
+      "sankeern": "डोनम",
+      "paitarn": "{0} डोनम"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "shreni": "area",
+      "naam": "हेक्टेयर",
+      "sanket": "हेक्टेयर",
+      "sankeern": "हे॰",
+      "paitarn": "{0} हेक्टेयर"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "shreni": "area",
+      "naam": "se [JP]",
+      "sanket": "se [JP]",
+      "sankeern": "se [JP]",
+      "paitarn": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "shreni": "area",
+      "naam": "वर्ग सेंटीमीटर",
+      "sanket": "वर्ग सें॰",
+      "sankeern": "वर्ग सेंमी",
+      "paitarn": "{0} वर्ग सेंटीमीटर"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "shreni": "area",
+      "naam": "वर्गफ़ीट",
+      "sanket": "व॰फ़ी॰",
+      "sankeern": "वर्ग फ़ीट",
+      "paitarn": "{0} वर्गफ़ीट"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "shreni": "area",
+      "naam": "वर्ग इंच",
+      "sanket": "व॰ इं॰",
+      "sankeern": "वर्ग इंच",
+      "paitarn": "{0} वर्ग इंच"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "shreni": "area",
+      "naam": "वर्ग किलोमीटर",
+      "sanket": "वर्ग कि॰मी॰",
+      "sankeern": "वर्ग किमी",
+      "paitarn": "{0} वर्ग किलोमीटर"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "shreni": "area",
+      "naam": "वर्ग मीटर",
+      "sanket": "वर्ग मीटर",
+      "sankeern": "वर्ग मी",
+      "paitarn": "{0} वर्ग मीटर"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "shreni": "area",
+      "naam": "वर्ग मील",
+      "sanket": "वर्ग मील",
+      "sankeern": "वर्ग मील",
+      "paitarn": "{0} वर्ग मील"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "shreni": "area",
+      "naam": "वर्ग गज",
+      "sanket": "व॰ ग॰",
+      "sankeern": "वर्ग गज़",
+      "paitarn": "{0} वर्ग गज"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "shreni": "concentr",
+      "naam": "आइटम",
+      "sanket": "आइटम",
+      "sankeern": "आइटम",
+      "paitarn": "{0} आइटम"
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "shreni": "concentr",
+      "naam": "कैरट",
+      "sanket": "कैरट",
+      "sankeern": "कैरट",
+      "paitarn": "{0} कैरट"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "shreni": "concentr",
+      "naam": "कैटाल",
+      "sanket": "kat",
+      "sankeern": "kat",
+      "paitarn": "{0} कैटाल"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "shreni": "concentr",
+      "naam": "मिलीग्राम प्रति डेसीलीटर",
+      "sanket": "मि॰ग्रा॰/डे॰ली॰",
+      "sankeern": "मि॰ग्रा॰/डे॰ली॰",
+      "paitarn": "{0} मिलीग्राम प्रति डेसीलीटर"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "shreni": "concentr",
+      "naam": "मिलीमोल प्रति लीटर",
+      "sanket": "मिलीमोल/लीटर",
+      "sankeern": "मिलीमोल/लीटर",
+      "paitarn": "{0} मिलीमोल प्रति लीटर"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "shreni": "concentr",
+      "naam": "मोल",
+      "sanket": "मोल",
+      "sankeern": "मोल",
+      "paitarn": "{0} मोल"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "shreni": "concentr",
+      "naam": "ग्लूकोज़",
+      "sanket": "Glc",
+      "sankeern": "Glc",
+      "paitarn": "{0} ग्लूकोज़"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "shreni": "concentr",
+      "naam": "भाग",
+      "sanket": "भाग",
+      "sankeern": "भाग",
+      "paitarn": "{0} भागों"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "shreni": "concentr",
+      "naam": "हिस्सा प्रति दस लाख",
+      "sanket": "हिस्सा प्रति दस लाख",
+      "sankeern": "ppm",
+      "paitarn": "{0} हिस्सा प्रति दस लाख"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "shreni": "concentr",
+      "naam": "पार्ट्स प्रति बिलियन",
+      "sanket": "पार्ट्स/बिलियन",
+      "sankeern": "पार्ट्स/बिलियन",
+      "paitarn": "{0} पार्ट्स प्रति बिलियन"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "shreni": "concentr",
+      "naam": "प्रतिशत",
+      "sanket": "प्रतिशत",
+      "sankeern": "%",
+      "paitarn": "{0} प्रतिशत"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "shreni": "concentr",
+      "naam": "प्रति हज़ार",
+      "sanket": "प्रति हज़ार",
+      "sankeern": "प्रति हज़ार",
+      "paitarn": "{0} प्रति हज़ार"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "shreni": "concentr",
+      "naam": "प्रति दस हज़ार",
+      "sanket": "‱",
+      "sankeern": "‱",
+      "paitarn": "{0} प्रति दस हज़ार"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "shreni": "consumption",
+      "naam": "लीटर प्रति 100 किलोमीटर",
+      "sanket": "ली॰/100 कि॰मी॰",
+      "sankeern": "ली॰/100 कि॰मी॰",
+      "paitarn": "{0} लीटर प्रति 100 किलोमीटर"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "shreni": "consumption",
+      "naam": "लीटर प्रति किलोमीटर",
+      "sanket": "लीटर/किमी",
+      "sankeern": "लीटर/किमी",
+      "paitarn": "{0} लीटर प्रति किलोमीटर"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "shreni": "consumption",
+      "naam": "मील प्रति गैलन",
+      "sanket": "मील/गैलन",
+      "sankeern": "मील/गैलन",
+      "paitarn": "{0} मील प्रति गैलन"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "shreni": "consumption",
+      "naam": "मील प्रति इंपीरियल गैलन",
+      "sanket": "mpg इंपीरियल",
+      "sankeern": "mpg इंपीरियल",
+      "paitarn": "{0} मील प्रति इंपीरियल गैलन"
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "shreni": "digital",
+      "naam": "बिट",
+      "sanket": "बिट",
+      "sankeern": "बिट",
+      "paitarn": "{0} बिट"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "shreni": "digital",
+      "naam": "बाइट",
+      "sanket": "बाइट",
+      "sankeern": "बाइट",
+      "paitarn": "{0} बाइट"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "shreni": "digital",
+      "naam": "गीगाबिट",
+      "sanket": "Gb",
+      "sankeern": "Gb",
+      "paitarn": "{0} गीगाबिट"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "shreni": "digital",
+      "naam": "गीगाबाइट",
+      "sanket": "GB",
+      "sankeern": "GB",
+      "paitarn": "{0} गीगाबाइट"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "shreni": "digital",
+      "naam": "किलोबिट",
+      "sanket": "kb",
+      "sankeern": "kb",
+      "paitarn": "{0} किलोबिट"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "shreni": "digital",
+      "naam": "किलोबाइट",
+      "sanket": "kB",
+      "sankeern": "kB",
+      "paitarn": "{0} किलोबाइट"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "shreni": "digital",
+      "naam": "मेगाबिट",
+      "sanket": "Mb",
+      "sankeern": "Mb",
+      "paitarn": "{0} मेगाबिट"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "shreni": "digital",
+      "naam": "मेगाबाइट",
+      "sanket": "MB",
+      "sankeern": "MB",
+      "paitarn": "{0} मेगाबाइट"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "shreni": "digital",
+      "naam": "पेटाबाइट",
+      "sanket": "पेटाबाइट",
+      "sankeern": "PB",
+      "paitarn": "{0} पेटाबाइट"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "shreni": "digital",
+      "naam": "टेराबिट",
+      "sanket": "Tb",
+      "sankeern": "Tb",
+      "paitarn": "{0} टेराबिट"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "shreni": "digital",
+      "naam": "टेराबाइट",
+      "sanket": "TB",
+      "sankeern": "TB",
+      "paitarn": "{0} टेराबाइट"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "shreni": "duration",
+      "naam": "शताब्दियाँ",
+      "sanket": "शता",
+      "sankeern": "श",
+      "paitarn": "{0} शताब्दियाँ"
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "shreni": "duration",
+      "naam": "दिन",
+      "sanket": "दिन",
+      "sankeern": "दिन",
+      "paitarn": "{0} दिन"
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-decade",
+      "shreni": "duration",
+      "naam": "दशकों",
+      "sanket": "दश.",
+      "sankeern": "दश.",
+      "paitarn": "{0} दशकों"
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-fortnight",
+      "shreni": "duration",
+      "naam": "fortnight",
+      "sanket": "fortnight",
+      "sankeern": "fortnight",
+      "paitarn": "{0} fw"
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-hour",
+      "shreni": "duration",
+      "naam": "घंटे",
+      "sanket": "घंटे",
+      "sankeern": "घंटा",
+      "paitarn": "{0} घंटे"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-microsecond",
+      "shreni": "duration",
+      "naam": "माइक्रोसेकंड",
+      "sanket": "माइक्रोसेकंड",
+      "sankeern": "μs",
+      "paitarn": "{0} माइक्रोसेकंड"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-millisecond",
+      "shreni": "duration",
+      "naam": "मिलीसेकंड",
+      "sanket": "मिलीसेकंड",
+      "sankeern": "मि॰से॰",
+      "paitarn": "{0} मिलीसेकंड"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-minute",
+      "shreni": "duration",
+      "naam": "मिनट",
+      "sanket": "मिनट",
+      "sankeern": "मिनट",
+      "paitarn": "{0} मिनट"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-month",
+      "shreni": "duration",
+      "naam": "महीना",
+      "sanket": "माह",
+      "sankeern": "माह",
+      "paitarn": "{0} महीने"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-nanosecond",
+      "shreni": "duration",
+      "naam": "नैनो सेकंड",
+      "sanket": "नैनो से॰",
+      "sankeern": "ns",
+      "paitarn": "{0} नैनो सेकंड"
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-night",
+      "shreni": "duration",
+      "naam": "रातें",
+      "sanket": "रातें",
+      "sankeern": "रातें",
+      "paitarn": "{0} रातें"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-quarter",
+      "shreni": "duration",
+      "naam": "तिमाही",
+      "sanket": "तिमा",
+      "sankeern": "तिमा",
+      "paitarn": "{0} तिमाहियां"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-second",
+      "shreni": "duration",
+      "naam": "सेकंड",
+      "sanket": "सेकंड",
+      "sankeern": "सेकंड",
+      "paitarn": "{0} सेकंड"
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-week",
+      "shreni": "duration",
+      "naam": "सप्ताह",
+      "sanket": "सप्ताह",
+      "sankeern": "सप्ताह",
+      "paitarn": "{0} सप्ताह"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-year",
+      "shreni": "duration",
+      "naam": "वर्ष",
+      "sanket": "वर्ष",
+      "sankeern": "वर्ष",
+      "paitarn": "{0} वर्ष"
+    },
+    {
+      "id": 65,
+      "unit_code": "electric-ampere",
+      "shreni": "electric",
+      "naam": "एम्पीयर",
+      "sanket": "एम्पी॰",
+      "sankeern": "एम्पी॰",
+      "paitarn": "{0} एम्पीयर"
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-coulomb",
+      "shreni": "electric",
+      "naam": "कूलाम",
+      "sanket": "C",
+      "sankeern": "C",
+      "paitarn": "{0} कूलाम"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-farad",
+      "shreni": "electric",
+      "naam": "फैरड",
+      "sanket": "F",
+      "sankeern": "F",
+      "paitarn": "{0} फैरड"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-henry",
+      "shreni": "electric",
+      "naam": "हेनरी",
+      "sanket": "H",
+      "sankeern": "H",
+      "paitarn": "{0} हेनरी"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-milliampere",
+      "shreni": "electric",
+      "naam": "मिली एम्‍पीयर",
+      "sanket": "मि॰ ए॰",
+      "sankeern": "मि॰ ए॰",
+      "paitarn": "{0} मिली एम्‍पीयर"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-ohm",
+      "shreni": "electric",
+      "naam": "ओम",
+      "sanket": "ओम",
+      "sankeern": "ओम",
+      "paitarn": "{0} ओम"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-siemens",
+      "shreni": "electric",
+      "naam": "सीमेंस",
+      "sanket": "S",
+      "sankeern": "S",
+      "paitarn": "{0} सीमेंस"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-volt",
+      "shreni": "electric",
+      "naam": "वोल्ट",
+      "sanket": "वोल्ट",
+      "sankeern": "वोल्ट",
+      "paitarn": "{0} वोल्ट"
+    },
+    {
+      "id": 73,
+      "unit_code": "energy-becquerel",
+      "shreni": "energy",
+      "naam": "becquerels",
+      "sanket": "Bq",
+      "sankeern": "Bq",
+      "paitarn": "{0} becquerels"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-british-thermal-unit",
+      "shreni": "energy",
+      "naam": "ब्रिटिश थर्मल यूनिट",
+      "sanket": "Btu",
+      "sankeern": "Btu",
+      "paitarn": "{0} ब्रिटिश थर्मल यूनिट"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit-it",
+      "shreni": "energy",
+      "naam": "BTU-IT",
+      "sanket": "BTU-IT",
+      "sankeern": "BTU-IT",
+      "paitarn": "{0} BTU-IT"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-calorie",
+      "shreni": "energy",
+      "naam": "कैलोरी",
+      "sanket": "cal",
+      "sankeern": "cal",
+      "paitarn": "{0} कैलोरी"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie-it",
+      "shreni": "energy",
+      "naam": "calories [IT]",
+      "sanket": "cal-IT",
+      "sankeern": "cal-IT",
+      "paitarn": "{0} calories [IT]"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-electronvolt",
+      "shreni": "energy",
+      "naam": "इलेक्ट्रॉनवोल्ट",
+      "sanket": "eV",
+      "sankeern": "eV",
+      "paitarn": "{0} इलेक्ट्रॉनवोल्ट"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-foodcalorie",
+      "shreni": "energy",
+      "naam": "कैलोरी",
+      "sanket": "कैलोरी",
+      "sankeern": "कैलोरी",
+      "paitarn": "{0} कैलोरी"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-gray",
+      "shreni": "energy",
+      "naam": "grays",
+      "sanket": "Gy",
+      "sankeern": "Gy",
+      "paitarn": "{0} grays"
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-joule",
+      "shreni": "energy",
+      "naam": "जूल",
+      "sanket": "जूल",
+      "sankeern": "जूल",
+      "paitarn": "{0} जूल"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-kilocalorie",
+      "shreni": "energy",
+      "naam": "किलो कैलोरी",
+      "sanket": "kcal",
+      "sankeern": "kcal",
+      "paitarn": "{0} किलो कैलोरी"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilojoule",
+      "shreni": "energy",
+      "naam": "किलो जूल",
+      "sanket": "किलो जूल",
+      "sankeern": "किलो जूल",
+      "paitarn": "{0} किलो जूल"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilowatt-hour",
+      "shreni": "energy",
+      "naam": "किलोवॉट घंटे",
+      "sanket": "kWh",
+      "sankeern": "kWh",
+      "paitarn": "{0} किलोवॉट घंटे"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-sievert",
+      "shreni": "energy",
+      "naam": "sieverts",
+      "sanket": "Sv",
+      "sankeern": "Sv",
+      "paitarn": "{0} sieverts"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-therm-us",
+      "shreni": "energy",
+      "naam": "यूएस थेर्म",
+      "sanket": "यूएस थेर्म",
+      "sankeern": "यूएस थेर्म",
+      "paitarn": "{0} यूएस थेर्म"
+    },
+    {
+      "id": 87,
+      "unit_code": "force-kilogram-force",
+      "shreni": "force",
+      "naam": "किलोग्राम-फ़ोर्स",
+      "sanket": "kgf",
+      "sankeern": "kgf",
+      "paitarn": "{0} किलोग्राम-फ़ोर्स"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "shreni": "force",
+      "naam": "kWh/100km",
+      "sanket": "kWh/100km",
+      "sankeern": "kWh/100km",
+      "paitarn": "{0} kWh/100km"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-newton",
+      "shreni": "force",
+      "naam": "न्यूटन",
+      "sanket": "न्यू॰",
+      "sankeern": "न्यू॰",
+      "paitarn": "{0} न्यूटन"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-pound-force",
+      "shreni": "force",
+      "naam": "पाउंड-बल",
+      "sanket": "lbf",
+      "sankeern": "lbf",
+      "paitarn": "{0} पाउंड-बल"
+    },
+    {
+      "id": 91,
+      "unit_code": "frequency-gigahertz",
+      "shreni": "frequency",
+      "naam": "गीगाहर्ट्ज़",
+      "sanket": "GHz",
+      "sankeern": "GHz",
+      "paitarn": "{0} गीगाहर्ट्ज़"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-hertz",
+      "shreni": "frequency",
+      "naam": "हर्ट्ज़",
+      "sanket": "Hz",
+      "sankeern": "Hz",
+      "paitarn": "{0} हर्ट्ज़"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-kilohertz",
+      "shreni": "frequency",
+      "naam": "किलोहर्ट्ज़",
+      "sanket": "kHz",
+      "sankeern": "kHz",
+      "paitarn": "{0} किलोहर्ट्ज़"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-megahertz",
+      "shreni": "frequency",
+      "naam": "मेगाहर्ट्ज़",
+      "sanket": "MHz",
+      "sankeern": "MHz",
+      "paitarn": "{0} मेगाहर्ट्ज़"
+    },
+    {
+      "id": 95,
+      "unit_code": "graphics-dot",
+      "shreni": "graphics",
+      "naam": "बिंदु",
+      "sanket": "बिंदु",
+      "sankeern": "बिंदु",
+      "paitarn": "{0} बिंदु"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot-per-centimeter",
+      "shreni": "graphics",
+      "naam": "बिंदु प्रति सेंटीमीटर",
+      "sanket": "बिं॰/सें॰मी॰",
+      "sankeern": "dpcm",
+      "paitarn": "{0} बिंदु प्रति सेंटीमीटर"
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-inch",
+      "shreni": "graphics",
+      "naam": "बिंदु प्रति इंच",
+      "sanket": "dpi",
+      "sankeern": "dpi",
+      "paitarn": "{0} बिंदु प्रति इंच"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-em",
+      "shreni": "graphics",
+      "naam": "टाइपोग्राफ़िक एम",
+      "sanket": "em",
+      "sankeern": "em",
+      "paitarn": "{0} em"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-megapixel",
+      "shreni": "graphics",
+      "naam": "मेगापिक्सेल",
+      "sanket": "मेगापिक्सेल",
+      "sankeern": "MP",
+      "paitarn": "{0} मेगापिक्सेल"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-pixel",
+      "shreni": "graphics",
+      "naam": "पिक्सेल",
+      "sanket": "पिक्सेल",
+      "sankeern": "px",
+      "paitarn": "{0} पिक्सेल"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "shreni": "graphics",
+      "naam": "पिक्सेल प्रति सेंटीमीटर",
+      "sanket": "ppcm",
+      "sankeern": "ppcm",
+      "paitarn": "{0} पिक्सेल प्रति सेंटीमीटर"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-inch",
+      "shreni": "graphics",
+      "naam": "पिक्सेल प्रति इंच",
+      "sanket": "ppi",
+      "sankeern": "ppi",
+      "paitarn": "{0} पिक्सेल प्रति इंच"
+    },
+    {
+      "id": 103,
+      "unit_code": "length-astronomical-unit",
+      "shreni": "length",
+      "naam": "खगोलीय इकाइयाँ",
+      "sanket": "खगो॰ इका॰",
+      "sankeern": "au",
+      "paitarn": "{0} खगोलीय इकाईयां"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-centimeter",
+      "shreni": "length",
+      "naam": "सेंटीमीटर",
+      "sanket": "सें॰मी॰",
+      "sankeern": "सें॰मी॰",
+      "paitarn": "{0} सेंटीमीटर"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-chain",
+      "shreni": "length",
+      "naam": "chain",
+      "sanket": "chain",
+      "sankeern": "chain",
+      "paitarn": "{0} chain"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-decimeter",
+      "shreni": "length",
+      "naam": "डेसीमीटर",
+      "sanket": "डे॰मी॰",
+      "sankeern": "डेमी",
+      "paitarn": "{0} डेसीमीटर"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-earth-radius",
+      "shreni": "length",
+      "naam": "पृथ्वी की त्रिज्या",
+      "sanket": "R⊕",
+      "sankeern": "R⊕",
+      "paitarn": "{0} पृथ्वी की त्रिज्या"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-fathom",
+      "shreni": "length",
+      "naam": "फ़ैदम",
+      "sanket": "फ़ैदम",
+      "sankeern": "फ़ैदम",
+      "paitarn": "{0} फ़ैदम"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-foot",
+      "shreni": "length",
+      "naam": "फ़ीट",
+      "sanket": "फ़ीट",
+      "sankeern": "फ़ीट",
+      "paitarn": "{0} फ़ीट"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-furlong",
+      "shreni": "length",
+      "naam": "फ़र्लांग",
+      "sanket": "फ़र्लांग",
+      "sankeern": "फ़र्लांग",
+      "paitarn": "{0} फ़र्लांग"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-inch",
+      "shreni": "length",
+      "naam": "इंच",
+      "sanket": "इंच",
+      "sankeern": "इंच",
+      "paitarn": "{0} इंच"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-jo-jp",
+      "shreni": "length",
+      "naam": "jo [JP]",
+      "sanket": "jo [JP]",
+      "sankeern": "jo [JP]",
+      "paitarn": "{0} jo [JP]"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-ken",
+      "shreni": "length",
+      "naam": "ken [JP]",
+      "sanket": "ken [JP]",
+      "sankeern": "ken [JP]",
+      "paitarn": "{0} ken [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-kilometer",
+      "shreni": "length",
+      "naam": "किलोमीटर",
+      "sanket": "कि॰मी॰",
+      "sankeern": "किमी",
+      "paitarn": "{0} किलोमीटर"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-light-year",
+      "shreni": "length",
+      "naam": "प्रकाश वर्ष",
+      "sanket": "प्रकाश वर्ष",
+      "sankeern": "प्रव",
+      "paitarn": "{0} प्रकाश वर्ष"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-meter",
+      "shreni": "length",
+      "naam": "मीटर",
+      "sanket": "मीटर",
+      "sankeern": "मीटर",
+      "paitarn": "{0} मीटर"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-micrometer",
+      "shreni": "length",
+      "naam": "माइक्रोमीटर",
+      "sanket": "μ मा॰मी॰",
+      "sankeern": "μm",
+      "paitarn": "{0} माइक्रोमीटर"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-mile",
+      "shreni": "length",
+      "naam": "मील",
+      "sanket": "मील",
+      "sankeern": "मील",
+      "paitarn": "{0} मील"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile-scandinavian",
+      "shreni": "length",
+      "naam": "मील-स्कैण्डिनेवियन",
+      "sanket": "smi",
+      "sankeern": "smi",
+      "paitarn": "{0} मील-स्कैण्डिनेवियन"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-millimeter",
+      "shreni": "length",
+      "naam": "मिलीमीटर",
+      "sanket": "मि॰मी॰",
+      "sankeern": "मि॰मी॰",
+      "paitarn": "{0} मिलीमीटर"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-nanometer",
+      "shreni": "length",
+      "naam": "नैनोमीटर",
+      "sanket": "नै॰मी॰",
+      "sankeern": "nm",
+      "paitarn": "{0} नैनोमीटर"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nautical-mile",
+      "shreni": "length",
+      "naam": "नॉटिकल मील",
+      "sanket": "नॉ॰ मी॰",
+      "sankeern": "nmi",
+      "paitarn": "{0} नॉटिकल मील"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-parsec",
+      "shreni": "length",
+      "naam": "पार्सेक",
+      "sanket": "पार्सेक",
+      "sankeern": "पार्सेक",
+      "paitarn": "{0} पार्सेक"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-picometer",
+      "shreni": "length",
+      "naam": "पिकोमीटर",
+      "sanket": "पि॰मी॰",
+      "sankeern": "pm",
+      "paitarn": "{0} पिकोमीटर"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-point",
+      "shreni": "length",
+      "naam": "pt",
+      "sanket": "pt",
+      "sankeern": "pt",
+      "paitarn": "{0} pt"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-ri-jp",
+      "shreni": "length",
+      "naam": "ri [JP]",
+      "sanket": "ri [JP]",
+      "sankeern": "ri [JP]",
+      "paitarn": "{0} ri [JP]"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-rin",
+      "shreni": "length",
+      "naam": "rin [JP]",
+      "sanket": "rin [JP]",
+      "sankeern": "rin [JP]",
+      "paitarn": "{0} rin [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rod",
+      "shreni": "length",
+      "naam": "rod",
+      "sanket": "rod",
+      "sankeern": "rod",
+      "paitarn": "{0} rod"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-shaku-cloth",
+      "shreni": "length",
+      "naam": "shaku [cloth, JP]",
+      "sanket": "shaku [cloth, JP]",
+      "sankeern": "shaku [cloth, JP]",
+      "paitarn": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-length",
+      "shreni": "length",
+      "naam": "shaku [JP]",
+      "sanket": "shaku [JP]",
+      "sankeern": "shaku [JP]",
+      "paitarn": "{0} shaku [JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-solar-radius",
+      "shreni": "length",
+      "naam": "सौर अर्धव्यास",
+      "sanket": "R☉",
+      "sankeern": "R☉",
+      "paitarn": "{0} सौर अर्धव्यास"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-sun",
+      "shreni": "length",
+      "naam": "sun [JP]",
+      "sanket": "sun [JP]",
+      "sankeern": "sun [JP]",
+      "paitarn": "{0} sun [JP]"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-yard",
+      "shreni": "length",
+      "naam": "यार्ड",
+      "sanket": "गज़",
+      "sankeern": "गज़",
+      "paitarn": "{0} गज़"
+    },
+    {
+      "id": 134,
+      "unit_code": "light-candela",
+      "shreni": "light",
+      "naam": "कैन्डेला",
+      "sanket": "cd",
+      "sankeern": "cd",
+      "paitarn": "{0} कैन्डेला"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-lumen",
+      "shreni": "light",
+      "naam": "लुमेन",
+      "sanket": "lm",
+      "sankeern": "lm",
+      "paitarn": "{0} लुमेन"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lux",
+      "shreni": "light",
+      "naam": "लक्स",
+      "sanket": "लक्स",
+      "sankeern": "लक्स",
+      "paitarn": "{0} लक्स"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-solar-luminosity",
+      "shreni": "light",
+      "naam": "सौर ज्योति",
+      "sanket": "L☉",
+      "sankeern": "L☉",
+      "paitarn": "{0} सौर ज्योति"
+    },
+    {
+      "id": 138,
+      "unit_code": "magnetic-tesla",
+      "shreni": "magnetic",
+      "naam": "टेस्ला",
+      "sanket": "T",
+      "sankeern": "T",
+      "paitarn": "{0} टेस्ला"
+    },
+    {
+      "id": 139,
+      "unit_code": "magnetic-weber",
+      "shreni": "magnetic",
+      "naam": "वेबर",
+      "sanket": "Wb",
+      "sankeern": "Wb",
+      "paitarn": "{0} वेबर"
+    },
+    {
+      "id": 140,
+      "unit_code": "mass-carat",
+      "shreni": "mass",
+      "naam": "कैरेट",
+      "sanket": "कै॰",
+      "sankeern": "कै॰",
+      "paitarn": "{0} कैरेट"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-dalton",
+      "shreni": "mass",
+      "naam": "डाल्टन",
+      "sanket": "डाल्टन",
+      "sankeern": "डाल्टन",
+      "paitarn": "{0} डाल्टन"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-earth-mass",
+      "shreni": "mass",
+      "naam": "पृथ्वी द्रव्यमान",
+      "sanket": "M⊕",
+      "sankeern": "M⊕",
+      "paitarn": "{0} पृथ्वी द्रव्यमान"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-fun",
+      "shreni": "mass",
+      "naam": "fun [JP]",
+      "sanket": "fun [JP]",
+      "sankeern": "fun [JP]",
+      "paitarn": "{0} fun [JP]"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-grain",
+      "shreni": "mass",
+      "naam": "डेढ़ रत्ती",
+      "sanket": "डे. रत्ती",
+      "sankeern": "डे. रत्ती",
+      "paitarn": "{0} डेढ़ रत्ती"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-gram",
+      "shreni": "mass",
+      "naam": "ग्राम",
+      "sanket": "ग्राम",
+      "sankeern": "ग्राम",
+      "paitarn": "{0} ग्राम"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-kilogram",
+      "shreni": "mass",
+      "naam": "किलोग्राम",
+      "sanket": "कि॰ग्रा॰",
+      "sankeern": "कि॰ग्रा॰",
+      "paitarn": "{0} किलोग्राम"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-microgram",
+      "shreni": "mass",
+      "naam": "माइक्रोग्राम",
+      "sanket": "मा॰ग्रा॰",
+      "sankeern": "मा॰ग्रा॰",
+      "paitarn": "{0} माइक्रोग्राम"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-milligram",
+      "shreni": "mass",
+      "naam": "मिलीग्राम",
+      "sanket": "मि॰ग्रा॰",
+      "sankeern": "मिग्रा",
+      "paitarn": "{0} मिलीग्राम"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-ounce",
+      "shreni": "mass",
+      "naam": "औंस",
+      "sanket": "औंस",
+      "sankeern": "औंस",
+      "paitarn": "{0} औंस"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce-troy",
+      "shreni": "mass",
+      "naam": "ट्राई औंस",
+      "sanket": "ट्राई औंस",
+      "sankeern": "ट्राई औंस",
+      "paitarn": "{0} ट्राई औंस"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-pound",
+      "shreni": "mass",
+      "naam": "पौंड",
+      "sanket": "पौंड",
+      "sankeern": "पौंड",
+      "paitarn": "{0} पौंड"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-slug",
+      "shreni": "mass",
+      "naam": "slug",
+      "sanket": "slug",
+      "sankeern": "slug",
+      "paitarn": "{0} slug"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-solar-mass",
+      "shreni": "mass",
+      "naam": "सौर द्रव्यमान",
+      "sanket": "M☉",
+      "sankeern": "M☉",
+      "paitarn": "{0} सौर द्रव्यमान"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-stone",
+      "shreni": "mass",
+      "naam": "14 पौंड का बट्टा",
+      "sanket": "14 पौ. का बट्टा",
+      "sankeern": "14 पौ. का बट्टा",
+      "paitarn": "{0} 14 पौंड का बट्टा"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-ton",
+      "shreni": "mass",
+      "naam": "टन",
+      "sanket": "टन",
+      "sankeern": "टन",
+      "paitarn": "{0} टन"
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-tonne",
+      "shreni": "mass",
+      "naam": "मीट्रिक टन",
+      "sanket": "मीट्रिक टन",
+      "sankeern": "मीट्रिक टन",
+      "paitarn": "{0} मीट्रिक टन"
+    },
+    {
+      "id": 157,
+      "unit_code": "power-gigawatt",
+      "shreni": "power",
+      "naam": "गिगावॉट",
+      "sanket": "GW",
+      "sankeern": "GW",
+      "paitarn": "{0} गिगावॉट"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-horsepower",
+      "shreni": "power",
+      "naam": "अश्वशक्ति",
+      "sanket": "hp",
+      "sankeern": "hp",
+      "paitarn": "{0} अश्वशक्ति"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-kilowatt",
+      "shreni": "power",
+      "naam": "किलोवॉट",
+      "sanket": "kW",
+      "sankeern": "kW",
+      "paitarn": "{0} किलोवॉट"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-megawatt",
+      "shreni": "power",
+      "naam": "मेगावॉट",
+      "sanket": "MW",
+      "sankeern": "MW",
+      "paitarn": "{0} मेगावॉट"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-milliwatt",
+      "shreni": "power",
+      "naam": "मिलीवॉट",
+      "sanket": "mW",
+      "sankeern": "mW",
+      "paitarn": "{0} मिलीवॉट"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-watt",
+      "shreni": "power",
+      "naam": "वॉट",
+      "sanket": "वॉट",
+      "sankeern": "वॉट",
+      "paitarn": "{0} वॉट"
+    },
+    {
+      "id": 163,
+      "unit_code": "pressure-atmosphere",
+      "shreni": "pressure",
+      "naam": "वायुमण्डलीय दबाव",
+      "sanket": "atm",
+      "sankeern": "atm",
+      "paitarn": "{0} वायुमंडलीय दबाव"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-bar",
+      "shreni": "pressure",
+      "naam": "बार",
+      "sanket": "बार",
+      "sankeern": "बार",
+      "paitarn": "{0} बार"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-gasoline-energy-density",
+      "shreni": "pressure",
+      "naam": "gas E",
+      "sanket": "gas E",
+      "sankeern": "gas E",
+      "paitarn": "{0} gas E"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-hectopascal",
+      "shreni": "pressure",
+      "naam": "हेक्टोपास्कल",
+      "sanket": "hPa",
+      "sankeern": "hPa",
+      "paitarn": "{0} हेक्टोपास्कल"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-inch-ofhg",
+      "shreni": "pressure",
+      "naam": "मर्क्यूरी इंच",
+      "sanket": "inHg",
+      "sankeern": "″ Hg",
+      "paitarn": "{0} मर्क्यूरी इंच"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-kilopascal",
+      "shreni": "pressure",
+      "naam": "किलोपास्कल",
+      "sanket": "किपा॰",
+      "sankeern": "किपा॰",
+      "paitarn": "{0} किलोपास्कल"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-megapascal",
+      "shreni": "pressure",
+      "naam": "मेगापास्कल",
+      "sanket": "मेपा॰",
+      "sankeern": "मेपा॰",
+      "paitarn": "{0} मेगापास्कल"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-millibar",
+      "shreni": "pressure",
+      "naam": "मिलीबार",
+      "sanket": "mbar",
+      "sankeern": "mbar",
+      "paitarn": "{0} मिलीबार"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millimeter-ofhg",
+      "shreni": "pressure",
+      "naam": "मर्क्यूरी मिलीमीटर",
+      "sanket": "mm Hg",
+      "sankeern": "mm Hg",
+      "paitarn": "{0} मर्क्यूरी मिलीमीटर"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-ofhg",
+      "shreni": "pressure",
+      "naam": "मर्क्यूरी",
+      "sanket": "Hg",
+      "sankeern": "Hg",
+      "paitarn": "{0} मर्क्यूरी"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-pascal",
+      "shreni": "pressure",
+      "naam": "पास्कल",
+      "sanket": "पा॰",
+      "sankeern": "पा॰",
+      "paitarn": "{0} पास्कल"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "shreni": "pressure",
+      "naam": "पाउंड प्रति वर्ग इंच",
+      "sanket": "psi",
+      "sankeern": "psi",
+      "paitarn": "{0} पाउंड प्रति वर्ग इंच"
+    },
+    {
+      "id": 175,
+      "unit_code": "speed-beaufort",
+      "shreni": "speed",
+      "naam": "ब्यूफ़ोर्ट",
+      "sanket": "ब्यूफ़ोर्ट",
+      "sankeern": "ब्यूफ़ोर्ट",
+      "paitarn": "ब्यूफ़ोर्ट {0}"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-kilometer-per-hour",
+      "shreni": "speed",
+      "naam": "किलोमीटर प्रति घंटा",
+      "sanket": "कि॰मी॰/घं॰",
+      "sankeern": "कि॰मी॰/घं॰",
+      "paitarn": "{0} किलोमीटर प्रति घंटा"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-knot",
+      "shreni": "speed",
+      "naam": "नॉट",
+      "sanket": "नॉट",
+      "sankeern": "नॉट",
+      "paitarn": "{0} नॉट"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-light-speed",
+      "shreni": "speed",
+      "naam": "लाइट",
+      "sanket": "लाइट",
+      "sankeern": "लाइट",
+      "paitarn": "{0} लाइट"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-meter-per-second",
+      "shreni": "speed",
+      "naam": "मीटर प्रति सेकंड",
+      "sanket": "मीटर/से॰",
+      "sankeern": "मीटर/से॰",
+      "paitarn": "{0} मीटर प्रति सेकंड"
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-mile-per-hour",
+      "shreni": "speed",
+      "naam": "मील प्रति घंटा",
+      "sanket": "मील/घंटा",
+      "sankeern": "मील/घंटा",
+      "paitarn": "{0} मील प्रति घंटा"
+    },
+    {
+      "id": 181,
+      "unit_code": "temperature-celsius",
+      "shreni": "temperature",
+      "naam": "डिग्री सेल्सियस",
+      "sanket": "डिग्री सेल्सियस",
+      "sankeern": "°से॰",
+      "paitarn": "{0} डिग्री सेल्सियस"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-fahrenheit",
+      "shreni": "temperature",
+      "naam": "डिग्री फ़ेरनहाइट",
+      "sanket": "डिग्री फ़ेरनहाइट",
+      "sankeern": "डिग्री फ़ेरनहाइट",
+      "paitarn": "{0} डिग्री फ़ेरनहाइट"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-generic",
+      "shreni": "temperature",
+      "naam": "°",
+      "sanket": "°",
+      "sankeern": "°",
+      "paitarn": "{0}°"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-kelvin",
+      "shreni": "temperature",
+      "naam": "केल्विन",
+      "sanket": "K",
+      "sankeern": "K",
+      "paitarn": "{0} केल्विन"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-rankine",
+      "shreni": "temperature",
+      "naam": "°R",
+      "sanket": "°R",
+      "sankeern": "°R",
+      "paitarn": "{0} °R"
+    },
+    {
+      "id": 186,
+      "unit_code": "torque-newton-meter",
+      "shreni": "torque",
+      "naam": "न्यूटन-मीटर",
+      "sanket": "न्यू॰मी॰",
+      "sankeern": "न्यू॰मी॰",
+      "paitarn": "{0} न्यूटन-मीटर"
+    },
+    {
+      "id": 187,
+      "unit_code": "torque-pound-force-foot",
+      "shreni": "torque",
+      "naam": "पाउंड-फ़ुट",
+      "sanket": "lbf⋅ft",
+      "sankeern": "lbf⋅ft",
+      "paitarn": "{0} पाउंड-फ़ुट"
+    },
+    {
+      "id": 188,
+      "unit_code": "volume-acre-foot",
+      "shreni": "volume",
+      "naam": "एकड़ फ़ीट",
+      "sanket": "एकड़ फ़ीट",
+      "sankeern": "एकड़ फ़ीट",
+      "paitarn": "{0} एकड़ फ़ीट"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-barrel",
+      "shreni": "volume",
+      "naam": "बैरल",
+      "sanket": "बैरल",
+      "sankeern": "बैरल",
+      "paitarn": "{0} बैरल"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-bushel",
+      "shreni": "volume",
+      "naam": "बुशल",
+      "sanket": "बुशल",
+      "sankeern": "बु",
+      "paitarn": "{0} बुशल"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-centiliter",
+      "shreni": "volume",
+      "naam": "सेंटीलीटर",
+      "sanket": "सें॰ली॰",
+      "sankeern": "सेंली",
+      "paitarn": "{0} सेंटीलीटर"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-cubic-centimeter",
+      "shreni": "volume",
+      "naam": "घन सेंटीमीटर",
+      "sanket": "घन सें॰ मी॰",
+      "sankeern": "घन सेंमी",
+      "paitarn": "{0} घन सेंटीमीटर"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-foot",
+      "shreni": "volume",
+      "naam": "घन फ़ीट",
+      "sanket": "घ॰ फ़ी॰",
+      "sankeern": "घन फ़ीट",
+      "paitarn": "{0} घन फ़ीट"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-inch",
+      "shreni": "volume",
+      "naam": "घन इंच",
+      "sanket": "घन इंच",
+      "sankeern": "घन इंच",
+      "paitarn": "{0} घन इंच"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-kilometer",
+      "shreni": "volume",
+      "naam": "घन किलोमीटर",
+      "sanket": "घन कि॰मी॰",
+      "sankeern": "घन कि॰मी॰",
+      "paitarn": "{0} घन किलोमीटर"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-meter",
+      "shreni": "volume",
+      "naam": "घन मीटर",
+      "sanket": "घन मी॰",
+      "sankeern": "घन मी",
+      "paitarn": "{0} घन मीटर"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-mile",
+      "shreni": "volume",
+      "naam": "घन मील",
+      "sanket": "घन मील",
+      "sankeern": "घन मील",
+      "paitarn": "{0} घन मील"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cubic-yard",
+      "shreni": "volume",
+      "naam": "घन यार्ड",
+      "sanket": "घन या॰",
+      "sankeern": "घन या॰",
+      "paitarn": "{0} घन यार्ड"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cup",
+      "shreni": "volume",
+      "naam": "कप",
+      "sanket": "कप",
+      "sankeern": "कप",
+      "paitarn": "{0} कप"
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup-imperial",
+      "shreni": "volume",
+      "naam": "cup Imp.",
+      "sanket": "cup Imp.",
+      "sankeern": "cup Imp.",
+      "paitarn": "{0} cup Imp."
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-jp",
+      "shreni": "volume",
+      "naam": "cup [JP]",
+      "sanket": "cup [JP]",
+      "sankeern": "cup [JP]",
+      "paitarn": "{0} cup [JP]"
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-cup-metric",
+      "shreni": "volume",
+      "naam": "मीट्रिक कप",
+      "sanket": "मीट्रिक कप",
+      "sankeern": "मीट्रिक कप",
+      "paitarn": "{0} मीट्रिक कप"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-deciliter",
+      "shreni": "volume",
+      "naam": "डेसीलीटर",
+      "sanket": "डे॰ली॰",
+      "sankeern": "डेली",
+      "paitarn": "{0} डेसीलीटर"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-dessert-spoon",
+      "shreni": "volume",
+      "naam": "डेज़र्ट स्पून",
+      "sanket": "डे. स्पून",
+      "sankeern": "dsp",
+      "paitarn": "{0} डेज़र्ट स्पून"
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "shreni": "volume",
+      "naam": "इम्पीरियल डेज़र्टस्पून",
+      "sanket": "इम्पी. डेज़र्टस्पून",
+      "sankeern": "dsp Imp",
+      "paitarn": "{0} इम्पीरियल डेज़र्टस्पून"
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-dram",
+      "shreni": "volume",
+      "naam": "ड्रम फ्लूइड",
+      "sanket": "ड्रम फ्लूइड",
+      "sankeern": "fl.dr.",
+      "paitarn": "{0} ड्रम"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-drop",
+      "shreni": "volume",
+      "naam": "बूंद",
+      "sanket": "बूंद",
+      "sankeern": "बूंद",
+      "paitarn": "{0} बूंद"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-fluid-ounce",
+      "shreni": "volume",
+      "naam": "फ़्लूइड आउंस",
+      "sanket": "फ़्लूइड आउंस",
+      "sankeern": "fl oz",
+      "paitarn": "{0} फ़्लूइड आउंस"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "shreni": "volume",
+      "naam": "इम्पी॰ फ़्लुइड आउंस",
+      "sanket": "Imp. fl oz",
+      "sankeern": "Imp fl oz",
+      "paitarn": "{0} इम्पी॰ फ़्लुइड आउंस"
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-fluid-ounce-metric",
+      "shreni": "volume",
+      "naam": "मेट्रिक फ़्लूड आउंस",
+      "sanket": "मेट्रिक फ़्लूड आउंस",
+      "sankeern": "मेट्रिक फ़्लूड आउंस",
+      "paitarn": "{0} मेट्रिक फ़्लूड आउंस"
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-gallon",
+      "shreni": "volume",
+      "naam": "गैलन",
+      "sanket": "गैलन",
+      "sankeern": "गै",
+      "paitarn": "{0} गैलन"
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-gallon-imperial",
+      "shreni": "volume",
+      "naam": "इम्पीरियल गैलन",
+      "sanket": "इम्पी॰ गैलन",
+      "sankeern": "इम्पी गैलन",
+      "paitarn": "{0} इम्पीरियल गैलन"
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-hectoliter",
+      "shreni": "volume",
+      "naam": "हेक्टोलीटर",
+      "sanket": "है॰ली॰",
+      "sankeern": "है॰ली॰",
+      "paitarn": "{0} हेक्टोलीटर"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-jigger",
+      "shreni": "volume",
+      "naam": "जिगर",
+      "sanket": "जिगर",
+      "sankeern": "जिगर",
+      "paitarn": "{0} जिगर"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-koku",
+      "shreni": "volume",
+      "naam": "koku [JP]",
+      "sanket": "koku [JP]",
+      "sankeern": "koku [JP]",
+      "paitarn": "{0} koku [JP]"
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-kosaji",
+      "shreni": "volume",
+      "naam": "kosaji [JP]",
+      "sanket": "kosaji [JP]",
+      "sankeern": "kosaji [JP]",
+      "paitarn": "{0} kosaji [JP]"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-liter",
+      "shreni": "volume",
+      "naam": "लीटर",
+      "sanket": "लीटर",
+      "sankeern": "लीटर",
+      "paitarn": "{0} लीटर"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-megaliter",
+      "shreni": "volume",
+      "naam": "मेगालीटर",
+      "sanket": "मे॰ ली॰",
+      "sankeern": "मेली",
+      "paitarn": "{0} मेगालीटर"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-milliliter",
+      "shreni": "volume",
+      "naam": "मिलीलीटर",
+      "sanket": "मि॰ ली॰",
+      "sankeern": "मिली",
+      "paitarn": "{0} मिलीलीटर"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-osaji",
+      "shreni": "volume",
+      "naam": "osaji [JP]",
+      "sanket": "osaji [JP]",
+      "sankeern": "osaji [JP]",
+      "paitarn": "{0} osaji [JP]"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-pinch",
+      "shreni": "volume",
+      "naam": "चुटकी",
+      "sanket": "चुटकी",
+      "sankeern": "चुटकी",
+      "paitarn": "{0} चुटकी"
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pint",
+      "shreni": "volume",
+      "naam": "पाइंट",
+      "sanket": "पाइंट",
+      "sankeern": "पा",
+      "paitarn": "{0} पाइंट"
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint-imperial",
+      "shreni": "volume",
+      "naam": "pint Imp.",
+      "sanket": "pint Imp.",
+      "sankeern": "pint Imp.",
+      "paitarn": "{0} pt Imp."
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-pint-metric",
+      "shreni": "volume",
+      "naam": "मीट्रिक पिंट",
+      "sanket": "मीट्रिक पिंट",
+      "sankeern": "मीट्रिक पिंट",
+      "paitarn": "{0} मीट्रिक पिंट"
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-quart",
+      "shreni": "volume",
+      "naam": "क्वार्ट",
+      "sanket": "क्वार्ट",
+      "sankeern": "क्वार्ट",
+      "paitarn": "{0} क्वार्ट"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-quart-imperial",
+      "shreni": "volume",
+      "naam": "क्वार्ट इम्पीरियल",
+      "sanket": "क्वार्ट इम्पी.",
+      "sankeern": "qt Imp",
+      "paitarn": "{0} क्वार्ट इम्पीरियल"
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-sai",
+      "shreni": "volume",
+      "naam": "sai [JP]",
+      "sanket": "sai [JP]",
+      "sankeern": "sai [JP]",
+      "paitarn": "{0} sai [JP]"
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-shaku",
+      "shreni": "volume",
+      "naam": "shaku [vol, JP]",
+      "sanket": "shaku [vol, JP]",
+      "sankeern": "shaku [vol, JP]",
+      "paitarn": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-tablespoon",
+      "shreni": "volume",
+      "naam": "टेबलस्पून",
+      "sanket": "टे॰ स्पून",
+      "sankeern": "tbsp",
+      "paitarn": "{0} टेबलस्पून"
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-teaspoon",
+      "shreni": "volume",
+      "naam": "टी स्पून",
+      "sanket": "टी स्पून",
+      "sankeern": "tsp",
+      "paitarn": "{0} टी स्पून"
+    },
+    {
+      "id": 231,
+      "unit_code": "volume-to-jp",
+      "shreni": "volume",
+      "naam": "to [JP]",
+      "sanket": "to [JP]",
+      "sankeern": "to [JP]",
+      "paitarn": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "मापन इकाइयाँ — हिन्दी नाम (CLDR) - मुफ़्त डाउनलोड",
+    "description": "CLDR hi लोकेल से मापन इकाइयों की सूची — पूरा नाम (naam), संक्षिप्त संकेत (sanket), संकीर्ण रूप (sankeern) और प्रदर्शन पैटर्न (paitarn) सहित। शामिल हैं 231 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मापन इकाइयाँ — हिन्दी नाम (CLDR) | ListBase",
+    "seo_description": "डाउनलोड मापन इकाइयाँ — हिन्दी नाम (CLDR) — 231 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 231 रिकॉर्ड / 7 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "hi-upnaam",
+  "name": "लोकप्रिय भारतीय उपनाम (Popular Indian Surnames)",
+  "title": "लोकप्रिय भारतीय उपनाम (Popular Indian Surnames)",
+  "description": "भारत में सबसे आम उपनाम; देवनागरी और रोमन लिप्यंतरण के साथ; वैश्विक उपनाम आवृत्ति डेटासेट (Forebears आधारित sigpwned aggregate) से रैंक के अनुसार।",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "IN-1",
+      "rank": 1,
+      "localized": "देवी",
+      "romanized": "Devi"
+    },
+    {
+      "name_group": "IN-2",
+      "rank": 2,
+      "localized": "कुमार",
+      "romanized": "Kumar"
+    },
+    {
+      "name_group": "IN-3",
+      "rank": 3,
+      "localized": "सिंह",
+      "romanized": "Singh"
+    },
+    {
+      "name_group": "IN-4",
+      "rank": 4,
+      "localized": "शर्मा",
+      "romanized": "Sharma"
+    },
+    {
+      "name_group": "IN-5",
+      "rank": 5,
+      "localized": "अली",
+      "romanized": "Ali"
+    },
+    {
+      "name_group": "IN-6",
+      "rank": 6,
+      "localized": "यादव",
+      "romanized": "Yadav"
+    },
+    {
+      "name_group": "IN-7",
+      "rank": 7,
+      "localized": "पटेल",
+      "romanized": "Patel"
+    }
+  ],
+  "meta": {
+    "title": "लोकप्रिय भारतीय उपनाम (Popular Indian Surnames) - मुफ़्त डाउनलोड",
+    "description": "भारत में सबसे आम उपनाम; देवनागरी और रोमन लिप्यंतरण के साथ; वैश्विक उपनाम आवृत्ति डेटासेट (Forebears आधारित sigpwned aggregate) से रैंक के अनुसार। शामिल हैं 7 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "लोकप्रिय भारतीय उपनाम (Popular Indian Surnames) | ListBase",
+    "seo_description": "डाउनलोड लोकप्रिय भारतीय उपनाम (Popular Indian Surnames) — 7 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 7 रिकॉर्ड / 4 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

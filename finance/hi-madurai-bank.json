@@ -1,0 +1,156 @@
+{
+  "id": "hi-madurai-bank",
+  "name": "Madurai में बैंक — SWIFT/BIC कोड",
+  "title": "Madurai में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Madurai, India. Subset of hi-bank. Source city string preserved verbatim as \"MADURAI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 433,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MADURAI",
+      "branch": "(MADURAI BRANCH)",
+      "swift_code": "AXISINBB109"
+    },
+    {
+      "id": 434,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MADURAI",
+      "branch": "(TALLAKULAM, MADURAI (TN)-876)",
+      "swift_code": "AXISINBB876"
+    },
+    {
+      "id": 690,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MADURAI",
+      "branch": "",
+      "swift_code": "UTIBINB1109"
+    },
+    {
+      "id": 1003,
+      "bank": "BANK OF INDIA",
+      "city": "MADURAI",
+      "branch": "(MADURAI)",
+      "swift_code": "BKIDINBBMDU"
+    },
+    {
+      "id": 1295,
+      "bank": "CANARA BANK",
+      "city": "MADURAI",
+      "branch": "(MADURAI FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBUFM"
+    },
+    {
+      "id": 1435,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MADURAI",
+      "branch": "(MADURAI)",
+      "swift_code": "CBININBBMDU"
+    },
+    {
+      "id": 1943,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MADURAI",
+      "branch": "(MADURAI BRANCH)",
+      "swift_code": "IBKLINBB044"
+    },
+    {
+      "id": 2051,
+      "bank": "INDIAN BANK",
+      "city": "MADURAI",
+      "branch": "(MADURAI MAIN BRANCH)",
+      "swift_code": "IDIBINBBMDM"
+    },
+    {
+      "id": 2160,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MADURAI",
+      "branch": "(ARIGNAR ANNA NAGAR)",
+      "swift_code": "IOBAINBB651"
+    },
+    {
+      "id": 2161,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MADURAI",
+      "branch": "(MADURAI MAIN BRANCH)",
+      "swift_code": "IOBAINBB049"
+    },
+    {
+      "id": 3345,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MADURAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, MADURAI)",
+      "swift_code": "SBININBB212"
+    },
+    {
+      "id": 3346,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MADURAI",
+      "branch": "(MADURAI)",
+      "swift_code": "SBININBB454"
+    },
+    {
+      "id": 3347,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MADURAI",
+      "branch": "(SME BRANCH, MADURAI)",
+      "swift_code": "SBININBB840"
+    },
+    {
+      "id": 3924,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "MADURAI",
+      "branch": "(MADURAI MAIN)",
+      "swift_code": "SOININ55118"
+    },
+    {
+      "id": 4078,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MADURAI",
+      "branch": "(MADURAI MAIN BRANCH)",
+      "swift_code": "UBININBBMDU"
+    }
+  ],
+  "meta": {
+    "title": "Madurai में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Madurai, India. Subset of hi-bank. Source city string preserved verbatim as \"MADURAI\". शामिल हैं 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Madurai में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Madurai में बैंक — SWIFT/BIC कोड — 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 15 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

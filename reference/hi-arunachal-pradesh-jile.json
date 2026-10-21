@@ -1,0 +1,388 @@
+{
+  "id": "hi-arunachal-pradesh-jile",
+  "name": "Arunachal Pradesh के जिले (Arunachal Pradesh Districts)",
+  "title": "Arunachal Pradesh के जिले (Arunachal Pradesh Districts)",
+  "description": "26 districts in Arunachal Pradesh (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Arunachal Pradesh\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "AJ",
+      "district": "Anjaw",
+      "district_slug": "anjaw",
+      "headquarters": "Hawai",
+      "population": 21089,
+      "area_km2": 6190,
+      "density_per_km2": 3
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "CH",
+      "district": "Changlang",
+      "district_slug": "changlang",
+      "headquarters": "Changlang",
+      "population": 147951,
+      "area_km2": 4662,
+      "density_per_km2": 32
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "EK",
+      "district": "East Kameng",
+      "district_slug": "east-kameng",
+      "headquarters": "Seppa",
+      "population": 78413,
+      "area_km2": 4134,
+      "density_per_km2": 19
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "ES",
+      "district": "East Siang",
+      "district_slug": "east-siang",
+      "headquarters": "Pasighat",
+      "population": 99019,
+      "area_km2": 3603,
+      "density_per_km2": 27
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "",
+      "district": "Itanagar capital complex",
+      "district_slug": "itanagar-capital-complex",
+      "headquarters": "Itanagar",
+      "population": 122930,
+      "area_km2": 200,
+      "density_per_km2": 614
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "–",
+      "district": "Kamle",
+      "district_slug": "kamle",
+      "headquarters": "Raga",
+      "population": 22256,
+      "area_km2": 200,
+      "density_per_km2": 111
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "–",
+      "district": "Kra Daadi",
+      "district_slug": "kra-daadi",
+      "headquarters": "Palin",
+      "population": 22290,
+      "area_km2": 2202,
+      "density_per_km2": 10
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "KK",
+      "district": "Kurung Kumey",
+      "district_slug": "kurung-kumey",
+      "headquarters": "Koloriang",
+      "population": 89717,
+      "area_km2": 6040,
+      "density_per_km2": 15
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "–",
+      "district": "Lepa Rada",
+      "district_slug": "lepa-rada",
+      "headquarters": "Basar",
+      "population": 0,
+      "area_km2": 0,
+      "density_per_km2": 0
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "EL",
+      "district": "Lohit",
+      "district_slug": "lohit",
+      "headquarters": "Tezu",
+      "population": 145538,
+      "area_km2": 2402,
+      "density_per_km2": 61
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "LD",
+      "district": "Longding",
+      "district_slug": "longding",
+      "headquarters": "Longding",
+      "population": 60000,
+      "area_km2": 1200,
+      "density_per_km2": 50
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "DV",
+      "district": "Lower Dibang Valley",
+      "district_slug": "lower-dibang-valley",
+      "headquarters": "Roing",
+      "population": 53986,
+      "area_km2": 3900,
+      "density_per_km2": 14
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "–",
+      "district": "Lower Siang",
+      "district_slug": "lower-siang",
+      "headquarters": "Likabali",
+      "population": 22630,
+      "area_km2": 0,
+      "density_per_km2": 0
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "LB",
+      "district": "Lower Subansiri",
+      "district_slug": "lower-subansiri",
+      "headquarters": "Ziro",
+      "population": 82839,
+      "area_km2": 3508,
+      "density_per_km2": 24
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "–",
+      "district": "Namsai",
+      "district_slug": "namsai",
+      "headquarters": "Namsai",
+      "population": 95950,
+      "area_km2": 1587,
+      "density_per_km2": 60
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "–",
+      "district": "Pakke-Kessang",
+      "district_slug": "pakke-kessang",
+      "headquarters": "Lemmi",
+      "population": 15358,
+      "area_km2": 1932,
+      "density_per_km2": 7
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "PA",
+      "district": "Papum Pare",
+      "district_slug": "papum-pare",
+      "headquarters": "Yupia",
+      "population": 176385,
+      "area_km2": 2875,
+      "density_per_km2": 61
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "–",
+      "district": "Shi Yomi",
+      "district_slug": "shi-yomi",
+      "headquarters": "Tato",
+      "population": 13310,
+      "area_km2": 2875,
+      "density_per_km2": 5
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "–",
+      "district": "Siang",
+      "district_slug": "siang",
+      "headquarters": "Boleng",
+      "population": 31920,
+      "area_km2": 2919,
+      "density_per_km2": 11
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "TA",
+      "district": "Tawang",
+      "district_slug": "tawang",
+      "headquarters": "Tawang",
+      "population": 49950,
+      "area_km2": 2085,
+      "density_per_km2": 24
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "TI",
+      "district": "Tirap",
+      "district_slug": "tirap",
+      "headquarters": "Khonsa",
+      "population": 111997,
+      "area_km2": 2362,
+      "density_per_km2": 47
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "UD",
+      "district": "Upper Dibang Valley",
+      "district_slug": "upper-dibang-valley",
+      "headquarters": "Anini",
+      "population": 8004,
+      "area_km2": 9129,
+      "density_per_km2": 1
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "US",
+      "district": "Upper Siang",
+      "district_slug": "upper-siang",
+      "headquarters": "Yingkiong",
+      "population": 35289,
+      "area_km2": 6188,
+      "density_per_km2": 6
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "UB",
+      "district": "Upper Subansiri",
+      "district_slug": "upper-subansiri",
+      "headquarters": "Daporijo",
+      "population": 83205,
+      "area_km2": 7032,
+      "density_per_km2": 12
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "WK",
+      "district": "West Kameng",
+      "district_slug": "west-kameng",
+      "headquarters": "Bomdila",
+      "population": 87013,
+      "area_km2": 7422,
+      "density_per_km2": 12
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_code": "AR",
+      "state_slug": "arunachal-pradesh",
+      "district_code": "WS",
+      "district": "West Siang",
+      "district_slug": "west-siang",
+      "headquarters": "Aalo",
+      "population": 112272,
+      "area_km2": 8325,
+      "density_per_km2": 13
+    }
+  ],
+  "meta": {
+    "title": "Arunachal Pradesh के जिले (Arunachal Pradesh Districts) - मुफ़्त डाउनलोड",
+    "description": "26 districts in Arunachal Pradesh (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Arunachal Pradesh\". शामिल हैं 26 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Arunachal Pradesh के जिले (Arunachal Pradesh Districts) | ListBase",
+    "seo_description": "डाउनलोड Arunachal Pradesh के जिले (Arunachal Pradesh Districts) — 26 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 26 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

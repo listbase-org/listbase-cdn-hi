@@ -1,0 +1,121 @@
+{
+  "id": "hi-kolhapur-bank",
+  "name": "Kolhapur में बैंक — SWIFT/BIC कोड",
+  "title": "Kolhapur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Kolhapur, India. Subset of hi-bank. Source city string preserved verbatim as \"KOLHAPUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 394,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLHAPUR",
+      "branch": "(KOLHAPUR)",
+      "swift_code": "AXISINBB134"
+    },
+    {
+      "id": 807,
+      "bank": "BANK OF BARODA",
+      "city": "KOLHAPUR",
+      "branch": "(SHIVAJI CHOWK BR., KOLHAPUR)",
+      "swift_code": "BARBINBBSCK"
+    },
+    {
+      "id": 988,
+      "bank": "BANK OF INDIA",
+      "city": "KOLHAPUR",
+      "branch": "(KOLHAPUR MAIN)",
+      "swift_code": "BKIDINBBKLP"
+    },
+    {
+      "id": 1133,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "KOLHAPUR",
+      "branch": "(KOLHAPUR)",
+      "swift_code": "MAHBINBBKOL"
+    },
+    {
+      "id": 1769,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOLHAPUR",
+      "branch": "(ITCHALKARANJE BRANCH)",
+      "swift_code": "FDRLINBBIKJ"
+    },
+    {
+      "id": 1935,
+      "bank": "IDBI BANK LIMITED",
+      "city": "KOLHAPUR",
+      "branch": "(S C KOLKAPUR)",
+      "swift_code": "IBKLINBBSCK"
+    },
+    {
+      "id": 3282,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLHAPUR",
+      "branch": "(UDYAMNAGAR INDUSTRIAL AREA)",
+      "swift_code": "SBININBB369"
+    },
+    {
+      "id": 3873,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "KOLHAPUR",
+      "branch": "",
+      "swift_code": "SRCBINBBKOL"
+    },
+    {
+      "id": 4072,
+      "bank": "UNION BANK OF INDIA",
+      "city": "KOLHAPUR",
+      "branch": "(STATION ROAD KOLHAPUR)",
+      "swift_code": "UBININBBKOP"
+    },
+    {
+      "id": 4181,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "KOLHAPUR",
+      "branch": "(SHIVAJI CHOWK BRANCH)",
+      "swift_code": "UWBAINB1SCK"
+    }
+  ],
+  "meta": {
+    "title": "Kolhapur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Kolhapur, India. Subset of hi-bank. Source city string preserved verbatim as \"KOLHAPUR\". शामिल हैं 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Kolhapur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Kolhapur में बैंक — SWIFT/BIC कोड — 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 10 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

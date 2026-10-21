@@ -1,0 +1,331 @@
+{
+  "id": "hi-ernakulam-bank",
+  "name": "Ernakulam में बैंक — SWIFT/BIC कोड",
+  "title": "Ernakulam में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Ernakulam, India. Subset of hi-bank. Source city string preserved verbatim as \"ERNAKULAM\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 84,
+      "bank": "ANDHRA BANK",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM BRANCH)",
+      "swift_code": "ANDBINBBERN"
+    },
+    {
+      "id": 775,
+      "bank": "BANK OF BARODA",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM NORTH BRANCH)",
+      "swift_code": "BARBINBBERN"
+    },
+    {
+      "id": 949,
+      "bank": "BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM NRI)",
+      "swift_code": "BKIDINBBENI"
+    },
+    {
+      "id": 950,
+      "bank": "BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM)",
+      "swift_code": "BKIDINBBEKM"
+    },
+    {
+      "id": 951,
+      "bank": "BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(M.G. ROAD (ERNAKULAM) BRANCH)",
+      "swift_code": "BKIDINBBERN"
+    },
+    {
+      "id": 1252,
+      "bank": "CANARA BANK",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBEOB"
+    },
+    {
+      "id": 1752,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "ERNAKULAM",
+      "branch": "(BROADWAY)",
+      "swift_code": "FDRLINBBEK4"
+    },
+    {
+      "id": 1753,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM OVERSEAS BRANCH)",
+      "swift_code": "FDRLINBBEKF"
+    },
+    {
+      "id": 1754,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "ERNAKULAM",
+      "branch": "(INTERNATIONAL BANKING DEPARTMENT)",
+      "swift_code": "FDRLINBBIBD"
+    },
+    {
+      "id": 1755,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "ERNAKULAM",
+      "branch": "(NORTH ERNAKULAM BRANCH)",
+      "swift_code": "FDRLINBBEKA"
+    },
+    {
+      "id": 1756,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "ERNAKULAM",
+      "branch": "(TREASURY DEPARTMENT)",
+      "swift_code": "FDRLINBBHHH"
+    },
+    {
+      "id": 2033,
+      "bank": "INDIAN BANK",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM BRANCH)",
+      "swift_code": "IDIBINBBEKM"
+    },
+    {
+      "id": 2134,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM BRANCH)",
+      "swift_code": "IOBAINBB024"
+    },
+    {
+      "id": 2482,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "ERNAKULAM",
+      "branch": "(1055)",
+      "swift_code": "ORBCINBBERN"
+    },
+    {
+      "id": 2650,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM)",
+      "swift_code": "PUNBINBBERK"
+    },
+    {
+      "id": 3089,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(COMMERCIAL BRANCH, ERNAKULAM)",
+      "swift_code": "SBININBB245"
+    },
+    {
+      "id": 3090,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM)",
+      "swift_code": "SBININBB395"
+    },
+    {
+      "id": 3091,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(EXPORT PROCES.ZONE, COCHIN)",
+      "swift_code": "SBININBB394"
+    },
+    {
+      "id": 3092,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH40"
+    },
+    {
+      "id": 3093,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBT38"
+    },
+    {
+      "id": 3094,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT15"
+    },
+    {
+      "id": 3095,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT16"
+    },
+    {
+      "id": 3096,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT17"
+    },
+    {
+      "id": 3097,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT18"
+    },
+    {
+      "id": 3098,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT19"
+    },
+    {
+      "id": 3099,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT25"
+    },
+    {
+      "id": 3100,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBT29"
+    },
+    {
+      "id": 3101,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBT62"
+    },
+    {
+      "id": 3102,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBT76"
+    },
+    {
+      "id": 3103,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(TRADE FINANCE CENTRAL PROCESSING CENTRE)",
+      "swift_code": "SBININBB601"
+    },
+    {
+      "id": 3754,
+      "bank": "SYNDICATE BANK",
+      "city": "ERNAKULAM",
+      "branch": "(M.G. ROAD BRANCH)",
+      "swift_code": "SYNBINBB109"
+    },
+    {
+      "id": 3755,
+      "bank": "SYNDICATE BANK",
+      "city": "ERNAKULAM",
+      "branch": "(SHANMUGHAM ROAD BRANCH)",
+      "swift_code": "SYNBINBB049"
+    },
+    {
+      "id": 3903,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "ERNAKULAM",
+      "branch": "(CTFOB)",
+      "swift_code": "SOININ55TBD"
+    },
+    {
+      "id": 3904,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM OVERSEAS BRANCH)",
+      "swift_code": "SOININ55311"
+    },
+    {
+      "id": 3905,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "ERNAKULAM",
+      "branch": "(KOLENCHERY)",
+      "swift_code": "SOININ55138"
+    },
+    {
+      "id": 3906,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "ERNAKULAM",
+      "branch": "(VYTTILA)",
+      "swift_code": "SOININ55374"
+    },
+    {
+      "id": 3907,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "ERNAKULAM",
+      "branch": "",
+      "swift_code": "SOININ55"
+    },
+    {
+      "id": 3972,
+      "bank": "UCO BANK",
+      "city": "ERNAKULAM",
+      "branch": "(M G ROAD ERNAKULAM)",
+      "swift_code": "UCBAINBB330"
+    },
+    {
+      "id": 4056,
+      "bank": "UNION BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(OVERSEAS BRANCH, ERNAKULAM)",
+      "swift_code": "UBININBBKCH"
+    },
+    {
+      "id": 4144,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "ERNAKULAM",
+      "branch": "(ERNAKULAM BRANCH)",
+      "swift_code": "UTBIINBBERN"
+    }
+  ],
+  "meta": {
+    "title": "Ernakulam में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Ernakulam, India. Subset of hi-bank. Source city string preserved verbatim as \"ERNAKULAM\". शामिल हैं 40 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Ernakulam में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Ernakulam में बैंक — SWIFT/BIC कोड — 40 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 40 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

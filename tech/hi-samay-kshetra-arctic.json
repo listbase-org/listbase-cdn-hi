@@ -1,0 +1,64 @@
+{
+  "id": "hi-samay-kshetra-arctic",
+  "name": "समय क्षेत्र — Arctic (1)",
+  "title": "समय क्षेत्र — Arctic (1)",
+  "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Arctic/' से आरंभ होता है, हिन्दी नामों सहित।",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "kshetra",
+      "label": "Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "shahar",
+      "label": "Shahar",
+      "type": "string"
+    },
+    {
+      "key": "manak_naam",
+      "label": "Manak Naam",
+      "type": "string"
+    },
+    {
+      "key": "divakaal_naam",
+      "label": "Divakaal Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Arctic/Longyearbyen",
+      "kshetra": "Arctic",
+      "shahar": "लॉन्गईयरबायेन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    }
+  ],
+  "meta": {
+    "title": "समय क्षेत्र — Arctic (1) - मुफ़्त डाउनलोड",
+    "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Arctic/' से आरंभ होता है, हिन्दी नामों सहित। शामिल हैं 1 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "समय क्षेत्र — Arctic (1) | ListBase",
+    "seo_description": "डाउनलोड समय क्षेत्र — Arctic (1) — 1 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 1 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

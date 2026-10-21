@@ -1,0 +1,163 @@
+{
+  "id": "hi-ghaziabad-bank",
+  "name": "Ghaziabad में बैंक — SWIFT/BIC कोड",
+  "title": "Ghaziabad में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Ghaziabad, India. Subset of hi-bank. Source city string preserved verbatim as \"GHAZIABAD\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 304,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GHAZIABAD",
+      "branch": "(GHAZIABAD)",
+      "swift_code": "AXISINBB095"
+    },
+    {
+      "id": 305,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GHAZIABAD",
+      "branch": "(INDIRAPURAM, GHAZIABAD (UP)-636)",
+      "swift_code": "AXISINBB636"
+    },
+    {
+      "id": 306,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GHAZIABAD",
+      "branch": "(VAISHALI, GHAZIABAD (UP))",
+      "swift_code": "AXISINBB715"
+    },
+    {
+      "id": 778,
+      "bank": "BANK OF BARODA",
+      "city": "GHAZIABAD",
+      "branch": "(GHAZIABAD MAIN BR)",
+      "swift_code": "BARBINBBGHA"
+    },
+    {
+      "id": 957,
+      "bank": "BANK OF INDIA",
+      "city": "GHAZIABAD",
+      "branch": "(GHAZIABAD BRANCH)",
+      "swift_code": "BKIDINBBGHZ"
+    },
+    {
+      "id": 1254,
+      "bank": "CANARA BANK",
+      "city": "GHAZIABAD",
+      "branch": "(SME BRANCH GHAZIABAD)",
+      "swift_code": "CNRBINBBGHA"
+    },
+    {
+      "id": 1920,
+      "bank": "IDBI BANK LIMITED",
+      "city": "GHAZIABAD",
+      "branch": "(GHAZIABAD-SPL CORPORATE BRANCH)",
+      "swift_code": "IBKLINBBA83"
+    },
+    {
+      "id": 2035,
+      "bank": "INDIAN BANK",
+      "city": "GHAZIABAD",
+      "branch": "(GHAZIABAD)",
+      "swift_code": "IDIBINBBGZB"
+    },
+    {
+      "id": 2484,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "GHAZIABAD",
+      "branch": "(RAZAPUR, GHAZIABAD)",
+      "swift_code": "ORBCINBBGND"
+    },
+    {
+      "id": 2654,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "GHAZIABAD",
+      "branch": "(CHANDERNAGAR GHAZIABAD)",
+      "swift_code": "PUNBINBBGCN"
+    },
+    {
+      "id": 2655,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "GHAZIABAD",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "PUNBINBBMGZ"
+    },
+    {
+      "id": 2656,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "GHAZIABAD",
+      "branch": "(MOHAN NAGAR GHAZIABAD ROAD)",
+      "swift_code": "PUNBINBBGMN"
+    },
+    {
+      "id": 2657,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "GHAZIABAD",
+      "branch": "(NAVYUG MARKET)",
+      "swift_code": "PUNBINBBGNM"
+    },
+    {
+      "id": 3118,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GHAZIABAD",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBP01"
+    },
+    {
+      "id": 3119,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GHAZIABAD",
+      "branch": "(SIB,GHAZIABAD)",
+      "swift_code": "SBININBB555"
+    },
+    {
+      "id": 4058,
+      "bank": "UNION BANK OF INDIA",
+      "city": "GHAZIABAD",
+      "branch": "(SSI GHAZIABAD)",
+      "swift_code": "UBININBBGHZ"
+    }
+  ],
+  "meta": {
+    "title": "Ghaziabad में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Ghaziabad, India. Subset of hi-bank. Source city string preserved verbatim as \"GHAZIABAD\". शामिल हैं 16 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Ghaziabad में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Ghaziabad में बैंक — SWIFT/BIC कोड — 16 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 16 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

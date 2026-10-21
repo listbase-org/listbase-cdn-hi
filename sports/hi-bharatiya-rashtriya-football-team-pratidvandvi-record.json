@@ -1,0 +1,896 @@
+{
+  "id": "hi-bharatiya-rashtriya-football-team-pratidvandvi-record",
+  "name": "भारतीय राष्ट्रीय फ़ुटबॉल टीम — प्रत्येक प्रतिद्वंद्वी के विरुद्ध रिकॉर्ड (75)",
+  "title": "भारतीय राष्ट्रीय फ़ुटबॉल टीम — प्रत्येक प्रतिद्वंद्वी के विरुद्ध रिकॉर्ड (75)",
+  "description": "प्रत्येक प्रतिद्वंद्वी के विरुद्ध भारत की राष्ट्रीय फ़ुटबॉल टीम का कुल रिकॉर्ड, martj42/international_results की results.csv के सभी मैचों से गणना: मैच, जीत, ड्रॉ, हार, किए और खाए गोल, पहला और अंतिम मैच। परिणाम अंतिम स्कोर के आधार पर (शूटआउट के बिना)। मैचों की संख्या के क्रम में।",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 75,
+  "columns": [
+    {
+      "key": "opponent",
+      "label": "Opponent",
+      "type": "string"
+    },
+    {
+      "key": "matches",
+      "label": "Matches",
+      "type": "number"
+    },
+    {
+      "key": "wins",
+      "label": "Wins",
+      "type": "number"
+    },
+    {
+      "key": "draws",
+      "label": "Draws",
+      "type": "number"
+    },
+    {
+      "key": "losses",
+      "label": "Losses",
+      "type": "number"
+    },
+    {
+      "key": "goals_for",
+      "label": "Goals For",
+      "type": "number"
+    },
+    {
+      "key": "goals_against",
+      "label": "Goals Against",
+      "type": "number"
+    },
+    {
+      "key": "first_match",
+      "label": "First Match",
+      "type": "date"
+    },
+    {
+      "key": "last_match",
+      "label": "Last Match",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "opponent": "Bangladesh",
+      "matches": 29,
+      "wins": 12,
+      "draws": 13,
+      "losses": 4,
+      "goals_for": 38,
+      "goals_against": 21,
+      "first_match": "1978-12-14",
+      "last_match": "2025-11-18"
+    },
+    {
+      "opponent": "Malaysia",
+      "matches": 26,
+      "wins": 9,
+      "draws": 8,
+      "losses": 9,
+      "goals_for": 37,
+      "goals_against": 46,
+      "first_match": "1957-02-16",
+      "last_match": "2024-11-18"
+    },
+    {
+      "opponent": "Thailand",
+      "matches": 24,
+      "wins": 6,
+      "draws": 7,
+      "losses": 11,
+      "goals_for": 28,
+      "goals_against": 38,
+      "first_match": "1962-08-28",
+      "last_match": "2025-06-04"
+    },
+    {
+      "opponent": "Nepal",
+      "matches": 22,
+      "wins": 16,
+      "draws": 5,
+      "losses": 1,
+      "goals_for": 41,
+      "goals_against": 9,
+      "first_match": "1985-12-21",
+      "last_match": "2023-06-24"
+    },
+    {
+      "opponent": "Myanmar",
+      "matches": 21,
+      "wins": 10,
+      "draws": 3,
+      "losses": 8,
+      "goals_for": 30,
+      "goals_against": 39,
+      "first_match": "1952-03-14",
+      "last_match": "2023-03-22"
+    },
+    {
+      "opponent": "Pakistan",
+      "matches": 21,
+      "wins": 12,
+      "draws": 7,
+      "losses": 2,
+      "goals_for": 33,
+      "goals_against": 15,
+      "first_match": "1952-03-23",
+      "last_match": "2023-06-21"
+    },
+    {
+      "opponent": "Singapore",
+      "matches": 21,
+      "wins": 9,
+      "draws": 3,
+      "losses": 9,
+      "goals_for": 38,
+      "goals_against": 41,
+      "first_match": "1957-02-09",
+      "last_match": "2025-10-14"
+    },
+    {
+      "opponent": "South Korea",
+      "matches": 21,
+      "wins": 3,
+      "draws": 3,
+      "losses": 15,
+      "goals_for": 14,
+      "goals_against": 51,
+      "first_match": "1958-05-31",
+      "last_match": "2011-01-18"
+    },
+    {
+      "opponent": "Maldives",
+      "matches": 18,
+      "wins": 13,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 39,
+      "goals_against": 14,
+      "first_match": "1987-11-23",
+      "last_match": "2025-03-19"
+    },
+    {
+      "opponent": "Sri Lanka",
+      "matches": 18,
+      "wins": 11,
+      "draws": 5,
+      "losses": 2,
+      "goals_for": 31,
+      "goals_against": 14,
+      "first_match": "1952-03-24",
+      "last_match": "2021-10-07"
+    },
+    {
+      "opponent": "Hong Kong",
+      "matches": 16,
+      "wins": 7,
+      "draws": 4,
+      "losses": 5,
+      "goals_for": 34,
+      "goals_against": 21,
+      "first_match": "1958-05-30",
+      "last_match": "2025-06-10"
+    },
+    {
+      "opponent": "Indonesia",
+      "matches": 16,
+      "wins": 5,
+      "draws": 3,
+      "losses": 8,
+      "goals_for": 20,
+      "goals_against": 32,
+      "first_match": "1951-03-05",
+      "last_match": "2004-06-03"
+    },
+    {
+      "opponent": "Japan",
+      "matches": 15,
+      "wins": 4,
+      "draws": 1,
+      "losses": 10,
+      "goals_for": 15,
+      "goals_against": 38,
+      "first_match": "1954-05-03",
+      "last_match": "2006-10-11"
+    },
+    {
+      "opponent": "Vietnam Republic",
+      "matches": 15,
+      "wins": 7,
+      "draws": 3,
+      "losses": 5,
+      "goals_for": 21,
+      "goals_against": 22,
+      "first_match": "1959-09-06",
+      "last_match": "1973-08-09"
+    },
+    {
+      "opponent": "Afghanistan",
+      "matches": 14,
+      "wins": 8,
+      "draws": 5,
+      "losses": 1,
+      "goals_for": 27,
+      "goals_against": 9,
+      "first_match": "1941-08-10",
+      "last_match": "2024-03-26"
+    },
+    {
+      "opponent": "China",
+      "matches": 14,
+      "wins": 0,
+      "draws": 7,
+      "losses": 7,
+      "goals_for": 8,
+      "goals_against": 25,
+      "first_match": "1956-06-17",
+      "last_match": "2018-10-13"
+    },
+    {
+      "opponent": "United Arab Emirates",
+      "matches": 14,
+      "wins": 2,
+      "draws": 2,
+      "losses": 10,
+      "goals_for": 7,
+      "goals_against": 32,
+      "first_match": "1979-10-21",
+      "last_match": "2021-03-29"
+    },
+    {
+      "opponent": "Oman",
+      "matches": 10,
+      "wins": 0,
+      "draws": 3,
+      "losses": 7,
+      "goals_for": 6,
+      "goals_against": 23,
+      "first_match": "1994-09-16",
+      "last_match": "2021-03-25"
+    },
+    {
+      "opponent": "Taiwan",
+      "matches": 9,
+      "wins": 6,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 23,
+      "goals_against": 9,
+      "first_match": "1964-09-08",
+      "last_match": "2018-06-01"
+    },
+    {
+      "opponent": "Yemen",
+      "matches": 9,
+      "wins": 1,
+      "draws": 2,
+      "losses": 6,
+      "goals_for": 12,
+      "goals_against": 19,
+      "first_match": "1984-10-12",
+      "last_match": "2010-10-13"
+    },
+    {
+      "opponent": "Australia",
+      "matches": 8,
+      "wins": 2,
+      "draws": 1,
+      "losses": 5,
+      "goals_for": 23,
+      "goals_against": 25,
+      "first_match": "1938-09-03",
+      "last_match": "2024-01-13"
+    },
+    {
+      "opponent": "North Korea",
+      "matches": 8,
+      "wins": 0,
+      "draws": 1,
+      "losses": 7,
+      "goals_for": 6,
+      "goals_against": 23,
+      "first_match": "1974-09-06",
+      "last_match": "2019-07-13"
+    },
+    {
+      "opponent": "Syria",
+      "matches": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 7,
+      "goals_against": 11,
+      "first_match": "2007-08-23",
+      "last_match": "2024-09-09"
+    },
+    {
+      "opponent": "Bahrain",
+      "matches": 7,
+      "wins": 0,
+      "draws": 1,
+      "losses": 6,
+      "goals_for": 4,
+      "goals_against": 16,
+      "first_match": "1982-06-13",
+      "last_match": "2022-03-23"
+    },
+    {
+      "opponent": "Iran",
+      "matches": 7,
+      "wins": 1,
+      "draws": 1,
+      "losses": 5,
+      "goals_for": 2,
+      "goals_against": 15,
+      "first_match": "1941-08-23",
+      "last_match": "2016-03-24"
+    },
+    {
+      "opponent": "Iraq",
+      "matches": 7,
+      "wins": 0,
+      "draws": 3,
+      "losses": 4,
+      "goals_for": 4,
+      "goals_against": 13,
+      "first_match": "1974-09-02",
+      "last_match": "2023-09-07"
+    },
+    {
+      "opponent": "Kuwait",
+      "matches": 7,
+      "wins": 2,
+      "draws": 3,
+      "losses": 2,
+      "goals_for": 8,
+      "goals_against": 19,
+      "first_match": "1978-12-17",
+      "last_match": "2024-06-06"
+    },
+    {
+      "opponent": "Lebanon",
+      "matches": 7,
+      "wins": 0,
+      "draws": 3,
+      "losses": 4,
+      "goals_for": 6,
+      "goals_against": 12,
+      "first_match": "1993-05-07",
+      "last_match": "2023-09-10"
+    },
+    {
+      "opponent": "Tajikistan",
+      "matches": 7,
+      "wins": 1,
+      "draws": 2,
+      "losses": 4,
+      "goals_for": 9,
+      "goals_against": 15,
+      "first_match": "2008-08-01",
+      "last_match": "2026-06-09"
+    },
+    {
+      "opponent": "Uzbekistan",
+      "matches": 7,
+      "wins": 1,
+      "draws": 1,
+      "losses": 5,
+      "goals_for": 4,
+      "goals_against": 14,
+      "first_match": "1995-03-14",
+      "last_match": "2024-01-18"
+    },
+    {
+      "opponent": "Bhutan",
+      "matches": 6,
+      "wins": 6,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 19,
+      "goals_against": 1,
+      "first_match": "1985-12-23",
+      "last_match": "2016-08-13"
+    },
+    {
+      "opponent": "Qatar",
+      "matches": 6,
+      "wins": 1,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 3,
+      "goals_against": 13,
+      "first_match": "1996-09-27",
+      "last_match": "2024-06-11"
+    },
+    {
+      "opponent": "Cambodia",
+      "matches": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 18,
+      "goals_against": 2,
+      "first_match": "1964-08-27",
+      "last_match": "2022-06-08"
+    },
+    {
+      "opponent": "Kyrgyzstan",
+      "matches": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 9,
+      "goals_against": 3,
+      "first_match": "2007-08-26",
+      "last_match": "2023-03-28"
+    },
+    {
+      "opponent": "Turkmenistan",
+      "matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 7,
+      "goals_against": 9,
+      "first_match": "1998-12-07",
+      "last_match": "2016-03-29"
+    },
+    {
+      "opponent": "Cameroon",
+      "matches": 4,
+      "wins": 0,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 5,
+      "goals_against": 6,
+      "first_match": "1993-01-24",
+      "last_match": "2012-09-02"
+    },
+    {
+      "opponent": "Philippines",
+      "matches": 4,
+      "wins": 2,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 8,
+      "goals_against": 4,
+      "first_match": "1971-08-05",
+      "last_match": "2013-11-15"
+    },
+    {
+      "opponent": "Trinidad and Tobago",
+      "matches": 4,
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "goals_for": 2,
+      "goals_against": 10,
+      "first_match": "1984-06-09",
+      "last_match": "2011-08-21"
+    },
+    {
+      "opponent": "Vietnam",
+      "matches": 4,
+      "wins": 1,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 5,
+      "goals_against": 7,
+      "first_match": "2004-08-24",
+      "last_match": "2024-10-12"
+    },
+    {
+      "opponent": "Western Australia",
+      "matches": 4,
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 7,
+      "goals_against": 3,
+      "first_match": "1967-08-13",
+      "last_match": "1970-08-05"
+    },
+    {
+      "opponent": "Zambia",
+      "matches": 4,
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "goals_for": 3,
+      "goals_against": 11,
+      "first_match": "1977-10-03",
+      "last_match": "2011-11-29"
+    },
+    {
+      "opponent": "Guam",
+      "matches": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 6,
+      "goals_against": 2,
+      "first_match": "2013-03-04",
+      "last_match": "2015-11-12"
+    },
+    {
+      "opponent": "Jamaica",
+      "matches": 3,
+      "wins": 0,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 0,
+      "goals_against": 5,
+      "first_match": "2002-08-29",
+      "last_match": "2026-05-27"
+    },
+    {
+      "opponent": "Russia",
+      "matches": 3,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "goals_for": 2,
+      "goals_against": 19,
+      "first_match": "1955-09-16",
+      "last_match": "1991-01-24"
+    },
+    {
+      "opponent": "Saudi Arabia",
+      "matches": 3,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "goals_for": 1,
+      "goals_against": 11,
+      "first_match": "1982-11-27",
+      "last_match": "2006-09-06"
+    },
+    {
+      "opponent": "Brunei",
+      "matches": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 6,
+      "goals_against": 0,
+      "first_match": "2001-05-11",
+      "last_match": "2001-05-20"
+    },
+    {
+      "opponent": "Fiji",
+      "matches": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 1,
+      "goals_against": 3,
+      "first_match": "2005-08-12",
+      "last_match": "2005-08-14"
+    },
+    {
+      "opponent": "Finland",
+      "matches": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 2,
+      "first_match": "1993-01-20",
+      "last_match": "1993-01-26"
+    },
+    {
+      "opponent": "Ghana",
+      "matches": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 2,
+      "goals_against": 3,
+      "first_match": "1982-08-09",
+      "last_match": "1997-04-08"
+    },
+    {
+      "opponent": "Guyana",
+      "matches": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 1,
+      "goals_against": 5,
+      "first_match": "1984-06-18",
+      "last_match": "2011-08-24"
+    },
+    {
+      "opponent": "Israel",
+      "matches": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 1,
+      "goals_against": 5,
+      "first_match": "1959-12-08",
+      "last_match": "1964-05-29"
+    },
+    {
+      "opponent": "Jordan",
+      "matches": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 1,
+      "goals_against": 4,
+      "first_match": "2018-11-17",
+      "last_match": "2022-05-28"
+    },
+    {
+      "opponent": "Kenya",
+      "matches": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 5,
+      "goals_against": 0,
+      "first_match": "2018-06-04",
+      "last_match": "2018-06-10"
+    },
+    {
+      "opponent": "Laos",
+      "matches": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 7,
+      "goals_against": 1,
+      "first_match": "2016-06-02",
+      "last_match": "2016-06-07"
+    },
+    {
+      "opponent": "Macau",
+      "matches": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 6,
+      "goals_against": 1,
+      "first_match": "2017-09-05",
+      "last_match": "2017-10-11"
+    },
+    {
+      "opponent": "Mauritius",
+      "matches": 2,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 2,
+      "goals_against": 1,
+      "first_match": "2017-08-19",
+      "last_match": "2024-09-03"
+    },
+    {
+      "opponent": "New Zealand",
+      "matches": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 2,
+      "first_match": "1981-09-01",
+      "last_match": "2018-06-07"
+    },
+    {
+      "opponent": "Palestine",
+      "matches": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 4,
+      "goals_against": 7,
+      "first_match": "2013-02-06",
+      "last_match": "2014-10-06"
+    },
+    {
+      "opponent": "Suriname",
+      "matches": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 3,
+      "goals_against": 10,
+      "first_match": "1984-06-15",
+      "last_match": "1984-06-17"
+    },
+    {
+      "opponent": "Zimbabwe",
+      "matches": 2,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 5,
+      "goals_against": 4,
+      "first_match": "2003-10-29",
+      "last_match": "2026-05-30"
+    },
+    {
+      "opponent": "Argentina",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 1,
+      "first_match": "1984-01-14",
+      "last_match": "1984-01-14"
+    },
+    {
+      "opponent": "Azerbaijan",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 3,
+      "first_match": "2012-02-27",
+      "last_match": "2012-02-27"
+    },
+    {
+      "opponent": "Belarus",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 3,
+      "first_match": "2022-03-26",
+      "last_match": "2022-03-26"
+    },
+    {
+      "opponent": "Hungary",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 2,
+      "first_match": "1991-01-17",
+      "last_match": "1991-01-17"
+    },
+    {
+      "opponent": "Iceland",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 3,
+      "first_match": "2001-01-13",
+      "last_match": "2001-01-13"
+    },
+    {
+      "opponent": "Morocco",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 1,
+      "first_match": "1985-01-31",
+      "last_match": "1985-01-31"
+    },
+    {
+      "opponent": "Namibia",
+      "matches": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 2,
+      "goals_against": 0,
+      "first_match": "2010-09-15",
+      "last_match": "2010-09-15"
+    },
+    {
+      "opponent": "Peru",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 1,
+      "first_match": "1986-01-30",
+      "last_match": "1986-01-30"
+    },
+    {
+      "opponent": "Poland",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 2,
+      "first_match": "1984-01-11",
+      "last_match": "1984-01-11"
+    },
+    {
+      "opponent": "Puerto Rico",
+      "matches": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 4,
+      "goals_against": 1,
+      "first_match": "2016-09-03",
+      "last_match": "2016-09-03"
+    },
+    {
+      "opponent": "Rwanda",
+      "matches": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 3,
+      "goals_against": 1,
+      "first_match": "2003-10-22",
+      "last_match": "2003-10-22"
+    },
+    {
+      "opponent": "Saint Kitts and Nevis",
+      "matches": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 1,
+      "goals_against": 1,
+      "first_match": "2017-08-24",
+      "last_match": "2017-08-24"
+    },
+    {
+      "opponent": "Tunisia",
+      "matches": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goals_for": 2,
+      "goals_against": 2,
+      "first_match": "1960-08-21",
+      "last_match": "1960-08-21"
+    },
+    {
+      "opponent": "Uruguay",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 1,
+      "goals_against": 3,
+      "first_match": "1982-02-25",
+      "last_match": "1982-02-25"
+    },
+    {
+      "opponent": "Yugoslavia",
+      "matches": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 3,
+      "first_match": "1956-12-29",
+      "last_match": "1956-12-29"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय राष्ट्रीय फ़ुटबॉल टीम — प्रत्येक प्रतिद्वंद्वी के विरुद्ध रिकॉर्ड (75) - मुफ़्त डाउनलोड",
+    "description": "प्रत्येक प्रतिद्वंद्वी के विरुद्ध भारत की राष्ट्रीय फ़ुटबॉल टीम का कुल रिकॉर्ड, martj42/international_results की results.csv के सभी मैचों से गणना: मैच, जीत, ड्रॉ, हार, किए और खाए गोल, पहला और अंतिम मैच। परिणाम अंतिम स्कोर के आधार पर (शूटआउट के बिना)। मैचों की संख्या के क्रम में। शामिल हैं 75 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "भारतीय राष्ट्रीय फ़ुटबॉल टीम — प्रत्येक प्रतिद्वंद्वी के विरुद्ध रिकॉर्ड (75) | ListBase",
+    "seo_description": "डाउनलोड भारतीय राष्ट्रीय फ़ुटबॉल टीम — प्रत्येक प्रतिद्वंद्वी के विरुद्ध रिकॉर्ड (75) — 75 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 75 रिकॉर्ड / 9 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

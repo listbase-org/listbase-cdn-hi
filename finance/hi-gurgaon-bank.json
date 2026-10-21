@@ -1,0 +1,345 @@
+{
+  "id": "hi-gurgaon-bank",
+  "name": "Gurgaon में बैंक — SWIFT/BIC कोड",
+  "title": "Gurgaon में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Gurgaon, India. Subset of hi-bank. Source city string preserved verbatim as \"GURGAON\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 88,
+      "bank": "ANDHRA BANK",
+      "city": "GURGAON",
+      "branch": "(GURGAON)",
+      "swift_code": "ANDBINBBGUR"
+    },
+    {
+      "id": 313,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GURGAON",
+      "branch": "(DLF GURGAON BRANCH)",
+      "swift_code": "AXISINBB131"
+    },
+    {
+      "id": 314,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GURGAON",
+      "branch": "(GURGAON BRANCH)",
+      "swift_code": "AXISINBB056"
+    },
+    {
+      "id": 315,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GURGAON",
+      "branch": "(M G ROAD, GURGAON)",
+      "swift_code": "AXISINBB540"
+    },
+    {
+      "id": 316,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GURGAON",
+      "branch": "(SECTOR 10, GURGAON)",
+      "swift_code": "AXISINBBA91"
+    },
+    {
+      "id": 317,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GURGAON",
+      "branch": "(SECTOR 15, GURGAON)",
+      "swift_code": "AXISINBB791"
+    },
+    {
+      "id": 318,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GURGAON",
+      "branch": "(SECTOR 49,GURGAON (HR)-1262)",
+      "swift_code": "AXISINBBA53"
+    },
+    {
+      "id": 319,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GURGAON",
+      "branch": "(UDYOG VIHAR, GURGAON-1527)",
+      "swift_code": "AXISINBBA38"
+    },
+    {
+      "id": 670,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "GURGAON",
+      "branch": "(DLF BRANCH)",
+      "swift_code": "UTIBINB1131"
+    },
+    {
+      "id": 671,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "GURGAON",
+      "branch": "(GURGAON)",
+      "swift_code": "UTIBINB1056"
+    },
+    {
+      "id": 780,
+      "bank": "BANK OF BARODA",
+      "city": "GURGAON",
+      "branch": "(GURGAON MAIN BRANCH)",
+      "swift_code": "BARBINBBGUR"
+    },
+    {
+      "id": 781,
+      "bank": "BANK OF BARODA",
+      "city": "GURGAON",
+      "branch": "(MID-CORPORATE BR, GURGAON)",
+      "swift_code": "BARBINBBMCG"
+    },
+    {
+      "id": 1128,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "GURGAON",
+      "branch": "(GURGAON, HARYANA)",
+      "swift_code": "MAHBINBBGUR"
+    },
+    {
+      "id": 1257,
+      "bank": "CANARA BANK",
+      "city": "GURGAON",
+      "branch": "(GURGAON OLD RAILWAY ROAD MAIN)",
+      "swift_code": "CNRBINBBGRR"
+    },
+    {
+      "id": 1530,
+      "bank": "CORPORATION BANK",
+      "city": "GURGAON",
+      "branch": "(GURGAON LCB)",
+      "swift_code": "CORPINBBLCG"
+    },
+    {
+      "id": 1531,
+      "bank": "CORPORATION BANK",
+      "city": "GURGAON",
+      "branch": "(GURGAON)",
+      "swift_code": "CORPINBB449"
+    },
+    {
+      "id": 1652,
+      "bank": "DENA BANK",
+      "city": "GURGAON",
+      "branch": "(GURGAON BARNCH)",
+      "swift_code": "BKDNINBBGUR"
+    },
+    {
+      "id": 1734,
+      "bank": "FAIRWEALTH SECURITIES LTD",
+      "city": "GURGAON",
+      "branch": "",
+      "swift_code": "FAERIN21"
+    },
+    {
+      "id": 1840,
+      "bank": "HDFC BANK LIMITED",
+      "city": "GURGAON",
+      "branch": "(GURGAON BANK HOUSE)",
+      "swift_code": "HDFCINBBGBH"
+    },
+    {
+      "id": 1921,
+      "bank": "IDBI BANK LIMITED",
+      "city": "GURGAON",
+      "branch": "(SUSHANT LOK, GURGAON)",
+      "swift_code": "IBKLINBB171"
+    },
+    {
+      "id": 2037,
+      "bank": "INDIAN BANK",
+      "city": "GURGAON",
+      "branch": "(IMT MANESAR BRANCH)",
+      "swift_code": "IDIBINBBIMT"
+    },
+    {
+      "id": 2038,
+      "bank": "INDIAN BANK",
+      "city": "GURGAON",
+      "branch": "(SUSHANT LOK)",
+      "swift_code": "IDIBINBBLOK"
+    },
+    {
+      "id": 2139,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "GURGAON",
+      "branch": "(DLF QUTUB ENCLAVE BRANCH)",
+      "swift_code": "IOBAINBBE36"
+    },
+    {
+      "id": 2320,
+      "bank": "JAYPEE CAPITAL SERVICES LIMITED",
+      "city": "GURGAON",
+      "branch": "",
+      "swift_code": "JACSIND1"
+    },
+    {
+      "id": 2352,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "GURGAON",
+      "branch": "(GURGAON BRANCH)",
+      "swift_code": "KARBINBBGGN"
+    },
+    {
+      "id": 2457,
+      "bank": "ORBIS FINANCIAL CORPORATION LTD",
+      "city": "GURGAON",
+      "branch": "",
+      "swift_code": "OFCLINBB"
+    },
+    {
+      "id": 2487,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "GURGAON",
+      "branch": "(B/OVERSEAS GURGAON)",
+      "swift_code": "ORBCINBBGGN"
+    },
+    {
+      "id": 2660,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "GURGAON",
+      "branch": "(LARGE CORPORATE BRANCH)",
+      "swift_code": "PUNBINBBGMC"
+    },
+    {
+      "id": 2661,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "GURGAON",
+      "branch": "(UDYOG VIHAR)",
+      "swift_code": "PUNBINBBGUV"
+    },
+    {
+      "id": 2662,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "GURGAON",
+      "branch": "",
+      "swift_code": "PUNBINBBGGA"
+    },
+    {
+      "id": 2830,
+      "bank": "SAMSUNG C AND T INDIA PVT LTD",
+      "city": "GURGAON",
+      "branch": "",
+      "swift_code": "SIPOIND1"
+    },
+    {
+      "id": 3133,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GURGAON",
+      "branch": "(AHMEDABAD CIRCLE)",
+      "swift_code": "SBININBBT59"
+    },
+    {
+      "id": 3134,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GURGAON",
+      "branch": "(COMMERCIAL BRANCH, GURGAON)",
+      "swift_code": "SBININBB375"
+    },
+    {
+      "id": 3135,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GURGAON",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH55"
+    },
+    {
+      "id": 3136,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GURGAON",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBH67"
+    },
+    {
+      "id": 3137,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GURGAON",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ56"
+    },
+    {
+      "id": 3138,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GURGAON",
+      "branch": "(SPECIALISED NRI BRANCH, GURGAON)",
+      "swift_code": "SBININBB771"
+    },
+    {
+      "id": 3139,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GURGAON",
+      "branch": "(SPL. HOUSING FINANCE BRANCH,GURGAON)",
+      "swift_code": "SBININBB738"
+    },
+    {
+      "id": 3140,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GURGAON",
+      "branch": "(SUSHANT LOK BRANCH)",
+      "swift_code": "SBININBB657"
+    },
+    {
+      "id": 3760,
+      "bank": "SYNDICATE BANK",
+      "city": "GURGAON",
+      "branch": "(GURGAON CANTONMENT)",
+      "swift_code": "SYNBINBB337"
+    },
+    {
+      "id": 3761,
+      "bank": "SYNDICATE BANK",
+      "city": "GURGAON",
+      "branch": "(SME GURGAON)",
+      "swift_code": "SYNBINBB632"
+    },
+    {
+      "id": 4060,
+      "bank": "UNION BANK OF INDIA",
+      "city": "GURGAON",
+      "branch": "(GURGAON-SSI FINANCE BRANCH)",
+      "swift_code": "UBININBBGUR"
+    }
+  ],
+  "meta": {
+    "title": "Gurgaon में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Gurgaon, India. Subset of hi-bank. Source city string preserved verbatim as \"GURGAON\". शामिल हैं 42 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Gurgaon में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Gurgaon में बैंक — SWIFT/BIC कोड — 42 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 42 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

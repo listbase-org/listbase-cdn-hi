@@ -1,0 +1,520 @@
+{
+  "id": "hi-samay-kshetra-europe",
+  "name": "समय क्षेत्र — Europe (58)",
+  "title": "समय क्षेत्र — Europe (58)",
+  "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Europe/' से आरंभ होता है, हिन्दी नामों सहित।",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "kshetra",
+      "label": "Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "shahar",
+      "label": "Shahar",
+      "type": "string"
+    },
+    {
+      "key": "manak_naam",
+      "label": "Manak Naam",
+      "type": "string"
+    },
+    {
+      "key": "divakaal_naam",
+      "label": "Divakaal Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Europe/Amsterdam",
+      "kshetra": "Europe",
+      "shahar": "एम्स्टर्डम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Europe/Andorra",
+      "kshetra": "Europe",
+      "shahar": "अंडोरा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Europe/Astrakhan",
+      "kshetra": "Europe",
+      "shahar": "आस्ट्राखान",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Europe/Athens",
+      "kshetra": "Europe",
+      "shahar": "एथेंस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Europe/Belgrade",
+      "kshetra": "Europe",
+      "shahar": "बेलग्रेड",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Europe/Berlin",
+      "kshetra": "Europe",
+      "shahar": "बर्लिन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Europe/Bratislava",
+      "kshetra": "Europe",
+      "shahar": "ब्रातिस्लावा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Europe/Brussels",
+      "kshetra": "Europe",
+      "shahar": "ब्रूसेल्स",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Europe/Bucharest",
+      "kshetra": "Europe",
+      "shahar": "बुख़ारेस्ट",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Europe/Budapest",
+      "kshetra": "Europe",
+      "shahar": "बुडापेस्ट",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Europe/Busingen",
+      "kshetra": "Europe",
+      "shahar": "ब्यूसिनजेन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Europe/Chisinau",
+      "kshetra": "Europe",
+      "shahar": "चिसीनाउ",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Europe/Copenhagen",
+      "kshetra": "Europe",
+      "shahar": "कोपेनहेगन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Europe/Dublin",
+      "kshetra": "Europe",
+      "shahar": "डबलिन",
+      "manak_naam": "",
+      "divakaal_naam": "आइरिश मानक समय"
+    },
+    {
+      "id": 15,
+      "tz_id": "Europe/Gibraltar",
+      "kshetra": "Europe",
+      "shahar": "जिब्राल्टर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Europe/Guernsey",
+      "kshetra": "Europe",
+      "shahar": "गर्नसी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Europe/Helsinki",
+      "kshetra": "Europe",
+      "shahar": "हेलसिंकी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Europe/Isle_of_Man",
+      "kshetra": "Europe",
+      "shahar": "आइल ऑफ़ मैन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Europe/Istanbul",
+      "kshetra": "Europe",
+      "shahar": "इस्तांबुल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Europe/Jersey",
+      "kshetra": "Europe",
+      "shahar": "जर्सी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Europe/Kaliningrad",
+      "kshetra": "Europe",
+      "shahar": "कालीनिनग्राड",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Europe/Kiev",
+      "kshetra": "Europe",
+      "shahar": "कीव",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Europe/Kirov",
+      "kshetra": "Europe",
+      "shahar": "किरोव",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Europe/Lisbon",
+      "kshetra": "Europe",
+      "shahar": "लिस्बन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Europe/Ljubljana",
+      "kshetra": "Europe",
+      "shahar": "ल्यूबेलजाना",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Europe/London",
+      "kshetra": "Europe",
+      "shahar": "लंदन",
+      "manak_naam": "",
+      "divakaal_naam": "ब्रिटिश ग्रीष्मकालीन समय"
+    },
+    {
+      "id": 27,
+      "tz_id": "Europe/Luxembourg",
+      "kshetra": "Europe",
+      "shahar": "लक्ज़मबर्ग",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Europe/Madrid",
+      "kshetra": "Europe",
+      "shahar": "मैड्रिड",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Europe/Malta",
+      "kshetra": "Europe",
+      "shahar": "माल्टा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Europe/Mariehamn",
+      "kshetra": "Europe",
+      "shahar": "मारियाहैम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Europe/Minsk",
+      "kshetra": "Europe",
+      "shahar": "मिंस्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Europe/Monaco",
+      "kshetra": "Europe",
+      "shahar": "मोनाको",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Europe/Moscow",
+      "kshetra": "Europe",
+      "shahar": "मॉस्को",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Europe/Oslo",
+      "kshetra": "Europe",
+      "shahar": "ओस्लो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Europe/Paris",
+      "kshetra": "Europe",
+      "shahar": "पेरिस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Europe/Podgorica",
+      "kshetra": "Europe",
+      "shahar": "पोड्गोरिका",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Europe/Prague",
+      "kshetra": "Europe",
+      "shahar": "प्राग",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Europe/Riga",
+      "kshetra": "Europe",
+      "shahar": "रीगा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Europe/Rome",
+      "kshetra": "Europe",
+      "shahar": "रोम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Europe/Samara",
+      "kshetra": "Europe",
+      "shahar": "समारा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Europe/San_Marino",
+      "kshetra": "Europe",
+      "shahar": "सैन मारीनो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Europe/Sarajevo",
+      "kshetra": "Europe",
+      "shahar": "साराजेवो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Europe/Saratov",
+      "kshetra": "Europe",
+      "shahar": "सारातोव",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Europe/Simferopol",
+      "kshetra": "Europe",
+      "shahar": "सिम्फ़ेरोपोल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Europe/Skopje",
+      "kshetra": "Europe",
+      "shahar": "स्कोप्जे",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Europe/Sofia",
+      "kshetra": "Europe",
+      "shahar": "सोफ़िया",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Europe/Stockholm",
+      "kshetra": "Europe",
+      "shahar": "स्टॉकहोम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Europe/Tallinn",
+      "kshetra": "Europe",
+      "shahar": "तेलिन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Europe/Tirane",
+      "kshetra": "Europe",
+      "shahar": "टाइरेन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Europe/Ulyanovsk",
+      "kshetra": "Europe",
+      "shahar": "उल्यानोव्स्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Europe/Vaduz",
+      "kshetra": "Europe",
+      "shahar": "वादुज़",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Europe/Vatican",
+      "kshetra": "Europe",
+      "shahar": "वेटिकन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "Europe/Vienna",
+      "kshetra": "Europe",
+      "shahar": "विएना",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "Europe/Vilnius",
+      "kshetra": "Europe",
+      "shahar": "विल्नियस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "Europe/Volgograd",
+      "kshetra": "Europe",
+      "shahar": "वोल्गोग्राड",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Europe/Warsaw",
+      "kshetra": "Europe",
+      "shahar": "वॉरसॉ",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "Europe/Zagreb",
+      "kshetra": "Europe",
+      "shahar": "ज़ाग्रेब",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "Europe/Zurich",
+      "kshetra": "Europe",
+      "shahar": "ज़्यूरिख़",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    }
+  ],
+  "meta": {
+    "title": "समय क्षेत्र — Europe (58) - मुफ़्त डाउनलोड",
+    "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Europe/' से आरंभ होता है, हिन्दी नामों सहित। शामिल हैं 58 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "समय क्षेत्र — Europe (58) | ListBase",
+    "seo_description": "डाउनलोड समय क्षेत्र — Europe (58) — 58 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 58 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

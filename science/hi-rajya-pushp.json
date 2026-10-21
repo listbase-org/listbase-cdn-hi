@@ -1,0 +1,426 @@
+{
+  "id": "hi-rajya-pushp",
+  "name": "भारत के राज्य पुष्प (State Flowers of India)",
+  "title": "भारत के राज्य पुष्प (State Flowers of India)",
+  "description": "36 state and union-territory flowers officially designated by Indian state governments, with common name, binomial scientific name, IUCN Red List category, contextual notes, and Wikimedia Commons image reference.",
+  "category": "science",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "common_name",
+      "label": "Common Name",
+      "type": "string"
+    },
+    {
+      "key": "binomial_name",
+      "label": "Binomial Name",
+      "type": "string"
+    },
+    {
+      "key": "iucn_category",
+      "label": "Iucn Category",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "image_src",
+      "label": "Image Src",
+      "type": "string"
+    },
+    {
+      "key": "image_alt",
+      "label": "Image Alt",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "state_slug": "andaman-and-nicobar-islands",
+      "common_name": "Andaman Pyinma",
+      "binomial_name": "Lagerstroemia hypoleuca",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "",
+      "image_alt": ""
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_slug": "andhra-pradesh",
+      "common_name": "Jasmine",
+      "binomial_name": "Jasminum sambac",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jasminum_sambac.jpg/150px-Jasminum_sambac.jpg",
+      "image_alt": "Jasminum sambac.jpg"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_slug": "arunachal-pradesh",
+      "common_name": "Foxtail Orchid",
+      "binomial_name": "Rhynchostylis retusa",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Rhynchostylis_retusa_%28Foxtail_orchid%29.jpg/150px-Rhynchostylis_retusa_%28Foxtail_orchid%29.jpg",
+      "image_alt": ""
+    },
+    {
+      "state": "Assam",
+      "state_slug": "assam",
+      "common_name": "Foxtail Orchid",
+      "binomial_name": "Rhynchostylis retusa",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/5/55/%E0%A6%95%E0%A6%AA%E0%A7%8C%E0%A6%AB%E0%A7%81%E0%A6%B2.jpg/150px-%E0%A6%95%E0%A6%AA%E0%A7%8C%E0%A6%AB%E0%A7%81%E0%A6%B2.jpg",
+      "image_alt": "কপৌফুল.jpg"
+    },
+    {
+      "state": "Bihar",
+      "state_slug": "bihar",
+      "common_name": "Orchid Tree (Kachnar)",
+      "binomial_name": "Bauhinia variegata",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bauhinia_variegata_%2825219815170%29.jpg/150px-Bauhinia_variegata_%2825219815170%29.jpg",
+      "image_alt": "Bauhinia variegata (25219815170).jpg"
+    },
+    {
+      "state": "Chandigarh",
+      "state_slug": "chandigarh",
+      "common_name": "Palash",
+      "binomial_name": "Butea monosperma",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/8/80/Palash_Tree.jpg/150px-Palash_Tree.jpg",
+      "image_alt": "Palash Tree.jpg"
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_slug": "chhattisgarh",
+      "common_name": "French Marigold",
+      "binomial_name": "Tagetes patula",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/3/30/French_Marigold.jpg/115px-French_Marigold.jpg",
+      "image_alt": "French Marigold.jpg"
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "state_slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+      "common_name": "not yet designated",
+      "binomial_name": "",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "",
+      "image_alt": ""
+    },
+    {
+      "state": "Delhi",
+      "state_slug": "delhi",
+      "common_name": "Alfalfa",
+      "binomial_name": "Medicago sativa",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Luzerne_Rose.jpg/150px-Luzerne_Rose.jpg",
+      "image_alt": "Luzerne Rose.jpg"
+    },
+    {
+      "state": "Goa",
+      "state_slug": "goa",
+      "common_name": "Frangipani",
+      "binomial_name": "Plumeria rubra",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fleurs_de_Frangipanier_%28%C3%8Ele_de_la_R%C3%A9union%29_%284125134278%29.jpg/172px-Fleurs_de_Frangipanier_%28%C3%8Ele_de_la_R%C3%A9union%29_%284125134278%29.jpg",
+      "image_alt": "Fleurs de Frangipanier (Île de la Réunion) (4125134278).jpg"
+    },
+    {
+      "state": "Gujarat",
+      "state_slug": "gujarat",
+      "common_name": "African Marigold",
+      "binomial_name": "Tagetes erecta",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tagetes_x_erecta1.jpg/150px-Tagetes_x_erecta1.jpg",
+      "image_alt": "Tagetes x erecta1.jpg"
+    },
+    {
+      "state": "Haryana",
+      "state_slug": "haryana",
+      "common_name": "Lotus",
+      "binomial_name": "Nelumbo nucifera",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Indian_Lotus_%28Nelumbo_nucifera%29.jpg/150px-Indian_Lotus_%28Nelumbo_nucifera%29.jpg",
+      "image_alt": "Indian Lotus (Nelumbo nucifera).jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "state_slug": "himachal-pradesh",
+      "common_name": "Pink rhododendron",
+      "binomial_name": "Rhododendron campanulatum",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pink_Rhododendron_Blossom_Prashar_Himachal_Apr11_P1020872.jpg/150px-Pink_Rhododendron_Blossom_Prashar_Himachal_Apr11_P1020872.jpg",
+      "image_alt": "Pink Rhododendron Blossom Prashar Himachal Apr11 P1020872.jpg"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "state_slug": "jammu-and-kashmir",
+      "common_name": "Common rhododendron",
+      "binomial_name": "Rhododendron ponticum",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/0/00/Rhododendron_ponticum_2.jpg/150px-Rhododendron_ponticum_2.jpg",
+      "image_alt": "Rhododendron ponticum 2.jpg"
+    },
+    {
+      "state": "Jharkhand",
+      "state_slug": "jharkhand",
+      "common_name": "Palash",
+      "binomial_name": "Butea monosperma",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/3/38/STS_001_Butea_monosperma.jpg/150px-STS_001_Butea_monosperma.jpg",
+      "image_alt": "STS 001 Butea monosperma.jpg"
+    },
+    {
+      "state": "Karnataka",
+      "state_slug": "karnataka",
+      "common_name": "Lotus",
+      "binomial_name": "Nelumbo nucifera",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Indian_Lotus_%28Nelumbo_nucifera%29.jpg/150px-Indian_Lotus_%28Nelumbo_nucifera%29.jpg",
+      "image_alt": "Indian Lotus (Nelumbo nucifera).jpg"
+    },
+    {
+      "state": "Kerala",
+      "state_slug": "kerala",
+      "common_name": "Golden shower tree",
+      "binomial_name": "Cassia fistula",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cassia-fistula.jpg/150px-Cassia-fistula.jpg",
+      "image_alt": "Cassia-fistula.jpg"
+    },
+    {
+      "state": "Ladakh",
+      "state_slug": "ladakh",
+      "common_name": "Not yet designated",
+      "binomial_name": "",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "",
+      "image_alt": ""
+    },
+    {
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "common_name": "Neelakurinji",
+      "binomial_name": "Strobilanthes kunthiana",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kurinji_Flowers.jpg/150px-Kurinji_Flowers.jpg",
+      "image_alt": "Kurinji Flowers.jpg"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "state_slug": "madhya-pradesh",
+      "common_name": "Parrot tree",
+      "binomial_name": "Butea monosperma",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/3/38/STS_001_Butea_monosperma.jpg/150px-STS_001_Butea_monosperma.jpg",
+      "image_alt": "STS 001 Butea monosperma.jpg"
+    },
+    {
+      "state": "Maharashtra",
+      "state_slug": "maharashtra",
+      "common_name": "Pride of India (Jarul)",
+      "binomial_name": "Lagerstroemia speciosa",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Jarul.jpg/150px-Jarul.jpg",
+      "image_alt": "Jarul.jpg"
+    },
+    {
+      "state": "Manipur",
+      "state_slug": "manipur",
+      "common_name": "Siroi lily",
+      "binomial_name": "Lilium mackliniae",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Siroi_Lily.jpg/150px-Siroi_Lily.jpg",
+      "image_alt": "Siroi Lily.jpg"
+    },
+    {
+      "state": "Meghalaya",
+      "state_slug": "meghalaya",
+      "common_name": "Gambar",
+      "binomial_name": "Cypripedioideae",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pinkslipper.jpg/150px-Pinkslipper.jpg",
+      "image_alt": "Pinkslipper.jpg"
+    },
+    {
+      "state": "Mizoram",
+      "state_slug": "mizoram",
+      "common_name": "Red Vanda",
+      "binomial_name": "Renanthera imschootiana",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Renanthera_imschootiana_01.jpg/150px-Renanthera_imschootiana_01.jpg",
+      "image_alt": "Renanthera imschootiana 01.jpg"
+    },
+    {
+      "state": "Nagaland",
+      "state_slug": "nagaland",
+      "common_name": "Rhododendron",
+      "binomial_name": "Rhododendron arboreum",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rhododendron_arboreum_2009.jpg/150px-Rhododendron_arboreum_2009.jpg",
+      "image_alt": "Rhododendron arboreum 2009.jpg"
+    },
+    {
+      "state": "Odisha",
+      "state_slug": "odisha",
+      "common_name": "Ashoka",
+      "binomial_name": "Saraca asoca",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sita-Ashok_%28Saraca_asoca%29_flowers_in_Kolkata_W_IMG_4146.jpg/150px-Sita-Ashok_%28Saraca_asoca%29_flowers_in_Kolkata_W_IMG_4146.jpg",
+      "image_alt": "Sita-Ashok (Saraca asoca) flowers in Kolkata W IMG 4146.jpg"
+    },
+    {
+      "state": "Puducherry",
+      "state_slug": "puducherry",
+      "common_name": "Cannonball tree's flower",
+      "binomial_name": "Couroupita guianensis",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cannonballtree2.jpg/150px-Cannonballtree2.jpg",
+      "image_alt": "Cannonballtree2.jpg"
+    },
+    {
+      "state": "Punjab",
+      "state_slug": "punjab",
+      "common_name": "Gladiolus",
+      "binomial_name": "N/A",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Acidanthera.jpg/150px-Acidanthera.jpg",
+      "image_alt": "Acidanthera.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "state_slug": "rajasthan",
+      "common_name": "Rohira",
+      "binomial_name": "Tecomella undulata",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tecomella_leaf.jpg/150px-Tecomella_leaf.jpg",
+      "image_alt": "Tecomella leaf.jpg"
+    },
+    {
+      "state": "Sikkim",
+      "state_slug": "sikkim",
+      "common_name": "Noble orchid",
+      "binomial_name": "Cymbidium goeringii",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cymbidium_goeringii_%27Setsuzan%27.jpg/150px-Cymbidium_goeringii_%27Setsuzan%27.jpg",
+      "image_alt": "Cymbidium goeringii 'Setsuzan'.jpg"
+    },
+    {
+      "state": "Tamil Nadu",
+      "state_slug": "tamil-nadu",
+      "common_name": "Glory lily",
+      "binomial_name": "Gloriosa superba",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gloriosa_rothschildiana_01.jpg/150px-Gloriosa_rothschildiana_01.jpg",
+      "image_alt": "Gloriosa rothschildiana 01.jpg"
+    },
+    {
+      "state": "Telangana",
+      "state_slug": "telangana",
+      "common_name": "Tangedu Puvvu",
+      "binomial_name": "Senna auriculata",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ranawara_or_Avaram-_Senna_auriculata_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_044.jpg/150px-Ranawara_or_Avaram-_Senna_auriculata_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_044.jpg",
+      "image_alt": "Ranawara or Avaram- Senna auriculata at Sindhrot near Vadodara, Gujrat Pix 044.jpg"
+    },
+    {
+      "state": "Tripura",
+      "state_slug": "tripura",
+      "common_name": "Nag Kesar",
+      "binomial_name": "Mesua ferrea",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mesua_ferrea.jpg/150px-Mesua_ferrea.jpg",
+      "image_alt": "Mesua ferrea.jpg"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "state_slug": "uttar-pradesh",
+      "common_name": "Palash",
+      "binomial_name": "Butea monosperma",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/3/38/STS_001_Butea_monosperma.jpg/150px-STS_001_Butea_monosperma.jpg",
+      "image_alt": "STS 001 Butea monosperma.jpg"
+    },
+    {
+      "state": "Uttarakhand",
+      "state_slug": "uttarakhand",
+      "common_name": "Brahma Kamal",
+      "binomial_name": "Saussurea obvallata",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Brahmakamal_Kaluvinayak_Chamoli_Uttarakhand_2014-08-23.jpg/150px-Brahmakamal_Kaluvinayak_Chamoli_Uttarakhand_2014-08-23.jpg",
+      "image_alt": "Brahmakamal Kaluvinayak Chamoli Uttarakhand 2014-08-23.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "state_slug": "west-bengal",
+      "common_name": "Night flowering jasmine",
+      "binomial_name": "Nyctanthes arbor-tristis",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flower_%26_flower_buds_I_IMG_2257.jpg/150px-Flower_%26_flower_buds_I_IMG_2257.jpg",
+      "image_alt": "Flower & flower buds I IMG 2257.jpg"
+    }
+  ],
+  "meta": {
+    "title": "भारत के राज्य पुष्प (State Flowers of India) - मुफ़्त डाउनलोड",
+    "description": "36 state and union-territory flowers officially designated by Indian state governments, with common name, binomial scientific name, IUCN Red List category, contextual notes, and Wikimedia Commons image reference. शामिल हैं 36 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "भारत के राज्य पुष्प (State Flowers of India) | ListBase",
+    "seo_description": "डाउनलोड भारत के राज्य पुष्प (State Flowers of India) — 36 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 36 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,6886 @@
+{
+  "id": "hi-haryana-shahar",
+  "name": "हरियाणा के शहर (Haryana Cities)",
+  "title": "हरियाणा के शहर (Haryana Cities)",
+  "description": "हरियाणा राज्य के 682 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 682 cities and towns in Haryana, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 682,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agaundh",
+      "name_lower": "agaundh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.983333,
+      "longitude": 76.25
+    },
+    {
+      "name": "Agroha",
+      "name_lower": "agroha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.333333,
+      "longitude": 75.633333
+    },
+    {
+      "name": "Aharwan",
+      "name_lower": "aharwan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.616667,
+      "longitude": 75.55
+    },
+    {
+      "name": "Alika",
+      "name_lower": "alika",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.733333,
+      "longitude": 75.433333
+    },
+    {
+      "name": "Amarpur Jorasi",
+      "name_lower": "amarpur jorasi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.015278,
+      "longitude": 76.061944
+    },
+    {
+      "name": "Ambata",
+      "name_lower": "ambata",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.378333,
+      "longitude": 76.780833
+    },
+    {
+      "name": "Amin",
+      "name_lower": "amin",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.916667,
+      "longitude": 76.85
+    },
+    {
+      "name": "Andhgarh",
+      "name_lower": "andhgarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.919722,
+      "longitude": 77.046389
+    },
+    {
+      "name": "Anwali",
+      "name_lower": "anwali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.998611,
+      "longitude": 76.755556
+    },
+    {
+      "name": "Asan Kalan",
+      "name_lower": "asan kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.409167,
+      "longitude": 76.878056
+    },
+    {
+      "name": "Asandh",
+      "name_lower": "asandh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 25325,
+      "latitude": 29.516667,
+      "longitude": 76.6
+    },
+    {
+      "name": "Asauda Todran",
+      "name_lower": "asauda todran",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.751389,
+      "longitude": 76.873056
+    },
+    {
+      "name": "Asaudah",
+      "name_lower": "asaudah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.751389,
+      "longitude": 76.873056
+    },
+    {
+      "name": "Asaudah Todran",
+      "name_lower": "asaudah todran",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.751389,
+      "longitude": 76.873056
+    },
+    {
+      "name": "Asenda",
+      "name_lower": "asenda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.755833,
+      "longitude": 76.755556
+    },
+    {
+      "name": "Asiaki",
+      "name_lower": "asiaki",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.333333,
+      "longitude": 76.65
+    },
+    {
+      "name": "Ateli",
+      "name_lower": "ateli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 6177,
+      "latitude": 28.1,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Awadhan",
+      "name_lower": "awadhan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.75,
+      "longitude": 74.9
+    },
+    {
+      "name": "Azimpur",
+      "name_lower": "azimpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.116111,
+      "longitude": 76.104167
+    },
+    {
+      "name": "Azizullahpur",
+      "name_lower": "azizullahpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.436944,
+      "longitude": 76.991389
+    },
+    {
+      "name": "Babain",
+      "name_lower": "babain",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.072222,
+      "longitude": 76.980556
+    },
+    {
+      "name": "Babarpur",
+      "name_lower": "babarpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.448611,
+      "longitude": 76.969444
+    },
+    {
+      "name": "Bachpari",
+      "name_lower": "bachpari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.427222,
+      "longitude": 76.984722
+    },
+    {
+      "name": "Badarpur",
+      "name_lower": "badarpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.852778,
+      "longitude": 77.126667
+    },
+    {
+      "name": "Badchhappar",
+      "name_lower": "badchhappar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.126389,
+      "longitude": 76.302222
+    },
+    {
+      "name": "Badhauli",
+      "name_lower": "badhauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.35,
+      "longitude": 77.05
+    },
+    {
+      "name": "Badherl",
+      "name_lower": "badherl",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.901667,
+      "longitude": 77.057222
+    },
+    {
+      "name": "Badhwana",
+      "name_lower": "badhwana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.483333,
+      "longitude": 76.183333
+    },
+    {
+      "name": "Badli",
+      "name_lower": "badli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.583333,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Badopal",
+      "name_lower": "badopal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.416667,
+      "longitude": 75.55
+    },
+    {
+      "name": "Badrai",
+      "name_lower": "badrai",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.422222,
+      "longitude": 76.024444
+    },
+    {
+      "name": "Bahadurgarh",
+      "name_lower": "bahadurgarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 153666,
+      "latitude": 28.683333,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Bahauddin",
+      "name_lower": "bahauddin",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.55,
+      "longitude": 75.216667
+    },
+    {
+      "name": "Bahauli",
+      "name_lower": "bahauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.478889,
+      "longitude": 76.882222
+    },
+    {
+      "name": "Bahlolpur",
+      "name_lower": "bahlolpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.864722,
+      "longitude": 77.016389
+    },
+    {
+      "name": "Bahnan",
+      "name_lower": "bahnan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.980833,
+      "longitude": 77.012778
+    },
+    {
+      "name": "Bahora",
+      "name_lower": "bahora",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.316667,
+      "longitude": 76.833333
+    },
+    {
+      "name": "Bahora Kalan",
+      "name_lower": "bahora kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.316667,
+      "longitude": 76.833333
+    },
+    {
+      "name": "Bahuna",
+      "name_lower": "bahuna",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.55,
+      "longitude": 75.7
+    },
+    {
+      "name": "Bahya",
+      "name_lower": "bahya",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.6,
+      "longitude": 74.683333
+    },
+    {
+      "name": "Bainsi",
+      "name_lower": "bainsi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.033333,
+      "longitude": 76.416667
+    },
+    {
+      "name": "Bairsal",
+      "name_lower": "bairsal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.905,
+      "longitude": 76.947222
+    },
+    {
+      "name": "Bakheta",
+      "name_lower": "bakheta",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.921944,
+      "longitude": 76.811944
+    },
+    {
+      "name": "Bakhli",
+      "name_lower": "bakhli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.033333,
+      "longitude": 76.516667
+    },
+    {
+      "name": "Bakipur",
+      "name_lower": "bakipur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.896389,
+      "longitude": 76.946667
+    },
+    {
+      "name": "Balawal",
+      "name_lower": "balawal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.583333,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Baliyali",
+      "name_lower": "baliyali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.9,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Bamnikhera",
+      "name_lower": "bamnikhera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.066667,
+      "longitude": 77.366667
+    },
+    {
+      "name": "Banbhauri",
+      "name_lower": "banbhauri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.416667,
+      "longitude": 76.05
+    },
+    {
+      "name": "Bapauli",
+      "name_lower": "bapauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.333333,
+      "longitude": 77.1
+    },
+    {
+      "name": "Bapda",
+      "name_lower": "bapda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.973056,
+      "longitude": 77.056389
+    },
+    {
+      "name": "Bapdi",
+      "name_lower": "bapdi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.973889,
+      "longitude": 77.066389
+    },
+    {
+      "name": "Bara Gudah",
+      "name_lower": "bara gudah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.7,
+      "longitude": 75.016667
+    },
+    {
+      "name": "Bara Gudha",
+      "name_lower": "bara gudha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.7,
+      "longitude": 75.016667
+    },
+    {
+      "name": "Bara Uchana",
+      "name_lower": "bara uchana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.466667,
+      "longitude": 76.166667
+    },
+    {
+      "name": "Baraoli",
+      "name_lower": "baraoli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.468611,
+      "longitude": 76.964722
+    },
+    {
+      "name": "Baras",
+      "name_lower": "baras",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.733333,
+      "longitude": 76.75
+    },
+    {
+      "name": "Baraundi",
+      "name_lower": "baraundi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.958889,
+      "longitude": 77.043333
+    },
+    {
+      "name": "Barauta",
+      "name_lower": "barauta",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.623611,
+      "longitude": 76.935556
+    },
+    {
+      "name": "Barauth",
+      "name_lower": "barauth",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.960278,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Barawwa",
+      "name_lower": "barawwa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.966667,
+      "longitude": 75.616667
+    },
+    {
+      "name": "Barechhpur",
+      "name_lower": "barechhpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.980833,
+      "longitude": 77.030278
+    },
+    {
+      "name": "Bari Bhaini",
+      "name_lower": "bari bhaini",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.001389,
+      "longitude": 76.307222
+    },
+    {
+      "name": "Barsalu",
+      "name_lower": "barsalu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.887222,
+      "longitude": 76.979722
+    },
+    {
+      "name": "Bas Khurd",
+      "name_lower": "bas khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.423333,
+      "longitude": 76.070556
+    },
+    {
+      "name": "Basdhara",
+      "name_lower": "basdhara",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.568056,
+      "longitude": 76.989444
+    },
+    {
+      "name": "Bashipur",
+      "name_lower": "bashipur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.003611,
+      "longitude": 76.043611
+    },
+    {
+      "name": "Bastali",
+      "name_lower": "bastali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.733333,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Batawar",
+      "name_lower": "batawar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.55,
+      "longitude": 76.95
+    },
+    {
+      "name": "Baund",
+      "name_lower": "baund",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.783333,
+      "longitude": 76.35
+    },
+    {
+      "name": "Baund Kalan",
+      "name_lower": "baund kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.783333,
+      "longitude": 76.35
+    },
+    {
+      "name": "Bawal",
+      "name_lower": "bawal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 13319,
+      "latitude": 28.083333,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Bawana",
+      "name_lower": "bawana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.383333,
+      "longitude": 76.183333
+    },
+    {
+      "name": "Bawani",
+      "name_lower": "bawani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.95,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Bedwa",
+      "name_lower": "bedwa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.066389,
+      "longitude": 76.3125
+    },
+    {
+      "name": "Beri Khas",
+      "name_lower": "beri khas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.7,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Bhadas",
+      "name_lower": "bhadas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.933333,
+      "longitude": 77
+    },
+    {
+      "name": "Bhagal",
+      "name_lower": "bhagal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.066944,
+      "longitude": 76.419444
+    },
+    {
+      "name": "Bhagotipur",
+      "name_lower": "bhagotipur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.984167,
+      "longitude": 76.516111
+    },
+    {
+      "name": "Bhaini Chandarpal",
+      "name_lower": "bhaini chandarpal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.001389,
+      "longitude": 76.307222
+    },
+    {
+      "name": "Bhainisurjan",
+      "name_lower": "bhainisurjan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.008056,
+      "longitude": 76.264722
+    },
+    {
+      "name": "Bhainsru Kalan",
+      "name_lower": "bhainsru kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.811944,
+      "longitude": 76.821944
+    },
+    {
+      "name": "Bhainsru Khurd",
+      "name_lower": "bhainsru khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.814722,
+      "longitude": 76.81
+    },
+    {
+      "name": "Bhalaut",
+      "name_lower": "bhalaut",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.9,
+      "longitude": 76.7
+    },
+    {
+      "name": "Bhandwa",
+      "name_lower": "bhandwa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.516667,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Bhankhari Kalan",
+      "name_lower": "bhankhari kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.088889,
+      "longitude": 76.010556
+    },
+    {
+      "name": "Bhankhari Khurd",
+      "name_lower": "bhankhari khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.091111,
+      "longitude": 76.015278
+    },
+    {
+      "name": "Bhaoji",
+      "name_lower": "bhaoji",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.9225,
+      "longitude": 77.114722
+    },
+    {
+      "name": "Bharawas",
+      "name_lower": "bharawas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.15,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Bhatla",
+      "name_lower": "bhatla",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.183333,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Bhattu",
+      "name_lower": "bhattu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.6,
+      "longitude": 75.316667
+    },
+    {
+      "name": "Bhirrana",
+      "name_lower": "bhirrana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.55,
+      "longitude": 75.55
+    },
+    {
+      "name": "Bhiruk",
+      "name_lower": "bhiruk",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.916667,
+      "longitude": 77.45
+    },
+    {
+      "name": "Bhiwani",
+      "name_lower": "bhiwani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 190868,
+      "latitude": 28.783333,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Bhogriwala",
+      "name_lower": "bhogriwala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.283333,
+      "longitude": 77.55
+    },
+    {
+      "name": "Bhumsi",
+      "name_lower": "bhumsi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.945,
+      "longitude": 77.039167
+    },
+    {
+      "name": "Bhundsi",
+      "name_lower": "bhundsi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Bhusli",
+      "name_lower": "bhusli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.613611,
+      "longitude": 76.953611
+    },
+    {
+      "name": "Bhut Majra",
+      "name_lower": "bhut majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.958611,
+      "longitude": 77.073056
+    },
+    {
+      "name": "Bibipur",
+      "name_lower": "bibipur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.848889,
+      "longitude": 77.149722
+    },
+    {
+      "name": "Bibipur Jatan",
+      "name_lower": "bibipur jatan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.826389,
+      "longitude": 77.041111
+    },
+    {
+      "name": "Bichhor",
+      "name_lower": "bichhor",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.85,
+      "longitude": 77.316667
+    },
+    {
+      "name": "Bidauli",
+      "name_lower": "bidauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.583333,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Bidhlan",
+      "name_lower": "bidhlan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.948889,
+      "longitude": 76.865278
+    },
+    {
+      "name": "Bijna",
+      "name_lower": "bijna",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.598611,
+      "longitude": 76.931389
+    },
+    {
+      "name": "Bijuwali",
+      "name_lower": "bijuwali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.733333,
+      "longitude": 74.733333
+    },
+    {
+      "name": "Bila",
+      "name_lower": "bila",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.633333,
+      "longitude": 76.933333
+    },
+    {
+      "name": "Bilbilan",
+      "name_lower": "bilbilan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.999444,
+      "longitude": 76.781111
+    },
+    {
+      "name": "Binjhaul",
+      "name_lower": "binjhaul",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.361111,
+      "longitude": 76.943056
+    },
+    {
+      "name": "Bir Bhadson",
+      "name_lower": "bir bhadson",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.906944,
+      "longitude": 76.971667
+    },
+    {
+      "name": "Bir Majra",
+      "name_lower": "bir majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.830556,
+      "longitude": 77.107778
+    },
+    {
+      "name": "Bir Mathana",
+      "name_lower": "bir mathana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.990833,
+      "longitude": 76.926111
+    },
+    {
+      "name": "Bir Pipli",
+      "name_lower": "bir pipli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.989722,
+      "longitude": 76.889722
+    },
+    {
+      "name": "Bir Rai Tikhana",
+      "name_lower": "bir rai tikhana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.936667,
+      "longitude": 77.013333
+    },
+    {
+      "name": "Bir Seonti",
+      "name_lower": "bir seonti",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.986944,
+      "longitude": 76.980278
+    },
+    {
+      "name": "Birchpur",
+      "name_lower": "birchpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.614167,
+      "longitude": 76.919444
+    },
+    {
+      "name": "Bithmara",
+      "name_lower": "bithmara",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.55,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Blani",
+      "name_lower": "blani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.8225,
+      "longitude": 77.12
+    },
+    {
+      "name": "Bodhi",
+      "name_lower": "bodhi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.939722,
+      "longitude": 76.943889
+    },
+    {
+      "name": "Bohar",
+      "name_lower": "bohar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.9,
+      "longitude": 76.65
+    },
+    {
+      "name": "Bojawas",
+      "name_lower": "bojawas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.3,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Borsham",
+      "name_lower": "borsham",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.301944,
+      "longitude": 76.948056
+    },
+    {
+      "name": "Brahman Majra",
+      "name_lower": "brahman majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.95,
+      "longitude": 77.045556
+    },
+    {
+      "name": "Brahmana",
+      "name_lower": "brahmana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.848889,
+      "longitude": 77.149722
+    },
+    {
+      "name": "Bub Shahar",
+      "name_lower": "bub shahar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.85,
+      "longitude": 74.616667
+    },
+    {
+      "name": "Bubshahr",
+      "name_lower": "bubshahr",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.85,
+      "longitude": 74.616667
+    },
+    {
+      "name": "Budha",
+      "name_lower": "budha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.983056,
+      "longitude": 77.074167
+    },
+    {
+      "name": "Budha Khera Kalwa",
+      "name_lower": "budha khera kalwa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.383333,
+      "longitude": 76.55
+    },
+    {
+      "name": "Budhanpurabad",
+      "name_lower": "budhanpurabad",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.595,
+      "longitude": 76.906944
+    },
+    {
+      "name": "Budhera",
+      "name_lower": "budhera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 75.783333
+    },
+    {
+      "name": "Bupania",
+      "name_lower": "bupania",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.65,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Burhanpur Khalsa",
+      "name_lower": "burhanpur khalsa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.924444,
+      "longitude": 77.103611
+    },
+    {
+      "name": "Burhanpur Sikri",
+      "name_lower": "burhanpur sikri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.890833,
+      "longitude": 77.014722
+    },
+    {
+      "name": "Buriya",
+      "name_lower": "buriya",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.15,
+      "longitude": 77.35
+    },
+    {
+      "name": "Busahah",
+      "name_lower": "busahah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.9,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Butana",
+      "name_lower": "butana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.183333,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Chanderbhanpur",
+      "name_lower": "chanderbhanpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.931667,
+      "longitude": 76.878889
+    },
+    {
+      "name": "Chandnibagh",
+      "name_lower": "chandnibagh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.388889,
+      "longitude": 76.991111
+    },
+    {
+      "name": "Chandraon",
+      "name_lower": "chandraon",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.911944,
+      "longitude": 77.178333
+    },
+    {
+      "name": "Chandsamand",
+      "name_lower": "chandsamand",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.818611,
+      "longitude": 77.106667
+    },
+    {
+      "name": "Chang",
+      "name_lower": "chang",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.883333,
+      "longitude": 76.25
+    },
+    {
+      "name": "Chappar",
+      "name_lower": "chappar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.65,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Charkhi",
+      "name_lower": "charkhi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.616667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Charkhi Dadri",
+      "name_lower": "charkhi dadri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 50562,
+      "latitude": 28.6,
+      "longitude": 76.266667
+    },
+    {
+      "name": "Charki",
+      "name_lower": "charki",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.616667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Charki Dadrai",
+      "name_lower": "charki dadrai",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.6,
+      "longitude": 76.266667
+    },
+    {
+      "name": "Charki Dadri",
+      "name_lower": "charki dadri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.6,
+      "longitude": 76.266667
+    },
+    {
+      "name": "Charkli",
+      "name_lower": "charkli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.616667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Charpura",
+      "name_lower": "charpura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.806389,
+      "longitude": 77.117778
+    },
+    {
+      "name": "Chaudhri ka Nangal",
+      "name_lower": "chaudhri ka nangal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.883333,
+      "longitude": 76.1
+    },
+    {
+      "name": "Chaugawan",
+      "name_lower": "chaugawan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.934444,
+      "longitude": 77.181389
+    },
+    {
+      "name": "Chaunra",
+      "name_lower": "chaunra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.791389,
+      "longitude": 77.113611
+    },
+    {
+      "name": "Chautala",
+      "name_lower": "chautala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.783333,
+      "longitude": 74.533333
+    },
+    {
+      "name": "Chhachhrauli",
+      "name_lower": "chhachhrauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 10751,
+      "latitude": 30.25,
+      "longitude": 77.366667
+    },
+    {
+      "name": "Chhaensa",
+      "name_lower": "chhaensa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.266667,
+      "longitude": 77.466667
+    },
+    {
+      "name": "Chhalaundi",
+      "name_lower": "chhalaundi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.984444,
+      "longitude": 77.0975
+    },
+    {
+      "name": "Chharah",
+      "name_lower": "chharah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.7,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Chhota Khanda",
+      "name_lower": "chhota khanda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.943333,
+      "longitude": 76.924444
+    },
+    {
+      "name": "Chika",
+      "name_lower": "chika",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.048889,
+      "longitude": 76.344444
+    },
+    {
+      "name": "Chotala",
+      "name_lower": "chotala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.783333,
+      "longitude": 74.533333
+    },
+    {
+      "name": "Chuchakwas",
+      "name_lower": "chuchakwas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.616667,
+      "longitude": 76.5
+    },
+    {
+      "name": "Churni",
+      "name_lower": "churni",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.805833,
+      "longitude": 77.025
+    },
+    {
+      "name": "Dabkauli Kalan",
+      "name_lower": "dabkauli kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.809167,
+      "longitude": 77.135278
+    },
+    {
+      "name": "Dabwali",
+      "name_lower": "dabwali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 62118,
+      "latitude": 29.95,
+      "longitude": 74.733333
+    },
+    {
+      "name": "Dadlana",
+      "name_lower": "dadlana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.493056,
+      "longitude": 76.895556
+    },
+    {
+      "name": "Dagroli",
+      "name_lower": "dagroli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.478611,
+      "longitude": 76.041944
+    },
+    {
+      "name": "Dahina",
+      "name_lower": "dahina",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Damla",
+      "name_lower": "damla",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.083333,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Danauda",
+      "name_lower": "danauda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.533333,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Danauda Kalan",
+      "name_lower": "danauda kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.533333,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Dandma",
+      "name_lower": "dandma",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.583333,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Daola",
+      "name_lower": "daola",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.566667,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Darbi",
+      "name_lower": "darbi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.583333,
+      "longitude": 75.15
+    },
+    {
+      "name": "Daror",
+      "name_lower": "daror",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.7625,
+      "longitude": 77.008889
+    },
+    {
+      "name": "Darpur",
+      "name_lower": "darpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.366667,
+      "longitude": 77.45
+    },
+    {
+      "name": "Dasu Judha",
+      "name_lower": "dasu judha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.95,
+      "longitude": 74.833333
+    },
+    {
+      "name": "Dataur",
+      "name_lower": "dataur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.813333,
+      "longitude": 76.763333
+    },
+    {
+      "name": "Dera Maliyanwala",
+      "name_lower": "dera maliyanwala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.890556,
+      "longitude": 76.880278
+    },
+    {
+      "name": "Deskhera",
+      "name_lower": "deskhera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.119444,
+      "longitude": 76.363889
+    },
+    {
+      "name": "Desu Judha",
+      "name_lower": "desu judha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.95,
+      "longitude": 74.833333
+    },
+    {
+      "name": "Devidaspur",
+      "name_lower": "devidaspur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.968056,
+      "longitude": 76.885556
+    },
+    {
+      "name": "Dhakaura",
+      "name_lower": "dhakaura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.7725,
+      "longitude": 76.823056
+    },
+    {
+      "name": "Dhammanheri",
+      "name_lower": "dhammanheri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.867222,
+      "longitude": 77.030278
+    },
+    {
+      "name": "Dhamtan",
+      "name_lower": "dhamtan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.7,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Dhanauri",
+      "name_lower": "dhanauri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.783333,
+      "longitude": 76.183333
+    },
+    {
+      "name": "Dhani Faizabad",
+      "name_lower": "dhani faizabad",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.113889,
+      "longitude": 76.113889
+    },
+    {
+      "name": "Dhani Gujaranwali",
+      "name_lower": "dhani gujaranwali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.395556,
+      "longitude": 76.062222
+    },
+    {
+      "name": "Dhani Kanwariyabas",
+      "name_lower": "dhani kanwariyabas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.033056,
+      "longitude": 76.050833
+    },
+    {
+      "name": "Dhani Shaikhpura",
+      "name_lower": "dhani shaikhpura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.069722,
+      "longitude": 76.124444
+    },
+    {
+      "name": "Dhankot",
+      "name_lower": "dhankot",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.483333,
+      "longitude": 76.95
+    },
+    {
+      "name": "Dhano Kheri",
+      "name_lower": "dhano kheri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.949167,
+      "longitude": 77.125556
+    },
+    {
+      "name": "Dhantori",
+      "name_lower": "dhantori",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.066667,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Dharson",
+      "name_lower": "dharson",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.116667,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Dharsu",
+      "name_lower": "dharsu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.111944,
+      "longitude": 76.077222
+    },
+    {
+      "name": "Dharsul",
+      "name_lower": "dharsul",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.683333,
+      "longitude": 75.716667
+    },
+    {
+      "name": "Dharuhera",
+      "name_lower": "dharuhera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.216667,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Dhauj",
+      "name_lower": "dhauj",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 77.2
+    },
+    {
+      "name": "Dheru Majra",
+      "name_lower": "dheru majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.945833,
+      "longitude": 76.918056
+    },
+    {
+      "name": "Dhingar Majra",
+      "name_lower": "dhingar majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.523056,
+      "longitude": 76.998056
+    },
+    {
+      "name": "Dhoa",
+      "name_lower": "dhoa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.183333,
+      "longitude": 77.05
+    },
+    {
+      "name": "Dhumsa",
+      "name_lower": "dhumsa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.9475,
+      "longitude": 77.025833
+    },
+    {
+      "name": "Didwari",
+      "name_lower": "didwari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.288333,
+      "longitude": 76.931389
+    },
+    {
+      "name": "Dighal",
+      "name_lower": "dighal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.75,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Diwana",
+      "name_lower": "diwana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.313889,
+      "longitude": 76.971667
+    },
+    {
+      "name": "Dohar",
+      "name_lower": "dohar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.325833,
+      "longitude": 76.934444
+    },
+    {
+      "name": "Dohar Kalan",
+      "name_lower": "dohar kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.119444,
+      "longitude": 76.019167
+    },
+    {
+      "name": "Dohar Khurd",
+      "name_lower": "dohar khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.114167,
+      "longitude": 76.019167
+    },
+    {
+      "name": "Domra",
+      "name_lower": "domra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.879444,
+      "longitude": 77.03
+    },
+    {
+      "name": "Dosi",
+      "name_lower": "dosi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.061944,
+      "longitude": 76.024444
+    },
+    {
+      "name": "Dubaldhan",
+      "name_lower": "dubaldhan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Dudha",
+      "name_lower": "dudha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.970833,
+      "longitude": 76.998333
+    },
+    {
+      "name": "Dujana",
+      "name_lower": "dujana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Ellenabad",
+      "name_lower": "ellenabad",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 37683,
+      "latitude": 29.45,
+      "longitude": 74.65
+    },
+    {
+      "name": "Faridabad",
+      "name_lower": "faridabad",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 1280909,
+      "latitude": 28.433333,
+      "longitude": 77.316667
+    },
+    {
+      "name": "Faridpur Sadat",
+      "name_lower": "faridpur sadat",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.483333,
+      "longitude": 77.05
+    },
+    {
+      "name": "Farmana",
+      "name_lower": "farmana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.984722,
+      "longitude": 76.811111
+    },
+    {
+      "name": "Farmana Khas",
+      "name_lower": "farmana khas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.048611,
+      "longitude": 76.349444
+    },
+    {
+      "name": "Farmanah",
+      "name_lower": "farmanah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.984722,
+      "longitude": 76.811111
+    },
+    {
+      "name": "Fatahabad",
+      "name_lower": "fatahabad",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.516667,
+      "longitude": 75.45
+    },
+    {
+      "name": "Fazilpur",
+      "name_lower": "fazilpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.844722,
+      "longitude": 77.08
+    },
+    {
+      "name": "Ferozepur-Jhirka",
+      "name_lower": "ferozepur-jhirka",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.8,
+      "longitude": 76.95
+    },
+    {
+      "name": "Ferozpur Jhirka",
+      "name_lower": "ferozpur jhirka",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.8,
+      "longitude": 76.95
+    },
+    {
+      "name": "Firozpur Jhirka",
+      "name_lower": "firozpur jhirka",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 20196,
+      "latitude": 27.8,
+      "longitude": 76.95
+    },
+    {
+      "name": "Gadhi",
+      "name_lower": "gadhi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.416111,
+      "longitude": 76.116389
+    },
+    {
+      "name": "Gadhi Birbal",
+      "name_lower": "gadhi birbal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.909444,
+      "longitude": 77.153056
+    },
+    {
+      "name": "Gadli",
+      "name_lower": "gadli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.9625,
+      "longitude": 76.973333
+    },
+    {
+      "name": "Gagsina",
+      "name_lower": "gagsina",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.556389,
+      "longitude": 76.884167
+    },
+    {
+      "name": "Gahli",
+      "name_lower": "gahli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.098611,
+      "longitude": 76.058333
+    },
+    {
+      "name": "Ganga",
+      "name_lower": "ganga",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.783333,
+      "longitude": 74.683333
+    },
+    {
+      "name": "Ganjbar",
+      "name_lower": "ganjbar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.477778,
+      "longitude": 76.966389
+    },
+    {
+      "name": "Garhi Brahmanan",
+      "name_lower": "garhi brahmanan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.995833,
+      "longitude": 76.995556
+    },
+    {
+      "name": "Garhi Gujrah",
+      "name_lower": "garhi gujrah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.836389,
+      "longitude": 77.017222
+    },
+    {
+      "name": "Garhi Harsaru",
+      "name_lower": "garhi harsaru",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.45,
+      "longitude": 76.933333
+    },
+    {
+      "name": "Garhi Jatan",
+      "name_lower": "garhi jatan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.920833,
+      "longitude": 77.035
+    },
+    {
+      "name": "Garhi Multan",
+      "name_lower": "garhi multan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.511667,
+      "longitude": 76.986944
+    },
+    {
+      "name": "Garhi Sadan",
+      "name_lower": "garhi sadan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.908889,
+      "longitude": 77.033056
+    },
+    {
+      "name": "Garhi Sampla",
+      "name_lower": "garhi sampla",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.760833,
+      "longitude": 76.771667
+    },
+    {
+      "name": "Garhpur Khalsa",
+      "name_lower": "garhpur khalsa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.856667,
+      "longitude": 77.0925
+    },
+    {
+      "name": "Garhpur Tapu",
+      "name_lower": "garhpur tapu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.894722,
+      "longitude": 77.161667
+    },
+    {
+      "name": "Georgegarh",
+      "name_lower": "georgegarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.65,
+      "longitude": 76.566667
+    },
+    {
+      "name": "Gharaunda",
+      "name_lower": "gharaunda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.5375,
+      "longitude": 76.971667
+    },
+    {
+      "name": "Ghasera",
+      "name_lower": "ghasera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.15,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Ghiar",
+      "name_lower": "ghiar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.781111,
+      "longitude": 77.106667
+    },
+    {
+      "name": "Ghisarpari",
+      "name_lower": "ghisarpari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.854167,
+      "longitude": 77.045278
+    },
+    {
+      "name": "Ghogripur",
+      "name_lower": "ghogripur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.65,
+      "longitude": 76.933333
+    },
+    {
+      "name": "Ghous Ali Sahib",
+      "name_lower": "ghous ali sahib",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.397778,
+      "longitude": 76.978889
+    },
+    {
+      "name": "Gigorani",
+      "name_lower": "gigorani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.3,
+      "longitude": 75.166667
+    },
+    {
+      "name": "Gijhi",
+      "name_lower": "gijhi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.811111,
+      "longitude": 76.773611
+    },
+    {
+      "name": "Gobindgarh",
+      "name_lower": "gobindgarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.958611,
+      "longitude": 77.028889
+    },
+    {
+      "name": "Gohana",
+      "name_lower": "gohana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 56097,
+      "latitude": 29.133333,
+      "longitude": 76.7
+    },
+    {
+      "name": "Gokal",
+      "name_lower": "gokal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.495,
+      "longitude": 76.112222
+    },
+    {
+      "name": "Gopalbas",
+      "name_lower": "gopalbas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.393056,
+      "longitude": 76.022222
+    },
+    {
+      "name": "Gorgarh",
+      "name_lower": "gorgarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.847222,
+      "longitude": 77.006667
+    },
+    {
+      "name": "Gothan",
+      "name_lower": "gothan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.716667,
+      "longitude": 75.533333
+    },
+    {
+      "name": "Gothan Khurd",
+      "name_lower": "gothan khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.716667,
+      "longitude": 75.533333
+    },
+    {
+      "name": "Gudah",
+      "name_lower": "gudah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.498611,
+      "longitude": 76.951667
+    },
+    {
+      "name": "Gudd",
+      "name_lower": "gudd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.877222,
+      "longitude": 77.050833
+    },
+    {
+      "name": "Gudrana",
+      "name_lower": "gudrana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.8,
+      "longitude": 74.983333
+    },
+    {
+      "name": "Guga Pir",
+      "name_lower": "guga pir",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.757778,
+      "longitude": 77.061667
+    },
+    {
+      "name": "Guhla",
+      "name_lower": "guhla",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.038611,
+      "longitude": 76.3
+    },
+    {
+      "name": "Gumthala",
+      "name_lower": "gumthala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.9575,
+      "longitude": 77.204444
+    },
+    {
+      "name": "Gumthala Gadhu",
+      "name_lower": "gumthala gadhu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.95,
+      "longitude": 76.55
+    },
+    {
+      "name": "Gumton",
+      "name_lower": "gumton",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.869167,
+      "longitude": 77.019167
+    },
+    {
+      "name": "Guraora",
+      "name_lower": "guraora",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.383333,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Gurar",
+      "name_lower": "gurar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.938333,
+      "longitude": 76.805833
+    },
+    {
+      "name": "Guriani",
+      "name_lower": "guriani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 76.516667
+    },
+    {
+      "name": "Habri",
+      "name_lower": "habri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.716667,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Haibatpur",
+      "name_lower": "haibatpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.943333,
+      "longitude": 76.997222
+    },
+    {
+      "name": "Hamidpur",
+      "name_lower": "hamidpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.090278,
+      "longitude": 76.039167
+    },
+    {
+      "name": "Hanauri",
+      "name_lower": "hanauri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.947222,
+      "longitude": 77.1
+    },
+    {
+      "name": "Hansu Majra",
+      "name_lower": "hansu majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.935278,
+      "longitude": 77.173889
+    },
+    {
+      "name": "Haroli",
+      "name_lower": "haroli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.65,
+      "longitude": 75.466667
+    },
+    {
+      "name": "Hartari",
+      "name_lower": "hartari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.315278,
+      "longitude": 76.946667
+    },
+    {
+      "name": "Haryana",
+      "name_lower": "haryana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.616111,
+      "longitude": 76.980556
+    },
+    {
+      "name": "Hasanyarpur Tihara Kalan",
+      "name_lower": "hasanyarpur tihara kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.983056,
+      "longitude": 76.923611
+    },
+    {
+      "name": "Hassu",
+      "name_lower": "hassu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.9,
+      "longitude": 74.933333
+    },
+    {
+      "name": "Hat",
+      "name_lower": "hat",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.333333,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Hattin",
+      "name_lower": "hattin",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.05,
+      "longitude": 77.233333
+    },
+    {
+      "name": "Hazira",
+      "name_lower": "hazira",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.316667,
+      "longitude": 75.083333
+    },
+    {
+      "name": "Hijraon",
+      "name_lower": "hijraon",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.566667,
+      "longitude": 75.4
+    },
+    {
+      "name": "Hisar",
+      "name_lower": "hisar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 296456,
+      "latitude": 29.166667,
+      "longitude": 75.716667
+    },
+    {
+      "name": "Hissar",
+      "name_lower": "hissar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.166667,
+      "longitude": 75.716667
+    },
+    {
+      "name": "Hodal",
+      "name_lower": "hodal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 44304,
+      "latitude": 27.9,
+      "longitude": 77.366667
+    },
+    {
+      "name": "Imlota",
+      "name_lower": "imlota",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.616667,
+      "longitude": 76.45
+    },
+    {
+      "name": "Indarpat",
+      "name_lower": "indarpat",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.483333,
+      "longitude": 77.3
+    },
+    {
+      "name": "Indraprast",
+      "name_lower": "indraprast",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.483333,
+      "longitude": 77.3
+    },
+    {
+      "name": "Indraprastha",
+      "name_lower": "indraprastha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.483333,
+      "longitude": 77.3
+    },
+    {
+      "name": "Ismailabad",
+      "name_lower": "ismailabad",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.117222,
+      "longitude": 76.666111
+    },
+    {
+      "name": "Jadra",
+      "name_lower": "jadra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.233333,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Jadupur",
+      "name_lower": "jadupur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.070556,
+      "longitude": 76.008056
+    },
+    {
+      "name": "Jagadhri",
+      "name_lower": "jagadhri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 112590,
+      "latitude": 30.166667,
+      "longitude": 77.3
+    },
+    {
+      "name": "Jakhal",
+      "name_lower": "jakhal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.8,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Jakhal Mandi",
+      "name_lower": "jakhal mandi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 7411,
+      "latitude": 29.8,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Jakhauli",
+      "name_lower": "jakhauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.666667,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Jakhni",
+      "name_lower": "jakhni",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.117222,
+      "longitude": 76.038889
+    },
+    {
+      "name": "Jalmana",
+      "name_lower": "jalmana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.6,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Jamalpur Khurd",
+      "name_lower": "jamalpur khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.980278,
+      "longitude": 76.990556
+    },
+    {
+      "name": "Jamna Nagar",
+      "name_lower": "jamna nagar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.1,
+      "longitude": 77.283333
+    },
+    {
+      "name": "Janaula",
+      "name_lower": "janaula",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 76.8
+    },
+    {
+      "name": "Janauli",
+      "name_lower": "janauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.2,
+      "longitude": 77.35
+    },
+    {
+      "name": "Jandhera",
+      "name_lower": "jandhera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.996389,
+      "longitude": 77.109167
+    },
+    {
+      "name": "Janesran",
+      "name_lower": "janesran",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.861667,
+      "longitude": 77.023611
+    },
+    {
+      "name": "Japaula",
+      "name_lower": "japaula",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 76.8
+    },
+    {
+      "name": "Japti Chhapra",
+      "name_lower": "japti chhapra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.863611,
+      "longitude": 77.177222
+    },
+    {
+      "name": "Jataul",
+      "name_lower": "jataul",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.368889,
+      "longitude": 76.911111
+    },
+    {
+      "name": "Jatusana",
+      "name_lower": "jatusana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.333333,
+      "longitude": 76.55
+    },
+    {
+      "name": "Jatwar",
+      "name_lower": "jatwar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.456111,
+      "longitude": 76.933889
+    },
+    {
+      "name": "Jaur Majra Kalan",
+      "name_lower": "jaur majra kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.844167,
+      "longitude": 77.063333
+    },
+    {
+      "name": "Jaur Majra Khurd",
+      "name_lower": "jaur majra khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.849722,
+      "longitude": 77.052222
+    },
+    {
+      "name": "Jhajjar",
+      "name_lower": "jhajjar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 44125,
+      "latitude": 28.616667,
+      "longitude": 76.65
+    },
+    {
+      "name": "Jhalanian",
+      "name_lower": "jhalanian",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.516667,
+      "longitude": 75.566667
+    },
+    {
+      "name": "Jharaut",
+      "name_lower": "jharaut",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.9175,
+      "longitude": 76.923056
+    },
+    {
+      "name": "Jharauti",
+      "name_lower": "jharauti",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.932778,
+      "longitude": 76.921944
+    },
+    {
+      "name": "Jharli",
+      "name_lower": "jharli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.516667,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Jhunpa",
+      "name_lower": "jhunpa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.783333,
+      "longitude": 75.55
+    },
+    {
+      "name": "Jhunpa Kalan",
+      "name_lower": "jhunpa kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.783333,
+      "longitude": 75.55
+    },
+    {
+      "name": "Jhunpa Khurd",
+      "name_lower": "jhunpa khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.783333,
+      "longitude": 75.55
+    },
+    {
+      "name": "Jind",
+      "name_lower": "jind",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 161271,
+      "latitude": 29.316667,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Jindran",
+      "name_lower": "jindran",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.996944,
+      "longitude": 76.575278
+    },
+    {
+      "name": "Jirbiri",
+      "name_lower": "jirbiri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.930833,
+      "longitude": 76.903611
+    },
+    {
+      "name": "Jitgarh",
+      "name_lower": "jitgarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.431944,
+      "longitude": 76.905833
+    },
+    {
+      "name": "Jodhka",
+      "name_lower": "jodhka",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.516667,
+      "longitude": 75.216667
+    },
+    {
+      "name": "Juan",
+      "name_lower": "juan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.066667,
+      "longitude": 76.9
+    },
+    {
+      "name": "Jui Kalan",
+      "name_lower": "jui kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.65,
+      "longitude": 75.95
+    },
+    {
+      "name": "Jui Khurd",
+      "name_lower": "jui khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.65,
+      "longitude": 75.95
+    },
+    {
+      "name": "Julana",
+      "name_lower": "julana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 14509,
+      "latitude": 29.133333,
+      "longitude": 76.416667
+    },
+    {
+      "name": "Julana Shadipur",
+      "name_lower": "julana shadipur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.133333,
+      "longitude": 76.416667
+    },
+    {
+      "name": "Kabilbagh",
+      "name_lower": "kabilbagh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.397222,
+      "longitude": 76.991389
+    },
+    {
+      "name": "Kachrauli",
+      "name_lower": "kachrauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.459167,
+      "longitude": 76.948056
+    },
+    {
+      "name": "Kadma",
+      "name_lower": "kadma",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.452778,
+      "longitude": 76.024444
+    },
+    {
+      "name": "Kahnaur",
+      "name_lower": "kahnaur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.75,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Kahrawar",
+      "name_lower": "kahrawar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.833333,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Kahroba",
+      "name_lower": "kahroba",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.918611,
+      "longitude": 77.070833
+    },
+    {
+      "name": "Kaimla",
+      "name_lower": "kaimla",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.505556,
+      "longitude": 76.998056
+    },
+    {
+      "name": "Kaithal",
+      "name_lower": "kaithal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 140614,
+      "latitude": 29.8,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Kakroi",
+      "name_lower": "kakroi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.960556,
+      "longitude": 76.957778
+    },
+    {
+      "name": "Kalait",
+      "name_lower": "kalait",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.683333,
+      "longitude": 76.25
+    },
+    {
+      "name": "Kalanwali",
+      "name_lower": "kalanwali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 27357,
+      "latitude": 29.85,
+      "longitude": 74.95
+    },
+    {
+      "name": "Kalaud",
+      "name_lower": "kalaud",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.8,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Kalauni",
+      "name_lower": "kalauni",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.992222,
+      "longitude": 77
+    },
+    {
+      "name": "Kaliana",
+      "name_lower": "kaliana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.55,
+      "longitude": 76.2
+    },
+    {
+      "name": "Kalina Khas",
+      "name_lower": "kalina khas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.333333,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Kalra",
+      "name_lower": "kalra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.963056,
+      "longitude": 77.134167
+    },
+    {
+      "name": "Kalri Khalsa",
+      "name_lower": "kalri khalsa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.876944,
+      "longitude": 77.091667
+    },
+    {
+      "name": "Kalsaura",
+      "name_lower": "kalsaura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.864722,
+      "longitude": 77.142778
+    },
+    {
+      "name": "Kamalpur Randan",
+      "name_lower": "kamalpur randan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.808333,
+      "longitude": 77.049722
+    },
+    {
+      "name": "Kamodh",
+      "name_lower": "kamodh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.65,
+      "longitude": 76.3
+    },
+    {
+      "name": "Kanala",
+      "name_lower": "kanala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.45,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Kanaud",
+      "name_lower": "kanaud",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 76.15
+    },
+    {
+      "name": "Kandraull",
+      "name_lower": "kandraull",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.971389,
+      "longitude": 77.188611
+    },
+    {
+      "name": "Kanhara",
+      "name_lower": "kanhara",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.4775,
+      "longitude": 76.018056
+    },
+    {
+      "name": "Kanhri",
+      "name_lower": "kanhri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.666667,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Kanina",
+      "name_lower": "kanina",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 10816,
+      "latitude": 28.333333,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Kanina Khas",
+      "name_lower": "kanina khas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.333333,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Kanti Khas",
+      "name_lower": "kanti khas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.05,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Kanwali",
+      "name_lower": "kanwali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.316667,
+      "longitude": 76.416667
+    },
+    {
+      "name": "Kanwariyabas",
+      "name_lower": "kanwariyabas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.031944,
+      "longitude": 76.040278
+    },
+    {
+      "name": "Karar Majra",
+      "name_lower": "karar majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.949444,
+      "longitude": 76.887778
+    },
+    {
+      "name": "Karhera",
+      "name_lower": "karhera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.995278,
+      "longitude": 77.236667
+    },
+    {
+      "name": "Karkali",
+      "name_lower": "karkali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.633333,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Karnal",
+      "name_lower": "karnal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 225064,
+      "latitude": 29.683333,
+      "longitude": 76.983333
+    },
+    {
+      "name": "Kasan",
+      "name_lower": "kasan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.366667,
+      "longitude": 76.9
+    },
+    {
+      "name": "Kasni",
+      "name_lower": "kasni",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.516667,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Kathana",
+      "name_lower": "kathana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.55,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Khadi Ashram",
+      "name_lower": "khadi ashram",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.368056,
+      "longitude": 76.976111
+    },
+    {
+      "name": "Khanda",
+      "name_lower": "khanda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.919444,
+      "longitude": 76.898056
+    },
+    {
+      "name": "Khandsa",
+      "name_lower": "khandsa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.416667,
+      "longitude": 77
+    },
+    {
+      "name": "Kharakkalan",
+      "name_lower": "kharakkalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.816667,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Kharawar",
+      "name_lower": "kharawar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.833333,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Khariyan",
+      "name_lower": "khariyan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.616667,
+      "longitude": 74.85
+    },
+    {
+      "name": "Kharkali",
+      "name_lower": "kharkali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.602778,
+      "longitude": 76.972222
+    },
+    {
+      "name": "Kharkhari",
+      "name_lower": "kharkhari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.383611,
+      "longitude": 76.01
+    },
+    {
+      "name": "Kharyal",
+      "name_lower": "kharyal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.45,
+      "longitude": 74.65
+    },
+    {
+      "name": "Khatoti Khurd",
+      "name_lower": "khatoti khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.096389,
+      "longitude": 76.019444
+    },
+    {
+      "name": "Khatoti Sultanpur",
+      "name_lower": "khatoti sultanpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.104167,
+      "longitude": 76.033611
+    },
+    {
+      "name": "Khawaspur",
+      "name_lower": "khawaspur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.922222,
+      "longitude": 76.885
+    },
+    {
+      "name": "Khera Sarai",
+      "name_lower": "khera sarai",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.066667,
+      "longitude": 77.366667
+    },
+    {
+      "name": "Kheri Dehia",
+      "name_lower": "kheri dehia",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.961667,
+      "longitude": 76.916111
+    },
+    {
+      "name": "Kheri Gadian",
+      "name_lower": "kheri gadian",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.943611,
+      "longitude": 76.955556
+    },
+    {
+      "name": "Kheri Jasaur",
+      "name_lower": "kheri jasaur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.782778,
+      "longitude": 76.864167
+    },
+    {
+      "name": "Kheri Jatan",
+      "name_lower": "kheri jatan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.930833,
+      "longitude": 76.973333
+    },
+    {
+      "name": "Kheri Nangal",
+      "name_lower": "kheri nangal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.355,
+      "longitude": 76.977222
+    },
+    {
+      "name": "Kheri Sampla",
+      "name_lower": "kheri sampla",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.777778,
+      "longitude": 76.775278
+    },
+    {
+      "name": "Khimachkera",
+      "name_lower": "khimachkera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.093889,
+      "longitude": 76.356389
+    },
+    {
+      "name": "Khol",
+      "name_lower": "khol",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.2,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Khorak",
+      "name_lower": "khorak",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.913611,
+      "longitude": 77.159444
+    },
+    {
+      "name": "Khorakheri",
+      "name_lower": "khorakheri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.529444,
+      "longitude": 76.907778
+    },
+    {
+      "name": "Khot Kalan",
+      "name_lower": "khot kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.383333,
+      "longitude": 76.166667
+    },
+    {
+      "name": "Khot Khurd",
+      "name_lower": "khot khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.383333,
+      "longitude": 76.166667
+    },
+    {
+      "name": "Khubi ki Dhani",
+      "name_lower": "khubi ki dhani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.478889,
+      "longitude": 76.065556
+    },
+    {
+      "name": "Khuknni",
+      "name_lower": "khuknni",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.955833,
+      "longitude": 77.178333
+    },
+    {
+      "name": "Khukrana",
+      "name_lower": "khukrana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.396111,
+      "longitude": 76.895278
+    },
+    {
+      "name": "Khurdban",
+      "name_lower": "khurdban",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.983611,
+      "longitude": 77.140278
+    },
+    {
+      "name": "Kiloi",
+      "name_lower": "kiloi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.95,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Kiloi Khas",
+      "name_lower": "kiloi khas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.95,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Kinana",
+      "name_lower": "kinana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.25,
+      "longitude": 76.35
+    },
+    {
+      "name": "Kirarod",
+      "name_lower": "kirarod",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.091111,
+      "longitude": 76.101389
+    },
+    {
+      "name": "Kirarod ki Dhani",
+      "name_lower": "kirarod ki dhani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.086389,
+      "longitude": 76.094444
+    },
+    {
+      "name": "Kirmara",
+      "name_lower": "kirmara",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.383333,
+      "longitude": 75.716667
+    },
+    {
+      "name": "Koali",
+      "name_lower": "koali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.917222,
+      "longitude": 76.964722
+    },
+    {
+      "name": "Kohand",
+      "name_lower": "kohand",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.493056,
+      "longitude": 76.963056
+    },
+    {
+      "name": "Kohra",
+      "name_lower": "kohra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.883333,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Kokariya",
+      "name_lower": "kokariya",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.391389,
+      "longitude": 76.875833
+    },
+    {
+      "name": "Kona",
+      "name_lower": "kona",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.883333,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Kosli",
+      "name_lower": "kosli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.416667,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Krishanpura",
+      "name_lower": "krishanpura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.393611,
+      "longitude": 76.968056
+    },
+    {
+      "name": "Kuiwali",
+      "name_lower": "kuiwali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.666667,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Kultajpar",
+      "name_lower": "kultajpar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.052222,
+      "longitude": 76.027222
+    },
+    {
+      "name": "Kunjpura",
+      "name_lower": "kunjpura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.716667,
+      "longitude": 77.083333
+    },
+    {
+      "name": "Kurhami",
+      "name_lower": "kurhami",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.956111,
+      "longitude": 76.961389
+    },
+    {
+      "name": "Labkarl",
+      "name_lower": "labkarl",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.903333,
+      "longitude": 77.15
+    },
+    {
+      "name": "Ladwa",
+      "name_lower": "ladwa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 23567,
+      "latitude": 29.994444,
+      "longitude": 77.044444
+    },
+    {
+      "name": "Lahli",
+      "name_lower": "lahli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.866667,
+      "longitude": 76.45
+    },
+    {
+      "name": "Lahroda",
+      "name_lower": "lahroda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.103611,
+      "longitude": 76.110278
+    },
+    {
+      "name": "Lajwana",
+      "name_lower": "lajwana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.15,
+      "longitude": 76.45
+    },
+    {
+      "name": "Lajwana Kalan",
+      "name_lower": "lajwana kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.15,
+      "longitude": 76.45
+    },
+    {
+      "name": "Lal Pahari",
+      "name_lower": "lal pahari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.028889,
+      "longitude": 76.114444
+    },
+    {
+      "name": "Lalchhaper",
+      "name_lower": "lalchhaper",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.995833,
+      "longitude": 77.224444
+    },
+    {
+      "name": "Landaura",
+      "name_lower": "landaura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.7825,
+      "longitude": 77.070556
+    },
+    {
+      "name": "Lathi Dhanaura",
+      "name_lower": "lathi dhanaura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.965833,
+      "longitude": 77.044722
+    },
+    {
+      "name": "Lathron",
+      "name_lower": "lathron",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.875,
+      "longitude": 76.966389
+    },
+    {
+      "name": "Lohani",
+      "name_lower": "lohani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.716667,
+      "longitude": 76.033333
+    },
+    {
+      "name": "Loharheri",
+      "name_lower": "loharheri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.784444,
+      "longitude": 76.835
+    },
+    {
+      "name": "Lohari Jatu",
+      "name_lower": "lohari jatu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.916667,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Lohari Ragho",
+      "name_lower": "lohari ragho",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.266667,
+      "longitude": 76.05
+    },
+    {
+      "name": "Loharu",
+      "name_lower": "loharu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 12411,
+      "latitude": 28.45,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Lowah Kalan",
+      "name_lower": "lowah kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.638611,
+      "longitude": 76.914722
+    },
+    {
+      "name": "Ludesar",
+      "name_lower": "ludesar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.366667,
+      "longitude": 75.1
+    },
+    {
+      "name": "Machhrauli",
+      "name_lower": "machhrauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.466667,
+      "longitude": 76.65
+    },
+    {
+      "name": "Madho Singhana",
+      "name_lower": "madho singhana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.45,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Madina",
+      "name_lower": "madina",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.95,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Madlauda",
+      "name_lower": "madlauda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.416667,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Maham",
+      "name_lower": "maham",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 19385,
+      "latitude": 28.983333,
+      "longitude": 76.3
+    },
+    {
+      "name": "Mahendragarh",
+      "name_lower": "mahendragarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 25730,
+      "latitude": 28.283333,
+      "longitude": 76.15
+    },
+    {
+      "name": "Mahi Kalan",
+      "name_lower": "mahi kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.454167,
+      "longitude": 76.106389
+    },
+    {
+      "name": "Mahi Khurd",
+      "name_lower": "mahi khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.454722,
+      "longitude": 76.108611
+    },
+    {
+      "name": "Mahipur",
+      "name_lower": "mahipur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.9875,
+      "longitude": 76.847778
+    },
+    {
+      "name": "Mahlana",
+      "name_lower": "mahlana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.981944,
+      "longitude": 76.956944
+    },
+    {
+      "name": "Mahola",
+      "name_lower": "mahola",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.123611,
+      "longitude": 76.276389
+    },
+    {
+      "name": "Mahrampur",
+      "name_lower": "mahrampur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.113889,
+      "longitude": 76.054722
+    },
+    {
+      "name": "Mahrana",
+      "name_lower": "mahrana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.341667,
+      "longitude": 76.953611
+    },
+    {
+      "name": "Majra Chandraon Burj",
+      "name_lower": "majra chandraon burj",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.922778,
+      "longitude": 77.168333
+    },
+    {
+      "name": "Makhala",
+      "name_lower": "makhala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.936944,
+      "longitude": 77.144722
+    },
+    {
+      "name": "Makhali",
+      "name_lower": "makhali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.941944,
+      "longitude": 77.155556
+    },
+    {
+      "name": "Makhsuspur",
+      "name_lower": "makhsuspur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.079444,
+      "longitude": 76.054167
+    },
+    {
+      "name": "Makhu Majra",
+      "name_lower": "makhu majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.782222,
+      "longitude": 77.053889
+    },
+    {
+      "name": "Malab",
+      "name_lower": "malab",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.05,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Malsari",
+      "name_lower": "malsari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.266667,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Malwi",
+      "name_lower": "malwi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.099444,
+      "longitude": 76.338889
+    },
+    {
+      "name": "Manahti",
+      "name_lower": "manahti",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.166667,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Manak Majra",
+      "name_lower": "manak majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.883333,
+      "longitude": 77.004722
+    },
+    {
+      "name": "Manana",
+      "name_lower": "manana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.263889,
+      "longitude": 76.991667
+    },
+    {
+      "name": "Manchuri",
+      "name_lower": "manchuri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.888889,
+      "longitude": 76.930556
+    },
+    {
+      "name": "Mandholi",
+      "name_lower": "mandholi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.716667,
+      "longitude": 75.683333
+    },
+    {
+      "name": "Mandikhera",
+      "name_lower": "mandikhera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.933333,
+      "longitude": 77
+    },
+    {
+      "name": "Mandkaula",
+      "name_lower": "mandkaula",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.15,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Mandlana",
+      "name_lower": "mandlana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.095833,
+      "longitude": 76.089722
+    },
+    {
+      "name": "Mangali",
+      "name_lower": "mangali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.05,
+      "longitude": 75.733333
+    },
+    {
+      "name": "Manhairu",
+      "name_lower": "manhairu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.716667,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Mani Majra",
+      "name_lower": "mani majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.716667,
+      "longitude": 76.833333
+    },
+    {
+      "name": "Manjhaoli",
+      "name_lower": "manjhaoli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.383333,
+      "longitude": 77.466667
+    },
+    {
+      "name": "Maroli",
+      "name_lower": "maroli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.008611,
+      "longitude": 76.014167
+    },
+    {
+      "name": "Matanhel",
+      "name_lower": "matanhel",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.583333,
+      "longitude": 76.45
+    },
+    {
+      "name": "Matu",
+      "name_lower": "matu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.008056,
+      "longitude": 76.264722
+    },
+    {
+      "name": "Mitathal",
+      "name_lower": "mitathal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.866667,
+      "longitude": 76.166667
+    },
+    {
+      "name": "Moana",
+      "name_lower": "moana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.45,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Mohena",
+      "name_lower": "mohena",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.233333,
+      "longitude": 77.45
+    },
+    {
+      "name": "Mohindargarh",
+      "name_lower": "mohindargarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 76.15
+    },
+    {
+      "name": "Morni",
+      "name_lower": "morni",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.7,
+      "longitude": 77.083333
+    },
+    {
+      "name": "Muazzamnagar",
+      "name_lower": "muazzamnagar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.968889,
+      "longitude": 76.816389
+    },
+    {
+      "name": "Muhiuddinpur",
+      "name_lower": "muhiuddinpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.76,
+      "longitude": 77.1075
+    },
+    {
+      "name": "Mukandpura",
+      "name_lower": "mukandpura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.046667,
+      "longitude": 76.004444
+    },
+    {
+      "name": "Mulana",
+      "name_lower": "mulana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.283333,
+      "longitude": 77.05
+    },
+    {
+      "name": "Munak",
+      "name_lower": "munak",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 15802,
+      "latitude": 29.516667,
+      "longitude": 76.85
+    },
+    {
+      "name": "Mundlana",
+      "name_lower": "mundlana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.2,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Mungan",
+      "name_lower": "mungan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.928611,
+      "longitude": 76.768889
+    },
+    {
+      "name": "Munirpur",
+      "name_lower": "munirpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.970278,
+      "longitude": 76.971389
+    },
+    {
+      "name": "Muradgarh",
+      "name_lower": "muradgarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.859722,
+      "longitude": 77.076389
+    },
+    {
+      "name": "Murthal",
+      "name_lower": "murthal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.033333,
+      "longitude": 77.083333
+    },
+    {
+      "name": "Musapur",
+      "name_lower": "musapur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.884722,
+      "longitude": 77.151111
+    },
+    {
+      "name": "Nagla",
+      "name_lower": "nagla",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.977222,
+      "longitude": 77.243889
+    },
+    {
+      "name": "Nagla Rozan",
+      "name_lower": "nagla rozan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.812222,
+      "longitude": 77.077778
+    },
+    {
+      "name": "Nagoki",
+      "name_lower": "nagoki",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.666667,
+      "longitude": 75.116667
+    },
+    {
+      "name": "Nagtihari",
+      "name_lower": "nagtihari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.0875,
+      "longitude": 76.114722
+    },
+    {
+      "name": "Naiah",
+      "name_lower": "naiah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.4,
+      "longitude": 76.75
+    },
+    {
+      "name": "Nakloi",
+      "name_lower": "nakloi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.964722,
+      "longitude": 76.88
+    },
+    {
+      "name": "Nangal Mundi",
+      "name_lower": "nangal mundi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.25,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Nanhera",
+      "name_lower": "nanhera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.876111,
+      "longitude": 77.083889
+    },
+    {
+      "name": "Nanwan",
+      "name_lower": "nanwan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.377778,
+      "longitude": 76.011944
+    },
+    {
+      "name": "Naraena",
+      "name_lower": "naraena",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.269444,
+      "longitude": 76.948889
+    },
+    {
+      "name": "Narah",
+      "name_lower": "narah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.4,
+      "longitude": 76.75
+    },
+    {
+      "name": "Naraingarh",
+      "name_lower": "naraingarh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.483333,
+      "longitude": 77.133333
+    },
+    {
+      "name": "Narnaul",
+      "name_lower": "narnaul",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 66053,
+      "latitude": 28.044444,
+      "longitude": 76.108333
+    },
+    {
+      "name": "Narnaund",
+      "name_lower": "narnaund",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 16300,
+      "latitude": 29.216667,
+      "longitude": 76.15
+    },
+    {
+      "name": "Narwana",
+      "name_lower": "narwana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 55854,
+      "latitude": 29.616667,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Narwanal",
+      "name_lower": "narwanal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.616667,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Nasharpur",
+      "name_lower": "nasharpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.943333,
+      "longitude": 76.591111
+    },
+    {
+      "name": "Nasibpur",
+      "name_lower": "nasibpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.080556,
+      "longitude": 76.107778
+    },
+    {
+      "name": "Nathorl",
+      "name_lower": "nathorl",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.931389,
+      "longitude": 77.131111
+    },
+    {
+      "name": "Naultha",
+      "name_lower": "naultha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.309167,
+      "longitude": 76.901389
+    },
+    {
+      "name": "Naurah",
+      "name_lower": "naurah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.419444,
+      "longitude": 76.917778
+    },
+    {
+      "name": "Naurangawas",
+      "name_lower": "naurangawas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.440278,
+      "longitude": 76.096667
+    },
+    {
+      "name": "Naurta",
+      "name_lower": "naurta",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.853611,
+      "longitude": 77.034167
+    },
+    {
+      "name": "Naya Khanda",
+      "name_lower": "naya khanda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.9425,
+      "longitude": 76.9075
+    },
+    {
+      "name": "Nayabas",
+      "name_lower": "nayabas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.795556,
+      "longitude": 76.793056
+    },
+    {
+      "name": "Nikuran",
+      "name_lower": "nikuran",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.45,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Nilokeri",
+      "name_lower": "nilokeri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.833333,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Nilokhera",
+      "name_lower": "nilokhera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.833333,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Nilokheri",
+      "name_lower": "nilokheri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 17361,
+      "latitude": 29.833333,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Nilothi",
+      "name_lower": "nilothi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.809722,
+      "longitude": 76.873889
+    },
+    {
+      "name": "Nilu Kheri",
+      "name_lower": "nilu kheri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.833333,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Nirthan",
+      "name_lower": "nirthan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.955,
+      "longitude": 76.888333
+    },
+    {
+      "name": "Nisang",
+      "name_lower": "nisang",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.7,
+      "longitude": 76.75
+    },
+    {
+      "name": "Niwazpur",
+      "name_lower": "niwazpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.111389,
+      "longitude": 76.093056
+    },
+    {
+      "name": "Nizampur Majra",
+      "name_lower": "nizampur majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.983056,
+      "longitude": 76.806667
+    },
+    {
+      "name": "Nuh",
+      "name_lower": "nuh",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 12699,
+      "latitude": 28.116667,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Nuni Avval",
+      "name_lower": "nuni avval",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.074167,
+      "longitude": 76.114722
+    },
+    {
+      "name": "Nurwala",
+      "name_lower": "nurwala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.4175,
+      "longitude": 76.988056
+    },
+    {
+      "name": "Odhan",
+      "name_lower": "odhan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.75,
+      "longitude": 74.9
+    },
+    {
+      "name": "Padha",
+      "name_lower": "padha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.566667,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Pahari ki Mandi",
+      "name_lower": "pahari ki mandi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.583333,
+      "longitude": 75.75
+    },
+    {
+      "name": "Pahladpur Khalila",
+      "name_lower": "pahladpur khalila",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.289722,
+      "longitude": 76.972222
+    },
+    {
+      "name": "Pai",
+      "name_lower": "pai",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.716667,
+      "longitude": 76.516667
+    },
+    {
+      "name": "Panihari",
+      "name_lower": "panihari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.65,
+      "longitude": 75.133333
+    },
+    {
+      "name": "Panipat",
+      "name_lower": "panipat",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 292828,
+      "latitude": 29.388889,
+      "longitude": 76.968056
+    },
+    {
+      "name": "Panjokhra",
+      "name_lower": "panjokhra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.905,
+      "longitude": 77.014167
+    },
+    {
+      "name": "Partapgart",
+      "name_lower": "partapgart",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.991667,
+      "longitude": 76.876111
+    },
+    {
+      "name": "Patauda",
+      "name_lower": "patauda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.4,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Pataudi",
+      "name_lower": "pataudi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.316667,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Patehera",
+      "name_lower": "patehera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.907222,
+      "longitude": 77.098889
+    },
+    {
+      "name": "Pehowa",
+      "name_lower": "pehowa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 39104,
+      "latitude": 29.983333,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Phaggu",
+      "name_lower": "phaggu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.783333,
+      "longitude": 75.133333
+    },
+    {
+      "name": "Pharal",
+      "name_lower": "pharal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.833333,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Phurlak",
+      "name_lower": "phurlak",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.558056,
+      "longitude": 76.927222
+    },
+    {
+      "name": "Pinana",
+      "name_lower": "pinana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.066667,
+      "longitude": 76.833333
+    },
+    {
+      "name": "Pinangwa",
+      "name_lower": "pinangwa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.9,
+      "longitude": 77.1
+    },
+    {
+      "name": "Pinangwan",
+      "name_lower": "pinangwan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.9,
+      "longitude": 77.1
+    },
+    {
+      "name": "Pinjaur",
+      "name_lower": "pinjaur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 32164,
+      "latitude": 30.797222,
+      "longitude": 76.917222
+    },
+    {
+      "name": "Pirthala",
+      "name_lower": "pirthala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.25,
+      "longitude": 77.283333
+    },
+    {
+      "name": "Polangi",
+      "name_lower": "polangi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.949167,
+      "longitude": 76.759444
+    },
+    {
+      "name": "Potli",
+      "name_lower": "potli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.989444,
+      "longitude": 77.144722
+    },
+    {
+      "name": "Punahana",
+      "name_lower": "punahana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 15333,
+      "latitude": 27.866667,
+      "longitude": 77.2
+    },
+    {
+      "name": "Pundri",
+      "name_lower": "pundri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 17534,
+      "latitude": 29.75,
+      "longitude": 76.55
+    },
+    {
+      "name": "Purani Mandi",
+      "name_lower": "purani mandi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.032778,
+      "longitude": 76.102778
+    },
+    {
+      "name": "Purkhas",
+      "name_lower": "purkhas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.116667,
+      "longitude": 76.95
+    },
+    {
+      "name": "Purvpatti Purwian",
+      "name_lower": "purvpatti purwian",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.995556,
+      "longitude": 77.145556
+    },
+    {
+      "name": "Puththi",
+      "name_lower": "puththi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.076389,
+      "longitude": 76.263889
+    },
+    {
+      "name": "Rai",
+      "name_lower": "rai",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.95,
+      "longitude": 77.1
+    },
+    {
+      "name": "Rai Tikhana",
+      "name_lower": "rai tikhana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.945,
+      "longitude": 77.008611
+    },
+    {
+      "name": "Rajaund",
+      "name_lower": "rajaund",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.583333,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Rajheri",
+      "name_lower": "rajheri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.988889,
+      "longitude": 77.1825
+    },
+    {
+      "name": "Rambas",
+      "name_lower": "rambas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.498611,
+      "longitude": 76.096389
+    },
+    {
+      "name": "Randauli",
+      "name_lower": "randauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.833889,
+      "longitude": 77.135833
+    },
+    {
+      "name": "Rania",
+      "name_lower": "rania",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 22741,
+      "latitude": 29.533333,
+      "longitude": 74.833333
+    },
+    {
+      "name": "Raniya",
+      "name_lower": "raniya",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.533333,
+      "longitude": 74.833333
+    },
+    {
+      "name": "Rao",
+      "name_lower": "rao",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.948611,
+      "longitude": 77.194722
+    },
+    {
+      "name": "Raoli",
+      "name_lower": "raoli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.7,
+      "longitude": 76.933333
+    },
+    {
+      "name": "Rasin",
+      "name_lower": "rasin",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.575833,
+      "longitude": 76.945556
+    },
+    {
+      "name": "Ratgal",
+      "name_lower": "ratgal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.973333,
+      "longitude": 76.876111
+    },
+    {
+      "name": "Ratia",
+      "name_lower": "ratia",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.683333,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Razapur",
+      "name_lower": "razapur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.470278,
+      "longitude": 76.921667
+    },
+    {
+      "name": "Rewari",
+      "name_lower": "rewari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 112087,
+      "latitude": 28.183333,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Rhogriwala",
+      "name_lower": "rhogriwala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.283333,
+      "longitude": 77.55
+    },
+    {
+      "name": "Ridhao",
+      "name_lower": "ridhao",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.979167,
+      "longitude": 76.825833
+    },
+    {
+      "name": "Rindal",
+      "name_lower": "rindal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.793333,
+      "longitude": 77.072222
+    },
+    {
+      "name": "Risaliya Khera",
+      "name_lower": "risaliya khera",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.716667,
+      "longitude": 74.766667
+    },
+    {
+      "name": "Rohtak",
+      "name_lower": "rohtak",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 317266,
+      "latitude": 28.9,
+      "longitude": 76.566667
+    },
+    {
+      "name": "Rori",
+      "name_lower": "rori",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.75,
+      "longitude": 75.2
+    },
+    {
+      "name": "Rudrol",
+      "name_lower": "rudrol",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.473611,
+      "longitude": 76.095833
+    },
+    {
+      "name": "Ruwo",
+      "name_lower": "ruwo",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.083333,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Sadalpur",
+      "name_lower": "sadalpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.316667,
+      "longitude": 75.45
+    },
+    {
+      "name": "Sadewala",
+      "name_lower": "sadewala",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.65,
+      "longitude": 74.716667
+    },
+    {
+      "name": "Sadhaura",
+      "name_lower": "sadhaura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.383333,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Safidon",
+      "name_lower": "safidon",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 30865,
+      "latitude": 29.416667,
+      "longitude": 76.666667
+    },
+    {
+      "name": "Saha",
+      "name_lower": "saha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.309722,
+      "longitude": 76.975
+    },
+    {
+      "name": "Saharwa",
+      "name_lower": "saharwa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.933333,
+      "longitude": 75.75
+    },
+    {
+      "name": "Said Chhapra",
+      "name_lower": "said chhapra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.851667,
+      "longitude": 77.175278
+    },
+    {
+      "name": "Sakras",
+      "name_lower": "sakras",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 27.85,
+      "longitude": 76.983333
+    },
+    {
+      "name": "Salaheri",
+      "name_lower": "salaheri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.083333,
+      "longitude": 77
+    },
+    {
+      "name": "Salahwas",
+      "name_lower": "salahwas",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.45,
+      "longitude": 76.45
+    },
+    {
+      "name": "Salarpur",
+      "name_lower": "salarpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.099444,
+      "longitude": 76.095833
+    },
+    {
+      "name": "Salarpura",
+      "name_lower": "salarpura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.786667,
+      "longitude": 77.0875
+    },
+    {
+      "name": "Salemsar Majra",
+      "name_lower": "salemsar majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.997778,
+      "longitude": 76.867222
+    },
+    {
+      "name": "Salwan",
+      "name_lower": "salwan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.516667,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Samalkha",
+      "name_lower": "samalkha",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 35622,
+      "latitude": 29.233333,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Samani",
+      "name_lower": "samani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.922222,
+      "longitude": 76.914722
+    },
+    {
+      "name": "Samar Gopalpur",
+      "name_lower": "samar gopalpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.951389,
+      "longitude": 76.527778
+    },
+    {
+      "name": "Samar Gopalpur Khurd",
+      "name_lower": "samar gopalpur khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.951389,
+      "longitude": 76.527778
+    },
+    {
+      "name": "Samaura",
+      "name_lower": "samaura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.8225,
+      "longitude": 77.009167
+    },
+    {
+      "name": "Sambhalka",
+      "name_lower": "sambhalka",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.612222,
+      "longitude": 76.934444
+    },
+    {
+      "name": "Sandhald",
+      "name_lower": "sandhald",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.976111,
+      "longitude": 77.216389
+    },
+    {
+      "name": "Sandhall",
+      "name_lower": "sandhall",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.981667,
+      "longitude": 77.215
+    },
+    {
+      "name": "Sangaria",
+      "name_lower": "sangaria",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.8,
+      "longitude": 74.45
+    },
+    {
+      "name": "Sanghi",
+      "name_lower": "sanghi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.016667,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Santhri",
+      "name_lower": "santhri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.906944,
+      "longitude": 77.061111
+    },
+    {
+      "name": "Sarai Ahmad",
+      "name_lower": "sarai ahmad",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.943333,
+      "longitude": 76.591944
+    },
+    {
+      "name": "Sarwan Majra",
+      "name_lower": "sarwan majra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.923889,
+      "longitude": 76.973333
+    },
+    {
+      "name": "Sasroli",
+      "name_lower": "sasroli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.964722,
+      "longitude": 76.576389
+    },
+    {
+      "name": "Sataundi",
+      "name_lower": "sataundi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.577222,
+      "longitude": 76.906944
+    },
+    {
+      "name": "Satnali",
+      "name_lower": "satnali",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.383333,
+      "longitude": 75.966667
+    },
+    {
+      "name": "Saulda",
+      "name_lower": "saulda",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.648333,
+      "longitude": 76.8825
+    },
+    {
+      "name": "Sehri",
+      "name_lower": "sehri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.938333,
+      "longitude": 76.885556
+    },
+    {
+      "name": "Seiling",
+      "name_lower": "seiling",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.333333,
+      "longitude": 76.166667
+    },
+    {
+      "name": "Seman",
+      "name_lower": "seman",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.041111,
+      "longitude": 76.282778
+    },
+    {
+      "name": "Seonti",
+      "name_lower": "seonti",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.9925,
+      "longitude": 76.987778
+    },
+    {
+      "name": "Serohi Nangal",
+      "name_lower": "serohi nangal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.183333,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Sewani",
+      "name_lower": "sewani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.916667,
+      "longitude": 75.616667
+    },
+    {
+      "name": "Shadipur Julana",
+      "name_lower": "shadipur julana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.133333,
+      "longitude": 76.416667
+    },
+    {
+      "name": "Shaharwa",
+      "name_lower": "shaharwa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.933333,
+      "longitude": 75.75
+    },
+    {
+      "name": "Shahpur Avval",
+      "name_lower": "shahpur avval",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.007778,
+      "longitude": 76.117778
+    },
+    {
+      "name": "Shahpur Begu",
+      "name_lower": "shahpur begu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.483333,
+      "longitude": 75.05
+    },
+    {
+      "name": "Shaikpura",
+      "name_lower": "shaikpura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.65,
+      "longitude": 74.716667
+    },
+    {
+      "name": "Shamaspur",
+      "name_lower": "shamaspur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.880833,
+      "longitude": 77.146944
+    },
+    {
+      "name": "Shekhpura",
+      "name_lower": "shekhpura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.966111,
+      "longitude": 77.110833
+    },
+    {
+      "name": "Shekhpura Sikri",
+      "name_lower": "shekhpura sikri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.874444,
+      "longitude": 77.005833
+    },
+    {
+      "name": "Sherah",
+      "name_lower": "sherah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.45,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Shergarh Tapu",
+      "name_lower": "shergarh tapu",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.771667,
+      "longitude": 77.120278
+    },
+    {
+      "name": "Silana",
+      "name_lower": "silana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.935556,
+      "longitude": 76.845833
+    },
+    {
+      "name": "Simla Maulana",
+      "name_lower": "simla maulana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.455,
+      "longitude": 76.983056
+    },
+    {
+      "name": "Singhaur",
+      "name_lower": "singhaur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.1,
+      "longitude": 77.033333
+    },
+    {
+      "name": "Singhoa",
+      "name_lower": "singhoa",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.785278,
+      "longitude": 77.034722
+    },
+    {
+      "name": "Singhol",
+      "name_lower": "singhol",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.783333,
+      "longitude": 77.029444
+    },
+    {
+      "name": "Singhpura",
+      "name_lower": "singhpura",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.450833,
+      "longitude": 76.909722
+    },
+    {
+      "name": "Singhpura Kalan",
+      "name_lower": "singhpura kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.923056,
+      "longitude": 76.548611
+    },
+    {
+      "name": "Singhpura Khurd",
+      "name_lower": "singhpura khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.918611,
+      "longitude": 76.5325
+    },
+    {
+      "name": "Sirsma",
+      "name_lower": "sirsma",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.971111,
+      "longitude": 76.917778
+    },
+    {
+      "name": "Sisana",
+      "name_lower": "sisana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.9,
+      "longitude": 76.833333
+    },
+    {
+      "name": "Sisanah",
+      "name_lower": "sisanah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.9,
+      "longitude": 76.833333
+    },
+    {
+      "name": "Siswal",
+      "name_lower": "siswal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.216667,
+      "longitude": 75.5
+    },
+    {
+      "name": "Sithana",
+      "name_lower": "sithana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.447222,
+      "longitude": 76.902222
+    },
+    {
+      "name": "Siwah",
+      "name_lower": "siwah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.336111,
+      "longitude": 76.979167
+    },
+    {
+      "name": "Siwana Mal",
+      "name_lower": "siwana mal",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.266667,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Sodhi",
+      "name_lower": "sodhi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.931944,
+      "longitude": 76.934722
+    },
+    {
+      "name": "Sohna",
+      "name_lower": "sohna",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 33363,
+      "latitude": 28.25,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Sohuwala Chak Rohi",
+      "name_lower": "sohuwala chak rohi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.65,
+      "longitude": 74.966667
+    },
+    {
+      "name": "Sondhapur",
+      "name_lower": "sondhapur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.377778,
+      "longitude": 76.934167
+    },
+    {
+      "name": "Sonepat",
+      "name_lower": "sonepat",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.983333,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Sonepat Punjab",
+      "name_lower": "sonepat punjab",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.983333,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Sonipat",
+      "name_lower": "sonipat",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 250538,
+      "latitude": 28.983333,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Sorkhi",
+      "name_lower": "sorkhi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.05,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Suahya",
+      "name_lower": "suahya",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.35,
+      "longitude": 76.45
+    },
+    {
+      "name": "Subana",
+      "name_lower": "subana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.466667,
+      "longitude": 76.55
+    },
+    {
+      "name": "Subanah",
+      "name_lower": "subanah",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.466667,
+      "longitude": 76.55
+    },
+    {
+      "name": "Sungarpur",
+      "name_lower": "sungarpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.75,
+      "longitude": 75.883333
+    },
+    {
+      "name": "Suratiya",
+      "name_lower": "suratiya",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.8,
+      "longitude": 75.183333
+    },
+    {
+      "name": "Sutana",
+      "name_lower": "sutana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.376389,
+      "longitude": 76.880833
+    },
+    {
+      "name": "Tajpur Tihara Khurd",
+      "name_lower": "tajpur tihara khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.982778,
+      "longitude": 76.932222
+    },
+    {
+      "name": "Talwandi Rana",
+      "name_lower": "talwandi rana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.216667,
+      "longitude": 75.75
+    },
+    {
+      "name": "Tankri",
+      "name_lower": "tankri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.083333,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Taoru",
+      "name_lower": "taoru",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 19312,
+      "latitude": 28.216667,
+      "longitude": 76.95
+    },
+    {
+      "name": "Taprian",
+      "name_lower": "taprian",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.923611,
+      "longitude": 77.084167
+    },
+    {
+      "name": "Tatauli",
+      "name_lower": "tatauli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.973056,
+      "longitude": 76.560556
+    },
+    {
+      "name": "Tazipur",
+      "name_lower": "tazipur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.002222,
+      "longitude": 76.103611
+    },
+    {
+      "name": "Tent",
+      "name_lower": "tent",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.183333,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Thanesar",
+      "name_lower": "thanesar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 138288,
+      "latitude": 29.983333,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Thaska Khadar",
+      "name_lower": "thaska khadar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.974722,
+      "longitude": 77.162222
+    },
+    {
+      "name": "Thaska Miranji",
+      "name_lower": "thaska miranji",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 30.108056,
+      "longitude": 76.691667
+    },
+    {
+      "name": "Thathwari",
+      "name_lower": "thathwari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.046667,
+      "longitude": 76.011944
+    },
+    {
+      "name": "Tibri",
+      "name_lower": "tibri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.116667,
+      "longitude": 77.033333
+    },
+    {
+      "name": "Tilori ki Dhani",
+      "name_lower": "tilori ki dhani",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.410833,
+      "longitude": 76.081111
+    },
+    {
+      "name": "Tirawari",
+      "name_lower": "tirawari",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.8,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Tisang",
+      "name_lower": "tisang",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.883333,
+      "longitude": 77.125556
+    },
+    {
+      "name": "Tohana",
+      "name_lower": "tohana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 59753,
+      "latitude": 29.7,
+      "longitude": 75.9
+    },
+    {
+      "name": "Tohsil",
+      "name_lower": "tohsil",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.405556,
+      "longitude": 76.971944
+    },
+    {
+      "name": "Tosbam",
+      "name_lower": "tosbam",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 28.883333,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Tosham",
+      "name_lower": "tosham",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 12529,
+      "latitude": 28.883333,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Uchana",
+      "name_lower": "uchana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 15831,
+      "latitude": 29.466667,
+      "longitude": 76.166667
+    },
+    {
+      "name": "Ujhana",
+      "name_lower": "ujhana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.716667,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Uklana",
+      "name_lower": "uklana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.516667,
+      "longitude": 75.866667
+    },
+    {
+      "name": "Uklana Mandi",
+      "name_lower": "uklana mandi",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 11909,
+      "latitude": 29.516667,
+      "longitude": 75.866667
+    },
+    {
+      "name": "Umra",
+      "name_lower": "umra",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.016667,
+      "longitude": 75.9
+    },
+    {
+      "name": "Unaspur",
+      "name_lower": "unaspur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.879722,
+      "longitude": 76.946389
+    },
+    {
+      "name": "Uncha Sawana",
+      "name_lower": "uncha sawana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.620833,
+      "longitude": 76.999444
+    },
+    {
+      "name": "Untheri",
+      "name_lower": "untheri",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.997778,
+      "longitude": 76.958333
+    },
+    {
+      "name": "Upli",
+      "name_lower": "upli",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.560278,
+      "longitude": 76.955
+    },
+    {
+      "name": "Urlana",
+      "name_lower": "urlana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.35,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Urlana Kalan",
+      "name_lower": "urlana kalan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.35,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Urlana Khurd",
+      "name_lower": "urlana khurd",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.35,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Wazirpur Tittana",
+      "name_lower": "wazirpur tittana",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.266944,
+      "longitude": 76.925833
+    },
+    {
+      "name": "Yamunanagar",
+      "name_lower": "yamunanagar",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": 208945,
+      "latitude": 30.1,
+      "longitude": 77.283333
+    },
+    {
+      "name": "Zainpur",
+      "name_lower": "zainpur",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.974167,
+      "longitude": 77.022778
+    },
+    {
+      "name": "Zainpur Sadan",
+      "name_lower": "zainpur sadan",
+      "state": "Haryana",
+      "state_hi": "हरियाणा",
+      "region_code": "10",
+      "population": "",
+      "latitude": 29.921667,
+      "longitude": 77.073333
+    }
+  ],
+  "meta": {
+    "title": "हरियाणा के शहर (Haryana Cities) - मुफ़्त डाउनलोड",
+    "description": "हरियाणा राज्य के 682 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 682 cities and towns in Haryana, India, with population and geographic coordinates. शामिल हैं 682 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "हरियाणा के शहर (Haryana Cities) | ListBase",
+    "seo_description": "डाउनलोड हरियाणा के शहर (Haryana Cities) — 682 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 682 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

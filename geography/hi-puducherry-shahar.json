@@ -1,0 +1,446 @@
+{
+  "id": "hi-puducherry-shahar",
+  "name": "पुडुचेरी के शहर (Puducherry Cities)",
+  "title": "पुडुचेरी के शहर (Puducherry Cities)",
+  "description": "पुडुचेरी राज्य के 38 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 38 cities and towns in Puducherry, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Accarapatam",
+      "name_lower": "accarapatam",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.883333,
+      "longitude": 79.833333
+    },
+    {
+      "name": "Akkaraivadi",
+      "name_lower": "akkaraivadi",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.883333,
+      "longitude": 79.833333
+    },
+    {
+      "name": "Alayangudi",
+      "name_lower": "alayangudi",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.933333,
+      "longitude": 79.766667
+    },
+    {
+      "name": "Bahour",
+      "name_lower": "bahour",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.8,
+      "longitude": 79.766667
+    },
+    {
+      "name": "Bahur",
+      "name_lower": "bahur",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.8,
+      "longitude": 79.766667
+    },
+    {
+      "name": "Dharmapuram",
+      "name_lower": "dharmapuram",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 79.816667
+    },
+    {
+      "name": "Karikal",
+      "name_lower": "karikal",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 79.833333
+    },
+    {
+      "name": "Karkkangudi",
+      "name_lower": "karkkangudi",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.933333,
+      "longitude": 79.766667
+    },
+    {
+      "name": "Kil Kasakkudi",
+      "name_lower": "kil kasakkudi",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.95,
+      "longitude": 79.833333
+    },
+    {
+      "name": "Kottuchcheri",
+      "name_lower": "kottuchcheri",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.95,
+      "longitude": 79.816667
+    },
+    {
+      "name": "Kottucheri",
+      "name_lower": "kottucheri",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.95,
+      "longitude": 79.816667
+    },
+    {
+      "name": "Muppattankudi",
+      "name_lower": "muppattankudi",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 79.75
+    },
+    {
+      "name": "Nedungadu",
+      "name_lower": "nedungadu",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.966667,
+      "longitude": 79.766667
+    },
+    {
+      "name": "Nédoucadou",
+      "name_lower": "nedoucadou",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.966667,
+      "longitude": 79.766667
+    },
+    {
+      "name": "Pattanachcheri",
+      "name_lower": "pattanachcheri",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.883333,
+      "longitude": 79.85
+    },
+    {
+      "name": "Pillaittiruvasal",
+      "name_lower": "pillaittiruvasal",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.933333,
+      "longitude": 79.8
+    },
+    {
+      "name": "Pondicherry",
+      "name_lower": "pondicherry",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": 227434,
+      "latitude": 11.93,
+      "longitude": 79.83
+    },
+    {
+      "name": "Pondichéri",
+      "name_lower": "pondicheri",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.93,
+      "longitude": 79.83
+    },
+    {
+      "name": "Pondichéry",
+      "name_lower": "pondichery",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.93,
+      "longitude": 79.83
+    },
+    {
+      "name": "Ponducherry",
+      "name_lower": "ponducherry",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.93,
+      "longitude": 79.83
+    },
+    {
+      "name": "Poudhucherry",
+      "name_lower": "poudhucherry",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.93,
+      "longitude": 79.83
+    },
+    {
+      "name": "Puduchcheri",
+      "name_lower": "puduchcheri",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.93,
+      "longitude": 79.83
+    },
+    {
+      "name": "Puducherri",
+      "name_lower": "puducherri",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.93,
+      "longitude": 79.83
+    },
+    {
+      "name": "Puducherry",
+      "name_lower": "puducherry",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.93,
+      "longitude": 79.83
+    },
+    {
+      "name": "Pudutturai",
+      "name_lower": "pudutturai",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 79.816667
+    },
+    {
+      "name": "Puduvai",
+      "name_lower": "puduvai",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.93,
+      "longitude": 79.83
+    },
+    {
+      "name": "Purnankuppam",
+      "name_lower": "purnankuppam",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.866667,
+      "longitude": 79.816667
+    },
+    {
+      "name": "Rayampalaiyam",
+      "name_lower": "rayampalaiyam",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.966667,
+      "longitude": 79.816667
+    },
+    {
+      "name": "Takkalur",
+      "name_lower": "takkalur",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 79.816667
+    },
+    {
+      "name": "Talatteruvu",
+      "name_lower": "talatteruvu",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.933333,
+      "longitude": 79.833333
+    },
+    {
+      "name": "Tirunallar",
+      "name_lower": "tirunallar",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 79.8
+    },
+    {
+      "name": "Tirunallarru",
+      "name_lower": "tirunallarru",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 79.8
+    },
+    {
+      "name": "Tirunallaru",
+      "name_lower": "tirunallaru",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 79.8
+    },
+    {
+      "name": "Valudavur",
+      "name_lower": "valudavur",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.966667,
+      "longitude": 79.7
+    },
+    {
+      "name": "Villenour",
+      "name_lower": "villenour",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.9,
+      "longitude": 79.75
+    },
+    {
+      "name": "Villianur",
+      "name_lower": "villianur",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.9,
+      "longitude": 79.75
+    },
+    {
+      "name": "Virampattinam",
+      "name_lower": "virampattinam",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 11.883333,
+      "longitude": 79.82
+    },
+    {
+      "name": "karaikal",
+      "name_lower": "karaikal",
+      "state": "Puducherry",
+      "state_hi": "पुडुचेरी",
+      "region_code": "22",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 79.833333
+    }
+  ],
+  "meta": {
+    "title": "पुडुचेरी के शहर (Puducherry Cities) - मुफ़्त डाउनलोड",
+    "description": "पुडुचेरी राज्य के 38 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 38 cities and towns in Puducherry, India, with population and geographic coordinates. शामिल हैं 38 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "पुडुचेरी के शहर (Puducherry Cities) | ListBase",
+    "seo_description": "डाउनलोड पुडुचेरी के शहर (Puducherry Cities) — 38 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 38 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

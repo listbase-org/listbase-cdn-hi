@@ -1,0 +1,5826 @@
+{
+  "id": "hi-himachal-pradesh-shahar",
+  "name": "हिमाचल प्रदेश के शहर (Himachal Pradesh Cities)",
+  "title": "हिमाचल प्रदेश के शहर (Himachal Pradesh Cities)",
+  "description": "हिमाचल प्रदेश राज्य के 576 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 576 cities and towns in Himachal Pradesh, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 576,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adan",
+      "name_lower": "adan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.496111,
+      "longitude": 77.755278
+    },
+    {
+      "name": "Aghar",
+      "name_lower": "aghar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Ahi",
+      "name_lower": "ahi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.433333,
+      "longitude": 77.416667
+    },
+    {
+      "name": "Aiju",
+      "name_lower": "aiju",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.016667,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Alas",
+      "name_lower": "alas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.766667,
+      "longitude": 75.983333
+    },
+    {
+      "name": "Almai",
+      "name_lower": "almai",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.55,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Alsindhi",
+      "name_lower": "alsindhi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.3,
+      "longitude": 77.133333
+    },
+    {
+      "name": "Alwas",
+      "name_lower": "alwas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.966667,
+      "longitude": 76.166667
+    },
+    {
+      "name": "Ambala",
+      "name_lower": "ambala",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.898889,
+      "longitude": 76.964722
+    },
+    {
+      "name": "Amboa",
+      "name_lower": "amboa",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.55,
+      "longitude": 77.716667
+    },
+    {
+      "name": "Andaura",
+      "name_lower": "andaura",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.15,
+      "longitude": 75.683333
+    },
+    {
+      "name": "Andrail",
+      "name_lower": "andrail",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.174444,
+      "longitude": 77.096944
+    },
+    {
+      "name": "Ani",
+      "name_lower": "ani",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.433333,
+      "longitude": 77.416667
+    },
+    {
+      "name": "Anur",
+      "name_lower": "anur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.066667,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Arki",
+      "name_lower": "arki",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 3293,
+      "latitude": 31.15,
+      "longitude": 76.966667
+    },
+    {
+      "name": "Arlot",
+      "name_lower": "arlot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.183889,
+      "longitude": 77.041667
+    },
+    {
+      "name": "Bachharag",
+      "name_lower": "bachharag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.199444,
+      "longitude": 77.037222
+    },
+    {
+      "name": "Baddo",
+      "name_lower": "baddo",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.148611,
+      "longitude": 77.0675
+    },
+    {
+      "name": "Badrad",
+      "name_lower": "badrad",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.240556,
+      "longitude": 77.112778
+    },
+    {
+      "name": "Badsehra",
+      "name_lower": "badsehra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.416667,
+      "longitude": 76.3
+    },
+    {
+      "name": "Bagai Kothi",
+      "name_lower": "bagai kothi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.75,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Baghi",
+      "name_lower": "baghi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.25,
+      "longitude": 77.55
+    },
+    {
+      "name": "Bagr",
+      "name_lower": "bagr",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.2175,
+      "longitude": 77.094444
+    },
+    {
+      "name": "Bahadpur",
+      "name_lower": "bahadpur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 75.8
+    },
+    {
+      "name": "Bahl",
+      "name_lower": "bahl",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.816667,
+      "longitude": 76.933333
+    },
+    {
+      "name": "Bahli",
+      "name_lower": "bahli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.366667,
+      "longitude": 77.666667
+    },
+    {
+      "name": "Baihklar",
+      "name_lower": "baihklar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.195278,
+      "longitude": 77.005278
+    },
+    {
+      "name": "Bainsh",
+      "name_lower": "bainsh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.214167,
+      "longitude": 77.031389
+    },
+    {
+      "name": "Bajaura",
+      "name_lower": "bajaura",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.85,
+      "longitude": 77.15
+    },
+    {
+      "name": "Bajhol",
+      "name_lower": "bajhol",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.198611,
+      "longitude": 77.106944
+    },
+    {
+      "name": "Bakhdail",
+      "name_lower": "bakhdail",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.221111,
+      "longitude": 77.032778
+    },
+    {
+      "name": "Baknar",
+      "name_lower": "baknar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.244167,
+      "longitude": 77.011667
+    },
+    {
+      "name": "Balahu",
+      "name_lower": "balahu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.140833,
+      "longitude": 77.063333
+    },
+    {
+      "name": "Baledi",
+      "name_lower": "baledi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.184167,
+      "longitude": 77.0975
+    },
+    {
+      "name": "Baliyandari",
+      "name_lower": "baliyandari",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.128611,
+      "longitude": 77.0125
+    },
+    {
+      "name": "Balta",
+      "name_lower": "balta",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.966667,
+      "longitude": 76.15
+    },
+    {
+      "name": "Bandal",
+      "name_lower": "bandal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.633333,
+      "longitude": 77.433333
+    },
+    {
+      "name": "Banethi",
+      "name_lower": "banethi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.633333,
+      "longitude": 77.266667
+    },
+    {
+      "name": "Bangora",
+      "name_lower": "bangora",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.155833,
+      "longitude": 77.029167
+    },
+    {
+      "name": "Banjan",
+      "name_lower": "banjan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.244167,
+      "longitude": 77.0025
+    },
+    {
+      "name": "Banjar",
+      "name_lower": "banjar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 1351,
+      "latitude": 31.633333,
+      "longitude": 77.35
+    },
+    {
+      "name": "Banon",
+      "name_lower": "banon",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 33.016667,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Bara Bangahal",
+      "name_lower": "bara bangahal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.35,
+      "longitude": 76.8
+    },
+    {
+      "name": "Baragran",
+      "name_lower": "baragran",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.133333,
+      "longitude": 77.15
+    },
+    {
+      "name": "Barog",
+      "name_lower": "barog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.127222,
+      "longitude": 77.022222
+    },
+    {
+      "name": "Barohi",
+      "name_lower": "barohi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.131389,
+      "longitude": 77.116111
+    },
+    {
+      "name": "Bashalri",
+      "name_lower": "bashalri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.238889,
+      "longitude": 77.096944
+    },
+    {
+      "name": "Bashaul",
+      "name_lower": "bashaul",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.195278,
+      "longitude": 77.109444
+    },
+    {
+      "name": "Bashist",
+      "name_lower": "bashist",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.266667,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Basjalri",
+      "name_lower": "basjalri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.2275,
+      "longitude": 77.076111
+    },
+    {
+      "name": "Bast",
+      "name_lower": "bast",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.266667,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Bathad",
+      "name_lower": "bathad",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 77.466667
+    },
+    {
+      "name": "Bathalang",
+      "name_lower": "bathalang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.163889,
+      "longitude": 77.007778
+    },
+    {
+      "name": "Bathmana",
+      "name_lower": "bathmana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.178611,
+      "longitude": 77.051111
+    },
+    {
+      "name": "Bauhli",
+      "name_lower": "bauhli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.1775,
+      "longitude": 77.057222
+    },
+    {
+      "name": "Bawarna",
+      "name_lower": "bawarna",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Beju",
+      "name_lower": "beju",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.226111,
+      "longitude": 77.068333
+    },
+    {
+      "name": "Bhaill",
+      "name_lower": "bhaill",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.165278,
+      "longitude": 77.119444
+    },
+    {
+      "name": "Bhajyar",
+      "name_lower": "bhajyar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.191944,
+      "longitude": 77.029167
+    },
+    {
+      "name": "Bhakra",
+      "name_lower": "bhakra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.383333,
+      "longitude": 76.45
+    },
+    {
+      "name": "Bhakra Dam",
+      "name_lower": "bhakra dam",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.383333,
+      "longitude": 76.45
+    },
+    {
+      "name": "Bhalaya",
+      "name_lower": "bhalaya",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.184167,
+      "longitude": 77.070556
+    },
+    {
+      "name": "Bhandi",
+      "name_lower": "bhandi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.181389,
+      "longitude": 77.009444
+    },
+    {
+      "name": "Bhanon",
+      "name_lower": "bhanon",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.138333,
+      "longitude": 77.035556
+    },
+    {
+      "name": "Bhara",
+      "name_lower": "bhara",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.866667,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Bhargan",
+      "name_lower": "bhargan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.240278,
+      "longitude": 77.077778
+    },
+    {
+      "name": "Bharmar",
+      "name_lower": "bharmar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.183333,
+      "longitude": 75.95
+    },
+    {
+      "name": "Bharmour",
+      "name_lower": "bharmour",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.45,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Bharwain",
+      "name_lower": "bharwain",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.816667,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Bhatwar",
+      "name_lower": "bhatwar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.7,
+      "longitude": 77.7
+    },
+    {
+      "name": "Bhawan",
+      "name_lower": "bhawan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.1,
+      "longitude": 76.266667
+    },
+    {
+      "name": "Bhotaor",
+      "name_lower": "bhotaor",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.95,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Bhukhar",
+      "name_lower": "bhukhar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.666667,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Bhukho",
+      "name_lower": "bhukho",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.177778,
+      "longitude": 77.101389
+    },
+    {
+      "name": "Bhumarogi",
+      "name_lower": "bhumarogi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.200833,
+      "longitude": 77.073333
+    },
+    {
+      "name": "Bhumkar",
+      "name_lower": "bhumkar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.146944,
+      "longitude": 77.065556
+    },
+    {
+      "name": "Bhunaser",
+      "name_lower": "bhunaser",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.220833,
+      "longitude": 77.053611
+    },
+    {
+      "name": "Binu",
+      "name_lower": "binu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.197778,
+      "longitude": 77.031389
+    },
+    {
+      "name": "Bir Khas",
+      "name_lower": "bir khas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 76.7
+    },
+    {
+      "name": "Bir ki Jain",
+      "name_lower": "bir ki jain",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.247222,
+      "longitude": 77.030833
+    },
+    {
+      "name": "Bohli",
+      "name_lower": "bohli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.212778,
+      "longitude": 77.074722
+    },
+    {
+      "name": "Brahmaur",
+      "name_lower": "brahmaur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.45,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Chachyot",
+      "name_lower": "chachyot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.55,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Chaiyan",
+      "name_lower": "chaiyan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.175,
+      "longitude": 77.019444
+    },
+    {
+      "name": "Chalahal",
+      "name_lower": "chalahal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.211111,
+      "longitude": 77.075
+    },
+    {
+      "name": "Chalahatbira",
+      "name_lower": "chalahatbira",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.218611,
+      "longitude": 77.042778
+    },
+    {
+      "name": "Chalhag",
+      "name_lower": "chalhag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.144722,
+      "longitude": 77.060833
+    },
+    {
+      "name": "Chalhant",
+      "name_lower": "chalhant",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.205,
+      "longitude": 77.047222
+    },
+    {
+      "name": "Chamar Palru",
+      "name_lower": "chamar palru",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.9,
+      "longitude": 76.55
+    },
+    {
+      "name": "Champur",
+      "name_lower": "champur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.966667,
+      "longitude": 75.95
+    },
+    {
+      "name": "Chamrat",
+      "name_lower": "chamrat",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.783333,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Chanaral",
+      "name_lower": "chanaral",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.197222,
+      "longitude": 77.0925
+    },
+    {
+      "name": "Chanawag",
+      "name_lower": "chanawag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.238333,
+      "longitude": 77.024444
+    },
+    {
+      "name": "Chandru",
+      "name_lower": "chandru",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.916667,
+      "longitude": 76.25
+    },
+    {
+      "name": "Changar Talai",
+      "name_lower": "changar talai",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.466667,
+      "longitude": 76.516667
+    },
+    {
+      "name": "Charang",
+      "name_lower": "charang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.45,
+      "longitude": 78.55
+    },
+    {
+      "name": "Charaniyan",
+      "name_lower": "charaniyan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.170278,
+      "longitude": 77.11
+    },
+    {
+      "name": "Chari",
+      "name_lower": "chari",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.216667,
+      "longitude": 76.25
+    },
+    {
+      "name": "Charuna",
+      "name_lower": "charuna",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.138611,
+      "longitude": 77.06
+    },
+    {
+      "name": "Chauki Maniar",
+      "name_lower": "chauki maniar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Chauntra",
+      "name_lower": "chauntra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.016667,
+      "longitude": 76.75
+    },
+    {
+      "name": "Chaupal",
+      "name_lower": "chaupal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 1701,
+      "latitude": 30.95,
+      "longitude": 77.583333
+    },
+    {
+      "name": "Chayotha",
+      "name_lower": "chayotha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.194444,
+      "longitude": 77.0875
+    },
+    {
+      "name": "Chhachpur",
+      "name_lower": "chhachpur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.066667,
+      "longitude": 77.75
+    },
+    {
+      "name": "Chhika",
+      "name_lower": "chhika",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.3,
+      "longitude": 77.25
+    },
+    {
+      "name": "Chhorang",
+      "name_lower": "chhorang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.033333,
+      "longitude": 77.466667
+    },
+    {
+      "name": "Chhota Simla",
+      "name_lower": "chhota simla",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.083333,
+      "longitude": 77.166667
+    },
+    {
+      "name": "Chichot",
+      "name_lower": "chichot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.55,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Chini",
+      "name_lower": "chini",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.533333,
+      "longitude": 78.25
+    },
+    {
+      "name": "Chitkal",
+      "name_lower": "chitkal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.366667,
+      "longitude": 78.433333
+    },
+    {
+      "name": "Chounri",
+      "name_lower": "chounri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.143333,
+      "longitude": 77.056389
+    },
+    {
+      "name": "Chuari Khas",
+      "name_lower": "chuari khas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 3431,
+      "latitude": 32.433333,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Dadahu",
+      "name_lower": "dadahu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.616667,
+      "longitude": 77.433333
+    },
+    {
+      "name": "Dadheog",
+      "name_lower": "dadheog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.223611,
+      "longitude": 77.093056
+    },
+    {
+      "name": "Dadhog",
+      "name_lower": "dadhog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.203056,
+      "longitude": 77.033889
+    },
+    {
+      "name": "Dado Siba",
+      "name_lower": "dado siba",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.933333,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Dadwana",
+      "name_lower": "dadwana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.133333,
+      "longitude": 76.866667
+    },
+    {
+      "name": "Dagahai",
+      "name_lower": "dagahai",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.883333,
+      "longitude": 77.05
+    },
+    {
+      "name": "Dagshai",
+      "name_lower": "dagshai",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 2994,
+      "latitude": 30.883333,
+      "longitude": 77.05
+    },
+    {
+      "name": "Dagyana",
+      "name_lower": "dagyana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.198056,
+      "longitude": 77.021111
+    },
+    {
+      "name": "Dahar",
+      "name_lower": "dahar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.433333,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Dahari",
+      "name_lower": "dahari",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.206111,
+      "longitude": 77.065556
+    },
+    {
+      "name": "Dalash",
+      "name_lower": "dalash",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.383333,
+      "longitude": 77.433333
+    },
+    {
+      "name": "Dalhousie",
+      "name_lower": "dalhousie",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 7602,
+      "latitude": 32.533333,
+      "longitude": 75.983333
+    },
+    {
+      "name": "Damehar",
+      "name_lower": "damehar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.154167,
+      "longitude": 77.099722
+    },
+    {
+      "name": "Dankhar",
+      "name_lower": "dankhar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 78.216667
+    },
+    {
+      "name": "Dankhar Gömpa",
+      "name_lower": "dankhar gompa",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 78.216667
+    },
+    {
+      "name": "Daran Ghati",
+      "name_lower": "daran ghati",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.45,
+      "longitude": 77.766667
+    },
+    {
+      "name": "Darcha",
+      "name_lower": "darcha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.683333,
+      "longitude": 77.2
+    },
+    {
+      "name": "Dargi",
+      "name_lower": "dargi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.223889,
+      "longitude": 77.047778
+    },
+    {
+      "name": "Dargot",
+      "name_lower": "dargot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.191667,
+      "longitude": 77.086667
+    },
+    {
+      "name": "Darkoti",
+      "name_lower": "darkoti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.116667,
+      "longitude": 77.616667
+    },
+    {
+      "name": "Daro Khas",
+      "name_lower": "daro khas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Daroh",
+      "name_lower": "daroh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Daroh Khas",
+      "name_lower": "daroh khas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Dawaru",
+      "name_lower": "dawaru",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.242222,
+      "longitude": 77.006667
+    },
+    {
+      "name": "Dehar",
+      "name_lower": "dehar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.433333,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Dehlan",
+      "name_lower": "dehlan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.433333,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Delag",
+      "name_lower": "delag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.228889,
+      "longitude": 77.015556
+    },
+    {
+      "name": "Delath",
+      "name_lower": "delath",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.35,
+      "longitude": 77.55
+    },
+    {
+      "name": "Deorha",
+      "name_lower": "deorha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.116667,
+      "longitude": 77.666667
+    },
+    {
+      "name": "Dera Gopipur",
+      "name_lower": "dera gopipur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 4735,
+      "latitude": 31.9,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Dera-Gepipur",
+      "name_lower": "dera-gepipur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.9,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Dhago Thakurdwara",
+      "name_lower": "dhago thakurdwara",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.183611,
+      "longitude": 77.035833
+    },
+    {
+      "name": "Dhaila",
+      "name_lower": "dhaila",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.134444,
+      "longitude": 77.037222
+    },
+    {
+      "name": "Dhaliyana",
+      "name_lower": "dhaliyana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.187222,
+      "longitude": 77.073333
+    },
+    {
+      "name": "Dhalot",
+      "name_lower": "dhalot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.191944,
+      "longitude": 77.022222
+    },
+    {
+      "name": "Dhaloth",
+      "name_lower": "dhaloth",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.218333,
+      "longitude": 77.005278
+    },
+    {
+      "name": "Dhanech",
+      "name_lower": "dhanech",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.95,
+      "longitude": 77.35
+    },
+    {
+      "name": "Dharail",
+      "name_lower": "dharail",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.155278,
+      "longitude": 77.021667
+    },
+    {
+      "name": "Dharamsala",
+      "name_lower": "dharamsala",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.216667,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Dharat",
+      "name_lower": "dharat",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.130278,
+      "longitude": 77.080833
+    },
+    {
+      "name": "Dharath",
+      "name_lower": "dharath",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.174444,
+      "longitude": 77.056944
+    },
+    {
+      "name": "Dharer",
+      "name_lower": "dharer",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.234444,
+      "longitude": 77.012778
+    },
+    {
+      "name": "Dharmpur",
+      "name_lower": "dharmpur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.166667,
+      "longitude": 77.316667
+    },
+    {
+      "name": "Dharog",
+      "name_lower": "dharog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.156389,
+      "longitude": 77.079167
+    },
+    {
+      "name": "Dharoti",
+      "name_lower": "dharoti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.219722,
+      "longitude": 77.038611
+    },
+    {
+      "name": "Dharwas",
+      "name_lower": "dharwas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 33.133333,
+      "longitude": 76.35
+    },
+    {
+      "name": "Dhobo ki Chayali",
+      "name_lower": "dhobo ki chayali",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.177222,
+      "longitude": 77.049444
+    },
+    {
+      "name": "Dido",
+      "name_lower": "dido",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.164722,
+      "longitude": 77.114722
+    },
+    {
+      "name": "Dishti",
+      "name_lower": "dishti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.209444,
+      "longitude": 77.0575
+    },
+    {
+      "name": "Dochi",
+      "name_lower": "dochi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.152778,
+      "longitude": 77.031944
+    },
+    {
+      "name": "Domli",
+      "name_lower": "domli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.366667,
+      "longitude": 78
+    },
+    {
+      "name": "Drakund",
+      "name_lower": "drakund",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.416667,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Duff Dunbar",
+      "name_lower": "duff dunbar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.25,
+      "longitude": 77.2
+    },
+    {
+      "name": "Dumare",
+      "name_lower": "dumare",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.933333,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Dumari",
+      "name_lower": "dumari",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.933333,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Dutung",
+      "name_lower": "dutung",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.533333,
+      "longitude": 78.166667
+    },
+    {
+      "name": "Dwarsu",
+      "name_lower": "dwarsu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.24,
+      "longitude": 77.106944
+    },
+    {
+      "name": "Faroti",
+      "name_lower": "faroti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.152778,
+      "longitude": 77.053889
+    },
+    {
+      "name": "Gagret",
+      "name_lower": "gagret",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 3026,
+      "latitude": 31.666667,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Galog",
+      "name_lower": "galog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.164722,
+      "longitude": 77.021667
+    },
+    {
+      "name": "Gangtha",
+      "name_lower": "gangtha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.233333,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Garli",
+      "name_lower": "garli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.816667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Gatu",
+      "name_lower": "gatu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.55,
+      "longitude": 77.55
+    },
+    {
+      "name": "Gerthi",
+      "name_lower": "gerthi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.238333,
+      "longitude": 77.092778
+    },
+    {
+      "name": "Ghamarwin",
+      "name_lower": "ghamarwin",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 6691,
+      "latitude": 31.45,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Ghamrur",
+      "name_lower": "ghamrur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.966667,
+      "longitude": 75.95
+    },
+    {
+      "name": "Ghanaharet",
+      "name_lower": "ghanaharet",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.138333,
+      "longitude": 77.091111
+    },
+    {
+      "name": "Ghanala",
+      "name_lower": "ghanala",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.85,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Ghandal",
+      "name_lower": "ghandal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.164722,
+      "longitude": 77.047222
+    },
+    {
+      "name": "Ghangret",
+      "name_lower": "ghangret",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.85,
+      "longitude": 76
+    },
+    {
+      "name": "Ghariana",
+      "name_lower": "ghariana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.243056,
+      "longitude": 77.108611
+    },
+    {
+      "name": "Gharot",
+      "name_lower": "gharot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.244167,
+      "longitude": 77.105278
+    },
+    {
+      "name": "Ghatru",
+      "name_lower": "ghatru",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.196111,
+      "longitude": 77.025278
+    },
+    {
+      "name": "Ghiano",
+      "name_lower": "ghiano",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.150833,
+      "longitude": 77.008611
+    },
+    {
+      "name": "Ghiantu",
+      "name_lower": "ghiantu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.153056,
+      "longitude": 77.010833
+    },
+    {
+      "name": "Ghiri",
+      "name_lower": "ghiri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.483333,
+      "longitude": 76.983333
+    },
+    {
+      "name": "Ghitiari",
+      "name_lower": "ghitiari",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.45,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Ghitrari",
+      "name_lower": "ghitrari",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.45,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Ghodna",
+      "name_lower": "ghodna",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.05,
+      "longitude": 77.466667
+    },
+    {
+      "name": "Ghorap",
+      "name_lower": "ghorap",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.186944,
+      "longitude": 77.031111
+    },
+    {
+      "name": "Ghund",
+      "name_lower": "ghund",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.083333,
+      "longitude": 77.433333
+    },
+    {
+      "name": "Ghusa",
+      "name_lower": "ghusa",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.566667,
+      "longitude": 76.95
+    },
+    {
+      "name": "Giabong",
+      "name_lower": "giabong",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.783333,
+      "longitude": 78.45
+    },
+    {
+      "name": "Gianchari",
+      "name_lower": "gianchari",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.181944,
+      "longitude": 77.038333
+    },
+    {
+      "name": "Gnewag",
+      "name_lower": "gnewag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.168889,
+      "longitude": 77.094444
+    },
+    {
+      "name": "Gochi",
+      "name_lower": "gochi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.153889,
+      "longitude": 77.088889
+    },
+    {
+      "name": "Goler",
+      "name_lower": "goler",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 76.15
+    },
+    {
+      "name": "Gori",
+      "name_lower": "gori",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.184722,
+      "longitude": 77.012222
+    },
+    {
+      "name": "Gramag",
+      "name_lower": "gramag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.016667,
+      "longitude": 77.033333
+    },
+    {
+      "name": "Guler",
+      "name_lower": "guler",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 76.15
+    },
+    {
+      "name": "Gumba",
+      "name_lower": "gumba",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.866667,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Gungh",
+      "name_lower": "gungh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.233889,
+      "longitude": 77.093333
+    },
+    {
+      "name": "Gushai",
+      "name_lower": "gushai",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.566667,
+      "longitude": 76.95
+    },
+    {
+      "name": "Gushal",
+      "name_lower": "gushal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.566667,
+      "longitude": 76.95
+    },
+    {
+      "name": "Halog",
+      "name_lower": "halog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.186944,
+      "longitude": 77.040278
+    },
+    {
+      "name": "Hansi",
+      "name_lower": "hansi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.45,
+      "longitude": 77.833333
+    },
+    {
+      "name": "Haru",
+      "name_lower": "haru",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.149722,
+      "longitude": 77.121389
+    },
+    {
+      "name": "Hat Kot",
+      "name_lower": "hat kot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.083333,
+      "longitude": 76.966667
+    },
+    {
+      "name": "Hatnati",
+      "name_lower": "hatnati",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.125833,
+      "longitude": 77.006111
+    },
+    {
+      "name": "Hinis",
+      "name_lower": "hinis",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.683333,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Hinsa",
+      "name_lower": "hinsa",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.683333,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Hiranali",
+      "name_lower": "hiranali",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.24,
+      "longitude": 77.086944
+    },
+    {
+      "name": "Hiwan",
+      "name_lower": "hiwan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.225833,
+      "longitude": 77.081389
+    },
+    {
+      "name": "Homlich Thach",
+      "name_lower": "homlich thach",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.75,
+      "longitude": 78.216667
+    },
+    {
+      "name": "Homtich Thach",
+      "name_lower": "homtich thach",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.75,
+      "longitude": 78.216667
+    },
+    {
+      "name": "Jadhog",
+      "name_lower": "jadhog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.175278,
+      "longitude": 77.078056
+    },
+    {
+      "name": "Jagatsukh",
+      "name_lower": "jagatsukh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.2,
+      "longitude": 77.2
+    },
+    {
+      "name": "Jamlog",
+      "name_lower": "jamlog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.141111,
+      "longitude": 77.026667
+    },
+    {
+      "name": "Jamog",
+      "name_lower": "jamog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.173611,
+      "longitude": 77.034722
+    },
+    {
+      "name": "Jamogra",
+      "name_lower": "jamogra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.241111,
+      "longitude": 77.091944
+    },
+    {
+      "name": "Janaur",
+      "name_lower": "janaur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.139722,
+      "longitude": 77.120556
+    },
+    {
+      "name": "Jangi",
+      "name_lower": "jangi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 78.416667
+    },
+    {
+      "name": "Janiya",
+      "name_lower": "janiya",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.200833,
+      "longitude": 77.006667
+    },
+    {
+      "name": "Jawala Mukhi",
+      "name_lower": "jawala mukhi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 5281,
+      "latitude": 31.883333,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Jawalanukhi",
+      "name_lower": "jawalanukhi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.883333,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Jawali",
+      "name_lower": "jawali",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.15,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Jeketa",
+      "name_lower": "jeketa",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.116667,
+      "longitude": 77.716667
+    },
+    {
+      "name": "Jeori",
+      "name_lower": "jeori",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.248889,
+      "longitude": 77.094444
+    },
+    {
+      "name": "Jharog",
+      "name_lower": "jharog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.214722,
+      "longitude": 77.085556
+    },
+    {
+      "name": "Jhatingr",
+      "name_lower": "jhatingr",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.95,
+      "longitude": 76.866667
+    },
+    {
+      "name": "Jhungi",
+      "name_lower": "jhungi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.433333,
+      "longitude": 77.083333
+    },
+    {
+      "name": "Jiartha",
+      "name_lower": "jiartha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.145278,
+      "longitude": 77.013611
+    },
+    {
+      "name": "Jilang",
+      "name_lower": "jilang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.3,
+      "longitude": 77.45
+    },
+    {
+      "name": "Jispa",
+      "name_lower": "jispa",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.633333,
+      "longitude": 77.166667
+    },
+    {
+      "name": "Jogindarnagar",
+      "name_lower": "jogindarnagar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 5234,
+      "latitude": 31.983333,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Joginder Nagar",
+      "name_lower": "joginder nagar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Jubbal",
+      "name_lower": "jubbal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 1327,
+      "latitude": 31.116667,
+      "longitude": 77.666667
+    },
+    {
+      "name": "Jubbl",
+      "name_lower": "jubbl",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.116667,
+      "longitude": 77.666667
+    },
+    {
+      "name": "Judlu",
+      "name_lower": "judlu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.241667,
+      "longitude": 77.0175
+    },
+    {
+      "name": "Jundla",
+      "name_lower": "jundla",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.159722,
+      "longitude": 77.063611
+    },
+    {
+      "name": "Junga",
+      "name_lower": "junga",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.016667,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Juni Kalan",
+      "name_lower": "juni kalan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.248611,
+      "longitude": 77.070833
+    },
+    {
+      "name": "Jutogh",
+      "name_lower": "jutogh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 2470,
+      "latitude": 31.1,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Jwalamukhi",
+      "name_lower": "jwalamukhi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.883333,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Kadraina",
+      "name_lower": "kadraina",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.221944,
+      "longitude": 77.070556
+    },
+    {
+      "name": "Kaflag",
+      "name_lower": "kaflag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.196111,
+      "longitude": 77.035556
+    },
+    {
+      "name": "Kahal ka Jubbar",
+      "name_lower": "kahal ka jubbar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.204167,
+      "longitude": 77.058056
+    },
+    {
+      "name": "Kaimli",
+      "name_lower": "kaimli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.190278,
+      "longitude": 77.061111
+    },
+    {
+      "name": "Kaja",
+      "name_lower": "kaja",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.233333,
+      "longitude": 78.066667
+    },
+    {
+      "name": "Kala Amb",
+      "name_lower": "kala amb",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.5,
+      "longitude": 77.2
+    },
+    {
+      "name": "Kalaksar",
+      "name_lower": "kalaksar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.45,
+      "longitude": 77.75
+    },
+    {
+      "name": "Kalapani Thach",
+      "name_lower": "kalapani thach",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.666667,
+      "longitude": 78.233333
+    },
+    {
+      "name": "Kalhel",
+      "name_lower": "kalhel",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.733333,
+      "longitude": 76.1
+    },
+    {
+      "name": "Kalihatti",
+      "name_lower": "kalihatti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.135,
+      "longitude": 77.043333
+    },
+    {
+      "name": "Kalka",
+      "name_lower": "kalka",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 32207,
+      "latitude": 30.834444,
+      "longitude": 76.933333
+    },
+    {
+      "name": "Kaloh",
+      "name_lower": "kaloh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.218333,
+      "longitude": 77.060556
+    },
+    {
+      "name": "Kamlagarh",
+      "name_lower": "kamlagarh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.816667,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Kanalu",
+      "name_lower": "kanalu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.191111,
+      "longitude": 77.005833
+    },
+    {
+      "name": "Kandaghat",
+      "name_lower": "kandaghat",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.983333,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Kanethi",
+      "name_lower": "kanethi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.283333,
+      "longitude": 77.5
+    },
+    {
+      "name": "Kangra",
+      "name_lower": "kangra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 9159,
+      "latitude": 32.1,
+      "longitude": 76.266667
+    },
+    {
+      "name": "Kangti",
+      "name_lower": "kangti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.1975,
+      "longitude": 77.075556
+    },
+    {
+      "name": "Kanhal",
+      "name_lower": "kanhal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.163889,
+      "longitude": 77.073611
+    },
+    {
+      "name": "Karauri",
+      "name_lower": "karauri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.193611,
+      "longitude": 77.046944
+    },
+    {
+      "name": "Kareha",
+      "name_lower": "kareha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.198611,
+      "longitude": 77.045
+    },
+    {
+      "name": "Karer",
+      "name_lower": "karer",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.248889,
+      "longitude": 77.113611
+    },
+    {
+      "name": "Karpat",
+      "name_lower": "karpat",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.833333,
+      "longitude": 76.75
+    },
+    {
+      "name": "Karsog",
+      "name_lower": "karsog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.383333,
+      "longitude": 77.2
+    },
+    {
+      "name": "Karyali",
+      "name_lower": "karyali",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.169444,
+      "longitude": 77.0475
+    },
+    {
+      "name": "Kasambal",
+      "name_lower": "kasambal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.033333,
+      "longitude": 76.85
+    },
+    {
+      "name": "Kasauli",
+      "name_lower": "kasauli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 5215,
+      "latitude": 30.898889,
+      "longitude": 76.964722
+    },
+    {
+      "name": "Kasol",
+      "name_lower": "kasol",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.016667,
+      "longitude": 77.316667
+    },
+    {
+      "name": "Kathiyana",
+      "name_lower": "kathiyana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.204167,
+      "longitude": 77.011389
+    },
+    {
+      "name": "Kathla",
+      "name_lower": "kathla",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Katla",
+      "name_lower": "katla",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.238611,
+      "longitude": 77.014167
+    },
+    {
+      "name": "Katle",
+      "name_lower": "katle",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.2025,
+      "longitude": 77.105556
+    },
+    {
+      "name": "Katrain",
+      "name_lower": "katrain",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 77.133333
+    },
+    {
+      "name": "Kauirik",
+      "name_lower": "kauirik",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.1,
+      "longitude": 78.666667
+    },
+    {
+      "name": "Khadi Thach",
+      "name_lower": "khadi thach",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.6,
+      "longitude": 78.616667
+    },
+    {
+      "name": "Khadrala",
+      "name_lower": "khadrala",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.266667,
+      "longitude": 77.633333
+    },
+    {
+      "name": "Khajla",
+      "name_lower": "khajla",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.195833,
+      "longitude": 77.001111
+    },
+    {
+      "name": "Khanag",
+      "name_lower": "khanag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.516667,
+      "longitude": 77.4
+    },
+    {
+      "name": "Khanjar",
+      "name_lower": "khanjar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.883333,
+      "longitude": 76.85
+    },
+    {
+      "name": "Khanlag",
+      "name_lower": "khanlag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.131944,
+      "longitude": 77.002778
+    },
+    {
+      "name": "Kharag",
+      "name_lower": "kharag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.516667,
+      "longitude": 77.4
+    },
+    {
+      "name": "Khas Nagrota",
+      "name_lower": "khas nagrota",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Khashdhar",
+      "name_lower": "khashdhar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.216667,
+      "longitude": 77.883333
+    },
+    {
+      "name": "Khoksar",
+      "name_lower": "khoksar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.416667,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Khyipar",
+      "name_lower": "khyipar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.333333,
+      "longitude": 78.016667
+    },
+    {
+      "name": "Kiato",
+      "name_lower": "kiato",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.433333,
+      "longitude": 77.9
+    },
+    {
+      "name": "Kibar",
+      "name_lower": "kibar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.333333,
+      "longitude": 78.016667
+    },
+    {
+      "name": "Kilar",
+      "name_lower": "kilar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 33.1,
+      "longitude": 76.416667
+    },
+    {
+      "name": "Kilba",
+      "name_lower": "kilba",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.516667,
+      "longitude": 78.15
+    },
+    {
+      "name": "Kilna",
+      "name_lower": "kilna",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.157778,
+      "longitude": 77.123056
+    },
+    {
+      "name": "Kilor",
+      "name_lower": "kilor",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.733333,
+      "longitude": 75.966667
+    },
+    {
+      "name": "Kohistan",
+      "name_lower": "kohistan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.983333,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Koila",
+      "name_lower": "koila",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.666667,
+      "longitude": 78.466667
+    },
+    {
+      "name": "Korhech",
+      "name_lower": "korhech",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.134444,
+      "longitude": 77.065278
+    },
+    {
+      "name": "Kosauli",
+      "name_lower": "kosauli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.898889,
+      "longitude": 76.964722
+    },
+    {
+      "name": "Kot Khai",
+      "name_lower": "kot khai",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 1253,
+      "latitude": 31.116667,
+      "longitude": 77.533333
+    },
+    {
+      "name": "Kothi Kunal",
+      "name_lower": "kothi kunal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.158333,
+      "longitude": 77.0275
+    },
+    {
+      "name": "Kothi Ser",
+      "name_lower": "kothi ser",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.224722,
+      "longitude": 77.114722
+    },
+    {
+      "name": "Kuars",
+      "name_lower": "kuars",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.366667,
+      "longitude": 76.45
+    },
+    {
+      "name": "Kuarsi",
+      "name_lower": "kuarsi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.366667,
+      "longitude": 76.45
+    },
+    {
+      "name": "Kufri",
+      "name_lower": "kufri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.1,
+      "longitude": 77.25
+    },
+    {
+      "name": "Kugti",
+      "name_lower": "kugti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.483333,
+      "longitude": 76.7
+    },
+    {
+      "name": "Kuira",
+      "name_lower": "kuira",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.161944,
+      "longitude": 77.095556
+    },
+    {
+      "name": "Kukri Ser",
+      "name_lower": "kukri ser",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.033333,
+      "longitude": 77.133333
+    },
+    {
+      "name": "Kulag",
+      "name_lower": "kulag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.8,
+      "longitude": 77.55
+    },
+    {
+      "name": "Kulang",
+      "name_lower": "kulang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.6,
+      "longitude": 77.133333
+    },
+    {
+      "name": "Kulu",
+      "name_lower": "kulu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 19832,
+      "latitude": 31.966667,
+      "longitude": 77.1
+    },
+    {
+      "name": "Kumharsain",
+      "name_lower": "kumharsain",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.316667,
+      "longitude": 77.45
+    },
+    {
+      "name": "Kun",
+      "name_lower": "kun",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.181944,
+      "longitude": 77.0625
+    },
+    {
+      "name": "Kun ka Khet",
+      "name_lower": "kun ka khet",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.19,
+      "longitude": 77.030833
+    },
+    {
+      "name": "Kund Bara",
+      "name_lower": "kund bara",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.75,
+      "longitude": 76.45
+    },
+    {
+      "name": "Kundlu",
+      "name_lower": "kundlu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.183333,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Kundolu",
+      "name_lower": "kundolu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.866667,
+      "longitude": 76.033333
+    },
+    {
+      "name": "Kupar Lahr",
+      "name_lower": "kupar lahr",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 76.25
+    },
+    {
+      "name": "Kushahal",
+      "name_lower": "kushahal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.171944,
+      "longitude": 77.098333
+    },
+    {
+      "name": "Kyeang",
+      "name_lower": "kyeang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.583333,
+      "longitude": 77.033333
+    },
+    {
+      "name": "Kyelang",
+      "name_lower": "kyelang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.583333,
+      "longitude": 77.033333
+    },
+    {
+      "name": "Kyelong",
+      "name_lower": "kyelong",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.583333,
+      "longitude": 77.033333
+    },
+    {
+      "name": "Labrang",
+      "name_lower": "labrang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.683333,
+      "longitude": 78.433333
+    },
+    {
+      "name": "Lahri",
+      "name_lower": "lahri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.55,
+      "longitude": 76.05
+    },
+    {
+      "name": "Laltana",
+      "name_lower": "laltana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.179722,
+      "longitude": 77.000833
+    },
+    {
+      "name": "Lamache",
+      "name_lower": "lamache",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.683333,
+      "longitude": 78.683333
+    },
+    {
+      "name": "Lang Thanga",
+      "name_lower": "lang thanga",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.816667,
+      "longitude": 78.166667
+    },
+    {
+      "name": "Langera",
+      "name_lower": "langera",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.866667,
+      "longitude": 75.866667
+    },
+    {
+      "name": "Langja",
+      "name_lower": "langja",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.283333,
+      "longitude": 78.066667
+    },
+    {
+      "name": "Lara",
+      "name_lower": "lara",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.166667,
+      "longitude": 78.133333
+    },
+    {
+      "name": "Larji",
+      "name_lower": "larji",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.716667,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Litham",
+      "name_lower": "litham",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.366667,
+      "longitude": 78.1
+    },
+    {
+      "name": "Loharab",
+      "name_lower": "loharab",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.152222,
+      "longitude": 77.110556
+    },
+    {
+      "name": "Lori",
+      "name_lower": "lori",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.066667,
+      "longitude": 78.433333
+    },
+    {
+      "name": "Losar",
+      "name_lower": "losar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.433333,
+      "longitude": 77.733333
+    },
+    {
+      "name": "Macharyana",
+      "name_lower": "macharyana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.244722,
+      "longitude": 77.039167
+    },
+    {
+      "name": "Macleodganj",
+      "name_lower": "macleodganj",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.25,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Madrayah",
+      "name_lower": "madrayah",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.213056,
+      "longitude": 77.015
+    },
+    {
+      "name": "Magar",
+      "name_lower": "magar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 77.166667
+    },
+    {
+      "name": "Mahapuna",
+      "name_lower": "mahapuna",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.197222,
+      "longitude": 77.055278
+    },
+    {
+      "name": "Mai Jubar",
+      "name_lower": "mai jubar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.066667,
+      "longitude": 77.25
+    },
+    {
+      "name": "Majhli Jain",
+      "name_lower": "majhli jain",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.244444,
+      "longitude": 77.030278
+    },
+    {
+      "name": "Malana",
+      "name_lower": "malana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.066667,
+      "longitude": 77.266667
+    },
+    {
+      "name": "Malangan",
+      "name_lower": "malangan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.129167,
+      "longitude": 77.035833
+    },
+    {
+      "name": "Malaun",
+      "name_lower": "malaun",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.231667,
+      "longitude": 77.008056
+    },
+    {
+      "name": "Malehr",
+      "name_lower": "malehr",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.933333,
+      "longitude": 76.45
+    },
+    {
+      "name": "Malotha",
+      "name_lower": "malotha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.1,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Maltehr",
+      "name_lower": "maltehr",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Malther",
+      "name_lower": "malther",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Mandap",
+      "name_lower": "mandap",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.171111,
+      "longitude": 77.087778
+    },
+    {
+      "name": "Mandhor",
+      "name_lower": "mandhor",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.249444,
+      "longitude": 77.058611
+    },
+    {
+      "name": "Mandhorghat",
+      "name_lower": "mandhorghat",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.245556,
+      "longitude": 77.059722
+    },
+    {
+      "name": "Mangarh",
+      "name_lower": "mangarh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.75,
+      "longitude": 77.25
+    },
+    {
+      "name": "Manghech",
+      "name_lower": "manghech",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.1425,
+      "longitude": 77.069444
+    },
+    {
+      "name": "Mangwal",
+      "name_lower": "mangwal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Manikaran",
+      "name_lower": "manikaran",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.033333,
+      "longitude": 77.35
+    },
+    {
+      "name": "Maraur",
+      "name_lower": "maraur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.8,
+      "longitude": 77.533333
+    },
+    {
+      "name": "Marhaog",
+      "name_lower": "marhaog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.155278,
+      "longitude": 77.037222
+    },
+    {
+      "name": "Mashabra",
+      "name_lower": "mashabra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.149444,
+      "longitude": 77.089722
+    },
+    {
+      "name": "Mashobra",
+      "name_lower": "mashobra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.133333,
+      "longitude": 77.233333
+    },
+    {
+      "name": "Mastarang",
+      "name_lower": "mastarang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.366667,
+      "longitude": 78.433333
+    },
+    {
+      "name": "Mather",
+      "name_lower": "mather",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.191111,
+      "longitude": 77.010833
+    },
+    {
+      "name": "Matiana",
+      "name_lower": "matiana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.216667,
+      "longitude": 77.416667
+    },
+    {
+      "name": "Minkiani",
+      "name_lower": "minkiani",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.3,
+      "longitude": 76.3
+    },
+    {
+      "name": "Miyan",
+      "name_lower": "miyan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.155,
+      "longitude": 77.016111
+    },
+    {
+      "name": "Morang",
+      "name_lower": "morang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 78.45
+    },
+    {
+      "name": "Nachar",
+      "name_lower": "nachar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.55,
+      "longitude": 77.983333
+    },
+    {
+      "name": "Nadaun",
+      "name_lower": "nadaun",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 4838,
+      "latitude": 31.783333,
+      "longitude": 76.35
+    },
+    {
+      "name": "Naggar",
+      "name_lower": "naggar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 77.166667
+    },
+    {
+      "name": "Nagrota Khas",
+      "name_lower": "nagrota khas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Nahan",
+      "name_lower": "nahan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 27547,
+      "latitude": 30.55,
+      "longitude": 77.3
+    },
+    {
+      "name": "Nahna",
+      "name_lower": "nahna",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.8,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Naihara",
+      "name_lower": "naihara",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.171944,
+      "longitude": 77.091111
+    },
+    {
+      "name": "Nako",
+      "name_lower": "nako",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.883333,
+      "longitude": 78.616667
+    },
+    {
+      "name": "Nalag",
+      "name_lower": "nalag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.19,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Nalagarh",
+      "name_lower": "nalagarh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 10250,
+      "latitude": 31.05,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Nalawan",
+      "name_lower": "nalawan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.218889,
+      "longitude": 77.082222
+    },
+    {
+      "name": "Naldera",
+      "name_lower": "naldera",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.183333,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Naloi",
+      "name_lower": "naloi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.14,
+      "longitude": 77.032778
+    },
+    {
+      "name": "Namgia",
+      "name_lower": "namgia",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.8,
+      "longitude": 78.666667
+    },
+    {
+      "name": "Namoli",
+      "name_lower": "namoli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.266667,
+      "longitude": 76.85
+    },
+    {
+      "name": "Namu",
+      "name_lower": "namu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.75,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Nangal Dam",
+      "name_lower": "nangal dam",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.4,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Nanti",
+      "name_lower": "nanti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.172222,
+      "longitude": 77.059444
+    },
+    {
+      "name": "Narhana",
+      "name_lower": "narhana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.171389,
+      "longitude": 77.053333
+    },
+    {
+      "name": "Narkanda",
+      "name_lower": "narkanda",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 718,
+      "latitude": 31.266667,
+      "longitude": 77.45
+    },
+    {
+      "name": "Nayawag",
+      "name_lower": "nayawag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.149444,
+      "longitude": 77.100833
+    },
+    {
+      "name": "Nehra",
+      "name_lower": "nehra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.2425,
+      "longitude": 77.020833
+    },
+    {
+      "name": "Nehwat",
+      "name_lower": "nehwat",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.192222,
+      "longitude": 77.123889
+    },
+    {
+      "name": "Neri Chamaran",
+      "name_lower": "neri chamaran",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.21,
+      "longitude": 77.004722
+    },
+    {
+      "name": "Nermand",
+      "name_lower": "nermand",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.433333,
+      "longitude": 77.583333
+    },
+    {
+      "name": "Nerti",
+      "name_lower": "nerti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.218056,
+      "longitude": 77.023056
+    },
+    {
+      "name": "Nichla Kangti",
+      "name_lower": "nichla kangti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.193889,
+      "longitude": 77.077222
+    },
+    {
+      "name": "Niharag",
+      "name_lower": "niharag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.208333,
+      "longitude": 77.036944
+    },
+    {
+      "name": "Obru",
+      "name_lower": "obru",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.160556,
+      "longitude": 77.035556
+    },
+    {
+      "name": "Ojar",
+      "name_lower": "ojar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.190556,
+      "longitude": 77.073333
+    },
+    {
+      "name": "Okhru",
+      "name_lower": "okhru",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.205833,
+      "longitude": 77.008333
+    },
+    {
+      "name": "Padal",
+      "name_lower": "padal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Pain Kufar",
+      "name_lower": "pain kufar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.933333,
+      "longitude": 77.383333
+    },
+    {
+      "name": "Pairi",
+      "name_lower": "pairi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.194167,
+      "longitude": 77.080833
+    },
+    {
+      "name": "Pakati",
+      "name_lower": "pakati",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.249444,
+      "longitude": 77.0025
+    },
+    {
+      "name": "Palahata",
+      "name_lower": "palahata",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.2125,
+      "longitude": 77.005556
+    },
+    {
+      "name": "Palahu",
+      "name_lower": "palahu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Palampur",
+      "name_lower": "palampur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 4131,
+      "latitude": 32.116667,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Palau",
+      "name_lower": "palau",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Palchan",
+      "name_lower": "palchan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.316667,
+      "longitude": 77.166667
+    },
+    {
+      "name": "Paldhar",
+      "name_lower": "paldhar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.416667,
+      "longitude": 77.916667
+    },
+    {
+      "name": "Palianiyan",
+      "name_lower": "palianiyan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.163889,
+      "longitude": 77.013611
+    },
+    {
+      "name": "Paliyar",
+      "name_lower": "paliyar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.243056,
+      "longitude": 77.095833
+    },
+    {
+      "name": "Palyani",
+      "name_lower": "palyani",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.225,
+      "longitude": 77.009167
+    },
+    {
+      "name": "Pamo",
+      "name_lower": "pamo",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.366667,
+      "longitude": 77.933333
+    },
+    {
+      "name": "Panci",
+      "name_lower": "panci",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.139167,
+      "longitude": 77.111944
+    },
+    {
+      "name": "Pandoh",
+      "name_lower": "pandoh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 4351,
+      "latitude": 31.683333,
+      "longitude": 77.05
+    },
+    {
+      "name": "Pangi",
+      "name_lower": "pangi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.6,
+      "longitude": 78.266667
+    },
+    {
+      "name": "Pangloh",
+      "name_lower": "pangloh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.164722,
+      "longitude": 77.034167
+    },
+    {
+      "name": "Panhech",
+      "name_lower": "panhech",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.1375,
+      "longitude": 77.081667
+    },
+    {
+      "name": "Panhyana",
+      "name_lower": "panhyana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.211111,
+      "longitude": 77.051111
+    },
+    {
+      "name": "Panjail",
+      "name_lower": "panjail",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.151667,
+      "longitude": 77.0175
+    },
+    {
+      "name": "Panjail Voliran",
+      "name_lower": "panjail voliran",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.209444,
+      "longitude": 77.051111
+    },
+    {
+      "name": "Panjaili",
+      "name_lower": "panjaili",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.211111,
+      "longitude": 77.021111
+    },
+    {
+      "name": "Panjauti",
+      "name_lower": "panjauti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.134167,
+      "longitude": 77.06
+    },
+    {
+      "name": "Panjgraon",
+      "name_lower": "panjgraon",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.533333,
+      "longitude": 76.45
+    },
+    {
+      "name": "Panog",
+      "name_lower": "panog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.178889,
+      "longitude": 77.041944
+    },
+    {
+      "name": "Panoi",
+      "name_lower": "panoi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.225278,
+      "longitude": 77.025
+    },
+    {
+      "name": "Panyali",
+      "name_lower": "panyali",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.234167,
+      "longitude": 77.018056
+    },
+    {
+      "name": "Paonta",
+      "name_lower": "paonta",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.45,
+      "longitude": 77.616667
+    },
+    {
+      "name": "Paonta Sahib",
+      "name_lower": "paonta sahib",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 21788,
+      "latitude": 30.45,
+      "longitude": 77.616667
+    },
+    {
+      "name": "Parkot",
+      "name_lower": "parkot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.150556,
+      "longitude": 77.106389
+    },
+    {
+      "name": "Paror",
+      "name_lower": "paror",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 76.45
+    },
+    {
+      "name": "Patampar",
+      "name_lower": "patampar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Pathiar",
+      "name_lower": "pathiar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.133333,
+      "longitude": 76.4
+    },
+    {
+      "name": "Pathyar",
+      "name_lower": "pathyar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.133333,
+      "longitude": 76.4
+    },
+    {
+      "name": "Patshal",
+      "name_lower": "patshal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.125278,
+      "longitude": 77.0425
+    },
+    {
+      "name": "Patta",
+      "name_lower": "patta",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.956667,
+      "longitude": 76.911111
+    },
+    {
+      "name": "Pauukhar",
+      "name_lower": "pauukhar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.224722,
+      "longitude": 77.111111
+    },
+    {
+      "name": "Peontra",
+      "name_lower": "peontra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.916667,
+      "longitude": 77.683333
+    },
+    {
+      "name": "Phancha",
+      "name_lower": "phancha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 77.716667
+    },
+    {
+      "name": "Pharniwat",
+      "name_lower": "pharniwat",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.232778,
+      "longitude": 77.119167
+    },
+    {
+      "name": "Phuta Khal",
+      "name_lower": "phuta khal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.916667,
+      "longitude": 76.866667
+    },
+    {
+      "name": "Phutta Khal",
+      "name_lower": "phutta khal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.916667,
+      "longitude": 76.866667
+    },
+    {
+      "name": "Pipliahar",
+      "name_lower": "pipliahar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.204722,
+      "longitude": 77.039722
+    },
+    {
+      "name": "Polang",
+      "name_lower": "polang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 76.85
+    },
+    {
+      "name": "Ponth",
+      "name_lower": "ponth",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 76.033333
+    },
+    {
+      "name": "Poo",
+      "name_lower": "poo",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.766667,
+      "longitude": 78.583333
+    },
+    {
+      "name": "Poth",
+      "name_lower": "poth",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 76.033333
+    },
+    {
+      "name": "Pulawad",
+      "name_lower": "pulawad",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.225278,
+      "longitude": 77.016111
+    },
+    {
+      "name": "Pulawal",
+      "name_lower": "pulawal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.236944,
+      "longitude": 77.035
+    },
+    {
+      "name": "Pulga",
+      "name_lower": "pulga",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 77.433333
+    },
+    {
+      "name": "Purohi",
+      "name_lower": "purohi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.175833,
+      "longitude": 77.024722
+    },
+    {
+      "name": "Rahla",
+      "name_lower": "rahla",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.35,
+      "longitude": 77.2
+    },
+    {
+      "name": "Raisan Bagh",
+      "name_lower": "raisan bagh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Rajvi",
+      "name_lower": "rajvi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.227778,
+      "longitude": 77.095278
+    },
+    {
+      "name": "Rakh",
+      "name_lower": "rakh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.483333,
+      "longitude": 76.25
+    },
+    {
+      "name": "Rampur Bushahr",
+      "name_lower": "rampur bushahr",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.45,
+      "longitude": 77.633333
+    },
+    {
+      "name": "Ramshahr",
+      "name_lower": "ramshahr",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.1,
+      "longitude": 76.8
+    },
+    {
+      "name": "Ramthang",
+      "name_lower": "ramthang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.416667,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Rangol",
+      "name_lower": "rangol",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.130833,
+      "longitude": 77.021667
+    },
+    {
+      "name": "Ranot",
+      "name_lower": "ranot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.192222,
+      "longitude": 77.039444
+    },
+    {
+      "name": "Raogi",
+      "name_lower": "raogi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 77.133333
+    },
+    {
+      "name": "Rapra",
+      "name_lower": "rapra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.130833,
+      "longitude": 77.038333
+    },
+    {
+      "name": "Rashil",
+      "name_lower": "rashil",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.616667,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Raula",
+      "name_lower": "raula",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.2275,
+      "longitude": 77.109444
+    },
+    {
+      "name": "Rewag",
+      "name_lower": "rewag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.225278,
+      "longitude": 77.101389
+    },
+    {
+      "name": "Ribba",
+      "name_lower": "ribba",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.583333,
+      "longitude": 78.366667
+    },
+    {
+      "name": "Rihana",
+      "name_lower": "rihana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.247222,
+      "longitude": 77.0925
+    },
+    {
+      "name": "Riyund",
+      "name_lower": "riyund",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.188611,
+      "longitude": 77.098611
+    },
+    {
+      "name": "Rohru",
+      "name_lower": "rohru",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 8164,
+      "latitude": 31.216667,
+      "longitude": 77.75
+    },
+    {
+      "name": "Rupe ki Ber",
+      "name_lower": "rupe ki ber",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.1675,
+      "longitude": 77.009722
+    },
+    {
+      "name": "Rupi",
+      "name_lower": "rupi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 77.833333
+    },
+    {
+      "name": "Sabathu",
+      "name_lower": "sabathu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 6692,
+      "latitude": 30.971944,
+      "longitude": 76.993333
+    },
+    {
+      "name": "Sach Khas",
+      "name_lower": "sach khas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 33,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Sahel",
+      "name_lower": "sahel",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.066667,
+      "longitude": 76.666667
+    },
+    {
+      "name": "Saho",
+      "name_lower": "saho",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.6,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Saidan",
+      "name_lower": "saidan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.149444,
+      "longitude": 77.052222
+    },
+    {
+      "name": "Sainjri",
+      "name_lower": "sainjri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.239722,
+      "longitude": 77.049444
+    },
+    {
+      "name": "Salaun",
+      "name_lower": "salaun",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.168611,
+      "longitude": 77.0675
+    },
+    {
+      "name": "Salgaraon",
+      "name_lower": "salgaraon",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.75,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Samloti",
+      "name_lower": "samloti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 76.35
+    },
+    {
+      "name": "San",
+      "name_lower": "san",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.383333,
+      "longitude": 76.5
+    },
+    {
+      "name": "Sandhoi",
+      "name_lower": "sandhoi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.236111,
+      "longitude": 77.006111
+    },
+    {
+      "name": "Sandli",
+      "name_lower": "sandli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.15,
+      "longitude": 77.028889
+    },
+    {
+      "name": "Sanohal",
+      "name_lower": "sanohal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.143333,
+      "longitude": 77.096944
+    },
+    {
+      "name": "Santokgarh",
+      "name_lower": "santokgarh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.366667,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Santokhgarh",
+      "name_lower": "santokhgarh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 8878,
+      "latitude": 31.366667,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Sarahan",
+      "name_lower": "sarahan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 1495,
+      "latitude": 31.516667,
+      "longitude": 77.8
+    },
+    {
+      "name": "Sarchpat",
+      "name_lower": "sarchpat",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.683333,
+      "longitude": 77.866667
+    },
+    {
+      "name": "Sarka Ghat",
+      "name_lower": "sarka ghat",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 3944,
+      "latitude": 31.7,
+      "longitude": 76.733333
+    },
+    {
+      "name": "Sarog",
+      "name_lower": "sarog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.127778,
+      "longitude": 77.120278
+    },
+    {
+      "name": "Saturang",
+      "name_lower": "saturang",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.416667,
+      "longitude": 78.383333
+    },
+    {
+      "name": "Sel",
+      "name_lower": "sel",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.066667,
+      "longitude": 76.666667
+    },
+    {
+      "name": "Senj",
+      "name_lower": "senj",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.228056,
+      "longitude": 77.048056
+    },
+    {
+      "name": "Shahli",
+      "name_lower": "shahli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.208333,
+      "longitude": 77.079444
+    },
+    {
+      "name": "Shakoh",
+      "name_lower": "shakoh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.144444,
+      "longitude": 77.036389
+    },
+    {
+      "name": "Shakrah",
+      "name_lower": "shakrah",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.140278,
+      "longitude": 77.051389
+    },
+    {
+      "name": "Shakran",
+      "name_lower": "shakran",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.150833,
+      "longitude": 77.057222
+    },
+    {
+      "name": "Shalai",
+      "name_lower": "shalai",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.683333,
+      "longitude": 77.7
+    },
+    {
+      "name": "Shalkar",
+      "name_lower": "shalkar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 78.55
+    },
+    {
+      "name": "Shami",
+      "name_lower": "shami",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.136111,
+      "longitude": 77.025
+    },
+    {
+      "name": "Shamloh",
+      "name_lower": "shamloh",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.224167,
+      "longitude": 77.088611
+    },
+    {
+      "name": "Shamyari",
+      "name_lower": "shamyari",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.190278,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Shanach",
+      "name_lower": "shanach",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.145833,
+      "longitude": 77.053611
+    },
+    {
+      "name": "Shanghech",
+      "name_lower": "shanghech",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.156944,
+      "longitude": 77.093056
+    },
+    {
+      "name": "Shansha",
+      "name_lower": "shansha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.633333,
+      "longitude": 76.9
+    },
+    {
+      "name": "Sharog",
+      "name_lower": "sharog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.212222,
+      "longitude": 77.107778
+    },
+    {
+      "name": "Shavali",
+      "name_lower": "shavali",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.218889,
+      "longitude": 77.040278
+    },
+    {
+      "name": "Shil",
+      "name_lower": "shil",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.236944,
+      "longitude": 77.098333
+    },
+    {
+      "name": "Shil ki Jain",
+      "name_lower": "shil ki jain",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.246111,
+      "longitude": 77.021944
+    },
+    {
+      "name": "Shilli",
+      "name_lower": "shilli",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.159167,
+      "longitude": 77.010556
+    },
+    {
+      "name": "Shirir",
+      "name_lower": "shirir",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Shogi",
+      "name_lower": "shogi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.05,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Shoja",
+      "name_lower": "shoja",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.566667,
+      "longitude": 77.366667
+    },
+    {
+      "name": "Shumhi",
+      "name_lower": "shumhi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.243611,
+      "longitude": 77.065
+    },
+    {
+      "name": "Sihunta",
+      "name_lower": "sihunta",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.3,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Simla",
+      "name_lower": "simla",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.883333,
+      "longitude": 77.05
+    },
+    {
+      "name": "Sir Bhum Chun",
+      "name_lower": "sir bhum chun",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.916667,
+      "longitude": 77.583333
+    },
+    {
+      "name": "Sirjagma",
+      "name_lower": "sirjagma",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.033333,
+      "longitude": 78.6
+    },
+    {
+      "name": "Sissu",
+      "name_lower": "sissu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.483333,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Siyun",
+      "name_lower": "siyun",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.7,
+      "longitude": 77.366667
+    },
+    {
+      "name": "Solag",
+      "name_lower": "solag",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.182778,
+      "longitude": 77.018889
+    },
+    {
+      "name": "Solan",
+      "name_lower": "solan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.916667,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Solon",
+      "name_lower": "solon",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 40286,
+      "latitude": 30.916667,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Sopona",
+      "name_lower": "sopona",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 78.333333
+    },
+    {
+      "name": "Soriya",
+      "name_lower": "soriya",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.221667,
+      "longitude": 77.007778
+    },
+    {
+      "name": "Spiti",
+      "name_lower": "spiti",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 78.216667
+    },
+    {
+      "name": "Suala",
+      "name_lower": "suala",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.733333,
+      "longitude": 76.266667
+    },
+    {
+      "name": "Subathu",
+      "name_lower": "subathu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.971944,
+      "longitude": 76.993333
+    },
+    {
+      "name": "Sujanpur",
+      "name_lower": "sujanpur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.833333,
+      "longitude": 76.5
+    },
+    {
+      "name": "Sujanpur Tira",
+      "name_lower": "sujanpur tira",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.833333,
+      "longitude": 76.5
+    },
+    {
+      "name": "Sumra",
+      "name_lower": "sumra",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.033333,
+      "longitude": 78.466667
+    },
+    {
+      "name": "Sundarnagar",
+      "name_lower": "sundarnagar",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 25340,
+      "latitude": 31.533333,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Sungri",
+      "name_lower": "sungri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.316667,
+      "longitude": 77.7
+    },
+    {
+      "name": "Sunukothi",
+      "name_lower": "sunukothi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.8,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Susing Thach",
+      "name_lower": "susing thach",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.883333,
+      "longitude": 78.3
+    },
+    {
+      "name": "Syatha",
+      "name_lower": "syatha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.145278,
+      "longitude": 77.018889
+    },
+    {
+      "name": "Tabo",
+      "name_lower": "tabo",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.083333,
+      "longitude": 78.383333
+    },
+    {
+      "name": "Tai",
+      "name_lower": "tai",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 33.15,
+      "longitude": 76.45
+    },
+    {
+      "name": "Talara",
+      "name_lower": "talara",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.25,
+      "longitude": 75.9
+    },
+    {
+      "name": "Talarah",
+      "name_lower": "talarah",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.25,
+      "longitude": 75.9
+    },
+    {
+      "name": "Talha",
+      "name_lower": "talha",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.220833,
+      "longitude": 77.094167
+    },
+    {
+      "name": "Tandi",
+      "name_lower": "tandi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.566667,
+      "longitude": 76.966667
+    },
+    {
+      "name": "Tangish",
+      "name_lower": "tangish",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.201111,
+      "longitude": 77.056667
+    },
+    {
+      "name": "Tapakari",
+      "name_lower": "tapakari",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.200278,
+      "longitude": 77.024722
+    },
+    {
+      "name": "Tarna",
+      "name_lower": "tarna",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.816667,
+      "longitude": 77.45
+    },
+    {
+      "name": "Tebong Thach",
+      "name_lower": "tebong thach",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.783333,
+      "longitude": 78.15
+    },
+    {
+      "name": "Tebong Thanga",
+      "name_lower": "tebong thanga",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.783333,
+      "longitude": 78.15
+    },
+    {
+      "name": "Thachi",
+      "name_lower": "thachi",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.205,
+      "longitude": 77.09
+    },
+    {
+      "name": "Thalog",
+      "name_lower": "thalog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.173056,
+      "longitude": 77.002222
+    },
+    {
+      "name": "Thanela",
+      "name_lower": "thanela",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.816667,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Tharoch",
+      "name_lower": "tharoch",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 30.966667,
+      "longitude": 77.683333
+    },
+    {
+      "name": "Theog",
+      "name_lower": "theog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 4191,
+      "latitude": 31.116667,
+      "longitude": 77.35
+    },
+    {
+      "name": "Thirot",
+      "name_lower": "thirot",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.666667,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Thog",
+      "name_lower": "thog",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.246111,
+      "longitude": 77.076944
+    },
+    {
+      "name": "Tiklik",
+      "name_lower": "tiklik",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.383333,
+      "longitude": 77.716667
+    },
+    {
+      "name": "Tikri Khas",
+      "name_lower": "tikri khas",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.366667,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Tiling",
+      "name_lower": "tiling",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 78.083333
+    },
+    {
+      "name": "Tipri",
+      "name_lower": "tipri",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.483333,
+      "longitude": 76.166667
+    },
+    {
+      "name": "Tira Sujanpur",
+      "name_lower": "tira sujanpur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 7748,
+      "latitude": 31.833333,
+      "longitude": 76.5
+    },
+    {
+      "name": "Tisa",
+      "name_lower": "tisa",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.833333,
+      "longitude": 76.15
+    },
+    {
+      "name": "Triloknath",
+      "name_lower": "triloknath",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.683333,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Tuan",
+      "name_lower": "tuan",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 33.033333,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Tukwana",
+      "name_lower": "tukwana",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.139722,
+      "longitude": 77.011111
+    },
+    {
+      "name": "Tul",
+      "name_lower": "tul",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.156944,
+      "longitude": 77.056389
+    },
+    {
+      "name": "Tun",
+      "name_lower": "tun",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.201389,
+      "longitude": 77.04
+    },
+    {
+      "name": "Tunguna",
+      "name_lower": "tunguna",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.683333,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Tyamia",
+      "name_lower": "tyamia",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.228611,
+      "longitude": 77.004167
+    },
+    {
+      "name": "Ulans",
+      "name_lower": "ulans",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.45,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Una",
+      "name_lower": "una",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 17570,
+      "latitude": 31.483333,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Utpur",
+      "name_lower": "utpur",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.783333,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Uttar Sal",
+      "name_lower": "uttar sal",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.8,
+      "longitude": 77.016667
+    },
+    {
+      "name": "Vashisht",
+      "name_lower": "vashisht",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.266667,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Wangtu",
+      "name_lower": "wangtu",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.55,
+      "longitude": 78.016667
+    },
+    {
+      "name": "Yangling",
+      "name_lower": "yangling",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 32.483333,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Yangpa",
+      "name_lower": "yangpa",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 78.05
+    },
+    {
+      "name": "Yol",
+      "name_lower": "yol",
+      "state": "Himachal Pradesh",
+      "state_hi": "हिमाचल प्रदेश",
+      "region_code": "11",
+      "population": 11315,
+      "latitude": 32.166667,
+      "longitude": 76.2
+    }
+  ],
+  "meta": {
+    "title": "हिमाचल प्रदेश के शहर (Himachal Pradesh Cities) - मुफ़्त डाउनलोड",
+    "description": "हिमाचल प्रदेश राज्य के 576 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 576 cities and towns in Himachal Pradesh, India, with population and geographic coordinates. शामिल हैं 576 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "हिमाचल प्रदेश के शहर (Himachal Pradesh Cities) | ListBase",
+    "seo_description": "डाउनलोड हिमाचल प्रदेश के शहर (Himachal Pradesh Cities) — 576 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 576 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

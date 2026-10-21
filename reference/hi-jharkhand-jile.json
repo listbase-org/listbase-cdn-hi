@@ -1,0 +1,364 @@
+{
+  "id": "hi-jharkhand-jile",
+  "name": "Jharkhand के जिले (Jharkhand Districts)",
+  "title": "Jharkhand के जिले (Jharkhand Districts)",
+  "description": "24 districts in Jharkhand (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Jharkhand\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "BO",
+      "district": "Bokaro",
+      "district_slug": "bokaro",
+      "headquarters": "Bokaro",
+      "population": 2061918,
+      "area_km2": 2883,
+      "density_per_km2": 716
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "CH",
+      "district": "Chatra",
+      "district_slug": "chatra",
+      "headquarters": "Chatra",
+      "population": 1042304,
+      "area_km2": 3700,
+      "density_per_km2": 275
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "DE",
+      "district": "Deoghar",
+      "district_slug": "deoghar",
+      "headquarters": "Deoghar",
+      "population": 1491879,
+      "area_km2": 2479,
+      "density_per_km2": 602
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "DH",
+      "district": "Dhanbad",
+      "district_slug": "dhanbad",
+      "headquarters": "Dhanbad",
+      "population": 2682662,
+      "area_km2": 2040,
+      "density_per_km2": 1316
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "DU",
+      "district": "Dumka",
+      "district_slug": "dumka",
+      "headquarters": "Dumka",
+      "population": 1321096,
+      "area_km2": 4404,
+      "density_per_km2": 300
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "ES",
+      "district": "East Singhbhum",
+      "district_slug": "east-singhbhum",
+      "headquarters": "Jamshedpur",
+      "population": 2291032,
+      "area_km2": 3562,
+      "density_per_km2": 648
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "GA",
+      "district": "Garhwa",
+      "district_slug": "garhwa",
+      "headquarters": "Garhwa",
+      "population": 1322387,
+      "area_km2": 4064,
+      "density_per_km2": 327
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "GI",
+      "district": "Giridih",
+      "district_slug": "giridih",
+      "headquarters": "Giridih",
+      "population": 2445203,
+      "area_km2": 4887,
+      "density_per_km2": 497
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "GO",
+      "district": "Godda",
+      "district_slug": "godda",
+      "headquarters": "Godda",
+      "population": 1311382,
+      "area_km2": 2110,
+      "density_per_km2": 622
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "GU",
+      "district": "Gumla",
+      "district_slug": "gumla",
+      "headquarters": "Gumla",
+      "population": 1025656,
+      "area_km2": 5360,
+      "density_per_km2": 191
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "HA",
+      "district": "Hazaribag",
+      "district_slug": "hazaribag",
+      "headquarters": "Hazaribag",
+      "population": 1734495,
+      "area_km2": 3555,
+      "density_per_km2": 488
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "JA",
+      "district": "Jamtara",
+      "district_slug": "jamtara",
+      "headquarters": "Jamtara",
+      "population": 790207,
+      "area_km2": 1802,
+      "density_per_km2": 439
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "KH",
+      "district": "Khunti",
+      "district_slug": "khunti",
+      "headquarters": "Khunti",
+      "population": 530299,
+      "area_km2": 2535,
+      "density_per_km2": 210
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "KO",
+      "district": "Koderma",
+      "district_slug": "koderma",
+      "headquarters": "Koderma",
+      "population": 716259,
+      "area_km2": 2540,
+      "density_per_km2": 282
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "LA",
+      "district": "Latehar",
+      "district_slug": "latehar",
+      "headquarters": "Latehar",
+      "population": 725673,
+      "area_km2": 3630,
+      "density_per_km2": 200
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "LO",
+      "district": "Lohardaga",
+      "district_slug": "lohardaga",
+      "headquarters": "Lohardaga",
+      "population": 461738,
+      "area_km2": 1502,
+      "density_per_km2": 307
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "PK",
+      "district": "Pakur",
+      "district_slug": "pakur",
+      "headquarters": "Pakur",
+      "population": 899200,
+      "area_km2": 1805,
+      "density_per_km2": 498
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "PL",
+      "district": "Palamu",
+      "district_slug": "palamu",
+      "headquarters": "Daltonganj",
+      "population": 1936319,
+      "area_km2": 4393,
+      "density_per_km2": 442
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "RM",
+      "district": "Ramgarh",
+      "district_slug": "ramgarh",
+      "headquarters": "Ramgarh",
+      "population": 949159,
+      "area_km2": 1341,
+      "density_per_km2": 708
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "RA",
+      "district": "Ranchi",
+      "district_slug": "ranchi",
+      "headquarters": "Ranchi",
+      "population": 2912022,
+      "area_km2": 5097,
+      "density_per_km2": 572
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "SA",
+      "district": "Sahibganj",
+      "district_slug": "sahibganj",
+      "headquarters": "Sahebganj",
+      "population": 1150038,
+      "area_km2": 2063,
+      "density_per_km2": 558
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "SK",
+      "district": "Seraikela-Kharsawan",
+      "district_slug": "seraikela-kharsawan",
+      "headquarters": "Seraikela",
+      "population": 1063458,
+      "area_km2": 2657,
+      "density_per_km2": 401
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "SI",
+      "district": "Simdega",
+      "district_slug": "simdega",
+      "headquarters": "Simdega",
+      "population": 599813,
+      "area_km2": 3750,
+      "density_per_km2": 160
+    },
+    {
+      "state": "Jharkhand",
+      "state_code": "JH",
+      "state_slug": "jharkhand",
+      "district_code": "WS",
+      "district": "West Singhbhum",
+      "district_slug": "west-singhbhum",
+      "headquarters": "Chaibasa",
+      "population": 1501619,
+      "area_km2": 7224,
+      "density_per_km2": 209
+    }
+  ],
+  "meta": {
+    "title": "Jharkhand के जिले (Jharkhand Districts) - मुफ़्त डाउनलोड",
+    "description": "24 districts in Jharkhand (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Jharkhand\". शामिल हैं 24 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Jharkhand के जिले (Jharkhand Districts) | ListBase",
+    "seo_description": "डाउनलोड Jharkhand के जिले (Jharkhand Districts) — 24 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 24 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

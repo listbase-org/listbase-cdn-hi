@@ -1,0 +1,128 @@
+{
+  "id": "hi-gandhidham-bank",
+  "name": "Gandhidham में बैंक — SWIFT/BIC कोड",
+  "title": "Gandhidham में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Gandhidham, India. Subset of hi-bank. Source city string preserved verbatim as \"GANDHIDHAM\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 23,
+      "bank": "ALLAHABAD BANK",
+      "city": "GANDHIDHAM",
+      "branch": "(GANDHIDHAM)",
+      "swift_code": "ALLAINBBGND"
+    },
+    {
+      "id": 300,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GANDHIDHAM",
+      "branch": "(GANDHIDHAM BRANCH)",
+      "swift_code": "AXISINBB178"
+    },
+    {
+      "id": 667,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "GANDHIDHAM",
+      "branch": "",
+      "swift_code": "UTIBINB1178"
+    },
+    {
+      "id": 955,
+      "bank": "BANK OF INDIA",
+      "city": "GANDHIDHAM",
+      "branch": "(GANDHIDHAM BRANCH)",
+      "swift_code": "BKIDINBBGAD"
+    },
+    {
+      "id": 1650,
+      "bank": "DENA BANK",
+      "city": "GANDHIDHAM",
+      "branch": "(AD BRANCH)",
+      "swift_code": "BKDNINBBGAN"
+    },
+    {
+      "id": 2406,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "GANDHIDHAM",
+      "branch": "(GANDHIDHAM)",
+      "swift_code": "LAVBINBB275"
+    },
+    {
+      "id": 2653,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "GANDHIDHAM",
+      "branch": "(GANDHIDHAM)",
+      "swift_code": "PUNBINBBGDA"
+    },
+    {
+      "id": 3113,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GANDHIDHAM",
+      "branch": "(BHAI PRATAP CIRCLE,GANDHIDHAM)",
+      "swift_code": "SBININBB622"
+    },
+    {
+      "id": 3758,
+      "bank": "SYNDICATE BANK",
+      "city": "GANDHIDHAM",
+      "branch": "(GANDHIDHAM BRANCH)",
+      "swift_code": "SYNBINBB180"
+    },
+    {
+      "id": 3909,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "GANDHIDHAM",
+      "branch": "",
+      "swift_code": "SOININ55631"
+    },
+    {
+      "id": 4211,
+      "bank": "VIJAYA BANK",
+      "city": "GANDHIDHAM",
+      "branch": "",
+      "swift_code": "VIJBINBBGAN"
+    }
+  ],
+  "meta": {
+    "title": "Gandhidham में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Gandhidham, India. Subset of hi-bank. Source city string preserved verbatim as \"GANDHIDHAM\". शामिल हैं 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Gandhidham में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Gandhidham में बैंक — SWIFT/BIC कोड — 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 11 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

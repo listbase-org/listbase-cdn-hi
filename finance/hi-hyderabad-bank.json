@@ -1,0 +1,842 @@
+{
+  "id": "hi-hyderabad-bank",
+  "name": "Hyderabad में बैंक — SWIFT/BIC कोड",
+  "title": "Hyderabad में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Hyderabad, India. Subset of hi-bank. Source city string preserved verbatim as \"HYDERABAD\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 113,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 89,
+      "bank": "ANDHRA BANK",
+      "city": "HYDERABAD",
+      "branch": "(BDL CAMPUS BRANCH, HYDERABAD)",
+      "swift_code": "ANDBINBBBDL"
+    },
+    {
+      "id": 90,
+      "bank": "ANDHRA BANK",
+      "city": "HYDERABAD",
+      "branch": "(FOREX / SOMAJIGUDA)",
+      "swift_code": "ANDBINBBSOM"
+    },
+    {
+      "id": 91,
+      "bank": "ANDHRA BANK",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD MAIN BRANCH SULTAN BAZAR)",
+      "swift_code": "ANDBINBBHYD"
+    },
+    {
+      "id": 92,
+      "bank": "ANDHRA BANK",
+      "city": "HYDERABAD",
+      "branch": "(OVERSEAS BRANCH, HYDERABAD)",
+      "swift_code": "ANDBINBB003"
+    },
+    {
+      "id": 93,
+      "bank": "ANDHRA BANK",
+      "city": "HYDERABAD",
+      "branch": "(SPECIALIZED CORPORATE FINANCE BRANCH)",
+      "swift_code": "ANDBINBBTEC"
+    },
+    {
+      "id": 343,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(BALANAGAR, HYDERABAD (AP) : 698)",
+      "swift_code": "AXISINBB698"
+    },
+    {
+      "id": 344,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(CBB HYDERABAD)",
+      "swift_code": "AXISINBBA08"
+    },
+    {
+      "id": 345,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(DILSUKHNAGAR, HYDERABAD)",
+      "swift_code": "AXISINBB235"
+    },
+    {
+      "id": 346,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(DR AS RAO NAGAR, HYDERABAD)",
+      "swift_code": "AXISINBB427"
+    },
+    {
+      "id": 347,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(GACHIBOWLI)",
+      "swift_code": "AXISINBB733"
+    },
+    {
+      "id": 348,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(HIMAYATH NAGAR, HYDERABAD AP)",
+      "swift_code": "AXISINBB370"
+    },
+    {
+      "id": 349,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH )",
+      "swift_code": "AXISINBB008"
+    },
+    {
+      "id": 350,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(JUBILEE HILLS BRANCH)",
+      "swift_code": "AXISINBB030"
+    },
+    {
+      "id": 351,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(KUKATPALLY)",
+      "swift_code": "AXISINBB193"
+    },
+    {
+      "id": 352,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(MADHAPUR)",
+      "swift_code": "AXISINBB553"
+    },
+    {
+      "id": 353,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(PATANCHERU AP)",
+      "swift_code": "AXISINBB687"
+    },
+    {
+      "id": 354,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(PRIORITY BANKING BANJARA HILLS)",
+      "swift_code": "AXISINBB515"
+    },
+    {
+      "id": 355,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(ROAD NO.2, BANJARA HILLS,HYD -1379)",
+      "swift_code": "AXISINBBA46"
+    },
+    {
+      "id": 356,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(SRINAGAR COLONY, HYDERABAD)",
+      "swift_code": "AXISINBB425"
+    },
+    {
+      "id": 673,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "UTIBINB1008"
+    },
+    {
+      "id": 783,
+      "bank": "BANK OF BARODA",
+      "city": "HYDERABAD",
+      "branch": "(CORPORATE FINANCIAL SERVICES)",
+      "swift_code": "BARBINBBCFH"
+    },
+    {
+      "id": 784,
+      "bank": "BANK OF BARODA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD (MAIN) BR.)",
+      "swift_code": "BARBINBBHYD"
+    },
+    {
+      "id": 785,
+      "bank": "BANK OF BARODA",
+      "city": "HYDERABAD",
+      "branch": "(KHAIRATABAD BRANCH)",
+      "swift_code": "BARBINBBKTB"
+    },
+    {
+      "id": 786,
+      "bank": "BANK OF BARODA",
+      "city": "HYDERABAD",
+      "branch": "(MID CORPORATE BRANCH, HYDERABAD)",
+      "swift_code": "BARBINBBMCH"
+    },
+    {
+      "id": 965,
+      "bank": "BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "BKIDINBBHMB"
+    },
+    {
+      "id": 966,
+      "bank": "BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD LARGE CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBHLC"
+    },
+    {
+      "id": 967,
+      "bank": "BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD MID CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBHCB"
+    },
+    {
+      "id": 968,
+      "bank": "BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(KHAIRATABAD BRANCH)",
+      "swift_code": "BKIDINBBKHB"
+    },
+    {
+      "id": 1129,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "HYDERABAD",
+      "branch": "(SULTAN BAZAR BRANCH, HYDERABAD)",
+      "swift_code": "MAHBINBBHYD"
+    },
+    {
+      "id": 1163,
+      "bank": "BANK OF NOVA SCOTIA, THE",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "NOSCINBBHYD"
+    },
+    {
+      "id": 1191,
+      "bank": "BNP PARIBAS INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "BNPAINBBHYD"
+    },
+    {
+      "id": 1263,
+      "bank": "CANARA BANK",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBHFD"
+    },
+    {
+      "id": 1264,
+      "bank": "CANARA BANK",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD INDUSTRIAL FINANCE)",
+      "swift_code": "CNRBINBBIFH"
+    },
+    {
+      "id": 1265,
+      "bank": "CANARA BANK",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBHOB"
+    },
+    {
+      "id": 1420,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "CBININBBHYD"
+    },
+    {
+      "id": 1471,
+      "bank": "CIL SECURITIES LTD",
+      "city": "HYDERABAD",
+      "branch": "",
+      "swift_code": "CIEEINB1"
+    },
+    {
+      "id": 1533,
+      "bank": "CORPORATION BANK",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD LARGE CORPORATE BRANCH)",
+      "swift_code": "CORPINBBLCH"
+    },
+    {
+      "id": 1534,
+      "bank": "CORPORATION BANK",
+      "city": "HYDERABAD",
+      "branch": "(HYDERGUDA BRANCH)",
+      "swift_code": "CORPINBB276"
+    },
+    {
+      "id": 1653,
+      "bank": "DENA BANK",
+      "city": "HYDERABAD",
+      "branch": "(BANK STREET BRANCH, HYDERABAD)",
+      "swift_code": "BKDNINBBHYD"
+    },
+    {
+      "id": 1704,
+      "bank": "DHANLAXMI BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(FOREX)",
+      "swift_code": "DLXBINBBHYD"
+    },
+    {
+      "id": 1715,
+      "bank": "DR. REDDY'S LABORATORIES LTD",
+      "city": "HYDERABAD",
+      "branch": "",
+      "swift_code": "DRLIINB1"
+    },
+    {
+      "id": 1760,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD-ABIDS ROAD)",
+      "swift_code": "FDRLINBBHYD"
+    },
+    {
+      "id": 1841,
+      "bank": "HDFC BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "HDFCINBBHYD"
+    },
+    {
+      "id": 1874,
+      "bank": "ICICI BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "ICICINBB008"
+    },
+    {
+      "id": 1875,
+      "bank": "ICICI BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(REGIONAL TRADE SERVICES UNIT-HYDERABAD)",
+      "swift_code": "ICICINBBRT5"
+    },
+    {
+      "id": 1923,
+      "bank": "IDBI BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "IBKLINBB002"
+    },
+    {
+      "id": 1924,
+      "bank": "IDBI BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "('HYDERABAD)",
+      "swift_code": "IBKLINBBHYD"
+    },
+    {
+      "id": 1925,
+      "bank": "IDBI BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(MAIN CORPORATE BRANCH, HYDERABAD)",
+      "swift_code": "IBKLINBB133"
+    },
+    {
+      "id": 2040,
+      "bank": "INDIAN BANK",
+      "city": "HYDERABAD",
+      "branch": "(HIMAYATNAGAR BRANCH, HYDERABAD)",
+      "swift_code": "IDIBINBBHIM"
+    },
+    {
+      "id": 2041,
+      "bank": "INDIAN BANK",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD MAIN)",
+      "swift_code": "IDIBINBBHYD"
+    },
+    {
+      "id": 2142,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "IOBAINBB030"
+    },
+    {
+      "id": 2233,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD, S.P. ROAD)",
+      "swift_code": "INDBINBBHYB"
+    },
+    {
+      "id": 2285,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "JAKAINBBHBD"
+    },
+    {
+      "id": 2377,
+      "bank": "KARVY COMPUTERSHARE PRIVATE LIMITED",
+      "city": "HYDERABAD",
+      "branch": "",
+      "swift_code": "KCPLINB1"
+    },
+    {
+      "id": 2378,
+      "bank": "KARVY STOCK BROKING LIMITED",
+      "city": "HYDERABAD",
+      "branch": "",
+      "swift_code": "KSBLIN41"
+    },
+    {
+      "id": 2407,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD)",
+      "swift_code": "LAVBINBB297"
+    },
+    {
+      "id": 2432,
+      "bank": "MGSI",
+      "city": "HYDERABAD",
+      "branch": "",
+      "swift_code": "MGSIINB1"
+    },
+    {
+      "id": 2488,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "HYDERABAD",
+      "branch": "(1110 JUBILEE HILLS)",
+      "swift_code": "ORBCINBBJUB"
+    },
+    {
+      "id": 2489,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "HYDERABAD",
+      "branch": "(BRANCH OFFICE AMEERPET HYDERABAD)",
+      "swift_code": "ORBCINBBHYD"
+    },
+    {
+      "id": 2668,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "HYDERABAD",
+      "branch": "(BANK STREET BRANCH)",
+      "swift_code": "PUNBINBBHBS"
+    },
+    {
+      "id": 2669,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "HYDERABAD",
+      "branch": "(HI-TECH CITY HYDERABAD)",
+      "swift_code": "PUNBINBBHHC"
+    },
+    {
+      "id": 2670,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "HYDERABAD",
+      "branch": "(MID CORPORATE BRANCH )",
+      "swift_code": "PUNBINBBHMC"
+    },
+    {
+      "id": 3154,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(BALANAGAR)",
+      "swift_code": "SBININBB304"
+    },
+    {
+      "id": 3155,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBH74"
+    },
+    {
+      "id": 3156,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM24"
+    },
+    {
+      "id": 3157,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(CAG BRANCH)",
+      "swift_code": "SBININBB659"
+    },
+    {
+      "id": 3158,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBH62"
+    },
+    {
+      "id": 3159,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP38"
+    },
+    {
+      "id": 3160,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(CHANDRAYANAGUTTA)",
+      "swift_code": "SBININBB306"
+    },
+    {
+      "id": 3161,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBH37"
+    },
+    {
+      "id": 3162,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBH57"
+    },
+    {
+      "id": 3163,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(COMMERCIAL BRANCH, HYDERABAD)",
+      "swift_code": "SBININBB213"
+    },
+    {
+      "id": 3164,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(ECIL BRANCH , HYDERABAD)",
+      "swift_code": "SBININBB310"
+    },
+    {
+      "id": 3165,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HAL CAMPUS HYDERABAD)",
+      "swift_code": "SBININBB312"
+    },
+    {
+      "id": 3166,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HITECH CITY, HYDERABAD)",
+      "swift_code": "SBININBB214"
+    },
+    {
+      "id": 3167,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HNI BRANCH, BANJARA HILLS)",
+      "swift_code": "SBININBB722"
+    },
+    {
+      "id": 3168,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH03"
+    },
+    {
+      "id": 3169,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH04"
+    },
+    {
+      "id": 3170,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH05"
+    },
+    {
+      "id": 3171,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH06"
+    },
+    {
+      "id": 3172,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH08"
+    },
+    {
+      "id": 3173,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH09"
+    },
+    {
+      "id": 3174,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH35"
+    },
+    {
+      "id": 3175,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH56"
+    },
+    {
+      "id": 3176,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH60"
+    },
+    {
+      "id": 3177,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBM42"
+    },
+    {
+      "id": 3178,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD)",
+      "swift_code": "SBININBB562"
+    },
+    {
+      "id": 3179,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(IIT HYDERABAD (KANDI) BRANCH)",
+      "swift_code": "SBININBB762"
+    },
+    {
+      "id": 3180,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SBININBB144"
+    },
+    {
+      "id": 3181,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "SBININBB122"
+    },
+    {
+      "id": 3182,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBT71"
+    },
+    {
+      "id": 3183,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBH19"
+    },
+    {
+      "id": 3184,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBH52"
+    },
+    {
+      "id": 3185,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(NRI BRANCH, HYDERABAD)",
+      "swift_code": "SBININBB315"
+    },
+    {
+      "id": 3186,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(NRI BRANCH, JUBILEE HILLS)",
+      "swift_code": "SBININBB725"
+    },
+    {
+      "id": 3187,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(OLD MLA QUARTERS, HYDERABAD)",
+      "swift_code": "SBININBB316"
+    },
+    {
+      "id": 3188,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB134"
+    },
+    {
+      "id": 3189,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(SIB BRANCH, SAIFABAD)",
+      "swift_code": "SBININBB222"
+    },
+    {
+      "id": 3190,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(YELLAREDDYGUDA)",
+      "swift_code": "SBININBB327"
+    },
+    {
+      "id": 3763,
+      "bank": "SYNDICATE BANK",
+      "city": "HYDERABAD",
+      "branch": "(CORPORATE FINANCE BRANCH)",
+      "swift_code": "SYNBINBB178"
+    },
+    {
+      "id": 3764,
+      "bank": "SYNDICATE BANK",
+      "city": "HYDERABAD",
+      "branch": "(FXPC BRANCH)",
+      "swift_code": "SYNBINBB122"
+    },
+    {
+      "id": 3765,
+      "bank": "SYNDICATE BANK",
+      "city": "HYDERABAD",
+      "branch": "(N.S. ROAD BRANCH)",
+      "swift_code": "SYNBINBB006"
+    },
+    {
+      "id": 3910,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD CORPORATE)",
+      "swift_code": "SOININ55722"
+    },
+    {
+      "id": 3911,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "HYDERABAD",
+      "branch": "",
+      "swift_code": "SOININ55128"
+    },
+    {
+      "id": 3978,
+      "bank": "UCO BANK",
+      "city": "HYDERABAD",
+      "branch": "(FCC HYDERABAD)",
+      "swift_code": "UCBAINBBFHY"
+    },
+    {
+      "id": 3979,
+      "bank": "UCO BANK",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD KOTHI BRANCH)",
+      "swift_code": "UCBAINBB322"
+    },
+    {
+      "id": 3980,
+      "bank": "UCO BANK",
+      "city": "HYDERABAD",
+      "branch": "(MCU BANJARA HILLS)",
+      "swift_code": "UCBAINBBMBH"
+    },
+    {
+      "id": 3981,
+      "bank": "UCO BANK",
+      "city": "HYDERABAD",
+      "branch": "",
+      "swift_code": "UCBAINBB336"
+    },
+    {
+      "id": 4132,
+      "bank": "UNION BANK OF INDIA TREASURY BRANCH",
+      "city": "HYDERABAD",
+      "branch": "(IFB HYDERABAD BRANCH)",
+      "swift_code": "UBININBBKHR"
+    },
+    {
+      "id": 4147,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD)",
+      "swift_code": "UTBIINBBHYD"
+    },
+    {
+      "id": 4179,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "HYDERABAD",
+      "branch": "(HYDERABAD BRANCH)",
+      "swift_code": "UWBAINB1HYD"
+    },
+    {
+      "id": 4213,
+      "bank": "VIJAYA BANK",
+      "city": "HYDERABAD",
+      "branch": "(BANK STREET, HYDERABAD)",
+      "swift_code": "VIJBINBBHYD"
+    },
+    {
+      "id": 4272,
+      "bank": "ZEN SECURITIES LIMITED",
+      "city": "HYDERABAD",
+      "branch": "",
+      "swift_code": "ZESCINB1"
+    }
+  ],
+  "meta": {
+    "title": "Hyderabad में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Hyderabad, India. Subset of hi-bank. Source city string preserved verbatim as \"HYDERABAD\". शामिल हैं 113 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Hyderabad में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Hyderabad में बैंक — SWIFT/BIC कोड — 113 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 113 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

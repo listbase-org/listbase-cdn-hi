@@ -1,0 +1,205 @@
+{
+  "id": "hi-amritsar-bank",
+  "name": "Amritsar में बैंक — SWIFT/BIC कोड",
+  "title": "Amritsar में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Amritsar, India. Subset of hi-bank. Source city string preserved verbatim as \"AMRITSAR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 161,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AMRITSAR",
+      "branch": "(AMRITSAR BRANCH)",
+      "swift_code": "AXISINBB179"
+    },
+    {
+      "id": 657,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "AMRITSAR",
+      "branch": "",
+      "swift_code": "UTIBINB1179"
+    },
+    {
+      "id": 750,
+      "bank": "BANK OF BARODA",
+      "city": "AMRITSAR",
+      "branch": "(TOWN HALL BRANCH)",
+      "swift_code": "BARBINBBAMR"
+    },
+    {
+      "id": 914,
+      "bank": "BANK OF INDIA",
+      "city": "AMRITSAR",
+      "branch": "(AMRISTAR BRANCH)",
+      "swift_code": "BKIDINBBASR"
+    },
+    {
+      "id": 915,
+      "bank": "BANK OF INDIA",
+      "city": "AMRITSAR",
+      "branch": "(RANJIT AVENUE AMRITSAR)",
+      "swift_code": "BKIDINBBRAA"
+    },
+    {
+      "id": 1123,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "AMRITSAR",
+      "branch": "(AMRITSAR)",
+      "swift_code": "MAHBINBBASR"
+    },
+    {
+      "id": 1213,
+      "bank": "CANARA BANK",
+      "city": "AMRITSAR",
+      "branch": "(AMRITSAR D S MARKET MAIN BRANCH)",
+      "swift_code": "CNRBINBBDSA"
+    },
+    {
+      "id": 1214,
+      "bank": "CANARA BANK",
+      "city": "AMRITSAR",
+      "branch": "(AMRITSAR GOPLNAGAR)",
+      "swift_code": "CNRBINBBGNA"
+    },
+    {
+      "id": 1400,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "AMRITSAR",
+      "branch": "(CIVIL LINES AMRITSAR)",
+      "swift_code": "CBININBBAMR"
+    },
+    {
+      "id": 2098,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "AMRITSAR",
+      "branch": "",
+      "swift_code": "IOBAINBBF45"
+    },
+    {
+      "id": 2277,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "AMRITSAR",
+      "branch": "(THE JAMMU AND KASHMIR BANK MAJITH MANDI AMRITSAR)",
+      "swift_code": "JAKAINBBMMA"
+    },
+    {
+      "id": 2462,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "AMRITSAR",
+      "branch": "(0977)",
+      "swift_code": "ORBCINBBCLA"
+    },
+    {
+      "id": 2463,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "AMRITSAR",
+      "branch": "",
+      "swift_code": "ORBCINBBASR"
+    },
+    {
+      "id": 2569,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "AMRITSAR",
+      "branch": "(IBD AMRITSAR)",
+      "swift_code": "PSIBINBB017"
+    },
+    {
+      "id": 2608,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "AMRITSAR",
+      "branch": "(INTERNATIONAL BANKING BRANCH)",
+      "swift_code": "PUNBINBBAHB"
+    },
+    {
+      "id": 2903,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AMRITSAR",
+      "branch": "(AMRITSAR)",
+      "swift_code": "SBININBB274"
+    },
+    {
+      "id": 2904,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AMRITSAR",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP36"
+    },
+    {
+      "id": 2905,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AMRITSAR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBP55"
+    },
+    {
+      "id": 2906,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AMRITSAR",
+      "branch": "(SCB,AMRITSAR)",
+      "swift_code": "SBININBB435"
+    },
+    {
+      "id": 3956,
+      "bank": "UCO BANK",
+      "city": "AMRITSAR",
+      "branch": "(CIVIL LINES AMRITSAR)",
+      "swift_code": "UCBAINBBCLA"
+    },
+    {
+      "id": 4036,
+      "bank": "UNION BANK OF INDIA",
+      "city": "AMRITSAR",
+      "branch": "(MAJITH MANDI AMRITSAR BRANCH)",
+      "swift_code": "UBININBBMAM"
+    },
+    {
+      "id": 4037,
+      "bank": "UNION BANK OF INDIA",
+      "city": "AMRITSAR",
+      "branch": "(RANJITH AVENUE AMRITSAR)",
+      "swift_code": "UBININBBRAA"
+    }
+  ],
+  "meta": {
+    "title": "Amritsar में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Amritsar, India. Subset of hi-bank. Source city string preserved verbatim as \"AMRITSAR\". शामिल हैं 22 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Amritsar में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Amritsar में बैंक — SWIFT/BIC कोड — 22 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 22 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

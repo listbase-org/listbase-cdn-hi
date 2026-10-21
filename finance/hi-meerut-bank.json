@@ -1,0 +1,142 @@
+{
+  "id": "hi-meerut-bank",
+  "name": "Meerut में बैंक — SWIFT/BIC कोड",
+  "title": "Meerut में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Meerut, India. Subset of hi-bank. Source city string preserved verbatim as \"MEERUT\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 40,
+      "bank": "ALLAHABAD BANK",
+      "city": "MEERUT",
+      "branch": "(MEERUT CANTT)",
+      "swift_code": "ALLAINBBMEE"
+    },
+    {
+      "id": 437,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MEERUT",
+      "branch": "(MEERUT)",
+      "swift_code": "AXISINBB177"
+    },
+    {
+      "id": 818,
+      "bank": "BANK OF BARODA",
+      "city": "MEERUT",
+      "branch": "(MEERUT (MAIN) BR.)",
+      "swift_code": "BARBINBBMRT"
+    },
+    {
+      "id": 1006,
+      "bank": "BANK OF INDIA",
+      "city": "MEERUT",
+      "branch": "(MEERUT)",
+      "swift_code": "BKIDINBBMRT"
+    },
+    {
+      "id": 1297,
+      "bank": "CANARA BANK",
+      "city": "MEERUT",
+      "branch": "(MEERUT ABU LANE MAIN)",
+      "swift_code": "CNRBINBBMAL"
+    },
+    {
+      "id": 1298,
+      "bank": "CANARA BANK",
+      "city": "MEERUT",
+      "branch": "(SME BRANCH MEERUT)",
+      "swift_code": "CNRBINBBMSB"
+    },
+    {
+      "id": 2506,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MEERUT",
+      "branch": "(B/O TRANSPORT NAGAR)",
+      "swift_code": "ORBCINBBMET"
+    },
+    {
+      "id": 2727,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MEERUT",
+      "branch": "(MEERUT E KUTCHERY ROAD)",
+      "swift_code": "PUNBINBBMEK"
+    },
+    {
+      "id": 2728,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MEERUT",
+      "branch": "(SPORTS COMPLEX BRANCH)",
+      "swift_code": "PUNBINBBMSC"
+    },
+    {
+      "id": 3361,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MEERUT",
+      "branch": "(COMMERCIAL BRANCH, MEERUT)",
+      "swift_code": "SBININBB377"
+    },
+    {
+      "id": 3362,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MEERUT",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ03"
+    },
+    {
+      "id": 3792,
+      "bank": "SYNDICATE BANK",
+      "city": "MEERUT",
+      "branch": "(S M E BRANCH)",
+      "swift_code": "SYNBINBB185"
+    },
+    {
+      "id": 4081,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MEERUT",
+      "branch": "",
+      "swift_code": "UBININBBMRT"
+    }
+  ],
+  "meta": {
+    "title": "Meerut में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Meerut, India. Subset of hi-bank. Source city string preserved verbatim as \"MEERUT\". शामिल हैं 13 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Meerut में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Meerut में बैंक — SWIFT/BIC कोड — 13 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 13 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

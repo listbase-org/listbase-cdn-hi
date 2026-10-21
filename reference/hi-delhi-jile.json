@@ -1,0 +1,208 @@
+{
+  "id": "hi-delhi-jile",
+  "name": "National Capital Territory of Delhi के जिले (National Capital Territory of Delhi Districts)",
+  "title": "National Capital Territory of Delhi के जिले (National Capital Territory of Delhi Districts)",
+  "description": "11 districts in National Capital Territory of Delhi (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"National Capital Territory of Delhi\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "CD",
+      "district": "Central Delhi",
+      "district_slug": "central-delhi",
+      "headquarters": "Daryaganj",
+      "population": 582320,
+      "area_km2": 25,
+      "density_per_km2": 27730
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "ED",
+      "district": "East Delhi",
+      "district_slug": "east-delhi",
+      "headquarters": "Preet Vihar",
+      "population": 1709346,
+      "area_km2": 440,
+      "density_per_km2": 27132
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "ND",
+      "district": "New Delhi",
+      "district_slug": "new-delhi",
+      "headquarters": "Connaught Place",
+      "population": 142004,
+      "area_km2": 22,
+      "density_per_km2": 4057
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "NO",
+      "district": "North Delhi",
+      "district_slug": "north-delhi",
+      "headquarters": "Sadar Bazaar",
+      "population": 887978,
+      "area_km2": 59,
+      "density_per_km2": 14557
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "NE",
+      "district": "North East Delhi",
+      "district_slug": "north-east-delhi",
+      "headquarters": "Seelampur",
+      "population": 2241624,
+      "area_km2": 52,
+      "density_per_km2": 36155
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "NW",
+      "district": "North West Delhi",
+      "district_slug": "north-west-delhi",
+      "headquarters": "Kanjhawala",
+      "population": 3656539,
+      "area_km2": 130,
+      "density_per_km2": 8254
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "–",
+      "district": "Shahdara district",
+      "district_slug": "shahdara-district",
+      "headquarters": "Nand Nagri",
+      "population": 0,
+      "area_km2": 59,
+      "density_per_km2": 0
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "SD",
+      "district": "South Delhi",
+      "district_slug": "south-delhi",
+      "headquarters": "Saket",
+      "population": 2731929,
+      "area_km2": 250,
+      "density_per_km2": 11060
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "SE",
+      "district": "South East Delhi",
+      "district_slug": "south-east-delhi",
+      "headquarters": "Defence Colony",
+      "population": 1500636,
+      "area_km2": 102,
+      "density_per_km2": 15000
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "SW",
+      "district": "South West Delhi",
+      "district_slug": "south-west-delhi",
+      "headquarters": "Vasant Vihar",
+      "population": 2292958,
+      "area_km2": 395,
+      "density_per_km2": 5446
+    },
+    {
+      "state": "National Capital Territory of Delhi",
+      "state_code": "DL",
+      "state_slug": "delhi",
+      "district_code": "WD",
+      "district": "West Delhi",
+      "district_slug": "west-delhi",
+      "headquarters": "Rajouri Garden",
+      "population": 2543243,
+      "area_km2": 112,
+      "density_per_km2": 19563
+    }
+  ],
+  "meta": {
+    "title": "National Capital Territory of Delhi के जिले (National Capital Territory of Delhi Districts) - मुफ़्त डाउनलोड",
+    "description": "11 districts in National Capital Territory of Delhi (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"National Capital Territory of Delhi\". शामिल हैं 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "National Capital Territory of Delhi के जिले (National Capital Territory of Delhi Districts) | ListBase",
+    "seo_description": "डाउनलोड National Capital Territory of Delhi के जिले (National Capital Territory of Delhi Districts) — 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 11 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

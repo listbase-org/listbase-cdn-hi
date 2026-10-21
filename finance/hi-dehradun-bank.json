@@ -1,0 +1,135 @@
+{
+  "id": "hi-dehradun-bank",
+  "name": "Dehradun में बैंक — SWIFT/BIC कोड",
+  "title": "Dehradun में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Dehradun, India. Subset of hi-bank. Source city string preserved verbatim as \"DEHRADUN\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 21,
+      "bank": "ALLAHABAD BANK",
+      "city": "DEHRADUN",
+      "branch": "(DEHRADUN)",
+      "swift_code": "ALLAINBBDUN"
+    },
+    {
+      "id": 261,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DEHRADUN",
+      "branch": "(DEHRADUN)",
+      "swift_code": "AXISINBB093"
+    },
+    {
+      "id": 262,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DEHRADUN",
+      "branch": "(SAHARANPUR)",
+      "swift_code": "AXISINBB420"
+    },
+    {
+      "id": 772,
+      "bank": "BANK OF BARODA",
+      "city": "DEHRADUN",
+      "branch": "(DEHRADUN BRANCH)",
+      "swift_code": "BARBINBBDEH"
+    },
+    {
+      "id": 945,
+      "bank": "BANK OF INDIA",
+      "city": "DEHRADUN",
+      "branch": "(DEHRADUN)",
+      "swift_code": "BKIDINBBDUN"
+    },
+    {
+      "id": 2641,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DEHRADUN",
+      "branch": "(ADHOIWALA DEHRADUN)",
+      "swift_code": "PUNBINBBDAW"
+    },
+    {
+      "id": 2642,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DEHRADUN",
+      "branch": "",
+      "swift_code": "PUNBINBBDPR"
+    },
+    {
+      "id": 3062,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DEHRADUN",
+      "branch": "(MAIN BRANCH. DEHRADUN)",
+      "swift_code": "SBININBB380"
+    },
+    {
+      "id": 3063,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DEHRADUN",
+      "branch": "(NRI BRANCH,DEHRADUN)",
+      "swift_code": "SBININBB747"
+    },
+    {
+      "id": 3064,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DEHRADUN",
+      "branch": "(TELBHAVAN BRANCH)",
+      "swift_code": "SBININBB155"
+    },
+    {
+      "id": 3751,
+      "bank": "SYNDICATE BANK",
+      "city": "DEHRADUN",
+      "branch": "(SCHOLARS HOME BRANCH)",
+      "swift_code": "SYNBINBB867"
+    },
+    {
+      "id": 4054,
+      "bank": "UNION BANK OF INDIA",
+      "city": "DEHRADUN",
+      "branch": "(DEHRADUN BRANCH)",
+      "swift_code": "UBININBBDER"
+    }
+  ],
+  "meta": {
+    "title": "Dehradun में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Dehradun, India. Subset of hi-bank. Source city string preserved verbatim as \"DEHRADUN\". शामिल हैं 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Dehradun में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Dehradun में बैंक — SWIFT/BIC कोड — 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 12 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

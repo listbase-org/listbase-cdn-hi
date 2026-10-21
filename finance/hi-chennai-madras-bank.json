@@ -1,0 +1,1682 @@
+{
+  "id": "hi-chennai-madras-bank",
+  "name": "Chennai (Madras) में बैंक — SWIFT/BIC कोड",
+  "title": "Chennai (Madras) में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Chennai (Madras), India. Subset of hi-bank. Source city string preserved verbatim as \"CHENNAI (MADRAS)\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 233,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 19,
+      "bank": "ALLAHABAD BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ADYAR BRANCH)",
+      "swift_code": "ALLAINBBADR"
+    },
+    {
+      "id": 20,
+      "bank": "ALLAHABAD BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INTERNATIONAL BRANCH, CHENNAI)",
+      "swift_code": "ALLAINBBMAS"
+    },
+    {
+      "id": 80,
+      "bank": "ANDHRA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI MAIN BRANCH LINGICHETTY STREET)",
+      "swift_code": "ANDBINBBMAD"
+    },
+    {
+      "id": 81,
+      "bank": "ANDHRA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOUNT ROAD BRANCH)",
+      "swift_code": "ANDBINBBMOU"
+    },
+    {
+      "id": 82,
+      "bank": "ANDHRA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOWBRAYS ROAD BRANCH)",
+      "swift_code": "ANDBINBBTTK"
+    },
+    {
+      "id": 131,
+      "bank": "ANUSH SHARES AND SECURITIES PRIVATE LTD",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "SHSPIN51"
+    },
+    {
+      "id": 222,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ADYAR)",
+      "swift_code": "AXISINBB082"
+    },
+    {
+      "id": 223,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ANNA NAGAR)",
+      "swift_code": "AXISINBB016"
+    },
+    {
+      "id": 224,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ANNASALAI)",
+      "swift_code": "AXISINBB168"
+    },
+    {
+      "id": 225,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ASHOK NAGAR, CHENNAI TN)",
+      "swift_code": "AXISINBB285"
+    },
+    {
+      "id": 226,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(BYPASS ROAD, VELACHERY-1504)",
+      "swift_code": "AXISINBBA37"
+    },
+    {
+      "id": 227,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BRANCH )",
+      "swift_code": "AXISINBB006"
+    },
+    {
+      "id": 228,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CORPORATE BANKING - CHENNAI)",
+      "swift_code": "AXISINBBA01"
+    },
+    {
+      "id": 229,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(GEORGE TOWN)",
+      "swift_code": "AXISINBB424"
+    },
+    {
+      "id": 230,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(IRUNGATTUKOTTAI -843)",
+      "swift_code": "AXISINBBA30"
+    },
+    {
+      "id": 231,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(KILPAUK, CHENNAI)",
+      "swift_code": "AXISINBB620"
+    },
+    {
+      "id": 232,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(KODAMBAKKAM, CHENNAI(TN))",
+      "swift_code": "AXISINBB866"
+    },
+    {
+      "id": 233,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(KOYAMBEDU, CHENNAI (TN))",
+      "swift_code": "AXISINBBA65"
+    },
+    {
+      "id": 234,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MADIPAKKAM)",
+      "swift_code": "AXISINBB083"
+    },
+    {
+      "id": 235,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOGAPPAIR, CHENNAI TN)",
+      "swift_code": "AXISINBB345"
+    },
+    {
+      "id": 236,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NUNGAMBAKKAM, CHENNAI (TN))",
+      "swift_code": "AXISINBB780"
+    },
+    {
+      "id": 237,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(OLD WASHERMANPET, CHENNAI (TN))",
+      "swift_code": "AXISINBB622"
+    },
+    {
+      "id": 238,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PURASALWAKAM)",
+      "swift_code": "AXISINBB189"
+    },
+    {
+      "id": 239,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(R A PURAM, CHENNAI)",
+      "swift_code": "AXISINBB676"
+    },
+    {
+      "id": 240,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(RAMAPURAM, CHENNAI (TN)-074)",
+      "swift_code": "AXISINBB074"
+    },
+    {
+      "id": 241,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SAIDAPET, CHENNAI (TN))",
+      "swift_code": "AXISINBB781"
+    },
+    {
+      "id": 242,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(T NAGAR)",
+      "swift_code": "AXISINBB014"
+    },
+    {
+      "id": 243,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(TAMBARAM)",
+      "swift_code": "AXISINBB428"
+    },
+    {
+      "id": 244,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(THIRUVALUR (TN) : 621)",
+      "swift_code": "AXISINBB621"
+    },
+    {
+      "id": 245,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(THIRUVANMIYUR, CHENNAI TN)",
+      "swift_code": "AXISINBB423"
+    },
+    {
+      "id": 246,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(THORAIPAKKAM)",
+      "swift_code": "AXISINBBA75"
+    },
+    {
+      "id": 247,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(VELACHERY)",
+      "swift_code": "AXISINBB234"
+    },
+    {
+      "id": 248,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(VEPERY, CHN)",
+      "swift_code": "AXISINBBA76"
+    },
+    {
+      "id": 249,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(VIRUGAMBAKKAM)",
+      "swift_code": "AXISINBB211"
+    },
+    {
+      "id": 663,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BRANCH)",
+      "swift_code": "UTIBINB1006"
+    },
+    {
+      "id": 736,
+      "bank": "BANK OF AMERICA, N.A. CHENNAI",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "BOFAIN4XMAA"
+    },
+    {
+      "id": 765,
+      "bank": "BANK OF BARODA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI MAIN BRANCH)",
+      "swift_code": "BARBINBBNBM"
+    },
+    {
+      "id": 766,
+      "bank": "BANK OF BARODA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "BARBINBBIFB"
+    },
+    {
+      "id": 767,
+      "bank": "BANK OF BARODA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INTERNATIONAL BUSINESS BR. CHENNAI)",
+      "swift_code": "BARBINBBOBM"
+    },
+    {
+      "id": 768,
+      "bank": "BANK OF BARODA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MID CORPORATE BRANCH, CHENNAI)",
+      "swift_code": "BARBINBBMDC"
+    },
+    {
+      "id": 769,
+      "bank": "BANK OF BARODA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOUNT ROAD BRANCH)",
+      "swift_code": "BARBINBBMRM"
+    },
+    {
+      "id": 899,
+      "bank": "BANK OF CEYLON",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BRANCH)",
+      "swift_code": "BCEYIN5M"
+    },
+    {
+      "id": 934,
+      "bank": "BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BULLION BANKING BRANCH)",
+      "swift_code": "BKIDINBBCBU"
+    },
+    {
+      "id": 935,
+      "bank": "BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI LARGE CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBCHB"
+    },
+    {
+      "id": 936,
+      "bank": "BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI MAIN)",
+      "swift_code": "BKIDINBBCNM"
+    },
+    {
+      "id": 937,
+      "bank": "BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI MID-CORPORATE BR)",
+      "swift_code": "BKIDINBBCNC"
+    },
+    {
+      "id": 938,
+      "bank": "BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOUNT ROAD)",
+      "swift_code": "BKIDINBBMTR"
+    },
+    {
+      "id": 939,
+      "bank": "BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "BKIDINBBMOS"
+    },
+    {
+      "id": 940,
+      "bank": "BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PURASAWALKAM)",
+      "swift_code": "BKIDINBBPKM"
+    },
+    {
+      "id": 941,
+      "bank": "BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SOWCARPET)",
+      "swift_code": "BKIDINBBSOW"
+    },
+    {
+      "id": 942,
+      "bank": "BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(THEAGAROYANAGAR)",
+      "swift_code": "BKIDINBBTGN"
+    },
+    {
+      "id": 1126,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(BROADWAY BRANCH, CHENNAI)",
+      "swift_code": "MAHBINBBBDW"
+    },
+    {
+      "id": 1127,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MONT ROAD, CHENNAI)",
+      "swift_code": "MAHBINBBMTR"
+    },
+    {
+      "id": 1168,
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BRANCH)",
+      "swift_code": "BOTKIN5M"
+    },
+    {
+      "id": 1190,
+      "bank": "BNP PARIBAS INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENEI BRANCH)",
+      "swift_code": "BNPAINBBCHE"
+    },
+    {
+      "id": 1232,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(A.N. STREET BRANCH)",
+      "swift_code": "CNRBINBBMDA"
+    },
+    {
+      "id": 1233,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ANNA NAGAR EAST)",
+      "swift_code": "CNRBINBBANC"
+    },
+    {
+      "id": 1234,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBMFD"
+    },
+    {
+      "id": 1235,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI GUINDY BRANCH)",
+      "swift_code": "CNRBINBBMDG"
+    },
+    {
+      "id": 1236,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI IIT BRANCH)",
+      "swift_code": "CNRBINBBIIT"
+    },
+    {
+      "id": 1237,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI PARK TOWN BRANCH)",
+      "swift_code": "CNRBINBBMDP"
+    },
+    {
+      "id": 1238,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI THAMBU CHETTY STREET)",
+      "swift_code": "CNRBINBBMTC"
+    },
+    {
+      "id": 1239,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI THOUSAND LIGHTS BRANCH)",
+      "swift_code": "CNRBINBBMDL"
+    },
+    {
+      "id": 1240,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI TIDAL PARK)",
+      "swift_code": "CNRBINBBMTP"
+    },
+    {
+      "id": 1241,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ID CORPORATE BRANCH CHENNAI)",
+      "swift_code": "CNRBINBBMOB"
+    },
+    {
+      "id": 1242,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INTERNATIONAL OPERATIONS BRANCH)",
+      "swift_code": "CNRBINBBIOC"
+    },
+    {
+      "id": 1243,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NATIONAL INSTITUTE OF OCEAN TECHNOLOGY)",
+      "swift_code": "CNRBINBBNIT"
+    },
+    {
+      "id": 1244,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PRIME CORPORATE)",
+      "swift_code": "CNRBINBBCBC"
+    },
+    {
+      "id": 1245,
+      "bank": "CANARA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(TC STREET BRANCH)",
+      "swift_code": "CNRBINBBMDT"
+    },
+    {
+      "id": 1407,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ADDISON BUIDLINGS, CHENNAI)",
+      "swift_code": "CBININBBADT"
+    },
+    {
+      "id": 1408,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHANNAI MAIN)",
+      "swift_code": "CBININBBCHE"
+    },
+    {
+      "id": 1409,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INTERNATIONAL BUSINESS BRANCH)",
+      "swift_code": "CBININBBMDR"
+    },
+    {
+      "id": 1410,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOUNT ROAD, CHENNAI)",
+      "swift_code": "CBININBBMOU"
+    },
+    {
+      "id": 1474,
+      "bank": "CITIBANK N.A.",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(GLOBAL CONSUMER BANKING - CARDS)",
+      "swift_code": "CITIINBXGCC"
+    },
+    {
+      "id": 1475,
+      "bank": "CITIBANK N.A.",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(GLOBAL CONSUMER BANKING - DOMESTIC)",
+      "swift_code": "CITIINBXGCD"
+    },
+    {
+      "id": 1476,
+      "bank": "CITIBANK N.A.",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INTERNATIONAL BUSINESS AND FINANCE)",
+      "swift_code": "CITIINBXIBM"
+    },
+    {
+      "id": 1486,
+      "bank": "CITY UNION BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "CIUBIN5M"
+    },
+    {
+      "id": 1502,
+      "bank": "CORPORATION BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(G.T. MADRAS)",
+      "swift_code": "CORPINBB005"
+    },
+    {
+      "id": 1503,
+      "bank": "CORPORATION BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(KELLYS CHENNAI)",
+      "swift_code": "CORPINBB123"
+    },
+    {
+      "id": 1504,
+      "bank": "CORPORATION BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(WHITES ROAD CHENNAI)",
+      "swift_code": "CORPINBB122"
+    },
+    {
+      "id": 1614,
+      "bank": "CREDIT AGRICOLE CIB",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BRANCH, INDIA)",
+      "swift_code": "CRLYINBBCHE"
+    },
+    {
+      "id": 1648,
+      "bank": "DENA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NUNGAMBAKKAM BRANCH)",
+      "swift_code": "BKDNINBBNUN"
+    },
+    {
+      "id": 1691,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "DEUTINBBCNN"
+    },
+    {
+      "id": 1703,
+      "bank": "DHANLAXMI BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(FOREX)",
+      "swift_code": "DLXBINBBMDS"
+    },
+    {
+      "id": 1747,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI ANNANAGAR)",
+      "swift_code": "FDRLINBBMDE"
+    },
+    {
+      "id": 1748,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BRANCH)",
+      "swift_code": "FDRLINBBMDA"
+    },
+    {
+      "id": 1749,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI GEORGE TOWN)",
+      "swift_code": "FDRLINBBMDB"
+    },
+    {
+      "id": 1750,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI T NAGAR)",
+      "swift_code": "FDRLINBBMDG"
+    },
+    {
+      "id": 1819,
+      "bank": "FIRST FUTURES AND STOCKS PVT LTD",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "FFSPIN51"
+    },
+    {
+      "id": 1837,
+      "bank": "HDFC BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI - R.K.SALAI - BRANCH)",
+      "swift_code": "HDFCINBBRKS"
+    },
+    {
+      "id": 1838,
+      "bank": "HDFC BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(TAMILNADU BRANCH)",
+      "swift_code": "HDFCINBBCHE"
+    },
+    {
+      "id": 1869,
+      "bank": "ICICI BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NUNGAMBAKKAM BRANCH)",
+      "swift_code": "ICICINBB009"
+    },
+    {
+      "id": 1870,
+      "bank": "ICICI BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(REGIONAL TRADE SERVICES UNIT-CHENNAI)",
+      "swift_code": "ICICINBBRT4"
+    },
+    {
+      "id": 1871,
+      "bank": "ICICI BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(VOSTRO CELL-CHENNAI)",
+      "swift_code": "ICICINBBVC2"
+    },
+    {
+      "id": 1912,
+      "bank": "IDBI BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BRANCH)",
+      "swift_code": "IBKLINBB005"
+    },
+    {
+      "id": 1913,
+      "bank": "IDBI BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI)",
+      "swift_code": "IBKLINBBCHN"
+    },
+    {
+      "id": 1914,
+      "bank": "IDBI BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MAIN CORPORATE BRANCH, CHENNAI)",
+      "swift_code": "IBKLINBB129"
+    },
+    {
+      "id": 1915,
+      "bank": "IDBI BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PARRYS CORNER, CHENNAI)",
+      "swift_code": "IBKLINBB907"
+    },
+    {
+      "id": 1991,
+      "bank": "IFCI FINANCIAL SERVICES LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "IFFEIN51"
+    },
+    {
+      "id": 2009,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ADYAR BRANCH)",
+      "swift_code": "IDIBINBBADR"
+    },
+    {
+      "id": 2010,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ANNA SALAI BRANCH)",
+      "swift_code": "IDIBINBBASA"
+    },
+    {
+      "id": 2011,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI EXPORT PROCESSING ZONE BRANCH)",
+      "swift_code": "IDIBINBBMEP"
+    },
+    {
+      "id": 2012,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI GEORGE TOWN BRANCH)",
+      "swift_code": "IDIBINBBMGT"
+    },
+    {
+      "id": 2013,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHROMEPET)",
+      "swift_code": "IDIBINBBCPT"
+    },
+    {
+      "id": 2014,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ETHIRAJ SALAI BRANCH)",
+      "swift_code": "IDIBINBBESI"
+    },
+    {
+      "id": 2015,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(GUINDY BRANCH)",
+      "swift_code": "IDIBINBBGDY"
+    },
+    {
+      "id": 2016,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(HARBOUR BRANCH)",
+      "swift_code": "IDIBINBBHAR"
+    },
+    {
+      "id": 2017,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(HEAD OFFICE, INTERNATIONAL DIVISION)",
+      "swift_code": "IDIBINBBINT"
+    },
+    {
+      "id": 2018,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MYLAPORE BRANCH)",
+      "swift_code": "IDIBINBBMYL"
+    },
+    {
+      "id": 2019,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NANDANAM BRANCH)",
+      "swift_code": "IDIBINBBNDM"
+    },
+    {
+      "id": 2020,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NESAPAKKAM BRANCH)",
+      "swift_code": "IDIBINBBSIV"
+    },
+    {
+      "id": 2021,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(OVERSEAS BRANCH - CHENNAI (MADRAS))",
+      "swift_code": "IDIBINBBMAS"
+    },
+    {
+      "id": 2022,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PADI)",
+      "swift_code": "IDIBINBBPAD"
+    },
+    {
+      "id": 2023,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PARK TOWN BRANCH)",
+      "swift_code": "IDIBINBBPRK"
+    },
+    {
+      "id": 2024,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PORUR BRANCH)",
+      "swift_code": "IDIBINBBPOR"
+    },
+    {
+      "id": 2025,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PURASAWALKAM BRANCH)",
+      "swift_code": "IDIBINBBPUR"
+    },
+    {
+      "id": 2026,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(T.NAGAR BRANCH)",
+      "swift_code": "IDIBINBBTGR"
+    },
+    {
+      "id": 2027,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(THOUSAND LIGHTS BRANCH)",
+      "swift_code": "IDIBINBBTLT"
+    },
+    {
+      "id": 2028,
+      "bank": "INDIAN BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(TREASURY BRANCH)",
+      "swift_code": "IDIBINBBTSY"
+    },
+    {
+      "id": 2107,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ALLAHABAD)",
+      "swift_code": "IOBAINBB350"
+    },
+    {
+      "id": 2108,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(AUTHORISED  DEALER)",
+      "swift_code": "IOBAINBBT24"
+    },
+    {
+      "id": 2109,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(AUTHORISED DEALER)",
+      "swift_code": "IOBAINBBK51"
+    },
+    {
+      "id": 2110,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(AUTHORISED DEALER)",
+      "swift_code": "IOBAINBBR39"
+    },
+    {
+      "id": 2111,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CATHEDRAL BRANCH)",
+      "swift_code": "IOBAINBB109"
+    },
+    {
+      "id": 2112,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CFEPC, CHENNAI)",
+      "swift_code": "IOBAINBBCFC"
+    },
+    {
+      "id": 2113,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(COMMERCIAL AND INSTITUTIONAL CREDIT BRANCH)",
+      "swift_code": "IOBAINBBA46"
+    },
+    {
+      "id": 2114,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ESPLANADE BRANCH)",
+      "swift_code": "IOBAINBB048"
+    },
+    {
+      "id": 2115,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(HADDOWS ROAD)",
+      "swift_code": "IOBAINBBK95"
+    },
+    {
+      "id": 2116,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INDRA NAGAR)",
+      "swift_code": "IOBAINBB876"
+    },
+    {
+      "id": 2117,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MARAIMALAI NAGAR)",
+      "swift_code": "IOBAINBB761"
+    },
+    {
+      "id": 2118,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOUNT ROAD BRANCH)",
+      "swift_code": "IOBAINBB058"
+    },
+    {
+      "id": 2119,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MUTHIALPET)",
+      "swift_code": "IOBAINBB305"
+    },
+    {
+      "id": 2120,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NEHRUPARK BRANCH)",
+      "swift_code": "IOBAINBB306"
+    },
+    {
+      "id": 2121,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NUNGAMBAKKAM, CHENNAI)",
+      "swift_code": "IOBAINBB183"
+    },
+    {
+      "id": 2122,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PURASWALKAM)",
+      "swift_code": "IOBAINBB075"
+    },
+    {
+      "id": 2123,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(RANIPET INDUSTRIAL COMPLEX)",
+      "swift_code": "IOBAINBB438"
+    },
+    {
+      "id": 2124,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SOWCARPET BRANCH)",
+      "swift_code": "IOBAINBB086"
+    },
+    {
+      "id": 2125,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SPECIALIZED NRI BRANCH)",
+      "swift_code": "IOBAINBBM67"
+    },
+    {
+      "id": 2126,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SSI GUINDY BRANCH)",
+      "swift_code": "IOBAINBBE47"
+    },
+    {
+      "id": 2127,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(TREASURY, CHENNAI)",
+      "swift_code": "IOBAINBBTSY"
+    },
+    {
+      "id": 2128,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "IOBAINBB"
+    },
+    {
+      "id": 2129,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "IOBAINBB001"
+    },
+    {
+      "id": 2228,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI, NUNGAMBAKKAM)",
+      "swift_code": "INDBINBBMAN"
+    },
+    {
+      "id": 2281,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BRANCH)",
+      "swift_code": "JAKAINBBCHN"
+    },
+    {
+      "id": 2282,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PARRY'S BRANCH)",
+      "swift_code": "JAKAINBBPRY"
+    },
+    {
+      "id": 2283,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(T NAGAR CHENNAI)",
+      "swift_code": "JAKAINBBTNC"
+    },
+    {
+      "id": 2349,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(G.T.MADRAS BRANCH)",
+      "swift_code": "KARBINBBMDS"
+    },
+    {
+      "id": 2372,
+      "bank": "KARUR VYSYA BANK LTD., THE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CENTRALISED FOREX PROCESSING CENTRE)",
+      "swift_code": "KVBLINBBFPC"
+    },
+    {
+      "id": 2373,
+      "bank": "KARUR VYSYA BANK LTD., THE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INTERNATIONAL DIVISION)",
+      "swift_code": "KVBLINBBIND"
+    },
+    {
+      "id": 2380,
+      "bank": "KEB HANA BANK CHENNAI BRANCH",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "KOEXIN55"
+    },
+    {
+      "id": 2402,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CATHEDRAL ROAD)",
+      "swift_code": "LAVBINBB434"
+    },
+    {
+      "id": 2403,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI MAIN)",
+      "swift_code": "LAVBINBB426"
+    },
+    {
+      "id": 2422,
+      "bank": "MADRAS STOCK EXCHANGE LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "XMDSIN51"
+    },
+    {
+      "id": 2435,
+      "bank": "MOBIS INDIA LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "HYMOIN51"
+    },
+    {
+      "id": 2437,
+      "bank": "MONTRAVIA INVESTMENTS PRIVATE LTD",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "MOIPIN51"
+    },
+    {
+      "id": 2473,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(1043)",
+      "swift_code": "ORBCINBBMYL"
+    },
+    {
+      "id": 2474,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(BRANCH OFFICE SPENCER PLAZA, CHENNAI)",
+      "swift_code": "ORBCINBBSPC"
+    },
+    {
+      "id": 2475,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "ORBCINBBMAS"
+    },
+    {
+      "id": 2552,
+      "bank": "PATERSON AND CO PVT LTD.",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "PAPVIN51"
+    },
+    {
+      "id": 2556,
+      "bank": "PKR ENTERPRISES",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "PKREIN51"
+    },
+    {
+      "id": 2572,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(IBD CHENNAI)",
+      "swift_code": "PSIBINBB008"
+    },
+    {
+      "id": 2628,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(35, MINT ROAD)",
+      "swift_code": "PUNBINBBCMS"
+    },
+    {
+      "id": 2629,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(FOREIGN EXCHANGE OFFICE)",
+      "swift_code": "PUNBINBBMFE"
+    },
+    {
+      "id": 2630,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(IRUNGATTUKOTTAI)",
+      "swift_code": "PUNBINBBCOC"
+    },
+    {
+      "id": 2631,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(LC ST CHENNAI)",
+      "swift_code": "PUNBINBBCLC"
+    },
+    {
+      "id": 2632,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(LCB CHENNAI)",
+      "swift_code": "PUNBINBBMFR"
+    },
+    {
+      "id": 2633,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MYLAPORE BRANCH)",
+      "swift_code": "PUNBINBBMMY"
+    },
+    {
+      "id": 2634,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NUNGAMBAKKAM CHENNAI)",
+      "swift_code": "PUNBINBBCNG"
+    },
+    {
+      "id": 2635,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PERIAMET CHENNAI)",
+      "swift_code": "PUNBINBBCPT"
+    },
+    {
+      "id": 2636,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PURUSWALKAM CHENNAI)",
+      "swift_code": "PUNBINBBCPR"
+    },
+    {
+      "id": 2637,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SOWCARPET CHENNAI)",
+      "swift_code": "PUNBINBBCSC"
+    },
+    {
+      "id": 2638,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(T. NAGAR BRANCH)",
+      "swift_code": "PUNBINBBTNC"
+    },
+    {
+      "id": 2860,
+      "bank": "SPARK CAPITAL ADVISORS (INDIA) PRIVATE LTD",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "SCDIIN51"
+    },
+    {
+      "id": 2862,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "SCBLINBBMDS"
+    },
+    {
+      "id": 3014,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ANNA ROAD,CHENNAI)",
+      "swift_code": "SBININBB448"
+    },
+    {
+      "id": 3015,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP13"
+    },
+    {
+      "id": 3016,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBH17"
+    },
+    {
+      "id": 3017,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBJ17"
+    },
+    {
+      "id": 3018,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB126"
+    },
+    {
+      "id": 3019,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CORPORATE ACCOUNTS GROUP BRANCH - CHENNAI (MADRAS))",
+      "swift_code": "SBININBB174"
+    },
+    {
+      "id": 3020,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(EGMORE, CHENNAI)",
+      "swift_code": "SBININBB297"
+    },
+    {
+      "id": 3021,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH25"
+    },
+    {
+      "id": 3022,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH34"
+    },
+    {
+      "id": 3023,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBM16"
+    },
+    {
+      "id": 3024,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(IIT MADRAS,CHENNAI)",
+      "swift_code": "SBININBB453"
+    },
+    {
+      "id": 3025,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SBININBB127"
+    },
+    {
+      "id": 3026,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBM17"
+    },
+    {
+      "id": 3027,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(LEATHER INTERNATIONAL BRANCH)",
+      "swift_code": "SBININBB148"
+    },
+    {
+      "id": 3028,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MEENAMBAKKAM AIRPORT BRANCH)",
+      "swift_code": "SBININBB298"
+    },
+    {
+      "id": 3029,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBM41"
+    },
+    {
+      "id": 3030,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBT01"
+    },
+    {
+      "id": 3031,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MYLAPORE,CHENNAI)",
+      "swift_code": "SBININBB455"
+    },
+    {
+      "id": 3032,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBT50"
+    },
+    {
+      "id": 3033,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBT63"
+    },
+    {
+      "id": 3034,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NRI ADYAR BRANCH)",
+      "swift_code": "SBININBB687"
+    },
+    {
+      "id": 3035,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NRI BRANCH CHENNAI)",
+      "swift_code": "SBININBB130"
+    },
+    {
+      "id": 3036,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NRI BRANCH, ANNA NAGAR)",
+      "swift_code": "SBININBB724"
+    },
+    {
+      "id": 3037,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NRI VELACHERY BRANCH)",
+      "swift_code": "SBININBB821"
+    },
+    {
+      "id": 3038,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(NUNGAMBAKKAM BR. CHENNAI)",
+      "swift_code": "SBININBB299"
+    },
+    {
+      "id": 3039,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB105"
+    },
+    {
+      "id": 3040,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(PURASAWALKAM,CHENNAI)",
+      "swift_code": "SBININBB458"
+    },
+    {
+      "id": 3041,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(RAJAJI SALAI BRANCH)",
+      "swift_code": "SBININBB664"
+    },
+    {
+      "id": 3042,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SIRUTHOZHIL BRANCH, CHENNAI)",
+      "swift_code": "SBININBB301"
+    },
+    {
+      "id": 3043,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SME AMBATTUR, CHENNAI)",
+      "swift_code": "SBININBB292"
+    },
+    {
+      "id": 3044,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SME CHENNAI BRANCH)",
+      "swift_code": "SBININBB293"
+    },
+    {
+      "id": 3045,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SME, ADYAR, CHENNAI)",
+      "swift_code": "SBININBB291"
+    },
+    {
+      "id": 3046,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(T. NAGAR,CHENNAI)",
+      "swift_code": "SBININBB462"
+    },
+    {
+      "id": 3047,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(TFCPC, CHENNAI)",
+      "swift_code": "SBININBB605"
+    },
+    {
+      "id": 3048,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(TIDEL PARK,CHENNAI)",
+      "swift_code": "SBININBB475"
+    },
+    {
+      "id": 3746,
+      "bank": "SYNDICATE BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(ARMENIAN STREET BRANCH)",
+      "swift_code": "SYNBINBB007"
+    },
+    {
+      "id": 3747,
+      "bank": "SYNDICATE BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CORPORATE FINANCE BRANCH)",
+      "swift_code": "SYNBINBB177"
+    },
+    {
+      "id": 3748,
+      "bank": "SYNDICATE BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOUNT ROAD BRANCH)",
+      "swift_code": "SYNBINBB031"
+    },
+    {
+      "id": 3749,
+      "bank": "SYNDICATE BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SYNBINBB151"
+    },
+    {
+      "id": 3850,
+      "bank": "TAMILNAD MERCANTILE BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(INTERNATIONAL BANKING DIVISION)",
+      "swift_code": "TMBLINBBCHE"
+    },
+    {
+      "id": 3851,
+      "bank": "TAMILNAD MERCANTILE BANK LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "TMBLINBB"
+    },
+    {
+      "id": 3862,
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "HSBCINBBMDR"
+    },
+    {
+      "id": 3868,
+      "bank": "THE ROYAL BANK OF SCOTLAND PLC, INDIA BRANCH (FORMERLY KNOWN AS RBS NV)",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CENTRALISED TRADE FINANCE INDIA)",
+      "swift_code": "ABNAINBBCTF"
+    },
+    {
+      "id": 3898,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI GEORGE TOWN)",
+      "swift_code": "SOININ55CGT"
+    },
+    {
+      "id": 3899,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI INDUSTRIAL FINANCE)",
+      "swift_code": "SOININ55042"
+    },
+    {
+      "id": 3966,
+      "bank": "UCO BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI MAIN BRANCH)",
+      "swift_code": "UCBAINBB302"
+    },
+    {
+      "id": 3967,
+      "bank": "UCO BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MT ROAD CHENNAI BRANCH)",
+      "swift_code": "UCBAINBB328"
+    },
+    {
+      "id": 3968,
+      "bank": "UCO BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(T NAGAR, CHENNAI)",
+      "swift_code": "UCBAINBB340"
+    },
+    {
+      "id": 4048,
+      "bank": "UNION BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MID CORPORATE CHENNAI)",
+      "swift_code": "UBININBBCMC"
+    },
+    {
+      "id": 4049,
+      "bank": "UNION BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(OVERSEAS BRANCH, CHENNAI)",
+      "swift_code": "UBININBBOMD"
+    },
+    {
+      "id": 4050,
+      "bank": "UNION BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(SOWCARPET BRANCH)",
+      "swift_code": "UBININBBSOW"
+    },
+    {
+      "id": 4051,
+      "bank": "UNION BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "UBININBBICN"
+    },
+    {
+      "id": 4140,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CORPORATE FINANCE BRANCH CHENNAI)",
+      "swift_code": "UTBIINBBCFC"
+    },
+    {
+      "id": 4141,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOUNT ROAD BRANCH)",
+      "swift_code": "UTBIINBBMRD"
+    },
+    {
+      "id": 4142,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "UTBIINBBMDS"
+    },
+    {
+      "id": 4178,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(CHENNAI BRANCH)",
+      "swift_code": "UWBAINB1CHN"
+    },
+    {
+      "id": 4207,
+      "bank": "VIJAYA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(EGMORE BRANCH)",
+      "swift_code": "VIJBINBBEGM"
+    },
+    {
+      "id": 4208,
+      "bank": "VIJAYA BANK",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "(MOORE STREET BRANCH)",
+      "swift_code": "VIJBINBBMDM"
+    },
+    {
+      "id": 4265,
+      "bank": "WOORI BANK, CHENNAI BR.",
+      "city": "CHENNAI (MADRAS)",
+      "branch": "",
+      "swift_code": "HVBKIN5M"
+    }
+  ],
+  "meta": {
+    "title": "Chennai (Madras) में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Chennai (Madras), India. Subset of hi-bank. Source city string preserved verbatim as \"CHENNAI (MADRAS)\". शामिल हैं 233 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Chennai (Madras) में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Chennai (Madras) में बैंक — SWIFT/BIC कोड — 233 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 233 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

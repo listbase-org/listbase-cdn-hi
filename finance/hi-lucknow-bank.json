@@ -1,0 +1,226 @@
+{
+  "id": "hi-lucknow-bank",
+  "name": "Lucknow में बैंक — SWIFT/BIC कोड",
+  "title": "Lucknow में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Lucknow, India. Subset of hi-bank. Source city string preserved verbatim as \"LUCKNOW\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 38,
+      "bank": "ALLAHABAD BANK",
+      "city": "LUCKNOW",
+      "branch": "(LUCKNOW MAIN BRANCH)",
+      "swift_code": "ALLAINBBLUK"
+    },
+    {
+      "id": 425,
+      "bank": "AXIS BANK LIMITED",
+      "city": "LUCKNOW",
+      "branch": "(ALAMBAGH, LUCKNOW UP)",
+      "swift_code": "AXISINBB712"
+    },
+    {
+      "id": 426,
+      "bank": "AXIS BANK LIMITED",
+      "city": "LUCKNOW",
+      "branch": "(ALIGANJ,LUCKNOW (UP))",
+      "swift_code": "AXISINBBA83"
+    },
+    {
+      "id": 427,
+      "bank": "AXIS BANK LIMITED",
+      "city": "LUCKNOW",
+      "branch": "(HEWETT ROAD, LUCKNOW (UP))",
+      "swift_code": "AXISINBB407"
+    },
+    {
+      "id": 428,
+      "bank": "AXIS BANK LIMITED",
+      "city": "LUCKNOW",
+      "branch": "(INDIRA NAGAR, LUCKNOW (UP))",
+      "swift_code": "AXISINBB355"
+    },
+    {
+      "id": 429,
+      "bank": "AXIS BANK LIMITED",
+      "city": "LUCKNOW",
+      "branch": "(LUCKNOW BRANCH)",
+      "swift_code": "AXISINBB053"
+    },
+    {
+      "id": 687,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "LUCKNOW",
+      "branch": "(LUCKNOW BRANCH)",
+      "swift_code": "UTIBINB1053"
+    },
+    {
+      "id": 813,
+      "bank": "BANK OF BARODA",
+      "city": "LUCKNOW",
+      "branch": "(HAZARATGANJ BR., LUCKNOW)",
+      "swift_code": "BARBINBBHRB"
+    },
+    {
+      "id": 997,
+      "bank": "BANK OF INDIA",
+      "city": "LUCKNOW",
+      "branch": "(LUCKNOW BRANCH)",
+      "swift_code": "BKIDINBBLCK"
+    },
+    {
+      "id": 1433,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "LUCKNOW",
+      "branch": "(LUCKNOW)",
+      "swift_code": "CBININBBLKO"
+    },
+    {
+      "id": 1941,
+      "bank": "IDBI BANK LIMITED",
+      "city": "LUCKNOW",
+      "branch": "(LUCKNOW)",
+      "swift_code": "IBKLINBB015"
+    },
+    {
+      "id": 2157,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "LUCKNOW",
+      "branch": "(LUKNOW)",
+      "swift_code": "IOBAINBB207"
+    },
+    {
+      "id": 2241,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "LUCKNOW",
+      "branch": "(LUCKNOW BRANCH)",
+      "swift_code": "INDBINBBLUL"
+    },
+    {
+      "id": 2501,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "LUCKNOW",
+      "branch": "(SOL-0687)",
+      "swift_code": "ORBCINBBGOM"
+    },
+    {
+      "id": 2716,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUCKNOW",
+      "branch": "(HAL TOWNSHIP BRANCH)",
+      "swift_code": "PUNBINBBLHT"
+    },
+    {
+      "id": 2717,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUCKNOW",
+      "branch": "(HAZARAT GANJ LUCKNOW)",
+      "swift_code": "PUNBINBBLHG"
+    },
+    {
+      "id": 2718,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUCKNOW",
+      "branch": "(MID CORPORATE)",
+      "swift_code": "PUNBINBBMCL"
+    },
+    {
+      "id": 3328,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUCKNOW",
+      "branch": "(COMMERCIAL BRANCH, LUCKNOW)",
+      "swift_code": "SBININBB345"
+    },
+    {
+      "id": 3329,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUCKNOW",
+      "branch": "(HAL INDIRA NAGAR LUCKNOW)",
+      "swift_code": "SBININBB854"
+    },
+    {
+      "id": 3330,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUCKNOW",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "SBININBB157"
+    },
+    {
+      "id": 3331,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUCKNOW",
+      "branch": "(SGPGI,LUCKNOW)",
+      "swift_code": "SBININBB500"
+    },
+    {
+      "id": 3332,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUCKNOW",
+      "branch": "(SPECIALISED NRI BRANCH)",
+      "swift_code": "SBININBB763"
+    },
+    {
+      "id": 3783,
+      "bank": "SYNDICATE BANK",
+      "city": "LUCKNOW",
+      "branch": "(FXPC BRANCH)",
+      "swift_code": "SYNBINBB127"
+    },
+    {
+      "id": 4076,
+      "bank": "UNION BANK OF INDIA",
+      "city": "LUCKNOW",
+      "branch": "(CLARKS AVADH BRANCH,LUCKNOW)",
+      "swift_code": "UBININBBCLA"
+    },
+    {
+      "id": 4223,
+      "bank": "VIJAYA BANK",
+      "city": "LUCKNOW",
+      "branch": "",
+      "swift_code": "VIJBINBBRSM"
+    }
+  ],
+  "meta": {
+    "title": "Lucknow में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Lucknow, India. Subset of hi-bank. Source city string preserved verbatim as \"LUCKNOW\". शामिल हैं 25 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Lucknow में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Lucknow में बैंक — SWIFT/BIC कोड — 25 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 25 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

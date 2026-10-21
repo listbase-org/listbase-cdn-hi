@@ -1,0 +1,200 @@
+{
+  "id": "hi-antartika-desh",
+  "name": "अंटार्कटिका के देश (3)",
+  "title": "अंटार्कटिका के देश (3)",
+  "description": "अंटार्कटिका महाद्वीप के 3 देश — ISO 3166 कोड, हिन्दी देश के नाम, राजधानी, मुद्रा, अंतर्राष्ट्रीय फ़ोन कोड, अक्षांश-देशांतर और इमोजी ध्वज सहित (स्रोत: dr5hn/countries-states-cities-database, ODbL)",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "numeric_code",
+      "label": "Numeric Code",
+      "type": "number"
+    },
+    {
+      "key": "name_local",
+      "label": "Name Local",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "region_en",
+      "label": "Region En",
+      "type": "string"
+    },
+    {
+      "key": "subregion_en",
+      "label": "Subregion En",
+      "type": "string"
+    },
+    {
+      "key": "phone_code",
+      "label": "Phone Code",
+      "type": "number"
+    },
+    {
+      "key": "currency_code",
+      "label": "Currency Code",
+      "type": "string"
+    },
+    {
+      "key": "currency_name",
+      "label": "Currency Name",
+      "type": "string"
+    },
+    {
+      "key": "currency_symbol",
+      "label": "Currency Symbol",
+      "type": "string"
+    },
+    {
+      "key": "tld",
+      "label": "Tld",
+      "type": "string"
+    },
+    {
+      "key": "nationality_en",
+      "label": "Nationality En",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "string"
+    },
+    {
+      "key": "area_sq_km",
+      "label": "Area Sq Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "numeric_code": "010",
+      "name_local": "अंटार्कटिका",
+      "name_en": "Antarctica",
+      "name_native": "Antarctica",
+      "capital": "",
+      "region_en": "Polar",
+      "subregion_en": "",
+      "phone_code": "672",
+      "currency_code": "AAD",
+      "currency_name": "Antarctican dollar",
+      "currency_symbol": "$",
+      "tld": ".aq",
+      "nationality_en": "Antarctic",
+      "population": "",
+      "area_sq_km": 14000000,
+      "latitude": "-74.65000000",
+      "longitude": "4.48000000",
+      "emoji_flag": "🇦🇶",
+      "wikidata_id": "Q51"
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "numeric_code": "074",
+      "name_local": "बाउवेट आइलैंड",
+      "name_en": "Bouvet Island",
+      "name_native": "Bouvetøya",
+      "capital": "",
+      "region_en": "",
+      "subregion_en": "",
+      "phone_code": "0055",
+      "currency_code": "NOK",
+      "currency_name": "Norwegian krone",
+      "currency_symbol": "ko",
+      "tld": ".bv",
+      "nationality_en": "Bouvet Island",
+      "population": "",
+      "area_sq_km": 49,
+      "latitude": "-54.43333333",
+      "longitude": "3.40000000",
+      "emoji_flag": "🇧🇻",
+      "wikidata_id": "Q23408"
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "numeric_code": "334",
+      "name_local": "हर्ड द्वीप और मैकडोनाल्ड द्वीप",
+      "name_en": "Heard Island and McDonald Islands",
+      "name_native": "Heard Island and McDonald Islands",
+      "capital": "",
+      "region_en": "",
+      "subregion_en": "",
+      "phone_code": "672",
+      "currency_code": "AUD",
+      "currency_name": "Australian dollar",
+      "currency_symbol": "$",
+      "tld": ".hm",
+      "nationality_en": "Heard Island or McDonald Islands",
+      "population": "",
+      "area_sq_km": 412,
+      "latitude": "-53.10000000",
+      "longitude": "72.51666666",
+      "emoji_flag": "🇭🇲",
+      "wikidata_id": "Q131198"
+    }
+  ],
+  "meta": {
+    "title": "अंटार्कटिका के देश (3) - मुफ़्त डाउनलोड",
+    "description": "अंटार्कटिका महाद्वीप के 3 देश — ISO 3166 कोड, हिन्दी देश के नाम, राजधानी, मुद्रा, अंतर्राष्ट्रीय फ़ोन कोड, अक्षांश-देशांतर और इमोजी ध्वज सहित (स्रोत: dr5hn/countries-states-cities-database, ODbL) शामिल हैं 3 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "अंटार्कटिका के देश (3) | ListBase",
+    "seo_description": "डाउनलोड अंटार्कटिका के देश (3) — 3 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 3 रिकॉर्ड / 21 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

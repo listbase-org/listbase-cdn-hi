@@ -1,0 +1,177 @@
+{
+  "id": "hi-udaipur-bank",
+  "name": "Udaipur में बैंक — SWIFT/BIC कोड",
+  "title": "Udaipur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Udaipur, India. Subset of hi-bank. Source city string preserved verbatim as \"UDAIPUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 637,
+      "bank": "AXIS BANK LIMITED",
+      "city": "UDAIPUR",
+      "branch": "(UDAIPUR BRANCH)",
+      "swift_code": "AXISINBB097"
+    },
+    {
+      "id": 727,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "UDAIPUR",
+      "branch": "(UDAIPUR BRANCH)",
+      "swift_code": "UTIBINB1097"
+    },
+    {
+      "id": 888,
+      "bank": "BANK OF BARODA",
+      "city": "UDAIPUR",
+      "branch": "(INDUSTRIAL AREA, SUKHER BRANCH)",
+      "swift_code": "BARBINBBSUK"
+    },
+    {
+      "id": 889,
+      "bank": "BANK OF BARODA",
+      "city": "UDAIPUR",
+      "branch": "(UDAIPUR BRANCH)",
+      "swift_code": "BARBINBBUDP"
+    },
+    {
+      "id": 1113,
+      "bank": "BANK OF INDIA",
+      "city": "UDAIPUR",
+      "branch": "(UDAIPUR)",
+      "swift_code": "BKIDINBBUDP"
+    },
+    {
+      "id": 1979,
+      "bank": "IDBI BANK LIMITED",
+      "city": "UDAIPUR",
+      "branch": "(UDAIPUR BRANCH)",
+      "swift_code": "IBKLINBB050"
+    },
+    {
+      "id": 2216,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "UDAIPUR",
+      "branch": "(UDAIPUR)",
+      "swift_code": "IOBAINBB645"
+    },
+    {
+      "id": 2371,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "UDAIPUR",
+      "branch": "(UDAIPUR)",
+      "swift_code": "KARBINBBUDP"
+    },
+    {
+      "id": 2544,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "UDAIPUR",
+      "branch": "(TOWNHALL ROAD, UDAIPUR, RAJASTHAN)",
+      "swift_code": "ORBCINBBUDP"
+    },
+    {
+      "id": 2804,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "UDAIPUR",
+      "branch": "(CHETAK CIRCLE UDAIPUR)",
+      "swift_code": "PUNBINBBUCC"
+    },
+    {
+      "id": 2805,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "UDAIPUR",
+      "branch": "(PANCHSHEEL MARG BRANCH)",
+      "swift_code": "PUNBINBBUDP"
+    },
+    {
+      "id": 3678,
+      "bank": "STATE BANK OF INDIA",
+      "city": "UDAIPUR",
+      "branch": "(COMMERCIAL BRANCH, UDAIPUR)",
+      "swift_code": "SBININBB379"
+    },
+    {
+      "id": 3679,
+      "bank": "STATE BANK OF INDIA",
+      "city": "UDAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ12"
+    },
+    {
+      "id": 3680,
+      "bank": "STATE BANK OF INDIA",
+      "city": "UDAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ39"
+    },
+    {
+      "id": 3681,
+      "bank": "STATE BANK OF INDIA",
+      "city": "UDAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ63"
+    },
+    {
+      "id": 3682,
+      "bank": "STATE BANK OF INDIA",
+      "city": "UDAIPUR",
+      "branch": "(NRI BRANCH, UDAIPUR)",
+      "swift_code": "SBININBB823"
+    },
+    {
+      "id": 3842,
+      "bank": "SYNDICATE BANK",
+      "city": "UDAIPUR",
+      "branch": "(UDAIPUR)",
+      "swift_code": "SYNBINBB304"
+    },
+    {
+      "id": 4128,
+      "bank": "UNION BANK OF INDIA",
+      "city": "UDAIPUR",
+      "branch": "(UDAIPUR-MAIN)",
+      "swift_code": "UBININBBUDP"
+    }
+  ],
+  "meta": {
+    "title": "Udaipur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Udaipur, India. Subset of hi-bank. Source city string preserved verbatim as \"UDAIPUR\". शामिल हैं 18 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Udaipur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Udaipur में बैंक — SWIFT/BIC कोड — 18 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 18 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

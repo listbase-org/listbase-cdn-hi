@@ -1,0 +1,527 @@
+{
+  "id": "hi-jaipur-bank",
+  "name": "Jaipur में बैंक — SWIFT/BIC कोड",
+  "title": "Jaipur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Jaipur, India. Subset of hi-bank. Source city string preserved verbatim as \"JAIPUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 26,
+      "bank": "ALLAHABAD BANK",
+      "city": "JAIPUR",
+      "branch": "(M I ROAD, JAIPUR)",
+      "swift_code": "ALLAINBBJMI"
+    },
+    {
+      "id": 96,
+      "bank": "ANDHRA BANK",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "ANDBINBBJAI"
+    },
+    {
+      "id": 364,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "AXISINBB010"
+    },
+    {
+      "id": 365,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR STRATEGIC BRANCH)",
+      "swift_code": "AXISINBBUSF"
+    },
+    {
+      "id": 366,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(MALVIYA NAGAR, JAIPUR (RJ))",
+      "swift_code": "AXISINBB626"
+    },
+    {
+      "id": 367,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(SANANER)",
+      "swift_code": "AXISINBB433"
+    },
+    {
+      "id": 368,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(SANGANERI GATE :2698)",
+      "swift_code": "AXISINBBA64"
+    },
+    {
+      "id": 369,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(TILAKNAGAR)",
+      "swift_code": "AXISINBB031"
+    },
+    {
+      "id": 370,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(VAISHALI NAGAR)",
+      "swift_code": "AXISINBB311"
+    },
+    {
+      "id": 371,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(VIDHYADHAR NAGAR, JAIPUR (RJ)-789)",
+      "swift_code": "AXISINBB789"
+    },
+    {
+      "id": 675,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "UTIBINB1010"
+    },
+    {
+      "id": 788,
+      "bank": "BANK OF BARODA",
+      "city": "JAIPUR",
+      "branch": "(INTERNATIONAL BUSINESS BRANCH)",
+      "swift_code": "BARBINBBJAI"
+    },
+    {
+      "id": 789,
+      "bank": "BANK OF BARODA",
+      "city": "JAIPUR",
+      "branch": "(MID-CORPORATE BRANCH JAIPUR)",
+      "swift_code": "BARBINBBMCJ"
+    },
+    {
+      "id": 790,
+      "bank": "BANK OF BARODA",
+      "city": "JAIPUR",
+      "branch": "(NEHRU PLACE BRANCH)",
+      "swift_code": "BARBINBBNPJ"
+    },
+    {
+      "id": 791,
+      "bank": "BANK OF BARODA",
+      "city": "JAIPUR",
+      "branch": "(SITAPURA BRANCH)",
+      "swift_code": "BARBINBBSIA"
+    },
+    {
+      "id": 792,
+      "bank": "BANK OF BARODA",
+      "city": "JAIPUR",
+      "branch": "(TRIPOLIA BAZAR BRANCH)",
+      "swift_code": "BARBINBBTRB"
+    },
+    {
+      "id": 793,
+      "bank": "BANK OF BARODA",
+      "city": "JAIPUR",
+      "branch": "(V.K.I. AREA JAIPUR)",
+      "swift_code": "BARBINBBVKI"
+    },
+    {
+      "id": 973,
+      "bank": "BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "BKIDINBBJPR"
+    },
+    {
+      "id": 974,
+      "bank": "BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR MID CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBJMC"
+    },
+    {
+      "id": 975,
+      "bank": "BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(JOHRI BAZAR)",
+      "swift_code": "BKIDINBBJHB"
+    },
+    {
+      "id": 1131,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR)",
+      "swift_code": "MAHBINBBJPR"
+    },
+    {
+      "id": 1267,
+      "bank": "CANARA BANK",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBJOB"
+    },
+    {
+      "id": 1422,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(JOHRI BAZAR)",
+      "swift_code": "CBININBBJOH"
+    },
+    {
+      "id": 1423,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(SANSARCHANDRA ROAD BRANCH)",
+      "swift_code": "CBININBBSCR"
+    },
+    {
+      "id": 1536,
+      "bank": "CORPORATION BANK",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR RAJASTHAN BRANCH)",
+      "swift_code": "CORPINBB303"
+    },
+    {
+      "id": 1655,
+      "bank": "DENA BANK",
+      "city": "JAIPUR",
+      "branch": "(HALDION-KA-RASTA BRANCH, JAIPUR)",
+      "swift_code": "BKDNINBBHRJ"
+    },
+    {
+      "id": 1656,
+      "bank": "DENA BANK",
+      "city": "JAIPUR",
+      "branch": "(M.I. ROAD BRANCH)",
+      "swift_code": "BKDNINBBJAI"
+    },
+    {
+      "id": 1761,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR)",
+      "swift_code": "FDRLINBBJAP"
+    },
+    {
+      "id": 1876,
+      "bank": "ICICI BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "ICICINBB012"
+    },
+    {
+      "id": 1928,
+      "bank": "IDBI BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "IBKLINBB013"
+    },
+    {
+      "id": 1929,
+      "bank": "IDBI BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "(MAIN CORPORATE BRANCH, JAIPUR)",
+      "swift_code": "IBKLINBB142"
+    },
+    {
+      "id": 2043,
+      "bank": "INDIAN BANK",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR)",
+      "swift_code": "IDIBINBBJAI"
+    },
+    {
+      "id": 2145,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "JAIPUR",
+      "branch": "(M.I. ROAD BRANCH)",
+      "swift_code": "IOBAINBB158"
+    },
+    {
+      "id": 2146,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "JAIPUR",
+      "branch": "(SITAPURA INDUSTRIAL AREA,JAIPUR)",
+      "swift_code": "IOBAINBBJ26"
+    },
+    {
+      "id": 2235,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "JAIPUR",
+      "branch": "",
+      "swift_code": "INDBINBBJAC"
+    },
+    {
+      "id": 2287,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "JAKAINBBJPR"
+    },
+    {
+      "id": 2353,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "KARBINBBJPR"
+    },
+    {
+      "id": 2491,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "JAIPUR",
+      "branch": "(BRANCH OFFICE : M.I. ROAD,JAIPUR)",
+      "swift_code": "ORBCINBBJPR"
+    },
+    {
+      "id": 2574,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "PSIBINBB135"
+    },
+    {
+      "id": 2676,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JAIPUR",
+      "branch": "(BAPU NAGAR JAIPUR)",
+      "swift_code": "PUNBINBBBNJ"
+    },
+    {
+      "id": 2677,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JAIPUR",
+      "branch": "(INTERNATIONAL BANKING BRANCH)",
+      "swift_code": "PUNBINBBJMI"
+    },
+    {
+      "id": 2678,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR, SITAPURA IND. AREA)",
+      "swift_code": "PUNBINBBJSI"
+    },
+    {
+      "id": 2679,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JAIPUR",
+      "branch": "(MI ROAD JAIPUR)",
+      "swift_code": "PUNBINBBJMR"
+    },
+    {
+      "id": 2680,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JAIPUR",
+      "branch": "(RAJA PARK JAIPUR)",
+      "swift_code": "PUNBINBBJRP"
+    },
+    {
+      "id": 2681,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JAIPUR",
+      "branch": "(SSI BRANCH)",
+      "swift_code": "PUNBINBBVKI"
+    },
+    {
+      "id": 3205,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBT48"
+    },
+    {
+      "id": 3206,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB235"
+    },
+    {
+      "id": 3207,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH53"
+    },
+    {
+      "id": 3208,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "SBININBB154"
+    },
+    {
+      "id": 3209,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(JAJPUR ROAD BRANCH)",
+      "swift_code": "SBININBB604"
+    },
+    {
+      "id": 3210,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ05"
+    },
+    {
+      "id": 3211,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ26"
+    },
+    {
+      "id": 3212,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ44"
+    },
+    {
+      "id": 3213,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ45"
+    },
+    {
+      "id": 3214,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ53"
+    },
+    {
+      "id": 3215,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ58"
+    },
+    {
+      "id": 3216,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ65"
+    },
+    {
+      "id": 3217,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(SITAPURA INDL AREA)",
+      "swift_code": "SBININBB850"
+    },
+    {
+      "id": 3218,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(SME BRANCH JAIPUR SOUTH)",
+      "swift_code": "SBININBB851"
+    },
+    {
+      "id": 3219,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(SPECIALISED NRI BRANCH JAIPUR)",
+      "swift_code": "SBININBB765"
+    },
+    {
+      "id": 3220,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(TFCPC, JAIPUR)",
+      "swift_code": "SBININBB609"
+    },
+    {
+      "id": 3767,
+      "bank": "SYNDICATE BANK",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "SYNBINBB073"
+    },
+    {
+      "id": 3983,
+      "bank": "UCO BANK",
+      "city": "JAIPUR",
+      "branch": "(JOHARI BAZAR JAIPUR BRANCH)",
+      "swift_code": "UCBAINBB214"
+    },
+    {
+      "id": 3984,
+      "bank": "UCO BANK",
+      "city": "JAIPUR",
+      "branch": "(MI ROAD JAIPUR BRANCH)",
+      "swift_code": "UCBAINBB010"
+    },
+    {
+      "id": 3985,
+      "bank": "UCO BANK",
+      "city": "JAIPUR",
+      "branch": "(SITAPURA JAIPUR)",
+      "swift_code": "UCBAINBBSIA"
+    },
+    {
+      "id": 4062,
+      "bank": "UNION BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(OVERSEAS BRANCH, JAIPUR)",
+      "swift_code": "UBININBBOJP"
+    },
+    {
+      "id": 4148,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR BRANCH)",
+      "swift_code": "UTBIINBBJAI"
+    },
+    {
+      "id": 4214,
+      "bank": "VIJAYA BANK",
+      "city": "JAIPUR",
+      "branch": "(JAIPUR MAIN BRANCH)",
+      "swift_code": "VIJBINBBJPR"
+    }
+  ],
+  "meta": {
+    "title": "Jaipur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Jaipur, India. Subset of hi-bank. Source city string preserved verbatim as \"JAIPUR\". शामिल हैं 68 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Jaipur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Jaipur में बैंक — SWIFT/BIC कोड — 68 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 68 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

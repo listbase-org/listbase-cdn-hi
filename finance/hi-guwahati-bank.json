@@ -1,0 +1,184 @@
+{
+  "id": "hi-guwahati-bank",
+  "name": "Guwahati में बैंक — SWIFT/BIC कोड",
+  "title": "Guwahati में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Guwahati, India. Subset of hi-bank. Source city string preserved verbatim as \"GUWAHATI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 320,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GUWAHATI",
+      "branch": "(BELTOLA, GUWAHATI)",
+      "swift_code": "AXISINBB860"
+    },
+    {
+      "id": 321,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GUWAHATI",
+      "branch": "(DHUBRI)",
+      "swift_code": "AXISINBBA93"
+    },
+    {
+      "id": 322,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GUWAHATI",
+      "branch": "(DIMAPUR)",
+      "swift_code": "AXISINBB378"
+    },
+    {
+      "id": 323,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GUWAHATI",
+      "branch": "(FANCY BAZAR, GUWAHATI)",
+      "swift_code": "AXISINBB608"
+    },
+    {
+      "id": 324,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GUWAHATI",
+      "branch": "(GUWAHATI BRANCH)",
+      "swift_code": "AXISINBB140"
+    },
+    {
+      "id": 325,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GUWAHATI",
+      "branch": "(JORHAT)",
+      "swift_code": "AXISINBB376"
+    },
+    {
+      "id": 326,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GUWAHATI",
+      "branch": "(PALTANBAZAR, GUWAHATI)",
+      "swift_code": "AXISINBB375"
+    },
+    {
+      "id": 672,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "GUWAHATI",
+      "branch": "(GUWAHATI)",
+      "swift_code": "UTIBINB1140"
+    },
+    {
+      "id": 1258,
+      "bank": "CANARA BANK",
+      "city": "GUWAHATI",
+      "branch": "(DISPUR MAIN BRANCH GUWAHATI)",
+      "swift_code": "CNRBINBBGUD"
+    },
+    {
+      "id": 1259,
+      "bank": "CANARA BANK",
+      "city": "GUWAHATI",
+      "branch": "(FANCY BAZAR, GUWAHATI)",
+      "swift_code": "CNRBINBBGUF"
+    },
+    {
+      "id": 1419,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "GUWAHATI",
+      "branch": "(GUWAHATI)",
+      "swift_code": "CBININBBGUW"
+    },
+    {
+      "id": 1922,
+      "bank": "IDBI BANK LIMITED",
+      "city": "GUWAHATI",
+      "branch": "(GUWAHATI BRANCH)",
+      "swift_code": "IBKLINBB136"
+    },
+    {
+      "id": 2039,
+      "bank": "INDIAN BANK",
+      "city": "GUWAHATI",
+      "branch": "(GUWUHATI BRANCH)",
+      "swift_code": "IDIBINBBGOD"
+    },
+    {
+      "id": 2140,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "GUWAHATI",
+      "branch": "(GUWAHATI)",
+      "swift_code": "IOBAINBB420"
+    },
+    {
+      "id": 3141,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GUWAHATI",
+      "branch": "(GUWAHATI COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB583"
+    },
+    {
+      "id": 3142,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GUWAHATI",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "SBININBB159"
+    },
+    {
+      "id": 3976,
+      "bank": "UCO BANK",
+      "city": "GUWAHATI",
+      "branch": "(KARIMGANJ BAZAR GUWAHATI BRANCH)",
+      "swift_code": "UCBAINBB110"
+    },
+    {
+      "id": 3977,
+      "bank": "UCO BANK",
+      "city": "GUWAHATI",
+      "branch": "(SILPUKHRI, GUWAHATI BRANCH)",
+      "swift_code": "UCBAINBB128"
+    },
+    {
+      "id": 4146,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "GUWAHATI",
+      "branch": "(GUWAHATI)",
+      "swift_code": "UTBIINBBGHT"
+    }
+  ],
+  "meta": {
+    "title": "Guwahati में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Guwahati, India. Subset of hi-bank. Source city string preserved verbatim as \"GUWAHATI\". शामिल हैं 19 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Guwahati में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Guwahati में बैंक — SWIFT/BIC कोड — 19 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 19 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "hi-mapan-ikaiyan-power",
+  "name": "मापन इकाइयाँ — श्रेणी 'power' (6)",
+  "title": "मापन इकाइयाँ — श्रेणी 'power' (6)",
+  "description": "CLDR hi लोकेल की 'power' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित।",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "shreni",
+      "label": "Shreni",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sanket",
+      "label": "Sanket",
+      "type": "string"
+    },
+    {
+      "key": "sankeern",
+      "label": "Sankeern",
+      "type": "string"
+    },
+    {
+      "key": "paitarn",
+      "label": "Paitarn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "power-gigawatt",
+      "shreni": "power",
+      "naam": "गिगावॉट",
+      "sanket": "GW",
+      "sankeern": "GW",
+      "paitarn": "{0} गिगावॉट"
+    },
+    {
+      "id": 2,
+      "unit_code": "power-horsepower",
+      "shreni": "power",
+      "naam": "अश्वशक्ति",
+      "sanket": "hp",
+      "sankeern": "hp",
+      "paitarn": "{0} अश्वशक्ति"
+    },
+    {
+      "id": 3,
+      "unit_code": "power-kilowatt",
+      "shreni": "power",
+      "naam": "किलोवॉट",
+      "sanket": "kW",
+      "sankeern": "kW",
+      "paitarn": "{0} किलोवॉट"
+    },
+    {
+      "id": 4,
+      "unit_code": "power-megawatt",
+      "shreni": "power",
+      "naam": "मेगावॉट",
+      "sanket": "MW",
+      "sankeern": "MW",
+      "paitarn": "{0} मेगावॉट"
+    },
+    {
+      "id": 5,
+      "unit_code": "power-milliwatt",
+      "shreni": "power",
+      "naam": "मिलीवॉट",
+      "sanket": "mW",
+      "sankeern": "mW",
+      "paitarn": "{0} मिलीवॉट"
+    },
+    {
+      "id": 6,
+      "unit_code": "power-watt",
+      "shreni": "power",
+      "naam": "वॉट",
+      "sanket": "वॉट",
+      "sankeern": "वॉट",
+      "paitarn": "{0} वॉट"
+    }
+  ],
+  "meta": {
+    "title": "मापन इकाइयाँ — श्रेणी 'power' (6) - मुफ़्त डाउनलोड",
+    "description": "CLDR hi लोकेल की 'power' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित। शामिल हैं 6 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मापन इकाइयाँ — श्रेणी 'power' (6) | ListBase",
+    "seo_description": "डाउनलोड मापन इकाइयाँ — श्रेणी 'power' (6) — 6 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 6 रिकॉर्ड / 7 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,766 @@
+{
+  "id": "hi-tripura-shahar",
+  "name": "त्रिपुरा के शहर (Tripura Cities)",
+  "title": "त्रिपुरा के शहर (Tripura Cities)",
+  "description": "त्रिपुरा राज्य के 70 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 70 cities and towns in Tripura, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 70,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agartala",
+      "name_lower": "agartala",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": 203292,
+      "latitude": 23.836389,
+      "longitude": 91.275
+    },
+    {
+      "name": "Ajarthala",
+      "name_lower": "ajarthala",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.836389,
+      "longitude": 91.275
+    },
+    {
+      "name": "Ambasa",
+      "name_lower": "ambasa",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.917222,
+      "longitude": 91.847222
+    },
+    {
+      "name": "Ampi Bazar",
+      "name_lower": "ampi bazar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.65,
+      "longitude": 91.624722
+    },
+    {
+      "name": "Bahadurpara",
+      "name_lower": "bahadurpara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.95,
+      "longitude": 92.083333
+    },
+    {
+      "name": "Bampurbari",
+      "name_lower": "bampurbari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.558611,
+      "longitude": 91.632778
+    },
+    {
+      "name": "Barjala",
+      "name_lower": "barjala",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.616667,
+      "longitude": 91.366667
+    },
+    {
+      "name": "Belonia",
+      "name_lower": "belonia",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": 16737,
+      "latitude": 23.252778,
+      "longitude": 91.451389
+    },
+    {
+      "name": "Beloniya",
+      "name_lower": "beloniya",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.252778,
+      "longitude": 91.451389
+    },
+    {
+      "name": "Bisalgarh",
+      "name_lower": "bisalgarh",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.675556,
+      "longitude": 91.289722
+    },
+    {
+      "name": "Chandrasadhubari",
+      "name_lower": "chandrasadhubari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.8,
+      "longitude": 91.5
+    },
+    {
+      "name": "Damchara",
+      "name_lower": "damchara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.25,
+      "longitude": 92.3
+    },
+    {
+      "name": "Dhanyacharanbari",
+      "name_lower": "dhanyacharanbari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.883333,
+      "longitude": 91.983333
+    },
+    {
+      "name": "Dharmanagar",
+      "name_lower": "dharmanagar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": 32917,
+      "latitude": 24.366667,
+      "longitude": 92.166667
+    },
+    {
+      "name": "Dharmaragar",
+      "name_lower": "dharmaragar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.383333,
+      "longitude": 92.166667
+    },
+    {
+      "name": "Dulumabari",
+      "name_lower": "dulumabari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.416667,
+      "longitude": 91.666667
+    },
+    {
+      "name": "Fatikrai",
+      "name_lower": "fatikrai",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.183333,
+      "longitude": 92.016667
+    },
+    {
+      "name": "Gabaichara",
+      "name_lower": "gabaichara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 92.333333
+    },
+    {
+      "name": "Gorakapa Kachehri",
+      "name_lower": "gorakapa kachehri",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.15,
+      "longitude": 91.8
+    },
+    {
+      "name": "Gunamanipara",
+      "name_lower": "gunamanipara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.716667,
+      "longitude": 91.933333
+    },
+    {
+      "name": "Hadraibari",
+      "name_lower": "hadraibari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.85,
+      "longitude": 91.6
+    },
+    {
+      "name": "Halhahli",
+      "name_lower": "halhahli",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.116667,
+      "longitude": 91.833333
+    },
+    {
+      "name": "Hindubari",
+      "name_lower": "hindubari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.15,
+      "longitude": 91.5
+    },
+    {
+      "name": "Hriphaw",
+      "name_lower": "hriphaw",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 92.416667
+    },
+    {
+      "name": "Jampai",
+      "name_lower": "jampai",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 91.466667
+    },
+    {
+      "name": "Kailasahar",
+      "name_lower": "kailasahar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": 22124,
+      "latitude": 24.333333,
+      "longitude": 92.016667
+    },
+    {
+      "name": "Kailashahar",
+      "name_lower": "kailashahar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.333333,
+      "longitude": 92.016667
+    },
+    {
+      "name": "Kakraban",
+      "name_lower": "kakraban",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.483333,
+      "longitude": 91.383333
+    },
+    {
+      "name": "Kamal Krishnabari",
+      "name_lower": "kamal krishnabari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.343889,
+      "longitude": 91.786389
+    },
+    {
+      "name": "Kathalia",
+      "name_lower": "kathalia",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.316667,
+      "longitude": 91.316667
+    },
+    {
+      "name": "Khopaiyapara",
+      "name_lower": "khopaiyapara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.016667,
+      "longitude": 92.033333
+    },
+    {
+      "name": "Khowai",
+      "name_lower": "khowai",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": 20049,
+      "latitude": 24.1,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Lalchara",
+      "name_lower": "lalchara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 91.6
+    },
+    {
+      "name": "Laogang Bazar",
+      "name_lower": "laogang bazar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.283333,
+      "longitude": 91.55
+    },
+    {
+      "name": "Lungthung",
+      "name_lower": "lungthung",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.216667,
+      "longitude": 91.583333
+    },
+    {
+      "name": "Mairuhabari",
+      "name_lower": "mairuhabari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.338333,
+      "longitude": 91.601111
+    },
+    {
+      "name": "Manpui",
+      "name_lower": "manpui",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 92.25
+    },
+    {
+      "name": "Manu Bazar",
+      "name_lower": "manu bazar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.074722,
+      "longitude": 91.645833
+    },
+    {
+      "name": "Melaghar",
+      "name_lower": "melaghar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.483333,
+      "longitude": 91.333333
+    },
+    {
+      "name": "Meltraipara",
+      "name_lower": "meltraipara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.766389,
+      "longitude": 91.777222
+    },
+    {
+      "name": "Methraipara",
+      "name_lower": "methraipara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.766389,
+      "longitude": 91.777222
+    },
+    {
+      "name": "Mogiyabari",
+      "name_lower": "mogiyabari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.55,
+      "longitude": 91.85
+    },
+    {
+      "name": "Mukhachariduar",
+      "name_lower": "mukhachariduar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.45,
+      "longitude": 91.85
+    },
+    {
+      "name": "Muktasinghpara",
+      "name_lower": "muktasinghpara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.933333,
+      "longitude": 92.15
+    },
+    {
+      "name": "Nagraibari",
+      "name_lower": "nagraibari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.6,
+      "longitude": 91.616667
+    },
+    {
+      "name": "Nakraihapara",
+      "name_lower": "nakraihapara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.983333,
+      "longitude": 92.1
+    },
+    {
+      "name": "Nutan Bazar",
+      "name_lower": "nutan bazar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.415,
+      "longitude": 91.7425
+    },
+    {
+      "name": "Palangphabari",
+      "name_lower": "palangphabari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.3,
+      "longitude": 91.75
+    },
+    {
+      "name": "Pathachara",
+      "name_lower": "pathachara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.45,
+      "longitude": 91.95
+    },
+    {
+      "name": "Rabiraipara",
+      "name_lower": "rabiraipara",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 92.066667
+    },
+    {
+      "name": "Radha Kishorpur",
+      "name_lower": "radha kishorpur",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.522778,
+      "longitude": 91.478056
+    },
+    {
+      "name": "Radhakishorepur",
+      "name_lower": "radhakishorepur",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.522778,
+      "longitude": 91.478056
+    },
+    {
+      "name": "Radhakishorpur",
+      "name_lower": "radhakishorpur",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.233333,
+      "longitude": 92.283333
+    },
+    {
+      "name": "Rahdakisorpur",
+      "name_lower": "rahdakisorpur",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.522778,
+      "longitude": 91.478056
+    },
+    {
+      "name": "Ranir Bazar",
+      "name_lower": "ranir bazar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": 11811,
+      "latitude": 23.833333,
+      "longitude": 91.366667
+    },
+    {
+      "name": "Rengdil",
+      "name_lower": "rengdil",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 92.4
+    },
+    {
+      "name": "Rushyabari",
+      "name_lower": "rushyabari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.45,
+      "longitude": 91.95
+    },
+    {
+      "name": "Sabedabari",
+      "name_lower": "sabedabari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.616667,
+      "longitude": 91.783333
+    },
+    {
+      "name": "Sabroom",
+      "name_lower": "sabroom",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23,
+      "longitude": 91.731944
+    },
+    {
+      "name": "Sabrum",
+      "name_lower": "sabrum",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": 6206,
+      "latitude": 23,
+      "longitude": 91.731944
+    },
+    {
+      "name": "Sakhan",
+      "name_lower": "sakhan",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.8,
+      "longitude": 92.15
+    },
+    {
+      "name": "Santinagar",
+      "name_lower": "santinagar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.966667,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Sibnagar",
+      "name_lower": "sibnagar",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.65,
+      "longitude": 91.25
+    },
+    {
+      "name": "Sirdukbari",
+      "name_lower": "sirdukbari",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.757222,
+      "longitude": 91.583611
+    },
+    {
+      "name": "Sonamura",
+      "name_lower": "sonamura",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": 10823,
+      "latitude": 23.471944,
+      "longitude": 91.266389
+    },
+    {
+      "name": "Takarjala",
+      "name_lower": "takarjala",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.698056,
+      "longitude": 91.405556
+    },
+    {
+      "name": "Tukkalh",
+      "name_lower": "tukkalh",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.933333,
+      "longitude": 92.366667
+    },
+    {
+      "name": "Tukkath",
+      "name_lower": "tukkath",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.933333,
+      "longitude": 92.366667
+    },
+    {
+      "name": "Udaipur",
+      "name_lower": "udaipur",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": 23293,
+      "latitude": 23.533333,
+      "longitude": 91.483333
+    },
+    {
+      "name": "Vanghmun",
+      "name_lower": "vanghmun",
+      "state": "Tripura",
+      "state_hi": "त्रिपुरा",
+      "region_code": "26",
+      "population": "",
+      "latitude": 23.983333,
+      "longitude": 92.283333
+    }
+  ],
+  "meta": {
+    "title": "त्रिपुरा के शहर (Tripura Cities) - मुफ़्त डाउनलोड",
+    "description": "त्रिपुरा राज्य के 70 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 70 cities and towns in Tripura, India, with population and geographic coordinates. शामिल हैं 70 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "त्रिपुरा के शहर (Tripura Cities) | ListBase",
+    "seo_description": "डाउनलोड त्रिपुरा के शहर (Tripura Cities) — 70 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 70 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

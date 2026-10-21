@@ -1,0 +1,121 @@
+{
+  "id": "hi-alapuzha-bank",
+  "name": "Alapuzha में बैंक — SWIFT/BIC कोड",
+  "title": "Alapuzha में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Alapuzha, India. Subset of hi-bank. Source city string preserved verbatim as \"ALAPUZHA\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 910,
+      "bank": "BANK OF INDIA",
+      "city": "ALAPUZHA",
+      "branch": "(ALLEPPY)",
+      "swift_code": "BKIDINBBALP"
+    },
+    {
+      "id": 1399,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "ALAPUZHA",
+      "branch": "(ALAPUZHA BRANCH)",
+      "swift_code": "CBININBBAPP"
+    },
+    {
+      "id": 1492,
+      "bank": "CORPORATION BANK",
+      "city": "ALAPUZHA",
+      "branch": "(ALAPPUZHA BRANCH)",
+      "swift_code": "CORPINBB172"
+    },
+    {
+      "id": 2097,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "ALAPUZHA",
+      "branch": "(ALAPUZHA BRANCH)",
+      "swift_code": "IOBAINBB004"
+    },
+    {
+      "id": 2895,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ALAPUZHA",
+      "branch": "(ALAPUZHA BRANCH)",
+      "swift_code": "SBININBB243"
+    },
+    {
+      "id": 2896,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ALAPUZHA",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBT56"
+    },
+    {
+      "id": 2897,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ALAPUZHA",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT11"
+    },
+    {
+      "id": 3727,
+      "bank": "SYNDICATE BANK",
+      "city": "ALAPUZHA",
+      "branch": "(ALAPUZHA BRANCH)",
+      "swift_code": "SYNBINBB170"
+    },
+    {
+      "id": 3892,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "ALAPUZHA",
+      "branch": "(ALAPPUZHA)",
+      "swift_code": "SOININ55005"
+    },
+    {
+      "id": 4035,
+      "bank": "UNION BANK OF INDIA",
+      "city": "ALAPUZHA",
+      "branch": "(ALLAPPUZHA BRANCH)",
+      "swift_code": "UBININBBALP"
+    }
+  ],
+  "meta": {
+    "title": "Alapuzha में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Alapuzha, India. Subset of hi-bank. Source city string preserved verbatim as \"ALAPUZHA\". शामिल हैं 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Alapuzha में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Alapuzha में बैंक — SWIFT/BIC कोड — 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 10 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

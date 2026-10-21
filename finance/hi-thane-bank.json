@@ -1,0 +1,156 @@
+{
+  "id": "hi-thane-bank",
+  "name": "Thane में बैंक — SWIFT/BIC कोड",
+  "title": "Thane में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Thane, India. Subset of hi-bank. Source city string preserved verbatim as \"THANE\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 629,
+      "bank": "AXIS BANK LIMITED",
+      "city": "THANE",
+      "branch": "(MANPADA)",
+      "swift_code": "AXISINBB327"
+    },
+    {
+      "id": 630,
+      "bank": "AXIS BANK LIMITED",
+      "city": "THANE",
+      "branch": "(VIRAR)",
+      "swift_code": "AXISINBB023"
+    },
+    {
+      "id": 722,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "THANE",
+      "branch": "",
+      "swift_code": "UTIBINB1061"
+    },
+    {
+      "id": 885,
+      "bank": "BANK OF BARODA",
+      "city": "THANE",
+      "branch": "(THANE WEST BRANCH)",
+      "swift_code": "BARBINBBTHW"
+    },
+    {
+      "id": 1108,
+      "bank": "BANK OF INDIA",
+      "city": "THANE",
+      "branch": "(PANCHPAKHADI BRANCH)",
+      "swift_code": "BKIDINBBPPD"
+    },
+    {
+      "id": 1109,
+      "bank": "BANK OF INDIA",
+      "city": "THANE",
+      "branch": "(THANE MID CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBTMC"
+    },
+    {
+      "id": 1157,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "THANE",
+      "branch": "(THANE)",
+      "swift_code": "MAHBINBBTHN"
+    },
+    {
+      "id": 1383,
+      "bank": "CANARA BANK",
+      "city": "THANE",
+      "branch": "(MID CORPORATE BRANCH (THANE))",
+      "swift_code": "CNRBINBBMCT"
+    },
+    {
+      "id": 1976,
+      "bank": "IDBI BANK LIMITED",
+      "city": "THANE",
+      "branch": "(THANE BRANCH)",
+      "swift_code": "IBKLINBB783"
+    },
+    {
+      "id": 2209,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "THANE",
+      "branch": "(THANE BRANCH)",
+      "swift_code": "IOBAINBB089"
+    },
+    {
+      "id": 3636,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THANE",
+      "branch": "(THANE MAIN BRANCH)",
+      "swift_code": "SBININBB236"
+    },
+    {
+      "id": 3637,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THANE",
+      "branch": "(WAGLE INDUSTRIAL ESTATE,THANE)",
+      "swift_code": "SBININBB541"
+    },
+    {
+      "id": 3945,
+      "bank": "TJSB SAHAKARI BANK LTD.",
+      "city": "THANE",
+      "branch": "(NAUPADA IBD)",
+      "swift_code": "TJSKINBBNPD"
+    },
+    {
+      "id": 3946,
+      "bank": "TJSB SAHAKARI BANK LTD.",
+      "city": "THANE",
+      "branch": "",
+      "swift_code": "TJSKINBB"
+    },
+    {
+      "id": 4126,
+      "bank": "UNION BANK OF INDIA",
+      "city": "THANE",
+      "branch": "(KAPURBAVDI)",
+      "swift_code": "UBININBBKPD"
+    }
+  ],
+  "meta": {
+    "title": "Thane में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Thane, India. Subset of hi-bank. Source city string preserved verbatim as \"THANE\". शामिल हैं 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Thane में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Thane में बैंक — SWIFT/BIC कोड — 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 15 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

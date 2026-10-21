@@ -1,0 +1,128 @@
+{
+  "id": "hi-hubli-bank",
+  "name": "Hubli में बैंक — SWIFT/BIC कोड",
+  "title": "Hubli में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Hubli, India. Subset of hi-bank. Source city string preserved verbatim as \"HUBLI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 336,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HUBLI",
+      "branch": "(BIDAR)",
+      "swift_code": "AXISINBB484"
+    },
+    {
+      "id": 337,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HUBLI",
+      "branch": "(BIJAPUR (KT))",
+      "swift_code": "AXISINBB525"
+    },
+    {
+      "id": 338,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HUBLI",
+      "branch": "(GULBARGA (KT))",
+      "swift_code": "AXISINBB342"
+    },
+    {
+      "id": 339,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HUBLI",
+      "branch": "(HUBLI BRANCH)",
+      "swift_code": "AXISINBB129"
+    },
+    {
+      "id": 340,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HUBLI",
+      "branch": "(HUBLI-129)",
+      "swift_code": "AXISINBBA15"
+    },
+    {
+      "id": 341,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HUBLI",
+      "branch": "(RAICHUR)",
+      "swift_code": "AXISINBB412"
+    },
+    {
+      "id": 342,
+      "bank": "AXIS BANK LIMITED",
+      "city": "HUBLI",
+      "branch": "(SHIMOGA KT)",
+      "swift_code": "AXISINBB362"
+    },
+    {
+      "id": 1262,
+      "bank": "CANARA BANK",
+      "city": "HUBLI",
+      "branch": "(STATION ROAD, HUBLI)",
+      "swift_code": "CNRBINBBFXH"
+    },
+    {
+      "id": 1532,
+      "bank": "CORPORATION BANK",
+      "city": "HUBLI",
+      "branch": "(HUBLI NEW COTTON MARKET)",
+      "swift_code": "CORPINBB064"
+    },
+    {
+      "id": 3153,
+      "bank": "STATE BANK OF INDIA",
+      "city": "HUBLI",
+      "branch": "(COMMERCIAL BR. HUBLI)",
+      "swift_code": "SBININBB264"
+    },
+    {
+      "id": 3762,
+      "bank": "SYNDICATE BANK",
+      "city": "HUBLI",
+      "branch": "(HUBLI SUPER MARKET)",
+      "swift_code": "SYNBINBB445"
+    }
+  ],
+  "meta": {
+    "title": "Hubli में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Hubli, India. Subset of hi-bank. Source city string preserved verbatim as \"HUBLI\". शामिल हैं 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Hubli में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Hubli में बैंक — SWIFT/BIC कोड — 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 11 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

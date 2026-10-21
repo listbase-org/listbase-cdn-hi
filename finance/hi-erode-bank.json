@@ -1,0 +1,128 @@
+{
+  "id": "hi-erode-bank",
+  "name": "Erode में बैंक — SWIFT/BIC कोड",
+  "title": "Erode में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Erode, India. Subset of hi-bank. Source city string preserved verbatim as \"ERODE\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 85,
+      "bank": "ANDHRA BANK",
+      "city": "ERODE",
+      "branch": "(ERODE)",
+      "swift_code": "ANDBINBBERO"
+    },
+    {
+      "id": 296,
+      "bank": "AXIS BANK LIMITED",
+      "city": "ERODE",
+      "branch": "(ERODE BRANCH)",
+      "swift_code": "AXISINBB118"
+    },
+    {
+      "id": 666,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "ERODE",
+      "branch": "",
+      "swift_code": "UTIBINB1118"
+    },
+    {
+      "id": 1757,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "ERODE",
+      "branch": "(ERODE)",
+      "swift_code": "FDRLINBBERD"
+    },
+    {
+      "id": 2135,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "ERODE",
+      "branch": "(ERODE, TAMILNADU)",
+      "swift_code": "IOBAINBB025"
+    },
+    {
+      "id": 3104,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERODE",
+      "branch": "(COMMERCIAL BRANCH, ERODE)",
+      "swift_code": "SBININBB244"
+    },
+    {
+      "id": 3105,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERODE",
+      "branch": "(PALLIPALAYAM BRANCH)",
+      "swift_code": "SBININBB662"
+    },
+    {
+      "id": 3106,
+      "bank": "STATE BANK OF INDIA",
+      "city": "ERODE",
+      "branch": "(SSI,BHAVANI,ERODE)",
+      "swift_code": "SBININBB461"
+    },
+    {
+      "id": 3756,
+      "bank": "SYNDICATE BANK",
+      "city": "ERODE",
+      "branch": "(ERODE BRANCH)",
+      "swift_code": "SYNBINBB182"
+    },
+    {
+      "id": 3908,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "ERODE",
+      "branch": "(ERODE)",
+      "swift_code": "SOININ55023"
+    },
+    {
+      "id": 4057,
+      "bank": "UNION BANK OF INDIA",
+      "city": "ERODE",
+      "branch": "(ERODE MAIN BRANCH)",
+      "swift_code": "UBININBBERD"
+    }
+  ],
+  "meta": {
+    "title": "Erode में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Erode, India. Subset of hi-bank. Source city string preserved verbatim as \"ERODE\". शामिल हैं 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Erode में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Erode में बैंक — SWIFT/BIC कोड — 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 11 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

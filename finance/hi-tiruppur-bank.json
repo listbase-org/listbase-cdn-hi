@@ -1,0 +1,317 @@
+{
+  "id": "hi-tiruppur-bank",
+  "name": "Tiruppur में बैंक — SWIFT/BIC कोड",
+  "title": "Tiruppur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Tiruppur, India. Subset of hi-bank. Source city string preserved verbatim as \"TIRUPPUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 62,
+      "bank": "ALLAHABAD BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR BRANCH)",
+      "swift_code": "ALLAINBBTRP"
+    },
+    {
+      "id": 124,
+      "bank": "ANDHRA BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR BRANCH)",
+      "swift_code": "ANDBINBBTIR"
+    },
+    {
+      "id": 635,
+      "bank": "AXIS BANK LIMITED",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR BRANCH)",
+      "swift_code": "AXISINBB210"
+    },
+    {
+      "id": 724,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR BRANCH)",
+      "swift_code": "UTIBINB1210"
+    },
+    {
+      "id": 886,
+      "bank": "BANK OF BARODA",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR BRANCH)",
+      "swift_code": "BARBINBBTPR"
+    },
+    {
+      "id": 1111,
+      "bank": "BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR SSI BRANCH)",
+      "swift_code": "BKIDINBBTPR"
+    },
+    {
+      "id": 1158,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR)",
+      "swift_code": "MAHBINBBTPR"
+    },
+    {
+      "id": 1385,
+      "bank": "CANARA BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR DHARAPURAM ROAD MAIN BRANCH)",
+      "swift_code": "CNRBINBBZXT"
+    },
+    {
+      "id": 1386,
+      "bank": "CANARA BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBTOB"
+    },
+    {
+      "id": 1387,
+      "bank": "CANARA BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR PERUMANLLUR ROAD)",
+      "swift_code": "CNRBINBBTPN"
+    },
+    {
+      "id": 1462,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR BRANCH)",
+      "swift_code": "CBININBBTIR"
+    },
+    {
+      "id": 1597,
+      "bank": "CORPORATION BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR BRANCH)",
+      "swift_code": "CORPINBB087"
+    },
+    {
+      "id": 1711,
+      "bank": "DHANLAXMI BANK LIMITED",
+      "city": "TIRUPPUR",
+      "branch": "(FOREX)",
+      "swift_code": "DLXBINBBTPR"
+    },
+    {
+      "id": 1977,
+      "bank": "IDBI BANK LIMITED",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR BRANCH)",
+      "swift_code": "IBKLINBB113"
+    },
+    {
+      "id": 2086,
+      "bank": "INDIAN BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR BRANCH)",
+      "swift_code": "IDIBINBBTPR"
+    },
+    {
+      "id": 2212,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR BRANCH)",
+      "swift_code": "IOBAINBB095"
+    },
+    {
+      "id": 2213,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "TIRUPPUR",
+      "branch": "(VELAMPALAYAM)",
+      "swift_code": "IOBAINBB241"
+    },
+    {
+      "id": 2262,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR)",
+      "swift_code": "INDBINBBTIC"
+    },
+    {
+      "id": 2369,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR BRANCH)",
+      "swift_code": "KARBINBBTIR"
+    },
+    {
+      "id": 2370,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR BRANCH)",
+      "swift_code": "KARBINBBPNR"
+    },
+    {
+      "id": 2415,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR)",
+      "swift_code": "LAVBINBB739"
+    },
+    {
+      "id": 2543,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "TIRUPPUR",
+      "branch": "(BRANCH:TIRUPPUR)",
+      "swift_code": "ORBCINBBTPR"
+    },
+    {
+      "id": 2597,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "TIRUPPUR",
+      "branch": "(IBD TIRUPPUR)",
+      "swift_code": "PSIBINBB018"
+    },
+    {
+      "id": 2802,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR BRANCH)",
+      "swift_code": "PUNBINBBTRP"
+    },
+    {
+      "id": 2803,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "TIRUPPUR",
+      "branch": "",
+      "swift_code": "PUNBINBBTAR"
+    },
+    {
+      "id": 3664,
+      "bank": "STATE BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(BHOPAL CIRCLE)",
+      "swift_code": "SBININBBM33"
+    },
+    {
+      "id": 3665,
+      "bank": "STATE BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBT03"
+    },
+    {
+      "id": 3666,
+      "bank": "STATE BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(COMMERCIAL BRANCH, TIRUPPUR)",
+      "swift_code": "SBININBB296"
+    },
+    {
+      "id": 3667,
+      "bank": "STATE BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBT45"
+    },
+    {
+      "id": 3668,
+      "bank": "STATE BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB129"
+    },
+    {
+      "id": 3669,
+      "bank": "STATE BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(SME TIRUPUR)",
+      "swift_code": "SBININBB849"
+    },
+    {
+      "id": 3840,
+      "bank": "SYNDICATE BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR BRANCH)",
+      "swift_code": "SYNBINBB147"
+    },
+    {
+      "id": 3936,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "TIRUPPUR",
+      "branch": "(THIRUPUR MAIN)",
+      "swift_code": "SOININ55083"
+    },
+    {
+      "id": 3937,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR OVERSEAS BRANCH)",
+      "swift_code": "SOININ55338"
+    },
+    {
+      "id": 4027,
+      "bank": "UCO BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR BRANCH)",
+      "swift_code": "UCBAINBB320"
+    },
+    {
+      "id": 4127,
+      "bank": "UNION BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPPUR BRANCH)",
+      "swift_code": "UBININBBTRP"
+    },
+    {
+      "id": 4174,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR)",
+      "swift_code": "UTBIINBBTRP"
+    },
+    {
+      "id": 4248,
+      "bank": "VIJAYA BANK",
+      "city": "TIRUPPUR",
+      "branch": "(TIRUPUR BRANCH)",
+      "swift_code": "VIJBINBBTPR"
+    }
+  ],
+  "meta": {
+    "title": "Tiruppur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Tiruppur, India. Subset of hi-bank. Source city string preserved verbatim as \"TIRUPPUR\". शामिल हैं 38 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Tiruppur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Tiruppur में बैंक — SWIFT/BIC कोड — 38 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 38 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

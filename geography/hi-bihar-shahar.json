@@ -1,0 +1,6516 @@
+{
+  "id": "hi-bihar-shahar",
+  "name": "बिहार के शहर (Bihar Cities)",
+  "title": "बिहार के शहर (Bihar Cities)",
+  "description": "बिहार राज्य के 645 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 645 cities and towns in Bihar, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 645,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adapur",
+      "name_lower": "adapur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.95,
+      "longitude": 84.966667
+    },
+    {
+      "name": "Agiaon",
+      "name_lower": "agiaon",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 84.616667
+    },
+    {
+      "name": "Akorha",
+      "name_lower": "akorha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.766667,
+      "longitude": 84.183333
+    },
+    {
+      "name": "Amas",
+      "name_lower": "amas",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.633333,
+      "longitude": 84.65
+    },
+    {
+      "name": "Amhara",
+      "name_lower": "amhara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 87.316667
+    },
+    {
+      "name": "Amour",
+      "name_lower": "amour",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 87.716667
+    },
+    {
+      "name": "Amwa Majhar",
+      "name_lower": "amwa majhar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 84.583333
+    },
+    {
+      "name": "Andhra Tharhi",
+      "name_lower": "andhra tharhi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 86.333333
+    },
+    {
+      "name": "Andhra Thari",
+      "name_lower": "andhra thari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 86.333333
+    },
+    {
+      "name": "Anjorpur",
+      "name_lower": "anjorpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 84.05
+    },
+    {
+      "name": "Ara",
+      "name_lower": "ara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 223700,
+      "latitude": 25.566667,
+      "longitude": 84.666667
+    },
+    {
+      "name": "Arai",
+      "name_lower": "arai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 85.316667
+    },
+    {
+      "name": "Araria",
+      "name_lower": "araria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 67482,
+      "latitude": 26.15,
+      "longitude": 87.516667
+    },
+    {
+      "name": "Ariawan",
+      "name_lower": "ariawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 84.2
+    },
+    {
+      "name": "Arrah",
+      "name_lower": "arrah",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.566667,
+      "longitude": 84.666667
+    },
+    {
+      "name": "Arwal",
+      "name_lower": "arwal",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 84.683333
+    },
+    {
+      "name": "Asarganj",
+      "name_lower": "asarganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 6020,
+      "latitude": 25.15,
+      "longitude": 86.683333
+    },
+    {
+      "name": "Asna",
+      "name_lower": "asna",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 83.5
+    },
+    {
+      "name": "Asthanwan",
+      "name_lower": "asthanwan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.216667,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Athmalgola",
+      "name_lower": "athmalgola",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Azamnagar",
+      "name_lower": "azamnagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.55,
+      "longitude": 87.833333
+    },
+    {
+      "name": "Azmatgani",
+      "name_lower": "azmatgani",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.816667,
+      "longitude": 84.85
+    },
+    {
+      "name": "Azmatganj",
+      "name_lower": "azmatganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.816667,
+      "longitude": 84.85
+    },
+    {
+      "name": "Babhnoul",
+      "name_lower": "babhnoul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 84.216667
+    },
+    {
+      "name": "Bachauli",
+      "name_lower": "bachauli",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.816667,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Bachhwara",
+      "name_lower": "bachhwara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 85.9
+    },
+    {
+      "name": "Bachwara",
+      "name_lower": "bachwara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 85.9
+    },
+    {
+      "name": "Badahpur",
+      "name_lower": "badahpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.883333,
+      "longitude": 85.116667
+    },
+    {
+      "name": "Badi",
+      "name_lower": "badi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 85.6
+    },
+    {
+      "name": "Bagaha",
+      "name_lower": "bagaha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 103866,
+      "latitude": 27.1,
+      "longitude": 84.083333
+    },
+    {
+      "name": "Bagsoti",
+      "name_lower": "bagsoti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.5,
+      "longitude": 84.9
+    },
+    {
+      "name": "Bahadurganj",
+      "name_lower": "bahadurganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 31408,
+      "latitude": 26.266667,
+      "longitude": 87.816667
+    },
+    {
+      "name": "Bahera",
+      "name_lower": "bahera",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.083333,
+      "longitude": 86.15
+    },
+    {
+      "name": "Baijla",
+      "name_lower": "baijla",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 86.45
+    },
+    {
+      "name": "Baikuntbpur",
+      "name_lower": "baikuntbpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.3,
+      "longitude": 84.783333
+    },
+    {
+      "name": "Bairagnia",
+      "name_lower": "bairagnia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.75,
+      "longitude": 85.283333
+    },
+    {
+      "name": "Bairiya Saphi",
+      "name_lower": "bairiya saphi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 84.283333
+    },
+    {
+      "name": "Baisakhi",
+      "name_lower": "baisakhi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 84.383333
+    },
+    {
+      "name": "Baisi",
+      "name_lower": "baisi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.866667,
+      "longitude": 87.75
+    },
+    {
+      "name": "Bakhra",
+      "name_lower": "bakhra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 85.1
+    },
+    {
+      "name": "Bakhri",
+      "name_lower": "bakhri",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Bakhri Bazar",
+      "name_lower": "bakhri bazar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Bakhtiyarpur",
+      "name_lower": "bakhtiyarpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 34537,
+      "latitude": 25.466667,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Baligaon",
+      "name_lower": "baligaon",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.416667,
+      "longitude": 84.483333
+    },
+    {
+      "name": "Bamdah",
+      "name_lower": "bamdah",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 86.4
+    },
+    {
+      "name": "Banka",
+      "name_lower": "banka",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 38943,
+      "latitude": 24.883333,
+      "longitude": 86.916667
+    },
+    {
+      "name": "Bankipore",
+      "name_lower": "bankipore",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 85.15
+    },
+    {
+      "name": "Bankipur",
+      "name_lower": "bankipur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 85.15
+    },
+    {
+      "name": "Banmankhi",
+      "name_lower": "banmankhi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 26809,
+      "latitude": 25.883333,
+      "longitude": 87.183333
+    },
+    {
+      "name": "Banmanki",
+      "name_lower": "banmanki",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.883333,
+      "longitude": 87.183333
+    },
+    {
+      "name": "Bansdih",
+      "name_lower": "bansdih",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 21459,
+      "latitude": 25.883333,
+      "longitude": 84.216667
+    },
+    {
+      "name": "Bar Bigha",
+      "name_lower": "bar bigha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 41763,
+      "latitude": 25.216667,
+      "longitude": 85.733333
+    },
+    {
+      "name": "Barachati",
+      "name_lower": "barachati",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.516667,
+      "longitude": 85.016667
+    },
+    {
+      "name": "Barachatti",
+      "name_lower": "barachatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.516667,
+      "longitude": 85.016667
+    },
+    {
+      "name": "Barahara",
+      "name_lower": "barahara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 87.1
+    },
+    {
+      "name": "Barahri",
+      "name_lower": "barahri",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.15,
+      "longitude": 84.016667
+    },
+    {
+      "name": "Barani",
+      "name_lower": "barani",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 85.983333
+    },
+    {
+      "name": "Barari",
+      "name_lower": "barari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.266667,
+      "longitude": 87.033333
+    },
+    {
+      "name": "Barathpura",
+      "name_lower": "barathpura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 84.85
+    },
+    {
+      "name": "Bare",
+      "name_lower": "bare",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.1,
+      "longitude": 83.616667
+    },
+    {
+      "name": "Barew",
+      "name_lower": "barew",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.833333,
+      "longitude": 85.55
+    },
+    {
+      "name": "Barh",
+      "name_lower": "barh",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 49562,
+      "latitude": 25.483333,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Barhampur",
+      "name_lower": "barhampur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 84.3
+    },
+    {
+      "name": "Barhampura",
+      "name_lower": "barhampura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.3,
+      "longitude": 85.75
+    },
+    {
+      "name": "Barharia",
+      "name_lower": "barharia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 84.45
+    },
+    {
+      "name": "Barhat",
+      "name_lower": "barhat",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25,
+      "longitude": 86.283333
+    },
+    {
+      "name": "Barhiya",
+      "name_lower": "barhiya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 43049,
+      "latitude": 25.283333,
+      "longitude": 86.033333
+    },
+    {
+      "name": "Bariarpur",
+      "name_lower": "bariarpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 86.583333
+    },
+    {
+      "name": "Barka Gaon",
+      "name_lower": "barka gaon",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.416667,
+      "longitude": 84.25
+    },
+    {
+      "name": "Barka Katra",
+      "name_lower": "barka katra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 83.766667
+    },
+    {
+      "name": "Barsoi",
+      "name_lower": "barsoi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 87.916667
+    },
+    {
+      "name": "Baruari",
+      "name_lower": "baruari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 86.583333
+    },
+    {
+      "name": "Baruin",
+      "name_lower": "baruin",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.35,
+      "longitude": 83.55
+    },
+    {
+      "name": "Barun",
+      "name_lower": "barun",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 84.216667
+    },
+    {
+      "name": "Baruni",
+      "name_lower": "baruni",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 84889,
+      "latitude": 25.483333,
+      "longitude": 85.983333
+    },
+    {
+      "name": "Basah",
+      "name_lower": "basah",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.116667,
+      "longitude": 83.8
+    },
+    {
+      "name": "Basauni",
+      "name_lower": "basauni",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.233333,
+      "longitude": 86.383333
+    },
+    {
+      "name": "Basopati Bazar",
+      "name_lower": "basopati bazar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 86.016667
+    },
+    {
+      "name": "Basopatti",
+      "name_lower": "basopatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 86.016667
+    },
+    {
+      "name": "Bathnaha",
+      "name_lower": "bathnaha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.35,
+      "longitude": 87.233333
+    },
+    {
+      "name": "Bathnaha Jujharpatti",
+      "name_lower": "bathnaha jujharpatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.65,
+      "longitude": 85.583333
+    },
+    {
+      "name": "Batia",
+      "name_lower": "batia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 86.35
+    },
+    {
+      "name": "Baudha",
+      "name_lower": "baudha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.7,
+      "longitude": 84.75
+    },
+    {
+      "name": "Bauraha",
+      "name_lower": "bauraha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.566667,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Bausi",
+      "name_lower": "bausi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.8,
+      "longitude": 87.016667
+    },
+    {
+      "name": "Bazidpur",
+      "name_lower": "bazidpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 85.783333
+    },
+    {
+      "name": "Begusarai",
+      "name_lower": "begusarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 103071,
+      "latitude": 25.416667,
+      "longitude": 86.133333
+    },
+    {
+      "name": "Behar",
+      "name_lower": "behar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Bela Muchhpakauni",
+      "name_lower": "bela muchhpakauni",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 85.733333
+    },
+    {
+      "name": "Belahi",
+      "name_lower": "belahi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 86.4
+    },
+    {
+      "name": "Belhar",
+      "name_lower": "belhar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 86.6
+    },
+    {
+      "name": "Belkhara Khas",
+      "name_lower": "belkhara khas",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.15,
+      "longitude": 84.616667
+    },
+    {
+      "name": "Belsand",
+      "name_lower": "belsand",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 19398,
+      "latitude": 26.45,
+      "longitude": 85.4
+    },
+    {
+      "name": "Benibari",
+      "name_lower": "benibari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 87.8
+    },
+    {
+      "name": "Benipati",
+      "name_lower": "benipati",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 85.916667
+    },
+    {
+      "name": "Benipatti",
+      "name_lower": "benipatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 85.916667
+    },
+    {
+      "name": "Benwalia",
+      "name_lower": "benwalia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 84.516667
+    },
+    {
+      "name": "Benwaliya",
+      "name_lower": "benwaliya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 84.516667
+    },
+    {
+      "name": "Bettiah",
+      "name_lower": "bettiah",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 127022,
+      "latitude": 26.8,
+      "longitude": 84.5
+    },
+    {
+      "name": "Bhabua",
+      "name_lower": "bhabua",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 48646,
+      "latitude": 25.05,
+      "longitude": 83.616667
+    },
+    {
+      "name": "Bhadasi",
+      "name_lower": "bhadasi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.216667,
+      "longitude": 84.7
+    },
+    {
+      "name": "Bhaduar",
+      "name_lower": "bhaduar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.333333,
+      "longitude": 86.283333
+    },
+    {
+      "name": "Bhaptiahi",
+      "name_lower": "bhaptiahi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 86.733333
+    },
+    {
+      "name": "Bharko",
+      "name_lower": "bharko",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25,
+      "longitude": 86.866667
+    },
+    {
+      "name": "Bhaunra",
+      "name_lower": "bhaunra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.016667,
+      "longitude": 84.65
+    },
+    {
+      "name": "Bhawanipur Rajdham",
+      "name_lower": "bhawanipur rajdham",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.65,
+      "longitude": 87.133333
+    },
+    {
+      "name": "Bheja",
+      "name_lower": "bheja",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 86.4
+    },
+    {
+      "name": "Bheldi",
+      "name_lower": "bheldi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.9,
+      "longitude": 84.95
+    },
+    {
+      "name": "Bhelwa",
+      "name_lower": "bhelwa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.816667,
+      "longitude": 86.6
+    },
+    {
+      "name": "Bhikhna Thori",
+      "name_lower": "bhikhna thori",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.333333,
+      "longitude": 84.616667
+    },
+    {
+      "name": "Bhikna Thoree",
+      "name_lower": "bhikna thoree",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.333333,
+      "longitude": 84.616667
+    },
+    {
+      "name": "Bhitia",
+      "name_lower": "bhitia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 86.733333
+    },
+    {
+      "name": "Bhojpur Kadim",
+      "name_lower": "bhojpur kadim",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 84.133333
+    },
+    {
+      "name": "Bhore",
+      "name_lower": "bhore",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 84.116667
+    },
+    {
+      "name": "Bihar Sharif",
+      "name_lower": "bihar sharif",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Bihariganj",
+      "name_lower": "bihariganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 32806,
+      "latitude": 25.733333,
+      "longitude": 86.983333
+    },
+    {
+      "name": "Bihpur",
+      "name_lower": "bihpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.383333,
+      "longitude": 86.933333
+    },
+    {
+      "name": "Bihta",
+      "name_lower": "bihta",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.55,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Bikram",
+      "name_lower": "bikram",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Bikramganj",
+      "name_lower": "bikramganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 42631,
+      "latitude": 25.2,
+      "longitude": 84.25
+    },
+    {
+      "name": "Bind",
+      "name_lower": "bind",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 85.7
+    },
+    {
+      "name": "Birpur",
+      "name_lower": "birpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 18970,
+      "latitude": 26.516667,
+      "longitude": 87.016667
+    },
+    {
+      "name": "Bishunpur Sundar",
+      "name_lower": "bishunpur sundar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 86.983333
+    },
+    {
+      "name": "Bodh Gaya",
+      "name_lower": "bodh gaya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 35192,
+      "latitude": 24.7,
+      "longitude": 84.983333
+    },
+    {
+      "name": "Brahma Kund",
+      "name_lower": "brahma kund",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 84.966667
+    },
+    {
+      "name": "Buddh Gaya",
+      "name_lower": "buddh gaya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.7,
+      "longitude": 84.983333
+    },
+    {
+      "name": "Buddha Gaya",
+      "name_lower": "buddha gaya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.7,
+      "longitude": 84.983333
+    },
+    {
+      "name": "Buxar",
+      "name_lower": "buxar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 96130,
+      "latitude": 25.583333,
+      "longitude": 83.983333
+    },
+    {
+      "name": "Chak Sikandar",
+      "name_lower": "chak sikandar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 85.35
+    },
+    {
+      "name": "Chakai",
+      "name_lower": "chakai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.55,
+      "longitude": 86.383333
+    },
+    {
+      "name": "Chakand",
+      "name_lower": "chakand",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.883333,
+      "longitude": 84.983333
+    },
+    {
+      "name": "Champanagar",
+      "name_lower": "champanagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.9,
+      "longitude": 87.333333
+    },
+    {
+      "name": "Champapur",
+      "name_lower": "champapur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.9,
+      "longitude": 84.85
+    },
+    {
+      "name": "Chanari",
+      "name_lower": "chanari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 83.8
+    },
+    {
+      "name": "Chandan",
+      "name_lower": "chandan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.633333,
+      "longitude": 86.666667
+    },
+    {
+      "name": "Chandi",
+      "name_lower": "chandi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 85.4
+    },
+    {
+      "name": "Charaut",
+      "name_lower": "charaut",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.533333,
+      "longitude": 85.8
+    },
+    {
+      "name": "Chatia",
+      "name_lower": "chatia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.533333,
+      "longitude": 84.566667
+    },
+    {
+      "name": "Chaugain",
+      "name_lower": "chaugain",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 84.233333
+    },
+    {
+      "name": "Chausa",
+      "name_lower": "chausa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 83.9
+    },
+    {
+      "name": "Chautham",
+      "name_lower": "chautham",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 86.65
+    },
+    {
+      "name": "Cheraiya",
+      "name_lower": "cheraiya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 86.133333
+    },
+    {
+      "name": "Chewara",
+      "name_lower": "chewara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 85.933333
+    },
+    {
+      "name": "Chhatapur",
+      "name_lower": "chhatapur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 23425,
+      "latitude": 26.216667,
+      "longitude": 87.016667
+    },
+    {
+      "name": "Chhaura",
+      "name_lower": "chhaura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.516667,
+      "longitude": 84.95
+    },
+    {
+      "name": "Chilhar",
+      "name_lower": "chilhar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.416667,
+      "longitude": 83.983333
+    },
+    {
+      "name": "Chitaon",
+      "name_lower": "chitaon",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 83.983333
+    },
+    {
+      "name": "Chupra",
+      "name_lower": "chupra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 84.75
+    },
+    {
+      "name": "Colgong",
+      "name_lower": "colgong",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 24081,
+      "latitude": 25.266667,
+      "longitude": 87.216667
+    },
+    {
+      "name": "Dagmara",
+      "name_lower": "dagmara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.4,
+      "longitude": 86.75
+    },
+    {
+      "name": "Dalan Chapra",
+      "name_lower": "dalan chapra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.716667,
+      "longitude": 84.516667
+    },
+    {
+      "name": "Dalmianagar",
+      "name_lower": "dalmianagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.883333,
+      "longitude": 84.15
+    },
+    {
+      "name": "Dalsingh Sarai",
+      "name_lower": "dalsingh sarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 21613,
+      "latitude": 25.666667,
+      "longitude": 85.833333
+    },
+    {
+      "name": "Dalsingh-Sari",
+      "name_lower": "dalsingh-sari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.666667,
+      "longitude": 85.833333
+    },
+    {
+      "name": "Danapur",
+      "name_lower": "danapur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 85.05
+    },
+    {
+      "name": "Dangraha",
+      "name_lower": "dangraha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 87.1
+    },
+    {
+      "name": "Daniawan",
+      "name_lower": "daniawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 85.316667
+    },
+    {
+      "name": "Darbhanga",
+      "name_lower": "darbhanga",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 287180,
+      "latitude": 26.166667,
+      "longitude": 85.9
+    },
+    {
+      "name": "Dariaura",
+      "name_lower": "dariaura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Darigawan",
+      "name_lower": "darigawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.883333,
+      "longitude": 83.95
+    },
+    {
+      "name": "Darkha",
+      "name_lower": "darkha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.95,
+      "longitude": 85.933333
+    },
+    {
+      "name": "Daudnagar",
+      "name_lower": "daudnagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 41240,
+      "latitude": 25.033333,
+      "longitude": 84.4
+    },
+    {
+      "name": "Debahalia",
+      "name_lower": "debahalia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.266667,
+      "longitude": 83.566667
+    },
+    {
+      "name": "Dehm",
+      "name_lower": "dehm",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 84.183333
+    },
+    {
+      "name": "Deo",
+      "name_lower": "deo",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 84.433333
+    },
+    {
+      "name": "Deodha",
+      "name_lower": "deodha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 86.1
+    },
+    {
+      "name": "Deodha Bhadaur",
+      "name_lower": "deodha bhadaur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 86.1
+    },
+    {
+      "name": "Deohara",
+      "name_lower": "deohara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25,
+      "longitude": 84.583333
+    },
+    {
+      "name": "Deshiatoli",
+      "name_lower": "deshiatoli",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.25,
+      "longitude": 87.916667
+    },
+    {
+      "name": "Desri",
+      "name_lower": "desri",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 86
+    },
+    {
+      "name": "Dewal",
+      "name_lower": "dewal",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 83.766667
+    },
+    {
+      "name": "Dhaka",
+      "name_lower": "dhaka",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 36115,
+      "latitude": 26.683333,
+      "longitude": 85.166667
+    },
+    {
+      "name": "Dhamaul",
+      "name_lower": "dhamaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 85.833333
+    },
+    {
+      "name": "Dhamdaha",
+      "name_lower": "dhamdaha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 87.183333
+    },
+    {
+      "name": "Dhamhara Ghat",
+      "name_lower": "dhamhara ghat",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 86.583333
+    },
+    {
+      "name": "Dhaneshari",
+      "name_lower": "dhaneshari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 87.133333
+    },
+    {
+      "name": "Dhankundia",
+      "name_lower": "dhankundia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 86.733333
+    },
+    {
+      "name": "Dhansoi",
+      "name_lower": "dhansoi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 84.016667
+    },
+    {
+      "name": "Dharhara",
+      "name_lower": "dharhara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 86.4
+    },
+    {
+      "name": "Diawan",
+      "name_lower": "diawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.383333,
+      "longitude": 85.266667
+    },
+    {
+      "name": "Digha",
+      "name_lower": "digha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.65,
+      "longitude": 85.083333
+    },
+    {
+      "name": "Dighalbank",
+      "name_lower": "dighalbank",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 87.833333
+    },
+    {
+      "name": "Dighi",
+      "name_lower": "dighi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Dighwara",
+      "name_lower": "dighwara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 29273,
+      "latitude": 25.733333,
+      "longitude": 85
+    },
+    {
+      "name": "Dihar",
+      "name_lower": "dihar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.983333,
+      "longitude": 84.316667
+    },
+    {
+      "name": "Dihra",
+      "name_lower": "dihra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.983333,
+      "longitude": 84.316667
+    },
+    {
+      "name": "Dinapore",
+      "name_lower": "dinapore",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 85.05
+    },
+    {
+      "name": "Dinara",
+      "name_lower": "dinara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 84.066667
+    },
+    {
+      "name": "Dipnagar",
+      "name_lower": "dipnagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.166667,
+      "longitude": 85.483333
+    },
+    {
+      "name": "Diwaitha",
+      "name_lower": "diwaitha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 83.65
+    },
+    {
+      "name": "Doriganj",
+      "name_lower": "doriganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 84.833333
+    },
+    {
+      "name": "Dulampur",
+      "name_lower": "dulampur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.4,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Dumaria",
+      "name_lower": "dumaria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 84.383333
+    },
+    {
+      "name": "Dumra",
+      "name_lower": "dumra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 15780,
+      "latitude": 26.566667,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Dumraon",
+      "name_lower": "dumraon",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 50529,
+      "latitude": 25.55,
+      "longitude": 84.15
+    },
+    {
+      "name": "Dumri Chatti",
+      "name_lower": "dumri chatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.616667,
+      "longitude": 85.233333
+    },
+    {
+      "name": "Dumrl Chatti",
+      "name_lower": "dumrl chatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.616667,
+      "longitude": 85.233333
+    },
+    {
+      "name": "Durgauti",
+      "name_lower": "durgauti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.216667,
+      "longitude": 83.516667
+    },
+    {
+      "name": "Durjanpur",
+      "name_lower": "durjanpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 84.4
+    },
+    {
+      "name": "Ekangar Sarai",
+      "name_lower": "ekangar sarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.216667,
+      "longitude": 85.233333
+    },
+    {
+      "name": "Ekchari",
+      "name_lower": "ekchari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 87.216667
+    },
+    {
+      "name": "Ekdari",
+      "name_lower": "ekdari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 85
+    },
+    {
+      "name": "Ekwari",
+      "name_lower": "ekwari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.283333,
+      "longitude": 84.583333
+    },
+    {
+      "name": "Ewati",
+      "name_lower": "ewati",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 83.766667
+    },
+    {
+      "name": "Fakhrabad",
+      "name_lower": "fakhrabad",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 83.5
+    },
+    {
+      "name": "Fatehpur Shahbaz",
+      "name_lower": "fatehpur shahbaz",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.566667,
+      "longitude": 85.333333
+    },
+    {
+      "name": "Fatwa",
+      "name_lower": "fatwa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 41652,
+      "latitude": 25.516667,
+      "longitude": 85.316667
+    },
+    {
+      "name": "Forbesganj",
+      "name_lower": "forbesganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 45103,
+      "latitude": 26.3,
+      "longitude": 87.25
+    },
+    {
+      "name": "Gahmar",
+      "name_lower": "gahmar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 83.8
+    },
+    {
+      "name": "Gajar",
+      "name_lower": "gajar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.816667,
+      "longitude": 87.033333
+    },
+    {
+      "name": "Garhani",
+      "name_lower": "garhani",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.416667,
+      "longitude": 84.55
+    },
+    {
+      "name": "Garibpur",
+      "name_lower": "garibpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.1,
+      "longitude": 86.833333
+    },
+    {
+      "name": "Garkha",
+      "name_lower": "garkha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Gaupur",
+      "name_lower": "gaupur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 85.683333
+    },
+    {
+      "name": "Gawnaha",
+      "name_lower": "gawnaha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.266667,
+      "longitude": 84.516667
+    },
+    {
+      "name": "Gaya",
+      "name_lower": "gaya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 423737,
+      "latitude": 24.783333,
+      "longitude": 85
+    },
+    {
+      "name": "Gherasahan",
+      "name_lower": "gherasahan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 85.133333
+    },
+    {
+      "name": "Ghoga",
+      "name_lower": "ghoga",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.216667,
+      "longitude": 87.166667
+    },
+    {
+      "name": "Ghogardiha",
+      "name_lower": "ghogardiha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 86.466667
+    },
+    {
+      "name": "Ghorasahan",
+      "name_lower": "ghorasahan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 85.133333
+    },
+    {
+      "name": "Ghurna",
+      "name_lower": "ghurna",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 87.083333
+    },
+    {
+      "name": "Ghusiya",
+      "name_lower": "ghusiya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 84.25
+    },
+    {
+      "name": "Ghusiya Kalan",
+      "name_lower": "ghusiya kalan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 84.25
+    },
+    {
+      "name": "Giriak",
+      "name_lower": "giriak",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Gobardhana",
+      "name_lower": "gobardhana",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.316667,
+      "longitude": 84.316667
+    },
+    {
+      "name": "Gobindganj",
+      "name_lower": "gobindganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.483333,
+      "longitude": 84.65
+    },
+    {
+      "name": "Goh",
+      "name_lower": "goh",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.983333,
+      "longitude": 84.65
+    },
+    {
+      "name": "Gonawam",
+      "name_lower": "gonawam",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Gonawan",
+      "name_lower": "gonawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Goraul",
+      "name_lower": "goraul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.933333,
+      "longitude": 85.333333
+    },
+    {
+      "name": "Goraur",
+      "name_lower": "goraur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 85.333333
+    },
+    {
+      "name": "Gulzarbagh",
+      "name_lower": "gulzarbagh",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 85.2
+    },
+    {
+      "name": "Gunjrauliya",
+      "name_lower": "gunjrauliya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 84.566667
+    },
+    {
+      "name": "Gunri",
+      "name_lower": "gunri",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.65,
+      "longitude": 84.633333
+    },
+    {
+      "name": "Gurua",
+      "name_lower": "gurua",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.666667,
+      "longitude": 84.766667
+    },
+    {
+      "name": "Habibnagar",
+      "name_lower": "habibnagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 84.316667
+    },
+    {
+      "name": "Hafiz Saifganj",
+      "name_lower": "hafiz saifganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 87.583333
+    },
+    {
+      "name": "Hajipur",
+      "name_lower": "hajipur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 133621,
+      "latitude": 25.683333,
+      "longitude": 85.216667
+    },
+    {
+      "name": "Haldikhora",
+      "name_lower": "haldikhora",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.2,
+      "longitude": 87.733333
+    },
+    {
+      "name": "Halimpur",
+      "name_lower": "halimpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 85.566667
+    },
+    {
+      "name": "Halsi",
+      "name_lower": "halsi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 86.033333
+    },
+    {
+      "name": "Hamidnagar",
+      "name_lower": "hamidnagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.05,
+      "longitude": 84.633333
+    },
+    {
+      "name": "Hanspura",
+      "name_lower": "hanspura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.066667,
+      "longitude": 84.55
+    },
+    {
+      "name": "Hanti",
+      "name_lower": "hanti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.933333,
+      "longitude": 86.25
+    },
+    {
+      "name": "Hardi",
+      "name_lower": "hardi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 85.116667
+    },
+    {
+      "name": "Harlakhi",
+      "name_lower": "harlakhi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 85.983333
+    },
+    {
+      "name": "Harnatanr",
+      "name_lower": "harnatanr",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.316667,
+      "longitude": 84.016667
+    },
+    {
+      "name": "Harnaut",
+      "name_lower": "harnaut",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Hathwa",
+      "name_lower": "hathwa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 84.3
+    },
+    {
+      "name": "Hazrat Jandaha",
+      "name_lower": "hazrat jandaha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.716667,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Hetampur",
+      "name_lower": "hetampur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 84.4
+    },
+    {
+      "name": "Hilsa",
+      "name_lower": "hilsa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 41115,
+      "latitude": 25.316667,
+      "longitude": 85.283333
+    },
+    {
+      "name": "Hisua",
+      "name_lower": "hisua",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 27946,
+      "latitude": 24.833333,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Hulasganj",
+      "name_lower": "hulasganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 85.15
+    },
+    {
+      "name": "Husepur",
+      "name_lower": "husepur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 84.166667
+    },
+    {
+      "name": "Ikhlaspur",
+      "name_lower": "ikhlaspur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.05,
+      "longitude": 83.6
+    },
+    {
+      "name": "Imamganj",
+      "name_lower": "imamganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.466667,
+      "longitude": 84.583333
+    },
+    {
+      "name": "Islampur",
+      "name_lower": "islampur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 31879,
+      "latitude": 25.15,
+      "longitude": 85.2
+    },
+    {
+      "name": "Jahangira",
+      "name_lower": "jahangira",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 86.716667
+    },
+    {
+      "name": "Jahangirpur Pirthi",
+      "name_lower": "jahangirpur pirthi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 85.266667
+    },
+    {
+      "name": "Jaipur",
+      "name_lower": "jaipur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.583333,
+      "longitude": 86.85
+    },
+    {
+      "name": "Jaitiya",
+      "name_lower": "jaitiya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.9,
+      "longitude": 84.65
+    },
+    {
+      "name": "Jakhim",
+      "name_lower": "jakhim",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.833333,
+      "longitude": 84.55
+    },
+    {
+      "name": "Jalalgarh",
+      "name_lower": "jalalgarh",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 87.533333
+    },
+    {
+      "name": "Jale",
+      "name_lower": "jale",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 85.733333
+    },
+    {
+      "name": "Jamdaha",
+      "name_lower": "jamdaha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 86.9
+    },
+    {
+      "name": "Jamo",
+      "name_lower": "jamo",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 84.566667
+    },
+    {
+      "name": "Jamui",
+      "name_lower": "jamui",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 78189,
+      "latitude": 24.916667,
+      "longitude": 86.216667
+    },
+    {
+      "name": "Janakpur Road",
+      "name_lower": "janakpur road",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 15071,
+      "latitude": 26.483333,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Jayanagar",
+      "name_lower": "jayanagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 86.15
+    },
+    {
+      "name": "Jaynagar",
+      "name_lower": "jaynagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 20498,
+      "latitude": 26.583333,
+      "longitude": 86.15
+    },
+    {
+      "name": "Jaypur",
+      "name_lower": "jaypur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.583333,
+      "longitude": 86.85
+    },
+    {
+      "name": "Jha Jha",
+      "name_lower": "jha jha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 38628,
+      "latitude": 24.766667,
+      "longitude": 86.366667
+    },
+    {
+      "name": "Jhanjharpur",
+      "name_lower": "jhanjharpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 31323,
+      "latitude": 26.266667,
+      "longitude": 86.283333
+    },
+    {
+      "name": "Jiwdhara",
+      "name_lower": "jiwdhara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 84.916667
+    },
+    {
+      "name": "Jogapari",
+      "name_lower": "jogapari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.883333,
+      "longitude": 84.333333
+    },
+    {
+      "name": "Jogapatti",
+      "name_lower": "jogapatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.883333,
+      "longitude": 84.333333
+    },
+    {
+      "name": "Jogbani",
+      "name_lower": "jogbani",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 33303,
+      "latitude": 26.416667,
+      "longitude": 87.25
+    },
+    {
+      "name": "Jogiara",
+      "name_lower": "jogiara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.416667,
+      "longitude": 85.75
+    },
+    {
+      "name": "Joki Hat",
+      "name_lower": "joki hat",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 87.616667
+    },
+    {
+      "name": "Kab",
+      "name_lower": "kab",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.383333,
+      "longitude": 84.783333
+    },
+    {
+      "name": "Kako",
+      "name_lower": "kako",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.216667,
+      "longitude": 85.083333
+    },
+    {
+      "name": "Kaliaganj",
+      "name_lower": "kaliaganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 87.616667
+    },
+    {
+      "name": "Kamalpur",
+      "name_lower": "kamalpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.083333,
+      "longitude": 87.3
+    },
+    {
+      "name": "Kamarpur",
+      "name_lower": "kamarpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.55,
+      "longitude": 83.95
+    },
+    {
+      "name": "Kamat",
+      "name_lower": "kamat",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 84.816667
+    },
+    {
+      "name": "Kamriaon",
+      "name_lower": "kamriaon",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 84.366667
+    },
+    {
+      "name": "Kamtaul",
+      "name_lower": "kamtaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.35,
+      "longitude": 85.833333
+    },
+    {
+      "name": "Kanharia",
+      "name_lower": "kanharia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 87.7
+    },
+    {
+      "name": "Kantai",
+      "name_lower": "kantai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 85.3
+    },
+    {
+      "name": "Karagola",
+      "name_lower": "karagola",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.433333,
+      "longitude": 87.4
+    },
+    {
+      "name": "Karangarh",
+      "name_lower": "karangarh",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 86.466667
+    },
+    {
+      "name": "Karghar",
+      "name_lower": "karghar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.15,
+      "longitude": 83.933333
+    },
+    {
+      "name": "Karian",
+      "name_lower": "karian",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.866667,
+      "longitude": 86.016667
+    },
+    {
+      "name": "Karpi",
+      "name_lower": "karpi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.15,
+      "longitude": 84.716667
+    },
+    {
+      "name": "Karwandia",
+      "name_lower": "karwandia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.95,
+      "longitude": 84.083333
+    },
+    {
+      "name": "Karwandiya",
+      "name_lower": "karwandiya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.95,
+      "longitude": 84.083333
+    },
+    {
+      "name": "Kasba",
+      "name_lower": "kasba",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 26940,
+      "latitude": 25.85,
+      "longitude": 87.55
+    },
+    {
+      "name": "Kasba Maker",
+      "name_lower": "kasba maker",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 85.05
+    },
+    {
+      "name": "Katea",
+      "name_lower": "katea",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 84.083333
+    },
+    {
+      "name": "Kathar",
+      "name_lower": "kathar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 84.2
+    },
+    {
+      "name": "Katihar",
+      "name_lower": "katihar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 192575,
+      "latitude": 25.533333,
+      "longitude": 87.583333
+    },
+    {
+      "name": "Katuria",
+      "name_lower": "katuria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.733333,
+      "longitude": 86.716667
+    },
+    {
+      "name": "Kaua Kol",
+      "name_lower": "kaua kol",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 85.883333
+    },
+    {
+      "name": "Kesariya",
+      "name_lower": "kesariya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Khagaria",
+      "name_lower": "khagaria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 49988,
+      "latitude": 25.5,
+      "longitude": 86.483333
+    },
+    {
+      "name": "Khagaul",
+      "name_lower": "khagaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 51583,
+      "latitude": 25.583333,
+      "longitude": 85.05
+    },
+    {
+      "name": "Khaira Tela",
+      "name_lower": "khaira tela",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.9,
+      "longitude": 84.133333
+    },
+    {
+      "name": "Khaira Tola",
+      "name_lower": "khaira tola",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.9,
+      "longitude": 84.133333
+    },
+    {
+      "name": "Khairwa",
+      "name_lower": "khairwa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.95,
+      "longitude": 86.233333
+    },
+    {
+      "name": "Kharagpur",
+      "name_lower": "kharagpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 27495,
+      "latitude": 25.116667,
+      "longitude": 86.55
+    },
+    {
+      "name": "Kharhana",
+      "name_lower": "kharhana",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.066667,
+      "longitude": 83.883333
+    },
+    {
+      "name": "Kharik",
+      "name_lower": "kharik",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 87
+    },
+    {
+      "name": "Kheria",
+      "name_lower": "kheria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.433333,
+      "longitude": 87.25
+    },
+    {
+      "name": "Khidar Saray",
+      "name_lower": "khidar saray",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 85.1
+    },
+    {
+      "name": "Khirhar",
+      "name_lower": "khirhar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.516667,
+      "longitude": 85.966667
+    },
+    {
+      "name": "Khizr Sarai",
+      "name_lower": "khizr sarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 85.1
+    },
+    {
+      "name": "Khokhaha",
+      "name_lower": "khokhaha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 86.533333
+    },
+    {
+      "name": "Khurmabad",
+      "name_lower": "khurmabad",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.016667,
+      "longitude": 83.833333
+    },
+    {
+      "name": "Khusropur",
+      "name_lower": "khusropur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 85.383333
+    },
+    {
+      "name": "Khutauna",
+      "name_lower": "khutauna",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.5,
+      "longitude": 86.4
+    },
+    {
+      "name": "Khutia",
+      "name_lower": "khutia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 86.55
+    },
+    {
+      "name": "Kiajori",
+      "name_lower": "kiajori",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.516667,
+      "longitude": 86.45
+    },
+    {
+      "name": "Kinjar",
+      "name_lower": "kinjar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.216667,
+      "longitude": 84.833333
+    },
+    {
+      "name": "Kishanganj",
+      "name_lower": "kishanganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 86.95
+    },
+    {
+      "name": "Kiul",
+      "name_lower": "kiul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.15,
+      "longitude": 86.1
+    },
+    {
+      "name": "Koath",
+      "name_lower": "koath",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 16727,
+      "latitude": 25.316667,
+      "longitude": 84.266667
+    },
+    {
+      "name": "Koch",
+      "name_lower": "koch",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 84.783333
+    },
+    {
+      "name": "Kochas",
+      "name_lower": "kochas",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 83.916667
+    },
+    {
+      "name": "Koelwar",
+      "name_lower": "koelwar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 84.8
+    },
+    {
+      "name": "Koilawan",
+      "name_lower": "koilawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.983333,
+      "longitude": 84.516667
+    },
+    {
+      "name": "Koili",
+      "name_lower": "koili",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 85.65
+    },
+    {
+      "name": "Koluahi",
+      "name_lower": "koluahi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 86.05
+    },
+    {
+      "name": "Kopa",
+      "name_lower": "kopa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 84.633333
+    },
+    {
+      "name": "Koparia",
+      "name_lower": "koparia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.65,
+      "longitude": 86.6
+    },
+    {
+      "name": "Koriabatti",
+      "name_lower": "koriabatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 86.983333
+    },
+    {
+      "name": "Koriapatti",
+      "name_lower": "koriapatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 86.983333
+    },
+    {
+      "name": "Korwatanr",
+      "name_lower": "korwatanr",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.8,
+      "longitude": 86.15
+    },
+    {
+      "name": "Kuari",
+      "name_lower": "kuari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.416667,
+      "longitude": 87.433333
+    },
+    {
+      "name": "Kuchai Kot",
+      "name_lower": "kuchai kot",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 84.316667
+    },
+    {
+      "name": "Kuchhila",
+      "name_lower": "kuchhila",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.266667,
+      "longitude": 83.866667
+    },
+    {
+      "name": "Kulharia",
+      "name_lower": "kulharia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 84.8
+    },
+    {
+      "name": "Kumar Bajidpur",
+      "name_lower": "kumar bajidpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 85.566667
+    },
+    {
+      "name": "Kumar Bazidpur",
+      "name_lower": "kumar bazidpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 85.566667
+    },
+    {
+      "name": "Kumari",
+      "name_lower": "kumari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.65,
+      "longitude": 87.716667
+    },
+    {
+      "name": "Kunma",
+      "name_lower": "kunma",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.65,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Kuraitha",
+      "name_lower": "kuraitha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 87.666667
+    },
+    {
+      "name": "Kuran Sarai",
+      "name_lower": "kuran sarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 84.183333
+    },
+    {
+      "name": "Kurhani",
+      "name_lower": "kurhani",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 85.333333
+    },
+    {
+      "name": "Kurkihar",
+      "name_lower": "kurkihar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.816667,
+      "longitude": 85.25
+    },
+    {
+      "name": "Kurma",
+      "name_lower": "kurma",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 84.366667
+    },
+    {
+      "name": "Kursakata",
+      "name_lower": "kursakata",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 87.433333
+    },
+    {
+      "name": "Kursela",
+      "name_lower": "kursela",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 87.25
+    },
+    {
+      "name": "Kurson",
+      "name_lower": "kurson",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 86.283333
+    },
+    {
+      "name": "Kurtha",
+      "name_lower": "kurtha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.116667,
+      "longitude": 84.816667
+    },
+    {
+      "name": "Ladania",
+      "name_lower": "ladania",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 86.316667
+    },
+    {
+      "name": "Laheria Sarai",
+      "name_lower": "laheria sarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 85.9
+    },
+    {
+      "name": "Lai",
+      "name_lower": "lai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 84.816667
+    },
+    {
+      "name": "Lakhaipur",
+      "name_lower": "lakhaipur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.583333,
+      "longitude": 85.1
+    },
+    {
+      "name": "Lakhaura",
+      "name_lower": "lakhaura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.766667,
+      "longitude": 84.983333
+    },
+    {
+      "name": "Lakhisarai",
+      "name_lower": "lakhisarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 89509,
+      "latitude": 25.183333,
+      "longitude": 86.083333
+    },
+    {
+      "name": "Lakho",
+      "name_lower": "lakho",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Lalbairo",
+      "name_lower": "lalbairo",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 86.516667
+    },
+    {
+      "name": "Laukaha",
+      "name_lower": "laukaha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.55,
+      "longitude": 86.45
+    },
+    {
+      "name": "Lauriya",
+      "name_lower": "lauriya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.983333,
+      "longitude": 84.4
+    },
+    {
+      "name": "Lauriya Nandangarh",
+      "name_lower": "lauriya nandangarh",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.983333,
+      "longitude": 84.4
+    },
+    {
+      "name": "Luckeesarai",
+      "name_lower": "luckeesarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 86.083333
+    },
+    {
+      "name": "Luckesserai",
+      "name_lower": "luckesserai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 86.083333
+    },
+    {
+      "name": "Madhepur",
+      "name_lower": "madhepur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.183333,
+      "longitude": 86.383333
+    },
+    {
+      "name": "Madhipura",
+      "name_lower": "madhipura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 50575,
+      "latitude": 25.916667,
+      "longitude": 86.783333
+    },
+    {
+      "name": "Madhubani",
+      "name_lower": "madhubani",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 71590,
+      "latitude": 26.366667,
+      "longitude": 86.083333
+    },
+    {
+      "name": "Madhupura",
+      "name_lower": "madhupura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.916667,
+      "longitude": 86.783333
+    },
+    {
+      "name": "Madhura",
+      "name_lower": "madhura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.333333,
+      "longitude": 87.1
+    },
+    {
+      "name": "Madhwapur",
+      "name_lower": "madhwapur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 85.85
+    },
+    {
+      "name": "Mahadeo Simaria",
+      "name_lower": "mahadeo simaria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 86.1
+    },
+    {
+      "name": "Mahinawan",
+      "name_lower": "mahinawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.016667,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Mahuwa",
+      "name_lower": "mahuwa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.816667,
+      "longitude": 85.366667
+    },
+    {
+      "name": "Mainagar",
+      "name_lower": "mainagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 87.716667
+    },
+    {
+      "name": "Mainanagar",
+      "name_lower": "mainanagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 87.716667
+    },
+    {
+      "name": "Mainatanr",
+      "name_lower": "mainatanr",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.1,
+      "longitude": 84.65
+    },
+    {
+      "name": "Mairwa",
+      "name_lower": "mairwa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 20165,
+      "latitude": 26.233333,
+      "longitude": 84.15
+    },
+    {
+      "name": "Majhaua",
+      "name_lower": "majhaua",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.783333,
+      "longitude": 84.4
+    },
+    {
+      "name": "Majhaul",
+      "name_lower": "majhaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.566667,
+      "longitude": 86.133333
+    },
+    {
+      "name": "Majhwalia",
+      "name_lower": "majhwalia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.816667,
+      "longitude": 84.616667
+    },
+    {
+      "name": "Maker",
+      "name_lower": "maker",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 85.05
+    },
+    {
+      "name": "Makrandpur",
+      "name_lower": "makrandpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 85.633333
+    },
+    {
+      "name": "Malahipur",
+      "name_lower": "malahipur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 83.783333
+    },
+    {
+      "name": "Malepur",
+      "name_lower": "malepur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Malharia",
+      "name_lower": "malharia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 87.533333
+    },
+    {
+      "name": "Mallehpur",
+      "name_lower": "mallehpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Mamatanr",
+      "name_lower": "mamatanr",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.1,
+      "longitude": 84.65
+    },
+    {
+      "name": "Mandar Hill",
+      "name_lower": "mandar hill",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.816667,
+      "longitude": 87.033333
+    },
+    {
+      "name": "Maner",
+      "name_lower": "maner",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 27904,
+      "latitude": 25.65,
+      "longitude": 84.883333
+    },
+    {
+      "name": "Maner Sharif",
+      "name_lower": "maner sharif",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.65,
+      "longitude": 84.883333
+    },
+    {
+      "name": "Maniarwa",
+      "name_lower": "maniarwa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.483333,
+      "longitude": 86.15
+    },
+    {
+      "name": "Manigachi",
+      "name_lower": "manigachi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 86.166667
+    },
+    {
+      "name": "Manihari",
+      "name_lower": "manihari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 23734,
+      "latitude": 25.35,
+      "longitude": 87.633333
+    },
+    {
+      "name": "Manjhi",
+      "name_lower": "manjhi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.85,
+      "longitude": 84.583333
+    },
+    {
+      "name": "Manshahi",
+      "name_lower": "manshahi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 87.583333
+    },
+    {
+      "name": "Manshai",
+      "name_lower": "manshai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 87.583333
+    },
+    {
+      "name": "Marhaura",
+      "name_lower": "marhaura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 26140,
+      "latitude": 25.966667,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Maricha",
+      "name_lower": "maricha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.083333,
+      "longitude": 86.483333
+    },
+    {
+      "name": "Masaurhi",
+      "name_lower": "masaurhi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 53446,
+      "latitude": 25.35,
+      "longitude": 85.033333
+    },
+    {
+      "name": "Masaurhi Buzurg",
+      "name_lower": "masaurhi buzurg",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.35,
+      "longitude": 85.033333
+    },
+    {
+      "name": "Masaurki",
+      "name_lower": "masaurki",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.35,
+      "longitude": 85.033333
+    },
+    {
+      "name": "Mashrak",
+      "name_lower": "mashrak",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 84.8
+    },
+    {
+      "name": "Masrakh",
+      "name_lower": "masrakh",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 84.8
+    },
+    {
+      "name": "Masumganj",
+      "name_lower": "masumganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Mathila",
+      "name_lower": "mathila",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 84.133333
+    },
+    {
+      "name": "Mathurapur",
+      "name_lower": "mathurapur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.733333,
+      "longitude": 84.783333
+    },
+    {
+      "name": "Mehnar",
+      "name_lower": "mehnar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 85.483333
+    },
+    {
+      "name": "Mehsi",
+      "name_lower": "mehsi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 85.116667
+    },
+    {
+      "name": "Mohania",
+      "name_lower": "mohania",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 83.616667
+    },
+    {
+      "name": "Mohiuddinagar",
+      "name_lower": "mohiuddinagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 14940,
+      "latitude": 25.583333,
+      "longitude": 85.666667
+    },
+    {
+      "name": "Mohiuddinnagar",
+      "name_lower": "mohiuddinnagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 85.666667
+    },
+    {
+      "name": "Mokama",
+      "name_lower": "mokama",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 55209,
+      "latitude": 25.4,
+      "longitude": 85.916667
+    },
+    {
+      "name": "Mokamah",
+      "name_lower": "mokamah",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 85.916667
+    },
+    {
+      "name": "Mokameh",
+      "name_lower": "mokameh",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 85.916667
+    },
+    {
+      "name": "Mokameh Ghat",
+      "name_lower": "mokameh ghat",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.383333,
+      "longitude": 85.95
+    },
+    {
+      "name": "Mokri",
+      "name_lower": "mokri",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.016667,
+      "longitude": 83.566667
+    },
+    {
+      "name": "Monghyr",
+      "name_lower": "monghyr",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.383333,
+      "longitude": 86.466667
+    },
+    {
+      "name": "Mor",
+      "name_lower": "mor",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 85.85
+    },
+    {
+      "name": "Motihan",
+      "name_lower": "motihan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.65,
+      "longitude": 84.916667
+    },
+    {
+      "name": "Motihari",
+      "name_lower": "motihari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 112156,
+      "latitude": 26.65,
+      "longitude": 84.916667
+    },
+    {
+      "name": "Muhammadpur Balmi",
+      "name_lower": "muhammadpur balmi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.266667,
+      "longitude": 85.133333
+    },
+    {
+      "name": "Mujra",
+      "name_lower": "mujra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.166667,
+      "longitude": 84.35
+    },
+    {
+      "name": "Mukhrawan",
+      "name_lower": "mukhrawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 83.85
+    },
+    {
+      "name": "Mukuria",
+      "name_lower": "mukuria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 87.883333
+    },
+    {
+      "name": "Munger",
+      "name_lower": "munger",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 203185,
+      "latitude": 25.383333,
+      "longitude": 86.466667
+    },
+    {
+      "name": "Munriar",
+      "name_lower": "munriar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.016667,
+      "longitude": 84.233333
+    },
+    {
+      "name": "Murliganj",
+      "name_lower": "murliganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 23846,
+      "latitude": 25.9,
+      "longitude": 86.983333
+    },
+    {
+      "name": "Musahari Block",
+      "name_lower": "musahari block",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 85.566667
+    },
+    {
+      "name": "Mushari",
+      "name_lower": "mushari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 85.566667
+    },
+    {
+      "name": "Mushari Farm",
+      "name_lower": "mushari farm",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 85.566667
+    },
+    {
+      "name": "Muzaffarpur",
+      "name_lower": "muzaffarpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 333235,
+      "latitude": 26.116667,
+      "longitude": 85.4
+    },
+    {
+      "name": "Nabinagar",
+      "name_lower": "nabinagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 20851,
+      "latitude": 24.616667,
+      "longitude": 84.116667
+    },
+    {
+      "name": "Nadaul",
+      "name_lower": "nadaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 85.033333
+    },
+    {
+      "name": "Nadwan",
+      "name_lower": "nadwan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 85.066667
+    },
+    {
+      "name": "Nagar Nahusa",
+      "name_lower": "nagar nahusa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 85.333333
+    },
+    {
+      "name": "Narahia",
+      "name_lower": "narahia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 86.533333
+    },
+    {
+      "name": "Nardiganj",
+      "name_lower": "nardiganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 85.433333
+    },
+    {
+      "name": "Narganjo",
+      "name_lower": "narganjo",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.733333,
+      "longitude": 86.466667
+    },
+    {
+      "name": "Narhat",
+      "name_lower": "narhat",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.766667,
+      "longitude": 85.433333
+    },
+    {
+      "name": "Narhi",
+      "name_lower": "narhi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 86.65
+    },
+    {
+      "name": "Nasriganj",
+      "name_lower": "nasriganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 23287,
+      "latitude": 25.05,
+      "longitude": 84.333333
+    },
+    {
+      "name": "Nasriganji",
+      "name_lower": "nasriganji",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.05,
+      "longitude": 84.333333
+    },
+    {
+      "name": "Naubatpur",
+      "name_lower": "naubatpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 84.966667
+    },
+    {
+      "name": "Naugachhia",
+      "name_lower": "naugachhia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 41251,
+      "latitude": 25.4,
+      "longitude": 87.1
+    },
+    {
+      "name": "Naugachia",
+      "name_lower": "naugachia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 87.1
+    },
+    {
+      "name": "Nauhata",
+      "name_lower": "nauhata",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 86.483333
+    },
+    {
+      "name": "Neazipur",
+      "name_lower": "neazipur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.666667,
+      "longitude": 84.15
+    },
+    {
+      "name": "New Patna",
+      "name_lower": "new patna",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 85.116667
+    },
+    {
+      "name": "Niranjanpur",
+      "name_lower": "niranjanpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.15,
+      "longitude": 84.55
+    },
+    {
+      "name": "Nirmali",
+      "name_lower": "nirmali",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 17104,
+      "latitude": 26.316667,
+      "longitude": 86.583333
+    },
+    {
+      "name": "Noawan",
+      "name_lower": "noawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.383333,
+      "longitude": 83.733333
+    },
+    {
+      "name": "Nur Sarai",
+      "name_lower": "nur sarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.283333,
+      "longitude": 85.466667
+    },
+    {
+      "name": "Pachgachhia",
+      "name_lower": "pachgachhia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 86.55
+    },
+    {
+      "name": "Pachnan",
+      "name_lower": "pachnan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.133333,
+      "longitude": 85.916667
+    },
+    {
+      "name": "Pai Bigha",
+      "name_lower": "pai bigha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.05,
+      "longitude": 84.916667
+    },
+    {
+      "name": "Pakribarawan",
+      "name_lower": "pakribarawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.95,
+      "longitude": 85.733333
+    },
+    {
+      "name": "Palasi",
+      "name_lower": "palasi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.233333,
+      "longitude": 87.566667
+    },
+    {
+      "name": "Paleza",
+      "name_lower": "paleza",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.666667,
+      "longitude": 85.133333
+    },
+    {
+      "name": "Paliganj",
+      "name_lower": "paliganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 84.833333
+    },
+    {
+      "name": "Panapur",
+      "name_lower": "panapur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.216667,
+      "longitude": 83.65
+    },
+    {
+      "name": "Panchanpur",
+      "name_lower": "panchanpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.9,
+      "longitude": 84.85
+    },
+    {
+      "name": "Pandaul",
+      "name_lower": "pandaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.25,
+      "longitude": 86.083333
+    },
+    {
+      "name": "Panwar",
+      "name_lower": "panwar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 84.616667
+    },
+    {
+      "name": "Paraiya",
+      "name_lower": "paraiya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.816667,
+      "longitude": 84.85
+    },
+    {
+      "name": "Parihar",
+      "name_lower": "parihar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 85.683333
+    },
+    {
+      "name": "Parihara",
+      "name_lower": "parihara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.55,
+      "longitude": 86.283333
+    },
+    {
+      "name": "Pariharpur",
+      "name_lower": "pariharpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 85.683333
+    },
+    {
+      "name": "Paro",
+      "name_lower": "paro",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.083333,
+      "longitude": 85.066667
+    },
+    {
+      "name": "Parsathua",
+      "name_lower": "parsathua",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 83.816667
+    },
+    {
+      "name": "Parwaha",
+      "name_lower": "parwaha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.233333,
+      "longitude": 87.216667
+    },
+    {
+      "name": "Parwalpur",
+      "name_lower": "parwalpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 85.366667
+    },
+    {
+      "name": "Parwaya",
+      "name_lower": "parwaya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.816667,
+      "longitude": 84.85
+    },
+    {
+      "name": "Pasraha",
+      "name_lower": "pasraha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.383333,
+      "longitude": 86.7
+    },
+    {
+      "name": "Pategna",
+      "name_lower": "pategna",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.25,
+      "longitude": 87.45
+    },
+    {
+      "name": "Pathamari",
+      "name_lower": "pathamari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.4,
+      "longitude": 88.066667
+    },
+    {
+      "name": "Patilar",
+      "name_lower": "patilar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 27.033333,
+      "longitude": 84.216667
+    },
+    {
+      "name": "Patna City",
+      "name_lower": "patna city",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 85.25
+    },
+    {
+      "name": "Patna New City",
+      "name_lower": "patna new city",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 85.116667
+    },
+    {
+      "name": "Patsanda",
+      "name_lower": "patsanda",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 86.3
+    },
+    {
+      "name": "Pawakhali",
+      "name_lower": "pawakhali",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 87.95
+    },
+    {
+      "name": "Phesar",
+      "name_lower": "phesar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.833333,
+      "longitude": 84.416667
+    },
+    {
+      "name": "Phulaut",
+      "name_lower": "phulaut",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 86.933333
+    },
+    {
+      "name": "Pichhli",
+      "name_lower": "pichhli",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.55,
+      "longitude": 85.483333
+    },
+    {
+      "name": "Pipra Dewas",
+      "name_lower": "pipra dewas",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 86.016667
+    },
+    {
+      "name": "Piro",
+      "name_lower": "piro",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 28970,
+      "latitude": 25.333333,
+      "longitude": 84.416667
+    },
+    {
+      "name": "Pirpainti",
+      "name_lower": "pirpainti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 87.416667
+    },
+    {
+      "name": "Pirwan",
+      "name_lower": "pirwan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.683333,
+      "longitude": 84.683333
+    },
+    {
+      "name": "Pokhraira",
+      "name_lower": "pokhraira",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 85.2
+    },
+    {
+      "name": "Pothia",
+      "name_lower": "pothia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.55,
+      "longitude": 87.266667
+    },
+    {
+      "name": "Pratapganj",
+      "name_lower": "pratapganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.3,
+      "longitude": 86.966667
+    },
+    {
+      "name": "Punarakh",
+      "name_lower": "punarakh",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 85.816667
+    },
+    {
+      "name": "Punpun",
+      "name_lower": "punpun",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 85.116667
+    },
+    {
+      "name": "Pupri",
+      "name_lower": "pupri",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.483333,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Purnea",
+      "name_lower": "purnea",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.783333,
+      "longitude": 87.466667
+    },
+    {
+      "name": "Pusa",
+      "name_lower": "pusa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 85.683333
+    },
+    {
+      "name": "Pusauli",
+      "name_lower": "pusauli",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.1,
+      "longitude": 83.733333
+    },
+    {
+      "name": "Qasba",
+      "name_lower": "qasba",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.85,
+      "longitude": 87.55
+    },
+    {
+      "name": "Qasba Maker",
+      "name_lower": "qasba maker",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 85.05
+    },
+    {
+      "name": "Qasi Sarai",
+      "name_lower": "qasi sarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.166667,
+      "longitude": 85.066667
+    },
+    {
+      "name": "Qazi Sarai",
+      "name_lower": "qazi sarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.166667,
+      "longitude": 85.066667
+    },
+    {
+      "name": "Rafiganj",
+      "name_lower": "rafiganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 26231,
+      "latitude": 24.816667,
+      "longitude": 84.65
+    },
+    {
+      "name": "Rajagriha",
+      "name_lower": "rajagriha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Rajanr",
+      "name_lower": "rajanr",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.733333,
+      "longitude": 85.433333
+    },
+    {
+      "name": "Rajaun",
+      "name_lower": "rajaun",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.016667,
+      "longitude": 86.983333
+    },
+    {
+      "name": "Rajgir",
+      "name_lower": "rajgir",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 38352,
+      "latitude": 25.033333,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Rajgriha",
+      "name_lower": "rajgriha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Rajwara",
+      "name_lower": "rajwara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 86.716667
+    },
+    {
+      "name": "Ramgarhwa",
+      "name_lower": "ramgarhwa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.866667,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Ramnitanr",
+      "name_lower": "ramnitanr",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 86.216667
+    },
+    {
+      "name": "Rampatti",
+      "name_lower": "rampatti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.333333,
+      "longitude": 86.15
+    },
+    {
+      "name": "Rani Sagar",
+      "name_lower": "rani sagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 84.366667
+    },
+    {
+      "name": "Rasaul",
+      "name_lower": "rasaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.983333,
+      "longitude": 84.85
+    },
+    {
+      "name": "Rasulganj",
+      "name_lower": "rasulganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 85.65
+    },
+    {
+      "name": "Rauta",
+      "name_lower": "rauta",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 87.7
+    },
+    {
+      "name": "Rautara",
+      "name_lower": "rautara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.666667,
+      "longitude": 87.55
+    },
+    {
+      "name": "Raxaul",
+      "name_lower": "raxaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 47970,
+      "latitude": 26.983333,
+      "longitude": 84.85
+    },
+    {
+      "name": "Reoti",
+      "name_lower": "reoti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 23821,
+      "latitude": 25.85,
+      "longitude": 84.383333
+    },
+    {
+      "name": "Reria",
+      "name_lower": "reria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 84.033333
+    },
+    {
+      "name": "Revelganj",
+      "name_lower": "revelganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 37035,
+      "latitude": 25.783333,
+      "longitude": 84.666667
+    },
+    {
+      "name": "Riga",
+      "name_lower": "riga",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.65,
+      "longitude": 85.433333
+    },
+    {
+      "name": "Roshanganj",
+      "name_lower": "roshanganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.533333,
+      "longitude": 84.716667
+    },
+    {
+      "name": "Roshunganj",
+      "name_lower": "roshunganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.533333,
+      "longitude": 84.716667
+    },
+    {
+      "name": "Runi Saiyadpur",
+      "name_lower": "runi saiyadpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 85.483333
+    },
+    {
+      "name": "Runni",
+      "name_lower": "runni",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 85.483333
+    },
+    {
+      "name": "Rupah",
+      "name_lower": "rupah",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 85.75
+    },
+    {
+      "name": "Rupau",
+      "name_lower": "rupau",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 85.75
+    },
+    {
+      "name": "Rupnarayanpur",
+      "name_lower": "rupnarayanpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 84.983333
+    },
+    {
+      "name": "Rusera",
+      "name_lower": "rusera",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 28784,
+      "latitude": 25.75,
+      "longitude": 86.033333
+    },
+    {
+      "name": "Sabaur",
+      "name_lower": "sabaur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 87.05
+    },
+    {
+      "name": "Sabour",
+      "name_lower": "sabour",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 87.05
+    },
+    {
+      "name": "Sadisopur",
+      "name_lower": "sadisopur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.566667,
+      "longitude": 84.916667
+    },
+    {
+      "name": "Saganli",
+      "name_lower": "saganli",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Sagarpur",
+      "name_lower": "sagarpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.633333,
+      "longitude": 85.016667
+    },
+    {
+      "name": "Sagauli",
+      "name_lower": "sagauli",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 34626,
+      "latitude": 26.783333,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Saghauli",
+      "name_lower": "saghauli",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Sagowlee",
+      "name_lower": "sagowlee",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Saharsa",
+      "name_lower": "saharsa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 145779,
+      "latitude": 25.883333,
+      "longitude": 86.6
+    },
+    {
+      "name": "Saidpur Dabra",
+      "name_lower": "saidpur dabra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 87.183333
+    },
+    {
+      "name": "Saisar",
+      "name_lower": "saisar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 84.083333
+    },
+    {
+      "name": "Sajhauli",
+      "name_lower": "sajhauli",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.15,
+      "longitude": 84.2
+    },
+    {
+      "name": "Saksohara",
+      "name_lower": "saksohara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Saksohra",
+      "name_lower": "saksohra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Salmari",
+      "name_lower": "salmari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 87.85
+    },
+    {
+      "name": "Samastipur",
+      "name_lower": "samastipur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 57602,
+      "latitude": 25.85,
+      "longitude": 85.783333
+    },
+    {
+      "name": "Samaul",
+      "name_lower": "samaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 85.45
+    },
+    {
+      "name": "Sambhuganj",
+      "name_lower": "sambhuganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 86.733333
+    },
+    {
+      "name": "Sandes",
+      "name_lower": "sandes",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.416667,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Sangrampur",
+      "name_lower": "sangrampur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.483333,
+      "longitude": 84.683333
+    },
+    {
+      "name": "Saran",
+      "name_lower": "saran",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 86.3
+    },
+    {
+      "name": "Sarari",
+      "name_lower": "sarari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.133333,
+      "longitude": 85.95
+    },
+    {
+      "name": "Sarhan",
+      "name_lower": "sarhan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.416667,
+      "longitude": 85.816667
+    },
+    {
+      "name": "Sarmera",
+      "name_lower": "sarmera",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.266667,
+      "longitude": 85.8
+    },
+    {
+      "name": "Sarsi Istamrar",
+      "name_lower": "sarsi istamrar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.85,
+      "longitude": 87.283333
+    },
+    {
+      "name": "Sarwan Khas",
+      "name_lower": "sarwan khas",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.516667,
+      "longitude": 84.983333
+    },
+    {
+      "name": "Sasamusa",
+      "name_lower": "sasamusa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.55,
+      "longitude": 84.35
+    },
+    {
+      "name": "Sasaram",
+      "name_lower": "sasaram",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 145798,
+      "latitude": 24.95,
+      "longitude": 84.033333
+    },
+    {
+      "name": "Savan",
+      "name_lower": "savan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 84.366667
+    },
+    {
+      "name": "Sedha",
+      "name_lower": "sedha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.266667,
+      "longitude": 84.4
+    },
+    {
+      "name": "Segowlee",
+      "name_lower": "segowlee",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Segowlie",
+      "name_lower": "segowlie",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Semapur",
+      "name_lower": "semapur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 87.466667
+    },
+    {
+      "name": "Semaria Ghat",
+      "name_lower": "semaria ghat",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 85.983333
+    },
+    {
+      "name": "Semariya",
+      "name_lower": "semariya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Shahkund",
+      "name_lower": "shahkund",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.166667,
+      "longitude": 86.816667
+    },
+    {
+      "name": "Shahpur Patori",
+      "name_lower": "shahpur patori",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 85.583333
+    },
+    {
+      "name": "Shaikhpura",
+      "name_lower": "shaikhpura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 46723,
+      "latitude": 25.15,
+      "longitude": 85.85
+    },
+    {
+      "name": "Shamhu",
+      "name_lower": "shamhu",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 86.216667
+    },
+    {
+      "name": "Shamshernagar",
+      "name_lower": "shamshernagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 84.483333
+    },
+    {
+      "name": "Sharfuddinpur",
+      "name_lower": "sharfuddinpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Sheohar",
+      "name_lower": "sheohar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.516667,
+      "longitude": 85.3
+    },
+    {
+      "name": "Sherghati",
+      "name_lower": "sherghati",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 35283,
+      "latitude": 24.566667,
+      "longitude": 84.783333
+    },
+    {
+      "name": "Shitab Diara",
+      "name_lower": "shitab diara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.75,
+      "longitude": 84.616667
+    },
+    {
+      "name": "Shivganj",
+      "name_lower": "shivganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.466667,
+      "longitude": 84.95
+    },
+    {
+      "name": "Sikarhata",
+      "name_lower": "sikarhata",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.266667,
+      "longitude": 84.483333
+    },
+    {
+      "name": "Sikti",
+      "name_lower": "sikti",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.4,
+      "longitude": 87.55
+    },
+    {
+      "name": "Silao",
+      "name_lower": "silao",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 21830,
+      "latitude": 25.083333,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Silaut",
+      "name_lower": "silaut",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 85.483333
+    },
+    {
+      "name": "Simaltala",
+      "name_lower": "simaltala",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 86.55
+    },
+    {
+      "name": "Simaria Ghat",
+      "name_lower": "simaria ghat",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 85.983333
+    },
+    {
+      "name": "Simraha",
+      "name_lower": "simraha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 86.85
+    },
+    {
+      "name": "Simrahi",
+      "name_lower": "simrahi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 86.85
+    },
+    {
+      "name": "Simri",
+      "name_lower": "simri",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 85.766667
+    },
+    {
+      "name": "Simri Bakhtiarpur",
+      "name_lower": "simri bakhtiarpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.716667,
+      "longitude": 86.583333
+    },
+    {
+      "name": "Singheswar",
+      "name_lower": "singheswar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 86.8
+    },
+    {
+      "name": "Singia",
+      "name_lower": "singia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.85,
+      "longitude": 86.166667
+    },
+    {
+      "name": "Sirdala",
+      "name_lower": "sirdala",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Sirdalla",
+      "name_lower": "sirdalla",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Siriswa",
+      "name_lower": "siriswa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.866667,
+      "longitude": 84.633333
+    },
+    {
+      "name": "Siswar",
+      "name_lower": "siswar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 86.466667
+    },
+    {
+      "name": "Sitab-Diara",
+      "name_lower": "sitab-diara",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.75,
+      "longitude": 84.616667
+    },
+    {
+      "name": "Sitamarhi",
+      "name_lower": "sitamarhi",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 57101,
+      "latitude": 26.6,
+      "longitude": 85.483333
+    },
+    {
+      "name": "Soh Sarai",
+      "name_lower": "soh sarai",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.233333,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Sonahula",
+      "name_lower": "sonahula",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 87.15
+    },
+    {
+      "name": "Sonaili Bazar",
+      "name_lower": "sonaili bazar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 87.716667
+    },
+    {
+      "name": "Sonbarsa",
+      "name_lower": "sonbarsa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.85,
+      "longitude": 85.583333
+    },
+    {
+      "name": "Sonpa",
+      "name_lower": "sonpa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 83.833333
+    },
+    {
+      "name": "Sontha",
+      "name_lower": "sontha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.183333,
+      "longitude": 87.766667
+    },
+    {
+      "name": "Sugauli",
+      "name_lower": "sugauli",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Suiabathan",
+      "name_lower": "suiabathan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.833333,
+      "longitude": 86.666667
+    },
+    {
+      "name": "Suitha",
+      "name_lower": "suitha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 85.1
+    },
+    {
+      "name": "Sukhanagar",
+      "name_lower": "sukhanagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 86.933333
+    },
+    {
+      "name": "Sukhpur",
+      "name_lower": "sukhpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 86.533333
+    },
+    {
+      "name": "Supaul",
+      "name_lower": "supaul",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 60027,
+      "latitude": 26.116667,
+      "longitude": 86.6
+    },
+    {
+      "name": "Surajgarha",
+      "name_lower": "surajgarha",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 86.233333
+    },
+    {
+      "name": "Surajpura",
+      "name_lower": "surajpura",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 84.216667
+    },
+    {
+      "name": "Suremanpur",
+      "name_lower": "suremanpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.816667,
+      "longitude": 84.466667
+    },
+    {
+      "name": "Sursand",
+      "name_lower": "sursand",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.65,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Taiabpur",
+      "name_lower": "taiabpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 88.166667
+    },
+    {
+      "name": "Taibpur",
+      "name_lower": "taibpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 88.166667
+    },
+    {
+      "name": "Tamoria",
+      "name_lower": "tamoria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.25,
+      "longitude": 86.35
+    },
+    {
+      "name": "Tankuppa",
+      "name_lower": "tankuppa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.7,
+      "longitude": 85.133333
+    },
+    {
+      "name": "Taraia",
+      "name_lower": "taraia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.083333,
+      "longitude": 84.883333
+    },
+    {
+      "name": "Taraiya",
+      "name_lower": "taraiya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.083333,
+      "longitude": 84.883333
+    },
+    {
+      "name": "Tarapur",
+      "name_lower": "tarapur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 86.65
+    },
+    {
+      "name": "Taunsa",
+      "name_lower": "taunsa",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 85.15
+    },
+    {
+      "name": "Teghra",
+      "name_lower": "teghra",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 46161,
+      "latitude": 25.483333,
+      "longitude": 85.95
+    },
+    {
+      "name": "Tehta",
+      "name_lower": "tehta",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.116667,
+      "longitude": 84.983333
+    },
+    {
+      "name": "Tekari",
+      "name_lower": "tekari",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 19065,
+      "latitude": 24.933333,
+      "longitude": 84.833333
+    },
+    {
+      "name": "Telwabazar",
+      "name_lower": "telwabazar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.683333,
+      "longitude": 86.533333
+    },
+    {
+      "name": "Tetaria",
+      "name_lower": "tetaria",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 85.183333
+    },
+    {
+      "name": "Tetrawan",
+      "name_lower": "tetrawan",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.133333,
+      "longitude": 85.583333
+    },
+    {
+      "name": "Thakurganj",
+      "name_lower": "thakurganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 15955,
+      "latitude": 26.45,
+      "longitude": 88.133333
+    },
+    {
+      "name": "Tharbitia",
+      "name_lower": "tharbitia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 86.683333
+    },
+    {
+      "name": "Tikulia",
+      "name_lower": "tikulia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.933333,
+      "longitude": 84.533333
+    },
+    {
+      "name": "Tilothu",
+      "name_lower": "tilothu",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.8,
+      "longitude": 84.083333
+    },
+    {
+      "name": "Tirhoot",
+      "name_lower": "tirhoot",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 85.4
+    },
+    {
+      "name": "Tola Gujarwalia",
+      "name_lower": "tola gujarwalia",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 84.566667
+    },
+    {
+      "name": "Tribeniganj",
+      "name_lower": "tribeniganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 86.9
+    },
+    {
+      "name": "Tumba",
+      "name_lower": "tumba",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.733333,
+      "longitude": 84.016667
+    },
+    {
+      "name": "Turkauliya",
+      "name_lower": "turkauliya",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 84.833333
+    },
+    {
+      "name": "Turkaulla",
+      "name_lower": "turkaulla",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 84.833333
+    },
+    {
+      "name": "Turki",
+      "name_lower": "turki",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 85.35
+    },
+    {
+      "name": "Udawantnagar",
+      "name_lower": "udawantnagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 84.616667
+    },
+    {
+      "name": "Ujiarpur",
+      "name_lower": "ujiarpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.783333,
+      "longitude": 85.8
+    },
+    {
+      "name": "Usas",
+      "name_lower": "usas",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 84.75
+    },
+    {
+      "name": "War",
+      "name_lower": "war",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 84.516667
+    },
+    {
+      "name": "War Khas",
+      "name_lower": "war khas",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 84.516667
+    },
+    {
+      "name": "Waris Aliganj",
+      "name_lower": "waris aliganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": 35247,
+      "latitude": 25.016667,
+      "longitude": 85.633333
+    },
+    {
+      "name": "Waris Ariganj",
+      "name_lower": "waris ariganj",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.016667,
+      "longitude": 85.633333
+    },
+    {
+      "name": "Warisnagar",
+      "name_lower": "warisnagar",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 25.95,
+      "longitude": 85.883333
+    },
+    {
+      "name": "Worhanpur",
+      "name_lower": "worhanpur",
+      "state": "Bihar",
+      "state_hi": "बिहार",
+      "region_code": "34",
+      "population": "",
+      "latitude": 24.95,
+      "longitude": 85.533333
+    }
+  ],
+  "meta": {
+    "title": "बिहार के शहर (Bihar Cities) - मुफ़्त डाउनलोड",
+    "description": "बिहार राज्य के 645 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 645 cities and towns in Bihar, India, with population and geographic coordinates. शामिल हैं 645 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "बिहार के शहर (Bihar Cities) | ListBase",
+    "seo_description": "डाउनलोड बिहार के शहर (Bihar Cities) — 645 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 645 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

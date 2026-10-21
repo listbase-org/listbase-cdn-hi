@@ -1,0 +1,261 @@
+{
+  "id": "hi-noida-bank",
+  "name": "Noida में बैंक — SWIFT/BIC कोड",
+  "title": "Noida में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Noida, India. Subset of hi-bank. Source city string preserved verbatim as \"NOIDA\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 116,
+      "bank": "ANDHRA BANK",
+      "city": "NOIDA",
+      "branch": "(NOIDA BRANCH)",
+      "swift_code": "ANDBINBBNOI"
+    },
+    {
+      "id": 134,
+      "bank": "APTEL INDIA",
+      "city": "NOIDA",
+      "branch": "",
+      "swift_code": "APININD1"
+    },
+    {
+      "id": 555,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NOIDA",
+      "branch": "(GREATER NOIDA)",
+      "swift_code": "AXISINBB624"
+    },
+    {
+      "id": 556,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NOIDA",
+      "branch": "(NOIDA BRANCH)",
+      "swift_code": "AXISINBB022"
+    },
+    {
+      "id": 557,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NOIDA",
+      "branch": "(NOIDA SECTOR 18)",
+      "swift_code": "AXISINBB361"
+    },
+    {
+      "id": 558,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NOIDA",
+      "branch": "(NOIDA SECTOR 62)",
+      "swift_code": "AXISINBB723"
+    },
+    {
+      "id": 711,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "NOIDA",
+      "branch": "(NOIDA BRANCH)",
+      "swift_code": "UTIBINB1022"
+    },
+    {
+      "id": 866,
+      "bank": "BANK OF BARODA",
+      "city": "NOIDA",
+      "branch": "(MID-CORPORATE BR, NOIDA)",
+      "swift_code": "BARBINBBMDN"
+    },
+    {
+      "id": 867,
+      "bank": "BANK OF BARODA",
+      "city": "NOIDA",
+      "branch": "(SPECIALISED SSI BRANCH, NOIDA)",
+      "swift_code": "BARBINBBNOI"
+    },
+    {
+      "id": 1080,
+      "bank": "BANK OF INDIA",
+      "city": "NOIDA",
+      "branch": "(NOIDA BRANCH)",
+      "swift_code": "BKIDINBBNOI"
+    },
+    {
+      "id": 1081,
+      "bank": "BANK OF INDIA",
+      "city": "NOIDA",
+      "branch": "(NOIDA CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBNOD"
+    },
+    {
+      "id": 1365,
+      "bank": "CANARA BANK",
+      "city": "NOIDA",
+      "branch": "(NOIDA INDUSTRIAL FINANCE BRANCH )",
+      "swift_code": "CNRBINBBIFN"
+    },
+    {
+      "id": 1366,
+      "bank": "CANARA BANK",
+      "city": "NOIDA",
+      "branch": "(OFFSHORE BANKING UNIT)",
+      "swift_code": "CNRBINBBOFN"
+    },
+    {
+      "id": 1367,
+      "bank": "CANARA BANK",
+      "city": "NOIDA",
+      "branch": "",
+      "swift_code": "CNRBINBBNOI"
+    },
+    {
+      "id": 1589,
+      "bank": "CORPORATION BANK",
+      "city": "NOIDA",
+      "branch": "(NOIDA-SSI)",
+      "swift_code": "CORPINBB501"
+    },
+    {
+      "id": 1803,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "NOIDA",
+      "branch": "(NOIDA)",
+      "swift_code": "FDRLINBBNDA"
+    },
+    {
+      "id": 2308,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "NOIDA",
+      "branch": "(NOIDA BRANCH - UP)",
+      "swift_code": "JAKAINBBNOD"
+    },
+    {
+      "id": 2362,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "NOIDA",
+      "branch": "(NOIDA BRANCH)",
+      "swift_code": "KARBINBBNOI"
+    },
+    {
+      "id": 2531,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NOIDA",
+      "branch": "(B/O SECTOR-18, NOIDA (U.P.))",
+      "swift_code": "ORBCINBBNOD"
+    },
+    {
+      "id": 2778,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NOIDA",
+      "branch": "(NOIDA EXPORT, PROMOTION ZONE, NOIDA)",
+      "swift_code": "PUNBINBBNPZ"
+    },
+    {
+      "id": 2779,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NOIDA",
+      "branch": "(NOIDA SECTOR 27)",
+      "swift_code": "PUNBINBBNDA"
+    },
+    {
+      "id": 2780,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NOIDA",
+      "branch": "(SECTOR 18, NOIDA)",
+      "swift_code": "PUNBINBBMSN"
+    },
+    {
+      "id": 2832,
+      "bank": "SAMSUNG INDIA ELECTRONICS PRIVATE .LTD",
+      "city": "NOIDA",
+      "branch": "(SIEL)",
+      "swift_code": "SECTIND1550"
+    },
+    {
+      "id": 2833,
+      "bank": "SAMSUNG INDIA ELECTRONICS PRIVATE .LTD",
+      "city": "NOIDA",
+      "branch": "",
+      "swift_code": "SECTIND1"
+    },
+    {
+      "id": 3530,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NOIDA",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB232"
+    },
+    {
+      "id": 3531,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NOIDA",
+      "branch": "(NEPZ)",
+      "swift_code": "SBININBB234"
+    },
+    {
+      "id": 3532,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NOIDA",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ54"
+    },
+    {
+      "id": 3533,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NOIDA",
+      "branch": "(SPECIALISED NRI BRANCH,NOIDA)",
+      "swift_code": "SBININBB766"
+    },
+    {
+      "id": 3827,
+      "bank": "SYNDICATE BANK",
+      "city": "NOIDA",
+      "branch": "(SEC 63 NOIDA)",
+      "swift_code": "SYNBINBBS83"
+    },
+    {
+      "id": 3828,
+      "bank": "SYNDICATE BANK",
+      "city": "NOIDA",
+      "branch": "(SSI BRANCH)",
+      "swift_code": "SYNBINBB163"
+    }
+  ],
+  "meta": {
+    "title": "Noida में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Noida, India. Subset of hi-bank. Source city string preserved verbatim as \"NOIDA\". शामिल हैं 30 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Noida में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Noida में बैंक — SWIFT/BIC कोड — 30 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 30 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

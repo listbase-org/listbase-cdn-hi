@@ -1,0 +1,1506 @@
+{
+  "id": "hi-andaman-and-nicobar-islands-shahar",
+  "name": "अंडमान और निकोबार द्वीप समूह के शहर (Andaman and Nicobar Islands Cities)",
+  "title": "अंडमान और निकोबार द्वीप समूह के शहर (Andaman and Nicobar Islands Cities)",
+  "description": "अंडमान और निकोबार द्वीप समूह राज्य के 144 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 144 cities and towns in Andaman and Nicobar Islands, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aberdeen",
+      "name_lower": "aberdeen",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.666667,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Anowa",
+      "name_lower": "anowa",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.966667,
+      "longitude": 93.55
+    },
+    {
+      "name": "Arainj-laka-punga",
+      "name_lower": "arainj-laka-punga",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.6,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Arong",
+      "name_lower": "arong",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.166667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Austinabad",
+      "name_lower": "austinabad",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.633333,
+      "longitude": 92.75
+    },
+    {
+      "name": "Bajajag",
+      "name_lower": "bajajag",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.716667,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Bamboo Flat",
+      "name_lower": "bamboo flat",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.7,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Bananga",
+      "name_lower": "bananga",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.95,
+      "longitude": 93.9
+    },
+    {
+      "name": "Beadonabad",
+      "name_lower": "beadonabad",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.583333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Bengala",
+      "name_lower": "bengala",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.316667,
+      "longitude": 93.1
+    },
+    {
+      "name": "Betapur",
+      "name_lower": "betapur",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.716667,
+      "longitude": 92.9
+    },
+    {
+      "name": "Bindraban",
+      "name_lower": "bindraban",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.716667,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Birchganj",
+      "name_lower": "birchganj",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.616667,
+      "longitude": 92.75
+    },
+    {
+      "name": "Bonington",
+      "name_lower": "bonington",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.916667,
+      "longitude": 92.9
+    },
+    {
+      "name": "Brookesabad",
+      "name_lower": "brookesabad",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.616667,
+      "longitude": 92.75
+    },
+    {
+      "name": "Bumlitan",
+      "name_lower": "bumlitan",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.616667,
+      "longitude": 92.7
+    },
+    {
+      "name": "Chanumia",
+      "name_lower": "chanumia",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.35,
+      "longitude": 93.1
+    },
+    {
+      "name": "Chanumla",
+      "name_lower": "chanumla",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.316667,
+      "longitude": 93.083333
+    },
+    {
+      "name": "Chetamale",
+      "name_lower": "chetamale",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.716667,
+      "longitude": 92.55
+    },
+    {
+      "name": "Chingenh",
+      "name_lower": "chingenh",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.808333,
+      "longitude": 93.849722
+    },
+    {
+      "name": "Dak-omkeh",
+      "name_lower": "dak-omkeh",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.083333,
+      "longitude": 93.65
+    },
+    {
+      "name": "Dak-omkeli",
+      "name_lower": "dak-omkeli",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.083333,
+      "longitude": 93.65
+    },
+    {
+      "name": "Dakoank",
+      "name_lower": "dakoank",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.033333,
+      "longitude": 93.716667
+    },
+    {
+      "name": "Diglipur",
+      "name_lower": "diglipur",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 13.266667,
+      "longitude": 93
+    },
+    {
+      "name": "Dit-dak",
+      "name_lower": "dit-dak",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.316667,
+      "longitude": 93.633333
+    },
+    {
+      "name": "Dolyganj",
+      "name_lower": "dolyganj",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.633333,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Endea-geleda",
+      "name_lower": "endea-geleda",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.683333,
+      "longitude": 92.35
+    },
+    {
+      "name": "Enounga",
+      "name_lower": "enounga",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.016667,
+      "longitude": 93.533333
+    },
+    {
+      "name": "Eoya",
+      "name_lower": "eoya",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.283333,
+      "longitude": 93.1
+    },
+    {
+      "name": "Garacherama",
+      "name_lower": "garacherama",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.616667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Geinyale",
+      "name_lower": "geinyale",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.566667,
+      "longitude": 92.533333
+    },
+    {
+      "name": "Goplakabang",
+      "name_lower": "goplakabang",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.766667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Haddo",
+      "name_lower": "haddo",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.683333,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Haoin",
+      "name_lower": "haoin",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.316667,
+      "longitude": 93.1
+    },
+    {
+      "name": "Hastmatabad",
+      "name_lower": "hastmatabad",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.6,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Henhoaha",
+      "name_lower": "henhoaha",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.816667,
+      "longitude": 93.816667
+    },
+    {
+      "name": "Henpoin",
+      "name_lower": "henpoin",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.866667,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Henóaha",
+      "name_lower": "henoaha",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.816667,
+      "longitude": 93.816667
+    },
+    {
+      "name": "Heoin",
+      "name_lower": "heoin",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.316667,
+      "longitude": 93.1
+    },
+    {
+      "name": "Herberiabad",
+      "name_lower": "herberiabad",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.716667,
+      "longitude": 92.616667
+    },
+    {
+      "name": "Herbertabad",
+      "name_lower": "herbertabad",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.716667,
+      "longitude": 92.616667
+    },
+    {
+      "name": "Heya",
+      "name_lower": "heya",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.416667,
+      "longitude": 93.7
+    },
+    {
+      "name": "Hinam",
+      "name_lower": "hinam",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.25,
+      "longitude": 93.083333
+    },
+    {
+      "name": "Hobdaypur",
+      "name_lower": "hobdaypur",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.65,
+      "longitude": 92.65
+    },
+    {
+      "name": "Homfrayganj",
+      "name_lower": "homfrayganj",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.6,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Hope Town",
+      "name_lower": "hope town",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.666667,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Ignoitijala",
+      "name_lower": "ignoitijala",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.55,
+      "longitude": 92.35
+    },
+    {
+      "name": "Ilichar",
+      "name_lower": "ilichar",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 13.216667,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Inaka",
+      "name_lower": "inaka",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.066667,
+      "longitude": 93.533333
+    },
+    {
+      "name": "Ingoie",
+      "name_lower": "ingoie",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.516667,
+      "longitude": 92.483333
+    },
+    {
+      "name": "Ingoitijala",
+      "name_lower": "ingoitijala",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.55,
+      "longitude": 92.35
+    },
+    {
+      "name": "Jalebar",
+      "name_lower": "jalebar",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.016667,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Jangli Ghat",
+      "name_lower": "jangli ghat",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.666667,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Kakana",
+      "name_lower": "kakana",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.116667,
+      "longitude": 92.8
+    },
+    {
+      "name": "Kanalla",
+      "name_lower": "kanalla",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.966667,
+      "longitude": 93.916667
+    },
+    {
+      "name": "Karen",
+      "name_lower": "karen",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.85,
+      "longitude": 92.883333
+    },
+    {
+      "name": "Karen village",
+      "name_lower": "karen village",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.85,
+      "longitude": 92.883333
+    },
+    {
+      "name": "Kartara",
+      "name_lower": "kartara",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.733333,
+      "longitude": 92.75
+    },
+    {
+      "name": "Keaiya",
+      "name_lower": "keaiya",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.183333,
+      "longitude": 93.466667
+    },
+    {
+      "name": "Kemios",
+      "name_lower": "kemios",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.133333,
+      "longitude": 92.783333
+    },
+    {
+      "name": "Kerawa",
+      "name_lower": "kerawa",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.25,
+      "longitude": 93.116667
+    },
+    {
+      "name": "Kimus",
+      "name_lower": "kimus",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.133333,
+      "longitude": 92.783333
+    },
+    {
+      "name": "Kire-Henpoan",
+      "name_lower": "kire-henpoan",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.983333,
+      "longitude": 93.383333
+    },
+    {
+      "name": "Koi-hoa",
+      "name_lower": "koi-hoa",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.2,
+      "longitude": 93.483333
+    },
+    {
+      "name": "Koi-mekeah",
+      "name_lower": "koi-mekeah",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.916667,
+      "longitude": 93.35
+    },
+    {
+      "name": "Kola-rue",
+      "name_lower": "kola-rue",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.233333,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Kwachengui",
+      "name_lower": "kwachengui",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.583333,
+      "longitude": 92.6
+    },
+    {
+      "name": "Kwate tu Kwage",
+      "name_lower": "kwate tu kwage",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.616667,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Laful",
+      "name_lower": "laful",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.166667,
+      "longitude": 93.866667
+    },
+    {
+      "name": "Laksi",
+      "name_lower": "laksi",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.216667,
+      "longitude": 93.15
+    },
+    {
+      "name": "Lapate",
+      "name_lower": "lapate",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.216667,
+      "longitude": 92.8
+    },
+    {
+      "name": "Lopate",
+      "name_lower": "lopate",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.216667,
+      "longitude": 92.8
+    },
+    {
+      "name": "Maimyo",
+      "name_lower": "maimyo",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.6,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Maitaita-anla",
+      "name_lower": "maitaita-anla",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.833333,
+      "longitude": 93.883333
+    },
+    {
+      "name": "Malacca",
+      "name_lower": "malacca",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.166667,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Manglutan",
+      "name_lower": "manglutan",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.583333,
+      "longitude": 92.65
+    },
+    {
+      "name": "Mannar Ghat",
+      "name_lower": "mannar ghat",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.766667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Maru",
+      "name_lower": "maru",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.1,
+      "longitude": 93.483333
+    },
+    {
+      "name": "Matait-anla",
+      "name_lower": "matait-anla",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.833333,
+      "longitude": 93.883333
+    },
+    {
+      "name": "Mattai-ta-hoe",
+      "name_lower": "mattai-ta-hoe",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.983333,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Mayabandar",
+      "name_lower": "mayabandar",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.933333,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Mitha Khari",
+      "name_lower": "mitha khari",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.65,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Mohean",
+      "name_lower": "mohean",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.966667,
+      "longitude": 93.316667
+    },
+    {
+      "name": "Moshoit",
+      "name_lower": "moshoit",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.166667,
+      "longitude": 93.516667
+    },
+    {
+      "name": "Mus",
+      "name_lower": "mus",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.233333,
+      "longitude": 92.783333
+    },
+    {
+      "name": "Nachuge",
+      "name_lower": "nachuge",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.783333,
+      "longitude": 92.35
+    },
+    {
+      "name": "Namunaghar",
+      "name_lower": "namunaghar",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.65,
+      "longitude": 92.683333
+    },
+    {
+      "name": "Oal-hetaih",
+      "name_lower": "oal-hetaih",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.916667,
+      "longitude": 93.316667
+    },
+    {
+      "name": "Oallorong",
+      "name_lower": "oallorong",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.316667,
+      "longitude": 93.083333
+    },
+    {
+      "name": "Obate",
+      "name_lower": "obate",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.8,
+      "longitude": 92.6
+    },
+    {
+      "name": "Oel-hetaih",
+      "name_lower": "oel-hetaih",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.916667,
+      "longitude": 93.316667
+    },
+    {
+      "name": "Ok-Chauka",
+      "name_lower": "ok-chauka",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.066667,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Olenchi",
+      "name_lower": "olenchi",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.933333,
+      "longitude": 93.45
+    },
+    {
+      "name": "Oukchaung",
+      "name_lower": "oukchaung",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.15,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Oukchong",
+      "name_lower": "oukchong",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.15,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Pahlagaon",
+      "name_lower": "pahlagaon",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.833333,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Pahua",
+      "name_lower": "pahua",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.366667,
+      "longitude": 93.616667
+    },
+    {
+      "name": "Palalankwe",
+      "name_lower": "palalankwe",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.866667,
+      "longitude": 92.483333
+    },
+    {
+      "name": "Passa",
+      "name_lower": "passa",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.2,
+      "longitude": 92.75
+    },
+    {
+      "name": "Patua",
+      "name_lower": "patua",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.333333,
+      "longitude": 93.7
+    },
+    {
+      "name": "Perka",
+      "name_lower": "perka",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.183333,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Phaiapong",
+      "name_lower": "phaiapong",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 13.283333,
+      "longitude": 92.95
+    },
+    {
+      "name": "Po'shat",
+      "name_lower": "po'shat",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.25,
+      "longitude": 93.216667
+    },
+    {
+      "name": "Poahat",
+      "name_lower": "poahat",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.25,
+      "longitude": 93.216667
+    },
+    {
+      "name": "Port Blair",
+      "name_lower": "port blair",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": 112062,
+      "latitude": 11.666667,
+      "longitude": 92.75
+    },
+    {
+      "name": "Protheroepu",
+      "name_lower": "protheroepu",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.616667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Protheroepur",
+      "name_lower": "protheroepur",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.616667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Pulo Bakka",
+      "name_lower": "pulo bakka",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.844444,
+      "longitude": 93.784722
+    },
+    {
+      "name": "Pulo Kunji",
+      "name_lower": "pulo kunji",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.033333,
+      "longitude": 93.666667
+    },
+    {
+      "name": "Rangachang",
+      "name_lower": "rangachang",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.583333,
+      "longitude": 92.75
+    },
+    {
+      "name": "Rongat",
+      "name_lower": "rongat",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.466667,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Sabari",
+      "name_lower": "sabari",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.5,
+      "longitude": 92.9
+    },
+    {
+      "name": "Sanenya",
+      "name_lower": "sanenya",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.466667,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Sawai",
+      "name_lower": "sawai",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.2,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Sawi",
+      "name_lower": "sawi",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.2,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Shake",
+      "name_lower": "shake",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.883333,
+      "longitude": 93.35
+    },
+    {
+      "name": "Stewartganj",
+      "name_lower": "stewartganj",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.716667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Tabiag",
+      "name_lower": "tabiag",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.216667,
+      "longitude": 93.15
+    },
+    {
+      "name": "Tae-angha",
+      "name_lower": "tae-angha",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 6.933333,
+      "longitude": 93.75
+    },
+    {
+      "name": "Tafwap",
+      "name_lower": "tafwap",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.383333,
+      "longitude": 93.716667
+    },
+    {
+      "name": "Taka-roait",
+      "name_lower": "taka-roait",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.216667,
+      "longitude": 83.533333
+    },
+    {
+      "name": "Talaram",
+      "name_lower": "talaram",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.166667,
+      "longitude": 93.45
+    },
+    {
+      "name": "Talarom",
+      "name_lower": "talarom",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.166667,
+      "longitude": 93.45
+    },
+    {
+      "name": "Tamala",
+      "name_lower": "tamala",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.2,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Tamalco",
+      "name_lower": "tamalco",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.2,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Tamalu",
+      "name_lower": "tamalu",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 9.2,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Tapivang",
+      "name_lower": "tapivang",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.066667,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Tapiyang",
+      "name_lower": "tapiyang",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.066667,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Tapuye",
+      "name_lower": "tapuye",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.9,
+      "longitude": 93.45
+    },
+    {
+      "name": "Taylerabad",
+      "name_lower": "taylerabad",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.6,
+      "longitude": 92.7
+    },
+    {
+      "name": "Temain",
+      "name_lower": "temain",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.25,
+      "longitude": 93.633333
+    },
+    {
+      "name": "Tenlaa",
+      "name_lower": "tenlaa",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 7.016667,
+      "longitude": 93.9
+    },
+    {
+      "name": "Thaiapong",
+      "name_lower": "thaiapong",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 13.283333,
+      "longitude": 92.95
+    },
+    {
+      "name": "Titaije",
+      "name_lower": "titaije",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.716667,
+      "longitude": 92.533333
+    },
+    {
+      "name": "Titaiji",
+      "name_lower": "titaiji",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.716667,
+      "longitude": 92.533333
+    },
+    {
+      "name": "Tochangedu",
+      "name_lower": "tochangedu",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.7,
+      "longitude": 92.35
+    },
+    {
+      "name": "Toibalawe",
+      "name_lower": "toibalawe",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.533333,
+      "longitude": 92.5
+    },
+    {
+      "name": "Toibálewé",
+      "name_lower": "toibalewe",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.533333,
+      "longitude": 92.5
+    },
+    {
+      "name": "Toinyugeda",
+      "name_lower": "toinyugeda",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 10.683333,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Tusonabad",
+      "name_lower": "tusonabad",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.683333,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Wimberleyganj",
+      "name_lower": "wimberleyganj",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.733333,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Wrightmyo",
+      "name_lower": "wrightmyo",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 11.783333,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Yadita",
+      "name_lower": "yadita",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 12.466667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Yat-kirana",
+      "name_lower": "yat-kirana",
+      "state": "Andaman and Nicobar Islands",
+      "state_hi": "अंडमान और निकोबार द्वीप समूह",
+      "region_code": "01",
+      "population": "",
+      "latitude": 8.233333,
+      "longitude": 93.233333
+    }
+  ],
+  "meta": {
+    "title": "अंडमान और निकोबार द्वीप समूह के शहर (Andaman and Nicobar Islands Cities) - मुफ़्त डाउनलोड",
+    "description": "अंडमान और निकोबार द्वीप समूह राज्य के 144 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 144 cities and towns in Andaman and Nicobar Islands, India, with population and geographic coordinates. शामिल हैं 144 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "अंडमान और निकोबार द्वीप समूह के शहर (Andaman and Nicobar Islands Cities) | ListBase",
+    "seo_description": "डाउनलोड अंडमान और निकोबार द्वीप समूह के शहर (Andaman and Nicobar Islands Cities) — 144 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 144 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "hi-maharashtra-unesco-world-heritage-sites",
+  "name": "Maharashtra के यूनेस्को विश्व धरोहर स्थल (Maharashtra UNESCO World Heritage Sites)",
+  "title": "Maharashtra के यूनेस्को विश्व धरोहर स्थल (Maharashtra UNESCO World Heritage Sites)",
+  "description": "UNESCO World Heritage Sites located in Maharashtra, India (5 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"Maharashtra\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "image_url",
+      "label": "Image Url",
+      "type": "string"
+    },
+    {
+      "key": "wiki_url",
+      "label": "Wiki Url",
+      "type": "string"
+    },
+    {
+      "key": "asi_ticket_url",
+      "label": "Asi Ticket Url",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_slug",
+      "label": "Country Slug",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 3,
+      "name": "Ajanta Caves",
+      "name_slug": "ajanta-caves",
+      "state": "Maharashtra",
+      "state_slug": "maharashtra",
+      "latitude": 20.5519,
+      "longitude": 75.7033,
+      "description": "Rock-cut Buddhist cave monuments dating from the 2nd century BCE to about 480 CE. Famous for their ancient paintings and sculptures.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ajanta_Caves%2C_Aurangabad%2C_Maharashtra.jpg/800px-Ajanta_Caves%2C_Aurangabad%2C_Maharashtra.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Ajanta_Caves",
+      "asi_ticket_url": "https://asi.payumoney.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 4,
+      "name": "Ellora Caves",
+      "name_slug": "ellora-caves",
+      "state": "Maharashtra",
+      "state_slug": "maharashtra",
+      "latitude": 20.0269,
+      "longitude": 75.1795,
+      "description": "A UNESCO World Heritage Site featuring Hindu, Buddhist, and Jain monuments carved out of rock. Includes the famous Kailasa temple.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Kailasha_temple_at_ellora.JPG/800px-Kailasha_temple_at_ellora.JPG",
+      "wiki_url": "https://en.wikipedia.org/wiki/Ellora_Caves",
+      "asi_ticket_url": "https://asi.payumoney.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 13,
+      "name": "Elephanta Caves",
+      "name_slug": "elephanta-caves",
+      "state": "Maharashtra",
+      "state_slug": "maharashtra",
+      "latitude": 18.9633,
+      "longitude": 72.9315,
+      "description": "A network of sculpted caves on Elephanta Island. Famous for rock-cut art and sculptures dedicated to Lord Shiva.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Elephanta_Caves_entrance.jpg/800px-Elephanta_Caves_entrance.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Elephanta_Caves",
+      "asi_ticket_url": "https://asi.payumoney.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 14,
+      "name": "Chhatrapati Shivaji Terminus",
+      "name_slug": "chhatrapati-shivaji-terminus",
+      "state": "Maharashtra",
+      "state_slug": "maharashtra",
+      "latitude": 18.9401,
+      "longitude": 72.8352,
+      "description": "A historic railway station in Mumbai and an outstanding example of Victorian Gothic Revival architecture.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/CST_-_Mumbai.jpg/800px-CST_-_Mumbai.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus",
+      "asi_ticket_url": "https://asi.payumoney.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 36,
+      "name": "Victorian Gothic and Art Deco Ensembles of Mumbai",
+      "name_slug": "victorian-gothic-and-art-deco-ensembles-of-mumbai",
+      "state": "Maharashtra",
+      "state_slug": "maharashtra",
+      "latitude": 18.9322,
+      "longitude": 72.8264,
+      "description": "A collection of 19th-century Victorian Gothic and 20th-century Art Deco buildings. Unique blend of architectural styles.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mumbai_CST.jpg/800px-Mumbai_CST.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Victorian_Gothic_and_Art_Deco_Ensembles_of_Mumbai",
+      "asi_ticket_url": "https://maharashtratourism.gov.in/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    }
+  ],
+  "meta": {
+    "title": "Maharashtra के यूनेस्को विश्व धरोहर स्थल (Maharashtra UNESCO World Heritage Sites) - मुफ़्त डाउनलोड",
+    "description": "UNESCO World Heritage Sites located in Maharashtra, India (5 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"Maharashtra\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11). शामिल हैं 5 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Maharashtra के यूनेस्को विश्व धरोहर स्थल (Maharashtra UNESCO World Heritage Sites) | ListBase",
+    "seo_description": "डाउनलोड Maharashtra के यूनेस्को विश्व धरोहर स्थल (Maharashtra UNESCO World Heritage Sites) — 5 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 5 रिकॉर्ड / 14 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

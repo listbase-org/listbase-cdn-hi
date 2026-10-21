@@ -1,0 +1,289 @@
+{
+  "id": "hi-delhi-metro-yellow-line-stations",
+  "name": "दिल्ली मेट्रो Yellow Line स्टेशन (Delhi Metro Yellow Line, 2013)",
+  "title": "दिल्ली मेट्रो Yellow Line स्टेशन (Delhi Metro Yellow Line, 2013)",
+  "description": "34 Delhi Metro stations on the Yellow Line as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "station_name",
+      "label": "Station Name",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "layout",
+      "label": "Layout",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "station_name": "AIIMS",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.56892,
+      "longitude": 77.20771
+    },
+    {
+      "station_name": "Adarsh Nagar",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.71642,
+      "longitude": 77.17046
+    },
+    {
+      "station_name": "Arjan Garh",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.48076,
+      "longitude": 77.12583
+    },
+    {
+      "station_name": "Azadpur",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.70696,
+      "longitude": 77.18053
+    },
+    {
+      "station_name": "Central Secretariat",
+      "lines": "Yellow Line, Violet Line",
+      "layout": "Underground",
+      "latitude": 28.61474,
+      "longitude": 77.21191
+    },
+    {
+      "station_name": "Chandni Chowk",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.65785,
+      "longitude": 77.23014
+    },
+    {
+      "station_name": "Chawri Bazar",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.64931,
+      "longitude": 77.22637
+    },
+    {
+      "station_name": "Chhatarpur",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.50671,
+      "longitude": 77.17484
+    },
+    {
+      "station_name": "Civil Lines",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.67726,
+      "longitude": 77.2241
+    },
+    {
+      "station_name": "GTB Nagar",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.69785,
+      "longitude": 77.20722
+    },
+    {
+      "station_name": "Ghitorni",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.49383,
+      "longitude": 77.14922
+    },
+    {
+      "station_name": "Green Park",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.55979,
+      "longitude": 77.20682
+    },
+    {
+      "station_name": "Guru Dronacharya",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.48203,
+      "longitude": 77.10232
+    },
+    {
+      "station_name": "HUDA City Centre",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.45927,
+      "longitude": 77.07268
+    },
+    {
+      "station_name": "Hauz Khas",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.54335,
+      "longitude": 77.20667
+    },
+    {
+      "station_name": "IFFCO Chowk",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.47209,
+      "longitude": 77.07175
+    },
+    {
+      "station_name": "INA",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.57526,
+      "longitude": 77.20935
+    },
+    {
+      "station_name": "Jahangirpuri",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.72592,
+      "longitude": 77.16267
+    },
+    {
+      "station_name": "Jor Bagh",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.58708,
+      "longitude": 77.21209
+    },
+    {
+      "station_name": "Kashmere Gate",
+      "lines": "Red Line, Yellow Line",
+      "layout": "Elevated(RL), Underground(YL)",
+      "latitude": 28.6675,
+      "longitude": 77.22817
+    },
+    {
+      "station_name": "MG Road",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.47957,
+      "longitude": 77.08006
+    },
+    {
+      "station_name": "Malviya Nagar",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.52798,
+      "longitude": 77.20565
+    },
+    {
+      "station_name": "Model Town",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.70278,
+      "longitude": 77.19363
+    },
+    {
+      "station_name": "New Delhi",
+      "lines": "Yellow Line, Airport Express",
+      "layout": "Underground",
+      "latitude": 28.64307,
+      "longitude": 77.22144
+    },
+    {
+      "station_name": "Patel Chowk",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.62295,
+      "longitude": 77.21389
+    },
+    {
+      "station_name": "Qutab Minar",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.51302,
+      "longitude": 77.18648
+    },
+    {
+      "station_name": "Race Course",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.59726,
+      "longitude": 77.21088
+    },
+    {
+      "station_name": "Rajiv Chowk",
+      "lines": "Yellow Line, Blue Line",
+      "layout": "Underground",
+      "latitude": 28.63282,
+      "longitude": 77.21826
+    },
+    {
+      "station_name": "Saket",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.5206,
+      "longitude": 77.20138
+    },
+    {
+      "station_name": "Sikandarpur",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.48182,
+      "longitude": 77.09235
+    },
+    {
+      "station_name": "Sultanpur",
+      "lines": "Yellow Line",
+      "layout": "Elevated",
+      "latitude": 28.49927,
+      "longitude": 77.16153
+    },
+    {
+      "station_name": "Udyog Bhawan",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.61166,
+      "longitude": 77.21198
+    },
+    {
+      "station_name": "Vidhan Sabha",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.68802,
+      "longitude": 77.2214
+    },
+    {
+      "station_name": "Vishwa Vidyalaya",
+      "lines": "Yellow Line",
+      "layout": "Underground",
+      "latitude": 28.6948,
+      "longitude": 77.21483
+    }
+  ],
+  "meta": {
+    "title": "दिल्ली मेट्रो Yellow Line स्टेशन (Delhi Metro Yellow Line, 2013) - मुफ़्त डाउनलोड",
+    "description": "34 Delhi Metro stations on the Yellow Line as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source). शामिल हैं 34 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "दिल्ली मेट्रो Yellow Line स्टेशन (Delhi Metro Yellow Line, 2013) | ListBase",
+    "seo_description": "डाउनलोड दिल्ली मेट्रो Yellow Line स्टेशन (Delhi Metro Yellow Line, 2013) — 34 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 34 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "hi-vijayawada-bank",
+  "name": "Vijayawada में बैंक — SWIFT/BIC कोड",
+  "title": "Vijayawada में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Vijayawada, India. Subset of hi-bank. Source city string preserved verbatim as \"VIJAYAWADA\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 126,
+      "bank": "ANDHRA BANK",
+      "city": "VIJAYAWADA",
+      "branch": "(VIJAYAWADA MAIN BRANCH)",
+      "swift_code": "ANDBINBBVJA"
+    },
+    {
+      "id": 646,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VIJAYAWADA",
+      "branch": "(ANANTAPUR (AP))",
+      "swift_code": "AXISINBB332"
+    },
+    {
+      "id": 647,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VIJAYAWADA",
+      "branch": "(ONE TOWN, VIJAYAWADA (AP))",
+      "swift_code": "AXISINBB555"
+    },
+    {
+      "id": 648,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VIJAYAWADA",
+      "branch": "(VIJAYWADA)",
+      "swift_code": "AXISINBB069"
+    },
+    {
+      "id": 2219,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "VIJAYAWADA",
+      "branch": "(RING ROAD, VIJAYAWADA)",
+      "swift_code": "IOBAINBBA67"
+    },
+    {
+      "id": 3695,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VIJAYAWADA",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH31"
+    },
+    {
+      "id": 3696,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VIJAYAWADA",
+      "branch": "(NRI BRANCH,VIJAYWADA)",
+      "swift_code": "SBININBB719"
+    },
+    {
+      "id": 3697,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VIJAYAWADA",
+      "branch": "(PATAMATA VIJAYAWADA)",
+      "swift_code": "SBININBB317"
+    },
+    {
+      "id": 3698,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VIJAYAWADA",
+      "branch": "(SPECIALISED MID CORPORATE BRANCH, VIJAYAWADA )",
+      "swift_code": "SBININBB797"
+    },
+    {
+      "id": 3699,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VIJAYAWADA",
+      "branch": "(VIJAYAWADA)",
+      "swift_code": "SBININBB325"
+    },
+    {
+      "id": 3847,
+      "bank": "SYNDICATE BANK",
+      "city": "VIJAYAWADA",
+      "branch": "(LABBIPET VIJAYWADA)",
+      "swift_code": "SYNBINBB478"
+    }
+  ],
+  "meta": {
+    "title": "Vijayawada में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Vijayawada, India. Subset of hi-bank. Source city string preserved verbatim as \"VIJAYAWADA\". शामिल हैं 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Vijayawada में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Vijayawada में बैंक — SWIFT/BIC कोड — 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 11 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

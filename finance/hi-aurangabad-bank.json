@@ -1,0 +1,135 @@
+{
+  "id": "hi-aurangabad-bank",
+  "name": "Aurangabad में बैंक — SWIFT/BIC कोड",
+  "title": "Aurangabad में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Aurangabad, India. Subset of hi-bank. Source city string preserved verbatim as \"AURANGABAD\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 165,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AURANGABAD",
+      "branch": "(AURANGABAD)",
+      "swift_code": "AXISINBB165"
+    },
+    {
+      "id": 166,
+      "bank": "AXIS BANK LIMITED",
+      "city": "AURANGABAD",
+      "branch": "(CIDCO, AURANGABAD)",
+      "swift_code": "AXISINBB750"
+    },
+    {
+      "id": 1124,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "AURANGABAD",
+      "branch": "(KRANTI CHOWK AURANGABAD BRANCH)",
+      "swift_code": "MAHBINBBAUR"
+    },
+    {
+      "id": 1903,
+      "bank": "IDBI BANK LIMITED",
+      "city": "AURANGABAD",
+      "branch": "(AURANGABAD)",
+      "swift_code": "IBKLINBBABD"
+    },
+    {
+      "id": 2099,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "AURANGABAD",
+      "branch": "(AD BRANACH)",
+      "swift_code": "IOBAINBB709"
+    },
+    {
+      "id": 2609,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "AURANGABAD",
+      "branch": "(AURANGPURA)",
+      "swift_code": "PUNBINBBAUR"
+    },
+    {
+      "id": 2850,
+      "bank": "SKODA AUTO INDIA",
+      "city": "AURANGABAD",
+      "branch": "",
+      "swift_code": "SKAIINB1"
+    },
+    {
+      "id": 2915,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AURANGABAD",
+      "branch": "(INDUSTRIAL FIN. BR. AURANGABAD)",
+      "swift_code": "SBININBB359"
+    },
+    {
+      "id": 2916,
+      "bank": "STATE BANK OF INDIA",
+      "city": "AURANGABAD",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBH02"
+    },
+    {
+      "id": 3871,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "AURANGABAD",
+      "branch": "(KHADKESHWAR FOREX)",
+      "swift_code": "SRCBINBBAUR"
+    },
+    {
+      "id": 4039,
+      "bank": "UNION BANK OF INDIA",
+      "city": "AURANGABAD",
+      "branch": "(AURANGABAD MAIN BRANCH)",
+      "swift_code": "UBININBBAUR"
+    },
+    {
+      "id": 4176,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "AURANGABAD",
+      "branch": "(AURANGABAD MAIN BRANCH)",
+      "swift_code": "UWBAINB1ABD"
+    }
+  ],
+  "meta": {
+    "title": "Aurangabad में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Aurangabad, India. Subset of hi-bank. Source city string preserved verbatim as \"AURANGABAD\". शामिल हैं 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Aurangabad में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Aurangabad में बैंक — SWIFT/BIC कोड — 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 12 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

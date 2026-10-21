@@ -1,0 +1,5496 @@
+{
+  "id": "hi-lok-sabha-nirvachan-kshetra",
+  "name": "भारत — लोक सभा निर्वाचन क्षेत्र (संसदीय क्षेत्र सूची, 2008 परिसीमन)",
+  "title": "भारत — लोक सभा निर्वाचन क्षेत्र (संसदीय क्षेत्र सूची, 2008 परिसीमन)",
+  "description": "Authoritative list of the 543 Lok Sabha (Indian Parliament lower house) Parliamentary Constituencies (PCs) as established by the 2008 Delimitation Commission order. Each PC is the geographic unit that elects one Member of Parliament (MP). Records include state code/abbreviation, PC code, PC name, and PC type (GEN/SC/ST reservation status). Compiled by DataMeet from Election Commission of India (ECI) source records.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 543,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_abbr",
+      "label": "State Abbr",
+      "type": "string"
+    },
+    {
+      "key": "state_name_en",
+      "label": "State Name En",
+      "type": "string"
+    },
+    {
+      "key": "state_name_hi",
+      "label": "State Name Hi",
+      "type": "string"
+    },
+    {
+      "key": "pc_code",
+      "label": "Pc Code",
+      "type": "number"
+    },
+    {
+      "key": "pc_name_en",
+      "label": "Pc Name En",
+      "type": "string"
+    },
+    {
+      "key": "pc_type",
+      "label": "Pc Type",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "U01-PC001",
+      "state_code": "U01",
+      "state_abbr": "AN",
+      "state_name_en": "Andaman and Nicobar Islands",
+      "state_name_hi": "अंडमान और निकोबार द्वीपसमूह",
+      "pc_code": 1,
+      "pc_name_en": "Andaman and Nicobar Islands",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC001",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 1,
+      "pc_name_en": "Adilabad",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S01-PC002",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 2,
+      "pc_name_en": "Peddapalle",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S01-PC003",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 3,
+      "pc_name_en": "Karimnagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC004",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 4,
+      "pc_name_en": "Nizamabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC005",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 5,
+      "pc_name_en": "Zahirabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC006",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 6,
+      "pc_name_en": "Medak",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC007",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 7,
+      "pc_name_en": "Malkajgiri",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC008",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 8,
+      "pc_name_en": "Secunderabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC009",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 9,
+      "pc_name_en": "Hyderabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC010",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 10,
+      "pc_name_en": "Chevella",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC011",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 11,
+      "pc_name_en": "Mahbubnagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC012",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 12,
+      "pc_name_en": "Nagarkurnool",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC013",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 13,
+      "pc_name_en": "Nalgonda",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC014",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 14,
+      "pc_name_en": "Bhongir",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC015",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 15,
+      "pc_name_en": "Warangal",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S01-PC016",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 16,
+      "pc_name_en": "Mahabubabad",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S01-PC017",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 17,
+      "pc_name_en": "Khammam",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC018",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 18,
+      "pc_name_en": "Araku",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S01-PC019",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 19,
+      "pc_name_en": "Srikakulam",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC020",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 20,
+      "pc_name_en": "Vizianagaram",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC021",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 21,
+      "pc_name_en": "Visakhapatnam",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC022",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 22,
+      "pc_name_en": "Anakapalle",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC023",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 23,
+      "pc_name_en": "Kakinada",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC024",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 24,
+      "pc_name_en": "Amalapuram",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S01-PC025",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 25,
+      "pc_name_en": "Rajahmundry",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC026",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 26,
+      "pc_name_en": "Narsapuram",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC027",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 27,
+      "pc_name_en": "Eluru",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC028",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 28,
+      "pc_name_en": "Machilipatnam",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC029",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 29,
+      "pc_name_en": "Vijayawada",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC030",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 30,
+      "pc_name_en": "Guntur",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC031",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 31,
+      "pc_name_en": "Narasaraopet",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC032",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 32,
+      "pc_name_en": "Bapatla",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S01-PC033",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 33,
+      "pc_name_en": "Ongole",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC034",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 34,
+      "pc_name_en": "Nandyal",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC035",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 35,
+      "pc_name_en": "Kurnool",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC036",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 36,
+      "pc_name_en": "Anantapur",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC037",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 37,
+      "pc_name_en": "Hindupur",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC038",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 38,
+      "pc_name_en": "Kadapa",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC039",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 39,
+      "pc_name_en": "Nellore",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC040",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 40,
+      "pc_name_en": "Tirupati",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S01-PC041",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 41,
+      "pc_name_en": "Rajampet",
+      "pc_type": ""
+    },
+    {
+      "id": "S01-PC042",
+      "state_code": "S01",
+      "state_abbr": "AP",
+      "state_name_en": "Andhra Pradesh",
+      "state_name_hi": "आंध्र प्रदेश",
+      "pc_code": 42,
+      "pc_name_en": "Chittoor",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S02-PC001",
+      "state_code": "S02",
+      "state_abbr": "AR",
+      "state_name_en": "Arunachal Pradesh",
+      "state_name_hi": "अरुणाचल प्रदेश",
+      "pc_code": 1,
+      "pc_name_en": "Arunachal West",
+      "pc_type": ""
+    },
+    {
+      "id": "S02-PC002",
+      "state_code": "S02",
+      "state_abbr": "AR",
+      "state_name_en": "Arunachal Pradesh",
+      "state_name_hi": "अरुणाचल प्रदेश",
+      "pc_code": 2,
+      "pc_name_en": "Arunachal East",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC001",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 1,
+      "pc_name_en": "Karimganj",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S03-PC002",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 2,
+      "pc_name_en": "Silchar",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC003",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 3,
+      "pc_name_en": "Autonomous District",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S03-PC004",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 4,
+      "pc_name_en": "Dhubri",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC005",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 5,
+      "pc_name_en": "Kokrajhar",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S03-PC006",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 6,
+      "pc_name_en": "Barpeta",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC007",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 7,
+      "pc_name_en": "Gauhati",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC008",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 8,
+      "pc_name_en": "Mangaldoi",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC009",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 9,
+      "pc_name_en": "Tezpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC010",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 10,
+      "pc_name_en": "Nawgong",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC011",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 11,
+      "pc_name_en": "Kaliabor",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC012",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 12,
+      "pc_name_en": "Jorhat",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC013",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 13,
+      "pc_name_en": "Dibrugarh",
+      "pc_type": ""
+    },
+    {
+      "id": "S03-PC014",
+      "state_code": "S03",
+      "state_abbr": "AS",
+      "state_name_en": "Assam",
+      "state_name_hi": "असम",
+      "pc_code": 14,
+      "pc_name_en": "Lakhimpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC001",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 1,
+      "pc_name_en": "Valmiki Nagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC002",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 2,
+      "pc_name_en": "Paschim Champaran",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC003",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 3,
+      "pc_name_en": "Purvi Champaran",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC004",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 4,
+      "pc_name_en": "Sheohar",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC005",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 5,
+      "pc_name_en": "Sitamarhi",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC006",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 6,
+      "pc_name_en": "Madhubani",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC007",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 7,
+      "pc_name_en": "Jhanjharpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC008",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 8,
+      "pc_name_en": "Supaul",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC009",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 9,
+      "pc_name_en": "Araria",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC010",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 10,
+      "pc_name_en": "Kishanganj",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC011",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 11,
+      "pc_name_en": "Katihar",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC012",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 12,
+      "pc_name_en": "Purnia",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC013",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 13,
+      "pc_name_en": "Madhepura",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC014",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 14,
+      "pc_name_en": "Darbhanga",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC015",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 15,
+      "pc_name_en": "Muzaffarpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC016",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 16,
+      "pc_name_en": "Vaishali",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC017",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 17,
+      "pc_name_en": "Gopalganj",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S04-PC018",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 18,
+      "pc_name_en": "Siwan",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC019",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 19,
+      "pc_name_en": "Maharajganj",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC020",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 20,
+      "pc_name_en": "Saran",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC021",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 21,
+      "pc_name_en": "Hajipur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S04-PC022",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 22,
+      "pc_name_en": "Ujiarpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC023",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 23,
+      "pc_name_en": "Samastipur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S04-PC024",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 24,
+      "pc_name_en": "Begusarai",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC025",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 25,
+      "pc_name_en": "Khagaria",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC026",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 26,
+      "pc_name_en": "Bhagalpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC027",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 27,
+      "pc_name_en": "Banka",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC028",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 28,
+      "pc_name_en": "Munger",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC029",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 29,
+      "pc_name_en": "Nalanda",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC030",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 30,
+      "pc_name_en": "Patna Sahib",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC031",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 31,
+      "pc_name_en": "Pataliputra",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC032",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 32,
+      "pc_name_en": "Arrah",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC033",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 33,
+      "pc_name_en": "Buxar",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC034",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 34,
+      "pc_name_en": "Sasaram",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S04-PC035",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 35,
+      "pc_name_en": "Karakat",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC036",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 36,
+      "pc_name_en": "Jahanabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC037",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 37,
+      "pc_name_en": "Aurangabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC038",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 38,
+      "pc_name_en": "Gaya",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S04-PC039",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 39,
+      "pc_name_en": "Nawada",
+      "pc_type": ""
+    },
+    {
+      "id": "S04-PC040",
+      "state_code": "S04",
+      "state_abbr": "BR",
+      "state_name_en": "Bihar",
+      "state_name_hi": "बिहार",
+      "pc_code": 40,
+      "pc_name_en": "Jamui",
+      "pc_type": "SC"
+    },
+    {
+      "id": "U02-PC001",
+      "state_code": "U02",
+      "state_abbr": "CH",
+      "state_name_en": "Chandigarh",
+      "state_name_hi": "चंडीगढ़",
+      "pc_code": 1,
+      "pc_name_en": "Chandigarh",
+      "pc_type": ""
+    },
+    {
+      "id": "S26-PC001",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 1,
+      "pc_name_en": "Surguja",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S26-PC002",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 2,
+      "pc_name_en": "Raigarh",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S26-PC003",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 3,
+      "pc_name_en": "Janjgir-Champa",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S26-PC004",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 4,
+      "pc_name_en": "Korba",
+      "pc_type": ""
+    },
+    {
+      "id": "S26-PC005",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 5,
+      "pc_name_en": "Bilaspur",
+      "pc_type": ""
+    },
+    {
+      "id": "S26-PC006",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 6,
+      "pc_name_en": "Rajnandgaon",
+      "pc_type": ""
+    },
+    {
+      "id": "S26-PC007",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 7,
+      "pc_name_en": "Durg",
+      "pc_type": ""
+    },
+    {
+      "id": "S26-PC008",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 8,
+      "pc_name_en": "Raipur",
+      "pc_type": ""
+    },
+    {
+      "id": "S26-PC009",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 9,
+      "pc_name_en": "Mahasamund",
+      "pc_type": ""
+    },
+    {
+      "id": "S26-PC010",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 10,
+      "pc_name_en": "Bastar",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S26-PC011",
+      "state_code": "S26",
+      "state_abbr": "CG",
+      "state_name_en": "Chhattisgarh",
+      "state_name_hi": "छत्तीसगढ़",
+      "pc_code": 11,
+      "pc_name_en": "Kanker",
+      "pc_type": "ST"
+    },
+    {
+      "id": "U03-PC001",
+      "state_code": "U03",
+      "state_abbr": "DN",
+      "state_name_en": "Dadra and Nagar Haveli",
+      "state_name_hi": "दादरा और नगर हवेली",
+      "pc_code": 1,
+      "pc_name_en": "Dadra and Nagar Haveli",
+      "pc_type": "ST"
+    },
+    {
+      "id": "U04-PC001",
+      "state_code": "U04",
+      "state_abbr": "DD",
+      "state_name_en": "Daman and Diu",
+      "state_name_hi": "दमन और दीव",
+      "pc_code": 1,
+      "pc_name_en": "Daman and Diu",
+      "pc_type": ""
+    },
+    {
+      "id": "S05-PC001",
+      "state_code": "S05",
+      "state_abbr": "GA",
+      "state_name_en": "Goa",
+      "state_name_hi": "गोवा",
+      "pc_code": 1,
+      "pc_name_en": "North Goa",
+      "pc_type": ""
+    },
+    {
+      "id": "S05-PC002",
+      "state_code": "S05",
+      "state_abbr": "GA",
+      "state_name_en": "Goa",
+      "state_name_hi": "गोवा",
+      "pc_code": 2,
+      "pc_name_en": "South Goa",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC001",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 1,
+      "pc_name_en": "Kachchh",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S06-PC002",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 2,
+      "pc_name_en": "Banaskantha",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC003",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 3,
+      "pc_name_en": "Patan",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC004",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 4,
+      "pc_name_en": "Mahesana",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC005",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 5,
+      "pc_name_en": "Sabarkantha",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC006",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 6,
+      "pc_name_en": "Gandhinagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC007",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 7,
+      "pc_name_en": "Ahmedabad East",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC008",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 8,
+      "pc_name_en": "Ahmedabad West",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S06-PC009",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 9,
+      "pc_name_en": "Surendranagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC010",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 10,
+      "pc_name_en": "Rajkot",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC011",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 11,
+      "pc_name_en": "Porbandar",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC012",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 12,
+      "pc_name_en": "Jamnagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC013",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 13,
+      "pc_name_en": "Junagadh",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC014",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 14,
+      "pc_name_en": "Amreli",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC015",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 15,
+      "pc_name_en": "Bhavnagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC016",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 16,
+      "pc_name_en": "Anand",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC017",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 17,
+      "pc_name_en": "Kheda",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC018",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 18,
+      "pc_name_en": "Panchmahal",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC019",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 19,
+      "pc_name_en": "Dahod",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S06-PC020",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 20,
+      "pc_name_en": "Vadodara",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC021",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 21,
+      "pc_name_en": "Chhota Udaipur",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S06-PC022",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 22,
+      "pc_name_en": "Bharuch",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC023",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 23,
+      "pc_name_en": "Bardoli",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S06-PC024",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 24,
+      "pc_name_en": "Surat",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC025",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 25,
+      "pc_name_en": "Navsari",
+      "pc_type": ""
+    },
+    {
+      "id": "S06-PC026",
+      "state_code": "S06",
+      "state_abbr": "GJ",
+      "state_name_en": "Gujarat",
+      "state_name_hi": "गुजरात",
+      "pc_code": 26,
+      "pc_name_en": "Valsad",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S07-PC001",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 1,
+      "pc_name_en": "Ambala",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S07-PC002",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 2,
+      "pc_name_en": "Kurukshetra",
+      "pc_type": ""
+    },
+    {
+      "id": "S07-PC003",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 3,
+      "pc_name_en": "Sirsa",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S07-PC004",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 4,
+      "pc_name_en": "Hisar",
+      "pc_type": ""
+    },
+    {
+      "id": "S07-PC005",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 5,
+      "pc_name_en": "Karnal",
+      "pc_type": ""
+    },
+    {
+      "id": "S07-PC006",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 6,
+      "pc_name_en": "Sonipat",
+      "pc_type": ""
+    },
+    {
+      "id": "S07-PC007",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 7,
+      "pc_name_en": "Rohtak",
+      "pc_type": ""
+    },
+    {
+      "id": "S07-PC008",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 8,
+      "pc_name_en": "Bhiwani-Mahendragarh",
+      "pc_type": ""
+    },
+    {
+      "id": "S07-PC009",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 9,
+      "pc_name_en": "Gurgaon",
+      "pc_type": ""
+    },
+    {
+      "id": "S07-PC010",
+      "state_code": "S07",
+      "state_abbr": "HR",
+      "state_name_en": "Haryana",
+      "state_name_hi": "हरियाणा",
+      "pc_code": 10,
+      "pc_name_en": "Faridabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S08-PC001",
+      "state_code": "S08",
+      "state_abbr": "HP",
+      "state_name_en": "Himachal Pradesh",
+      "state_name_hi": "हिमाचल प्रदेश",
+      "pc_code": 1,
+      "pc_name_en": "Kangra",
+      "pc_type": ""
+    },
+    {
+      "id": "S08-PC002",
+      "state_code": "S08",
+      "state_abbr": "HP",
+      "state_name_en": "Himachal Pradesh",
+      "state_name_hi": "हिमाचल प्रदेश",
+      "pc_code": 2,
+      "pc_name_en": "Mandi",
+      "pc_type": ""
+    },
+    {
+      "id": "S08-PC003",
+      "state_code": "S08",
+      "state_abbr": "HP",
+      "state_name_en": "Himachal Pradesh",
+      "state_name_hi": "हिमाचल प्रदेश",
+      "pc_code": 3,
+      "pc_name_en": "Hamirpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S08-PC004",
+      "state_code": "S08",
+      "state_abbr": "HP",
+      "state_name_en": "Himachal Pradesh",
+      "state_name_hi": "हिमाचल प्रदेश",
+      "pc_code": 4,
+      "pc_name_en": "Shimla",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S09-PC001",
+      "state_code": "S09",
+      "state_abbr": "JK",
+      "state_name_en": "Jammu & Kashmir",
+      "state_name_hi": "जम्मू और कश्मीर",
+      "pc_code": 1,
+      "pc_name_en": "Baramulla",
+      "pc_type": ""
+    },
+    {
+      "id": "S09-PC002",
+      "state_code": "S09",
+      "state_abbr": "JK",
+      "state_name_en": "Jammu & Kashmir",
+      "state_name_hi": "जम्मू और कश्मीर",
+      "pc_code": 2,
+      "pc_name_en": "Srinagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S09-PC003",
+      "state_code": "S09",
+      "state_abbr": "JK",
+      "state_name_en": "Jammu & Kashmir",
+      "state_name_hi": "जम्मू और कश्मीर",
+      "pc_code": 3,
+      "pc_name_en": "Anantnag",
+      "pc_type": ""
+    },
+    {
+      "id": "S09-PC004",
+      "state_code": "S09",
+      "state_abbr": "JK",
+      "state_name_en": "Jammu & Kashmir",
+      "state_name_hi": "जम्मू और कश्मीर",
+      "pc_code": 4,
+      "pc_name_en": "Ladakh",
+      "pc_type": ""
+    },
+    {
+      "id": "S09-PC005",
+      "state_code": "S09",
+      "state_abbr": "JK",
+      "state_name_en": "Jammu & Kashmir",
+      "state_name_hi": "जम्मू और कश्मीर",
+      "pc_code": 5,
+      "pc_name_en": "Udhampur",
+      "pc_type": ""
+    },
+    {
+      "id": "S09-PC006",
+      "state_code": "S09",
+      "state_abbr": "JK",
+      "state_name_en": "Jammu & Kashmir",
+      "state_name_hi": "जम्मू और कश्मीर",
+      "pc_code": 6,
+      "pc_name_en": "Jammu",
+      "pc_type": ""
+    },
+    {
+      "id": "S27-PC001",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 1,
+      "pc_name_en": "Rajmahal",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S27-PC002",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 2,
+      "pc_name_en": "Dumka",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S27-PC003",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 3,
+      "pc_name_en": "Godda",
+      "pc_type": ""
+    },
+    {
+      "id": "S27-PC004",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 4,
+      "pc_name_en": "Chatra",
+      "pc_type": ""
+    },
+    {
+      "id": "S27-PC005",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 5,
+      "pc_name_en": "Kodarma",
+      "pc_type": ""
+    },
+    {
+      "id": "S27-PC006",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 6,
+      "pc_name_en": "Giridih",
+      "pc_type": ""
+    },
+    {
+      "id": "S27-PC007",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 7,
+      "pc_name_en": "Dhanbad",
+      "pc_type": ""
+    },
+    {
+      "id": "S27-PC008",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 8,
+      "pc_name_en": "Ranchi",
+      "pc_type": ""
+    },
+    {
+      "id": "S27-PC009",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 9,
+      "pc_name_en": "Jamshedpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S27-PC010",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 10,
+      "pc_name_en": "Singhbhum",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S27-PC011",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 11,
+      "pc_name_en": "Khunti",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S27-PC012",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 12,
+      "pc_name_en": "Lohardaga",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S27-PC013",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 13,
+      "pc_name_en": "Palamu",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S27-PC014",
+      "state_code": "S27",
+      "state_abbr": "JH",
+      "state_name_en": "Jharkhand",
+      "state_name_hi": "झारखंड",
+      "pc_code": 14,
+      "pc_name_en": "Hazaribagh",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC001",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 1,
+      "pc_name_en": "Chikkodi",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC002",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 2,
+      "pc_name_en": "Belgaum",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC003",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 3,
+      "pc_name_en": "Bagalkot",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC004",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 4,
+      "pc_name_en": "Bijapur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S10-PC005",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 5,
+      "pc_name_en": "Gulbarga",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S10-PC006",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 6,
+      "pc_name_en": "Raichur",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S10-PC007",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 7,
+      "pc_name_en": "Bidar",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC008",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 8,
+      "pc_name_en": "Koppal",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC009",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 9,
+      "pc_name_en": "Bellary",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S10-PC010",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 10,
+      "pc_name_en": "Haveri",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC011",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 11,
+      "pc_name_en": "Dharwad",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC012",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 12,
+      "pc_name_en": "Uttara Kannada",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC013",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 13,
+      "pc_name_en": "Davanagere",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC014",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 14,
+      "pc_name_en": "Shimoga",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC015",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 15,
+      "pc_name_en": "Udupi Chikmagalur",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC016",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 16,
+      "pc_name_en": "Hassan",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC017",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 17,
+      "pc_name_en": "Dakshina Kannada",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC018",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 18,
+      "pc_name_en": "Chitradurga",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S10-PC019",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 19,
+      "pc_name_en": "Tumkur",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC020",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 20,
+      "pc_name_en": "Mandya",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC021",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 21,
+      "pc_name_en": "Mysore",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC022",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 22,
+      "pc_name_en": "Chamarajanagar",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S10-PC023",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 23,
+      "pc_name_en": "Bangalore Rural",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC024",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 24,
+      "pc_name_en": "Bangalore North",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC025",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 25,
+      "pc_name_en": "Bangalore Central",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC026",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 26,
+      "pc_name_en": "Bangalore South",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC027",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 27,
+      "pc_name_en": "Chikkballapur",
+      "pc_type": ""
+    },
+    {
+      "id": "S10-PC028",
+      "state_code": "S10",
+      "state_abbr": "KA",
+      "state_name_en": "Karnataka",
+      "state_name_hi": "कर्नाटक",
+      "pc_code": 28,
+      "pc_name_en": "Kolar",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S11-PC001",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 1,
+      "pc_name_en": "Kasaragod",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC002",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 2,
+      "pc_name_en": "Kannur",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC003",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 3,
+      "pc_name_en": "Vadakara",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC004",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 4,
+      "pc_name_en": "Wayanad",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC005",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 5,
+      "pc_name_en": "Kozhikode",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC006",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 6,
+      "pc_name_en": "Malappuram",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC007",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 7,
+      "pc_name_en": "Ponnani",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC008",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 8,
+      "pc_name_en": "Palakkad",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC009",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 9,
+      "pc_name_en": "Alathur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S11-PC010",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 10,
+      "pc_name_en": "Thrissur",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC011",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 11,
+      "pc_name_en": "Chalakudy",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC012",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 12,
+      "pc_name_en": "Ernakulam",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC013",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 13,
+      "pc_name_en": "Idukki",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC014",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 14,
+      "pc_name_en": "Kottayam",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC015",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 15,
+      "pc_name_en": "Alappuzha",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC016",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 16,
+      "pc_name_en": "Mavelikkara",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S11-PC017",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 17,
+      "pc_name_en": "Pathanamthitta",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC018",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 18,
+      "pc_name_en": "Kollam",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC019",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 19,
+      "pc_name_en": "Attingal",
+      "pc_type": ""
+    },
+    {
+      "id": "S11-PC020",
+      "state_code": "S11",
+      "state_abbr": "KL",
+      "state_name_en": "Kerala",
+      "state_name_hi": "केरल",
+      "pc_code": 20,
+      "pc_name_en": "Thiruvananthapuram",
+      "pc_type": ""
+    },
+    {
+      "id": "U06-PC001",
+      "state_code": "U06",
+      "state_abbr": "LD",
+      "state_name_en": "Lakshadweep",
+      "state_name_hi": "लक्षद्वीप",
+      "pc_code": 1,
+      "pc_name_en": "Lakshadweep",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S12-PC001",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 1,
+      "pc_name_en": "Morena",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC002",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 2,
+      "pc_name_en": "Bhind",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S12-PC003",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 3,
+      "pc_name_en": "Gwalior",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC004",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 4,
+      "pc_name_en": "Guna",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC005",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 5,
+      "pc_name_en": "Sagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC006",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 6,
+      "pc_name_en": "Tikamgarh",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S12-PC007",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 7,
+      "pc_name_en": "Damoh",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC008",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 8,
+      "pc_name_en": "Khajuraho",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC009",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 9,
+      "pc_name_en": "Satna",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC010",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 10,
+      "pc_name_en": "Rewa",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC011",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 11,
+      "pc_name_en": "Sidhi",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC012",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 12,
+      "pc_name_en": "Shahdol",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S12-PC013",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 13,
+      "pc_name_en": "Jabalpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC014",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 14,
+      "pc_name_en": "Mandla",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S12-PC015",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 15,
+      "pc_name_en": "Balaghat",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC016",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 16,
+      "pc_name_en": "Chhindwara",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC017",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 17,
+      "pc_name_en": "Hoshangabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC018",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 18,
+      "pc_name_en": "Vidisha",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC019",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 19,
+      "pc_name_en": "Bhopal",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC020",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 20,
+      "pc_name_en": "Rajgarh",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC021",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 21,
+      "pc_name_en": "Dewas",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S12-PC022",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 22,
+      "pc_name_en": "Ujjain",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S12-PC023",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 23,
+      "pc_name_en": "Mandsour",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC024",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 24,
+      "pc_name_en": "Ratlam",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S12-PC025",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 25,
+      "pc_name_en": "Dhar",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S12-PC026",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 26,
+      "pc_name_en": "Indore",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC027",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 27,
+      "pc_name_en": "Khargone",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S12-PC028",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 28,
+      "pc_name_en": "Khandwa",
+      "pc_type": ""
+    },
+    {
+      "id": "S12-PC029",
+      "state_code": "S12",
+      "state_abbr": "MP",
+      "state_name_en": "Madhya Pradesh",
+      "state_name_hi": "मध्य प्रदेश",
+      "pc_code": 29,
+      "pc_name_en": "Betul",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S13-PC001",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 1,
+      "pc_name_en": "Nandurbar",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S13-PC002",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 2,
+      "pc_name_en": "Dhule",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC003",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 3,
+      "pc_name_en": "Jalgaon",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC004",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 4,
+      "pc_name_en": "Raver",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC005",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 5,
+      "pc_name_en": "Buldhana",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC006",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 6,
+      "pc_name_en": "Akola",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC007",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 7,
+      "pc_name_en": "Amravati",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S13-PC008",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 8,
+      "pc_name_en": "Wardha",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC009",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 9,
+      "pc_name_en": "Ramtek",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S13-PC010",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 10,
+      "pc_name_en": "Nagpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC011",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 11,
+      "pc_name_en": "Bhandara-Gondiya",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC012",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 12,
+      "pc_name_en": "Gadchiroli-Chimur",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S13-PC013",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 13,
+      "pc_name_en": "Chandrapur",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC014",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 14,
+      "pc_name_en": "Yavatmal-Washim",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC015",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 15,
+      "pc_name_en": "Hingoli",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC016",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 16,
+      "pc_name_en": "Nanded",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC017",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 17,
+      "pc_name_en": "Parbhani",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC018",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 18,
+      "pc_name_en": "Jalna",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC019",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 19,
+      "pc_name_en": "Aurangabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC020",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 20,
+      "pc_name_en": "Dindori",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S13-PC021",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 21,
+      "pc_name_en": "Nashik",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC022",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 22,
+      "pc_name_en": "Palghar",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S13-PC023",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 23,
+      "pc_name_en": "Bhiwandi",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC024",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 24,
+      "pc_name_en": "Kalyan",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC025",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 25,
+      "pc_name_en": "Thane",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC026",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 26,
+      "pc_name_en": "Mumbai North",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC027",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 27,
+      "pc_name_en": "Mumbai North-West",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC028",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 28,
+      "pc_name_en": "Mumbai North-East",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC029",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 29,
+      "pc_name_en": "Mumbai North-Central",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC030",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 30,
+      "pc_name_en": "Mumbai South-Central",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC031",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 31,
+      "pc_name_en": "Mumbai South",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC032",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 32,
+      "pc_name_en": "Raigad",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC033",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 33,
+      "pc_name_en": "Maval",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC034",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 34,
+      "pc_name_en": "Pune",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC035",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 35,
+      "pc_name_en": "Baramati",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC036",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 36,
+      "pc_name_en": "Shirur",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC037",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 37,
+      "pc_name_en": "Ahmednagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC038",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 38,
+      "pc_name_en": "Shirdi",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S13-PC039",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 39,
+      "pc_name_en": "Beed",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC040",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 40,
+      "pc_name_en": "Osmanabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC041",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 41,
+      "pc_name_en": "Latur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S13-PC042",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 42,
+      "pc_name_en": "Solapur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S13-PC043",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 43,
+      "pc_name_en": "Madha",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC044",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 44,
+      "pc_name_en": "Sangli",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC045",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 45,
+      "pc_name_en": "Satara",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC046",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 46,
+      "pc_name_en": "Ratnagiri Sindhudurg",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC047",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 47,
+      "pc_name_en": "Kolhapur",
+      "pc_type": ""
+    },
+    {
+      "id": "S13-PC048",
+      "state_code": "S13",
+      "state_abbr": "MH",
+      "state_name_en": "Maharashtra",
+      "state_name_hi": "महाराष्ट्र",
+      "pc_code": 48,
+      "pc_name_en": "Hatkanangle",
+      "pc_type": ""
+    },
+    {
+      "id": "S14-PC001",
+      "state_code": "S14",
+      "state_abbr": "MN",
+      "state_name_en": "Manipur",
+      "state_name_hi": "मणिपुर",
+      "pc_code": 1,
+      "pc_name_en": "Inner Manipur",
+      "pc_type": ""
+    },
+    {
+      "id": "S14-PC002",
+      "state_code": "S14",
+      "state_abbr": "MN",
+      "state_name_en": "Manipur",
+      "state_name_hi": "मणिपुर",
+      "pc_code": 2,
+      "pc_name_en": "Outer Manipur",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S15-PC001",
+      "state_code": "S15",
+      "state_abbr": "ML",
+      "state_name_en": "Meghalaya",
+      "state_name_hi": "मेघालय",
+      "pc_code": 1,
+      "pc_name_en": "Shillong",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S15-PC002",
+      "state_code": "S15",
+      "state_abbr": "ML",
+      "state_name_en": "Meghalaya",
+      "state_name_hi": "मेघालय",
+      "pc_code": 2,
+      "pc_name_en": "Tura",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S16-PC001",
+      "state_code": "S16",
+      "state_abbr": "MZ",
+      "state_name_en": "Mizoram",
+      "state_name_hi": "मिज़ोरम",
+      "pc_code": 1,
+      "pc_name_en": "Mizoram",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S17-PC001",
+      "state_code": "S17",
+      "state_abbr": "NL",
+      "state_name_en": "Nagaland",
+      "state_name_hi": "नागालैंड",
+      "pc_code": 1,
+      "pc_name_en": "Nagaland",
+      "pc_type": ""
+    },
+    {
+      "id": "U05-PC001",
+      "state_code": "U05",
+      "state_abbr": "DL",
+      "state_name_en": "Nct of Delhi",
+      "state_name_hi": "दिल्ली राष्ट्रीय राजधानी क्षेत्र",
+      "pc_code": 1,
+      "pc_name_en": "Chandni Chowk",
+      "pc_type": ""
+    },
+    {
+      "id": "U05-PC002",
+      "state_code": "U05",
+      "state_abbr": "DL",
+      "state_name_en": "Nct of Delhi",
+      "state_name_hi": "दिल्ली राष्ट्रीय राजधानी क्षेत्र",
+      "pc_code": 2,
+      "pc_name_en": "North East Delhi",
+      "pc_type": ""
+    },
+    {
+      "id": "U05-PC003",
+      "state_code": "U05",
+      "state_abbr": "DL",
+      "state_name_en": "Nct of Delhi",
+      "state_name_hi": "दिल्ली राष्ट्रीय राजधानी क्षेत्र",
+      "pc_code": 3,
+      "pc_name_en": "East Delhi",
+      "pc_type": ""
+    },
+    {
+      "id": "U05-PC004",
+      "state_code": "U05",
+      "state_abbr": "DL",
+      "state_name_en": "Nct of Delhi",
+      "state_name_hi": "दिल्ली राष्ट्रीय राजधानी क्षेत्र",
+      "pc_code": 4,
+      "pc_name_en": "New Delhi",
+      "pc_type": ""
+    },
+    {
+      "id": "U05-PC005",
+      "state_code": "U05",
+      "state_abbr": "DL",
+      "state_name_en": "Nct of Delhi",
+      "state_name_hi": "दिल्ली राष्ट्रीय राजधानी क्षेत्र",
+      "pc_code": 5,
+      "pc_name_en": "North West Delhi",
+      "pc_type": "SC"
+    },
+    {
+      "id": "U05-PC006",
+      "state_code": "U05",
+      "state_abbr": "DL",
+      "state_name_en": "Nct of Delhi",
+      "state_name_hi": "दिल्ली राष्ट्रीय राजधानी क्षेत्र",
+      "pc_code": 6,
+      "pc_name_en": "West Delhi",
+      "pc_type": ""
+    },
+    {
+      "id": "U05-PC007",
+      "state_code": "U05",
+      "state_abbr": "DL",
+      "state_name_en": "Nct of Delhi",
+      "state_name_hi": "दिल्ली राष्ट्रीय राजधानी क्षेत्र",
+      "pc_code": 7,
+      "pc_name_en": "South Delhi",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC001",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 1,
+      "pc_name_en": "Bargarh",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC002",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 2,
+      "pc_name_en": "Sundargarh",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S18-PC003",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 3,
+      "pc_name_en": "Sambalpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC004",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 4,
+      "pc_name_en": "Keonjhar",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S18-PC005",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 5,
+      "pc_name_en": "Mayurbhanj",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S18-PC006",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 6,
+      "pc_name_en": "Balasore",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC007",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 7,
+      "pc_name_en": "Bhadrak",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S18-PC008",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 8,
+      "pc_name_en": "Jajpur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S18-PC009",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 9,
+      "pc_name_en": "Dhenkanal",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC010",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 10,
+      "pc_name_en": "Bolangir",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC011",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 11,
+      "pc_name_en": "Kalahandi",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC012",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 12,
+      "pc_name_en": "Nabarangpur",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S18-PC013",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 13,
+      "pc_name_en": "Kandhamal",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC014",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 14,
+      "pc_name_en": "Cuttack",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC015",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 15,
+      "pc_name_en": "Kendrapara",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC016",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 16,
+      "pc_name_en": "Jagatsinghpur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S18-PC017",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 17,
+      "pc_name_en": "Puri",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC018",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 18,
+      "pc_name_en": "Bhubaneswar",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC019",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 19,
+      "pc_name_en": "Aska",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC020",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 20,
+      "pc_name_en": "Berhampur",
+      "pc_type": ""
+    },
+    {
+      "id": "S18-PC021",
+      "state_code": "S18",
+      "state_abbr": "OD",
+      "state_name_en": "Orissa",
+      "state_name_hi": "ओडिशा",
+      "pc_code": 21,
+      "pc_name_en": "Koraput",
+      "pc_type": "ST"
+    },
+    {
+      "id": "U07-PC001",
+      "state_code": "U07",
+      "state_abbr": "PY",
+      "state_name_en": "Puducherry",
+      "state_name_hi": "पुदुचेरी",
+      "pc_code": 1,
+      "pc_name_en": "Puducherry",
+      "pc_type": ""
+    },
+    {
+      "id": "S19-PC001",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 1,
+      "pc_name_en": "Gurdaspur",
+      "pc_type": ""
+    },
+    {
+      "id": "S19-PC002",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 2,
+      "pc_name_en": "Amritsar",
+      "pc_type": ""
+    },
+    {
+      "id": "S19-PC003",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 3,
+      "pc_name_en": "Khadoor Sahib",
+      "pc_type": ""
+    },
+    {
+      "id": "S19-PC004",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 4,
+      "pc_name_en": "Jalandhar",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S19-PC005",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 5,
+      "pc_name_en": "Hoshiarpur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S19-PC006",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 6,
+      "pc_name_en": "Anandpur Sahib",
+      "pc_type": ""
+    },
+    {
+      "id": "S19-PC007",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 7,
+      "pc_name_en": "Ludhiana",
+      "pc_type": ""
+    },
+    {
+      "id": "S19-PC008",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 8,
+      "pc_name_en": "Fatehgarh Sahib",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S19-PC009",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 9,
+      "pc_name_en": "Faridkot",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S19-PC010",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 10,
+      "pc_name_en": "Firozpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S19-PC011",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 11,
+      "pc_name_en": "Bathinda",
+      "pc_type": ""
+    },
+    {
+      "id": "S19-PC012",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 12,
+      "pc_name_en": "Sangrur",
+      "pc_type": ""
+    },
+    {
+      "id": "S19-PC013",
+      "state_code": "S19",
+      "state_abbr": "PB",
+      "state_name_en": "Punjab",
+      "state_name_hi": "पंजाब",
+      "pc_code": 13,
+      "pc_name_en": "Patiala",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC001",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 1,
+      "pc_name_en": "Ganganagar",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S20-PC002",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 2,
+      "pc_name_en": "Bikaner",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S20-PC003",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 3,
+      "pc_name_en": "Churu",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC004",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 4,
+      "pc_name_en": "Jhunjhunu",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC005",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 5,
+      "pc_name_en": "Sikar",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC006",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 6,
+      "pc_name_en": "Jaipur Rural",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC007",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 7,
+      "pc_name_en": "Jaipur",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC008",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 8,
+      "pc_name_en": "Alwar",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC009",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 9,
+      "pc_name_en": "Bharatpur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S20-PC010",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 10,
+      "pc_name_en": "Karauli-Dholpur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S20-PC011",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 11,
+      "pc_name_en": "Dausa",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S20-PC012",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 12,
+      "pc_name_en": "Tonk-Sawai Madhopur",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC013",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 13,
+      "pc_name_en": "Ajmer",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC014",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 14,
+      "pc_name_en": "Nagaur",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC015",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 15,
+      "pc_name_en": "Pali",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC016",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 16,
+      "pc_name_en": "Jodhpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC017",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 17,
+      "pc_name_en": "Barmer",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC018",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 18,
+      "pc_name_en": "Jalore",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC019",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 19,
+      "pc_name_en": "Udaipur",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S20-PC020",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 20,
+      "pc_name_en": "Banswara",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S20-PC021",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 21,
+      "pc_name_en": "Chittorgarh",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC022",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 22,
+      "pc_name_en": "Rajsamand",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC023",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 23,
+      "pc_name_en": "Bhilwara",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC024",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 24,
+      "pc_name_en": "Kota",
+      "pc_type": ""
+    },
+    {
+      "id": "S20-PC025",
+      "state_code": "S20",
+      "state_abbr": "RJ",
+      "state_name_en": "Rajasthan",
+      "state_name_hi": "राजस्थान",
+      "pc_code": 25,
+      "pc_name_en": "Jhalawar-Baran",
+      "pc_type": ""
+    },
+    {
+      "id": "S21-PC001",
+      "state_code": "S21",
+      "state_abbr": "SK",
+      "state_name_en": "Sikkim",
+      "state_name_hi": "सिक्किम",
+      "pc_code": 1,
+      "pc_name_en": "Sikkim",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC001",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 1,
+      "pc_name_en": "Tiruvallur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S22-PC002",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 2,
+      "pc_name_en": "Chennai North",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC003",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 3,
+      "pc_name_en": "Chennai South",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC004",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 4,
+      "pc_name_en": "Chennai Central",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC005",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 5,
+      "pc_name_en": "Sriperumbudur",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC006",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 6,
+      "pc_name_en": "Kancheepuram",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S22-PC007",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 7,
+      "pc_name_en": "Arakkonam",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC008",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 8,
+      "pc_name_en": "Vellore",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC009",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 9,
+      "pc_name_en": "Krishnagiri",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC010",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 10,
+      "pc_name_en": "Dharmapuri",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC011",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 11,
+      "pc_name_en": "Tiruvannamalai",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC012",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 12,
+      "pc_name_en": "Arani",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC013",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 13,
+      "pc_name_en": "Viluppuram",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S22-PC014",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 14,
+      "pc_name_en": "Kallakurichi",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC015",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 15,
+      "pc_name_en": "Salem",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC016",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 16,
+      "pc_name_en": "Namakkal",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC017",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 17,
+      "pc_name_en": "Erode",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC018",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 18,
+      "pc_name_en": "Tiruppur",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC019",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 19,
+      "pc_name_en": "Nilgiris",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S22-PC020",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 20,
+      "pc_name_en": "Coimbatore",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC021",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 21,
+      "pc_name_en": "Pollachi",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC022",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 22,
+      "pc_name_en": "Dindigul",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC023",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 23,
+      "pc_name_en": "Karur",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC024",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 24,
+      "pc_name_en": "Tiruchirappalli",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC025",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 25,
+      "pc_name_en": "Perambalur",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC026",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 26,
+      "pc_name_en": "Cuddalore",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC027",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 27,
+      "pc_name_en": "Chidambaram",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S22-PC028",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 28,
+      "pc_name_en": "Mayiladuthurai",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC029",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 29,
+      "pc_name_en": "Nagapattinam",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S22-PC030",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 30,
+      "pc_name_en": "Thanjavur",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC031",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 31,
+      "pc_name_en": "Sivaganga",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC032",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 32,
+      "pc_name_en": "Madurai",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC033",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 33,
+      "pc_name_en": "Theni",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC034",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 34,
+      "pc_name_en": "Virudhunagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC035",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 35,
+      "pc_name_en": "Ramanathapuram",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC036",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 36,
+      "pc_name_en": "Thoothukkudi",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC037",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 37,
+      "pc_name_en": "Tenkasi",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S22-PC038",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 38,
+      "pc_name_en": "Tirunelveli",
+      "pc_type": ""
+    },
+    {
+      "id": "S22-PC039",
+      "state_code": "S22",
+      "state_abbr": "TN",
+      "state_name_en": "Tamil Nadu",
+      "state_name_hi": "तमिल नाडु",
+      "pc_code": 39,
+      "pc_name_en": "Kanniyakumari",
+      "pc_type": ""
+    },
+    {
+      "id": "S23-PC001",
+      "state_code": "S23",
+      "state_abbr": "TR",
+      "state_name_en": "Tripura",
+      "state_name_hi": "त्रिपुरा",
+      "pc_code": 1,
+      "pc_name_en": "Tripura West",
+      "pc_type": ""
+    },
+    {
+      "id": "S23-PC002",
+      "state_code": "S23",
+      "state_abbr": "TR",
+      "state_name_en": "Tripura",
+      "state_name_hi": "त्रिपुरा",
+      "pc_code": 2,
+      "pc_name_en": "Tripura East",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S24-PC001",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 1,
+      "pc_name_en": "Saharanpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC002",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 2,
+      "pc_name_en": "Kairana",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC003",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 3,
+      "pc_name_en": "Muzaffarnagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC004",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 4,
+      "pc_name_en": "Bijnor",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC005",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 5,
+      "pc_name_en": "Nagina",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC006",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 6,
+      "pc_name_en": "Moradabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC007",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 7,
+      "pc_name_en": "Rampur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC008",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 8,
+      "pc_name_en": "Sambhal",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC009",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 9,
+      "pc_name_en": "Amroha",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC010",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 10,
+      "pc_name_en": "Meerut",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC011",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 11,
+      "pc_name_en": "Baghpat",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC012",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 12,
+      "pc_name_en": "Ghaziabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC013",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 13,
+      "pc_name_en": "Gautam Buddha Nagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC014",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 14,
+      "pc_name_en": "Bulandshahr",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC015",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 15,
+      "pc_name_en": "Aligarh",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC016",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 16,
+      "pc_name_en": "Hathras",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC017",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 17,
+      "pc_name_en": "Mathura",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC018",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 18,
+      "pc_name_en": "Agra",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC019",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 19,
+      "pc_name_en": "Fatehpur Sikri",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC020",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 20,
+      "pc_name_en": "Firozabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC021",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 21,
+      "pc_name_en": "Mainpuri",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC022",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 22,
+      "pc_name_en": "Etah",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC023",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 23,
+      "pc_name_en": "Badaun",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC024",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 24,
+      "pc_name_en": "Aonla",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC025",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 25,
+      "pc_name_en": "Bareilly",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC026",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 26,
+      "pc_name_en": "Pilibhit",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC027",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 27,
+      "pc_name_en": "Shahjahanpur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC028",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 28,
+      "pc_name_en": "Kheri",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC029",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 29,
+      "pc_name_en": "Dhaurahra",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC030",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 30,
+      "pc_name_en": "Sitapur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC031",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 31,
+      "pc_name_en": "Hardoi",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC032",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 32,
+      "pc_name_en": "Misrikh",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC033",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 33,
+      "pc_name_en": "Unnao",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC034",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 34,
+      "pc_name_en": "Mohanlalganj",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC035",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 35,
+      "pc_name_en": "Lucknow",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC036",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 36,
+      "pc_name_en": "Rae Bareli",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC037",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 37,
+      "pc_name_en": "Amethi",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC038",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 38,
+      "pc_name_en": "Sultanpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC039",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 39,
+      "pc_name_en": "Pratapgarh",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC040",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 40,
+      "pc_name_en": "Farrukhabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC041",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 41,
+      "pc_name_en": "Etawah",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC042",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 42,
+      "pc_name_en": "Kannauj",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC043",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 43,
+      "pc_name_en": "Kanpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC044",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 44,
+      "pc_name_en": "Akbarpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC045",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 45,
+      "pc_name_en": "Jalaun",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC046",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 46,
+      "pc_name_en": "Jhansi",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC047",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 47,
+      "pc_name_en": "Hamirpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC048",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 48,
+      "pc_name_en": "Banda",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC049",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 49,
+      "pc_name_en": "Fatehpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC050",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 50,
+      "pc_name_en": "Kaushambi",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC051",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 51,
+      "pc_name_en": "Phulpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC052",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 52,
+      "pc_name_en": "Allahabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC053",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 53,
+      "pc_name_en": "Barabanki",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC054",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 54,
+      "pc_name_en": "Faizabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC055",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 55,
+      "pc_name_en": "Ambedkar Nagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC056",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 56,
+      "pc_name_en": "Bahraich",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC057",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 57,
+      "pc_name_en": "Kaiserganj",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC058",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 58,
+      "pc_name_en": "Shrawasti",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC059",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 59,
+      "pc_name_en": "Gonda",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC060",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 60,
+      "pc_name_en": "Domariyaganj",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC061",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 61,
+      "pc_name_en": "Basti",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC062",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 62,
+      "pc_name_en": "Sant Kabir Nagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC063",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 63,
+      "pc_name_en": "Maharajganj",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC064",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 64,
+      "pc_name_en": "Gorakhpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC065",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 65,
+      "pc_name_en": "Kushi Nagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC066",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 66,
+      "pc_name_en": "Deoria",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC067",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 67,
+      "pc_name_en": "Bansgaon",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC068",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 68,
+      "pc_name_en": "Lalganj",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC069",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 69,
+      "pc_name_en": "Azamgarh",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC070",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 70,
+      "pc_name_en": "Ghosi",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC071",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 71,
+      "pc_name_en": "Salempur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC072",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 72,
+      "pc_name_en": "Ballia",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC073",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 73,
+      "pc_name_en": "Jaunpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC074",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 74,
+      "pc_name_en": "Machhlishahr",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S24-PC075",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 75,
+      "pc_name_en": "Ghazipur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC076",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 76,
+      "pc_name_en": "Chandauli",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC077",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 77,
+      "pc_name_en": "Varanasi",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC078",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 78,
+      "pc_name_en": "Bhadohi",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC079",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 79,
+      "pc_name_en": "Mirzapur",
+      "pc_type": ""
+    },
+    {
+      "id": "S24-PC080",
+      "state_code": "S24",
+      "state_abbr": "UP",
+      "state_name_en": "Uttar Pradesh",
+      "state_name_hi": "उत्तर प्रदेश",
+      "pc_code": 80,
+      "pc_name_en": "Robertsganj",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S28-PC001",
+      "state_code": "S28",
+      "state_abbr": "UK",
+      "state_name_en": "Uttarakhand",
+      "state_name_hi": "उत्तराखंड",
+      "pc_code": 1,
+      "pc_name_en": "Tehri Garhwal",
+      "pc_type": ""
+    },
+    {
+      "id": "S28-PC002",
+      "state_code": "S28",
+      "state_abbr": "UK",
+      "state_name_en": "Uttarakhand",
+      "state_name_hi": "उत्तराखंड",
+      "pc_code": 2,
+      "pc_name_en": "Garhwal",
+      "pc_type": ""
+    },
+    {
+      "id": "S28-PC003",
+      "state_code": "S28",
+      "state_abbr": "UK",
+      "state_name_en": "Uttarakhand",
+      "state_name_hi": "उत्तराखंड",
+      "pc_code": 3,
+      "pc_name_en": "Almora",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S28-PC004",
+      "state_code": "S28",
+      "state_abbr": "UK",
+      "state_name_en": "Uttarakhand",
+      "state_name_hi": "उत्तराखंड",
+      "pc_code": 4,
+      "pc_name_en": "Nainital-Udhamsingh Nagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S28-PC005",
+      "state_code": "S28",
+      "state_abbr": "UK",
+      "state_name_en": "Uttarakhand",
+      "state_name_hi": "उत्तराखंड",
+      "pc_code": 5,
+      "pc_name_en": "Hardwar",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC001",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 1,
+      "pc_name_en": "Coochbehar",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC002",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 2,
+      "pc_name_en": "Alipurduars",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S25-PC003",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 3,
+      "pc_name_en": "Jalpaiguri",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC004",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 4,
+      "pc_name_en": "Darjeeling",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC005",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 5,
+      "pc_name_en": "Raiganj",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC006",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 6,
+      "pc_name_en": "Balurghat",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC007",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 7,
+      "pc_name_en": "Maldaha Uttar",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC008",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 8,
+      "pc_name_en": "Maldaha Dakshin",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC009",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 9,
+      "pc_name_en": "Jangipur",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC010",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 10,
+      "pc_name_en": "Baharampur",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC011",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 11,
+      "pc_name_en": "Murshidabad",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC012",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 12,
+      "pc_name_en": "Krishnanagar",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC013",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 13,
+      "pc_name_en": "Ranaghat",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC014",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 14,
+      "pc_name_en": "Bangaon",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC015",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 15,
+      "pc_name_en": "Barrackpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC016",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 16,
+      "pc_name_en": "Dum Dum",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC017",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 17,
+      "pc_name_en": "Barasat",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC018",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 18,
+      "pc_name_en": "Basirhat",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC019",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 19,
+      "pc_name_en": "Jaynagar",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC020",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 20,
+      "pc_name_en": "Mathurapur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC021",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 21,
+      "pc_name_en": "Diamond Harbour",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC022",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 22,
+      "pc_name_en": "Jadavpur",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC023",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 23,
+      "pc_name_en": "Kolkata Dakshin",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC024",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 24,
+      "pc_name_en": "Kolkata Uttar",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC025",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 25,
+      "pc_name_en": "Howrah",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC026",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 26,
+      "pc_name_en": "Uluberia",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC027",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 27,
+      "pc_name_en": "Sreerampur",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC028",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 28,
+      "pc_name_en": "Hooghly",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC029",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 29,
+      "pc_name_en": "Arambag",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC030",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 30,
+      "pc_name_en": "Tamluk",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC031",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 31,
+      "pc_name_en": "Kanthi",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC032",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 32,
+      "pc_name_en": "Ghatal",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC033",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 33,
+      "pc_name_en": "Jhargram",
+      "pc_type": "ST"
+    },
+    {
+      "id": "S25-PC034",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 34,
+      "pc_name_en": "Medinipur",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC035",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 35,
+      "pc_name_en": "Purulia",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC036",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 36,
+      "pc_name_en": "Bankura",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC037",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 37,
+      "pc_name_en": "Bishnupur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC038",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 38,
+      "pc_name_en": "Bardhaman Purba",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC039",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 39,
+      "pc_name_en": "Bardhaman-Durgapur",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC040",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 40,
+      "pc_name_en": "Asansol",
+      "pc_type": ""
+    },
+    {
+      "id": "S25-PC041",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 41,
+      "pc_name_en": "Bolpur",
+      "pc_type": "SC"
+    },
+    {
+      "id": "S25-PC042",
+      "state_code": "S25",
+      "state_abbr": "WB",
+      "state_name_en": "West Bengal",
+      "state_name_hi": "पश्चिम बंगाल",
+      "pc_code": 42,
+      "pc_name_en": "Birbhum",
+      "pc_type": ""
+    }
+  ],
+  "meta": {
+    "title": "भारत — लोक सभा निर्वाचन क्षेत्र (संसदीय क्षेत्र सूची, 2008 परिसीमन) - मुफ़्त डाउनलोड",
+    "description": "Authoritative list of the 543 Lok Sabha (Indian Parliament lower house) Parliamentary Constituencies (PCs) as established by the 2008 Delimitation Commission order. Each PC is the geographic unit that elects one Member of Parliament (MP). Records include state code/abbreviation, PC code, PC name, and PC type (GEN/SC/ST reservation status). Compiled by DataMeet from Election Commission of India (ECI) source records. शामिल हैं 543 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "भारत — लोक सभा निर्वाचन क्षेत्र (संसदीय क्षेत्र सूची, 2008 परिसीमन) | ListBase",
+    "seo_description": "डाउनलोड भारत — लोक सभा निर्वाचन क्षेत्र (संसदीय क्षेत्र सूची, 2008 परिसीमन) — 543 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 543 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "id": "hi-secunderabad-bank",
+  "name": "Secunderabad में बैंक — SWIFT/BIC कोड",
+  "title": "Secunderabad में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Secunderabad, India. Subset of hi-bank. Source city string preserved verbatim as \"SECUNDERABAD\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 60,
+      "bank": "ALLAHABAD BANK",
+      "city": "SECUNDERABAD",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "ALLAINBBSIF"
+    },
+    {
+      "id": 121,
+      "bank": "ANDHRA BANK",
+      "city": "SECUNDERABAD",
+      "branch": "",
+      "swift_code": "ANDBINBBSEC"
+    },
+    {
+      "id": 614,
+      "bank": "AXIS BANK LIMITED",
+      "city": "SECUNDERABAD",
+      "branch": "(SECUNDERABAD)",
+      "swift_code": "AXISINBB068"
+    },
+    {
+      "id": 615,
+      "bank": "AXIS BANK LIMITED",
+      "city": "SECUNDERABAD",
+      "branch": "(TARNAKA BRANCH)",
+      "swift_code": "AXISINBB027"
+    },
+    {
+      "id": 1103,
+      "bank": "BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(SECUNDERABAD BRANCH)",
+      "swift_code": "BKIDINBBSEC"
+    },
+    {
+      "id": 1379,
+      "bank": "CANARA BANK",
+      "city": "SECUNDERABAD",
+      "branch": "(PRIME CORPORATE BRANCH)",
+      "swift_code": "CNRBINBBIFS"
+    },
+    {
+      "id": 1641,
+      "bank": "DCB BANK LIMITED",
+      "city": "SECUNDERABAD",
+      "branch": "(SECUNDERABAD BRANCH)",
+      "swift_code": "DCBLINBB058"
+    },
+    {
+      "id": 2206,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "SECUNDERABAD",
+      "branch": "(SECUNDERABAD)",
+      "swift_code": "IOBAINBB200"
+    },
+    {
+      "id": 2368,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "SECUNDERABAD",
+      "branch": "(SECUNDERABAD BRANCH)",
+      "swift_code": "KARBINBBSEC"
+    },
+    {
+      "id": 2540,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "SECUNDERABAD",
+      "branch": "(1041)",
+      "swift_code": "ORBCINBBSEC"
+    },
+    {
+      "id": 2796,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "SECUNDERABAD",
+      "branch": "(R P ROAD SECUNDERABAD)",
+      "swift_code": "PUNBINBBSRP"
+    },
+    {
+      "id": 3603,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(COMMERCIAL BRANCH, SECUNDERABAD)",
+      "swift_code": "SBININBB194"
+    },
+    {
+      "id": 3604,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH07"
+    },
+    {
+      "id": 3605,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBH66"
+    },
+    {
+      "id": 3606,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBM19"
+    },
+    {
+      "id": 3607,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBT36"
+    },
+    {
+      "id": 3608,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(NRI BRANCH,SECUNDERABAD)",
+      "swift_code": "SBININBB723"
+    },
+    {
+      "id": 3609,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(SECUNDERABAD)",
+      "swift_code": "SBININBB321"
+    },
+    {
+      "id": 3610,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(TRADE FINANCE CENTRAL PROCESSING CENTER HYDERABAD)",
+      "swift_code": "SBININBB602"
+    },
+    {
+      "id": 3834,
+      "bank": "SYNDICATE BANK",
+      "city": "SECUNDERABAD",
+      "branch": "(SECUNDERABAD BRANCH)",
+      "swift_code": "SYNBINBB175"
+    },
+    {
+      "id": 4024,
+      "bank": "UCO BANK",
+      "city": "SECUNDERABAD",
+      "branch": "(M G ROAD - SECUNDERABAD)",
+      "swift_code": "UCBAINBB338"
+    },
+    {
+      "id": 4123,
+      "bank": "UNION BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(R.P.ROAD, BRANCH)",
+      "swift_code": "UBININBBSEC"
+    },
+    {
+      "id": 4170,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "SECUNDERABAD",
+      "branch": "(SECUNDRABAD BRANCH)",
+      "swift_code": "UTBIINBBSEC"
+    }
+  ],
+  "meta": {
+    "title": "Secunderabad में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Secunderabad, India. Subset of hi-bank. Source city string preserved verbatim as \"SECUNDERABAD\". शामिल हैं 23 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Secunderabad में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Secunderabad में बैंक — SWIFT/BIC कोड — 23 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 23 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

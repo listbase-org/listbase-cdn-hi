@@ -1,0 +1,2291 @@
+{
+  "id": "hi-new-delhi-bank",
+  "name": "New Delhi में बैंक — SWIFT/BIC कोड",
+  "title": "New Delhi में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in New Delhi, India. Subset of hi-bank. Source city string preserved verbatim as \"NEW DELHI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 320,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AADHAR SECURITIES PRIVATE LIMITED",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "AASVIND1"
+    },
+    {
+      "id": 52,
+      "bank": "ALLAHABAD BANK",
+      "city": "NEW DELHI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "ALLAINBBDIF"
+    },
+    {
+      "id": 53,
+      "bank": "ALLAHABAD BANK",
+      "city": "NEW DELHI",
+      "branch": "(INTERNATIONAL BRANCH, NEW DELHI)",
+      "swift_code": "ALLAINBBDEL"
+    },
+    {
+      "id": 54,
+      "bank": "ALLAHABAD BANK",
+      "city": "NEW DELHI",
+      "branch": "(R.P.C.,NEW DELHI)",
+      "swift_code": "ALLAINBBRPN"
+    },
+    {
+      "id": 112,
+      "bank": "ANDHRA BANK",
+      "city": "NEW DELHI",
+      "branch": "(GREEN PARK BRANCH)",
+      "swift_code": "ANDBINBBGRE"
+    },
+    {
+      "id": 113,
+      "bank": "ANDHRA BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI MAIN BRANCH CONNAUGHT CIRCUS)",
+      "swift_code": "ANDBINBBNDL"
+    },
+    {
+      "id": 114,
+      "bank": "ANDHRA BANK",
+      "city": "NEW DELHI",
+      "branch": "(PREET VIHAR BRANCH)",
+      "swift_code": "ANDBINBBPRV"
+    },
+    {
+      "id": 115,
+      "bank": "ANDHRA BANK",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "ANDBINBBRKP"
+    },
+    {
+      "id": 521,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(ASHOKA NIKETAN)",
+      "swift_code": "AXISINBBA98"
+    },
+    {
+      "id": 522,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(AZADPUR, DELHI (DL))",
+      "swift_code": "AXISINBB895"
+    },
+    {
+      "id": 523,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(CHANDNI CHOWK BRANCH)",
+      "swift_code": "AXISINBB254"
+    },
+    {
+      "id": 524,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(CHITTARANJAN PARK,NEW DELHI D)",
+      "swift_code": "AXISINBB430"
+    },
+    {
+      "id": 525,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(DARYAGANJ)",
+      "swift_code": "AXISINBB279"
+    },
+    {
+      "id": 526,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(DEEPALI ENCLAVE, NEW DELHI)",
+      "swift_code": "AXISINBBA77"
+    },
+    {
+      "id": 527,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(DWARKA, DELHI DL)",
+      "swift_code": "AXISINBB278"
+    },
+    {
+      "id": 528,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(GREATER KAILASH BRANCH)",
+      "swift_code": "AXISINBB049"
+    },
+    {
+      "id": 529,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(GREATER KAILASH II)",
+      "swift_code": "AXISINBB268"
+    },
+    {
+      "id": 530,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(GREEN PARK BRANCH)",
+      "swift_code": "AXISINBB015"
+    },
+    {
+      "id": 531,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(HAUZ KHAS, NEW DELHI)",
+      "swift_code": "AXISINBB552"
+    },
+    {
+      "id": 532,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(JHANDEWALAN EXTN, NEW DELHI(DL)-738)",
+      "swift_code": "AXISINBB738"
+    },
+    {
+      "id": 533,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(KALKAJI, NEW DELHI DL-1021)",
+      "swift_code": "AXISINBBA45"
+    },
+    {
+      "id": 534,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(KARKARDOOMA, DELHI (DL))",
+      "swift_code": "AXISINBB372"
+    },
+    {
+      "id": 535,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(KAROL BAGH)",
+      "swift_code": "AXISINBB223"
+    },
+    {
+      "id": 536,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(KHAN MARKET, NEW DELHI (DL))",
+      "swift_code": "AXISINBB120"
+    },
+    {
+      "id": 537,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(LAJPATNAGAR II, NEW DELHI (DL)-824)",
+      "swift_code": "AXISINBB824"
+    },
+    {
+      "id": 538,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(LAJPATNAGAR)",
+      "swift_code": "AXISINBB126"
+    },
+    {
+      "id": 539,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(MANSAROVAR GARDEN,NEW DELHI(DL))",
+      "swift_code": "AXISINBBA68"
+    },
+    {
+      "id": 540,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(MAYUR VIHAR, NEW DELHI (DL)-296)",
+      "swift_code": "AXISINBB296"
+    },
+    {
+      "id": 541,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(MODEL TOWN, DELHI)",
+      "swift_code": "AXISINBB392"
+    },
+    {
+      "id": 542,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(MOTI NAGAR, NEW DELHI (DL)-1102)",
+      "swift_code": "AXISINBBA52"
+    },
+    {
+      "id": 543,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH)",
+      "swift_code": "AXISINBB007"
+    },
+    {
+      "id": 544,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(NEW FRIENDS COLONY,NEW DELHI)",
+      "swift_code": "AXISINBBA78"
+    },
+    {
+      "id": 545,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(PATEL NAGAR(E), NEW DELHI (DL)-1006)",
+      "swift_code": "AXISINBBA51"
+    },
+    {
+      "id": 546,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(RAJINDER NAGAR, DELHI (DL)-224)",
+      "swift_code": "AXISINBB224"
+    },
+    {
+      "id": 547,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(RAJOURI GARDENS BRANCH)",
+      "swift_code": "AXISINBB066"
+    },
+    {
+      "id": 548,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(SAFDARJUNG ENCLAVE,DELHI)",
+      "swift_code": "AXISINBBA79"
+    },
+    {
+      "id": 549,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(SAKET BRANCH)",
+      "swift_code": "AXISINBB160"
+    },
+    {
+      "id": 550,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(SECTOR-7, ROHINI, DELHI (DL))",
+      "swift_code": "AXISINBB431"
+    },
+    {
+      "id": 551,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(TILAK NAGAR, DELHI DL)",
+      "swift_code": "AXISINBB589"
+    },
+    {
+      "id": 552,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(TRI NAGAR, NEW DELHI (DL):1150)",
+      "swift_code": "AXISINBBA62"
+    },
+    {
+      "id": 553,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(VASANT KUNJ, NEW DELHI (DL)-119)",
+      "swift_code": "AXISINBB119"
+    },
+    {
+      "id": 554,
+      "bank": "AXIS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(VIKASPURI)",
+      "swift_code": "AXISINBB079"
+    },
+    {
+      "id": 705,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "NEW DELHI",
+      "branch": "(GREATER KAILASH BRANCH)",
+      "swift_code": "UTIBINB1049"
+    },
+    {
+      "id": 706,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "NEW DELHI",
+      "branch": "(GREEN PARK BRANCH)",
+      "swift_code": "UTIBINB1015"
+    },
+    {
+      "id": 707,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH)",
+      "swift_code": "UTIBINB1007"
+    },
+    {
+      "id": 708,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "NEW DELHI",
+      "branch": "(RAJOURI GARDEN BRANCH)",
+      "swift_code": "UTIBINB1066"
+    },
+    {
+      "id": 709,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "NEW DELHI",
+      "branch": "(SAKET BRANCH)",
+      "swift_code": "UTIBINB1160"
+    },
+    {
+      "id": 710,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "UTIBINB1223"
+    },
+    {
+      "id": 738,
+      "bank": "BANK OF AMERICA, N.A. NEW DELHI",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "BOFAIN4XDEL"
+    },
+    {
+      "id": 860,
+      "bank": "BANK OF BARODA",
+      "city": "NEW DELHI",
+      "branch": "(CORPORATE FINANCIAL SERVICES NEW DELHI)",
+      "swift_code": "BARBINBBCBN"
+    },
+    {
+      "id": 861,
+      "bank": "BANK OF BARODA",
+      "city": "NEW DELHI",
+      "branch": "(KAROL BAGH, NEW DELHI  BR.)",
+      "swift_code": "BARBINBBKAR"
+    },
+    {
+      "id": 862,
+      "bank": "BANK OF BARODA",
+      "city": "NEW DELHI",
+      "branch": "(NERHU PLACE BRANCH NEW DELHI)",
+      "swift_code": "BARBINBBNND"
+    },
+    {
+      "id": 863,
+      "bank": "BANK OF BARODA",
+      "city": "NEW DELHI",
+      "branch": "(NRI BRANCH)",
+      "swift_code": "BARBINBBNRN"
+    },
+    {
+      "id": 864,
+      "bank": "BANK OF BARODA",
+      "city": "NEW DELHI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "BARBINBBOND"
+    },
+    {
+      "id": 865,
+      "bank": "BANK OF BARODA",
+      "city": "NEW DELHI",
+      "branch": "(PARLIAMENT STREET BRANCH)",
+      "swift_code": "BARBINBBPAR"
+    },
+    {
+      "id": 1061,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(ASAF ALI ROAD BRANCH)",
+      "swift_code": "BKIDINBBASF"
+    },
+    {
+      "id": 1062,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(C.G.O. COMPLEX)",
+      "swift_code": "BKIDINBBCGO"
+    },
+    {
+      "id": 1063,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CONNAUGHT CIRCUS BRANCH)",
+      "swift_code": "BKIDINBBCNT"
+    },
+    {
+      "id": 1064,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(GREATER KAILASH II)",
+      "swift_code": "BKIDINBBGK2"
+    },
+    {
+      "id": 1065,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(JANPATH ROAD)",
+      "swift_code": "BKIDINBBJNP"
+    },
+    {
+      "id": 1066,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(KAROL BAGH BRANCH)",
+      "swift_code": "BKIDINBBKLB"
+    },
+    {
+      "id": 1067,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(KHAN MARKET BRANCH)",
+      "swift_code": "BKIDINBBKHM"
+    },
+    {
+      "id": 1068,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(KIRTI NAGAR BRANCH)",
+      "swift_code": "BKIDINBBKRT"
+    },
+    {
+      "id": 1069,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(LAJPAT NAGAR BRANCH)",
+      "swift_code": "BKIDINBBLAJ"
+    },
+    {
+      "id": 1070,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(LARGE CORPORATE BANKING)",
+      "swift_code": "BKIDINBBLCB"
+    },
+    {
+      "id": 1071,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(MAYAPURI INDUSTRIAL AREA)",
+      "swift_code": "BKIDINBBMIA"
+    },
+    {
+      "id": 1072,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE BRANCH)",
+      "swift_code": "BKIDINBBNPL"
+    },
+    {
+      "id": 1073,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBDCB"
+    },
+    {
+      "id": 1074,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI NRI)",
+      "swift_code": "BKIDINBBDNI"
+    },
+    {
+      "id": 1075,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI SSI BRANCH)",
+      "swift_code": "BKIDINBBDSI"
+    },
+    {
+      "id": 1076,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(OKHLA INDUSTRIAL ESTATE BRANCH)",
+      "swift_code": "BKIDINBBOKH"
+    },
+    {
+      "id": 1077,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "BKIDINBBDOS"
+    },
+    {
+      "id": 1078,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(PARLIAMENT STREET BRANCH)",
+      "swift_code": "BKIDINBBPLM"
+    },
+    {
+      "id": 1079,
+      "bank": "BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(SAFDARJUNG ENCLAVE)",
+      "swift_code": "BKIDINBBSFD"
+    },
+    {
+      "id": 1146,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "NEW DELHI",
+      "branch": "(CONNAUGHT PLACE BRANCH, NEW DELHI)",
+      "swift_code": "MAHBINBBCPN"
+    },
+    {
+      "id": 1147,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "NEW DELHI",
+      "branch": "(GREATER KAILASH DELHI)",
+      "swift_code": "MAHBINBBGKD"
+    },
+    {
+      "id": 1166,
+      "bank": "BANK OF NOVA SCOTIA, THE",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "NOSCINBBDEL"
+    },
+    {
+      "id": 1170,
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH)",
+      "swift_code": "BOTKINDD"
+    },
+    {
+      "id": 1173,
+      "bank": "BARCLAYS BANK PLC",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH)",
+      "swift_code": "BARCINBBDEL"
+    },
+    {
+      "id": 1180,
+      "bank": "BENARES STATE BANK LTD., THE",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "BENAIN210DD"
+    },
+    {
+      "id": 1195,
+      "bank": "BNP PARIBAS INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH)",
+      "swift_code": "BNPAINBBDEL"
+    },
+    {
+      "id": 1338,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI CHANDNI CHOWK BRANCH)",
+      "swift_code": "CNRBINBBDDA"
+    },
+    {
+      "id": 1339,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI CONNAUGHT CIRCUS F-19 BRANCH)",
+      "swift_code": "CNRBINBBDDC"
+    },
+    {
+      "id": 1340,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI DARYAGANJ BRANCH)",
+      "swift_code": "CNRBINBBDDD"
+    },
+    {
+      "id": 1341,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI EAST OF KAILASH BRANCH)",
+      "swift_code": "CNRBINBBDDE"
+    },
+    {
+      "id": 1342,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI FOREIGN DEPARTMENT (MAIN))",
+      "swift_code": "CNRBINBBDFM"
+    },
+    {
+      "id": 1343,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI FOREIGN DEPARTMENT SOUTH)",
+      "swift_code": "CNRBINBBDFS"
+    },
+    {
+      "id": 1344,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI FOUNTAIN)",
+      "swift_code": "CNRBINBBDFN"
+    },
+    {
+      "id": 1345,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI GREEN PARK EXTENSION)",
+      "swift_code": "CNRBINBBDGP"
+    },
+    {
+      "id": 1346,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI HAUZ KHAS)",
+      "swift_code": "CNRBINBBIOD"
+    },
+    {
+      "id": 1347,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI JANPATH BRANCH)",
+      "swift_code": "CNRBINBBDDJ"
+    },
+    {
+      "id": 1348,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI KAROL BAGH BRANCH)",
+      "swift_code": "CNRBINBBDDK"
+    },
+    {
+      "id": 1349,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI LAJPAT NAGAR BRANCH)",
+      "swift_code": "CNRBINBBDDL"
+    },
+    {
+      "id": 1350,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI MAYAPURI)",
+      "swift_code": "CNRBINBBDMP"
+    },
+    {
+      "id": 1351,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI NEHRU PLACE BRANCH)",
+      "swift_code": "CNRBINBBDXN"
+    },
+    {
+      "id": 1352,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBDOB"
+    },
+    {
+      "id": 1353,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI PARLIAMENT STREET BRANCH)",
+      "swift_code": "CNRBINBBDDP"
+    },
+    {
+      "id": 1354,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI R K  PURAM BRANCH)",
+      "swift_code": "CNRBINBBDDR"
+    },
+    {
+      "id": 1355,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI RAJOURI GARDEN BRANCH)",
+      "swift_code": "CNRBINBBDDG"
+    },
+    {
+      "id": 1356,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI S D AREA)",
+      "swift_code": "CNRBINBBDSD"
+    },
+    {
+      "id": 1357,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI SOUTH EXTENSION BRANCH)",
+      "swift_code": "CNRBINBBDDS"
+    },
+    {
+      "id": 1358,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI SSI BRANCH - OKHLA)",
+      "swift_code": "CNRBINBBDDO"
+    },
+    {
+      "id": 1359,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI TAGORE GARDEN BRANCH)",
+      "swift_code": "CNRBINBBDDT"
+    },
+    {
+      "id": 1360,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DELHI WAZIRPUR BRANCH)",
+      "swift_code": "CNRBINBBDDW"
+    },
+    {
+      "id": 1361,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(H54 CONNAUGHT CIRCUS NEW DELHI)",
+      "swift_code": "CNRBINBBCCD"
+    },
+    {
+      "id": 1362,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(INTERNATIONAL BANKING BRANCH)",
+      "swift_code": "CNRBINBBIBD"
+    },
+    {
+      "id": 1363,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(MAHARANI BAGH)",
+      "swift_code": "CNRBINBBMHB"
+    },
+    {
+      "id": 1364,
+      "bank": "CANARA BANK",
+      "city": "NEW DELHI",
+      "branch": "(PRIME CORPORATE BRANCH - 1)",
+      "swift_code": "CNRBINBBCBD"
+    },
+    {
+      "id": 1449,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(JANPATH, NEW DELHI)",
+      "swift_code": "CBININBBJAN"
+    },
+    {
+      "id": 1450,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(PARLIAMENT STREET BRANCH)",
+      "swift_code": "CBININBBPAR"
+    },
+    {
+      "id": 1483,
+      "bank": "CITIBANK N.A.",
+      "city": "NEW DELHI",
+      "branch": "(INTERNATIONAL BUSINESS AND FINANCE)",
+      "swift_code": "CITIINBXIBD"
+    },
+    {
+      "id": 1583,
+      "bank": "CORPORATION BANK",
+      "city": "NEW DELHI",
+      "branch": "(BIKHAJICAMA PLACE BRANCH)",
+      "swift_code": "CORPINBB373"
+    },
+    {
+      "id": 1584,
+      "bank": "CORPORATION BANK",
+      "city": "NEW DELHI",
+      "branch": "(CONNAUGHT CIRCUS BRANCH)",
+      "swift_code": "CORPINBB141"
+    },
+    {
+      "id": 1585,
+      "bank": "CORPORATION BANK",
+      "city": "NEW DELHI",
+      "branch": "(GREATER KAILASH BRANCH)",
+      "swift_code": "CORPINBB286"
+    },
+    {
+      "id": 1586,
+      "bank": "CORPORATION BANK",
+      "city": "NEW DELHI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, NEW DELHI)",
+      "swift_code": "CORPINBB447"
+    },
+    {
+      "id": 1587,
+      "bank": "CORPORATION BANK",
+      "city": "NEW DELHI",
+      "branch": "(NANGLOIJAT-NEW DELHI)",
+      "swift_code": "CORPINBB468"
+    },
+    {
+      "id": 1588,
+      "bank": "CORPORATION BANK",
+      "city": "NEW DELHI",
+      "branch": "(OVERSEAS - NEW DELHI)",
+      "swift_code": "CORPINBB606"
+    },
+    {
+      "id": 1616,
+      "bank": "CREDIT AGRICOLE CIB",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH, INDIA)",
+      "swift_code": "CRLYINBBNDL"
+    },
+    {
+      "id": 1622,
+      "bank": "CTBC BANK CO., LTD NEW DELHI BRANCH",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "CTCBINDD"
+    },
+    {
+      "id": 1640,
+      "bank": "DCB BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH)",
+      "swift_code": "DCBLINBB046"
+    },
+    {
+      "id": 1642,
+      "bank": "DELHI STOCK EXCHANGE ASSOCIATION LIMITED",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "XDESIND1"
+    },
+    {
+      "id": 1676,
+      "bank": "DENA BANK",
+      "city": "NEW DELHI",
+      "branch": "(CORPORATE BUSINESS BRANCH , NEW DELHI)",
+      "swift_code": "BKDNINBBCCD"
+    },
+    {
+      "id": 1677,
+      "bank": "DENA BANK",
+      "city": "NEW DELHI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH NEW DELHI)",
+      "swift_code": "BKDNINBBIFN"
+    },
+    {
+      "id": 1678,
+      "bank": "DENA BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE BRANCH)",
+      "swift_code": "BKDNINBBNPL"
+    },
+    {
+      "id": 1679,
+      "bank": "DENA BANK",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "BKDNINBBNDL"
+    },
+    {
+      "id": 1698,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH)",
+      "swift_code": "DEUTINBBDEL"
+    },
+    {
+      "id": 1708,
+      "bank": "DHANLAXMI BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(FOREX)",
+      "swift_code": "DLXBINBBDEL"
+    },
+    {
+      "id": 1721,
+      "bank": "DUCATI INDIA PRIVATE LIMITED",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "DUIPIND1"
+    },
+    {
+      "id": 1797,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "NEW DELHI",
+      "branch": "(CONNAUGHT CIRCUS)",
+      "swift_code": "FDRLINBBND1"
+    },
+    {
+      "id": 1798,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE)",
+      "swift_code": "FDRLINBBNDD"
+    },
+    {
+      "id": 1799,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI GK 2 BRANCH)",
+      "swift_code": "FDRLINBBNDE"
+    },
+    {
+      "id": 1800,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI KAROLBAGH BRANCH)",
+      "swift_code": "FDRLINBBNDG"
+    },
+    {
+      "id": 1801,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI OVERSEAS BRANCH)",
+      "swift_code": "FDRLINBBNDF"
+    },
+    {
+      "id": 1802,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "NEW DELHI",
+      "branch": "(WESTEND COLONY)",
+      "swift_code": "FDRLINBBNDB"
+    },
+    {
+      "id": 1820,
+      "bank": "FIRST GLOBAL STOCK BROKING PVT LTD",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "FGSPINB1"
+    },
+    {
+      "id": 1854,
+      "bank": "HDFC BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(DELHI BRANCH)",
+      "swift_code": "HDFCINBBDEL"
+    },
+    {
+      "id": 1855,
+      "bank": "HDFC BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(HARSHA BHAWAN)",
+      "swift_code": "HDFCINBBHBD"
+    },
+    {
+      "id": 1892,
+      "bank": "ICICI BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(DELHI BRANCH)",
+      "swift_code": "ICICINBB007"
+    },
+    {
+      "id": 1893,
+      "bank": "ICICI BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(REGIONAL TRADE SERVICES UNIT-NEW DELHI)",
+      "swift_code": "ICICINBBRT2"
+    },
+    {
+      "id": 1962,
+      "bank": "IDBI BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(KAROL BAUG)",
+      "swift_code": "IBKLINBBNDL"
+    },
+    {
+      "id": 1963,
+      "bank": "IDBI BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(MAIN CORPORATE BRANCH, NEW DELHI)",
+      "swift_code": "IBKLINBB127"
+    },
+    {
+      "id": 1964,
+      "bank": "IDBI BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI)",
+      "swift_code": "IBKLINBB010"
+    },
+    {
+      "id": 1992,
+      "bank": "IFCI LIMITED",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "IFCIINDD"
+    },
+    {
+      "id": 2002,
+      "bank": "INDIABULLS SECURITIES LIMITED",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "ORSPINB1"
+    },
+    {
+      "id": 2070,
+      "bank": "INDIAN BANK",
+      "city": "NEW DELHI",
+      "branch": "(CHANDNI CHOWK BRANCH)",
+      "swift_code": "IDIBINBBCCK"
+    },
+    {
+      "id": 2071,
+      "bank": "INDIAN BANK",
+      "city": "NEW DELHI",
+      "branch": "(DB GUPTA ROAD BRANCH)",
+      "swift_code": "IDIBINBBDBG"
+    },
+    {
+      "id": 2072,
+      "bank": "INDIAN BANK",
+      "city": "NEW DELHI",
+      "branch": "(DEFENCE COLONY BRANCH)",
+      "swift_code": "IDIBINBBDCY"
+    },
+    {
+      "id": 2073,
+      "bank": "INDIAN BANK",
+      "city": "NEW DELHI",
+      "branch": "(GREATER KAILASH BRANCH)",
+      "swift_code": "IDIBINBBGKH"
+    },
+    {
+      "id": 2074,
+      "bank": "INDIAN BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE BRANCH)",
+      "swift_code": "IDIBINBBNPL"
+    },
+    {
+      "id": 2075,
+      "bank": "INDIAN BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI MAIN BRANCH)",
+      "swift_code": "IDIBINBBNDL"
+    },
+    {
+      "id": 2076,
+      "bank": "INDIAN BANK",
+      "city": "NEW DELHI",
+      "branch": "(SHANTINIKETAN BRANCH)",
+      "swift_code": "IDIBINBBSNK"
+    },
+    {
+      "id": 2077,
+      "bank": "INDIAN BANK",
+      "city": "NEW DELHI",
+      "branch": "(SOUTH EXTENSION BRANCH)",
+      "swift_code": "IDIBINBBSXT"
+    },
+    {
+      "id": 2180,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(CANNAUGHT PLACE BRANCH)",
+      "swift_code": "IOBAINBB997"
+    },
+    {
+      "id": 2181,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(DARYAGUNJ, NEW DELHI)",
+      "swift_code": "IOBAINBB017"
+    },
+    {
+      "id": 2182,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(DEFENCE COLONY BRANCH)",
+      "swift_code": "IOBAINBB115"
+    },
+    {
+      "id": 2183,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(GOLF LINKS - NEW DELHI)",
+      "swift_code": "IOBAINBB265"
+    },
+    {
+      "id": 2184,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(GREATERKAILASH PART II)",
+      "swift_code": "IOBAINBB725"
+    },
+    {
+      "id": 2185,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(JANPATH BRANCH)",
+      "swift_code": "IOBAINBB065"
+    },
+    {
+      "id": 2186,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(KAILASH COLONY)",
+      "swift_code": "IOBAINBBK71"
+    },
+    {
+      "id": 2187,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(KAROL BAGH, NEW DELHI)",
+      "swift_code": "IOBAINBB035"
+    },
+    {
+      "id": 2188,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(MODELTOWN)",
+      "swift_code": "IOBAINBB288"
+    },
+    {
+      "id": 2189,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE BRANCH)",
+      "swift_code": "IOBAINBB543"
+    },
+    {
+      "id": 2190,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(OKHLA BRANCH)",
+      "swift_code": "IOBAINBBF86"
+    },
+    {
+      "id": 2191,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(PARLIAMENT STREET BRANCH)",
+      "swift_code": "IOBAINBB762"
+    },
+    {
+      "id": 2192,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(PUSA ROAD BRANCH)",
+      "swift_code": "IOBAINBB442"
+    },
+    {
+      "id": 2193,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(R.K. PURAM BRANCH)",
+      "swift_code": "IOBAINBB408"
+    },
+    {
+      "id": 2194,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(RAJIV CIRCLE)",
+      "swift_code": "IOBAINBBC05"
+    },
+    {
+      "id": 2195,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(SAFDARJUNG ENCLAVE BRANCH)",
+      "swift_code": "IOBAINBB919"
+    },
+    {
+      "id": 2196,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(SPECIALISED LARGE CORPORATE NEW DELHI)",
+      "swift_code": "IOBAINBBR45"
+    },
+    {
+      "id": 2197,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "NEW DELHI",
+      "branch": "(TOLSTOY MARG)",
+      "swift_code": "IOBAINBB531"
+    },
+    {
+      "id": 2257,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI, BARAKHAMBA)",
+      "swift_code": "INDBINBBNDH"
+    },
+    {
+      "id": 2258,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI, NEHRU PLACE)",
+      "swift_code": "INDBINBBDEN"
+    },
+    {
+      "id": 2267,
+      "bank": "INDUSTRIAL BANK OF KOREA, NEW DELHI BRANCH",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "IBKOINDD"
+    },
+    {
+      "id": 2302,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "NEW DELHI",
+      "branch": "(CONNAUGHT PLACE BRANCH, NEW DELHI)",
+      "swift_code": "JAKAINBBCPD"
+    },
+    {
+      "id": 2303,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "NEW DELHI",
+      "branch": "(LAJPAT NAGAR BRANCH, DEHLI)",
+      "swift_code": "JAKAINBBLJD"
+    },
+    {
+      "id": 2304,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "NEW DELHI",
+      "branch": "(OKHLA BRANCH)",
+      "swift_code": "JAKAINBBOKL"
+    },
+    {
+      "id": 2305,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "NEW DELHI",
+      "branch": "(SADAR BAZAR)",
+      "swift_code": "JAKAINBBSDR"
+    },
+    {
+      "id": 2306,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "NEW DELHI",
+      "branch": "(SOUTH EXTENSION BRANCH)",
+      "swift_code": "JAKAINBBSXT"
+    },
+    {
+      "id": 2307,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "NEW DELHI",
+      "branch": "(VASANT VIHAR BRANCH)",
+      "swift_code": "JAKAINBBVVR"
+    },
+    {
+      "id": 2337,
+      "bank": "JSC VTB BANK, NEW DELHI BRANCH",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "VTBRINDD"
+    },
+    {
+      "id": 2361,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "NEW DELHI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "KARBINBBOND"
+    },
+    {
+      "id": 2411,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(JANPATH)",
+      "swift_code": "LAVBINBB499"
+    },
+    {
+      "id": 2434,
+      "bank": "MIZUHO BANK, LTD.",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH)",
+      "swift_code": "MHCBINBBNDL"
+    },
+    {
+      "id": 2522,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NEW DELHI",
+      "branch": "(0007)",
+      "swift_code": "ORBCINBBEBC"
+    },
+    {
+      "id": 2523,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NEW DELHI",
+      "branch": "(1048)",
+      "swift_code": "ORBCINBBMCB"
+    },
+    {
+      "id": 2524,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NEW DELHI",
+      "branch": "(A-BLOCK,CONNAUGHT PLACE BRANCH,NEW DELHI)",
+      "swift_code": "ORBCINBBCPA"
+    },
+    {
+      "id": 2525,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NEW DELHI",
+      "branch": "(BRANCH OFFICE INDUSTRIAL FINANCE, NEW DELHI)",
+      "swift_code": "ORBCINBBIND"
+    },
+    {
+      "id": 2526,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NEW DELHI",
+      "branch": "(BRANCH OFFICE MANSAROVAR GARDEN N.DELHI)",
+      "swift_code": "ORBCINBBMGD"
+    },
+    {
+      "id": 2527,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NEW DELHI",
+      "branch": "(INTERNATIONAL BANKING DIVISION,HEAD OFFICE,NEW DELHI)",
+      "swift_code": "ORBCINBBIBD"
+    },
+    {
+      "id": 2528,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NEW DELHI",
+      "branch": "(N. PLACE OVERSEAS BRANCH)",
+      "swift_code": "ORBCINBBNPO"
+    },
+    {
+      "id": 2529,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NEW DELHI",
+      "branch": "(OVERSEAS BRANCH PANCHKUIAN ROAD,NEW DELHI)",
+      "swift_code": "ORBCINBBOSP"
+    },
+    {
+      "id": 2530,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "ORBCINBBHCN"
+    },
+    {
+      "id": 2588,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "NEW DELHI",
+      "branch": "(CHANDNI CHOWK BRANCH)",
+      "swift_code": "PSIBINBB022"
+    },
+    {
+      "id": 2589,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "NEW DELHI",
+      "branch": "(H BLOCK BRANCH)",
+      "swift_code": "PSIBINBB130"
+    },
+    {
+      "id": 2590,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "NEW DELHI",
+      "branch": "(HEAD OFFICE, FOREIGN EXCHANGE)",
+      "swift_code": "PSIBINBB005"
+    },
+    {
+      "id": 2591,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "NEW DELHI",
+      "branch": "(IBD N. DELHI)",
+      "swift_code": "PSIBINBB006"
+    },
+    {
+      "id": 2592,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "NEW DELHI",
+      "branch": "(KAILASH COLONY BRANCH)",
+      "swift_code": "PSIBINBB023"
+    },
+    {
+      "id": 2593,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE N. DELHI)",
+      "swift_code": "PSIBINBB007"
+    },
+    {
+      "id": 2594,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "NEW DELHI",
+      "branch": "(RAJENDRA PLACE BRANCH)",
+      "swift_code": "PSIBINBB606"
+    },
+    {
+      "id": 2595,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "PSIBINBB392"
+    },
+    {
+      "id": 2755,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(BHIKHAIJI CAMA PLACE)",
+      "swift_code": "PUNBINBBDBC"
+    },
+    {
+      "id": 2756,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(BO:TROPICAL BUILDING, NEW DEHLI)",
+      "swift_code": "PUNBINBBDTB"
+    },
+    {
+      "id": 2757,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(CENTRALISED BACK OFFICE FOR TRADE FINANCE)",
+      "swift_code": "PUNBINBBMRD"
+    },
+    {
+      "id": 2758,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(DEFENCE COLONY BRANCH)",
+      "swift_code": "PUNBINBBDDC"
+    },
+    {
+      "id": 2759,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(ECE HOUSE BRANCH)",
+      "swift_code": "PUNBINBBDCG"
+    },
+    {
+      "id": 2760,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(IBD HEAD OFFICE)",
+      "swift_code": "PUNBINBBIBD"
+    },
+    {
+      "id": 2761,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "PUNBINBBIFD"
+    },
+    {
+      "id": 2762,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(INTERNATIONAL BANKING BRANCH)",
+      "swift_code": "PUNBINBBDOB"
+    },
+    {
+      "id": 2763,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(INTERNATIONAL SERVICE BRANCH)",
+      "swift_code": "PUNBINBBISB"
+    },
+    {
+      "id": 2764,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(JANPATH BRANCH)",
+      "swift_code": "PUNBINBBDJC"
+    },
+    {
+      "id": 2765,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "PUNBINBBDMC"
+    },
+    {
+      "id": 2766,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(MSME BRANCH, NEW DELHI)",
+      "swift_code": "PUNBINBBDSM"
+    },
+    {
+      "id": 2767,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(N-46 CON. CIRCUS NEW DELHI)",
+      "swift_code": "PUNBINBBCCD"
+    },
+    {
+      "id": 2768,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(NARAINA)",
+      "swift_code": "PUNBINBBDNR"
+    },
+    {
+      "id": 2769,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE BRANCH)",
+      "swift_code": "PUNBINBBDNP"
+    },
+    {
+      "id": 2770,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(OKHLA IND ESTATE BRANCH)",
+      "swift_code": "PUNBINBBDOI"
+    },
+    {
+      "id": 2771,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(PUNJABI BAGH)",
+      "swift_code": "PUNBINBBDPB"
+    },
+    {
+      "id": 2772,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(RAJENDRA PLACE)",
+      "swift_code": "PUNBINBBDRP"
+    },
+    {
+      "id": 2773,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(RAJOURI GARDEN NEW DELHI)",
+      "swift_code": "PUNBINBBDRG"
+    },
+    {
+      "id": 2774,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(SANSAD MARG BRANCH)",
+      "swift_code": "PUNBINBBDPS"
+    },
+    {
+      "id": 2775,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(SHALIMAR BAGH)",
+      "swift_code": "PUNBINBBDSB"
+    },
+    {
+      "id": 2776,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "(TREASURY DIVISION)",
+      "swift_code": "PUNBINBBHOT"
+    },
+    {
+      "id": 2777,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "PUNBINBBDKB"
+    },
+    {
+      "id": 2815,
+      "bank": "QUANTUM SECURITIES P. LTD.",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "QUSEIND1"
+    },
+    {
+      "id": 2829,
+      "bank": "SAMSUNG C AND T CORPORATION INDIA PVT. LTD",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "SCNTIND1"
+    },
+    {
+      "id": 2834,
+      "bank": "SBERBANK",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "SABRINDD"
+    },
+    {
+      "id": 2857,
+      "bank": "SOCIETE GENERALE",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI BRANCH)",
+      "swift_code": "SOGEINBBDEL"
+    },
+    {
+      "id": 2868,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "SCBLINBBDEL"
+    },
+    {
+      "id": 3478,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(AJMAL KHAN ROAD,NEW DELHI)",
+      "swift_code": "SBININBB550"
+    },
+    {
+      "id": 3479,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(ANSARI NAGAR,NEW DELHI)",
+      "swift_code": "SBININBB545"
+    },
+    {
+      "id": 3480,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM43"
+    },
+    {
+      "id": 3481,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CANNAUGHT CIRCUS,NEW DELHI(ERSTWHILE SB INDORE))",
+      "swift_code": "SBININBB701"
+    },
+    {
+      "id": 3482,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP04"
+    },
+    {
+      "id": 3483,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP08"
+    },
+    {
+      "id": 3484,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP11"
+    },
+    {
+      "id": 3485,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP23"
+    },
+    {
+      "id": 3486,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP32"
+    },
+    {
+      "id": 3487,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP39"
+    },
+    {
+      "id": 3488,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP53"
+    },
+    {
+      "id": 3489,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHANDIHARH CIRCLE)",
+      "swift_code": "SBININBBP03"
+    },
+    {
+      "id": 3490,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHANDRALOK BLDG. NEW DELHI)",
+      "swift_code": "SBININBB373"
+    },
+    {
+      "id": 3491,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBH33"
+    },
+    {
+      "id": 3492,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBM29"
+    },
+    {
+      "id": 3493,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(COMMERCIAL BR,NEW DELHI)",
+      "swift_code": "SBININBB713"
+    },
+    {
+      "id": 3494,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(COMMERCIAL BRANCH,NEHRU PLACE, NEW DELHI)",
+      "swift_code": "SBININBB191"
+    },
+    {
+      "id": 3495,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CORPORATE ACCOUNTS GROUP BRANCH)",
+      "swift_code": "SBININBB172"
+    },
+    {
+      "id": 3496,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CORPORATE ACCOUNTS GROUP-II BRANCH, NEW DELHI)",
+      "swift_code": "SBININBB824"
+    },
+    {
+      "id": 3497,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(GREATER KAILASH-II BR)",
+      "swift_code": "SBININBB710"
+    },
+    {
+      "id": 3498,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH42"
+    },
+    {
+      "id": 3499,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBT74"
+    },
+    {
+      "id": 3500,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(IIT,HAUZ KHAS,NEW DELHI)",
+      "swift_code": "SBININBB547"
+    },
+    {
+      "id": 3501,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SBININBB132"
+    },
+    {
+      "id": 3502,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(J.L. NEHRU UNIVERSITY,NEW DELHI)",
+      "swift_code": "SBININBB548"
+    },
+    {
+      "id": 3503,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT53"
+    },
+    {
+      "id": 3504,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBM18"
+    },
+    {
+      "id": 3505,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBM22"
+    },
+    {
+      "id": 3506,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "SBININBB104"
+    },
+    {
+      "id": 3507,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBH47"
+    },
+    {
+      "id": 3508,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NAJAFGARH ROAD  BRANCH)",
+      "swift_code": "SBININBB378"
+    },
+    {
+      "id": 3509,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NARAINA COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB233"
+    },
+    {
+      "id": 3510,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBH22"
+    },
+    {
+      "id": 3511,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ20"
+    },
+    {
+      "id": 3512,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ31"
+    },
+    {
+      "id": 3513,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ48"
+    },
+    {
+      "id": 3514,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ62"
+    },
+    {
+      "id": 3515,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ66"
+    },
+    {
+      "id": 3516,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBM25"
+    },
+    {
+      "id": 3517,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBM36"
+    },
+    {
+      "id": 3518,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NRI BRANCH)",
+      "swift_code": "SBININBB153"
+    },
+    {
+      "id": 3519,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(OKHLA INDUSTRIAL ESTATE BRANCH)",
+      "swift_code": "SBININBB248"
+    },
+    {
+      "id": 3520,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB102"
+    },
+    {
+      "id": 3521,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(R.K.PURAM BRANCH, NEW DELHI )",
+      "swift_code": "SBININBB629"
+    },
+    {
+      "id": 3522,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(RING ROAD, LAJPATNAGAR)",
+      "swift_code": "SBININBB382"
+    },
+    {
+      "id": 3523,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(SME BRANCH, MAYAPURI, NEW DELHI)",
+      "swift_code": "SBININBB563"
+    },
+    {
+      "id": 3524,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(SOUTH EX BRANCH)",
+      "swift_code": "SBININBB737"
+    },
+    {
+      "id": 3525,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(SOUTH EXTENSION PART 1)",
+      "swift_code": "SBININBB220"
+    },
+    {
+      "id": 3526,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(SPECIALIZED NRI BRANCH, NEW DELHI)",
+      "swift_code": "SBININBB183"
+    },
+    {
+      "id": 3527,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(TRADE FINANCE CENTRAL PROCESSING CELL)",
+      "swift_code": "SBININBB593"
+    },
+    {
+      "id": 3528,
+      "bank": "STATE BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(WAZIRPUR INDUSTRIAL AREA)",
+      "swift_code": "SBININBB231"
+    },
+    {
+      "id": 3714,
+      "bank": "SUMITOMO MITSUI BANKING CORPORATION NEW DELHI BRANCH",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "SMBCINDD"
+    },
+    {
+      "id": 3720,
+      "bank": "SVC CO-OPERATIVE BANK LIMITED",
+      "city": "NEW DELHI",
+      "branch": "(EAST PATEL NAGAR)",
+      "swift_code": "SVCBINBBDEL"
+    },
+    {
+      "id": 3810,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(CORPORATE FINANCE BRANCH)",
+      "swift_code": "SYNBINBB179"
+    },
+    {
+      "id": 3811,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(DHAULA KUAN BRANCH)",
+      "swift_code": "SYNBINBB116"
+    },
+    {
+      "id": 3812,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(EAST PATEL NAGAR BRANCH)",
+      "swift_code": "SYNBINBB042"
+    },
+    {
+      "id": 3813,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(FXPC BRANCH)",
+      "swift_code": "SYNBINBB126"
+    },
+    {
+      "id": 3814,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(GREENPARK EXTN. BRANCH)",
+      "swift_code": "SYNBINBB148"
+    },
+    {
+      "id": 3815,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(HAUZ KHAS BRANCH)",
+      "swift_code": "SYNBINBB346"
+    },
+    {
+      "id": 3816,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(I P ESTATE BRANCH)",
+      "swift_code": "SYNBINBB070"
+    },
+    {
+      "id": 3817,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(INTERNATIONAL BUSINESS BRANCH)",
+      "swift_code": "SYNBINBB009"
+    },
+    {
+      "id": 3818,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(KAROLBAGH BRANCH)",
+      "swift_code": "SYNBINBB172"
+    },
+    {
+      "id": 3819,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(KIRTI NAGAR BRANCH)",
+      "swift_code": "SYNBINBB033"
+    },
+    {
+      "id": 3820,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(MAYAPURI BRANCH)",
+      "swift_code": "SYNBINBB152"
+    },
+    {
+      "id": 3821,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE BRANCH)",
+      "swift_code": "SYNBINBB101"
+    },
+    {
+      "id": 3822,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI)",
+      "swift_code": "SYNBINBBAS8"
+    },
+    {
+      "id": 3823,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(PUSA CAMPUS BRANCH)",
+      "swift_code": "SYNBINBB019"
+    },
+    {
+      "id": 3824,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(SOUTH BLOCK BRANCH)",
+      "swift_code": "SYNBINBB171"
+    },
+    {
+      "id": 3825,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(SUPER BAZAR BRANCH)",
+      "swift_code": "SYNBINBB060"
+    },
+    {
+      "id": 3826,
+      "bank": "SYNDICATE BANK",
+      "city": "NEW DELHI",
+      "branch": "(VASANT VIHAR BRANCH)",
+      "swift_code": "SYNBINBB138"
+    },
+    {
+      "id": 3866,
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "city": "NEW DELHI",
+      "branch": "",
+      "swift_code": "HSBCINBBNDH"
+    },
+    {
+      "id": 3930,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "NEW DELHI",
+      "branch": "(NEW DELHI CONNAUGHT PLACE)",
+      "swift_code": "SOININ55153"
+    },
+    {
+      "id": 4010,
+      "bank": "UCO BANK",
+      "city": "NEW DELHI",
+      "branch": "(CONNAUGHT PLACE)",
+      "swift_code": "UCBAINBB244"
+    },
+    {
+      "id": 4011,
+      "bank": "UCO BANK",
+      "city": "NEW DELHI",
+      "branch": "(DEFENCE COLONY NEW DELHI BRANCH)",
+      "swift_code": "UCBAINBB230"
+    },
+    {
+      "id": 4012,
+      "bank": "UCO BANK",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE KALKAJI NEW DELHI)",
+      "swift_code": "UCBAINBB232"
+    },
+    {
+      "id": 4013,
+      "bank": "UCO BANK",
+      "city": "NEW DELHI",
+      "branch": "(PARLIAMENT STREET BRANCH)",
+      "swift_code": "UCBAINBB202"
+    },
+    {
+      "id": 4014,
+      "bank": "UCO BANK",
+      "city": "NEW DELHI",
+      "branch": "(PARLIAMENT STREET)",
+      "swift_code": "UCBAINBB242"
+    },
+    {
+      "id": 4111,
+      "bank": "UNION BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(INDUSTRIAL FINANCE)",
+      "swift_code": "UBININBBIFD"
+    },
+    {
+      "id": 4112,
+      "bank": "UNION BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "UBININBBMCD"
+    },
+    {
+      "id": 4113,
+      "bank": "UNION BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(NEHRU PLACE BR)",
+      "swift_code": "UBININBBNPD"
+    },
+    {
+      "id": 4114,
+      "bank": "UNION BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "UBININBBNDL"
+    },
+    {
+      "id": 4115,
+      "bank": "UNION BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(SHLIMAR BAGH BRANCH)",
+      "swift_code": "UBININBBSBD"
+    },
+    {
+      "id": 4116,
+      "bank": "UNION BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(SME OKHLA BRANCH)",
+      "swift_code": "UBININBBOKH"
+    },
+    {
+      "id": 4166,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(CORPORATE FINANCE BRANCH)",
+      "swift_code": "UTBIINBBCFD"
+    },
+    {
+      "id": 4167,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(DELHI OBEROI HOTEL)",
+      "swift_code": "UTBIINBBICH"
+    },
+    {
+      "id": 4168,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(DELHI, OVERSEAS BRANCH)",
+      "swift_code": "UTBIINBBDEL"
+    },
+    {
+      "id": 4169,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "NEW DELHI",
+      "branch": "(TANSEN MARG BRNACH)",
+      "swift_code": "UTBIINBBTNM"
+    },
+    {
+      "id": 4189,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "NEW DELHI",
+      "branch": "(KAROL BAUG BRANCH)",
+      "swift_code": "UWBAINB1NDL"
+    },
+    {
+      "id": 4235,
+      "bank": "VIJAYA BANK",
+      "city": "NEW DELHI",
+      "branch": "(BARAKHAMBA ROAD BRANCH)",
+      "swift_code": "VIJBINBBCND"
+    },
+    {
+      "id": 4236,
+      "bank": "VIJAYA BANK",
+      "city": "NEW DELHI",
+      "branch": "(CHANDNI CHOWK BRANCH)",
+      "swift_code": "VIJBINBBCCD"
+    },
+    {
+      "id": 4237,
+      "bank": "VIJAYA BANK",
+      "city": "NEW DELHI",
+      "branch": "(DEFENCE COLONY BRANCH)",
+      "swift_code": "VIJBINBBDCD"
+    },
+    {
+      "id": 4238,
+      "bank": "VIJAYA BANK",
+      "city": "NEW DELHI",
+      "branch": "(REG. FOREX CELL, NEW DELHI)",
+      "swift_code": "VIJBINBBRFC"
+    }
+  ],
+  "meta": {
+    "title": "New Delhi में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in New Delhi, India. Subset of hi-bank. Source city string preserved verbatim as \"NEW DELHI\". शामिल हैं 320 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "New Delhi में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड New Delhi में बैंक — SWIFT/BIC कोड — 320 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 320 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

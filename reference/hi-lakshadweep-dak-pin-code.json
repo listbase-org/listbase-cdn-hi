@@ -1,0 +1,241 @@
+{
+  "id": "hi-lakshadweep-dak-pin-code",
+  "name": "Lakshadweep के डाक पिन कोड (Lakshadweep Postal PIN Codes)",
+  "title": "Lakshadweep के डाक पिन कोड (Lakshadweep Postal PIN Codes)",
+  "description": "10 India Post pincode records in Lakshadweep (लक्षद्वीप). Subset of hi-dak-pin-code filtered to state=\"Lakshadweep\". Each record gives the pincode, office name and type (HO/SO/BO), postal delivery status, district, postal circle/region/division, and lat/lng coordinates.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "pincode",
+      "label": "Pincode",
+      "type": "number"
+    },
+    {
+      "key": "office_name",
+      "label": "Office Name",
+      "type": "string"
+    },
+    {
+      "key": "office_type",
+      "label": "Office Type",
+      "type": "string"
+    },
+    {
+      "key": "delivery",
+      "label": "Delivery",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "circle",
+      "label": "Circle",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "division",
+      "label": "Division",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "pincode": "682554",
+      "office_name": "Bithra B.O",
+      "office_type": "BO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "pincode": "682555",
+      "office_name": "Kavaratti H.O",
+      "office_type": "HO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": "",
+      "longitude": ""
+    },
+    {
+      "pincode": "682553",
+      "office_name": "Agathi S.O",
+      "office_type": "PO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": 10.854627,
+      "longitude": 72.192611
+    },
+    {
+      "pincode": "682554",
+      "office_name": "Chetlat S.O",
+      "office_type": "PO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": 10.854627,
+      "longitude": 72.192611
+    },
+    {
+      "pincode": "682557",
+      "office_name": "Kalpeni S.O",
+      "office_type": "PO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": 10.854627,
+      "longitude": 72.192611
+    },
+    {
+      "pincode": "682552",
+      "office_name": "Amini S.O",
+      "office_type": "PO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": 10.854627,
+      "longitude": 72.192611
+    },
+    {
+      "pincode": "682556",
+      "office_name": "Kadamat S.O",
+      "office_type": "PO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": 10.854627,
+      "longitude": 72.192611
+    },
+    {
+      "pincode": "682558",
+      "office_name": "Kiltan S.O",
+      "office_type": "PO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": 10.854627,
+      "longitude": 72.192611
+    },
+    {
+      "pincode": "682559",
+      "office_name": "Minicoy S.O",
+      "office_type": "PO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": 10.854627,
+      "longitude": 72.192611
+    },
+    {
+      "pincode": "682551",
+      "office_name": "Androth S.O",
+      "office_type": "PO",
+      "delivery": "Delivery",
+      "district": "Lakshadweep District",
+      "district_slug": "lakshadweep-district",
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "circle": "Kerala Circle",
+      "region": "Kochi Region",
+      "division": "Lakshadweep Division",
+      "latitude": 10.854627,
+      "longitude": 72.192611
+    }
+  ],
+  "meta": {
+    "title": "Lakshadweep के डाक पिन कोड (Lakshadweep Postal PIN Codes) - मुफ़्त डाउनलोड",
+    "description": "10 India Post pincode records in Lakshadweep (लक्षद्वीप). Subset of hi-dak-pin-code filtered to state=\"Lakshadweep\". Each record gives the pincode, office name and type (HO/SO/BO), postal delivery status, district, postal circle/region/division, and lat/lng coordinates. शामिल हैं 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Lakshadweep के डाक पिन कोड (Lakshadweep Postal PIN Codes) | ListBase",
+    "seo_description": "डाउनलोड Lakshadweep के डाक पिन कोड (Lakshadweep Postal PIN Codes) — 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 10 रिकॉर्ड / 13 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

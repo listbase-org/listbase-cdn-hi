@@ -1,0 +1,336 @@
+{
+  "id": "hi-daman-and-diu-shahar",
+  "name": "दमन और दीव के शहर (Daman and Diu Cities)",
+  "title": "दमन और दीव के शहर (Daman and Diu Cities)",
+  "description": "दमन और दीव राज्य के 27 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 27 cities and towns in Daman and Diu, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bimpor",
+      "name_lower": "bimpor",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.45,
+      "longitude": 72.883333
+    },
+    {
+      "name": "Calicaxigão",
+      "name_lower": "calicaxigao",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.383333,
+      "longitude": 72.866667
+    },
+    {
+      "name": "Dabel",
+      "name_lower": "dabel",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.4,
+      "longitude": 72.883333
+    },
+    {
+      "name": "Dabhel",
+      "name_lower": "dabhel",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.4,
+      "longitude": 72.883333
+    },
+    {
+      "name": "Daman",
+      "name_lower": "daman",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": 39741,
+      "latitude": 20.416667,
+      "longitude": 72.85
+    },
+    {
+      "name": "Damao",
+      "name_lower": "damao",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.416667,
+      "longitude": 72.85
+    },
+    {
+      "name": "Damaun",
+      "name_lower": "damaun",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.416667,
+      "longitude": 72.85
+    },
+    {
+      "name": "Dholar",
+      "name_lower": "dholar",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.383333,
+      "longitude": 72.833333
+    },
+    {
+      "name": "Diu",
+      "name_lower": "diu",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": 23790,
+      "latitude": 20.7,
+      "longitude": 70.983333
+    },
+    {
+      "name": "Div",
+      "name_lower": "div",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.7,
+      "longitude": 70.983333
+    },
+    {
+      "name": "Doler",
+      "name_lower": "doler",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.383333,
+      "longitude": 72.833333
+    },
+    {
+      "name": "Ghaniwar",
+      "name_lower": "ghaniwar",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.916667,
+      "longitude": 70.75
+    },
+    {
+      "name": "Ghantwar",
+      "name_lower": "ghantwar",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.916667,
+      "longitude": 70.75
+    },
+    {
+      "name": "Gogla",
+      "name_lower": "gogla",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.723333,
+      "longitude": 70.9875
+    },
+    {
+      "name": "Gogola",
+      "name_lower": "gogola",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.723333,
+      "longitude": 70.9875
+    },
+    {
+      "name": "Kalai",
+      "name_lower": "kalai",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.35,
+      "longitude": 72.816667
+    },
+    {
+      "name": "Khali Kachigam",
+      "name_lower": "khali kachigam",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.383333,
+      "longitude": 72.866667
+    },
+    {
+      "name": "Kotda",
+      "name_lower": "kotda",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.707222,
+      "longitude": 70.865
+    },
+    {
+      "name": "Magarvara",
+      "name_lower": "magarvara",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.383333,
+      "longitude": 72.866667
+    },
+    {
+      "name": "Marvor",
+      "name_lower": "marvor",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.433333,
+      "longitude": 72.866667
+    },
+    {
+      "name": "Marwad",
+      "name_lower": "marwad",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.433333,
+      "longitude": 72.866667
+    },
+    {
+      "name": "Pariali",
+      "name_lower": "pariali",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.366667,
+      "longitude": 72.833333
+    },
+    {
+      "name": "Prial",
+      "name_lower": "prial",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.366667,
+      "longitude": 72.833333
+    },
+    {
+      "name": "Sarkharia",
+      "name_lower": "sarkharia",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.733333,
+      "longitude": 70.75
+    },
+    {
+      "name": "Sigsar",
+      "name_lower": "sigsar",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.8,
+      "longitude": 70.6
+    },
+    {
+      "name": "Vapi",
+      "name_lower": "vapi",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": 92225,
+      "latitude": 20.366667,
+      "longitude": 72.9
+    },
+    {
+      "name": "Wapi",
+      "name_lower": "wapi",
+      "state": "Daman and Diu",
+      "state_hi": "दमन और दीव",
+      "region_code": "32",
+      "population": "",
+      "latitude": 20.366667,
+      "longitude": 72.9
+    }
+  ],
+  "meta": {
+    "title": "दमन और दीव के शहर (Daman and Diu Cities) - मुफ़्त डाउनलोड",
+    "description": "दमन और दीव राज्य के 27 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 27 cities and towns in Daman and Diu, India, with population and geographic coordinates. शामिल हैं 27 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "दमन और दीव के शहर (Daman and Diu Cities) | ListBase",
+    "seo_description": "डाउनलोड दमन और दीव के शहर (Daman and Diu Cities) — 27 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 27 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

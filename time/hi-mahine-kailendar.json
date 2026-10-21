@@ -1,0 +1,648 @@
+{
+  "id": "hi-mahine-kailendar",
+  "name": "कैलेंडर अनुसार महीनों के नाम (CLDR हिन्दी)",
+  "title": "कैलेंडर अनुसार महीनों के नाम (CLDR हिन्दी)",
+  "description": "छह कैलेंडरों (ग्रेगोरियन, बौद्ध, चीनी, दांगी, हिब्रू, इस्लामी) के महीनों के नाम — CLDR hi लोकेल में।",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "kailendar",
+      "label": "Kailendar",
+      "type": "string"
+    },
+    {
+      "key": "mahina_code",
+      "label": "Mahina Code",
+      "type": "number"
+    },
+    {
+      "key": "mahina_ank",
+      "label": "Mahina Ank",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sanket",
+      "label": "Sanket",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "kailendar": "gregorian",
+      "mahina_code": "1",
+      "mahina_ank": 1,
+      "naam": "जनवरी",
+      "sanket": "जन॰"
+    },
+    {
+      "id": 2,
+      "kailendar": "gregorian",
+      "mahina_code": "2",
+      "mahina_ank": 2,
+      "naam": "फ़रवरी",
+      "sanket": "फ़र॰"
+    },
+    {
+      "id": 3,
+      "kailendar": "gregorian",
+      "mahina_code": "3",
+      "mahina_ank": 3,
+      "naam": "मार्च",
+      "sanket": "मार्च"
+    },
+    {
+      "id": 4,
+      "kailendar": "gregorian",
+      "mahina_code": "4",
+      "mahina_ank": 4,
+      "naam": "अप्रैल",
+      "sanket": "अप्रैल"
+    },
+    {
+      "id": 5,
+      "kailendar": "gregorian",
+      "mahina_code": "5",
+      "mahina_ank": 5,
+      "naam": "मई",
+      "sanket": "मई"
+    },
+    {
+      "id": 6,
+      "kailendar": "gregorian",
+      "mahina_code": "6",
+      "mahina_ank": 6,
+      "naam": "जून",
+      "sanket": "जून"
+    },
+    {
+      "id": 7,
+      "kailendar": "gregorian",
+      "mahina_code": "7",
+      "mahina_ank": 7,
+      "naam": "जुलाई",
+      "sanket": "जुल॰"
+    },
+    {
+      "id": 8,
+      "kailendar": "gregorian",
+      "mahina_code": "8",
+      "mahina_ank": 8,
+      "naam": "अगस्त",
+      "sanket": "अग॰"
+    },
+    {
+      "id": 9,
+      "kailendar": "gregorian",
+      "mahina_code": "9",
+      "mahina_ank": 9,
+      "naam": "सितंबर",
+      "sanket": "सित॰"
+    },
+    {
+      "id": 10,
+      "kailendar": "gregorian",
+      "mahina_code": "10",
+      "mahina_ank": 10,
+      "naam": "अक्टूबर",
+      "sanket": "अक्टू॰"
+    },
+    {
+      "id": 11,
+      "kailendar": "gregorian",
+      "mahina_code": "11",
+      "mahina_ank": 11,
+      "naam": "नवंबर",
+      "sanket": "नव॰"
+    },
+    {
+      "id": 12,
+      "kailendar": "gregorian",
+      "mahina_code": "12",
+      "mahina_ank": 12,
+      "naam": "दिसंबर",
+      "sanket": "दिस॰"
+    },
+    {
+      "id": 13,
+      "kailendar": "buddhist",
+      "mahina_code": "1",
+      "mahina_ank": 1,
+      "naam": "जनवरी",
+      "sanket": "जन॰"
+    },
+    {
+      "id": 14,
+      "kailendar": "buddhist",
+      "mahina_code": "2",
+      "mahina_ank": 2,
+      "naam": "फ़रवरी",
+      "sanket": "फ़र॰"
+    },
+    {
+      "id": 15,
+      "kailendar": "buddhist",
+      "mahina_code": "3",
+      "mahina_ank": 3,
+      "naam": "मार्च",
+      "sanket": "मार्च"
+    },
+    {
+      "id": 16,
+      "kailendar": "buddhist",
+      "mahina_code": "4",
+      "mahina_ank": 4,
+      "naam": "अप्रैल",
+      "sanket": "अप्रैल"
+    },
+    {
+      "id": 17,
+      "kailendar": "buddhist",
+      "mahina_code": "5",
+      "mahina_ank": 5,
+      "naam": "मई",
+      "sanket": "मई"
+    },
+    {
+      "id": 18,
+      "kailendar": "buddhist",
+      "mahina_code": "6",
+      "mahina_ank": 6,
+      "naam": "जून",
+      "sanket": "जून"
+    },
+    {
+      "id": 19,
+      "kailendar": "buddhist",
+      "mahina_code": "7",
+      "mahina_ank": 7,
+      "naam": "जुलाई",
+      "sanket": "जुल॰"
+    },
+    {
+      "id": 20,
+      "kailendar": "buddhist",
+      "mahina_code": "8",
+      "mahina_ank": 8,
+      "naam": "अगस्त",
+      "sanket": "अग॰"
+    },
+    {
+      "id": 21,
+      "kailendar": "buddhist",
+      "mahina_code": "9",
+      "mahina_ank": 9,
+      "naam": "सितंबर",
+      "sanket": "सित॰"
+    },
+    {
+      "id": 22,
+      "kailendar": "buddhist",
+      "mahina_code": "10",
+      "mahina_ank": 10,
+      "naam": "अक्टूबर",
+      "sanket": "अक्टू॰"
+    },
+    {
+      "id": 23,
+      "kailendar": "buddhist",
+      "mahina_code": "11",
+      "mahina_ank": 11,
+      "naam": "नवंबर",
+      "sanket": "नव॰"
+    },
+    {
+      "id": 24,
+      "kailendar": "buddhist",
+      "mahina_code": "12",
+      "mahina_ank": 12,
+      "naam": "दिसंबर",
+      "sanket": "दिस॰"
+    },
+    {
+      "id": 25,
+      "kailendar": "chinese",
+      "mahina_code": "1",
+      "mahina_ank": 1,
+      "naam": "M01",
+      "sanket": "M01"
+    },
+    {
+      "id": 26,
+      "kailendar": "chinese",
+      "mahina_code": "2",
+      "mahina_ank": 2,
+      "naam": "M02",
+      "sanket": "M02"
+    },
+    {
+      "id": 27,
+      "kailendar": "chinese",
+      "mahina_code": "3",
+      "mahina_ank": 3,
+      "naam": "M03",
+      "sanket": "M03"
+    },
+    {
+      "id": 28,
+      "kailendar": "chinese",
+      "mahina_code": "4",
+      "mahina_ank": 4,
+      "naam": "M04",
+      "sanket": "M04"
+    },
+    {
+      "id": 29,
+      "kailendar": "chinese",
+      "mahina_code": "5",
+      "mahina_ank": 5,
+      "naam": "M05",
+      "sanket": "M05"
+    },
+    {
+      "id": 30,
+      "kailendar": "chinese",
+      "mahina_code": "6",
+      "mahina_ank": 6,
+      "naam": "M06",
+      "sanket": "M06"
+    },
+    {
+      "id": 31,
+      "kailendar": "chinese",
+      "mahina_code": "7",
+      "mahina_ank": 7,
+      "naam": "M07",
+      "sanket": "M07"
+    },
+    {
+      "id": 32,
+      "kailendar": "chinese",
+      "mahina_code": "8",
+      "mahina_ank": 8,
+      "naam": "M08",
+      "sanket": "M08"
+    },
+    {
+      "id": 33,
+      "kailendar": "chinese",
+      "mahina_code": "9",
+      "mahina_ank": 9,
+      "naam": "M09",
+      "sanket": "M09"
+    },
+    {
+      "id": 34,
+      "kailendar": "chinese",
+      "mahina_code": "10",
+      "mahina_ank": 10,
+      "naam": "M10",
+      "sanket": "M10"
+    },
+    {
+      "id": 35,
+      "kailendar": "chinese",
+      "mahina_code": "11",
+      "mahina_ank": 11,
+      "naam": "M11",
+      "sanket": "M11"
+    },
+    {
+      "id": 36,
+      "kailendar": "chinese",
+      "mahina_code": "12",
+      "mahina_ank": 12,
+      "naam": "M12",
+      "sanket": "M12"
+    },
+    {
+      "id": 37,
+      "kailendar": "dangi",
+      "mahina_code": "1",
+      "mahina_ank": 1,
+      "naam": "M01",
+      "sanket": "M01"
+    },
+    {
+      "id": 38,
+      "kailendar": "dangi",
+      "mahina_code": "2",
+      "mahina_ank": 2,
+      "naam": "M02",
+      "sanket": "M02"
+    },
+    {
+      "id": 39,
+      "kailendar": "dangi",
+      "mahina_code": "3",
+      "mahina_ank": 3,
+      "naam": "M03",
+      "sanket": "M03"
+    },
+    {
+      "id": 40,
+      "kailendar": "dangi",
+      "mahina_code": "4",
+      "mahina_ank": 4,
+      "naam": "M04",
+      "sanket": "M04"
+    },
+    {
+      "id": 41,
+      "kailendar": "dangi",
+      "mahina_code": "5",
+      "mahina_ank": 5,
+      "naam": "M05",
+      "sanket": "M05"
+    },
+    {
+      "id": 42,
+      "kailendar": "dangi",
+      "mahina_code": "6",
+      "mahina_ank": 6,
+      "naam": "M06",
+      "sanket": "M06"
+    },
+    {
+      "id": 43,
+      "kailendar": "dangi",
+      "mahina_code": "7",
+      "mahina_ank": 7,
+      "naam": "M07",
+      "sanket": "M07"
+    },
+    {
+      "id": 44,
+      "kailendar": "dangi",
+      "mahina_code": "8",
+      "mahina_ank": 8,
+      "naam": "M08",
+      "sanket": "M08"
+    },
+    {
+      "id": 45,
+      "kailendar": "dangi",
+      "mahina_code": "9",
+      "mahina_ank": 9,
+      "naam": "M09",
+      "sanket": "M09"
+    },
+    {
+      "id": 46,
+      "kailendar": "dangi",
+      "mahina_code": "10",
+      "mahina_ank": 10,
+      "naam": "M10",
+      "sanket": "M10"
+    },
+    {
+      "id": 47,
+      "kailendar": "dangi",
+      "mahina_code": "11",
+      "mahina_ank": 11,
+      "naam": "M11",
+      "sanket": "M11"
+    },
+    {
+      "id": 48,
+      "kailendar": "dangi",
+      "mahina_code": "12",
+      "mahina_ank": 12,
+      "naam": "M12",
+      "sanket": "M12"
+    },
+    {
+      "id": 49,
+      "kailendar": "hebrew",
+      "mahina_code": "1",
+      "mahina_ank": 1,
+      "naam": "Tishri",
+      "sanket": "Tishri"
+    },
+    {
+      "id": 50,
+      "kailendar": "hebrew",
+      "mahina_code": "2",
+      "mahina_ank": 2,
+      "naam": "Heshvan",
+      "sanket": "Heshvan"
+    },
+    {
+      "id": 51,
+      "kailendar": "hebrew",
+      "mahina_code": "3",
+      "mahina_ank": 3,
+      "naam": "Kislev",
+      "sanket": "Kislev"
+    },
+    {
+      "id": 52,
+      "kailendar": "hebrew",
+      "mahina_code": "4",
+      "mahina_ank": 4,
+      "naam": "Tevet",
+      "sanket": "Tevet"
+    },
+    {
+      "id": 53,
+      "kailendar": "hebrew",
+      "mahina_code": "5",
+      "mahina_ank": 5,
+      "naam": "Shevat",
+      "sanket": "Shevat"
+    },
+    {
+      "id": 54,
+      "kailendar": "hebrew",
+      "mahina_code": "6",
+      "mahina_ank": 6,
+      "naam": "Adar I",
+      "sanket": "Adar I"
+    },
+    {
+      "id": 55,
+      "kailendar": "hebrew",
+      "mahina_code": "7",
+      "mahina_ank": 7,
+      "naam": "Adar",
+      "sanket": "Adar"
+    },
+    {
+      "id": 56,
+      "kailendar": "hebrew",
+      "mahina_code": "7-yeartype-leap",
+      "mahina_ank": "",
+      "naam": "Adar II",
+      "sanket": "Adar II"
+    },
+    {
+      "id": 57,
+      "kailendar": "hebrew",
+      "mahina_code": "8",
+      "mahina_ank": 8,
+      "naam": "Nisan",
+      "sanket": "Nisan"
+    },
+    {
+      "id": 58,
+      "kailendar": "hebrew",
+      "mahina_code": "9",
+      "mahina_ank": 9,
+      "naam": "Iyar",
+      "sanket": "Iyar"
+    },
+    {
+      "id": 59,
+      "kailendar": "hebrew",
+      "mahina_code": "10",
+      "mahina_ank": 10,
+      "naam": "Sivan",
+      "sanket": "Sivan"
+    },
+    {
+      "id": 60,
+      "kailendar": "hebrew",
+      "mahina_code": "11",
+      "mahina_ank": 11,
+      "naam": "Tamuz",
+      "sanket": "Tamuz"
+    },
+    {
+      "id": 61,
+      "kailendar": "hebrew",
+      "mahina_code": "12",
+      "mahina_ank": 12,
+      "naam": "Av",
+      "sanket": "Av"
+    },
+    {
+      "id": 62,
+      "kailendar": "hebrew",
+      "mahina_code": "13",
+      "mahina_ank": 13,
+      "naam": "Elul",
+      "sanket": "Elul"
+    },
+    {
+      "id": 63,
+      "kailendar": "islamic",
+      "mahina_code": "1",
+      "mahina_ank": 1,
+      "naam": "मुहर्रम",
+      "sanket": "Muh."
+    },
+    {
+      "id": 64,
+      "kailendar": "islamic",
+      "mahina_code": "2",
+      "mahina_ank": 2,
+      "naam": "सफर",
+      "sanket": "Saf."
+    },
+    {
+      "id": 65,
+      "kailendar": "islamic",
+      "mahina_code": "3",
+      "mahina_ank": 3,
+      "naam": "राबी प्रथम",
+      "sanket": "Rab. I"
+    },
+    {
+      "id": 66,
+      "kailendar": "islamic",
+      "mahina_code": "4",
+      "mahina_ank": 4,
+      "naam": "राबी द्वितीय",
+      "sanket": "Rab. II"
+    },
+    {
+      "id": 67,
+      "kailendar": "islamic",
+      "mahina_code": "5",
+      "mahina_ank": 5,
+      "naam": "जुम्डा प्रथम",
+      "sanket": "Jum. I"
+    },
+    {
+      "id": 68,
+      "kailendar": "islamic",
+      "mahina_code": "6",
+      "mahina_ank": 6,
+      "naam": "जुम्डा द्वितीय",
+      "sanket": "Jum. II"
+    },
+    {
+      "id": 69,
+      "kailendar": "islamic",
+      "mahina_code": "7",
+      "mahina_ank": 7,
+      "naam": "रजब",
+      "sanket": "Raj."
+    },
+    {
+      "id": 70,
+      "kailendar": "islamic",
+      "mahina_code": "8",
+      "mahina_ank": 8,
+      "naam": "शावन",
+      "sanket": "Sha."
+    },
+    {
+      "id": 71,
+      "kailendar": "islamic",
+      "mahina_code": "9",
+      "mahina_ank": 9,
+      "naam": "रमजान",
+      "sanket": "Ram."
+    },
+    {
+      "id": 72,
+      "kailendar": "islamic",
+      "mahina_code": "10",
+      "mahina_ank": 10,
+      "naam": "शव्व्ल",
+      "sanket": "Shaw."
+    },
+    {
+      "id": 73,
+      "kailendar": "islamic",
+      "mahina_code": "11",
+      "mahina_ank": 11,
+      "naam": "जिल-क्दाह",
+      "sanket": "Dhuʻl-Q."
+    },
+    {
+      "id": 74,
+      "kailendar": "islamic",
+      "mahina_code": "12",
+      "mahina_ank": 12,
+      "naam": "जिल्-हिज्जाह",
+      "sanket": "Dhuʻl-H."
+    }
+  ],
+  "meta": {
+    "title": "कैलेंडर अनुसार महीनों के नाम (CLDR हिन्दी) - मुफ़्त डाउनलोड",
+    "description": "छह कैलेंडरों (ग्रेगोरियन, बौद्ध, चीनी, दांगी, हिब्रू, इस्लामी) के महीनों के नाम — CLDR hi लोकेल में। शामिल हैं 74 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "कैलेंडर अनुसार महीनों के नाम (CLDR हिन्दी) | ListBase",
+    "seo_description": "डाउनलोड कैलेंडर अनुसार महीनों के नाम (CLDR हिन्दी) — 74 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 74 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

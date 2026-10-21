@@ -1,0 +1,136 @@
+{
+  "id": "hi-samay-kshetra-atlantic",
+  "name": "समय क्षेत्र — Atlantic (10)",
+  "title": "समय क्षेत्र — Atlantic (10)",
+  "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Atlantic/' से आरंभ होता है, हिन्दी नामों सहित।",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "kshetra",
+      "label": "Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "shahar",
+      "label": "Shahar",
+      "type": "string"
+    },
+    {
+      "key": "manak_naam",
+      "label": "Manak Naam",
+      "type": "string"
+    },
+    {
+      "key": "divakaal_naam",
+      "label": "Divakaal Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Atlantic/Azores",
+      "kshetra": "Atlantic",
+      "shahar": "अज़ोरेस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Atlantic/Bermuda",
+      "kshetra": "Atlantic",
+      "shahar": "बरमूडा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Atlantic/Canary",
+      "kshetra": "Atlantic",
+      "shahar": "कैनेरी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Atlantic/Cape_Verde",
+      "kshetra": "Atlantic",
+      "shahar": "केप वर्ड",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Atlantic/Faeroe",
+      "kshetra": "Atlantic",
+      "shahar": "फ़ैरो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Atlantic/Madeira",
+      "kshetra": "Atlantic",
+      "shahar": "मडेरा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Atlantic/Reykjavik",
+      "kshetra": "Atlantic",
+      "shahar": "रेक्याविक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Atlantic/South_Georgia",
+      "kshetra": "Atlantic",
+      "shahar": "दक्षिण जॉर्जिया",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Atlantic/St_Helena",
+      "kshetra": "Atlantic",
+      "shahar": "सेंट हेलेना",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Atlantic/Stanley",
+      "kshetra": "Atlantic",
+      "shahar": "स्टैनली",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    }
+  ],
+  "meta": {
+    "title": "समय क्षेत्र — Atlantic (10) - मुफ़्त डाउनलोड",
+    "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Atlantic/' से आरंभ होता है, हिन्दी नामों सहित। शामिल हैं 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "समय क्षेत्र — Atlantic (10) | ListBase",
+    "seo_description": "डाउनलोड समय क्षेत्र — Atlantic (10) — 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 10 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

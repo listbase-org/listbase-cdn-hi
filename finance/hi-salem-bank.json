@@ -1,0 +1,149 @@
+{
+  "id": "hi-salem-bank",
+  "name": "Salem में बैंक — SWIFT/BIC कोड",
+  "title": "Salem में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Salem, India. Subset of hi-bank. Source city string preserved verbatim as \"SALEM\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 59,
+      "bank": "ALLAHABAD BANK",
+      "city": "SALEM",
+      "branch": "(SALEM)",
+      "swift_code": "ALLAINBBSAL"
+    },
+    {
+      "id": 609,
+      "bank": "AXIS BANK LIMITED",
+      "city": "SALEM",
+      "branch": "(SALEM)",
+      "swift_code": "AXISINBB170"
+    },
+    {
+      "id": 1102,
+      "bank": "BANK OF INDIA",
+      "city": "SALEM",
+      "branch": "(SALEM)",
+      "swift_code": "BKIDINBBSAL"
+    },
+    {
+      "id": 1378,
+      "bank": "CANARA BANK",
+      "city": "SALEM",
+      "branch": "(SALEM FORT MAIN)",
+      "swift_code": "CNRBINBBSLM"
+    },
+    {
+      "id": 1458,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "SALEM",
+      "branch": "(SALEM)",
+      "swift_code": "CBININBBSAL"
+    },
+    {
+      "id": 1810,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "SALEM",
+      "branch": "(SALEM BRANCH)",
+      "swift_code": "FDRLINBBSLM"
+    },
+    {
+      "id": 2083,
+      "bank": "INDIAN BANK",
+      "city": "SALEM",
+      "branch": "(SALEM MAIN BRANCH)",
+      "swift_code": "IDIBINBBSLM"
+    },
+    {
+      "id": 2205,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "SALEM",
+      "branch": "(SALEM, TAMILNADU)",
+      "swift_code": "IOBAINBB080"
+    },
+    {
+      "id": 2367,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "SALEM",
+      "branch": "(SALEM BRANCH)",
+      "swift_code": "KARBINBBSLM"
+    },
+    {
+      "id": 2412,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "SALEM",
+      "branch": "(SALEM TOWN)",
+      "swift_code": "LAVBINBB661"
+    },
+    {
+      "id": 3596,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SALEM",
+      "branch": "(COMMERCIAL BRANCH SALEM)",
+      "swift_code": "SBININBB848"
+    },
+    {
+      "id": 3597,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SALEM",
+      "branch": "(SALEM STEEL PLANT CAMPUS BRANCH)",
+      "swift_code": "SBININBB300"
+    },
+    {
+      "id": 3598,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SALEM",
+      "branch": "(SALEM)",
+      "swift_code": "SBININBB459"
+    },
+    {
+      "id": 4122,
+      "bank": "UNION BANK OF INDIA",
+      "city": "SALEM",
+      "branch": "(SALEM-MAIN BRANCH)",
+      "swift_code": "UBININBBSLM"
+    }
+  ],
+  "meta": {
+    "title": "Salem में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Salem, India. Subset of hi-bank. Source city string preserved verbatim as \"SALEM\". शामिल हैं 14 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Salem में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Salem में बैंक — SWIFT/BIC कोड — 14 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 14 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

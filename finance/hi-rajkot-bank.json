@@ -1,0 +1,212 @@
+{
+  "id": "hi-rajkot-bank",
+  "name": "Rajkot में बैंक — SWIFT/BIC कोड",
+  "title": "Rajkot में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Rajkot, India. Subset of hi-bank. Source city string preserved verbatim as \"RAJKOT\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 120,
+      "bank": "ANDHRA BANK",
+      "city": "RAJKOT",
+      "branch": "(RAJKOT)",
+      "swift_code": "ANDBINBBRAJ"
+    },
+    {
+      "id": 601,
+      "bank": "AXIS BANK LIMITED",
+      "city": "RAJKOT",
+      "branch": "(MORBI (GJ))",
+      "swift_code": "AXISINBB662"
+    },
+    {
+      "id": 602,
+      "bank": "AXIS BANK LIMITED",
+      "city": "RAJKOT",
+      "branch": "(RAJKOT BRANCH)",
+      "swift_code": "AXISINBB087"
+    },
+    {
+      "id": 603,
+      "bank": "AXIS BANK LIMITED",
+      "city": "RAJKOT",
+      "branch": "(SHASTRI MAIDAN)",
+      "swift_code": "AXISINBB631"
+    },
+    {
+      "id": 717,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "RAJKOT",
+      "branch": "(RAJKOT)",
+      "swift_code": "UTIBINB1087"
+    },
+    {
+      "id": 879,
+      "bank": "BANK OF BARODA",
+      "city": "RAJKOT",
+      "branch": "(M.G.ROAD BRANCH)",
+      "swift_code": "BARBINBBRAJ"
+    },
+    {
+      "id": 1097,
+      "bank": "BANK OF INDIA",
+      "city": "RAJKOT",
+      "branch": "(KALAWAD ROAD)",
+      "swift_code": "BKIDINBBKLD"
+    },
+    {
+      "id": 1098,
+      "bank": "BANK OF INDIA",
+      "city": "RAJKOT",
+      "branch": "(RAJKOT MAIN BRANCH)",
+      "swift_code": "BKIDINBBRAJ"
+    },
+    {
+      "id": 1456,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "RAJKOT",
+      "branch": "(RAJKOT MAIN BRANCH)",
+      "swift_code": "CBININBBRAJ"
+    },
+    {
+      "id": 1592,
+      "bank": "CORPORATION BANK",
+      "city": "RAJKOT",
+      "branch": "(RAJKOT BRANCH)",
+      "swift_code": "CORPINBB191"
+    },
+    {
+      "id": 1683,
+      "bank": "DENA BANK",
+      "city": "RAJKOT",
+      "branch": "(TRAJPAR(MORBI))",
+      "swift_code": "BKDNINBBTRJ"
+    },
+    {
+      "id": 1684,
+      "bank": "DENA BANK",
+      "city": "RAJKOT",
+      "branch": "",
+      "swift_code": "BKDNINBBRJK"
+    },
+    {
+      "id": 1809,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "RAJKOT",
+      "branch": "(RAJKOT)",
+      "swift_code": "FDRLINBBRKT"
+    },
+    {
+      "id": 1972,
+      "bank": "IDBI BANK LIMITED",
+      "city": "RAJKOT",
+      "branch": "(RAJKOT BRANCH)",
+      "swift_code": "IBKLINBB119"
+    },
+    {
+      "id": 2202,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "RAJKOT",
+      "branch": "(AD  BRANCH)",
+      "swift_code": "IOBAINBB144"
+    },
+    {
+      "id": 2366,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "RAJKOT",
+      "branch": "(RAJKOT BRANCH)",
+      "swift_code": "KARBINBBRJK"
+    },
+    {
+      "id": 2427,
+      "bank": "MARWADI SHARES AND FINANCE LTD",
+      "city": "RAJKOT",
+      "branch": "",
+      "swift_code": "MAHFINA1"
+    },
+    {
+      "id": 2537,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "RAJKOT",
+      "branch": "(BRANCH OFFICE RAJKOT, GUJRAT)",
+      "swift_code": "ORBCINBBRJK"
+    },
+    {
+      "id": 3580,
+      "bank": "STATE BANK OF INDIA",
+      "city": "RAJKOT",
+      "branch": "(DHEBAR ROAD, RAJKOT)",
+      "swift_code": "SBININBB631"
+    },
+    {
+      "id": 3581,
+      "bank": "STATE BANK OF INDIA",
+      "city": "RAJKOT",
+      "branch": "(SCB,RAJKOT)",
+      "swift_code": "SBININBB408"
+    },
+    {
+      "id": 3582,
+      "bank": "STATE BANK OF INDIA",
+      "city": "RAJKOT",
+      "branch": "(SPL NRI BRANCH,RAJKOT)",
+      "swift_code": "SBININBB748"
+    },
+    {
+      "id": 3583,
+      "bank": "STATE BANK OF INDIA",
+      "city": "RAJKOT",
+      "branch": "",
+      "swift_code": "SBININBB211"
+    },
+    {
+      "id": 4121,
+      "bank": "UNION BANK OF INDIA",
+      "city": "RAJKOT",
+      "branch": "(RACE COURSE CIRCLE BRANCH)",
+      "swift_code": "UBININBBRKT"
+    }
+  ],
+  "meta": {
+    "title": "Rajkot में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Rajkot, India. Subset of hi-bank. Source city string preserved verbatim as \"RAJKOT\". शामिल हैं 23 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Rajkot में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Rajkot में बैंक — SWIFT/BIC कोड — 23 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 23 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

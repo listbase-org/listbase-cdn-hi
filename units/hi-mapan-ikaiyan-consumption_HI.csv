@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Shreni","Naam","Sanket","Sankeern","Paitarn"
+"1","consumption-liter-per-100-kilometer","consumption","लीटर प्रति 100 किलोमीटर","ली॰/100 कि॰मी॰","ली॰/100 कि॰मी॰","{0} लीटर प्रति 100 किलोमीटर"
+"2","consumption-liter-per-kilometer","consumption","लीटर प्रति किलोमीटर","लीटर/किमी","लीटर/किमी","{0} लीटर प्रति किलोमीटर"
+"3","consumption-mile-per-gallon","consumption","मील प्रति गैलन","मील/गैलन","मील/गैलन","{0} मील प्रति गैलन"
+"4","consumption-mile-per-gallon-imperial","consumption","मील प्रति इंपीरियल गैलन","mpg इंपीरियल","mpg इंपीरियल","{0} मील प्रति इंपीरियल गैलन"

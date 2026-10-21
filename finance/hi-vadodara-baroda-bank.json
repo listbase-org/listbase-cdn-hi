@@ -1,0 +1,275 @@
+{
+  "id": "hi-vadodara-baroda-bank",
+  "name": "Vadodara (Baroda) में बैंक — SWIFT/BIC कोड",
+  "title": "Vadodara (Baroda) में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Vadodara (Baroda), India. Subset of hi-bank. Source city string preserved verbatim as \"VADODARA (BARODA)\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 125,
+      "bank": "ANDHRA BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(AKOTA BRANCH, GUJARAT)",
+      "swift_code": "ANDBINBBAKT"
+    },
+    {
+      "id": 639,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VADODARA (BARODA)",
+      "branch": "(MANJALPUR)",
+      "swift_code": "AXISINBB565"
+    },
+    {
+      "id": 640,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VADODARA (BARODA)",
+      "branch": "(VADODARA BRANCH)",
+      "swift_code": "AXISINBB013"
+    },
+    {
+      "id": 728,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "VADODARA (BARODA)",
+      "branch": "(VADODARA BRANCH)",
+      "swift_code": "UTIBINB1013"
+    },
+    {
+      "id": 891,
+      "bank": "BANK OF BARODA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(BARODA MAIN OFFICE)",
+      "swift_code": "BARBINBBBRM"
+    },
+    {
+      "id": 892,
+      "bank": "BANK OF BARODA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(CORPORATE FINANCIAL SERVICES, BARODA)",
+      "swift_code": "BARBINBBCRV"
+    },
+    {
+      "id": 893,
+      "bank": "BANK OF BARODA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(FERTILIZER NAGAR MAIN BRANCH)",
+      "swift_code": "BARBINBBFTN"
+    },
+    {
+      "id": 894,
+      "bank": "BANK OF BARODA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(INTERNATIONAL BUSINESS BR. BARODA)",
+      "swift_code": "BARBINBBOBR"
+    },
+    {
+      "id": 1115,
+      "bank": "BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(VADODARA CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBVCB"
+    },
+    {
+      "id": 1116,
+      "bank": "BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(VADODARA MAIN BRANCH)",
+      "swift_code": "BKIDINBBVAD"
+    },
+    {
+      "id": 1463,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(MCB-VADODARA)",
+      "swift_code": "CBININBBMBA"
+    },
+    {
+      "id": 1464,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(NEPZ NOIDA)",
+      "swift_code": "CBININBBNEP"
+    },
+    {
+      "id": 1465,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(RACE COURCE ROAD, BARODA)",
+      "swift_code": "CBININBBBAR"
+    },
+    {
+      "id": 1608,
+      "bank": "CORPORATION BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(ALKAPURI BRANCH)",
+      "swift_code": "CORPINBB336"
+    },
+    {
+      "id": 1609,
+      "bank": "CORPORATION BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(VADODARA, GUJARAT BRANCH)",
+      "swift_code": "CORPINBB155"
+    },
+    {
+      "id": 1686,
+      "bank": "DENA BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(ALKAPURI BRANCH, VADODARA)",
+      "swift_code": "BKDNINBBVRD"
+    },
+    {
+      "id": 1817,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "VADODARA (BARODA)",
+      "branch": "(BARODA BRANCH)",
+      "swift_code": "FDRLINBBBRD"
+    },
+    {
+      "id": 1895,
+      "bank": "ICICI BANK LIMITED",
+      "city": "VADODARA (BARODA)",
+      "branch": "",
+      "swift_code": "ICICINBB003"
+    },
+    {
+      "id": 1980,
+      "bank": "IDBI BANK LIMITED",
+      "city": "VADODARA (BARODA)",
+      "branch": "(VADODARA BRANCH)",
+      "swift_code": "IBKLINBB021"
+    },
+    {
+      "id": 2089,
+      "bank": "INDIAN BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(BARODA BRANCH)",
+      "swift_code": "IDIBINBBBAR"
+    },
+    {
+      "id": 2217,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(BARODA MAIN BRANCH)",
+      "swift_code": "IOBAINBB105"
+    },
+    {
+      "id": 2263,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "VADODARA (BARODA)",
+      "branch": "",
+      "swift_code": "INDBINBBBAA"
+    },
+    {
+      "id": 2806,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(RAOPURA VADODARA)",
+      "swift_code": "PUNBINBBVRP"
+    },
+    {
+      "id": 3684,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(ALKAPURI,BARODA)",
+      "swift_code": "SBININBB403"
+    },
+    {
+      "id": 3685,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SBININBB165"
+    },
+    {
+      "id": 3686,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(MAKARPURA IND. EST BARODA)",
+      "swift_code": "SBININBB257"
+    },
+    {
+      "id": 3687,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(SPECIALIZED COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB115"
+    },
+    {
+      "id": 3688,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(TFCPC BARODA)",
+      "swift_code": "SBININBB607"
+    },
+    {
+      "id": 3843,
+      "bank": "SYNDICATE BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(ALKAPURI BRANCH)",
+      "swift_code": "SYNBINBB541"
+    },
+    {
+      "id": 4028,
+      "bank": "UCO BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(DANDIA BAZAR)",
+      "swift_code": "UCBAINBB030"
+    },
+    {
+      "id": 4129,
+      "bank": "UNION BANK OF INDIA",
+      "city": "VADODARA (BARODA)",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "UBININBBIBR"
+    },
+    {
+      "id": 4251,
+      "bank": "VIJAYA BANK",
+      "city": "VADODARA (BARODA)",
+      "branch": "(ALKAPURI)",
+      "swift_code": "VIJBINBBALB"
+    }
+  ],
+  "meta": {
+    "title": "Vadodara (Baroda) में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Vadodara (Baroda), India. Subset of hi-bank. Source city string preserved verbatim as \"VADODARA (BARODA)\". शामिल हैं 32 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Vadodara (Baroda) में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Vadodara (Baroda) में बैंक — SWIFT/BIC कोड — 32 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 32 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+﻿"Id","Unit Code","Shreni","Naam","Sanket","Sankeern","Paitarn"
+"1","temperature-celsius","temperature","डिग्री सेल्सियस","डिग्री सेल्सियस","°से॰","{0} डिग्री सेल्सियस"
+"2","temperature-fahrenheit","temperature","डिग्री फ़ेरनहाइट","डिग्री फ़ेरनहाइट","डिग्री फ़ेरनहाइट","{0} डिग्री फ़ेरनहाइट"
+"3","temperature-generic","temperature","°","°","°","{0}°"
+"4","temperature-kelvin","temperature","केल्विन","K","K","{0} केल्विन"
+"5","temperature-rankine","temperature","°R","°R","°R","{0} °R"

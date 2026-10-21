@@ -1,0 +1,310 @@
+{
+  "id": "hi-surat-bank",
+  "name": "Surat में बैंक — SWIFT/BIC कोड",
+  "title": "Surat में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Surat, India. Subset of hi-bank. Source city string preserved verbatim as \"SURAT\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 61,
+      "bank": "ALLAHABAD BANK",
+      "city": "SURAT",
+      "branch": "(SURAT NANPURA BRANCH)",
+      "swift_code": "ALLAINBBSUR"
+    },
+    {
+      "id": 122,
+      "bank": "ANDHRA BANK",
+      "city": "SURAT",
+      "branch": "(SURAT)",
+      "swift_code": "ANDBINBBSUR"
+    },
+    {
+      "id": 625,
+      "bank": "AXIS BANK LIMITED",
+      "city": "SURAT",
+      "branch": "(ADAJAN, SURAT (GJ) : 566)",
+      "swift_code": "AXISINBB566"
+    },
+    {
+      "id": 626,
+      "bank": "AXIS BANK LIMITED",
+      "city": "SURAT",
+      "branch": "(KATARGAM,SURAT GJ1440)",
+      "swift_code": "AXISINBBA48"
+    },
+    {
+      "id": 627,
+      "bank": "AXIS BANK LIMITED",
+      "city": "SURAT",
+      "branch": "(SURAT BRANCH)",
+      "swift_code": "AXISINBB047"
+    },
+    {
+      "id": 628,
+      "bank": "AXIS BANK LIMITED",
+      "city": "SURAT",
+      "branch": "(VARACHHA ROAD)",
+      "swift_code": "AXISINBB848"
+    },
+    {
+      "id": 721,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "SURAT",
+      "branch": "(SURAT BRANCH)",
+      "swift_code": "UTIBINB1047"
+    },
+    {
+      "id": 882,
+      "bank": "BANK OF BARODA",
+      "city": "SURAT",
+      "branch": "(CORPORATE FINANCIAL SERVICES BR, SURAT)",
+      "swift_code": "BARBINBBCFS"
+    },
+    {
+      "id": 883,
+      "bank": "BANK OF BARODA",
+      "city": "SURAT",
+      "branch": "(INTERNATIONAL BUSINESS BR. SURAT)",
+      "swift_code": "BARBINBBSUR"
+    },
+    {
+      "id": 884,
+      "bank": "BANK OF BARODA",
+      "city": "SURAT",
+      "branch": "(UDHNA INDUSTRIAL ESTATES BRANCH)",
+      "swift_code": "BARBINBBUDH"
+    },
+    {
+      "id": 1105,
+      "bank": "BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(SURAT CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBSMD"
+    },
+    {
+      "id": 1106,
+      "bank": "BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(SURAT MAIN BRANCH)",
+      "swift_code": "BKIDINBBSRT"
+    },
+    {
+      "id": 1381,
+      "bank": "CANARA BANK",
+      "city": "SURAT",
+      "branch": "(SURAT OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBSOB"
+    },
+    {
+      "id": 1459,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(MCB-SURAT, AHMEDABAD)",
+      "swift_code": "CBININBBMSU"
+    },
+    {
+      "id": 1460,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(SURAT BRANCH)",
+      "swift_code": "CBININBBSUR"
+    },
+    {
+      "id": 1594,
+      "bank": "CORPORATION BANK",
+      "city": "SURAT",
+      "branch": "(SURAT)",
+      "swift_code": "CORPINBB185"
+    },
+    {
+      "id": 1685,
+      "bank": "DENA BANK",
+      "city": "SURAT",
+      "branch": "",
+      "swift_code": "BKDNINBBSRT"
+    },
+    {
+      "id": 1812,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "SURAT",
+      "branch": "(SURAT)",
+      "swift_code": "FDRLINBBSRT"
+    },
+    {
+      "id": 1975,
+      "bank": "IDBI BANK LIMITED",
+      "city": "SURAT",
+      "branch": "(SURAT BRANCH)",
+      "swift_code": "IBKLINBB051"
+    },
+    {
+      "id": 2208,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "SURAT",
+      "branch": "(SURAT)",
+      "swift_code": "IOBAINBB112"
+    },
+    {
+      "id": 2260,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "SURAT",
+      "branch": "(SURAT)",
+      "swift_code": "INDBINBBSUR"
+    },
+    {
+      "id": 2541,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "SURAT",
+      "branch": "(BRANCH OFFICE SURAT, GUJARAT)",
+      "swift_code": "ORBCINBBSUR"
+    },
+    {
+      "id": 2800,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "SURAT",
+      "branch": "(SURAT MAIN)",
+      "swift_code": "PUNBINBBSRT"
+    },
+    {
+      "id": 3625,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(COMMERCIAL BRANCH, SURAT)",
+      "swift_code": "SBININBB254"
+    },
+    {
+      "id": 3626,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(HAZIRA BRANCH)",
+      "swift_code": "SBININBB206"
+    },
+    {
+      "id": 3627,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "SBININBB752"
+    },
+    {
+      "id": 3628,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(OBU SURAT)",
+      "swift_code": "SBININBB568"
+    },
+    {
+      "id": 3629,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(SURAT BR(ERSTWHILE SB INDORE))",
+      "swift_code": "SBININBB708"
+    },
+    {
+      "id": 3630,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(SURAT(BEGAMPURA))",
+      "swift_code": "SBININBB632"
+    },
+    {
+      "id": 3631,
+      "bank": "STATE BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(SURAT)",
+      "swift_code": "SBININBB260"
+    },
+    {
+      "id": 3838,
+      "bank": "SYNDICATE BANK",
+      "city": "SURAT",
+      "branch": "(SURAT BRANCH)",
+      "swift_code": "SYNBINBB036"
+    },
+    {
+      "id": 3890,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "SURAT",
+      "branch": "(SURAT FOREX)",
+      "swift_code": "SRCBINBBSRT"
+    },
+    {
+      "id": 3933,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "SURAT",
+      "branch": "",
+      "swift_code": "SOININ55306"
+    },
+    {
+      "id": 4026,
+      "bank": "UCO BANK",
+      "city": "SURAT",
+      "branch": "(MCU SURAT)",
+      "swift_code": "UCBAINBBMSU"
+    },
+    {
+      "id": 4124,
+      "bank": "UNION BANK OF INDIA",
+      "city": "SURAT",
+      "branch": "(KNAPITHY BRANCH)",
+      "swift_code": "UBININBBSUR"
+    },
+    {
+      "id": 4193,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "SURAT",
+      "branch": "(SURAT BRANCH)",
+      "swift_code": "UWBAINB1SUR"
+    },
+    {
+      "id": 4245,
+      "bank": "VIJAYA BANK",
+      "city": "SURAT",
+      "branch": "(SURAT BRANCH)",
+      "swift_code": "VIJBINBBSUR"
+    }
+  ],
+  "meta": {
+    "title": "Surat में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Surat, India. Subset of hi-bank. Source city string preserved verbatim as \"SURAT\". शामिल हैं 37 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Surat में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Surat में बैंक — SWIFT/BIC कोड — 37 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 37 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

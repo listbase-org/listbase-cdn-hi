@@ -1,0 +1,3376 @@
+{
+  "id": "hi-arunachal-pradesh-shahar",
+  "name": "अरुणाचल प्रदेश के शहर (Arunachal Pradesh Cities)",
+  "title": "अरुणाचल प्रदेश के शहर (Arunachal Pradesh Cities)",
+  "description": "अरुणाचल प्रदेश राज्य के 331 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 331 cities and towns in Arunachal Pradesh, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 331,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Acheshon",
+      "name_lower": "acheshon",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.9,
+      "longitude": 95.966667
+    },
+    {
+      "name": "Aholin",
+      "name_lower": "aholin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.433333,
+      "longitude": 95.7
+    },
+    {
+      "name": "Akolin",
+      "name_lower": "akolin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.8,
+      "longitude": 95.95
+    },
+    {
+      "name": "Along",
+      "name_lower": "along",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": 18427,
+      "latitude": 28.166667,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Alonung",
+      "name_lower": "alonung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.383333,
+      "longitude": 95.55
+    },
+    {
+      "name": "Amatulla",
+      "name_lower": "amatulla",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 26.95,
+      "longitude": 92.15
+    },
+    {
+      "name": "Amili",
+      "name_lower": "amili",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.433333,
+      "longitude": 95.866667
+    },
+    {
+      "name": "Anelih",
+      "name_lower": "anelih",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.516667,
+      "longitude": 95.783333
+    },
+    {
+      "name": "Anelin",
+      "name_lower": "anelin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.516667,
+      "longitude": 95.783333
+    },
+    {
+      "name": "Angatsi",
+      "name_lower": "angatsi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.316667,
+      "longitude": 95.533333
+    },
+    {
+      "name": "Apranli",
+      "name_lower": "apranli",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.516667,
+      "longitude": 95.883333
+    },
+    {
+      "name": "Aprünyi",
+      "name_lower": "aprunyi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.583333,
+      "longitude": 95.85
+    },
+    {
+      "name": "Ardai",
+      "name_lower": "ardai",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.466667,
+      "longitude": 95.516667
+    },
+    {
+      "name": "Aropu",
+      "name_lower": "aropu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 95.966667
+    },
+    {
+      "name": "Ashalin",
+      "name_lower": "ashalin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.6,
+      "longitude": 95.55
+    },
+    {
+      "name": "Asonli",
+      "name_lower": "asonli",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.733333,
+      "longitude": 95.616667
+    },
+    {
+      "name": "Bacha",
+      "name_lower": "bacha",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.116667,
+      "longitude": 93.666667
+    },
+    {
+      "name": "Balek",
+      "name_lower": "balek",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.066667,
+      "longitude": 95.3
+    },
+    {
+      "name": "Basar",
+      "name_lower": "basar",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": 4157,
+      "latitude": 27.983333,
+      "longitude": 94.666667
+    },
+    {
+      "name": "Bhalukpung",
+      "name_lower": "bhalukpung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.05,
+      "longitude": 92.6
+    },
+    {
+      "name": "Bindula",
+      "name_lower": "bindula",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.8,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Bini",
+      "name_lower": "bini",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.666667,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Boga",
+      "name_lower": "boga",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.533333,
+      "longitude": 94.666667
+    },
+    {
+      "name": "Bogu",
+      "name_lower": "bogu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.533333,
+      "longitude": 94.666667
+    },
+    {
+      "name": "Bomak",
+      "name_lower": "bomak",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.233333,
+      "longitude": 95.55
+    },
+    {
+      "name": "Bomdila",
+      "name_lower": "bomdila",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.25,
+      "longitude": 92.4
+    },
+    {
+      "name": "Bomdilla",
+      "name_lower": "bomdilla",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.25,
+      "longitude": 92.4
+    },
+    {
+      "name": "Bomdo",
+      "name_lower": "bomdo",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.733333,
+      "longitude": 94.9
+    },
+    {
+      "name": "Bomjur",
+      "name_lower": "bomjur",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.133333,
+      "longitude": 95.7
+    },
+    {
+      "name": "Bomo",
+      "name_lower": "bomo",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.733333,
+      "longitude": 94.9
+    },
+    {
+      "name": "Borduria",
+      "name_lower": "borduria",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.033333,
+      "longitude": 95.483333
+    },
+    {
+      "name": "Boru",
+      "name_lower": "boru",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.266667,
+      "longitude": 94.6
+    },
+    {
+      "name": "Brahmakund",
+      "name_lower": "brahmakund",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.866667,
+      "longitude": 96.366667
+    },
+    {
+      "name": "Bruini",
+      "name_lower": "bruini",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 29.166667,
+      "longitude": 96.183333
+    },
+    {
+      "name": "Budh",
+      "name_lower": "budh",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.9,
+      "longitude": 96.516667
+    },
+    {
+      "name": "Buha",
+      "name_lower": "buha",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.7,
+      "longitude": 93.966667
+    },
+    {
+      "name": "But",
+      "name_lower": "but",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.333333,
+      "longitude": 92.466667
+    },
+    {
+      "name": "Chalan",
+      "name_lower": "chalan",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.4,
+      "longitude": 92.75
+    },
+    {
+      "name": "Chameliang",
+      "name_lower": "chameliang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.083333,
+      "longitude": 96.533333
+    },
+    {
+      "name": "Changro",
+      "name_lower": "changro",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.783333,
+      "longitude": 96.35
+    },
+    {
+      "name": "Chantam",
+      "name_lower": "chantam",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.716667,
+      "longitude": 96.233333
+    },
+    {
+      "name": "Chareimna",
+      "name_lower": "chareimna",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.183333,
+      "longitude": 96.683333
+    },
+    {
+      "name": "Chemgeng",
+      "name_lower": "chemgeng",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.216667,
+      "longitude": 93.116667
+    },
+    {
+      "name": "Chemir",
+      "name_lower": "chemir",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.716667,
+      "longitude": 94.033333
+    },
+    {
+      "name": "Chengele",
+      "name_lower": "chengele",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.783333,
+      "longitude": 96.266667
+    },
+    {
+      "name": "Chepwe",
+      "name_lower": "chepwe",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.616667,
+      "longitude": 95.483333
+    },
+    {
+      "name": "Chhota Dirak",
+      "name_lower": "chhota dirak",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.7,
+      "longitude": 95.766667
+    },
+    {
+      "name": "Chibuni",
+      "name_lower": "chibuni",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.666667,
+      "longitude": 96.15
+    },
+    {
+      "name": "Chod",
+      "name_lower": "chod",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.366667,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Chodo",
+      "name_lower": "chodo",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.366667,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Chonkham",
+      "name_lower": "chonkham",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.8,
+      "longitude": 96.033333
+    },
+    {
+      "name": "Chopnyu",
+      "name_lower": "chopnyu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 26.983333,
+      "longitude": 95.316667
+    },
+    {
+      "name": "Chug",
+      "name_lower": "chug",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.45,
+      "longitude": 92.216667
+    },
+    {
+      "name": "Chumba",
+      "name_lower": "chumba",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.666667,
+      "longitude": 92.3
+    },
+    {
+      "name": "Chuna",
+      "name_lower": "chuna",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.733333,
+      "longitude": 92.233333
+    },
+    {
+      "name": "Chunpura",
+      "name_lower": "chunpura",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 95.866667
+    },
+    {
+      "name": "Dabom",
+      "name_lower": "dabom",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.8,
+      "longitude": 93.983333
+    },
+    {
+      "name": "Dahung",
+      "name_lower": "dahung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 92.383333
+    },
+    {
+      "name": "Dalbuing",
+      "name_lower": "dalbuing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.533333,
+      "longitude": 95.166667
+    },
+    {
+      "name": "Dambuk",
+      "name_lower": "dambuk",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.266667,
+      "longitude": 95.6
+    },
+    {
+      "name": "Damro",
+      "name_lower": "damro",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.433333,
+      "longitude": 95.233333
+    },
+    {
+      "name": "Damroh",
+      "name_lower": "damroh",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.433333,
+      "longitude": 95.233333
+    },
+    {
+      "name": "Danli",
+      "name_lower": "danli",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.616667,
+      "longitude": 95.716667
+    },
+    {
+      "name": "Daring",
+      "name_lower": "daring",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.866667,
+      "longitude": 94.816667
+    },
+    {
+      "name": "Demwe",
+      "name_lower": "demwe",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.9,
+      "longitude": 96.3
+    },
+    {
+      "name": "Dening",
+      "name_lower": "dening",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.016667,
+      "longitude": 96.233333
+    },
+    {
+      "name": "Depin",
+      "name_lower": "depin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.333333,
+      "longitude": 92.466667
+    },
+    {
+      "name": "Dijungania",
+      "name_lower": "dijungania",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.366667,
+      "longitude": 92.766667
+    },
+    {
+      "name": "Dirang",
+      "name_lower": "dirang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.333333,
+      "longitude": 92.266667
+    },
+    {
+      "name": "Dirang Dzong",
+      "name_lower": "dirang dzong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.333333,
+      "longitude": 92.266667
+    },
+    {
+      "name": "Dirji",
+      "name_lower": "dirji",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.266667,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Doimara",
+      "name_lower": "doimara",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 26.983333,
+      "longitude": 92.4
+    },
+    {
+      "name": "Doimukh",
+      "name_lower": "doimukh",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.15,
+      "longitude": 93.75
+    },
+    {
+      "name": "Domkeng",
+      "name_lower": "domkeng",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.05,
+      "longitude": 94.716667
+    },
+    {
+      "name": "Dong",
+      "name_lower": "dong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.15,
+      "longitude": 97.033333
+    },
+    {
+      "name": "Donkeng",
+      "name_lower": "donkeng",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.05,
+      "longitude": 94.716667
+    },
+    {
+      "name": "Donli",
+      "name_lower": "donli",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.25,
+      "longitude": 96.116667
+    },
+    {
+      "name": "Dorkang",
+      "name_lower": "dorkang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.133333,
+      "longitude": 94.783333
+    },
+    {
+      "name": "Dosing",
+      "name_lower": "dosing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.983333,
+      "longitude": 95.05
+    },
+    {
+      "name": "Dui Yambi",
+      "name_lower": "dui yambi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 93.483333
+    },
+    {
+      "name": "Duimukh",
+      "name_lower": "duimukh",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.15,
+      "longitude": 93.75
+    },
+    {
+      "name": "Dukpen",
+      "name_lower": "dukpen",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.2,
+      "longitude": 92.4
+    },
+    {
+      "name": "Duta",
+      "name_lower": "duta",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.583333,
+      "longitude": 93.833333
+    },
+    {
+      "name": "Embragon",
+      "name_lower": "embragon",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.55,
+      "longitude": 95.716667
+    },
+    {
+      "name": "Etalin",
+      "name_lower": "etalin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.6,
+      "longitude": 95.883333
+    },
+    {
+      "name": "Gamkik",
+      "name_lower": "gamkik",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.066667,
+      "longitude": 94.566667
+    },
+    {
+      "name": "Gasheng",
+      "name_lower": "gasheng",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Gasigaon",
+      "name_lower": "gasigaon",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.766667,
+      "longitude": 94.416667
+    },
+    {
+      "name": "Geling",
+      "name_lower": "geling",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 29.15,
+      "longitude": 94.983333
+    },
+    {
+      "name": "Gellng",
+      "name_lower": "gellng",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 29.15,
+      "longitude": 94.983333
+    },
+    {
+      "name": "Gette",
+      "name_lower": "gette",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 95.016667
+    },
+    {
+      "name": "Gocham",
+      "name_lower": "gocham",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.766667,
+      "longitude": 94.2
+    },
+    {
+      "name": "Gohaintan",
+      "name_lower": "gohaintan",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.233333,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Grunli",
+      "name_lower": "grunli",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 96
+    },
+    {
+      "name": "Hachi",
+      "name_lower": "hachi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.766667,
+      "longitude": 94.033333
+    },
+    {
+      "name": "Hapoli",
+      "name_lower": "hapoli",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.533333,
+      "longitude": 93.85
+    },
+    {
+      "name": "Harmutigaon",
+      "name_lower": "harmutigaon",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.116667,
+      "longitude": 93.833333
+    },
+    {
+      "name": "Hatu Yua",
+      "name_lower": "hatu yua",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.433333,
+      "longitude": 93.783333
+    },
+    {
+      "name": "Hayuliang",
+      "name_lower": "hayuliang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.083333,
+      "longitude": 96.55
+    },
+    {
+      "name": "Hayutang",
+      "name_lower": "hayutang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.083333,
+      "longitude": 96.55
+    },
+    {
+      "name": "Helam",
+      "name_lower": "helam",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.883333,
+      "longitude": 93.383333
+    },
+    {
+      "name": "Hong",
+      "name_lower": "hong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.566667,
+      "longitude": 93.85
+    },
+    {
+      "name": "Horu Khunma",
+      "name_lower": "horu khunma",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.016667,
+      "longitude": 95.566667
+    },
+    {
+      "name": "Hupu",
+      "name_lower": "hupu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.783333,
+      "longitude": 95.883333
+    },
+    {
+      "name": "Ibniyi",
+      "name_lower": "ibniyi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 95.7
+    },
+    {
+      "name": "Idilin",
+      "name_lower": "idilin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.666667,
+      "longitude": 96.016667
+    },
+    {
+      "name": "Ilupu",
+      "name_lower": "ilupu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.783333,
+      "longitude": 95.883333
+    },
+    {
+      "name": "Ipilin",
+      "name_lower": "ipilin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.4,
+      "longitude": 95.683333
+    },
+    {
+      "name": "Jamiri",
+      "name_lower": "jamiri",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.2,
+      "longitude": 92.583333
+    },
+    {
+      "name": "Jang",
+      "name_lower": "jang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.566667,
+      "longitude": 91.983333
+    },
+    {
+      "name": "Jaram",
+      "name_lower": "jaram",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.05,
+      "longitude": 94.183333
+    },
+    {
+      "name": "Jido",
+      "name_lower": "jido",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.966667,
+      "longitude": 94.933333
+    },
+    {
+      "name": "Jining",
+      "name_lower": "jining",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.216667,
+      "longitude": 94.866667
+    },
+    {
+      "name": "Jiram",
+      "name_lower": "jiram",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.05,
+      "longitude": 94.183333
+    },
+    {
+      "name": "Jirigam",
+      "name_lower": "jirigam",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.966667,
+      "longitude": 96.233333
+    },
+    {
+      "name": "Joying",
+      "name_lower": "joying",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.433333,
+      "longitude": 94.683333
+    },
+    {
+      "name": "K'o-hao",
+      "name_lower": "k'o-hao",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 97.016667
+    },
+    {
+      "name": "Kablongpu",
+      "name_lower": "kablongpu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.983333,
+      "longitude": 96.4
+    },
+    {
+      "name": "Kadum",
+      "name_lower": "kadum",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.8,
+      "longitude": 96.166667
+    },
+    {
+      "name": "Kafi",
+      "name_lower": "kafi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.433333,
+      "longitude": 93.1
+    },
+    {
+      "name": "Kahao",
+      "name_lower": "kahao",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 97.016667
+    },
+    {
+      "name": "Kalaktang",
+      "name_lower": "kalaktang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.1,
+      "longitude": 92.133333
+    },
+    {
+      "name": "Kalom",
+      "name_lower": "kalom",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.983333,
+      "longitude": 94.5
+    },
+    {
+      "name": "Kamalabari",
+      "name_lower": "kamalabari",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.883333,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Kamalapari",
+      "name_lower": "kamalapari",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.883333,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Kambang",
+      "name_lower": "kambang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.216667,
+      "longitude": 94.666667
+    },
+    {
+      "name": "Kamku",
+      "name_lower": "kamku",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 96.5
+    },
+    {
+      "name": "Kamphu",
+      "name_lower": "kamphu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.716667,
+      "longitude": 96.5
+    },
+    {
+      "name": "Kangkar",
+      "name_lower": "kangkar",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.533333,
+      "longitude": 91.9
+    },
+    {
+      "name": "Kapteng",
+      "name_lower": "kapteng",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.533333,
+      "longitude": 91.716667
+    },
+    {
+      "name": "Karangania",
+      "name_lower": "karangania",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 92.766667
+    },
+    {
+      "name": "Karko",
+      "name_lower": "karko",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.55,
+      "longitude": 95.066667
+    },
+    {
+      "name": "Kaying",
+      "name_lower": "kaying",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.433333,
+      "longitude": 94.683333
+    },
+    {
+      "name": "Kebang",
+      "name_lower": "kebang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.166667,
+      "longitude": 95.05
+    },
+    {
+      "name": "Kelangkania",
+      "name_lower": "kelangkania",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.083333,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Kenze Mane",
+      "name_lower": "kenze mane",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.8,
+      "longitude": 91.75
+    },
+    {
+      "name": "Kerang",
+      "name_lower": "kerang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 94.716667
+    },
+    {
+      "name": "Khaitong",
+      "name_lower": "khaitong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.016667,
+      "longitude": 96.766667
+    },
+    {
+      "name": "Kharem",
+      "name_lower": "kharem",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.816667,
+      "longitude": 96.133333
+    },
+    {
+      "name": "Khonsa",
+      "name_lower": "khonsa",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": 10188,
+      "latitude": 27.016667,
+      "longitude": 95.566667
+    },
+    {
+      "name": "Kodak",
+      "name_lower": "kodak",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.3,
+      "longitude": 94.083333
+    },
+    {
+      "name": "Kombong",
+      "name_lower": "kombong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.116667,
+      "longitude": 94.85
+    },
+    {
+      "name": "Komra",
+      "name_lower": "komra",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.866667,
+      "longitude": 93.833333
+    },
+    {
+      "name": "Komsing",
+      "name_lower": "komsing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.233333,
+      "longitude": 95
+    },
+    {
+      "name": "Korbo",
+      "name_lower": "korbo",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 29.133333,
+      "longitude": 95.033333
+    },
+    {
+      "name": "Kuimbum",
+      "name_lower": "kuimbum",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.966667,
+      "longitude": 96.716667
+    },
+    {
+      "name": "Kumki",
+      "name_lower": "kumki",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.266667,
+      "longitude": 96.9
+    },
+    {
+      "name": "Lagam",
+      "name_lower": "lagam",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.4,
+      "longitude": 92.4
+    },
+    {
+      "name": "Laju",
+      "name_lower": "laju",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 26.933333,
+      "longitude": 95.583333
+    },
+    {
+      "name": "Lang-chiu",
+      "name_lower": "lang-chiu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 93.55
+    },
+    {
+      "name": "Langjon",
+      "name_lower": "langjon",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.05,
+      "longitude": 96.466667
+    },
+    {
+      "name": "Lap",
+      "name_lower": "lap",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.683333,
+      "longitude": 92.333333
+    },
+    {
+      "name": "Lapung",
+      "name_lower": "lapung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.55,
+      "longitude": 92.9
+    },
+    {
+      "name": "Lathau",
+      "name_lower": "lathau",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.75,
+      "longitude": 95.916667
+    },
+    {
+      "name": "Lekhapani",
+      "name_lower": "lekhapani",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.316667,
+      "longitude": 95.9
+    },
+    {
+      "name": "Lepanglat",
+      "name_lower": "lepanglat",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.95,
+      "longitude": 96.7
+    },
+    {
+      "name": "Lhatsa Gömpa",
+      "name_lower": "lhatsa gompa",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 94.35
+    },
+    {
+      "name": "Lhau",
+      "name_lower": "lhau",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.566667,
+      "longitude": 91.95
+    },
+    {
+      "name": "Lida",
+      "name_lower": "lida",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.033333,
+      "longitude": 94.216667
+    },
+    {
+      "name": "Lidi",
+      "name_lower": "lidi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.033333,
+      "longitude": 94.216667
+    },
+    {
+      "name": "Likhapani",
+      "name_lower": "likhapani",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.316667,
+      "longitude": 95.9
+    },
+    {
+      "name": "Londa",
+      "name_lower": "londa",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.516667,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Longju",
+      "name_lower": "longju",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 93.55
+    },
+    {
+      "name": "Lumpo",
+      "name_lower": "lumpo",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.716667,
+      "longitude": 91.7
+    },
+    {
+      "name": "Machum",
+      "name_lower": "machum",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 96.15
+    },
+    {
+      "name": "Maiunli",
+      "name_lower": "maiunli",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 96.15
+    },
+    {
+      "name": "Manan",
+      "name_lower": "manan",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.533333,
+      "longitude": 96.05
+    },
+    {
+      "name": "Manmao",
+      "name_lower": "manmao",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.2,
+      "longitude": 95.916667
+    },
+    {
+      "name": "Manpang",
+      "name_lower": "manpang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 96.1
+    },
+    {
+      "name": "Margherita",
+      "name_lower": "margherita",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": 24430,
+      "latitude": 27.283333,
+      "longitude": 95.683333
+    },
+    {
+      "name": "Marniu",
+      "name_lower": "marniu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.916667,
+      "longitude": 94.383333
+    },
+    {
+      "name": "Mebu",
+      "name_lower": "mebu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.166667,
+      "longitude": 95.416667
+    },
+    {
+      "name": "Mega",
+      "name_lower": "mega",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.466667,
+      "longitude": 94.7
+    },
+    {
+      "name": "Mekba",
+      "name_lower": "mekba",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.116667,
+      "longitude": 95.85
+    },
+    {
+      "name": "Mekha",
+      "name_lower": "mekha",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.116667,
+      "longitude": 95.85
+    },
+    {
+      "name": "Mepumna",
+      "name_lower": "mepumna",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.1,
+      "longitude": 96.616667
+    },
+    {
+      "name": "Meshing",
+      "name_lower": "meshing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.016667,
+      "longitude": 94.583333
+    },
+    {
+      "name": "Mi-chi-tun",
+      "name_lower": "mi-chi-tun",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.666667,
+      "longitude": 93.616667
+    },
+    {
+      "name": "Mi-chin",
+      "name_lower": "mi-chin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.833333,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Mi-ko-i-t'ung",
+      "name_lower": "mi-ko-i-t'ung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.666667,
+      "longitude": 93.616667
+    },
+    {
+      "name": "Mi-ko-i-tan",
+      "name_lower": "mi-ko-i-tan",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.666667,
+      "longitude": 93.616667
+    },
+    {
+      "name": "Miao",
+      "name_lower": "miao",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.483333,
+      "longitude": 96.183333
+    },
+    {
+      "name": "Miging",
+      "name_lower": "miging",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.833333,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Migyitün Gompa",
+      "name_lower": "migyitun gompa",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.666667,
+      "longitude": 93.616667
+    },
+    {
+      "name": "Minutang",
+      "name_lower": "minutang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.216667,
+      "longitude": 96.533333
+    },
+    {
+      "name": "Minzong",
+      "name_lower": "minzong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.883333,
+      "longitude": 96.933333
+    },
+    {
+      "name": "Mipi",
+      "name_lower": "mipi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.95,
+      "longitude": 95.8
+    },
+    {
+      "name": "Mopung",
+      "name_lower": "mopung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.316667,
+      "longitude": 94.866667
+    },
+    {
+      "name": "Moshing",
+      "name_lower": "moshing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.166667,
+      "longitude": 92.183333
+    },
+    {
+      "name": "Mpen",
+      "name_lower": "mpen",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 96.25
+    },
+    {
+      "name": "Mpong",
+      "name_lower": "mpong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.8,
+      "longitude": 96.116667
+    },
+    {
+      "name": "Mrambon",
+      "name_lower": "mrambon",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.383333,
+      "longitude": 95.8
+    },
+    {
+      "name": "Mukki",
+      "name_lower": "mukki",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.083333,
+      "longitude": 94.216667
+    },
+    {
+      "name": "Mushing",
+      "name_lower": "mushing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.166667,
+      "longitude": 92.183333
+    },
+    {
+      "name": "Mutan",
+      "name_lower": "mutan",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 26.983333,
+      "longitude": 95.316667
+    },
+    {
+      "name": "Mön Tawang",
+      "name_lower": "mon tawang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.583333,
+      "longitude": 91.866667
+    },
+    {
+      "name": "Nampong",
+      "name_lower": "nampong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 96.1
+    },
+    {
+      "name": "Nayarok",
+      "name_lower": "nayarok",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.1,
+      "longitude": 94.683333
+    },
+    {
+      "name": "Niaunyu",
+      "name_lower": "niaunyu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 26.866667,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Niktak",
+      "name_lower": "niktak",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.966667,
+      "longitude": 93.85
+    },
+    {
+      "name": "Ninging",
+      "name_lower": "ninging",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.95,
+      "longitude": 94.816667
+    },
+    {
+      "name": "Ningru",
+      "name_lower": "ningru",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.633333,
+      "longitude": 95.866667
+    },
+    {
+      "name": "Nioku",
+      "name_lower": "nioku",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.933333,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Nizainghat",
+      "name_lower": "nizainghat",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.266667,
+      "longitude": 95.7
+    },
+    {
+      "name": "Nizamghat",
+      "name_lower": "nizamghat",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.266667,
+      "longitude": 95.7
+    },
+    {
+      "name": "Nizau",
+      "name_lower": "nizau",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.45,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Noju",
+      "name_lower": "noju",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.25,
+      "longitude": 93.533333
+    },
+    {
+      "name": "Norang",
+      "name_lower": "norang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.6,
+      "longitude": 92.966667
+    },
+    {
+      "name": "Nring",
+      "name_lower": "nring",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.533333,
+      "longitude": 96.1
+    },
+    {
+      "name": "Nyereng",
+      "name_lower": "nyereng",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.933333,
+      "longitude": 95.016667
+    },
+    {
+      "name": "Nyeying",
+      "name_lower": "nyeying",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.483333,
+      "longitude": 94.433333
+    },
+    {
+      "name": "Nyorak",
+      "name_lower": "nyorak",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.1,
+      "longitude": 94.683333
+    },
+    {
+      "name": "Nyukmadong",
+      "name_lower": "nyukmadong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.433333,
+      "longitude": 92.133333
+    },
+    {
+      "name": "Nyuri",
+      "name_lower": "nyuri",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.7,
+      "longitude": 92.216667
+    },
+    {
+      "name": "Pangchen",
+      "name_lower": "pangchen",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.683333,
+      "longitude": 91.766667
+    },
+    {
+      "name": "Par",
+      "name_lower": "par",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 93.933333
+    },
+    {
+      "name": "Paras Ram",
+      "name_lower": "paras ram",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.866667,
+      "longitude": 96.366667
+    },
+    {
+      "name": "Pareng",
+      "name_lower": "pareng",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.4,
+      "longitude": 94.933333
+    },
+    {
+      "name": "Pasighat",
+      "name_lower": "pasighat",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": 25584,
+      "latitude": 28.066667,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Paya",
+      "name_lower": "paya",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.033333,
+      "longitude": 96.066667
+    },
+    {
+      "name": "Payagam",
+      "name_lower": "payagam",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.1,
+      "longitude": 93.366667
+    },
+    {
+      "name": "Payang",
+      "name_lower": "payang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.033333,
+      "longitude": 96.066667
+    },
+    {
+      "name": "Phutang",
+      "name_lower": "phutang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.233333,
+      "longitude": 92.233333
+    },
+    {
+      "name": "Pika",
+      "name_lower": "pika",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 96.016667
+    },
+    {
+      "name": "Pilu",
+      "name_lower": "pilu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 93.7
+    },
+    {
+      "name": "Plongliang",
+      "name_lower": "plongliang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 96.566667
+    },
+    {
+      "name": "Plonliang",
+      "name_lower": "plonliang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 96.566667
+    },
+    {
+      "name": "Pointong",
+      "name_lower": "pointong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 92.5
+    },
+    {
+      "name": "Poyom",
+      "name_lower": "poyom",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.233333,
+      "longitude": 94.583333
+    },
+    {
+      "name": "Puchep",
+      "name_lower": "puchep",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.233333,
+      "longitude": 95.933333
+    },
+    {
+      "name": "Puging",
+      "name_lower": "puging",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.75,
+      "longitude": 94.95
+    },
+    {
+      "name": "Punyang",
+      "name_lower": "punyang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.1,
+      "longitude": 95.9
+    },
+    {
+      "name": "Pyudung",
+      "name_lower": "pyudung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.25,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Rahung",
+      "name_lower": "rahung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 92.383333
+    },
+    {
+      "name": "Rajja",
+      "name_lower": "rajja",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.066667,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Ramsing",
+      "name_lower": "ramsing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.65,
+      "longitude": 94.983333
+    },
+    {
+      "name": "Rang",
+      "name_lower": "rang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.35,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Rangku",
+      "name_lower": "rangku",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 94.716667
+    },
+    {
+      "name": "Reru",
+      "name_lower": "reru",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.583333,
+      "longitude": 93.833333
+    },
+    {
+      "name": "Riang",
+      "name_lower": "riang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.533333,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Rikor",
+      "name_lower": "rikor",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.816667,
+      "longitude": 94.916667
+    },
+    {
+      "name": "Riu",
+      "name_lower": "riu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.316667,
+      "longitude": 95.05
+    },
+    {
+      "name": "Rotung",
+      "name_lower": "rotung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.133333,
+      "longitude": 95.2
+    },
+    {
+      "name": "Rungarh",
+      "name_lower": "rungarh",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.866667,
+      "longitude": 96.95
+    },
+    {
+      "name": "Rupa",
+      "name_lower": "rupa",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.2,
+      "longitude": 92.4
+    },
+    {
+      "name": "Sachida",
+      "name_lower": "sachida",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.283333,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Sagong",
+      "name_lower": "sagong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.983333,
+      "longitude": 94.833333
+    },
+    {
+      "name": "Sakong",
+      "name_lower": "sakong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.433333,
+      "longitude": 92.8
+    },
+    {
+      "name": "Sangma",
+      "name_lower": "sangma",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.133333,
+      "longitude": 96.7
+    },
+    {
+      "name": "Sanpura",
+      "name_lower": "sanpura",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 95.866667
+    },
+    {
+      "name": "Sartam",
+      "name_lower": "sartam",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.016667,
+      "longitude": 93.8
+    },
+    {
+      "name": "Semma",
+      "name_lower": "semma",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.25,
+      "longitude": 93.133333
+    },
+    {
+      "name": "Senge Dzong",
+      "name_lower": "senge dzong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.466667,
+      "longitude": 92.1
+    },
+    {
+      "name": "Senua",
+      "name_lower": "senua",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 26.9,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Shakti",
+      "name_lower": "shakti",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.616667,
+      "longitude": 91.716667
+    },
+    {
+      "name": "Shergaon",
+      "name_lower": "shergaon",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.116667,
+      "longitude": 92.266667
+    },
+    {
+      "name": "Shikhi",
+      "name_lower": "shikhi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.233333,
+      "longitude": 93.7
+    },
+    {
+      "name": "Shimong",
+      "name_lower": "shimong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.6,
+      "longitude": 95.066667
+    },
+    {
+      "name": "Shinli",
+      "name_lower": "shinli",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.566667,
+      "longitude": 95.6
+    },
+    {
+      "name": "Shoi",
+      "name_lower": "shoi",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.533333,
+      "longitude": 94.416667
+    },
+    {
+      "name": "Sibbuk",
+      "name_lower": "sibbuk",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 95.283333
+    },
+    {
+      "name": "Sibbum",
+      "name_lower": "sibbum",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.3,
+      "longitude": 95.133333
+    },
+    {
+      "name": "Sigar",
+      "name_lower": "sigar",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.066667,
+      "longitude": 95.4
+    },
+    {
+      "name": "Silli",
+      "name_lower": "silli",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.233333,
+      "longitude": 95.233333
+    },
+    {
+      "name": "Simong",
+      "name_lower": "simong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.6,
+      "longitude": 95.066667
+    },
+    {
+      "name": "Singing",
+      "name_lower": "singing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.883333,
+      "longitude": 94.783333
+    },
+    {
+      "name": "Sulung",
+      "name_lower": "sulung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.183333,
+      "longitude": 93.316667
+    },
+    {
+      "name": "Sunpura",
+      "name_lower": "sunpura",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 95.866667
+    },
+    {
+      "name": "T'a-wan",
+      "name_lower": "t'a-wan",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.583333,
+      "longitude": 91.866667
+    },
+    {
+      "name": "Tado",
+      "name_lower": "tado",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.7,
+      "longitude": 93.866667
+    },
+    {
+      "name": "Tagengs",
+      "name_lower": "tagengs",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.1,
+      "longitude": 93.5
+    },
+    {
+      "name": "Taipi Duidam",
+      "name_lower": "taipi duidam",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 96.066667
+    },
+    {
+      "name": "Taipudia",
+      "name_lower": "taipudia",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.816667,
+      "longitude": 94.6
+    },
+    {
+      "name": "Tajobum",
+      "name_lower": "tajobum",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 96.633333
+    },
+    {
+      "name": "Taksing",
+      "name_lower": "taksing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.583333,
+      "longitude": 93.216667
+    },
+    {
+      "name": "Taktsang",
+      "name_lower": "taktsang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.583333,
+      "longitude": 93.216667
+    },
+    {
+      "name": "Taku",
+      "name_lower": "taku",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.4,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Takum",
+      "name_lower": "takum",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.783333,
+      "longitude": 93.616667
+    },
+    {
+      "name": "Tali",
+      "name_lower": "tali",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.033333,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Talong",
+      "name_lower": "talong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 92.966667
+    },
+    {
+      "name": "Talung Dzong",
+      "name_lower": "talung dzong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.166667,
+      "longitude": 92.2
+    },
+    {
+      "name": "Tamei",
+      "name_lower": "tamei",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.9,
+      "longitude": 96.3
+    },
+    {
+      "name": "Tamid Arung",
+      "name_lower": "tamid arung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.9,
+      "longitude": 94.583333
+    },
+    {
+      "name": "Tammu",
+      "name_lower": "tammu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 94.383333
+    },
+    {
+      "name": "Tanden",
+      "name_lower": "tanden",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.316667,
+      "longitude": 95.783333
+    },
+    {
+      "name": "Tang Shyo",
+      "name_lower": "tang shyo",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.583333,
+      "longitude": 91.866667
+    },
+    {
+      "name": "Tangmaolia",
+      "name_lower": "tangmaolia",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.283333,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Tapun",
+      "name_lower": "tapun",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.583333,
+      "longitude": 96.366667
+    },
+    {
+      "name": "Tawai",
+      "name_lower": "tawai",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.8,
+      "longitude": 96.783333
+    },
+    {
+      "name": "Tawang",
+      "name_lower": "tawang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": 4831,
+      "latitude": 27.583333,
+      "longitude": 91.866667
+    },
+    {
+      "name": "Tawang Shyo",
+      "name_lower": "tawang shyo",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.583333,
+      "longitude": 91.866667
+    },
+    {
+      "name": "Teju",
+      "name_lower": "teju",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.916667,
+      "longitude": 96.166667
+    },
+    {
+      "name": "Teju Basha",
+      "name_lower": "teju basha",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.916667,
+      "longitude": 96.166667
+    },
+    {
+      "name": "Tembang",
+      "name_lower": "tembang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.35,
+      "longitude": 92.383333
+    },
+    {
+      "name": "Tethaliang",
+      "name_lower": "tethaliang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.183333,
+      "longitude": 96.116667
+    },
+    {
+      "name": "Tezu",
+      "name_lower": "tezu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": 14928,
+      "latitude": 27.916667,
+      "longitude": 96.166667
+    },
+    {
+      "name": "Theronliang",
+      "name_lower": "theronliang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.283333,
+      "longitude": 96.566667
+    },
+    {
+      "name": "Tila",
+      "name_lower": "tila",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.966667,
+      "longitude": 96.916667
+    },
+    {
+      "name": "Tipang",
+      "name_lower": "tipang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 95.866667
+    },
+    {
+      "name": "Tipong",
+      "name_lower": "tipong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 95.866667
+    },
+    {
+      "name": "Tipongpani Wharf",
+      "name_lower": "tipongpani wharf",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 95.866667
+    },
+    {
+      "name": "Tirap",
+      "name_lower": "tirap",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.166667,
+      "longitude": 95.8
+    },
+    {
+      "name": "Tirkang",
+      "name_lower": "tirkang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 29.2,
+      "longitude": 95.15
+    },
+    {
+      "name": "Tojobum",
+      "name_lower": "tojobum",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.35,
+      "longitude": 96.633333
+    },
+    {
+      "name": "Toko",
+      "name_lower": "toko",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.533333,
+      "longitude": 93.75
+    },
+    {
+      "name": "Toku",
+      "name_lower": "toku",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.533333,
+      "longitude": 93.75
+    },
+    {
+      "name": "Tonwa",
+      "name_lower": "tonwa",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.3,
+      "longitude": 96.05
+    },
+    {
+      "name": "Towang",
+      "name_lower": "towang",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.583333,
+      "longitude": 91.866667
+    },
+    {
+      "name": "Tralin",
+      "name_lower": "tralin",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 96.216667
+    },
+    {
+      "name": "Turet",
+      "name_lower": "turet",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.15,
+      "longitude": 95.583333
+    },
+    {
+      "name": "Tuting",
+      "name_lower": "tuting",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.966667,
+      "longitude": 94.866667
+    },
+    {
+      "name": "Walong",
+      "name_lower": "walong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.133333,
+      "longitude": 97.016667
+    },
+    {
+      "name": "Wati",
+      "name_lower": "wati",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.033333,
+      "longitude": 96.983333
+    },
+    {
+      "name": "Wintong",
+      "name_lower": "wintong",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.366667,
+      "longitude": 96.216667
+    },
+    {
+      "name": "Yagrung",
+      "name_lower": "yagrung",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.016667,
+      "longitude": 95.233333
+    },
+    {
+      "name": "Yaman",
+      "name_lower": "yaman",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.05,
+      "longitude": 95.716667
+    },
+    {
+      "name": "Yanman",
+      "name_lower": "yanman",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.05,
+      "longitude": 95.716667
+    },
+    {
+      "name": "Yapuik",
+      "name_lower": "yapuik",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.5,
+      "longitude": 94.433333
+    },
+    {
+      "name": "Yedbuk",
+      "name_lower": "yedbuk",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.116667,
+      "longitude": 95.933333
+    },
+    {
+      "name": "Yediuk",
+      "name_lower": "yediuk",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.116667,
+      "longitude": 95.933333
+    },
+    {
+      "name": "Yemsing",
+      "name_lower": "yemsing",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.083333,
+      "longitude": 95.016667
+    },
+    {
+      "name": "Yengji",
+      "name_lower": "yengji",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.333333,
+      "longitude": 93.016667
+    },
+    {
+      "name": "Yiku",
+      "name_lower": "yiku",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.55,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Yingku",
+      "name_lower": "yingku",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.45,
+      "longitude": 94.883333
+    },
+    {
+      "name": "Yiyu",
+      "name_lower": "yiyu",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.55,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Yoba",
+      "name_lower": "yoba",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.966667,
+      "longitude": 93.733333
+    },
+    {
+      "name": "Yomcha",
+      "name_lower": "yomcha",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 28.116667,
+      "longitude": 94.566667
+    },
+    {
+      "name": "Yomtam",
+      "name_lower": "yomtam",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.933333,
+      "longitude": 93.35
+    },
+    {
+      "name": "Zero",
+      "name_lower": "zero",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.633333,
+      "longitude": 93.833333
+    },
+    {
+      "name": "Ziro",
+      "name_lower": "ziro",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": 13895,
+      "latitude": 27.633333,
+      "longitude": 93.833333
+    },
+    {
+      "name": "hora",
+      "name_lower": "hora",
+      "state": "Arunachal Pradesh",
+      "state_hi": "अरुणाचल प्रदेश",
+      "region_code": "30",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 93.65
+    }
+  ],
+  "meta": {
+    "title": "अरुणाचल प्रदेश के शहर (Arunachal Pradesh Cities) - मुफ़्त डाउनलोड",
+    "description": "अरुणाचल प्रदेश राज्य के 331 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 331 cities and towns in Arunachal Pradesh, India, with population and geographic coordinates. शामिल हैं 331 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "अरुणाचल प्रदेश के शहर (Arunachal Pradesh Cities) | ListBase",
+    "seo_description": "डाउनलोड अरुणाचल प्रदेश के शहर (Arunachal Pradesh Cities) — 331 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 331 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

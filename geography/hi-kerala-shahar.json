@@ -1,0 +1,5206 @@
+{
+  "id": "hi-kerala-shahar",
+  "name": "केरल के शहर (Kerala Cities)",
+  "title": "केरल के शहर (Kerala Cities)",
+  "description": "केरल राज्य के 514 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 514 cities and towns in Kerala, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 514,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Achankovil",
+      "name_lower": "achankovil",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.1,
+      "longitude": 77.133333
+    },
+    {
+      "name": "Aduru",
+      "name_lower": "aduru",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.566667,
+      "longitude": 75.166667
+    },
+    {
+      "name": "Alanallur",
+      "name_lower": "alanallur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.016667,
+      "longitude": 76.35
+    },
+    {
+      "name": "Alapalli",
+      "name_lower": "alapalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.494167,
+      "longitude": 76.3275
+    },
+    {
+      "name": "Alapolai",
+      "name_lower": "alapolai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.494167,
+      "longitude": 76.3275
+    },
+    {
+      "name": "Alappula",
+      "name_lower": "alappula",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.494167,
+      "longitude": 76.3275
+    },
+    {
+      "name": "Alappuzha",
+      "name_lower": "alappuzha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 176799,
+      "latitude": 9.494167,
+      "longitude": 76.3275
+    },
+    {
+      "name": "Alapulai",
+      "name_lower": "alapulai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.494167,
+      "longitude": 76.3275
+    },
+    {
+      "name": "Aleppi",
+      "name_lower": "aleppi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.494167,
+      "longitude": 76.3275
+    },
+    {
+      "name": "Alleppey",
+      "name_lower": "alleppey",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.494167,
+      "longitude": 76.3275
+    },
+    {
+      "name": "Alleppi",
+      "name_lower": "alleppi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.494167,
+      "longitude": 76.3275
+    },
+    {
+      "name": "Aluva",
+      "name_lower": "aluva",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.109167,
+      "longitude": 76.364444
+    },
+    {
+      "name": "Alwaye",
+      "name_lower": "alwaye",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 23705,
+      "latitude": 10.109167,
+      "longitude": 76.364444
+    },
+    {
+      "name": "Ambalapulai",
+      "name_lower": "ambalapulai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.4,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Ambalapuzha",
+      "name_lower": "ambalapuzha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.4,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Anchal",
+      "name_lower": "anchal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.9,
+      "longitude": 76.9
+    },
+    {
+      "name": "Andurkonam",
+      "name_lower": "andurkonam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.6,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Angadippuram",
+      "name_lower": "angadippuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.966667,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Angadipuram",
+      "name_lower": "angadipuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.966667,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Angamali",
+      "name_lower": "angamali",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 34402,
+      "latitude": 10.2,
+      "longitude": 76.4
+    },
+    {
+      "name": "Angamally",
+      "name_lower": "angamally",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.2,
+      "longitude": 76.4
+    },
+    {
+      "name": "Anjengo",
+      "name_lower": "anjengo",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.666667,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Anjongo",
+      "name_lower": "anjongo",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.666667,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Aranmula",
+      "name_lower": "aranmula",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.333333,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Arikkod",
+      "name_lower": "arikkod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.233333,
+      "longitude": 76.05
+    },
+    {
+      "name": "Arukutti",
+      "name_lower": "arukutti",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 17945,
+      "latitude": 9.866667,
+      "longitude": 76.35
+    },
+    {
+      "name": "Attappadi",
+      "name_lower": "attappadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.083333,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Attingal",
+      "name_lower": "attingal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 36599,
+      "latitude": 8.683333,
+      "longitude": 76.833333
+    },
+    {
+      "name": "Attungal",
+      "name_lower": "attungal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.683333,
+      "longitude": 76.833333
+    },
+    {
+      "name": "Aulapolai",
+      "name_lower": "aulapolai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.494167,
+      "longitude": 76.3275
+    },
+    {
+      "name": "Ayur",
+      "name_lower": "ayur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.883333,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Azhikal",
+      "name_lower": "azhikal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.9,
+      "longitude": 75.366667
+    },
+    {
+      "name": "Azhikkal",
+      "name_lower": "azhikkal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.9,
+      "longitude": 75.366667
+    },
+    {
+      "name": "Badagara",
+      "name_lower": "badagara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.6,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Balaramapuram",
+      "name_lower": "balaramapuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.433333,
+      "longitude": 77.05
+    },
+    {
+      "name": "Balarampuram",
+      "name_lower": "balarampuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.433333,
+      "longitude": 77.05
+    },
+    {
+      "name": "Baliapatam",
+      "name_lower": "baliapatam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.9,
+      "longitude": 75.366667
+    },
+    {
+      "name": "Balusseri",
+      "name_lower": "balusseri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.45,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Balussheri",
+      "name_lower": "balussheri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.45,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Bedadka",
+      "name_lower": "bedadka",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.45,
+      "longitude": 75.15
+    },
+    {
+      "name": "Bedradka",
+      "name_lower": "bedradka",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.55,
+      "longitude": 74.983333
+    },
+    {
+      "name": "Beipur",
+      "name_lower": "beipur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.183333,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Bekal",
+      "name_lower": "bekal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.4,
+      "longitude": 75.05
+    },
+    {
+      "name": "Bekal Fort",
+      "name_lower": "bekal fort",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.4,
+      "longitude": 75.05
+    },
+    {
+      "name": "Beliapatanam",
+      "name_lower": "beliapatanam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.9,
+      "longitude": 75.366667
+    },
+    {
+      "name": "Beppur",
+      "name_lower": "beppur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.183333,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Beypore",
+      "name_lower": "beypore",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.183333,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Beypur",
+      "name_lower": "beypur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 70758,
+      "latitude": 11.183333,
+      "longitude": 75.816667
+    },
+    {
+      "name": "British Cochin",
+      "name_lower": "british cochin",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Bungar Munjeshwar",
+      "name_lower": "bungar munjeshwar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.7,
+      "longitude": 74.883333
+    },
+    {
+      "name": "Calicut",
+      "name_lower": "calicut",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.25,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Cannanore",
+      "name_lower": "cannanore",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.866667,
+      "longitude": 75.365278
+    },
+    {
+      "name": "Chalai",
+      "name_lower": "chalai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.483333,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Chalakudi",
+      "name_lower": "chalakudi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 49335,
+      "latitude": 10.3,
+      "longitude": 76.35
+    },
+    {
+      "name": "Chaliyam",
+      "name_lower": "chaliyam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.15,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Chaliyar",
+      "name_lower": "chaliyar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.15,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Changanacheri",
+      "name_lower": "changanacheri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 51435,
+      "latitude": 9.466667,
+      "longitude": 76.55
+    },
+    {
+      "name": "Changanacherry",
+      "name_lower": "changanacherry",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.466667,
+      "longitude": 76.55
+    },
+    {
+      "name": "Chaughat",
+      "name_lower": "chaughat",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.533333,
+      "longitude": 76.05
+    },
+    {
+      "name": "Chavakkad",
+      "name_lower": "chavakkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 38014,
+      "latitude": 10.533333,
+      "longitude": 76.05
+    },
+    {
+      "name": "Chavara",
+      "name_lower": "chavara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.966667,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Chavasseri",
+      "name_lower": "chavasseri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.933333,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Chegat",
+      "name_lower": "chegat",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.833333,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Chelakara",
+      "name_lower": "chelakara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.7,
+      "longitude": 76.35
+    },
+    {
+      "name": "Chengannur",
+      "name_lower": "chengannur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 25046,
+      "latitude": 9.333333,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Cheruppulasseri",
+      "name_lower": "cheruppulasseri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.866667,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Cheruthuruthi",
+      "name_lower": "cheruthuruthi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.733333,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Cheruvalli",
+      "name_lower": "cheruvalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.533333,
+      "longitude": 76.766667
+    },
+    {
+      "name": "Chetwagi",
+      "name_lower": "chetwagi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.533333,
+      "longitude": 76.05
+    },
+    {
+      "name": "Chetwayi",
+      "name_lower": "chetwayi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.533333,
+      "longitude": 76.05
+    },
+    {
+      "name": "Chittur",
+      "name_lower": "chittur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 31611,
+      "latitude": 10.7,
+      "longitude": 76.75
+    },
+    {
+      "name": "Chittur-Cochin",
+      "name_lower": "chittur-cochin",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.7,
+      "longitude": 76.75
+    },
+    {
+      "name": "Chitwye",
+      "name_lower": "chitwye",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.533333,
+      "longitude": 76.05
+    },
+    {
+      "name": "Chowghat",
+      "name_lower": "chowghat",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.533333,
+      "longitude": 76.05
+    },
+    {
+      "name": "City of Lord Anantha",
+      "name_lower": "city of lord anantha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.506944,
+      "longitude": 76.956944
+    },
+    {
+      "name": "Cochin",
+      "name_lower": "cochin",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Coilum",
+      "name_lower": "coilum",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.880556,
+      "longitude": 76.591667
+    },
+    {
+      "name": "Cranganore",
+      "name_lower": "cranganore",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.222222,
+      "longitude": 76.199167
+    },
+    {
+      "name": "Cranganur",
+      "name_lower": "cranganur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.222222,
+      "longitude": 76.199167
+    },
+    {
+      "name": "Cundacudvu",
+      "name_lower": "cundacudvu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.85,
+      "longitude": 76.266667
+    },
+    {
+      "name": "Desinganadu",
+      "name_lower": "desinganadu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.880556,
+      "longitude": 76.591667
+    },
+    {
+      "name": "Devikolam",
+      "name_lower": "devikolam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.066667,
+      "longitude": 77.083333
+    },
+    {
+      "name": "Devikulam",
+      "name_lower": "devikulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.066667,
+      "longitude": 77.083333
+    },
+    {
+      "name": "Dharmadam",
+      "name_lower": "dharmadam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 29946,
+      "latitude": 11.783333,
+      "longitude": 75.433333
+    },
+    {
+      "name": "Edapal",
+      "name_lower": "edapal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.766667,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Edapalli",
+      "name_lower": "edapalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.033333,
+      "longitude": 76.3
+    },
+    {
+      "name": "Edapally",
+      "name_lower": "edapally",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.033333,
+      "longitude": 76.3
+    },
+    {
+      "name": "Edappal",
+      "name_lower": "edappal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.766667,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Edappalli",
+      "name_lower": "edappalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.033333,
+      "longitude": 76.3
+    },
+    {
+      "name": "Edavanna",
+      "name_lower": "edavanna",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.216667,
+      "longitude": 76.15
+    },
+    {
+      "name": "Edayar",
+      "name_lower": "edayar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.933333,
+      "longitude": 76.1
+    },
+    {
+      "name": "Edayur",
+      "name_lower": "edayur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.933333,
+      "longitude": 76.1
+    },
+    {
+      "name": "Elamattur",
+      "name_lower": "elamattur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.433333,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Elattur",
+      "name_lower": "elattur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.333333,
+      "longitude": 75.733333
+    },
+    {
+      "name": "Elur",
+      "name_lower": "elur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 30832,
+      "latitude": 10.066667,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Erattupetta",
+      "name_lower": "erattupetta",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 33411,
+      "latitude": 9.7,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Eratupeta",
+      "name_lower": "eratupeta",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.7,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Ernacolum",
+      "name_lower": "ernacolum",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.983333,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Ernakulam",
+      "name_lower": "ernakulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.983333,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Etakkare",
+      "name_lower": "etakkare",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.35,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Ettumanur",
+      "name_lower": "ettumanur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.666667,
+      "longitude": 76.566667
+    },
+    {
+      "name": "Ferok",
+      "name_lower": "ferok",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.183333,
+      "longitude": 75.85
+    },
+    {
+      "name": "Feroke",
+      "name_lower": "feroke",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 30229,
+      "latitude": 11.183333,
+      "longitude": 75.85
+    },
+    {
+      "name": "Ferokh",
+      "name_lower": "ferokh",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.183333,
+      "longitude": 75.85
+    },
+    {
+      "name": "Fort Cochin",
+      "name_lower": "fort cochin",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Ganapathivattam",
+      "name_lower": "ganapathivattam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.665833,
+      "longitude": 76.263056
+    },
+    {
+      "name": "Ganapathivattom",
+      "name_lower": "ganapathivattom",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.665833,
+      "longitude": 76.263056
+    },
+    {
+      "name": "Guruvayur",
+      "name_lower": "guruvayur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 21418,
+      "latitude": 10.6,
+      "longitude": 76.05
+    },
+    {
+      "name": "Hachal Karuk l",
+      "name_lower": "hachal karuk l",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.5,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Haripad",
+      "name_lower": "haripad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.3,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Hosdrug",
+      "name_lower": "hosdrug",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.316667,
+      "longitude": 75.083333
+    },
+    {
+      "name": "Hosdrug Fort",
+      "name_lower": "hosdrug fort",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.316667,
+      "longitude": 75.083333
+    },
+    {
+      "name": "Idiaki",
+      "name_lower": "idiaki",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.85,
+      "longitude": 76.966667
+    },
+    {
+      "name": "Idikki",
+      "name_lower": "idikki",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.85,
+      "longitude": 76.966667
+    },
+    {
+      "name": "Idukki",
+      "name_lower": "idukki",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 11249,
+      "latitude": 9.85,
+      "longitude": 76.966667
+    },
+    {
+      "name": "Irikkur",
+      "name_lower": "irikkur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.966667,
+      "longitude": 75.566667
+    },
+    {
+      "name": "Irimbranallur",
+      "name_lower": "irimbranallur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.516667,
+      "longitude": 76.1
+    },
+    {
+      "name": "Iringal",
+      "name_lower": "iringal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.566667,
+      "longitude": 75.6
+    },
+    {
+      "name": "Irinjalakuda",
+      "name_lower": "irinjalakuda",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 29211,
+      "latitude": 10.333333,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Iritity",
+      "name_lower": "iritity",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.966667,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Iritti",
+      "name_lower": "iritti",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.966667,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Kadakal",
+      "name_lower": "kadakal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.833333,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Kadakkal",
+      "name_lower": "kadakkal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.833333,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Kadikkad",
+      "name_lower": "kadikkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.666667,
+      "longitude": 75.966667
+    },
+    {
+      "name": "Kaduthuruthi",
+      "name_lower": "kaduthuruthi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.75,
+      "longitude": 76.5
+    },
+    {
+      "name": "Kaduturutti",
+      "name_lower": "kaduturutti",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.75,
+      "longitude": 76.5
+    },
+    {
+      "name": "Kailar",
+      "name_lower": "kailar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.7,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Kakkad",
+      "name_lower": "kakkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.883333,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Kakkayam",
+      "name_lower": "kakkayam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.25,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Kaladi",
+      "name_lower": "kaladi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.166667,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Kalady",
+      "name_lower": "kalady",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.166667,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Kalanad",
+      "name_lower": "kalanad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.5,
+      "longitude": 74.983333
+    },
+    {
+      "name": "Kalanadu",
+      "name_lower": "kalanadu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.5,
+      "longitude": 74.983333
+    },
+    {
+      "name": "Kalicut",
+      "name_lower": "kalicut",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.25,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Kalikavu",
+      "name_lower": "kalikavu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.166667,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Kallai",
+      "name_lower": "kallai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.7,
+      "longitude": 75.533333
+    },
+    {
+      "name": "Kallana",
+      "name_lower": "kallana",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.266667,
+      "longitude": 76.6
+    },
+    {
+      "name": "Kallar-Bridge",
+      "name_lower": "kallar-bridge",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.7,
+      "longitude": 77.116667
+    },
+    {
+      "name": "Kallayi",
+      "name_lower": "kallayi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.7,
+      "longitude": 75.533333
+    },
+    {
+      "name": "Kalpatta",
+      "name_lower": "kalpatta",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.610556,
+      "longitude": 76.082222
+    },
+    {
+      "name": "Kalpetta",
+      "name_lower": "kalpetta",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.610556,
+      "longitude": 76.082222
+    },
+    {
+      "name": "Kanagari",
+      "name_lower": "kanagari",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.7,
+      "longitude": 76.55
+    },
+    {
+      "name": "Kanakarry",
+      "name_lower": "kanakarry",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.7,
+      "longitude": 76.55
+    },
+    {
+      "name": "Kandakkadava",
+      "name_lower": "kandakkadava",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.85,
+      "longitude": 76.266667
+    },
+    {
+      "name": "Kangazha",
+      "name_lower": "kangazha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.516667,
+      "longitude": 76.7
+    },
+    {
+      "name": "Kanhangad",
+      "name_lower": "kanhangad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.316667,
+      "longitude": 75.066667
+    },
+    {
+      "name": "Kanipura",
+      "name_lower": "kanipura",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.6,
+      "longitude": 74.95
+    },
+    {
+      "name": "Kaniyambetta",
+      "name_lower": "kaniyambetta",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.7,
+      "longitude": 76.1
+    },
+    {
+      "name": "Kanjaripalli",
+      "name_lower": "kanjaripalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.566667,
+      "longitude": 76.8
+    },
+    {
+      "name": "Kanjirapalli",
+      "name_lower": "kanjirapalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.566667,
+      "longitude": 76.8
+    },
+    {
+      "name": "Kannadi",
+      "name_lower": "kannadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.95,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Kannadi Camp Shed",
+      "name_lower": "kannadi camp shed",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.95,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Kannangad",
+      "name_lower": "kannangad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 68456,
+      "latitude": 12.316667,
+      "longitude": 75.066667
+    },
+    {
+      "name": "Kannavam",
+      "name_lower": "kannavam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.833333,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Kannur",
+      "name_lower": "kannur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 7625,
+      "latitude": 11.866667,
+      "longitude": 75.365278
+    },
+    {
+      "name": "Kanoor",
+      "name_lower": "kanoor",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.866667,
+      "longitude": 75.365278
+    },
+    {
+      "name": "Karakachal",
+      "name_lower": "karakachal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.5,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Karimbula",
+      "name_lower": "karimbula",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Karimkannum",
+      "name_lower": "karimkannum",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.85,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Karimkunnum",
+      "name_lower": "karimkunnum",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.85,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Karimpuzha",
+      "name_lower": "karimpuzha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.916667,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Karukachal",
+      "name_lower": "karukachal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.5,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Karunagapalli",
+      "name_lower": "karunagapalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.1,
+      "longitude": 76.55
+    },
+    {
+      "name": "Karurapadna",
+      "name_lower": "karurapadna",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.266667,
+      "longitude": 76.2
+    },
+    {
+      "name": "Karuvapadna",
+      "name_lower": "karuvapadna",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.266667,
+      "longitude": 76.2
+    },
+    {
+      "name": "Karuvarakkundu",
+      "name_lower": "karuvarakkundu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.133333,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Karuvarakundu",
+      "name_lower": "karuvarakundu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.133333,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Karuvarkunou",
+      "name_lower": "karuvarkunou",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.133333,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Kasaragod",
+      "name_lower": "kasaragod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 53313,
+      "latitude": 12.5,
+      "longitude": 75
+    },
+    {
+      "name": "Kasaragod Fort",
+      "name_lower": "kasaragod fort",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.5,
+      "longitude": 75
+    },
+    {
+      "name": "Kashakuttam",
+      "name_lower": "kashakuttam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.566667,
+      "longitude": 76.9
+    },
+    {
+      "name": "Kattanam",
+      "name_lower": "kattanam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.183333,
+      "longitude": 76.55
+    },
+    {
+      "name": "Kayamkulam",
+      "name_lower": "kayamkulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.183333,
+      "longitude": 76.5
+    },
+    {
+      "name": "Kayangulam",
+      "name_lower": "kayangulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.183333,
+      "longitude": 76.5
+    },
+    {
+      "name": "Kayankulam",
+      "name_lower": "kayankulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 64189,
+      "latitude": 9.183333,
+      "longitude": 76.5
+    },
+    {
+      "name": "Kazhakuttam",
+      "name_lower": "kazhakuttam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.566667,
+      "longitude": 76.9
+    },
+    {
+      "name": "Kazhakuttani",
+      "name_lower": "kazhakuttani",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.566667,
+      "longitude": 76.9
+    },
+    {
+      "name": "Kedavur",
+      "name_lower": "kedavur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.416667,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Kilakkettara",
+      "name_lower": "kilakkettara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.616667,
+      "longitude": 76.7
+    },
+    {
+      "name": "Kilimanur",
+      "name_lower": "kilimanur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.75,
+      "longitude": 76.866667
+    },
+    {
+      "name": "Kiluparamba",
+      "name_lower": "kiluparamba",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.266667,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Kizhake Chalakudi",
+      "name_lower": "kizhake chalakudi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.3,
+      "longitude": 76.35
+    },
+    {
+      "name": "Kizhakkettara",
+      "name_lower": "kizhakkettara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.616667,
+      "longitude": 76.7
+    },
+    {
+      "name": "Kizhillam",
+      "name_lower": "kizhillam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.066667,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Kochi",
+      "name_lower": "kochi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 604751,
+      "latitude": 9.966667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Kodungallur",
+      "name_lower": "kodungallur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 34213,
+      "latitude": 10.222222,
+      "longitude": 76.199167
+    },
+    {
+      "name": "Koilthottum",
+      "name_lower": "koilthottum",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.983333,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Kokkanisseri",
+      "name_lower": "kokkanisseri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.116667,
+      "longitude": 75.2
+    },
+    {
+      "name": "Kolattupula",
+      "name_lower": "kolattupula",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.9,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Kolattupuzha",
+      "name_lower": "kolattupuzha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.9,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Kolikod",
+      "name_lower": "kolikod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.25,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Kolinjampara",
+      "name_lower": "kolinjampara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.733333,
+      "longitude": 76.85
+    },
+    {
+      "name": "Kolitottattutura",
+      "name_lower": "kolitottattutura",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.983333,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Kolitottattuturu",
+      "name_lower": "kolitottattuturu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.983333,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Kollam",
+      "name_lower": "kollam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 394198,
+      "latitude": 8.880556,
+      "longitude": 76.591667
+    },
+    {
+      "name": "Kollangod",
+      "name_lower": "kollangod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.616667,
+      "longitude": 76.7
+    },
+    {
+      "name": "Kollengode",
+      "name_lower": "kollengode",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.616667,
+      "longitude": 76.7
+    },
+    {
+      "name": "Kommeri",
+      "name_lower": "kommeri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.85,
+      "longitude": 75.733333
+    },
+    {
+      "name": "Kondalseri",
+      "name_lower": "kondalseri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.8,
+      "longitude": 76.666667
+    },
+    {
+      "name": "Kondotti",
+      "name_lower": "kondotti",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.15,
+      "longitude": 75.966667
+    },
+    {
+      "name": "Kongad",
+      "name_lower": "kongad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.866667,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Konni",
+      "name_lower": "konni",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.233333,
+      "longitude": 76.866667
+    },
+    {
+      "name": "Koroth",
+      "name_lower": "koroth",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.733333,
+      "longitude": 75.883333
+    },
+    {
+      "name": "Kotamangalam",
+      "name_lower": "kotamangalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.066667,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Kotattupuzha",
+      "name_lower": "kotattupuzha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.9,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Kotayam",
+      "name_lower": "kotayam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.583333,
+      "longitude": 76.516667
+    },
+    {
+      "name": "Kotayem",
+      "name_lower": "kotayem",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.833333,
+      "longitude": 75.566667
+    },
+    {
+      "name": "Kottakkal",
+      "name_lower": "kottakkal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Kottar",
+      "name_lower": "kottar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.9,
+      "longitude": 76.733333
+    },
+    {
+      "name": "Kottara",
+      "name_lower": "kottara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.9,
+      "longitude": 76.733333
+    },
+    {
+      "name": "Kottarakara",
+      "name_lower": "kottarakara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9,
+      "longitude": 76.8
+    },
+    {
+      "name": "Kottayam",
+      "name_lower": "kottayam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 59442,
+      "latitude": 9.583333,
+      "longitude": 76.516667
+    },
+    {
+      "name": "Kovilam",
+      "name_lower": "kovilam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.366667,
+      "longitude": 76.996667
+    },
+    {
+      "name": "Kovilkandi",
+      "name_lower": "kovilkandi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.433333,
+      "longitude": 75.7
+    },
+    {
+      "name": "Koyilandi",
+      "name_lower": "koyilandi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 70666,
+      "latitude": 11.433333,
+      "longitude": 75.7
+    },
+    {
+      "name": "Kozhancheri",
+      "name_lower": "kozhancheri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.35,
+      "longitude": 76.7
+    },
+    {
+      "name": "Kozhencheri",
+      "name_lower": "kozhencheri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.35,
+      "longitude": 76.7
+    },
+    {
+      "name": "Kozhikkot",
+      "name_lower": "kozhikkot",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.25,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Kozhikode",
+      "name_lower": "kozhikode",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.25,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Kozhinjampara",
+      "name_lower": "kozhinjampara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.733333,
+      "longitude": 76.85
+    },
+    {
+      "name": "Kuchi Bandar",
+      "name_lower": "kuchi bandar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Kudayattur",
+      "name_lower": "kudayattur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.8,
+      "longitude": 76.8
+    },
+    {
+      "name": "Kullamalai",
+      "name_lower": "kullamalai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.880556,
+      "longitude": 76.591667
+    },
+    {
+      "name": "Kumaragam",
+      "name_lower": "kumaragam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.6,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Kumaraham",
+      "name_lower": "kumaraham",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.6,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Kumbla",
+      "name_lower": "kumbla",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.6,
+      "longitude": 74.95
+    },
+    {
+      "name": "Kummankod",
+      "name_lower": "kummankod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.7,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Kumudi",
+      "name_lower": "kumudi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.933333
+    },
+    {
+      "name": "Kunamkulam",
+      "name_lower": "kunamkulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.65,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Kunnamangalam",
+      "name_lower": "kunnamangalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 38372,
+      "latitude": 11.316667,
+      "longitude": 75.883333
+    },
+    {
+      "name": "Kunnamkulam",
+      "name_lower": "kunnamkulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 63950,
+      "latitude": 10.65,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Kuravalangad",
+      "name_lower": "kuravalangad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.75,
+      "longitude": 76.566667
+    },
+    {
+      "name": "Kuthiathode",
+      "name_lower": "kuthiathode",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.8,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Kutiatodu",
+      "name_lower": "kutiatodu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.8,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Kutipuram",
+      "name_lower": "kutipuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.833333,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Kuttampuzha",
+      "name_lower": "kuttampuzha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.15,
+      "longitude": 76.733333
+    },
+    {
+      "name": "Kuttathulam",
+      "name_lower": "kuttathulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.866667,
+      "longitude": 76.6
+    },
+    {
+      "name": "Kuttattukulam",
+      "name_lower": "kuttattukulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.866667,
+      "longitude": 76.6
+    },
+    {
+      "name": "Kuttiadi",
+      "name_lower": "kuttiadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.666667,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Kuttippuram",
+      "name_lower": "kuttippuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.833333,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Kuttuparamba",
+      "name_lower": "kuttuparamba",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.833333,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Kuttyadi",
+      "name_lower": "kuttyadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.666667,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Lakkidi",
+      "name_lower": "lakkidi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.75,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Lakkiti",
+      "name_lower": "lakkiti",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.75,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Lalam",
+      "name_lower": "lalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.716667,
+      "longitude": 76.7
+    },
+    {
+      "name": "Lokamaleswaram",
+      "name_lower": "lokamaleswaram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.216667,
+      "longitude": 76.2
+    },
+    {
+      "name": "Lukkadi",
+      "name_lower": "lukkadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.75,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Maananthavaadi",
+      "name_lower": "maananthavaadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.803056,
+      "longitude": 76.003889
+    },
+    {
+      "name": "Madwa",
+      "name_lower": "madwa",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.633333,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Madya",
+      "name_lower": "madya",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.633333,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Mahe",
+      "name_lower": "mahe",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 38188,
+      "latitude": 11.7,
+      "longitude": 75.533333
+    },
+    {
+      "name": "Makarachal",
+      "name_lower": "makarachal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.2,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Malabar",
+      "name_lower": "malabar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Malappuram",
+      "name_lower": "malappuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 61749,
+      "latitude": 11.066667,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Malayattur",
+      "name_lower": "malayattur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.2,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Malayatur",
+      "name_lower": "malayatur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.2,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Manantavadi",
+      "name_lower": "manantavadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.803056,
+      "longitude": 76.003889
+    },
+    {
+      "name": "Mananthavady",
+      "name_lower": "mananthavady",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.803056,
+      "longitude": 76.003889
+    },
+    {
+      "name": "Manantoddy",
+      "name_lower": "manantoddy",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.803056,
+      "longitude": 76.003889
+    },
+    {
+      "name": "Manattala",
+      "name_lower": "manattala",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.566667,
+      "longitude": 76.033333
+    },
+    {
+      "name": "Mangalapadi",
+      "name_lower": "mangalapadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.666667,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Mangalapuram",
+      "name_lower": "mangalapuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.633333,
+      "longitude": 76.866667
+    },
+    {
+      "name": "Manganam",
+      "name_lower": "manganam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.583333,
+      "longitude": 76.55
+    },
+    {
+      "name": "Manimala",
+      "name_lower": "manimala",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.483333,
+      "longitude": 76.75
+    },
+    {
+      "name": "Manjeri",
+      "name_lower": "manjeri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 89209,
+      "latitude": 11.116667,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Manjeshwar",
+      "name_lower": "manjeshwar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 8928,
+      "latitude": 12.7,
+      "longitude": 74.883333
+    },
+    {
+      "name": "Manjeshwara",
+      "name_lower": "manjeshwara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.7,
+      "longitude": 74.883333
+    },
+    {
+      "name": "Mankara",
+      "name_lower": "mankara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.75,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Mankarai",
+      "name_lower": "mankarai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.75,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Mannarakkat",
+      "name_lower": "mannarakkat",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 50921,
+      "latitude": 10.983333,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Maraiyoor",
+      "name_lower": "maraiyoor",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.266667,
+      "longitude": 77.15
+    },
+    {
+      "name": "Maraiyur",
+      "name_lower": "maraiyur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.266667,
+      "longitude": 77.15
+    },
+    {
+      "name": "Mattancheri",
+      "name_lower": "mattancheri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.983333,
+      "longitude": 76.266667
+    },
+    {
+      "name": "Mattanur",
+      "name_lower": "mattanur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.916667,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Mattul",
+      "name_lower": "mattul",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.966667,
+      "longitude": 75.283333
+    },
+    {
+      "name": "Mavalikara",
+      "name_lower": "mavalikara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.266667,
+      "longitude": 76.55
+    },
+    {
+      "name": "Mavelikara",
+      "name_lower": "mavelikara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 28303,
+      "latitude": 9.266667,
+      "longitude": 76.55
+    },
+    {
+      "name": "Mavur",
+      "name_lower": "mavur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 28316,
+      "latitude": 11.266667,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Mayyazhi",
+      "name_lower": "mayyazhi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.7,
+      "longitude": 75.533333
+    },
+    {
+      "name": "Melattur",
+      "name_lower": "melattur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.066667,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Melatur",
+      "name_lower": "melatur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.066667,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Memunda",
+      "name_lower": "memunda",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.583333,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Mennanyam",
+      "name_lower": "mennanyam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.566667,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Meppadi",
+      "name_lower": "meppadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.566667,
+      "longitude": 76.15
+    },
+    {
+      "name": "Methala",
+      "name_lower": "methala",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 42444,
+      "latitude": 10.222222,
+      "longitude": 76.199167
+    },
+    {
+      "name": "Muchiri",
+      "name_lower": "muchiri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.222222,
+      "longitude": 76.199167
+    },
+    {
+      "name": "Muchiripattinam",
+      "name_lower": "muchiripattinam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.222222,
+      "longitude": 76.199167
+    },
+    {
+      "name": "Mukkad",
+      "name_lower": "mukkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.9,
+      "longitude": 76.55
+    },
+    {
+      "name": "Mulappilangad",
+      "name_lower": "mulappilangad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.8,
+      "longitude": 75.45
+    },
+    {
+      "name": "Mulappilangal",
+      "name_lower": "mulappilangal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.8,
+      "longitude": 75.45
+    },
+    {
+      "name": "Mundakayam",
+      "name_lower": "mundakayam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.55,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Mundur",
+      "name_lower": "mundur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.833333,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Muthalamada",
+      "name_lower": "muthalamada",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.633333,
+      "longitude": 76.8
+    },
+    {
+      "name": "Muttam",
+      "name_lower": "muttam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.833333,
+      "longitude": 76.75
+    },
+    {
+      "name": "Muvattupula",
+      "name_lower": "muvattupula",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 29666,
+      "latitude": 9.966667,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Muvatupusha",
+      "name_lower": "muvatupusha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Muvatupuzha",
+      "name_lower": "muvatupuzha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Muyirikkodu",
+      "name_lower": "muyirikkodu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.222222,
+      "longitude": 76.199167
+    },
+    {
+      "name": "Muzhappilangad",
+      "name_lower": "muzhappilangad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 23033,
+      "latitude": 11.8,
+      "longitude": 75.45
+    },
+    {
+      "name": "Muziris",
+      "name_lower": "muziris",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.222222,
+      "longitude": 76.199167
+    },
+    {
+      "name": "Nadapuram",
+      "name_lower": "nadapuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 39512,
+      "latitude": 11.7,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Naduvannur",
+      "name_lower": "naduvannur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.483333,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Nallepilli",
+      "name_lower": "nallepilli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.733333,
+      "longitude": 76.8
+    },
+    {
+      "name": "Narakal",
+      "name_lower": "narakal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.066667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Nedumangad",
+      "name_lower": "nedumangad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 58284,
+      "latitude": 8.6,
+      "longitude": 77
+    },
+    {
+      "name": "Nellaya",
+      "name_lower": "nellaya",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.4,
+      "longitude": 76.3
+    },
+    {
+      "name": "Nellayi",
+      "name_lower": "nellayi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.4,
+      "longitude": 76.3
+    },
+    {
+      "name": "Nemmara",
+      "name_lower": "nemmara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.583333,
+      "longitude": 76.6
+    },
+    {
+      "name": "Neriamangalam",
+      "name_lower": "neriamangalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.05,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Nerimangalam",
+      "name_lower": "nerimangalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.05,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Neriyamangalam",
+      "name_lower": "neriyamangalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.05,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Neyattinkara",
+      "name_lower": "neyattinkara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.4,
+      "longitude": 77.083333
+    },
+    {
+      "name": "Neyyattinkara",
+      "name_lower": "neyyattinkara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 88143,
+      "latitude": 8.4,
+      "longitude": 77.083333
+    },
+    {
+      "name": "Nilambur",
+      "name_lower": "nilambur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.283333,
+      "longitude": 76.25
+    },
+    {
+      "name": "Nilamel",
+      "name_lower": "nilamel",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.816667,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Nileshwar",
+      "name_lower": "nileshwar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 25404,
+      "latitude": 12.25,
+      "longitude": 75.1
+    },
+    {
+      "name": "Nileswaram",
+      "name_lower": "nileswaram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.333333,
+      "longitude": 75.1
+    },
+    {
+      "name": "Nindakara",
+      "name_lower": "nindakara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.933333,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Olakara",
+      "name_lower": "olakara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.1,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Ollur",
+      "name_lower": "ollur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.466667,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Olukara",
+      "name_lower": "olukara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.1,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Ottapalam",
+      "name_lower": "ottapalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.766667,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Ottappalam",
+      "name_lower": "ottappalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 50917,
+      "latitude": 10.766667,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Padagiri",
+      "name_lower": "padagiri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.483333,
+      "longitude": 76.7
+    },
+    {
+      "name": "Palakkad",
+      "name_lower": "palakkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 132740,
+      "latitude": 10.7725,
+      "longitude": 76.651389
+    },
+    {
+      "name": "Palayam",
+      "name_lower": "palayam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.483333,
+      "longitude": 76.916667
+    },
+    {
+      "name": "Palayannur",
+      "name_lower": "palayannur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.683333,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Palghat",
+      "name_lower": "palghat",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.7725,
+      "longitude": 76.651389
+    },
+    {
+      "name": "Pallippuram",
+      "name_lower": "pallippuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.166667,
+      "longitude": 76.183333
+    },
+    {
+      "name": "Pallipuram",
+      "name_lower": "pallipuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.166667,
+      "longitude": 76.183333
+    },
+    {
+      "name": "Palod",
+      "name_lower": "palod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.7,
+      "longitude": 77.033333
+    },
+    {
+      "name": "Pambadi",
+      "name_lower": "pambadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.566667,
+      "longitude": 76.666667
+    },
+    {
+      "name": "Pampadi",
+      "name_lower": "pampadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.566667,
+      "longitude": 76.666667
+    },
+    {
+      "name": "Panamaram",
+      "name_lower": "panamaram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.733333,
+      "longitude": 76.1
+    },
+    {
+      "name": "Pandikkad",
+      "name_lower": "pandikkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.1,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Panmana",
+      "name_lower": "panmana",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.016667,
+      "longitude": 76.516667
+    },
+    {
+      "name": "Paparaugardi",
+      "name_lower": "paparaugardi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.05,
+      "longitude": 75.866667
+    },
+    {
+      "name": "Pappinisseri",
+      "name_lower": "pappinisseri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 34028,
+      "latitude": 11.95,
+      "longitude": 75.35
+    },
+    {
+      "name": "Pappinissheri",
+      "name_lower": "pappinissheri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.95,
+      "longitude": 75.35
+    },
+    {
+      "name": "Parambikolam",
+      "name_lower": "parambikolam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.383333,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Parambikulam",
+      "name_lower": "parambikulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.383333,
+      "longitude": 76.816667
+    },
+    {
+      "name": "Parappanangadi",
+      "name_lower": "parappanangadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.05,
+      "longitude": 75.866667
+    },
+    {
+      "name": "Parattipalli",
+      "name_lower": "parattipalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.566667,
+      "longitude": 77.1
+    },
+    {
+      "name": "Paravar",
+      "name_lower": "paravar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.783333,
+      "longitude": 76.7
+    },
+    {
+      "name": "Paravoor",
+      "name_lower": "paravoor",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.783333,
+      "longitude": 76.7
+    },
+    {
+      "name": "Paravur",
+      "name_lower": "paravur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 38949,
+      "latitude": 8.783333,
+      "longitude": 76.7
+    },
+    {
+      "name": "Pariyapuram",
+      "name_lower": "pariyapuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.016667,
+      "longitude": 75.866667
+    },
+    {
+      "name": "Parur",
+      "name_lower": "parur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.15,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Pathanamthitta",
+      "name_lower": "pathanamthitta",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 38288,
+      "latitude": 9.266667,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Pattambi",
+      "name_lower": "pattambi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.816667,
+      "longitude": 76.2
+    },
+    {
+      "name": "Pattanamtitta",
+      "name_lower": "pattanamtitta",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.266667,
+      "longitude": 76.783333
+    },
+    {
+      "name": "Pattanapuram",
+      "name_lower": "pattanapuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.1,
+      "longitude": 76.866667
+    },
+    {
+      "name": "Pattikad",
+      "name_lower": "pattikad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.55,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Pattikkad",
+      "name_lower": "pattikkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.55,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Pattikod",
+      "name_lower": "pattikod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.55,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Pattiyurgramam",
+      "name_lower": "pattiyurgramam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.166667,
+      "longitude": 76.5
+    },
+    {
+      "name": "Payyannur",
+      "name_lower": "payyannur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 70075,
+      "latitude": 12.1,
+      "longitude": 75.2
+    },
+    {
+      "name": "Payyanur",
+      "name_lower": "payyanur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.1,
+      "longitude": 75.2
+    },
+    {
+      "name": "Payyoli",
+      "name_lower": "payyoli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.533333,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Pazhayannur",
+      "name_lower": "pazhayannur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.683333,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Peermade",
+      "name_lower": "peermade",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.566667,
+      "longitude": 76.983333
+    },
+    {
+      "name": "Peradiyur",
+      "name_lower": "peradiyur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.883333,
+      "longitude": 76.2
+    },
+    {
+      "name": "Perdala",
+      "name_lower": "perdala",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.6,
+      "longitude": 75.066667
+    },
+    {
+      "name": "Perinad",
+      "name_lower": "perinad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.116667,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Peringom",
+      "name_lower": "peringom",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.25,
+      "longitude": 75.3
+    },
+    {
+      "name": "Perintalmanna",
+      "name_lower": "perintalmanna",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.983333,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Periya",
+      "name_lower": "periya",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.833333,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Perumanseri",
+      "name_lower": "perumanseri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.966667,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Perumbalam",
+      "name_lower": "perumbalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.85,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Perumkulam",
+      "name_lower": "perumkulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.5,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Perumpavur",
+      "name_lower": "perumpavur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 27108,
+      "latitude": 10.133333,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Piravam",
+      "name_lower": "piravam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 28254,
+      "latitude": 9.866667,
+      "longitude": 76.5
+    },
+    {
+      "name": "Piravom",
+      "name_lower": "piravom",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.866667,
+      "longitude": 76.5
+    },
+    {
+      "name": "Pirmed",
+      "name_lower": "pirmed",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.566667,
+      "longitude": 76.983333
+    },
+    {
+      "name": "Ponani",
+      "name_lower": "ponani",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.766667,
+      "longitude": 75.9
+    },
+    {
+      "name": "Ponnani",
+      "name_lower": "ponnani",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 105521,
+      "latitude": 10.766667,
+      "longitude": 75.9
+    },
+    {
+      "name": "Poringalkuthu",
+      "name_lower": "poringalkuthu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.283333,
+      "longitude": 76.433333
+    },
+    {
+      "name": "Pottundi",
+      "name_lower": "pottundi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.55,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Powaur",
+      "name_lower": "powaur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.316667,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Puchakad",
+      "name_lower": "puchakad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.383333,
+      "longitude": 75.05
+    },
+    {
+      "name": "Pudunagaram",
+      "name_lower": "pudunagaram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.683333,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Pudunagram",
+      "name_lower": "pudunagram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.683333,
+      "longitude": 76.683333
+    },
+    {
+      "name": "Pudupalli",
+      "name_lower": "pudupalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.5,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Puduveli",
+      "name_lower": "puduveli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.816667,
+      "longitude": 76.6
+    },
+    {
+      "name": "Pullappalli",
+      "name_lower": "pullappalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.683333,
+      "longitude": 76.616667
+    },
+    {
+      "name": "Punalur",
+      "name_lower": "punalur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 47267,
+      "latitude": 9,
+      "longitude": 76.933333
+    },
+    {
+      "name": "Punnappira",
+      "name_lower": "punnappira",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.433333,
+      "longitude": 76.35
+    },
+    {
+      "name": "Punnapra",
+      "name_lower": "punnapra",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.433333,
+      "longitude": 76.35
+    },
+    {
+      "name": "Puthupalli",
+      "name_lower": "puthupalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.5,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Puthuppadi",
+      "name_lower": "puthuppadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.5,
+      "longitude": 75.966667
+    },
+    {
+      "name": "Puttambi",
+      "name_lower": "puttambi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.816667,
+      "longitude": 76.2
+    },
+    {
+      "name": "Putuppalli",
+      "name_lower": "putuppalli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.5,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Puvar",
+      "name_lower": "puvar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.316667,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Quilandi",
+      "name_lower": "quilandi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.433333,
+      "longitude": 75.7
+    },
+    {
+      "name": "Quilon",
+      "name_lower": "quilon",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.880556,
+      "longitude": 76.591667
+    },
+    {
+      "name": "Ramamangalam",
+      "name_lower": "ramamangalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.933333,
+      "longitude": 76.5
+    },
+    {
+      "name": "Ramankari",
+      "name_lower": "ramankari",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.433333,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Ramantali",
+      "name_lower": "ramantali",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.05,
+      "longitude": 75.183333
+    },
+    {
+      "name": "Ramanthali",
+      "name_lower": "ramanthali",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.05,
+      "longitude": 75.183333
+    },
+    {
+      "name": "Sastankottah",
+      "name_lower": "sastankottah",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.05,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Sastham Kottai",
+      "name_lower": "sastham kottai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.05,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Sasthankotta",
+      "name_lower": "sasthankotta",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.05,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Shertalla",
+      "name_lower": "shertalla",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.7,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Shertallai",
+      "name_lower": "shertallai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 45479,
+      "latitude": 9.7,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Shertally",
+      "name_lower": "shertally",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.7,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Shinkli",
+      "name_lower": "shinkli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.222222,
+      "longitude": 76.199167
+    },
+    {
+      "name": "Shoranur",
+      "name_lower": "shoranur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 42698,
+      "latitude": 10.766667,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Sultan Bathery",
+      "name_lower": "sultan bathery",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.665833,
+      "longitude": 76.263056
+    },
+    {
+      "name": "Sultan's Barttery",
+      "name_lower": "sultan's barttery",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.665833,
+      "longitude": 76.263056
+    },
+    {
+      "name": "Sultan's Bathery",
+      "name_lower": "sultan's bathery",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.665833,
+      "longitude": 76.263056
+    },
+    {
+      "name": "Sultan's Battery",
+      "name_lower": "sultan's battery",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.665833,
+      "longitude": 76.263056
+    },
+    {
+      "name": "Sultans Battery",
+      "name_lower": "sultans battery",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.665833,
+      "longitude": 76.263056
+    },
+    {
+      "name": "Sulthan Bathery",
+      "name_lower": "sulthan bathery",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.665833,
+      "longitude": 76.263056
+    },
+    {
+      "name": "Talakkad",
+      "name_lower": "talakkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.883333,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Talasseri",
+      "name_lower": "talasseri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.747778,
+      "longitude": 75.488333
+    },
+    {
+      "name": "Talayolaparambu",
+      "name_lower": "talayolaparambu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.8,
+      "longitude": 76.45
+    },
+    {
+      "name": "Talekkod",
+      "name_lower": "talekkod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.333333,
+      "longitude": 75.966667
+    },
+    {
+      "name": "Taliparamba",
+      "name_lower": "taliparamba",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.05,
+      "longitude": 75.35
+    },
+    {
+      "name": "Talipparamba",
+      "name_lower": "talipparamba",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 69884,
+      "latitude": 12.05,
+      "longitude": 75.35
+    },
+    {
+      "name": "Tallakad",
+      "name_lower": "tallakad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.883333,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Tamarakulam",
+      "name_lower": "tamarakulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.166667,
+      "longitude": 76.633333
+    },
+    {
+      "name": "Tangasseri",
+      "name_lower": "tangasseri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.883333,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Tanniyurnagaram",
+      "name_lower": "tanniyurnagaram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.966667,
+      "longitude": 75.866667
+    },
+    {
+      "name": "Tanur",
+      "name_lower": "tanur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.966667,
+      "longitude": 75.866667
+    },
+    {
+      "name": "Tariyod",
+      "name_lower": "tariyod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.666667,
+      "longitude": 75.95
+    },
+    {
+      "name": "Tattamangalam",
+      "name_lower": "tattamangalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.683333,
+      "longitude": 76.733333
+    },
+    {
+      "name": "Tazhekkod",
+      "name_lower": "tazhekkod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.333333,
+      "longitude": 75.966667
+    },
+    {
+      "name": "Tekkumuri",
+      "name_lower": "tekkumuri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.9,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Tellicherri",
+      "name_lower": "tellicherri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.747778,
+      "longitude": 75.488333
+    },
+    {
+      "name": "Tellicherry",
+      "name_lower": "tellicherry",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.747778,
+      "longitude": 75.488333
+    },
+    {
+      "name": "Tellichery",
+      "name_lower": "tellichery",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.747778,
+      "longitude": 75.488333
+    },
+    {
+      "name": "Thalassery",
+      "name_lower": "thalassery",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 97210,
+      "latitude": 11.747778,
+      "longitude": 75.488333
+    },
+    {
+      "name": "Thalavady",
+      "name_lower": "thalavady",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.35,
+      "longitude": 76.533333
+    },
+    {
+      "name": "Thanikudi",
+      "name_lower": "thanikudi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.5,
+      "longitude": 77.266667
+    },
+    {
+      "name": "Thanniyam",
+      "name_lower": "thanniyam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.416667,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Thattakad",
+      "name_lower": "thattakad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.133333,
+      "longitude": 76.7
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "name_lower": "thiruvananthapuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 784223,
+      "latitude": 8.506944,
+      "longitude": 76.956944
+    },
+    {
+      "name": "Thrissur",
+      "name_lower": "thrissur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 325140,
+      "latitude": 10.516667,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Thuravoor",
+      "name_lower": "thuravoor",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.766667,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Tikkodi",
+      "name_lower": "tikkodi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.483333,
+      "longitude": 75.616667
+    },
+    {
+      "name": "Tikkotti",
+      "name_lower": "tikkotti",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.483333,
+      "longitude": 75.616667
+    },
+    {
+      "name": "Tikotti",
+      "name_lower": "tikotti",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.483333,
+      "longitude": 75.616667
+    },
+    {
+      "name": "Tindummal",
+      "name_lower": "tindummal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.833333,
+      "longitude": 75.95
+    },
+    {
+      "name": "Tirur Station",
+      "name_lower": "tirur station",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.9,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Tirurangadi",
+      "name_lower": "tirurangadi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.05,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Tiruvalla",
+      "name_lower": "tiruvalla",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 57228,
+      "latitude": 9.383333,
+      "longitude": 76.566667
+    },
+    {
+      "name": "Tiruvananantapuram",
+      "name_lower": "tiruvananantapuram",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.506944,
+      "longitude": 76.956944
+    },
+    {
+      "name": "Todupulai",
+      "name_lower": "todupulai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.9,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Trichur",
+      "name_lower": "trichur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.516667,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Trikkalangod",
+      "name_lower": "trikkalangod",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.15,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Trikkunnapuzha",
+      "name_lower": "trikkunnapuzha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.25,
+      "longitude": 76.416667
+    },
+    {
+      "name": "Trikodi",
+      "name_lower": "trikodi",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.483333,
+      "longitude": 75.616667
+    },
+    {
+      "name": "Trikunnapuzha",
+      "name_lower": "trikunnapuzha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.25,
+      "longitude": 76.416667
+    },
+    {
+      "name": "Trippapur",
+      "name_lower": "trippapur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.533333,
+      "longitude": 76.9
+    },
+    {
+      "name": "Tripunittura",
+      "name_lower": "tripunittura",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.95,
+      "longitude": 76.35
+    },
+    {
+      "name": "Tripunnittara",
+      "name_lower": "tripunnittara",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.95,
+      "longitude": 76.35
+    },
+    {
+      "name": "Trissur",
+      "name_lower": "trissur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.516667,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Tritala",
+      "name_lower": "tritala",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.8,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Trittala",
+      "name_lower": "trittala",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.8,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Trivandrum",
+      "name_lower": "trivandrum",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.506944,
+      "longitude": 76.956944
+    },
+    {
+      "name": "Tullipurmbu",
+      "name_lower": "tullipurmbu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.05,
+      "longitude": 75.35
+    },
+    {
+      "name": "Turavur",
+      "name_lower": "turavur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.766667,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Turcunapulli",
+      "name_lower": "turcunapulli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.25,
+      "longitude": 76.416667
+    },
+    {
+      "name": "Tuvvur",
+      "name_lower": "tuvvur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.116667,
+      "longitude": 76.3
+    },
+    {
+      "name": "Udumbanshola",
+      "name_lower": "udumbanshola",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.9,
+      "longitude": 77.166667
+    },
+    {
+      "name": "Uppala",
+      "name_lower": "uppala",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 12.683333,
+      "longitude": 74.9
+    },
+    {
+      "name": "Urakam",
+      "name_lower": "urakam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.433333,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Urakom",
+      "name_lower": "urakom",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.433333,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Vadakancheri",
+      "name_lower": "vadakancheri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.666667,
+      "longitude": 76.25
+    },
+    {
+      "name": "Vadakancheri-Cochin",
+      "name_lower": "vadakancheri-cochin",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.666667,
+      "longitude": 76.25
+    },
+    {
+      "name": "Vadakkancheri",
+      "name_lower": "vadakkancheri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.583333,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Vaikam",
+      "name_lower": "vaikam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 22810,
+      "latitude": 9.766667,
+      "longitude": 76.4
+    },
+    {
+      "name": "Vaikom",
+      "name_lower": "vaikom",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.766667,
+      "longitude": 76.4
+    },
+    {
+      "name": "Vailey",
+      "name_lower": "vailey",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.516667,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Valakkad",
+      "name_lower": "valakkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.25,
+      "longitude": 75.95
+    },
+    {
+      "name": "Valancheri",
+      "name_lower": "valancheri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.883333,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Valani",
+      "name_lower": "valani",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.633333,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Valapattanam",
+      "name_lower": "valapattanam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.9,
+      "longitude": 75.366667
+    },
+    {
+      "name": "Valarpattanam",
+      "name_lower": "valarpattanam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.9,
+      "longitude": 75.366667
+    },
+    {
+      "name": "Valiyora",
+      "name_lower": "valiyora",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.033333,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Vallappula",
+      "name_lower": "vallappula",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.833333,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Vallapputha",
+      "name_lower": "vallapputha",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.833333,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Vallapula",
+      "name_lower": "vallapula",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.833333,
+      "longitude": 76.283333
+    },
+    {
+      "name": "Vallikunnu",
+      "name_lower": "vallikunnu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.133333,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Vandamettu",
+      "name_lower": "vandamettu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.716667,
+      "longitude": 77.15
+    },
+    {
+      "name": "Vandanmettu",
+      "name_lower": "vandanmettu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.716667,
+      "longitude": 77.15
+    },
+    {
+      "name": "Vandiperiyar",
+      "name_lower": "vandiperiyar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.583333,
+      "longitude": 77.083333
+    },
+    {
+      "name": "Vaniyambalam",
+      "name_lower": "vaniyambalam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.183333,
+      "longitude": 76.25
+    },
+    {
+      "name": "Varakal",
+      "name_lower": "varakal",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.3,
+      "longitude": 75.75
+    },
+    {
+      "name": "Varkala",
+      "name_lower": "varkala",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.733333,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Varkkallai",
+      "name_lower": "varkkallai",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 43280,
+      "latitude": 8.733333,
+      "longitude": 76.716667
+    },
+    {
+      "name": "Vayalar",
+      "name_lower": "vayalar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": 25094,
+      "latitude": 9.7,
+      "longitude": 76.333333
+    },
+    {
+      "name": "Vayittir",
+      "name_lower": "vayittir",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.55,
+      "longitude": 76.05
+    },
+    {
+      "name": "Vayittiri",
+      "name_lower": "vayittiri",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.55,
+      "longitude": 76.05
+    },
+    {
+      "name": "Vazhakkad",
+      "name_lower": "vazhakkad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.25,
+      "longitude": 75.95
+    },
+    {
+      "name": "Vazhakulam",
+      "name_lower": "vazhakulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.95,
+      "longitude": 76.65
+    },
+    {
+      "name": "Vazhani",
+      "name_lower": "vazhani",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.633333,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Veli",
+      "name_lower": "veli",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.516667,
+      "longitude": 76.883333
+    },
+    {
+      "name": "Vellanad",
+      "name_lower": "vellanad",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.566667,
+      "longitude": 77.05
+    },
+    {
+      "name": "Vempayam",
+      "name_lower": "vempayam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.616667,
+      "longitude": 76.933333
+    },
+    {
+      "name": "Venjaramud",
+      "name_lower": "venjaramud",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.683333,
+      "longitude": 76.9
+    },
+    {
+      "name": "Venjaramudu",
+      "name_lower": "venjaramudu",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.683333,
+      "longitude": 76.9
+    },
+    {
+      "name": "Vennikulam",
+      "name_lower": "vennikulam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.4,
+      "longitude": 76.666667
+    },
+    {
+      "name": "Vetchur",
+      "name_lower": "vetchur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.7,
+      "longitude": 76.733333
+    },
+    {
+      "name": "Vettoor",
+      "name_lower": "vettoor",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.7,
+      "longitude": 76.733333
+    },
+    {
+      "name": "Vettur",
+      "name_lower": "vettur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.7,
+      "longitude": 76.733333
+    },
+    {
+      "name": "Vettutura",
+      "name_lower": "vettutura",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.583333,
+      "longitude": 76.833333
+    },
+    {
+      "name": "Vilinjam",
+      "name_lower": "vilinjam",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.366667,
+      "longitude": 76.993333
+    },
+    {
+      "name": "Vilinjum",
+      "name_lower": "vilinjum",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 8.366667,
+      "longitude": 76.993333
+    },
+    {
+      "name": "Vypeen",
+      "name_lower": "vypeen",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.25
+    },
+    {
+      "name": "Vypin",
+      "name_lower": "vypin",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 9.966667,
+      "longitude": 76.25
+    },
+    {
+      "name": "Walayar",
+      "name_lower": "walayar",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 10.85,
+      "longitude": 76.85
+    },
+    {
+      "name": "Wandoor",
+      "name_lower": "wandoor",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.2,
+      "longitude": 76.233333
+    },
+    {
+      "name": "Wandur",
+      "name_lower": "wandur",
+      "state": "Kerala",
+      "state_hi": "केरल",
+      "region_code": "13",
+      "population": "",
+      "latitude": 11.2,
+      "longitude": 76.233333
+    }
+  ],
+  "meta": {
+    "title": "केरल के शहर (Kerala Cities) - मुफ़्त डाउनलोड",
+    "description": "केरल राज्य के 514 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 514 cities and towns in Kerala, India, with population and geographic coordinates. शामिल हैं 514 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "केरल के शहर (Kerala Cities) | ListBase",
+    "seo_description": "डाउनलोड केरल के शहर (Kerala Cities) — 514 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 514 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

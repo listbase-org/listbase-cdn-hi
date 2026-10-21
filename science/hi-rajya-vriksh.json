@@ -1,0 +1,426 @@
+{
+  "id": "hi-rajya-vriksh",
+  "name": "भारत के राज्य वृक्ष (State Trees of India)",
+  "title": "भारत के राज्य वृक्ष (State Trees of India)",
+  "description": "36 state and union-territory trees officially designated by Indian state governments, with common name, binomial scientific name, IUCN Red List category, contextual notes, and Wikimedia Commons image reference.",
+  "category": "science",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "common_name",
+      "label": "Common Name",
+      "type": "string"
+    },
+    {
+      "key": "binomial_name",
+      "label": "Binomial Name",
+      "type": "string"
+    },
+    {
+      "key": "iucn_category",
+      "label": "Iucn Category",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "image_src",
+      "label": "Image Src",
+      "type": "string"
+    },
+    {
+      "key": "image_alt",
+      "label": "Image Alt",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "state_slug": "andaman-and-nicobar-islands",
+      "common_name": "Andaman redwood",
+      "binomial_name": "Pterocarpus dalbergioides",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/13/Andaman_padauk_02.JPG/150px-Andaman_padauk_02.JPG",
+      "image_alt": "Andaman padauk 02.JPG"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_slug": "andhra-pradesh",
+      "common_name": "Neem",
+      "binomial_name": "Azadirachta indica",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/2/20/Neem_%28Azadirachta_indica%29_in_Hyderabad_W_IMG_6976.jpg/150px-Neem_%28Azadirachta_indica%29_in_Hyderabad_W_IMG_6976.jpg",
+      "image_alt": "Neem (Azadirachta indica) in Hyderabad W IMG 6976.jpg"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_slug": "arunachal-pradesh",
+      "common_name": "Hollong",
+      "binomial_name": "Dipterocarpus macrocarpus",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sapling_of_Hollong_tree_%28Dipterocarpus_macrocarpus%29%2C_the_state_tree_of_Assam.jpg/150px-Sapling_of_Hollong_tree_%28Dipterocarpus_macrocarpus%29%2C_the_state_tree_of_Assam.jpg",
+      "image_alt": "Sapling of Hollong tree (Dipterocarpus macrocarpus), the state tree of Assam.jpg"
+    },
+    {
+      "state": "Assam",
+      "state_slug": "assam",
+      "common_name": "Hollong",
+      "binomial_name": "Dipterocarpus macrocarpus",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sapling_of_Hollong_tree_%28Dipterocarpus_macrocarpus%29%2C_the_state_tree_of_Assam.jpg/150px-Sapling_of_Hollong_tree_%28Dipterocarpus_macrocarpus%29%2C_the_state_tree_of_Assam.jpg",
+      "image_alt": "Sapling of Hollong tree (Dipterocarpus macrocarpus), the state tree of Assam.jpg"
+    },
+    {
+      "state": "Bihar",
+      "state_slug": "bihar",
+      "common_name": "Sacred fig (Peepal)",
+      "binomial_name": "Ficus religiosa",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ficus_religiosa_Bo.jpg/150px-Ficus_religiosa_Bo.jpg",
+      "image_alt": "Ficus religiosa Bo.jpg"
+    },
+    {
+      "state": "Chandigarh",
+      "state_slug": "chandigarh",
+      "common_name": "Mango Tree",
+      "binomial_name": "Mangifera Indica",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starr_070221-4713_Mangifera_indica.jpg/150px-Starr_070221-4713_Mangifera_indica.jpg",
+      "image_alt": "Starr 070221-4713 Mangifera indica.jpg"
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_slug": "chhattisgarh",
+      "common_name": "Sal",
+      "binomial_name": "Shorea robusta",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sal_%28Shorea_robusta%29-_old_leaf_at_Jayanti%2C_Duars_W_Picture_122.jpg/150px-Sal_%28Shorea_robusta%29-_old_leaf_at_Jayanti%2C_Duars_W_Picture_122.jpg",
+      "image_alt": "Sal (Shorea robusta)- old leaf at Jayanti, Duars W Picture 122.jpg"
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "state_slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+      "common_name": "Not yet designated",
+      "binomial_name": "",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "",
+      "image_alt": ""
+    },
+    {
+      "state": "Delhi",
+      "state_slug": "delhi",
+      "common_name": "Flamboyant",
+      "binomial_name": "Delonix regia",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/8/87/Royal_Poinciana.jpg/150px-Royal_Poinciana.jpg",
+      "image_alt": "Royal Poinciana.jpg"
+    },
+    {
+      "state": "Goa",
+      "state_slug": "goa",
+      "common_name": "Coconut",
+      "binomial_name": "Cocos nucifera",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/7/79/Starr_031209-0059_Cocos_nucifera.jpg/150px-Starr_031209-0059_Cocos_nucifera.jpg",
+      "image_alt": "Starr 031209-0059 Cocos nucifera.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "state_slug": "gujarat",
+      "common_name": "Banyan",
+      "binomial_name": "Ficus benghalensis",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ficus-Benghalensis-Coral-Gables.JPG/150px-Ficus-Benghalensis-Coral-Gables.JPG",
+      "image_alt": "Ficus-Benghalensis-Coral-Gables.JPG"
+    },
+    {
+      "state": "Haryana",
+      "state_slug": "haryana",
+      "common_name": "Sacred fig",
+      "binomial_name": "Ficus religiosa",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ficus_religiosa_Bo.jpg/150px-Ficus_religiosa_Bo.jpg",
+      "image_alt": "Ficus religiosa Bo.jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "state_slug": "himachal-pradesh",
+      "common_name": "Deodar",
+      "binomial_name": "Cedrus deodara",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cedrus_deodara_Himalajazeder.JPG/150px-Cedrus_deodara_Himalajazeder.JPG",
+      "image_alt": "Cedrus deodara Himalajazeder.JPG"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "state_slug": "jammu-and-kashmir",
+      "common_name": "Chinar",
+      "binomial_name": "Platanus orientalis",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Platanus_orientalis_tree.JPG/149px-Platanus_orientalis_tree.JPG",
+      "image_alt": "Platanus orientalis tree.JPG"
+    },
+    {
+      "state": "Jharkhand",
+      "state_slug": "jharkhand",
+      "common_name": "Sal",
+      "binomial_name": "Shorea robusta",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sal_%28Shorea_robusta%29-_old_leaf_at_Jayanti%2C_Duars_W_Picture_122.jpg/150px-Sal_%28Shorea_robusta%29-_old_leaf_at_Jayanti%2C_Duars_W_Picture_122.jpg",
+      "image_alt": "Sal (Shorea robusta)- old leaf at Jayanti, Duars W Picture 122.jpg"
+    },
+    {
+      "state": "Karnataka",
+      "state_slug": "karnataka",
+      "common_name": "Sandalwood",
+      "binomial_name": "Santalum album",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sandal_leaf.jpg/150px-Sandal_leaf.jpg",
+      "image_alt": "Sandal leaf.jpg"
+    },
+    {
+      "state": "Kerala",
+      "state_slug": "kerala",
+      "common_name": "Coconut",
+      "binomial_name": "Cocos nucifera",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/7/79/Starr_031209-0059_Cocos_nucifera.jpg/150px-Starr_031209-0059_Cocos_nucifera.jpg",
+      "image_alt": "Starr 031209-0059 Cocos nucifera.jpg"
+    },
+    {
+      "state": "Ladakh",
+      "state_slug": "ladakh",
+      "common_name": "Not yet designated",
+      "binomial_name": "",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "",
+      "image_alt": ""
+    },
+    {
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "common_name": "Bread fruit",
+      "binomial_name": "Artocarpus altilis",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/3/38/Uru-tahiti1.jpg/150px-Uru-tahiti1.jpg",
+      "image_alt": "Uru-tahiti1.jpg"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "state_slug": "madhya-pradesh",
+      "common_name": "Banyan",
+      "binomial_name": "Ficus benghalensis",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ficus-Benghalensis-Coral-Gables.JPG/150px-Ficus-Benghalensis-Coral-Gables.JPG",
+      "image_alt": "Ficus-Benghalensis-Coral-Gables.JPG"
+    },
+    {
+      "state": "Maharashtra",
+      "state_slug": "maharashtra",
+      "common_name": "Mango",
+      "binomial_name": "Mangifera indica",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mangifera_indica._Tropical_Brazil.JPG/150px-Mangifera_indica._Tropical_Brazil.JPG",
+      "image_alt": "Mangifera indica. Tropical Brazil.JPG"
+    },
+    {
+      "state": "Manipur",
+      "state_slug": "manipur",
+      "common_name": "Uningthou",
+      "binomial_name": "Phoebe hainesiana",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Phoebe_hainesiana_north_Bengal_AJTJ.JPG/150px-Phoebe_hainesiana_north_Bengal_AJTJ.JPG",
+      "image_alt": "Phoebe hainesiana north Bengal AJTJ.JPG"
+    },
+    {
+      "state": "Meghalaya",
+      "state_slug": "meghalaya",
+      "common_name": "White teak",
+      "binomial_name": "Gmelina arborea",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gmelina_arborea_bark_I_IMG_3543.jpg/150px-Gmelina_arborea_bark_I_IMG_3543.jpg",
+      "image_alt": "Gmelina arborea bark I IMG 3543.jpg"
+    },
+    {
+      "state": "Mizoram",
+      "state_slug": "mizoram",
+      "common_name": "Iron wood",
+      "binomial_name": "Mesua ferrea",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MesuaFerrea_IronWood.jpg/150px-MesuaFerrea_IronWood.jpg",
+      "image_alt": "MesuaFerrea IronWood.jpg"
+    },
+    {
+      "state": "Nagaland",
+      "state_slug": "nagaland",
+      "common_name": "Alder",
+      "binomial_name": "Alnus nepalensis",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Alnus_incana_rugosa_leaves.jpg/150px-Alnus_incana_rugosa_leaves.jpg",
+      "image_alt": "Alnus incana rugosa leaves.jpg"
+    },
+    {
+      "state": "Odisha",
+      "state_slug": "odisha",
+      "common_name": "Sacred fig (Ashwattha)",
+      "binomial_name": "Ficus religiosa",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ficus_religiosa_Bo.jpg/150px-Ficus_religiosa_Bo.jpg",
+      "image_alt": "Ficus religiosa Bo.jpg"
+    },
+    {
+      "state": "Puducherry",
+      "state_slug": "puducherry",
+      "common_name": "Bael fruit tree",
+      "binomial_name": "Aegle marmelos",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bael_%28Aegle_marmelos%29_tree_at_Narendrapur_W_IMG_4116.jpg/150px-Bael_%28Aegle_marmelos%29_tree_at_Narendrapur_W_IMG_4116.jpg",
+      "image_alt": "Bael (Aegle marmelos) tree at Narendrapur W IMG 4116.jpg"
+    },
+    {
+      "state": "Punjab",
+      "state_slug": "punjab",
+      "common_name": "Indian rosewood",
+      "binomial_name": "Dalbergia sissoo",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dalbergia_sissoo.jpg/150px-Dalbergia_sissoo.jpg",
+      "image_alt": "Dalbergia sissoo.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "state_slug": "rajasthan",
+      "common_name": "Khejri",
+      "binomial_name": "Prosopis cineraria",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jhand_%28Prosopis_cineraria%29_at_Hodal_W_IMG_1191.jpg/150px-Jhand_%28Prosopis_cineraria%29_at_Hodal_W_IMG_1191.jpg",
+      "image_alt": "Jhand (Prosopis cineraria) at Hodal W IMG 1191.jpg"
+    },
+    {
+      "state": "Sikkim",
+      "state_slug": "sikkim",
+      "common_name": "Rhododendron",
+      "binomial_name": "Rhododendron niveum",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rhododendron_niveum_-_University_of_Copenhagen_Botanical_Garden_-_DSC07606.JPG/150px-Rhododendron_niveum_-_University_of_Copenhagen_Botanical_Garden_-_DSC07606.JPG",
+      "image_alt": "Rhododendron niveum - University of Copenhagen Botanical Garden - DSC07606.JPG"
+    },
+    {
+      "state": "Tamil Nadu",
+      "state_slug": "tamil-nadu",
+      "common_name": "Palmyra palm",
+      "binomial_name": "Borassus",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/0/01/Borassus_flabellifer.jpg/150px-Borassus_flabellifer.jpg",
+      "image_alt": "Borassus flabellifer.jpg"
+    },
+    {
+      "state": "Telangana",
+      "state_slug": "telangana",
+      "common_name": "Jammi",
+      "binomial_name": "Prosopis cineraria",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jhand_%28Prosopis_cineraria%29_at_Hodal_W_IMG_1191.jpg/150px-Jhand_%28Prosopis_cineraria%29_at_Hodal_W_IMG_1191.jpg",
+      "image_alt": "Jhand (Prosopis cineraria) at Hodal W IMG 1191.jpg"
+    },
+    {
+      "state": "Tripura",
+      "state_slug": "tripura",
+      "common_name": "Agar",
+      "binomial_name": "Aquillaria agallocha",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Agarwood.jpg/150px-Agarwood.jpg",
+      "image_alt": "Agarwood.jpg"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "state_slug": "uttar-pradesh",
+      "common_name": "Ashoka",
+      "binomial_name": "Saraca asoca",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sita-Ashok_%28Saraca_asoca%29_leaves_%26_flowers_in_Kolkata_W_IMG_2272.jpg/150px-Sita-Ashok_%28Saraca_asoca%29_leaves_%26_flowers_in_Kolkata_W_IMG_2272.jpg",
+      "image_alt": "Sita-Ashok (Saraca asoca) leaves & flowers in Kolkata W IMG 2272.jpg"
+    },
+    {
+      "state": "Uttarakhand",
+      "state_slug": "uttarakhand",
+      "common_name": "Burans",
+      "binomial_name": "Rhododendron arboreum",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rhododendron_in_full_bloom%21_%288620051426%29.jpg/150px-Rhododendron_in_full_bloom%21_%288620051426%29.jpg",
+      "image_alt": "Rhododendron in full bloom! (8620051426).jpg"
+    },
+    {
+      "state": "West Bengal",
+      "state_slug": "west-bengal",
+      "common_name": "Alstonia , ছাতিম গাছ",
+      "binomial_name": "Alstonia scholaris",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/0/08/Alstonia_scholaris.jpg/150px-Alstonia_scholaris.jpg",
+      "image_alt": "Alstonia scholaris.jpg"
+    }
+  ],
+  "meta": {
+    "title": "भारत के राज्य वृक्ष (State Trees of India) - मुफ़्त डाउनलोड",
+    "description": "36 state and union-territory trees officially designated by Indian state governments, with common name, binomial scientific name, IUCN Red List category, contextual notes, and Wikimedia Commons image reference. शामिल हैं 36 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "भारत के राज्य वृक्ष (State Trees of India) | ListBase",
+    "seo_description": "डाउनलोड भारत के राज्य वृक्ष (State Trees of India) — 36 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 36 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

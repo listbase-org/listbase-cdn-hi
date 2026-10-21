@@ -1,0 +1,5466 @@
+{
+  "id": "hi-jharkhand-shahar",
+  "name": "झारखंड के शहर (Jharkhand Cities)",
+  "title": "झारखंड के शहर (Jharkhand Cities)",
+  "description": "झारखंड राज्य के 540 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 540 cities and towns in Jharkhand, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 540,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aiyar",
+      "name_lower": "aiyar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.683333,
+      "longitude": 85.75
+    },
+    {
+      "name": "Akbarpur",
+      "name_lower": "akbarpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 83.966667
+    },
+    {
+      "name": "Amda",
+      "name_lower": "amda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.75,
+      "longitude": 85.8
+    },
+    {
+      "name": "Amnari",
+      "name_lower": "amnari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.066667,
+      "longitude": 85.6
+    },
+    {
+      "name": "Amrapara",
+      "name_lower": "amrapara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.533333,
+      "longitude": 87.566667
+    },
+    {
+      "name": "Anandpur",
+      "name_lower": "anandpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.45,
+      "longitude": 85.166667
+    },
+    {
+      "name": "Andipor",
+      "name_lower": "andipor",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.716667,
+      "longitude": 86.533333
+    },
+    {
+      "name": "Andipur",
+      "name_lower": "andipur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.716667,
+      "longitude": 86.533333
+    },
+    {
+      "name": "Angara",
+      "name_lower": "angara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.4,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Anjan",
+      "name_lower": "anjan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.133333,
+      "longitude": 84.483333
+    },
+    {
+      "name": "Ankua",
+      "name_lower": "ankua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.3,
+      "longitude": 85.25
+    },
+    {
+      "name": "Asanbani",
+      "name_lower": "asanbani",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.116667,
+      "longitude": 87.45
+    },
+    {
+      "name": "Asansol",
+      "name_lower": "asansol",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.233333,
+      "longitude": 87.283333
+    },
+    {
+      "name": "Badia",
+      "name_lower": "badia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.483333,
+      "longitude": 86.466667
+    },
+    {
+      "name": "Badupur",
+      "name_lower": "badupur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.016667,
+      "longitude": 87.15
+    },
+    {
+      "name": "Bagodar",
+      "name_lower": "bagodar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 85.866667
+    },
+    {
+      "name": "Bagra",
+      "name_lower": "bagra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 11364,
+      "latitude": 23.733333,
+      "longitude": 86.316667
+    },
+    {
+      "name": "Bagrachura",
+      "name_lower": "bagrachura",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.333333,
+      "longitude": 86.683333
+    },
+    {
+      "name": "Baharagora",
+      "name_lower": "baharagora",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.283333,
+      "longitude": 86.716667
+    },
+    {
+      "name": "Baihatu",
+      "name_lower": "baihatu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.233333,
+      "longitude": 85.316667
+    },
+    {
+      "name": "Baipi",
+      "name_lower": "baipi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.533333,
+      "longitude": 85.583333
+    },
+    {
+      "name": "Bakra",
+      "name_lower": "bakra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.466667,
+      "longitude": 86.483333
+    },
+    {
+      "name": "Bakudi",
+      "name_lower": "bakudi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 87.783333
+    },
+    {
+      "name": "Balandia",
+      "name_lower": "balandia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.25,
+      "longitude": 85.8
+    },
+    {
+      "name": "Balumath",
+      "name_lower": "balumath",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.833333,
+      "longitude": 84.783333
+    },
+    {
+      "name": "Bamangawan",
+      "name_lower": "bamangawan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.233333,
+      "longitude": 86.816667
+    },
+    {
+      "name": "Bana",
+      "name_lower": "bana",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.7,
+      "longitude": 86.05
+    },
+    {
+      "name": "Banari",
+      "name_lower": "banari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.416667,
+      "longitude": 84.333333
+    },
+    {
+      "name": "Banaso",
+      "name_lower": "banaso",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.983333,
+      "longitude": 85.783333
+    },
+    {
+      "name": "Bandgaon",
+      "name_lower": "bandgaon",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.866667,
+      "longitude": 85.333333
+    },
+    {
+      "name": "Banduya",
+      "name_lower": "banduya",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.65,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Banjari",
+      "name_lower": "banjari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.666667,
+      "longitude": 83.983333
+    },
+    {
+      "name": "Banjhi",
+      "name_lower": "banjhi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 25.133333,
+      "longitude": 87.65
+    },
+    {
+      "name": "Banki",
+      "name_lower": "banki",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.333333,
+      "longitude": 85.45
+    },
+    {
+      "name": "Bano",
+      "name_lower": "bano",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.666667,
+      "longitude": 84.916667
+    },
+    {
+      "name": "Bansjora",
+      "name_lower": "bansjora",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.8,
+      "longitude": 86.35
+    },
+    {
+      "name": "Banskupi",
+      "name_lower": "banskupi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.166667,
+      "longitude": 86.683333
+    },
+    {
+      "name": "Bara",
+      "name_lower": "bara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.8,
+      "longitude": 86.233333
+    },
+    {
+      "name": "Bara Bana",
+      "name_lower": "bara bana",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.633333,
+      "longitude": 85.916667
+    },
+    {
+      "name": "Bara Bangurda",
+      "name_lower": "bara bangurda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.95,
+      "longitude": 86.4
+    },
+    {
+      "name": "Bara Boarijor",
+      "name_lower": "bara boarijor",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 25.066667,
+      "longitude": 87.483333
+    },
+    {
+      "name": "Bara Gamharia",
+      "name_lower": "bara gamharia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.816667,
+      "longitude": 86.1
+    },
+    {
+      "name": "Baraganda",
+      "name_lower": "baraganda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 86.066667
+    },
+    {
+      "name": "Baragunda",
+      "name_lower": "baragunda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 86.066667
+    },
+    {
+      "name": "Barakar",
+      "name_lower": "barakar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.116667,
+      "longitude": 86.233333
+    },
+    {
+      "name": "Barakatha",
+      "name_lower": "barakatha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.166667,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Baram",
+      "name_lower": "baram",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.95,
+      "longitude": 86.3
+    },
+    {
+      "name": "Baramasia",
+      "name_lower": "baramasia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.216667,
+      "longitude": 87.416667
+    },
+    {
+      "name": "Barasloia",
+      "name_lower": "barasloia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.716667,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Bardiha",
+      "name_lower": "bardiha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.366667,
+      "longitude": 83.716667
+    },
+    {
+      "name": "Barharwa",
+      "name_lower": "barharwa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 87.783333
+    },
+    {
+      "name": "Barhi",
+      "name_lower": "barhi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 10655,
+      "latitude": 24.3,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Barka Kana",
+      "name_lower": "barka kana",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 18184,
+      "latitude": 23.616667,
+      "longitude": 85.483333
+    },
+    {
+      "name": "Barkagaon",
+      "name_lower": "barkagaon",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.866667,
+      "longitude": 85.216667
+    },
+    {
+      "name": "Barki Saria",
+      "name_lower": "barki saria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.166667,
+      "longitude": 85.883333
+    },
+    {
+      "name": "Barkute",
+      "name_lower": "barkute",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.883333,
+      "longitude": 84.966667
+    },
+    {
+      "name": "Baruhatu",
+      "name_lower": "baruhatu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.9,
+      "longitude": 85.7
+    },
+    {
+      "name": "Barwadih",
+      "name_lower": "barwadih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 7402,
+      "latitude": 23.833333,
+      "longitude": 84.116667
+    },
+    {
+      "name": "Basia",
+      "name_lower": "basia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.883333,
+      "longitude": 84.833333
+    },
+    {
+      "name": "Benagaria",
+      "name_lower": "benagaria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.316667,
+      "longitude": 86.616667
+    },
+    {
+      "name": "Bengabad",
+      "name_lower": "bengabad",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.3,
+      "longitude": 86.35
+    },
+    {
+      "name": "Berhait",
+      "name_lower": "berhait",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.883333,
+      "longitude": 87.616667
+    },
+    {
+      "name": "Bero",
+      "name_lower": "bero",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.3,
+      "longitude": 85.033333
+    },
+    {
+      "name": "Bero Kalan",
+      "name_lower": "bero kalan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 85.7
+    },
+    {
+      "name": "Bhadua",
+      "name_lower": "bhadua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.466667,
+      "longitude": 86.483333
+    },
+    {
+      "name": "Bhagaiya",
+      "name_lower": "bhagaiya",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 87.483333
+    },
+    {
+      "name": "Bhandra",
+      "name_lower": "bhandra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.35,
+      "longitude": 84.8
+    },
+    {
+      "name": "Bharbharia",
+      "name_lower": "bharbharia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.333333,
+      "longitude": 85.933333
+    },
+    {
+      "name": "Bharno",
+      "name_lower": "bharno",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.233333,
+      "longitude": 84.883333
+    },
+    {
+      "name": "Bhaunathpur",
+      "name_lower": "bhaunathpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.4,
+      "longitude": 83.583333
+    },
+    {
+      "name": "Bhetia",
+      "name_lower": "bhetia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.8,
+      "longitude": 86.15
+    },
+    {
+      "name": "Bhojudih",
+      "name_lower": "bhojudih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 9110,
+      "latitude": 23.633333,
+      "longitude": 86.45
+    },
+    {
+      "name": "Bhowra",
+      "name_lower": "bhowra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.716667,
+      "longitude": 86.4
+    },
+    {
+      "name": "Bhoya",
+      "name_lower": "bhoya",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.666667,
+      "longitude": 85.8
+    },
+    {
+      "name": "Bhurkunda",
+      "name_lower": "bhurkunda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.65,
+      "longitude": 85.35
+    },
+    {
+      "name": "Biru",
+      "name_lower": "biru",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.683333,
+      "longitude": 84.55
+    },
+    {
+      "name": "Bishungarh",
+      "name_lower": "bishungarh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.016667,
+      "longitude": 85.75
+    },
+    {
+      "name": "Bishunpur",
+      "name_lower": "bishunpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.383333,
+      "longitude": 84.383333
+    },
+    {
+      "name": "Bisrampur",
+      "name_lower": "bisrampur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.25,
+      "longitude": 83.933333
+    },
+    {
+      "name": "Bokaro",
+      "name_lower": "bokaro",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 418578,
+      "latitude": 23.783333,
+      "longitude": 85.966667
+    },
+    {
+      "name": "Bolba",
+      "name_lower": "bolba",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.433333,
+      "longitude": 84.366667
+    },
+    {
+      "name": "Borio",
+      "name_lower": "borio",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 87.583333
+    },
+    {
+      "name": "Bundu",
+      "name_lower": "bundu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 19469,
+      "latitude": 23.183333,
+      "longitude": 85.583333
+    },
+    {
+      "name": "Burhai",
+      "name_lower": "burhai",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.366667,
+      "longitude": 86.55
+    },
+    {
+      "name": "Burmu",
+      "name_lower": "burmu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.566667,
+      "longitude": 85.133333
+    },
+    {
+      "name": "Chaibasa",
+      "name_lower": "chaibasa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 66259,
+      "latitude": 22.566667,
+      "longitude": 85.816667
+    },
+    {
+      "name": "Chainpur",
+      "name_lower": "chainpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.016667,
+      "longitude": 86.066667
+    },
+    {
+      "name": "Chakardharpore",
+      "name_lower": "chakardharpore",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.7,
+      "longitude": 85.633333
+    },
+    {
+      "name": "Chakradharpur",
+      "name_lower": "chakradharpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 40604,
+      "latitude": 22.7,
+      "longitude": 85.633333
+    },
+    {
+      "name": "Chakuha",
+      "name_lower": "chakuha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.483333,
+      "longitude": 86.716667
+    },
+    {
+      "name": "Chakulia",
+      "name_lower": "chakulia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 14953,
+      "latitude": 22.483333,
+      "longitude": 86.716667
+    },
+    {
+      "name": "Champua",
+      "name_lower": "champua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 9488,
+      "latitude": 22.083333,
+      "longitude": 85.666667
+    },
+    {
+      "name": "Chandauri",
+      "name_lower": "chandauri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 86.05
+    },
+    {
+      "name": "Chandil",
+      "name_lower": "chandil",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 4657,
+      "latitude": 22.966667,
+      "longitude": 86.05
+    },
+    {
+      "name": "Chandwa",
+      "name_lower": "chandwa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.683333,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Chaparia",
+      "name_lower": "chaparia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 86.9
+    },
+    {
+      "name": "Chapram",
+      "name_lower": "chapram",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.783333,
+      "longitude": 86.516667
+    },
+    {
+      "name": "Chapri",
+      "name_lower": "chapri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.616667,
+      "longitude": 86.4
+    },
+    {
+      "name": "Charakmara",
+      "name_lower": "charakmara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.283333,
+      "longitude": 86.683333
+    },
+    {
+      "name": "Charhi",
+      "name_lower": "charhi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.85,
+      "longitude": 85.45
+    },
+    {
+      "name": "Chas",
+      "name_lower": "chas",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 112153,
+      "latitude": 23.633333,
+      "longitude": 86.166667
+    },
+    {
+      "name": "Chasnala",
+      "name_lower": "chasnala",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.666667,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Chataktoli",
+      "name_lower": "chataktoli",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.633333,
+      "longitude": 84.85
+    },
+    {
+      "name": "Chatra",
+      "name_lower": "chatra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 46849,
+      "latitude": 24.216667,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Chaube",
+      "name_lower": "chaube",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.233333,
+      "longitude": 85.816667
+    },
+    {
+      "name": "Chauparan",
+      "name_lower": "chauparan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.383333,
+      "longitude": 85.25
+    },
+    {
+      "name": "Chetro",
+      "name_lower": "chetro",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.466667,
+      "longitude": 86.25
+    },
+    {
+      "name": "Chhatarpur",
+      "name_lower": "chhatarpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.383333,
+      "longitude": 84.183333
+    },
+    {
+      "name": "Chhota Luia",
+      "name_lower": "chhota luia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.383333,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Chhota Nagra",
+      "name_lower": "chhota nagra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.233333,
+      "longitude": 85.3
+    },
+    {
+      "name": "Chichra",
+      "name_lower": "chichra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.316667,
+      "longitude": 86.883333
+    },
+    {
+      "name": "Chiria",
+      "name_lower": "chiria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 3947,
+      "latitude": 22.3,
+      "longitude": 85.266667
+    },
+    {
+      "name": "Chirki",
+      "name_lower": "chirki",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 86.15
+    },
+    {
+      "name": "Chitarpur",
+      "name_lower": "chitarpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.566667,
+      "longitude": 85.65
+    },
+    {
+      "name": "Choparan",
+      "name_lower": "choparan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.383333,
+      "longitude": 85.25
+    },
+    {
+      "name": "Chordaha",
+      "name_lower": "chordaha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 85.166667
+    },
+    {
+      "name": "Chordahd",
+      "name_lower": "chordahd",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 85.166667
+    },
+    {
+      "name": "Chordiha",
+      "name_lower": "chordiha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.55,
+      "longitude": 85.433333
+    },
+    {
+      "name": "Chorkata",
+      "name_lower": "chorkata",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.266667,
+      "longitude": 87.083333
+    },
+    {
+      "name": "Chota Nagra",
+      "name_lower": "chota nagra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.233333,
+      "longitude": 85.3
+    },
+    {
+      "name": "Choutupal",
+      "name_lower": "choutupal",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.566667,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Chutupalu",
+      "name_lower": "chutupalu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.566667,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Daltenganj",
+      "name_lower": "daltenganj",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 77712,
+      "latitude": 24.033333,
+      "longitude": 84.066667
+    },
+    {
+      "name": "Daltonganj",
+      "name_lower": "daltonganj",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.033333,
+      "longitude": 84.066667
+    },
+    {
+      "name": "Danua",
+      "name_lower": "danua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 85.183333
+    },
+    {
+      "name": "Daru Kharika",
+      "name_lower": "daru kharika",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.016667,
+      "longitude": 85.55
+    },
+    {
+      "name": "Debinagar",
+      "name_lower": "debinagar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.416667,
+      "longitude": 87.633333
+    },
+    {
+      "name": "Deogarh",
+      "name_lower": "deogarh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 86.7
+    },
+    {
+      "name": "Deoghar",
+      "name_lower": "deoghar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 86.7
+    },
+    {
+      "name": "Deuli",
+      "name_lower": "deuli",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.566667,
+      "longitude": 86.216667
+    },
+    {
+      "name": "Dhab",
+      "name_lower": "dhab",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.583333,
+      "longitude": 85.766667
+    },
+    {
+      "name": "Dhamni",
+      "name_lower": "dhamni",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.783333,
+      "longitude": 87.483333
+    },
+    {
+      "name": "Dhanabad",
+      "name_lower": "dhanabad",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.8,
+      "longitude": 86.45
+    },
+    {
+      "name": "Dhanbad",
+      "name_lower": "dhanbad",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 219660,
+      "latitude": 23.8,
+      "longitude": 86.45
+    },
+    {
+      "name": "Dhanbaid",
+      "name_lower": "dhanbaid",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.8,
+      "longitude": 86.45
+    },
+    {
+      "name": "Dhangain",
+      "name_lower": "dhangain",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.4,
+      "longitude": 84.933333
+    },
+    {
+      "name": "Dhanwar",
+      "name_lower": "dhanwar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 8512,
+      "latitude": 24.416667,
+      "longitude": 85.983333
+    },
+    {
+      "name": "Dhenga-am",
+      "name_lower": "dhenga-am",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.466667,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Dhobani",
+      "name_lower": "dhobani",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.5,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Dhowa",
+      "name_lower": "dhowa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 86.9
+    },
+    {
+      "name": "Dhuraia",
+      "name_lower": "dhuraia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.983333,
+      "longitude": 87.133333
+    },
+    {
+      "name": "Digardih",
+      "name_lower": "digardih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 86.416667
+    },
+    {
+      "name": "Digwadih",
+      "name_lower": "digwadih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 86.416667
+    },
+    {
+      "name": "Domchanch",
+      "name_lower": "domchanch",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 85.7
+    },
+    {
+      "name": "Dublabera",
+      "name_lower": "dublabera",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.483333,
+      "longitude": 86.283333
+    },
+    {
+      "name": "Dudha Pat",
+      "name_lower": "dudha pat",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.416667,
+      "longitude": 84.516667
+    },
+    {
+      "name": "Dugda",
+      "name_lower": "dugda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 20402,
+      "latitude": 23.75,
+      "longitude": 86.166667
+    },
+    {
+      "name": "Dumdumi",
+      "name_lower": "dumdumi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.9,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Dumka",
+      "name_lower": "dumka",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 47668,
+      "latitude": 24.266667,
+      "longitude": 87.25
+    },
+    {
+      "name": "Dumri",
+      "name_lower": "dumri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.983333,
+      "longitude": 86.016667
+    },
+    {
+      "name": "Durgapur",
+      "name_lower": "durgapur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 87.733333
+    },
+    {
+      "name": "Duria",
+      "name_lower": "duria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.133333,
+      "longitude": 84.85
+    },
+    {
+      "name": "Gamaria",
+      "name_lower": "gamaria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.816667,
+      "longitude": 86.1
+    },
+    {
+      "name": "Gamharia",
+      "name_lower": "gamharia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.816667,
+      "longitude": 86.1
+    },
+    {
+      "name": "Gande",
+      "name_lower": "gande",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.166667,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Gangadih",
+      "name_lower": "gangadih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 85.766667
+    },
+    {
+      "name": "Gangpur",
+      "name_lower": "gangpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.166667,
+      "longitude": 85.083333
+    },
+    {
+      "name": "Gargi",
+      "name_lower": "gargi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.3,
+      "longitude": 85.766667
+    },
+    {
+      "name": "Garu",
+      "name_lower": "garu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.666667,
+      "longitude": 84.233333
+    },
+    {
+      "name": "Garwa",
+      "name_lower": "garwa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 40666,
+      "latitude": 24.183333,
+      "longitude": 83.816667
+    },
+    {
+      "name": "Gawan",
+      "name_lower": "gawan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.616667,
+      "longitude": 85.916667
+    },
+    {
+      "name": "Getalsud",
+      "name_lower": "getalsud",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.45,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Ghaghra",
+      "name_lower": "ghaghra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.283333,
+      "longitude": 84.55
+    },
+    {
+      "name": "Ghagidih",
+      "name_lower": "ghagidih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.75,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Ghagra",
+      "name_lower": "ghagra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.283333,
+      "longitude": 84.55
+    },
+    {
+      "name": "Ghatkori",
+      "name_lower": "ghatkori",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.3,
+      "longitude": 85.383333
+    },
+    {
+      "name": "Ghatkuri",
+      "name_lower": "ghatkuri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.3,
+      "longitude": 85.383333
+    },
+    {
+      "name": "Ghatshila",
+      "name_lower": "ghatshila",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.6,
+      "longitude": 86.483333
+    },
+    {
+      "name": "Ghatsila",
+      "name_lower": "ghatsila",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 40022,
+      "latitude": 22.6,
+      "longitude": 86.483333
+    },
+    {
+      "name": "Gholjor Bara",
+      "name_lower": "gholjor bara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.95,
+      "longitude": 87.1
+    },
+    {
+      "name": "Ginjo Thakurgaon",
+      "name_lower": "ginjo thakurgaon",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.516667,
+      "longitude": 85.166667
+    },
+    {
+      "name": "Giridih",
+      "name_lower": "giridih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.183333,
+      "longitude": 86.3
+    },
+    {
+      "name": "Gobindpur",
+      "name_lower": "gobindpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 27069,
+      "latitude": 22.633333,
+      "longitude": 86.066667
+    },
+    {
+      "name": "Godda",
+      "name_lower": "godda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 43663,
+      "latitude": 24.833333,
+      "longitude": 87.216667
+    },
+    {
+      "name": "Goilkera",
+      "name_lower": "goilkera",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.533333,
+      "longitude": 85.383333
+    },
+    {
+      "name": "Gola",
+      "name_lower": "gola",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.55,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Gomoh",
+      "name_lower": "gomoh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 31398,
+      "latitude": 23.866667,
+      "longitude": 86.166667
+    },
+    {
+      "name": "Gopalpur",
+      "name_lower": "gopalpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.833333,
+      "longitude": 87.8
+    },
+    {
+      "name": "Gopapur",
+      "name_lower": "gopapur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.833333,
+      "longitude": 87.8
+    },
+    {
+      "name": "Gopikandar",
+      "name_lower": "gopikandar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 87.483333
+    },
+    {
+      "name": "Gopinathpur",
+      "name_lower": "gopinathpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 5255,
+      "latitude": 22.65,
+      "longitude": 86.066667
+    },
+    {
+      "name": "Gorhar",
+      "name_lower": "gorhar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.116667,
+      "longitude": 85.683333
+    },
+    {
+      "name": "Gua",
+      "name_lower": "gua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 11390,
+      "latitude": 22.2,
+      "longitude": 85.383333
+    },
+    {
+      "name": "Gudri",
+      "name_lower": "gudri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.666667,
+      "longitude": 85.2
+    },
+    {
+      "name": "Gujhandi",
+      "name_lower": "gujhandi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 85.466667
+    },
+    {
+      "name": "Gulu",
+      "name_lower": "gulu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.583333,
+      "longitude": 85.083333
+    },
+    {
+      "name": "Gumia",
+      "name_lower": "gumia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 47127,
+      "latitude": 23.783333,
+      "longitude": 85.816667
+    },
+    {
+      "name": "Haidarnagar",
+      "name_lower": "haidarnagar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 83.95
+    },
+    {
+      "name": "Haludpukhur",
+      "name_lower": "haludpukhur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.616667,
+      "longitude": 86.15
+    },
+    {
+      "name": "Hariharganj",
+      "name_lower": "hariharganj",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.55,
+      "longitude": 84.283333
+    },
+    {
+      "name": "Hariharpur",
+      "name_lower": "hariharpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 86.9
+    },
+    {
+      "name": "Hariharpur-Dumka",
+      "name_lower": "hariharpur-dumka",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 86.9
+    },
+    {
+      "name": "Hariladih",
+      "name_lower": "hariladih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.733333,
+      "longitude": 86.4
+    },
+    {
+      "name": "Hasdiha",
+      "name_lower": "hasdiha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 87.083333
+    },
+    {
+      "name": "Hat Gamaria",
+      "name_lower": "hat gamaria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.283333,
+      "longitude": 85.75
+    },
+    {
+      "name": "Hatia",
+      "name_lower": "hatia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.3,
+      "longitude": 85.3
+    },
+    {
+      "name": "Hazaribag",
+      "name_lower": "hazaribag",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 140079,
+      "latitude": 23.983333,
+      "longitude": 85.35
+    },
+    {
+      "name": "Hazaribagh",
+      "name_lower": "hazaribagh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.983333,
+      "longitude": 85.35
+    },
+    {
+      "name": "Hazarybaugh",
+      "name_lower": "hazarybaugh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.983333,
+      "longitude": 85.35
+    },
+    {
+      "name": "Herhanj",
+      "name_lower": "herhanj",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.933333,
+      "longitude": 84.65
+    },
+    {
+      "name": "Hesadi",
+      "name_lower": "hesadi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.8,
+      "longitude": 85.35
+    },
+    {
+      "name": "Hesal",
+      "name_lower": "hesal",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.616667,
+      "longitude": 86.133333
+    },
+    {
+      "name": "Hesalong",
+      "name_lower": "hesalong",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.666667,
+      "longitude": 84.95
+    },
+    {
+      "name": "Hesla",
+      "name_lower": "hesla",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 6286,
+      "latitude": 24.066667,
+      "longitude": 85.883333
+    },
+    {
+      "name": "Hiranpur",
+      "name_lower": "hiranpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.7,
+      "longitude": 87.7
+    },
+    {
+      "name": "Hirodih",
+      "name_lower": "hirodih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.383333,
+      "longitude": 85.583333
+    },
+    {
+      "name": "Hundru",
+      "name_lower": "hundru",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.45,
+      "longitude": 85.65
+    },
+    {
+      "name": "Hunterganj",
+      "name_lower": "hunterganj",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 84.816667
+    },
+    {
+      "name": "Husainabad",
+      "name_lower": "husainabad",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 26187,
+      "latitude": 24.533333,
+      "longitude": 84.016667
+    },
+    {
+      "name": "Hutar",
+      "name_lower": "hutar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.816667,
+      "longitude": 84.033333
+    },
+    {
+      "name": "Ichak",
+      "name_lower": "ichak",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Iligara",
+      "name_lower": "iligara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.316667,
+      "longitude": 85.75
+    },
+    {
+      "name": "Itkhari",
+      "name_lower": "itkhari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.283333,
+      "longitude": 85.166667
+    },
+    {
+      "name": "Itkhori",
+      "name_lower": "itkhori",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.283333,
+      "longitude": 85.166667
+    },
+    {
+      "name": "Jabra",
+      "name_lower": "jabra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.016667,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Jagannathpur",
+      "name_lower": "jagannathpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 7020,
+      "latitude": 22.233333,
+      "longitude": 85.65
+    },
+    {
+      "name": "Jainagar",
+      "name_lower": "jainagar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.366667,
+      "longitude": 85.65
+    },
+    {
+      "name": "Jaintgarh",
+      "name_lower": "jaintgarh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.1,
+      "longitude": 85.683333
+    },
+    {
+      "name": "Jalasar",
+      "name_lower": "jalasar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.783333,
+      "longitude": 85.166667
+    },
+    {
+      "name": "Jaldega",
+      "name_lower": "jaldega",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.583333,
+      "longitude": 84.816667
+    },
+    {
+      "name": "Jamadoba",
+      "name_lower": "jamadoba",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 34778,
+      "latitude": 23.716667,
+      "longitude": 86.4
+    },
+    {
+      "name": "Jamda",
+      "name_lower": "jamda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.183333,
+      "longitude": 85.433333
+    },
+    {
+      "name": "Jamshedpur",
+      "name_lower": "jamshedpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 616404,
+      "latitude": 22.8,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Jamtara",
+      "name_lower": "jamtara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 24391,
+      "latitude": 23.95,
+      "longitude": 86.8
+    },
+    {
+      "name": "Jaraikela",
+      "name_lower": "jaraikela",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.316667,
+      "longitude": 85.133333
+    },
+    {
+      "name": "Jaratoli",
+      "name_lower": "jaratoli",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.866667,
+      "longitude": 84.716667
+    },
+    {
+      "name": "Jaridih",
+      "name_lower": "jaridih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.633333,
+      "longitude": 86.066667
+    },
+    {
+      "name": "Jarmundi",
+      "name_lower": "jarmundi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.4,
+      "longitude": 87.05
+    },
+    {
+      "name": "Jarnshedpur",
+      "name_lower": "jarnshedpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.8,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Jasidih",
+      "name_lower": "jasidih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 16339,
+      "latitude": 24.516667,
+      "longitude": 86.65
+    },
+    {
+      "name": "Jealgora",
+      "name_lower": "jealgora",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 86.416667
+    },
+    {
+      "name": "Jetia",
+      "name_lower": "jetia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.25,
+      "longitude": 85.55
+    },
+    {
+      "name": "Jhajhara",
+      "name_lower": "jhajhara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.766667,
+      "longitude": 85.566667
+    },
+    {
+      "name": "Jhalpo",
+      "name_lower": "jhalpo",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.416667,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Jharia",
+      "name_lower": "jharia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 86947,
+      "latitude": 23.75,
+      "longitude": 86.4
+    },
+    {
+      "name": "Jharki",
+      "name_lower": "jharki",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.516667,
+      "longitude": 85.5
+    },
+    {
+      "name": "Jhumri",
+      "name_lower": "jhumri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 85.55
+    },
+    {
+      "name": "Jhumri Telaiya",
+      "name_lower": "jhumri telaiya",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Jhumri Tellaya",
+      "name_lower": "jhumri tellaya",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Jialgara",
+      "name_lower": "jialgara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 86.416667
+    },
+    {
+      "name": "Jojohatu",
+      "name_lower": "jojohatu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.516667,
+      "longitude": 85.633333
+    },
+    {
+      "name": "Jonha",
+      "name_lower": "jonha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.383333,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Jopla",
+      "name_lower": "jopla",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.533333,
+      "longitude": 84.016667
+    },
+    {
+      "name": "Jordiha",
+      "name_lower": "jordiha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.783333,
+      "longitude": 87.55
+    },
+    {
+      "name": "Jori",
+      "name_lower": "jori",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.316667,
+      "longitude": 84.8
+    },
+    {
+      "name": "Jori Kalan",
+      "name_lower": "jori kalan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.316667,
+      "longitude": 84.8
+    },
+    {
+      "name": "Jugsalai",
+      "name_lower": "jugsalai",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 49411,
+      "latitude": 22.766667,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Jumri Tilaiya",
+      "name_lower": "jumri tilaiya",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Kadalgori",
+      "name_lower": "kadalgori",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.333333,
+      "longitude": 84.95
+    },
+    {
+      "name": "Kairabani",
+      "name_lower": "kairabani",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.133333,
+      "longitude": 87.033333
+    },
+    {
+      "name": "Kalaia",
+      "name_lower": "kalaia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.166667,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Kalamati",
+      "name_lower": "kalamati",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.216667,
+      "longitude": 85.3
+    },
+    {
+      "name": "Kalikapur",
+      "name_lower": "kalikapur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 4061,
+      "latitude": 22.616667,
+      "longitude": 86.283333
+    },
+    {
+      "name": "Kamdara",
+      "name_lower": "kamdara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.916667,
+      "longitude": 84.933333
+    },
+    {
+      "name": "Kamdera",
+      "name_lower": "kamdera",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.916667,
+      "longitude": 84.933333
+    },
+    {
+      "name": "Kandra",
+      "name_lower": "kandra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 6902,
+      "latitude": 22.85,
+      "longitude": 86.05
+    },
+    {
+      "name": "Kanke",
+      "name_lower": "kanke",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 16714,
+      "latitude": 23.433333,
+      "longitude": 85.316667
+    },
+    {
+      "name": "Kanko",
+      "name_lower": "kanko",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.85,
+      "longitude": 86.316667
+    },
+    {
+      "name": "Karaikela",
+      "name_lower": "karaikela",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.716667,
+      "longitude": 85.55
+    },
+    {
+      "name": "Karbindha",
+      "name_lower": "karbindha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.416667,
+      "longitude": 87.3
+    },
+    {
+      "name": "Karihari",
+      "name_lower": "karihari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 86.033333
+    },
+    {
+      "name": "Karma",
+      "name_lower": "karma",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.233333,
+      "longitude": 85.233333
+    },
+    {
+      "name": "Karmatanr",
+      "name_lower": "karmatanr",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 86.7
+    },
+    {
+      "name": "Karon",
+      "name_lower": "karon",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.116667,
+      "longitude": 86.733333
+    },
+    {
+      "name": "Karra",
+      "name_lower": "karra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.133333,
+      "longitude": 85.133333
+    },
+    {
+      "name": "Katikund",
+      "name_lower": "katikund",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.366667,
+      "longitude": 87.416667
+    },
+    {
+      "name": "Katkamsari",
+      "name_lower": "katkamsari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.116667,
+      "longitude": 85.2
+    },
+    {
+      "name": "Katras",
+      "name_lower": "katras",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 57355,
+      "latitude": 23.8,
+      "longitude": 86.283333
+    },
+    {
+      "name": "Kendadih",
+      "name_lower": "kendadih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.6,
+      "longitude": 86.416667
+    },
+    {
+      "name": "Kendghata",
+      "name_lower": "kendghata",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 87.166667
+    },
+    {
+      "name": "Kendposi",
+      "name_lower": "kendposi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.3,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Kendua",
+      "name_lower": "kendua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.266667,
+      "longitude": 85.6
+    },
+    {
+      "name": "Kenduadih",
+      "name_lower": "kenduadih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 9033,
+      "latitude": 23.783333,
+      "longitude": 86.383333
+    },
+    {
+      "name": "Kenduahi",
+      "name_lower": "kenduahi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 85.183333
+    },
+    {
+      "name": "Kenduyadih",
+      "name_lower": "kenduyadih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.733333,
+      "longitude": 86.383333
+    },
+    {
+      "name": "Kerh",
+      "name_lower": "kerh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.833333,
+      "longitude": 84.233333
+    },
+    {
+      "name": "Khajuri",
+      "name_lower": "khajuri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.55,
+      "longitude": 86.083333
+    },
+    {
+      "name": "Khalari",
+      "name_lower": "khalari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.633333,
+      "longitude": 85
+    },
+    {
+      "name": "Kharagdiha",
+      "name_lower": "kharagdiha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.416667,
+      "longitude": 86.166667
+    },
+    {
+      "name": "Khargo",
+      "name_lower": "khargo",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 85.833333
+    },
+    {
+      "name": "Khariadih",
+      "name_lower": "khariadih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.5,
+      "longitude": 86.3
+    },
+    {
+      "name": "Kharsawan",
+      "name_lower": "kharsawan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 7217,
+      "latitude": 22.8,
+      "longitude": 85.833333
+    },
+    {
+      "name": "Kharsawangarh",
+      "name_lower": "kharsawangarh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.8,
+      "longitude": 85.833333
+    },
+    {
+      "name": "Khunti",
+      "name_lower": "khunti",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 31370,
+      "latitude": 23.083333,
+      "longitude": 85.283333
+    },
+    {
+      "name": "Kochedega",
+      "name_lower": "kochedega",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.65,
+      "longitude": 84.416667
+    },
+    {
+      "name": "Kochidega",
+      "name_lower": "kochidega",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.65,
+      "longitude": 84.416667
+    },
+    {
+      "name": "Kodarma",
+      "name_lower": "kodarma",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 19182,
+      "latitude": 24.433333,
+      "longitude": 85.516667
+    },
+    {
+      "name": "Kodolibad",
+      "name_lower": "kodolibad",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.166667,
+      "longitude": 85.216667
+    },
+    {
+      "name": "Koiridih",
+      "name_lower": "koiridih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.133333,
+      "longitude": 86
+    },
+    {
+      "name": "Kokcho",
+      "name_lower": "kokcho",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.45,
+      "longitude": 85.916667
+    },
+    {
+      "name": "Kokpara",
+      "name_lower": "kokpara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.466667,
+      "longitude": 86.6
+    },
+    {
+      "name": "Kokpara Narsinghgarh",
+      "name_lower": "kokpara narsinghgarh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.516667,
+      "longitude": 86.55
+    },
+    {
+      "name": "Kolebira",
+      "name_lower": "kolebira",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.716667,
+      "longitude": 84.7
+    },
+    {
+      "name": "Kolkole Kalan",
+      "name_lower": "kolkole kalan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.166667,
+      "longitude": 84.733333
+    },
+    {
+      "name": "Komordungi",
+      "name_lower": "komordungi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.233333,
+      "longitude": 85.883333
+    },
+    {
+      "name": "Korid",
+      "name_lower": "korid",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.883333,
+      "longitude": 84.466667
+    },
+    {
+      "name": "Kotalbari",
+      "name_lower": "kotalbari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 87.783333
+    },
+    {
+      "name": "Kotgarh",
+      "name_lower": "kotgarh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.216667,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Kotgod",
+      "name_lower": "kotgod",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.216667,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Kothi",
+      "name_lower": "kothi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.383333,
+      "longitude": 84.533333
+    },
+    {
+      "name": "Kowar",
+      "name_lower": "kowar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.216667,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Kuchai",
+      "name_lower": "kuchai",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.85,
+      "longitude": 85.75
+    },
+    {
+      "name": "Kudada",
+      "name_lower": "kudada",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.7,
+      "longitude": 86.2
+    },
+    {
+      "name": "Kudarsahi",
+      "name_lower": "kudarsahi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.466667,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Kuju",
+      "name_lower": "kuju",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 19392,
+      "latitude": 23.716667,
+      "longitude": 85.5
+    },
+    {
+      "name": "Kumarkela",
+      "name_lower": "kumarkela",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.2,
+      "longitude": 84.583333
+    },
+    {
+      "name": "Kumarkera",
+      "name_lower": "kumarkera",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.2,
+      "longitude": 84.583333
+    },
+    {
+      "name": "Kumrabad",
+      "name_lower": "kumrabad",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.166667,
+      "longitude": 87.266667
+    },
+    {
+      "name": "Kunda",
+      "name_lower": "kunda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.216667,
+      "longitude": 84.666667
+    },
+    {
+      "name": "Kundahit",
+      "name_lower": "kundahit",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.966667,
+      "longitude": 87.166667
+    },
+    {
+      "name": "Kundri",
+      "name_lower": "kundri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 84.266667
+    },
+    {
+      "name": "Kuru",
+      "name_lower": "kuru",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.55,
+      "longitude": 84.816667
+    },
+    {
+      "name": "Kuruskela",
+      "name_lower": "kuruskela",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.783333,
+      "longitude": 84.533333
+    },
+    {
+      "name": "Kusunda",
+      "name_lower": "kusunda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.766667,
+      "longitude": 86.383333
+    },
+    {
+      "name": "Kutipi",
+      "name_lower": "kutipi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.65,
+      "longitude": 85.383333
+    },
+    {
+      "name": "Kutka",
+      "name_lower": "kutka",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 83.983333
+    },
+    {
+      "name": "Kutku",
+      "name_lower": "kutku",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 83.983333
+    },
+    {
+      "name": "Kuyali",
+      "name_lower": "kuyali",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.516667,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Lachmipui",
+      "name_lower": "lachmipui",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.5,
+      "longitude": 87.133333
+    },
+    {
+      "name": "Lachmipur",
+      "name_lower": "lachmipur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.5,
+      "longitude": 87.133333
+    },
+    {
+      "name": "Lachragarh",
+      "name_lower": "lachragarh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.633333,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Lakra",
+      "name_lower": "lakra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.366667,
+      "longitude": 87.2
+    },
+    {
+      "name": "Lakra Dewani",
+      "name_lower": "lakra dewani",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.366667,
+      "longitude": 87.2
+    },
+    {
+      "name": "Lango",
+      "name_lower": "lango",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.483333,
+      "longitude": 86.3
+    },
+    {
+      "name": "Langratoli",
+      "name_lower": "langratoli",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.95,
+      "longitude": 84.933333
+    },
+    {
+      "name": "Lara Toli",
+      "name_lower": "lara toli",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.95,
+      "longitude": 84.933333
+    },
+    {
+      "name": "Latehar",
+      "name_lower": "latehar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 20771,
+      "latitude": 23.75,
+      "longitude": 84.5
+    },
+    {
+      "name": "Laurhia Khurd",
+      "name_lower": "laurhia khurd",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 87.066667
+    },
+    {
+      "name": "Laurhia Khuro",
+      "name_lower": "laurhia khuro",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 87.066667
+    },
+    {
+      "name": "Leslieganj",
+      "name_lower": "leslieganj",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 84.216667
+    },
+    {
+      "name": "Limgachi",
+      "name_lower": "limgachi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 87.75
+    },
+    {
+      "name": "Litipara",
+      "name_lower": "litipara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.7,
+      "longitude": 87.616667
+    },
+    {
+      "name": "Lodhma",
+      "name_lower": "lodhma",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.233333,
+      "longitude": 85.2
+    },
+    {
+      "name": "Lodhna",
+      "name_lower": "lodhna",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.866667,
+      "longitude": 86.783333
+    },
+    {
+      "name": "Lodna",
+      "name_lower": "lodna",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.716667,
+      "longitude": 86.416667
+    },
+    {
+      "name": "Logai",
+      "name_lower": "logai",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 87.583333
+    },
+    {
+      "name": "Lohajimi",
+      "name_lower": "lohajimi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.833333,
+      "longitude": 85.116667
+    },
+    {
+      "name": "Lohardaga",
+      "name_lower": "lohardaga",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 53037,
+      "latitude": 23.433333,
+      "longitude": 84.683333
+    },
+    {
+      "name": "Lohpiti",
+      "name_lower": "lohpiti",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.733333,
+      "longitude": 86.2
+    },
+    {
+      "name": "Lowalang",
+      "name_lower": "lowalang",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 84.75
+    },
+    {
+      "name": "Luia",
+      "name_lower": "luia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.383333,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Machkar",
+      "name_lower": "machkar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.733333,
+      "longitude": 87.083333
+    },
+    {
+      "name": "Madhupur",
+      "name_lower": "madhupur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 50677,
+      "latitude": 24.25,
+      "longitude": 86.65
+    },
+    {
+      "name": "Mahade Pur",
+      "name_lower": "mahade pur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 87.733333
+    },
+    {
+      "name": "Mahadebpur",
+      "name_lower": "mahadebpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 87.733333
+    },
+    {
+      "name": "Mahagama",
+      "name_lower": "mahagama",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 87.316667
+    },
+    {
+      "name": "Mahesa",
+      "name_lower": "mahesa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.216667,
+      "longitude": 85.283333
+    },
+    {
+      "name": "Maheshmunda",
+      "name_lower": "maheshmunda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.216667,
+      "longitude": 86.4
+    },
+    {
+      "name": "Mahudi",
+      "name_lower": "mahudi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.133333,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Mahulia",
+      "name_lower": "mahulia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.65,
+      "longitude": 86.4
+    },
+    {
+      "name": "Mailpir",
+      "name_lower": "mailpir",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.8,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Majhgaon",
+      "name_lower": "majhgaon",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.1,
+      "longitude": 85.883333
+    },
+    {
+      "name": "Majhiaon",
+      "name_lower": "majhiaon",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.333333,
+      "longitude": 83.816667
+    },
+    {
+      "name": "Majhiaon Kalan",
+      "name_lower": "majhiaon kalan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.333333,
+      "longitude": 83.816667
+    },
+    {
+      "name": "Majhidih",
+      "name_lower": "majhidih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.65,
+      "longitude": 86
+    },
+    {
+      "name": "Malin",
+      "name_lower": "malin",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.8,
+      "longitude": 87.783333
+    },
+    {
+      "name": "Malkera",
+      "name_lower": "malkera",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 12593,
+      "latitude": 23.783333,
+      "longitude": 86.3
+    },
+    {
+      "name": "Manatu",
+      "name_lower": "manatu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 84.4
+    },
+    {
+      "name": "Mandar",
+      "name_lower": "mandar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.466667,
+      "longitude": 85.083333
+    },
+    {
+      "name": "Mandro",
+      "name_lower": "mandro",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 25.133333,
+      "longitude": 87.483333
+    },
+    {
+      "name": "Mandu",
+      "name_lower": "mandu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.8,
+      "longitude": 85.466667
+    },
+    {
+      "name": "Manhatu",
+      "name_lower": "manhatu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.833333,
+      "longitude": 85.033333
+    },
+    {
+      "name": "Manjhiara",
+      "name_lower": "manjhiara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.35,
+      "longitude": 87.316667
+    },
+    {
+      "name": "Manoharpur",
+      "name_lower": "manoharpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 13190,
+      "latitude": 22.383333,
+      "longitude": 85.2
+    },
+    {
+      "name": "Manushmuria",
+      "name_lower": "manushmuria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.366667,
+      "longitude": 86.783333
+    },
+    {
+      "name": "Marang Ponga",
+      "name_lower": "marang ponga",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.25,
+      "longitude": 85.25
+    },
+    {
+      "name": "Mardhan",
+      "name_lower": "mardhan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.983333,
+      "longitude": 85.783333
+    },
+    {
+      "name": "Markacho",
+      "name_lower": "markacho",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.316667,
+      "longitude": 85.833333
+    },
+    {
+      "name": "Masanjor",
+      "name_lower": "masanjor",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.116667,
+      "longitude": 87.316667
+    },
+    {
+      "name": "Matkumbera",
+      "name_lower": "matkumbera",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.666667,
+      "longitude": 86.116667
+    },
+    {
+      "name": "Maubhandar",
+      "name_lower": "maubhandar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.6,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Meghatari",
+      "name_lower": "meghatari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.583333,
+      "longitude": 85.566667
+    },
+    {
+      "name": "Morwai",
+      "name_lower": "morwai",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.45,
+      "longitude": 84.316667
+    },
+    {
+      "name": "Mosaboni",
+      "name_lower": "mosaboni",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.516667,
+      "longitude": 86.45
+    },
+    {
+      "name": "Mosaboni Mines",
+      "name_lower": "mosaboni mines",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.516667,
+      "longitude": 86.45
+    },
+    {
+      "name": "Moubhander",
+      "name_lower": "moubhander",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.6,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Mugma",
+      "name_lower": "mugma",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 3195,
+      "latitude": 23.766667,
+      "longitude": 86.733333
+    },
+    {
+      "name": "Muhammadganj",
+      "name_lower": "muhammadganj",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 83.883333
+    },
+    {
+      "name": "Murgu",
+      "name_lower": "murgu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.133333,
+      "longitude": 84.666667
+    },
+    {
+      "name": "Murhu",
+      "name_lower": "murhu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.966667,
+      "longitude": 85.283333
+    },
+    {
+      "name": "Murkunda",
+      "name_lower": "murkunda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.983333,
+      "longitude": 84.7
+    },
+    {
+      "name": "Musabani",
+      "name_lower": "musabani",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.516667,
+      "longitude": 86.45
+    },
+    {
+      "name": "Mushabani",
+      "name_lower": "mushabani",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 32765,
+      "latitude": 22.516667,
+      "longitude": 86.45
+    },
+    {
+      "name": "Nagjua",
+      "name_lower": "nagjua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.383333,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Nagri",
+      "name_lower": "nagri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.333333,
+      "longitude": 85.183333
+    },
+    {
+      "name": "Namkaum",
+      "name_lower": "namkaum",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.35,
+      "longitude": 85.383333
+    },
+    {
+      "name": "Namkom",
+      "name_lower": "namkom",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.35,
+      "longitude": 85.383333
+    },
+    {
+      "name": "Narainpur",
+      "name_lower": "narainpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 86.6
+    },
+    {
+      "name": "Naridega",
+      "name_lower": "naridega",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.633333,
+      "longitude": 84.883333
+    },
+    {
+      "name": "Narkandi",
+      "name_lower": "narkandi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.933333,
+      "longitude": 85.666667
+    },
+    {
+      "name": "Narkopi",
+      "name_lower": "narkopi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.9,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Naudiha",
+      "name_lower": "naudiha",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.383333,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Naupahar",
+      "name_lower": "naupahar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.233333,
+      "longitude": 87.533333
+    },
+    {
+      "name": "Nawa",
+      "name_lower": "nawa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.283333,
+      "longitude": 84.1
+    },
+    {
+      "name": "Nawadih",
+      "name_lower": "nawadih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.85,
+      "longitude": 86.033333
+    },
+    {
+      "name": "Nawatanr",
+      "name_lower": "nawatanr",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.816667,
+      "longitude": 85.25
+    },
+    {
+      "name": "Netarhat",
+      "name_lower": "netarhat",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 4424,
+      "latitude": 23.483333,
+      "longitude": 84.266667
+    },
+    {
+      "name": "Neturhat",
+      "name_lower": "neturhat",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.483333,
+      "longitude": 84.266667
+    },
+    {
+      "name": "Nimgachi",
+      "name_lower": "nimgachi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 87.75
+    },
+    {
+      "name": "Nirsa",
+      "name_lower": "nirsa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 14126,
+      "latitude": 23.783333,
+      "longitude": 86.716667
+    },
+    {
+      "name": "Noamundi",
+      "name_lower": "noamundi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 16560,
+      "latitude": 22.15,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Nunihat",
+      "name_lower": "nunihat",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 87.133333
+    },
+    {
+      "name": "Obra",
+      "name_lower": "obra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.1,
+      "longitude": 83.816667
+    },
+    {
+      "name": "Ormanjhi",
+      "name_lower": "ormanjhi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.483333,
+      "longitude": 85.483333
+    },
+    {
+      "name": "Pachamba",
+      "name_lower": "pachamba",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 86.266667
+    },
+    {
+      "name": "Padma",
+      "name_lower": "padma",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 85.366667
+    },
+    {
+      "name": "Pakuria",
+      "name_lower": "pakuria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.333333,
+      "longitude": 87.65
+    },
+    {
+      "name": "Panjwara",
+      "name_lower": "panjwara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 87.1
+    },
+    {
+      "name": "Panki",
+      "name_lower": "panki",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.033333,
+      "longitude": 84.483333
+    },
+    {
+      "name": "Parasi",
+      "name_lower": "parasi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.983333,
+      "longitude": 85.716667
+    },
+    {
+      "name": "Parerkola",
+      "name_lower": "parerkola",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.616667,
+      "longitude": 87.6
+    },
+    {
+      "name": "Parsabad",
+      "name_lower": "parsabad",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.3,
+      "longitude": 85.733333
+    },
+    {
+      "name": "Partabpur",
+      "name_lower": "partabpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.3,
+      "longitude": 84.633333
+    },
+    {
+      "name": "Patan",
+      "name_lower": "patan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.216667,
+      "longitude": 84.183333
+    },
+    {
+      "name": "Pathardih",
+      "name_lower": "pathardih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 45281,
+      "latitude": 23.666667,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Pathardihi",
+      "name_lower": "pathardihi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.666667,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Pathargama",
+      "name_lower": "pathargama",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.95,
+      "longitude": 87.266667
+    },
+    {
+      "name": "Patharghara",
+      "name_lower": "patharghara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.55,
+      "longitude": 86.45
+    },
+    {
+      "name": "Patrapali",
+      "name_lower": "patrapali",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.383333,
+      "longitude": 85.066667
+    },
+    {
+      "name": "Patratu",
+      "name_lower": "patratu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 31703,
+      "latitude": 23.666667,
+      "longitude": 85.283333
+    },
+    {
+      "name": "Patrotu",
+      "name_lower": "patrotu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.666667,
+      "longitude": 85.283333
+    },
+    {
+      "name": "Patung",
+      "name_lower": "patung",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.383333,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Petarbar",
+      "name_lower": "petarbar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.633333,
+      "longitude": 85.85
+    },
+    {
+      "name": "Pihra",
+      "name_lower": "pihra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.633333,
+      "longitude": 85.8
+    },
+    {
+      "name": "Pithauria",
+      "name_lower": "pithauria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.516667,
+      "longitude": 85.283333
+    },
+    {
+      "name": "Pitij",
+      "name_lower": "pitij",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.266667,
+      "longitude": 85.083333
+    },
+    {
+      "name": "Pokharia",
+      "name_lower": "pokharia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.916667,
+      "longitude": 86.616667
+    },
+    {
+      "name": "Poranger",
+      "name_lower": "poranger",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.816667,
+      "longitude": 85.2
+    },
+    {
+      "name": "Poreya",
+      "name_lower": "poreya",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.666667,
+      "longitude": 87.166667
+    },
+    {
+      "name": "Purnia",
+      "name_lower": "purnia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.516667,
+      "longitude": 87.133333
+    },
+    {
+      "name": "Putki",
+      "name_lower": "putki",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.783333,
+      "longitude": 84.35
+    },
+    {
+      "name": "Ragto",
+      "name_lower": "ragto",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.683333,
+      "longitude": 85.4
+    },
+    {
+      "name": "Rahawan",
+      "name_lower": "rahawan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.8,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Rajabhita",
+      "name_lower": "rajabhita",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.866667,
+      "longitude": 86.333333
+    },
+    {
+      "name": "Rajapokhar",
+      "name_lower": "rajapokhar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.7,
+      "longitude": 87.066667
+    },
+    {
+      "name": "Rajdah",
+      "name_lower": "rajdah",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.683333,
+      "longitude": 86.283333
+    },
+    {
+      "name": "Rajgangpur",
+      "name_lower": "rajgangpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.2,
+      "longitude": 84.583333
+    },
+    {
+      "name": "Rajhara",
+      "name_lower": "rajhara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.183333,
+      "longitude": 84.033333
+    },
+    {
+      "name": "Rajhat",
+      "name_lower": "rajhat",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 83.966667
+    },
+    {
+      "name": "Ramkanda",
+      "name_lower": "ramkanda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.866667,
+      "longitude": 83.866667
+    },
+    {
+      "name": "Ramna",
+      "name_lower": "ramna",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.25,
+      "longitude": 83.6
+    },
+    {
+      "name": "Rampur",
+      "name_lower": "rampur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.283333,
+      "longitude": 85.433333
+    },
+    {
+      "name": "Ranchi",
+      "name_lower": "ranchi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 945079,
+      "latitude": 23.35,
+      "longitude": 85.333333
+    },
+    {
+      "name": "Raneswar",
+      "name_lower": "raneswar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.033333,
+      "longitude": 87.416667
+    },
+    {
+      "name": "Ranibahal",
+      "name_lower": "ranibahal",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 87.35
+    },
+    {
+      "name": "Ranka",
+      "name_lower": "ranka",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.983333,
+      "longitude": 83.783333
+    },
+    {
+      "name": "Ranka Kalan",
+      "name_lower": "ranka kalan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.983333,
+      "longitude": 83.783333
+    },
+    {
+      "name": "Rasunchapa",
+      "name_lower": "rasunchapa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.55,
+      "longitude": 86.116667
+    },
+    {
+      "name": "Ratu",
+      "name_lower": "ratu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.433333,
+      "longitude": 85.216667
+    },
+    {
+      "name": "Ray",
+      "name_lower": "ray",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 5949,
+      "latitude": 23.683333,
+      "longitude": 85.05
+    },
+    {
+      "name": "Rehla",
+      "name_lower": "rehla",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 83.883333
+    },
+    {
+      "name": "Rehla Kalan",
+      "name_lower": "rehla kalan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 83.883333
+    },
+    {
+      "name": "Rewad",
+      "name_lower": "rewad",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.9,
+      "longitude": 84.5
+    },
+    {
+      "name": "Reward",
+      "name_lower": "reward",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.9,
+      "longitude": 84.5
+    },
+    {
+      "name": "Richughutu",
+      "name_lower": "richughutu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.666667,
+      "longitude": 84.583333
+    },
+    {
+      "name": "Rohini",
+      "name_lower": "rohini",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 86.65
+    },
+    {
+      "name": "Rohrabandh",
+      "name_lower": "rohrabandh",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.65,
+      "longitude": 86.483333
+    },
+    {
+      "name": "Roro",
+      "name_lower": "roro",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.483333,
+      "longitude": 85.65
+    },
+    {
+      "name": "Sahibganj",
+      "name_lower": "sahibganj",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 95900,
+      "latitude": 25.25,
+      "longitude": 87.65
+    },
+    {
+      "name": "Sakchi",
+      "name_lower": "sakchi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.816667,
+      "longitude": 86.216667
+    },
+    {
+      "name": "Salai",
+      "name_lower": "salai",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.316667,
+      "longitude": 85.333333
+    },
+    {
+      "name": "Salanpur",
+      "name_lower": "salanpur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.8,
+      "longitude": 86.3
+    },
+    {
+      "name": "Salatua",
+      "name_lower": "salatua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.016667,
+      "longitude": 83.95
+    },
+    {
+      "name": "Salgadih",
+      "name_lower": "salgadih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.1,
+      "longitude": 85.416667
+    },
+    {
+      "name": "Salgajhari",
+      "name_lower": "salgajhari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.75,
+      "longitude": 86.216667
+    },
+    {
+      "name": "Salgajhri",
+      "name_lower": "salgajhri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.75,
+      "longitude": 86.216667
+    },
+    {
+      "name": "Salukdih",
+      "name_lower": "salukdih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.1,
+      "longitude": 85.833333
+    },
+    {
+      "name": "Sankchi",
+      "name_lower": "sankchi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.816667,
+      "longitude": 86.216667
+    },
+    {
+      "name": "Saolapur",
+      "name_lower": "saolapur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 87.766667
+    },
+    {
+      "name": "Saraikela",
+      "name_lower": "saraikela",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 12665,
+      "latitude": 22.716667,
+      "longitude": 85.95
+    },
+    {
+      "name": "Sarangda",
+      "name_lower": "sarangda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.633333,
+      "longitude": 85.2
+    },
+    {
+      "name": "Sarath",
+      "name_lower": "sarath",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.233333,
+      "longitude": 86.833333
+    },
+    {
+      "name": "Sarawan",
+      "name_lower": "sarawan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.383333,
+      "longitude": 86.766667
+    },
+    {
+      "name": "Sareya",
+      "name_lower": "sareya",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.566667,
+      "longitude": 87.016667
+    },
+    {
+      "name": "Sarju",
+      "name_lower": "sarju",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.633333,
+      "longitude": 84.366667
+    },
+    {
+      "name": "Sarmatanr",
+      "name_lower": "sarmatanr",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.333333,
+      "longitude": 85.65
+    },
+    {
+      "name": "Sarnatoli",
+      "name_lower": "sarnatoli",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.6,
+      "longitude": 84.966667
+    },
+    {
+      "name": "Saroapur",
+      "name_lower": "saroapur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 87.766667
+    },
+    {
+      "name": "Sarubera",
+      "name_lower": "sarubera",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.816667,
+      "longitude": 86
+    },
+    {
+      "name": "Saruda",
+      "name_lower": "saruda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.633333,
+      "longitude": 85.2
+    },
+    {
+      "name": "Satbarwa",
+      "name_lower": "satbarwa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.916667,
+      "longitude": 84.266667
+    },
+    {
+      "name": "Satgawan",
+      "name_lower": "satgawan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 85.766667
+    },
+    {
+      "name": "Semartoli",
+      "name_lower": "semartoli",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.583333,
+      "longitude": 84.983333
+    },
+    {
+      "name": "Seraikella",
+      "name_lower": "seraikella",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.716667,
+      "longitude": 85.95
+    },
+    {
+      "name": "Serubatoli",
+      "name_lower": "serubatoli",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.566667,
+      "longitude": 85.066667
+    },
+    {
+      "name": "Shaparia",
+      "name_lower": "shaparia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 86.9
+    },
+    {
+      "name": "Sijua",
+      "name_lower": "sijua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 31540,
+      "latitude": 23.783333,
+      "longitude": 86.316667
+    },
+    {
+      "name": "Sikaripara",
+      "name_lower": "sikaripara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.233333,
+      "longitude": 87.466667
+    },
+    {
+      "name": "Silwai",
+      "name_lower": "silwai",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.383333,
+      "longitude": 85.45
+    },
+    {
+      "name": "Simaria",
+      "name_lower": "simaria",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.066667,
+      "longitude": 84.933333
+    },
+    {
+      "name": "Simaria Kalan",
+      "name_lower": "simaria kalan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.066667,
+      "longitude": 84.933333
+    },
+    {
+      "name": "Simdega",
+      "name_lower": "simdega",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 38736,
+      "latitude": 22.616667,
+      "longitude": 84.516667
+    },
+    {
+      "name": "Simratanri",
+      "name_lower": "simratanri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 85.783333
+    },
+    {
+      "name": "Simratari",
+      "name_lower": "simratari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 85.783333
+    },
+    {
+      "name": "Sindri",
+      "name_lower": "sindri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.8,
+      "longitude": 85.983333
+    },
+    {
+      "name": "Singarsi",
+      "name_lower": "singarsi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.633333,
+      "longitude": 87.466667
+    },
+    {
+      "name": "Singra",
+      "name_lower": "singra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.733333,
+      "longitude": 86.3
+    },
+    {
+      "name": "Sini",
+      "name_lower": "sini",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 6376,
+      "latitude": 22.8,
+      "longitude": 85.966667
+    },
+    {
+      "name": "Sirampur",
+      "name_lower": "sirampur",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.133333,
+      "longitude": 86.333333
+    },
+    {
+      "name": "Sisai",
+      "name_lower": "sisai",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.183333,
+      "longitude": 84.766667
+    },
+    {
+      "name": "Siwan",
+      "name_lower": "siwan",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.133333,
+      "longitude": 84.883333
+    },
+    {
+      "name": "Sode",
+      "name_lower": "sode",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.7,
+      "longitude": 85.05
+    },
+    {
+      "name": "Somatoli",
+      "name_lower": "somatoli",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.716667,
+      "longitude": 84.883333
+    },
+    {
+      "name": "Sonahatu",
+      "name_lower": "sonahatu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.2,
+      "longitude": 85.7
+    },
+    {
+      "name": "Sonari Town",
+      "name_lower": "sonari town",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.816667,
+      "longitude": 86.166667
+    },
+    {
+      "name": "Sonua",
+      "name_lower": "sonua",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.6,
+      "longitude": 85.466667
+    },
+    {
+      "name": "Sumgri",
+      "name_lower": "sumgri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.45,
+      "longitude": 86.55
+    },
+    {
+      "name": "Sundarpahar",
+      "name_lower": "sundarpahar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 87.35
+    },
+    {
+      "name": "Sunrgi",
+      "name_lower": "sunrgi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.45,
+      "longitude": 86.55
+    },
+    {
+      "name": "Surda",
+      "name_lower": "surda",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.55,
+      "longitude": 86.433333
+    },
+    {
+      "name": "Taljhari",
+      "name_lower": "taljhari",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 87.733333
+    },
+    {
+      "name": "Tamar",
+      "name_lower": "tamar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.05,
+      "longitude": 85.633333
+    },
+    {
+      "name": "Tamra",
+      "name_lower": "tamra",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.7,
+      "longitude": 84.533333
+    },
+    {
+      "name": "Tandoo",
+      "name_lower": "tandoo",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.783333,
+      "longitude": 86.25
+    },
+    {
+      "name": "Tandwa",
+      "name_lower": "tandwa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.866667,
+      "longitude": 85.033333
+    },
+    {
+      "name": "Tantnagar",
+      "name_lower": "tantnagar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.466667,
+      "longitude": 85.95
+    },
+    {
+      "name": "Tapkara",
+      "name_lower": "tapkara",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.783333,
+      "longitude": 84.716667
+    },
+    {
+      "name": "Tatanagar",
+      "name_lower": "tatanagar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.766667,
+      "longitude": 86.183333
+    },
+    {
+      "name": "Tenu",
+      "name_lower": "tenu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 85.816667
+    },
+    {
+      "name": "Tenughat",
+      "name_lower": "tenughat",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 85.816667
+    },
+    {
+      "name": "Thari Sonarai",
+      "name_lower": "thari sonarai",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.383333,
+      "longitude": 86.9
+    },
+    {
+      "name": "Thethaitangar",
+      "name_lower": "thethaitangar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.516667,
+      "longitude": 84.516667
+    },
+    {
+      "name": "Tholkabad",
+      "name_lower": "tholkabad",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.133333,
+      "longitude": 85.183333
+    },
+    {
+      "name": "Tilaiya",
+      "name_lower": "tilaiya",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 85.533333
+    },
+    {
+      "name": "Tilokhar",
+      "name_lower": "tilokhar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.533333,
+      "longitude": 83.733333
+    },
+    {
+      "name": "Timira",
+      "name_lower": "timira",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.35,
+      "longitude": 85.3
+    },
+    {
+      "name": "Tinpahar",
+      "name_lower": "tinpahar",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.983333,
+      "longitude": 87.733333
+    },
+    {
+      "name": "Tisri",
+      "name_lower": "tisri",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.583333,
+      "longitude": 86.066667
+    },
+    {
+      "name": "Topchanchi",
+      "name_lower": "topchanchi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": 5789,
+      "latitude": 23.9,
+      "longitude": 86.2
+    },
+    {
+      "name": "Torlo",
+      "name_lower": "torlo",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.266667,
+      "longitude": 85.883333
+    },
+    {
+      "name": "Torpa",
+      "name_lower": "torpa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.95,
+      "longitude": 85.1
+    },
+    {
+      "name": "Toto",
+      "name_lower": "toto",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.15,
+      "longitude": 84.533333
+    },
+    {
+      "name": "Tundi",
+      "name_lower": "tundi",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.983333,
+      "longitude": 86.45
+    },
+    {
+      "name": "Tundo",
+      "name_lower": "tundo",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.783333,
+      "longitude": 86.25
+    },
+    {
+      "name": "Tundoo",
+      "name_lower": "tundoo",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.783333,
+      "longitude": 86.25
+    },
+    {
+      "name": "Tundu",
+      "name_lower": "tundu",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.783333,
+      "longitude": 86.25
+    },
+    {
+      "name": "Tutilawa",
+      "name_lower": "tutilawa",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 24.033333,
+      "longitude": 85.033333
+    },
+    {
+      "name": "Tutki",
+      "name_lower": "tutki",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 23.95,
+      "longitude": 85.616667
+    },
+    {
+      "name": "Unchdih",
+      "name_lower": "unchdih",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.8,
+      "longitude": 84.866667
+    },
+    {
+      "name": "Usuruia",
+      "name_lower": "usuruia",
+      "state": "Jharkhand",
+      "state_hi": "झारखंड",
+      "region_code": "38",
+      "population": "",
+      "latitude": 22.216667,
+      "longitude": 85.25
+    }
+  ],
+  "meta": {
+    "title": "झारखंड के शहर (Jharkhand Cities) - मुफ़्त डाउनलोड",
+    "description": "झारखंड राज्य के 540 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 540 cities and towns in Jharkhand, India, with population and geographic coordinates. शामिल हैं 540 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "झारखंड के शहर (Jharkhand Cities) | ListBase",
+    "seo_description": "डाउनलोड झारखंड के शहर (Jharkhand Cities) — 540 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 540 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

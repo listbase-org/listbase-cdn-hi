@@ -1,0 +1,6001 @@
+{
+  "id": "hi-mumbai-bank",
+  "name": "Mumbai में बैंक — SWIFT/BIC कोड",
+  "title": "Mumbai में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Mumbai, India. Subset of hi-bank. Source city string preserved verbatim as \"MUMBAI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 850,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2,
+      "bank": "AB BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ABBLINBB"
+    },
+    {
+      "id": 3,
+      "bank": "ABHYUDAYA CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ACBLINBB"
+    },
+    {
+      "id": 4,
+      "bank": "ABU DHABI COMMERCIAL BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ADCBINBB"
+    },
+    {
+      "id": 5,
+      "bank": "ADITYA BIRLA MONEY LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ADBMINB1"
+    },
+    {
+      "id": 6,
+      "bank": "AJCON GLOBAL SERVICES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "AJGSINB1"
+    },
+    {
+      "id": 7,
+      "bank": "ALCHEMY SHARE AND STOCK BROKERS PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ASSOINB1"
+    },
+    {
+      "id": 43,
+      "bank": "ALLAHABAD BANK",
+      "city": "MUMBAI",
+      "branch": "(BANDRA BRANCH)",
+      "swift_code": "ALLAINBBBOB"
+    },
+    {
+      "id": 44,
+      "bank": "ALLAHABAD BANK",
+      "city": "MUMBAI",
+      "branch": "(FORT,MUMBAI)",
+      "swift_code": "ALLAINBBFOR"
+    },
+    {
+      "id": 45,
+      "bank": "ALLAHABAD BANK",
+      "city": "MUMBAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "ALLAINBBBIF"
+    },
+    {
+      "id": 46,
+      "bank": "ALLAHABAD BANK",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL  BRANCH, MUMBAI)",
+      "swift_code": "ALLAINBBIBM"
+    },
+    {
+      "id": 47,
+      "bank": "ALLAHABAD BANK",
+      "city": "MUMBAI",
+      "branch": "(KALBADEVI)",
+      "swift_code": "ALLAINBBKAD"
+    },
+    {
+      "id": 48,
+      "bank": "ALLAHABAD BANK",
+      "city": "MUMBAI",
+      "branch": "(R.P.C.,MUMBAI)",
+      "swift_code": "ALLAINBBRPM"
+    },
+    {
+      "id": 49,
+      "bank": "ALLAHABAD BANK",
+      "city": "MUMBAI",
+      "branch": "(TREASURY DIVISION)",
+      "swift_code": "ALLAINBBTDM"
+    },
+    {
+      "id": 50,
+      "bank": "ALLAHABAD BANK",
+      "city": "MUMBAI",
+      "branch": "(WADALA)",
+      "swift_code": "ALLAINBBWAD"
+    },
+    {
+      "id": 51,
+      "bank": "ALLAHABAD BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ALLAINBB"
+    },
+    {
+      "id": 64,
+      "bank": "ALMONDZ GLOBAL SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ALGUINB1"
+    },
+    {
+      "id": 65,
+      "bank": "ALPIC BBK SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ALBCINB1"
+    },
+    {
+      "id": 66,
+      "bank": "AMBIT CAPITAL PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "AMCVINB1"
+    },
+    {
+      "id": 68,
+      "bank": "AMIT NALIN SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ANSPINB1"
+    },
+    {
+      "id": 70,
+      "bank": "ANAND RATHI SHARE AND STOCK BROKERS LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ARHSINB1"
+    },
+    {
+      "id": 104,
+      "bank": "ANDHRA BANK",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI EAST, MUMBAI BRANCH)",
+      "swift_code": "ANDBINBBAND"
+    },
+    {
+      "id": 105,
+      "bank": "ANDHRA BANK",
+      "city": "MUMBAI",
+      "branch": "(E-4, BKC, BANDRA EAST, MUMBAI)",
+      "swift_code": "ANDBINBBBDB"
+    },
+    {
+      "id": 106,
+      "bank": "ANDHRA BANK",
+      "city": "MUMBAI",
+      "branch": "(FOREX / MATUNGA BRANCH)",
+      "swift_code": "ANDBINBBMAT"
+    },
+    {
+      "id": 107,
+      "bank": "ANDHRA BANK",
+      "city": "MUMBAI",
+      "branch": "(NANAVATI MAHALAYA - FORT BRANCH)",
+      "swift_code": "ANDBINBBFOR"
+    },
+    {
+      "id": 108,
+      "bank": "ANDHRA BANK",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT,MUMBAI)",
+      "swift_code": "ANDBINBBNAP"
+    },
+    {
+      "id": 109,
+      "bank": "ANDHRA BANK",
+      "city": "MUMBAI",
+      "branch": "(OPERA HOUSE BRANCH)",
+      "swift_code": "ANDBINBBOPH"
+    },
+    {
+      "id": 110,
+      "bank": "ANDHRA BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ANDBINBB"
+    },
+    {
+      "id": 111,
+      "bank": "ANDHRA BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ANDBINBBVAS"
+    },
+    {
+      "id": 129,
+      "bank": "ANIL MITHALAL AND CO",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ANIMINB1"
+    },
+    {
+      "id": 130,
+      "bank": "ANTIQUE STOCK BROKING LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ANSRINB1"
+    },
+    {
+      "id": 132,
+      "bank": "ANVIL SHARE AND STOCK BROKING PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ANSTINB1"
+    },
+    {
+      "id": 133,
+      "bank": "ANZ BANKING GROUP LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ANZBINBX"
+    },
+    {
+      "id": 135,
+      "bank": "ARCELOR MITTAL DHAM PROCESSING PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "USININB1"
+    },
+    {
+      "id": 136,
+      "bank": "ARCELOR MITTAL DISTRIBUTIONS SOLUTIONS PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "USIDINB1"
+    },
+    {
+      "id": 137,
+      "bank": "ARJ SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ARERINB1"
+    },
+    {
+      "id": 138,
+      "bank": "ASIA PACIFIC BANKING GROUP INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "APGTINB1"
+    },
+    {
+      "id": 139,
+      "bank": "ASIAN MARKETS SECURITIES PVT. LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "AMSVINB1"
+    },
+    {
+      "id": 140,
+      "bank": "ASIT C MEHTA INVESTMENT INTERMEDIATES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "AMIIINB1"
+    },
+    {
+      "id": 141,
+      "bank": "ASK-RAYMOND JAMES AND ASSOCIATES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ASKAINB1"
+    },
+    {
+      "id": 442,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI EAST)",
+      "swift_code": "AXISINBB328"
+    },
+    {
+      "id": 443,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(AXIS BANK CORPORATE OFFICE)",
+      "swift_code": "AXISINBBTXB"
+    },
+    {
+      "id": 444,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(BANDRA ( W))",
+      "swift_code": "AXISINBB028"
+    },
+    {
+      "id": 445,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(BANDRA KURLA COMPLEX,MUMBAI MH)",
+      "swift_code": "AXISINBB230"
+    },
+    {
+      "id": 446,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(BDB-1586 BRANCH)",
+      "swift_code": "AXISINBBA10"
+    },
+    {
+      "id": 447,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(BHANDUP)",
+      "swift_code": "AXISINBB349"
+    },
+    {
+      "id": 448,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(BORIVALI)",
+      "swift_code": "AXISINBB018"
+    },
+    {
+      "id": 449,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(BYCULLA, MUMBAI (MH))",
+      "swift_code": "AXISINBB592"
+    },
+    {
+      "id": 450,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CENTRAL OFFICE)",
+      "swift_code": "AXISINBB002"
+    },
+    {
+      "id": 451,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CENTRALISED REMITTANCE HUB)",
+      "swift_code": "AXISINBBCRH"
+    },
+    {
+      "id": 452,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CENTRALIZED NRI OPERATION HUB)",
+      "swift_code": "AXISINBBNRI"
+    },
+    {
+      "id": 453,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CHEMBUR)",
+      "swift_code": "AXISINBB063"
+    },
+    {
+      "id": 454,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CHURCHGATE, MUMBAI (MH))",
+      "swift_code": "AXISINBB695"
+    },
+    {
+      "id": 455,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE BANKING - MUMBAI)",
+      "swift_code": "AXISINBBA02"
+    },
+    {
+      "id": 456,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CRAWFORD MARKET, MUMBAI (MH))",
+      "swift_code": "AXISINBB294"
+    },
+    {
+      "id": 457,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(DADAR, MUMBAI (MH) : 124)",
+      "swift_code": "AXISINBB124"
+    },
+    {
+      "id": 458,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(DOMBIVLI(E), MUMBAI MH)",
+      "swift_code": "AXISINBB125"
+    },
+    {
+      "id": 459,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(FORT BRANCH)",
+      "swift_code": "AXISINBB004"
+    },
+    {
+      "id": 460,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(GHATKOPAR BRANCH)",
+      "swift_code": "AXISINBB029"
+    },
+    {
+      "id": 461,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(GOREGAON EAST)",
+      "swift_code": "AXISINBB373"
+    },
+    {
+      "id": 462,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(GOREGAON LINKROAD)",
+      "swift_code": "AXISINBB219"
+    },
+    {
+      "id": 463,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(HIRANANDANI ESTATE, THANE (MH))",
+      "swift_code": "AXISINBB571"
+    },
+    {
+      "id": 464,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(JIJAMATA ROAD BRANCH : 1531)",
+      "swift_code": "AXISINBBA59"
+    },
+    {
+      "id": 465,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(KALINA, MUMBAI (MH) : 776)",
+      "swift_code": "AXISINBB776"
+    },
+    {
+      "id": 466,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(KALYAN (WEST)-574)",
+      "swift_code": "AXISINBBA27"
+    },
+    {
+      "id": 467,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(KANDIVLI(E), MUMBAI (MH))",
+      "swift_code": "AXISINBB455"
+    },
+    {
+      "id": 468,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(KHAR(W), MUMBAI MH)",
+      "swift_code": "AXISINBB186"
+    },
+    {
+      "id": 469,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(LAMINGTON ROAD, MUMBAI (MH))",
+      "swift_code": "AXISINBB465"
+    },
+    {
+      "id": 470,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(LBS MARG, MULUND, MUMBAI (MH) : 508)",
+      "swift_code": "AXISINBB508"
+    },
+    {
+      "id": 471,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(LOKHANDWALA BRANCH)",
+      "swift_code": "AXISINBB020"
+    },
+    {
+      "id": 472,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MALAD)",
+      "swift_code": "AXISINBB062"
+    },
+    {
+      "id": 473,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MANDVI)",
+      "swift_code": "AXISINBBA74"
+    },
+    {
+      "id": 474,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MIDC, ANDHERI (EAST) -395)",
+      "swift_code": "AXISINBBA24"
+    },
+    {
+      "id": 475,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MIRA ROAD, MUMBAI)",
+      "swift_code": "AXISINBB573"
+    },
+    {
+      "id": 476,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MULUND)",
+      "swift_code": "AXISINBB108"
+    },
+    {
+      "id": 477,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(NAPEANSEA ROAD, MUMBAI MH)",
+      "swift_code": "AXISINBB149"
+    },
+    {
+      "id": 478,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "AXISINBB173"
+    },
+    {
+      "id": 479,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(NEW MARINES LINE)",
+      "swift_code": "AXISINBB233"
+    },
+    {
+      "id": 480,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(PAREL)",
+      "swift_code": "AXISINBBA90"
+    },
+    {
+      "id": 481,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(POWAI)",
+      "swift_code": "AXISINBB246"
+    },
+    {
+      "id": 482,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(RAJMATA JIJABAI ROAD ANDHERI(E)-1531)",
+      "swift_code": "AXISINBBA44"
+    },
+    {
+      "id": 483,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(S.V. ROAD, ANDHERI (WEST))",
+      "swift_code": "AXISINBB740"
+    },
+    {
+      "id": 484,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SAKINAKA BRANCH)",
+      "swift_code": "AXISINBB741"
+    },
+    {
+      "id": 485,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SAKINAKA JUNCTION,MUMBAI-1696)",
+      "swift_code": "AXISINBBA13"
+    },
+    {
+      "id": 486,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SANPADA, NAVI MUMBAI (MH) : 641)",
+      "swift_code": "AXISINBB641"
+    },
+    {
+      "id": 487,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SHIVAJI PARK, DADAR)",
+      "swift_code": "AXISINBB341"
+    },
+    {
+      "id": 488,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SION, MUMBAI (MH) : 654)",
+      "swift_code": "AXISINBB654"
+    },
+    {
+      "id": 489,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SPRINGFIELDS, MUMBAI (MH))",
+      "swift_code": "AXISINBB415"
+    },
+    {
+      "id": 490,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(THANE BRANCH)",
+      "swift_code": "AXISINBB061"
+    },
+    {
+      "id": 491,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(TRADE FINANCE CENTRE)",
+      "swift_code": "AXISINBBTFC"
+    },
+    {
+      "id": 492,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(ULHASNAGAR)",
+      "swift_code": "AXISINBB605"
+    },
+    {
+      "id": 493,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(VASAI)",
+      "swift_code": "AXISINBB019"
+    },
+    {
+      "id": 494,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(VASHI BRANCH)",
+      "swift_code": "AXISINBB072"
+    },
+    {
+      "id": 495,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(VILE PARLE - 64)",
+      "swift_code": "AXISINBBA41"
+    },
+    {
+      "id": 496,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(VILE PARLE(E), MUMBAI (MH)-183)",
+      "swift_code": "AXISINBB183"
+    },
+    {
+      "id": 497,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(VOSTRO DESK)",
+      "swift_code": "AXISINBBVOS"
+    },
+    {
+      "id": 498,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(WORLI BRANCH)",
+      "swift_code": "AXISINBB060"
+    },
+    {
+      "id": 499,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(WORLI NAKA, MUMBAI (MH) : 653)",
+      "swift_code": "AXISINBB653"
+    },
+    {
+      "id": 500,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(ZAVERI BAZAR -1705)",
+      "swift_code": "AXISINBBA39"
+    },
+    {
+      "id": 501,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "AXISINBB"
+    },
+    {
+      "id": 693,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(CENTRAL OFFICE)",
+      "swift_code": "UTIBINB1002"
+    },
+    {
+      "id": 694,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL BANKING DIVISION)",
+      "swift_code": "UTIBINB1AED"
+    },
+    {
+      "id": 695,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL BANKING DIVISION)",
+      "swift_code": "UTIBINB1HKH"
+    },
+    {
+      "id": 696,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL BANKING DIVISION)",
+      "swift_code": "UTIBINB1SGP"
+    },
+    {
+      "id": 697,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(LOKHANDWALA BRANCH)",
+      "swift_code": "UTIBINB1020"
+    },
+    {
+      "id": 698,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI BRANCH)",
+      "swift_code": "UTIBINB1004"
+    },
+    {
+      "id": 699,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "UTIBINB1173"
+    },
+    {
+      "id": 700,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(TFC)",
+      "swift_code": "UTIBINB1TFC"
+    },
+    {
+      "id": 701,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(UTI INVESTMENT ADVISORY SERVICES)",
+      "swift_code": "UTIBINB1IAS"
+    },
+    {
+      "id": 702,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "(VASHI)",
+      "swift_code": "UTIBINB1072"
+    },
+    {
+      "id": 703,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "UTIBINB1"
+    },
+    {
+      "id": 732,
+      "bank": "AXIS CAPITAL LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "AXCPINB1"
+    },
+    {
+      "id": 733,
+      "bank": "B S VASA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "VASAINB1"
+    },
+    {
+      "id": 737,
+      "bank": "BANK OF AMERICA, N.A. MUMBAI",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BOFAIN4X"
+    },
+    {
+      "id": 739,
+      "bank": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BBKUINBB"
+    },
+    {
+      "id": 821,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI WEST BRANCH)",
+      "swift_code": "BARBINBBADW"
+    },
+    {
+      "id": 822,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(BACKBAY RECLAMATION BRANCH)",
+      "swift_code": "BARBINBBRCL"
+    },
+    {
+      "id": 823,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(BANDRA KURLA COMPLEX BRANCH)",
+      "swift_code": "BARBINBBBKC"
+    },
+    {
+      "id": 824,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(BANDRA WEST BRANCH)",
+      "swift_code": "BARBINBBBAW"
+    },
+    {
+      "id": 825,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(BUSINESS FIN. SERVICES, KANDIVALI BR)",
+      "swift_code": "BARBINBBIBK"
+    },
+    {
+      "id": 826,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE FINANCIAL SERVICES BRANCH)",
+      "swift_code": "BARBINBBBAL"
+    },
+    {
+      "id": 827,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(CORPORTE FIN SERVICES BRANCH)",
+      "swift_code": "BARBINBBFRT"
+    },
+    {
+      "id": 828,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(CRAWFORD MARKET BRANCH)",
+      "swift_code": "BARBINBBCRM"
+    },
+    {
+      "id": 829,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(FORT UNIVERSITY BRANCH)",
+      "swift_code": "BARBINBBFUB"
+    },
+    {
+      "id": 830,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(GAMDEVI BRANCH)",
+      "swift_code": "BARBINBBGAM"
+    },
+    {
+      "id": 831,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(GHATKOPAR EAST BRANCH)",
+      "swift_code": "BARBINBBGHE"
+    },
+    {
+      "id": 832,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(GOREGOAN EAST BRANCH)",
+      "swift_code": "BARBINBBGOE"
+    },
+    {
+      "id": 833,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(GULALWADI BRANCH)",
+      "swift_code": "BARBINBBGUL"
+    },
+    {
+      "id": 834,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(KALINA BRANCH  MUMBAI)",
+      "swift_code": "BARBINBBKAM"
+    },
+    {
+      "id": 835,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(KHAND BAZAR BRANCH)",
+      "swift_code": "BARBINBBKBB"
+    },
+    {
+      "id": 836,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(MANDVI BRANCH)",
+      "swift_code": "BARBINBBMND"
+    },
+    {
+      "id": 837,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(MATUNGA BRANCH)",
+      "swift_code": "BARBINBBMAT"
+    },
+    {
+      "id": 838,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(MID CORPORATE BR, JOGESHWARI (W))",
+      "swift_code": "BARBINBBJOG"
+    },
+    {
+      "id": 839,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(MID CORPORATE BR, MMNR)",
+      "swift_code": "BARBINBBBMC"
+    },
+    {
+      "id": 840,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(MID-CORPORATE BR MUMBAI MMSR)",
+      "swift_code": "BARBINBBMCM"
+    },
+    {
+      "id": 841,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI MAIN OFFICE, BRANCH)",
+      "swift_code": "BARBINBBBMO"
+    },
+    {
+      "id": 842,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "BARBINBBNAR"
+    },
+    {
+      "id": 843,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(NRI BACK OFFICE)",
+      "swift_code": "BARBINBBNBO"
+    },
+    {
+      "id": 844,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(OPERA HOUSE BRANCH)",
+      "swift_code": "BARBINBBOPH"
+    },
+    {
+      "id": 845,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(P.M. ROAD BRANCH)",
+      "swift_code": "BARBINBBPMR"
+    },
+    {
+      "id": 846,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(SAKINAKA BRANCH)",
+      "swift_code": "BARBINBBSAK"
+    },
+    {
+      "id": 847,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(SPECIALIZED NRI BRANCH)",
+      "swift_code": "BARBINBBNRS"
+    },
+    {
+      "id": 848,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(TREASURY BRANCH)",
+      "swift_code": "BARBINBBTSY"
+    },
+    {
+      "id": 849,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(VILE PARLE (E) BRANCH)",
+      "swift_code": "BARBINBBVPE"
+    },
+    {
+      "id": 850,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(VILE PARLE (WEST) BRANCH)",
+      "swift_code": "BARBINBBVPW"
+    },
+    {
+      "id": 851,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(VOSTRO ACCOUNT CELL BMO)",
+      "swift_code": "BARBINBBVAC"
+    },
+    {
+      "id": 852,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(WORLI BRANCH)",
+      "swift_code": "BARBINBBWRB"
+    },
+    {
+      "id": 853,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "(ZAVERI BAZAR BRANCH)",
+      "swift_code": "BARBINBBZBB"
+    },
+    {
+      "id": 854,
+      "bank": "BANK OF BARODA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BARBINBB"
+    },
+    {
+      "id": 1010,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI (WEST) BRANCH)",
+      "swift_code": "BKIDINBBADH"
+    },
+    {
+      "id": 1011,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBADC"
+    },
+    {
+      "id": 1012,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI MID-CORPORATE BR)",
+      "swift_code": "BKIDINBBADM"
+    },
+    {
+      "id": 1013,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BALLARD ESTATE BRANCH)",
+      "swift_code": "BKIDINBBBLD"
+    },
+    {
+      "id": 1014,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BANDRA KURLA COMPLEX)",
+      "swift_code": "BKIDINBBBKC"
+    },
+    {
+      "id": 1015,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BULLION EXCHANGE BRANCH)",
+      "swift_code": "BKIDINBBBEX"
+    },
+    {
+      "id": 1016,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(C.P. TANK BRANCH)",
+      "swift_code": "BKIDINBBCPT"
+    },
+    {
+      "id": 1017,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CARD PRODUCTS DEPT. MUMBAI)",
+      "swift_code": "BKIDINBBCPD"
+    },
+    {
+      "id": 1018,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHAKALA BRANCH)",
+      "swift_code": "BKIDINBBCHK"
+    },
+    {
+      "id": 1019,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHEMBUR BRANCH)",
+      "swift_code": "BKIDINBBCHM"
+    },
+    {
+      "id": 1020,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHURCHGATE BRANCH)",
+      "swift_code": "BKIDINBBCCG"
+    },
+    {
+      "id": 1021,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CUMBALLA HILL BRANCH)",
+      "swift_code": "BKIDINBBCMB"
+    },
+    {
+      "id": 1022,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(D.N. ROAD BRANCH)",
+      "swift_code": "BKIDINBBDNR"
+    },
+    {
+      "id": 1023,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(DADAR WEST)",
+      "swift_code": "BKIDINBBDRW"
+    },
+    {
+      "id": 1024,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(ELECTRIC HOUSE)",
+      "swift_code": "BKIDINBBELH"
+    },
+    {
+      "id": 1025,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(GHATKOPAR MID CORP BRANCH)",
+      "swift_code": "BKIDINBBGKW"
+    },
+    {
+      "id": 1026,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(GIRGAUM)",
+      "swift_code": "BKIDINBBGRM"
+    },
+    {
+      "id": 1027,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(KALBADEVI BRANCH)",
+      "swift_code": "BKIDINBBKAL"
+    },
+    {
+      "id": 1028,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MAHALAXMI BRANCH)",
+      "swift_code": "BKIDINBBMHL"
+    },
+    {
+      "id": 1029,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MAHIM)",
+      "swift_code": "BKIDINBBMHM"
+    },
+    {
+      "id": 1030,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MALAD (WEST) BRANCH)",
+      "swift_code": "BKIDINBBMLD"
+    },
+    {
+      "id": 1031,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MANDVI BRANCH)",
+      "swift_code": "BKIDINBBMDV"
+    },
+    {
+      "id": 1032,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI LARGE CORPORATE)",
+      "swift_code": "BKIDINBBMLC"
+    },
+    {
+      "id": 1033,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI MAIN BRANCH)",
+      "swift_code": "BKIDINBBBMB"
+    },
+    {
+      "id": 1034,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI MID CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBMCB"
+    },
+    {
+      "id": 1035,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI NRI BRANCH)",
+      "swift_code": "BKIDINBBNRI"
+    },
+    {
+      "id": 1036,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NAPEAN SEA ROAD)",
+      "swift_code": "BKIDINBBNSR"
+    },
+    {
+      "id": 1037,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "BKIDINBBNRP"
+    },
+    {
+      "id": 1038,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT LARGE CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBNLC"
+    },
+    {
+      "id": 1039,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NULL BAZAR BRANCH)",
+      "swift_code": "BKIDINBBNUL"
+    },
+    {
+      "id": 1040,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OPERA HOUSE BRANCH)",
+      "swift_code": "BKIDINBBOPH"
+    },
+    {
+      "id": 1041,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "BKIDINBBBOS"
+    },
+    {
+      "id": 1042,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(PRARTHANA SAMAJ)",
+      "swift_code": "BKIDINBBPRS"
+    },
+    {
+      "id": 1043,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(RAMDAS NAYAK MARG BRANCH)",
+      "swift_code": "BKIDINBBRNM"
+    },
+    {
+      "id": 1044,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SAKI NAKA CORP. BANKING BR.)",
+      "swift_code": "BKIDINBBSKN"
+    },
+    {
+      "id": 1045,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SANTA CRUZ BRANCH)",
+      "swift_code": "BKIDINBBSCZ"
+    },
+    {
+      "id": 1046,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SEEPZ BRANCH)",
+      "swift_code": "BKIDINBBSPZ"
+    },
+    {
+      "id": 1047,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SION BRANCH)",
+      "swift_code": "BKIDINBBSIO"
+    },
+    {
+      "id": 1048,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(TARDEO ROAD BRANCH)",
+      "swift_code": "BKIDINBBTAR"
+    },
+    {
+      "id": 1049,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(TREASURY BRANCH)",
+      "swift_code": "BKIDINBBTRY"
+    },
+    {
+      "id": 1050,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(TURBHE BRANCH)",
+      "swift_code": "BKIDINBBTRB"
+    },
+    {
+      "id": 1051,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(WADALA WEST)",
+      "swift_code": "BKIDINBBWDL"
+    },
+    {
+      "id": 1052,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(WORLI NAKA)",
+      "swift_code": "BKIDINBBWRN"
+    },
+    {
+      "id": 1053,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BKIDINBB"
+    },
+    {
+      "id": 1054,
+      "bank": "BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BKIDINBBBDB"
+    },
+    {
+      "id": 1136,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE BANKING BRANCH, BANDRA, MUMBAI)",
+      "swift_code": "MAHBINBBCBM"
+    },
+    {
+      "id": 1137,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "MUMBAI",
+      "branch": "(FORT BRANCH MUMBAI)",
+      "swift_code": "MAHBINBBFRT"
+    },
+    {
+      "id": 1138,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "MUMBAI",
+      "branch": "(L.J. ROAD, MAHIM)",
+      "swift_code": "MAHBINBBLJR"
+    },
+    {
+      "id": 1139,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI, INDIA)",
+      "swift_code": "MAHBINBBIFM"
+    },
+    {
+      "id": 1140,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "MUMBAI",
+      "branch": "(NAVI MUMBAI)",
+      "swift_code": "MAHBINBBVSH"
+    },
+    {
+      "id": 1141,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH MUMBAI)",
+      "swift_code": "MAHBINBBOVM"
+    },
+    {
+      "id": 1142,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "MUMBAI",
+      "branch": "(RANADE ROAD BRANCH, DADAR, MUMBAI)",
+      "swift_code": "MAHBINBBRRD"
+    },
+    {
+      "id": 1143,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MAHBINBB"
+    },
+    {
+      "id": 1164,
+      "bank": "BANK OF NOVA SCOTIA, THE",
+      "city": "MUMBAI",
+      "branch": "(PRECIOUS METALS DIVISION)",
+      "swift_code": "NOSCINBBMOC"
+    },
+    {
+      "id": 1165,
+      "bank": "BANK OF NOVA SCOTIA, THE",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NOSCINBB"
+    },
+    {
+      "id": 1169,
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI BRANCH)",
+      "swift_code": "BOTKINBB"
+    },
+    {
+      "id": 1171,
+      "bank": "BARCLAYS BANK PLC",
+      "city": "MUMBAI",
+      "branch": "(IRCB MUMBAI )",
+      "swift_code": "BARCINBBMUM"
+    },
+    {
+      "id": 1172,
+      "bank": "BARCLAYS BANK PLC",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BARCINBB"
+    },
+    {
+      "id": 1174,
+      "bank": "BARCLAYS SECURITIES (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BCSCINB1"
+    },
+    {
+      "id": 1175,
+      "bank": "BARING INTERNATIONAL PTE",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BAITINB1"
+    },
+    {
+      "id": 1176,
+      "bank": "BARODA PIONEER ASSET MANAGEMENT COMPANY LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BPEAINB1"
+    },
+    {
+      "id": 1182,
+      "bank": "BHAGWANDAS GORDHANDAS FINANCIAL PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BGFPINB1"
+    },
+    {
+      "id": 1183,
+      "bank": "BHUPENDRA CHAMPAKLAL DEVIDAS",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BHCDINB1"
+    },
+    {
+      "id": 1184,
+      "bank": "BIRLA MARLIN SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BIMSINB1"
+    },
+    {
+      "id": 1185,
+      "bank": "BIRLA SUN LIFE ASSET MANAGEMENT COMPANY LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BSLAINB1"
+    },
+    {
+      "id": 1186,
+      "bank": "BIYANI SECURITIES (MUMBAI) PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BSMPINB1"
+    },
+    {
+      "id": 1187,
+      "bank": "BNP PARIBAS EQUITES INDIA PRIVATE L IMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BPEQINB1"
+    },
+    {
+      "id": 1193,
+      "bank": "BNP PARIBAS INDIA",
+      "city": "MUMBAI",
+      "branch": "(SECURITIES SERVICES BRANCH))",
+      "swift_code": "BNPAINBBBPS"
+    },
+    {
+      "id": 1194,
+      "bank": "BNP PARIBAS INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BNPAINBB"
+    },
+    {
+      "id": 1197,
+      "bank": "BNP PARIBAS SECURITIES INDIA PRIVATE LIMITED 1 BNP PARIBAS HOUSE, MAKER MAXITY",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BPSDINB1"
+    },
+    {
+      "id": 1198,
+      "bank": "BOB CAPITAL MARKETS LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BOCEINB1"
+    },
+    {
+      "id": 1199,
+      "bank": "BOI FINANCE LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BOIFINB1"
+    },
+    {
+      "id": 1200,
+      "bank": "BOMBAY MERCANTILE COOPERATIVE BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BMCBINBB"
+    },
+    {
+      "id": 1201,
+      "bank": "BOMBAY STOCK EXCHANGE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "XBOMINBB"
+    },
+    {
+      "id": 1202,
+      "bank": "BOT SHAREHOLDING LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BSGFINB1"
+    },
+    {
+      "id": 1203,
+      "bank": "BRICS SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BRCSINB1"
+    },
+    {
+      "id": 1204,
+      "bank": "BRIJMOHAN SAGARMAL AGARWAL",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BRSAINB1"
+    },
+    {
+      "id": 1303,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(BHAT BAZAAR BRANCH)",
+      "swift_code": "CNRBINBBBDZ"
+    },
+    {
+      "id": 1304,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(CANARA BANK)",
+      "swift_code": "CNRBINBBCSL"
+    },
+    {
+      "id": 1305,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(FORT MARKET MUMBAI)",
+      "swift_code": "CNRBINBBMFM"
+    },
+    {
+      "id": 1306,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(FORT MUMBAI)",
+      "swift_code": "CNRBINBBMCM"
+    },
+    {
+      "id": 1307,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(IIT POWAI BRANCH)",
+      "swift_code": "CNRBINBBBIT"
+    },
+    {
+      "id": 1308,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(INTEGRATED TREASURY WING)",
+      "swift_code": "CNRBINBBBID"
+    },
+    {
+      "id": 1309,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MID CORPORATE BRANCH MUMBAI)",
+      "swift_code": "CNRBINBBZOB"
+    },
+    {
+      "id": 1310,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI ABDUL REHMAN STREET BRANCH)",
+      "swift_code": "CNRBINBBBDA"
+    },
+    {
+      "id": 1311,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI BANDRA WEST BRANCH)",
+      "swift_code": "CNRBINBBBDB"
+    },
+    {
+      "id": 1312,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI COLABA BRANCH)",
+      "swift_code": "CNRBINBBBDC"
+    },
+    {
+      "id": 1313,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI FOREIGN DEPARTMENT (NORTH))",
+      "swift_code": "CNRBINBBBFN"
+    },
+    {
+      "id": 1314,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBBFD"
+    },
+    {
+      "id": 1315,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI FORT BRANCH)",
+      "swift_code": "CNRBINBBBDF"
+    },
+    {
+      "id": 1316,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI FORT MARKET (FRERE ROAD)  BRANCH)",
+      "swift_code": "CNRBINBBBDK"
+    },
+    {
+      "id": 1317,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI GIRGAUM BRANCH)",
+      "swift_code": "CNRBINBBBDG"
+    },
+    {
+      "id": 1318,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI KAKAD MARKET)",
+      "swift_code": "CNRBINBBBKM"
+    },
+    {
+      "id": 1319,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI KHAR)",
+      "swift_code": "CNRBINBBKHR"
+    },
+    {
+      "id": 1320,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI MANDVI BRANCH)",
+      "swift_code": "CNRBINBBBDM"
+    },
+    {
+      "id": 1321,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI NARIMAN POINT BRANCH)",
+      "swift_code": "CNRBINBBBDN"
+    },
+    {
+      "id": 1322,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI NEW MARINE LINES)",
+      "swift_code": "CNRBINBBBNM"
+    },
+    {
+      "id": 1323,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBBOB"
+    },
+    {
+      "id": 1324,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI QUEENS ROAD BRANCH)",
+      "swift_code": "CNRBINBBBDQ"
+    },
+    {
+      "id": 1325,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI SAKINAKA SME)",
+      "swift_code": "CNRBINBBBDS"
+    },
+    {
+      "id": 1326,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI SAKINAKA)",
+      "swift_code": "CNRBINBBBSN"
+    },
+    {
+      "id": 1327,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI TAMARIND LANE BRANCH)",
+      "swift_code": "CNRBINBBTML"
+    },
+    {
+      "id": 1328,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI WORLI BRANCH)",
+      "swift_code": "CNRBINBBBDW"
+    },
+    {
+      "id": 1329,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(PCB III BANDRA KURLA COMPLEX 400 051)",
+      "swift_code": "CNRBINBBPCM"
+    },
+    {
+      "id": 1330,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(PRIME CORPORATE I)",
+      "swift_code": "CNRBINBBCBM"
+    },
+    {
+      "id": 1331,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(RECONCILIATION SECTION ID MUMBAI)",
+      "swift_code": "CNRBINBBREC"
+    },
+    {
+      "id": 1332,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(SPECIALISED PRIME CORPORATE BRANCH)",
+      "swift_code": "CNRBINBBIFM"
+    },
+    {
+      "id": 1333,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "(VOSTRO SECTION ID MUMBAI)",
+      "swift_code": "CNRBINBBVOS"
+    },
+    {
+      "id": 1334,
+      "bank": "CANARA BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CNRBINBB"
+    },
+    {
+      "id": 1396,
+      "bank": "CD EQUISEARCH PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "EQSVINB1"
+    },
+    {
+      "id": 1438,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI BRANCH)",
+      "swift_code": "CBININBBAND"
+    },
+    {
+      "id": 1439,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BHARAT DIAMOND BOURSE, MUMBAI)",
+      "swift_code": "CBININBBBDB"
+    },
+    {
+      "id": 1440,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BOMBAY MAIN OFFICE)",
+      "swift_code": "CBININBBBMO"
+    },
+    {
+      "id": 1441,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE FINANCE BRANCH)",
+      "swift_code": "CBININBBCFB"
+    },
+    {
+      "id": 1442,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL DIVISION)",
+      "swift_code": "CBININBB"
+    },
+    {
+      "id": 1443,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MADGAON, MUMBAI)",
+      "swift_code": "CBININBBMAD"
+    },
+    {
+      "id": 1444,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MANDVI BRANCH)",
+      "swift_code": "CBININBBMAV"
+    },
+    {
+      "id": 1445,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OPERA HOUSE MUMBAI)",
+      "swift_code": "CBININBBOPE"
+    },
+    {
+      "id": 1446,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH, BOMBAY)",
+      "swift_code": "CBININBBOSB"
+    },
+    {
+      "id": 1447,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(WORLI BRANCH)",
+      "swift_code": "CBININBBWOR"
+    },
+    {
+      "id": 1467,
+      "bank": "CENTRAL DEPOSITORY SERVICES (INDIA) LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CDSCINB1"
+    },
+    {
+      "id": 1468,
+      "bank": "CENTRUM BROKING LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CEBPINB1"
+    },
+    {
+      "id": 1469,
+      "bank": "CHAMPAKLAL INV. AND FIN. CONSULTANCY LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CHIFINB1"
+    },
+    {
+      "id": 1470,
+      "bank": "CHIMANLAL J. DALAL AND SONS",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CHDSINB1"
+    },
+    {
+      "id": 1472,
+      "bank": "CIMB SECURITIES (INDIA) PRIVATE LIM",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CSIPINB1"
+    },
+    {
+      "id": 1478,
+      "bank": "CITIBANK N.A.",
+      "city": "MUMBAI",
+      "branch": "(GLOBAL CONSUMER BANKING - NRI)",
+      "swift_code": "CITIINBXGCN"
+    },
+    {
+      "id": 1479,
+      "bank": "CITIBANK N.A.",
+      "city": "MUMBAI",
+      "branch": "(HYDRABAD BRANCH)",
+      "swift_code": "CITIINBXHYD"
+    },
+    {
+      "id": 1480,
+      "bank": "CITIBANK N.A.",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL BUSINESS AND FINANCE)",
+      "swift_code": "CITIINBXIBB"
+    },
+    {
+      "id": 1481,
+      "bank": "CITIBANK N.A.",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI BRANCH)",
+      "swift_code": "CITIINBX"
+    },
+    {
+      "id": 1482,
+      "bank": "CITIBANK N.A.",
+      "city": "MUMBAI",
+      "branch": "(SECURITIES AND FUNDS SERVICES)",
+      "swift_code": "CITIINBXSFS"
+    },
+    {
+      "id": 1485,
+      "bank": "CITIGROUP GLOBAL MARKETS INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SSBIINB1"
+    },
+    {
+      "id": 1487,
+      "bank": "CLEARING CORPORATION OF INDIA LTD, THE",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CCILINBB"
+    },
+    {
+      "id": 1488,
+      "bank": "CLSA INDIA PRIVATE LIMITED (FORMERLY CLSA INDIA LIMITED)",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CLSAINB1"
+    },
+    {
+      "id": 1489,
+      "bank": "COOPERATIEVE RABOBANK U.A.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "RABOINBB"
+    },
+    {
+      "id": 1558,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(A.R. STREET BRANCH)",
+      "swift_code": "CORPINBB163"
+    },
+    {
+      "id": 1559,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(AMBOLI BRANCH)",
+      "swift_code": "CORPINBB432"
+    },
+    {
+      "id": 1560,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(BANDRA BRANCH)",
+      "swift_code": "CORPINBB120"
+    },
+    {
+      "id": 1561,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(BORIVLI I.C. COLONY BRANCH)",
+      "swift_code": "CORPINBB429"
+    },
+    {
+      "id": 1562,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(CHEMBUR BRANCH)",
+      "swift_code": "CORPINBB282"
+    },
+    {
+      "id": 1563,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(D.N. ROAD)",
+      "swift_code": "CORPINBB160"
+    },
+    {
+      "id": 1564,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(DALAL STREET FORT BRANCH)",
+      "swift_code": "CORPINBB024"
+    },
+    {
+      "id": 1565,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(FOREX SERVICE BRANCH, MUMBAI)",
+      "swift_code": "CORPINBB695"
+    },
+    {
+      "id": 1566,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(GHATKOPAR (WEST) MUMBAI)",
+      "swift_code": "CORPINBB368"
+    },
+    {
+      "id": 1567,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(IFB MUMBAI BRANCH)",
+      "swift_code": "CORPINBB443"
+    },
+    {
+      "id": 1568,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(IIBD-EREMIT-EUR)",
+      "swift_code": "CORPINBB920"
+    },
+    {
+      "id": 1569,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(IIBD-EREMIT-GBP)",
+      "swift_code": "CORPINBB921"
+    },
+    {
+      "id": 1570,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL BANKING DIVISION)",
+      "swift_code": "CORPINBB"
+    },
+    {
+      "id": 1571,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(KALBADEVI BRANCH)",
+      "swift_code": "CORPINBB058"
+    },
+    {
+      "id": 1572,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(KHAR BRANCH)",
+      "swift_code": "CORPINBB334"
+    },
+    {
+      "id": 1573,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(LCO-MUMBAI BRANCH)",
+      "swift_code": "CORPINBB870"
+    },
+    {
+      "id": 1574,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(LOWER PAREL - MUMBAI)",
+      "swift_code": "CORPINBB750"
+    },
+    {
+      "id": 1575,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(MALAD ORLEM BRANCH)",
+      "swift_code": "CORPINBB332"
+    },
+    {
+      "id": 1576,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(MANDVI BRANCH)",
+      "swift_code": "CORPINBB038"
+    },
+    {
+      "id": 1577,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI NARIMAN POINT)",
+      "swift_code": "CORPINBB221"
+    },
+    {
+      "id": 1578,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS - NARIMAN POINT BRANCH)",
+      "swift_code": "CORPINBB444"
+    },
+    {
+      "id": 1579,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(SHIVAJIPARK BRANCH)",
+      "swift_code": "CORPINBB057"
+    },
+    {
+      "id": 1580,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(VERSOVA BRANCH)",
+      "swift_code": "CORPINBB114"
+    },
+    {
+      "id": 1581,
+      "bank": "CORPORATION BANK",
+      "city": "MUMBAI",
+      "branch": "(WADALA BRANCH)",
+      "swift_code": "CORPINBB106"
+    },
+    {
+      "id": 1615,
+      "bank": "CREDIT AGRICOLE CIB",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI BRANCH, INDIA)",
+      "swift_code": "CRLYINBB"
+    },
+    {
+      "id": 1618,
+      "bank": "CREDIT SUISSE AG",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CRESINBB"
+    },
+    {
+      "id": 1619,
+      "bank": "CREDIT SUISSE SECURITIES (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CSFBINB1"
+    },
+    {
+      "id": 1620,
+      "bank": "CRISIL LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CRATINB1"
+    },
+    {
+      "id": 1621,
+      "bank": "CSFB INDIA SECURITIES PRIVATE LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CISPINB1"
+    },
+    {
+      "id": 1623,
+      "bank": "D A SHAH AND SONS",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHASINB1"
+    },
+    {
+      "id": 1624,
+      "bank": "D. E. SHAW INDIA SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BPSRINB1"
+    },
+    {
+      "id": 1625,
+      "bank": "D.S. PURBHOODAS AND CO",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PURBINB1"
+    },
+    {
+      "id": 1626,
+      "bank": "DACAPO BROKERAGE INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DBIPINB1"
+    },
+    {
+      "id": 1627,
+      "bank": "DAIWA CAPITAL MARKETS INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DSSIINB1"
+    },
+    {
+      "id": 1628,
+      "bank": "DALAL AND BROACHA STOCK BROKING PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DALBINB1"
+    },
+    {
+      "id": 1630,
+      "bank": "DBS BANK LTD, MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI BRANCH)",
+      "swift_code": "DBSSINBBIBD"
+    },
+    {
+      "id": 1631,
+      "bank": "DBS BANK LTD, MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DBSSINBB"
+    },
+    {
+      "id": 1636,
+      "bank": "DCB BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI BRANCH)",
+      "swift_code": "DCBLINBB004"
+    },
+    {
+      "id": 1637,
+      "bank": "DCB BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MOHAMEDALI ROAD BRANCH)",
+      "swift_code": "DCBLINBB061"
+    },
+    {
+      "id": 1638,
+      "bank": "DCB BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "DCBLINBB043"
+    },
+    {
+      "id": 1639,
+      "bank": "DCB BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DCBLINBB"
+    },
+    {
+      "id": 1664,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE BUSINESS BRANCH)",
+      "swift_code": "BKDNINBBCBX"
+    },
+    {
+      "id": 1665,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(DADAR BRANCH)",
+      "swift_code": "BKDNINBBDDR"
+    },
+    {
+      "id": 1666,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(DENA BANK,JVPD)",
+      "swift_code": "BKDNINBBJVP"
+    },
+    {
+      "id": 1667,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, FORT, MUMBAI)",
+      "swift_code": "BKDNINBBIFB"
+    },
+    {
+      "id": 1668,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(NOIDA)",
+      "swift_code": "BKDNINBBNOD"
+    },
+    {
+      "id": 1669,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "BKDNINBBOVB"
+    },
+    {
+      "id": 1670,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(SANDHURST BRIDGE)",
+      "swift_code": "BKDNINBBSAN"
+    },
+    {
+      "id": 1671,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(SUN MILL COMPOUND BRANCH)",
+      "swift_code": "BKDNINBBSMC"
+    },
+    {
+      "id": 1672,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(VASHI SECTOR - 19)",
+      "swift_code": "BKDNINBBVSI"
+    },
+    {
+      "id": 1673,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "(VILE PARLE EAST)",
+      "swift_code": "BKDNINBBVPL"
+    },
+    {
+      "id": 1674,
+      "bank": "DENA BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BKDNINBB"
+    },
+    {
+      "id": 1688,
+      "bank": "DERIVIUM TRADITION SECURITIES (INDIA) PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DTSIINB1"
+    },
+    {
+      "id": 1693,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MUMBAI",
+      "branch": "(DEUTSCHE INVESTOR SERVICES PRIVATE LIMITED (DISPL))",
+      "swift_code": "DEUTINBBRTA"
+    },
+    {
+      "id": 1694,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI BRANCH)",
+      "swift_code": "DEUTINBB"
+    },
+    {
+      "id": 1695,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MUMBAI",
+      "branch": "(PRIVATE BUSINESS CLIENTS)",
+      "swift_code": "DEUTINBBPBC"
+    },
+    {
+      "id": 1696,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MUMBAI",
+      "branch": "(SECURITIES AND CUSTODIAN SERVICES)",
+      "swift_code": "DEUTINBBCUS"
+    },
+    {
+      "id": 1697,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "MUMBAI",
+      "branch": "(TRADE FINANCE-CENTRAL ENTRY POINT ASIA)",
+      "swift_code": "DEUTINBBCEP"
+    },
+    {
+      "id": 1700,
+      "bank": "DEUTSCHE EQUITIES INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DEILINB1"
+    },
+    {
+      "id": 1701,
+      "bank": "DHANKI SECURITIES PVT LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DHSVINB1"
+    },
+    {
+      "id": 1707,
+      "bank": "DHANLAXMI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI FORT BRANCH)",
+      "swift_code": "DLXBINBBMUM"
+    },
+    {
+      "id": 1712,
+      "bank": "DIPAN MEHTA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DIMEINB1"
+    },
+    {
+      "id": 1713,
+      "bank": "DOHA BANK Q.S.C MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DOHBINBB"
+    },
+    {
+      "id": 1714,
+      "bank": "DOLAT CAPITAL MARKET PVT LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DOCMINB1"
+    },
+    {
+      "id": 1716,
+      "bank": "DRESDNER KLEINWORT WASSERSTEIN SECURITIES (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DKBEINB1"
+    },
+    {
+      "id": 1717,
+      "bank": "DSP BLACKROCK INVESTMENT MANAGERS PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DSPBINB1"
+    },
+    {
+      "id": 1718,
+      "bank": "DSP FINANCIAL CONSULTANTS LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DSPFINB1"
+    },
+    {
+      "id": 1719,
+      "bank": "DSP MERRILL LYNCH LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DSMLINB1"
+    },
+    {
+      "id": 1720,
+      "bank": "DSP MERRILL LYNCH SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DMLSINB1"
+    },
+    {
+      "id": 1722,
+      "bank": "DYNAMIC STOCK BROKING (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CBIPINB1"
+    },
+    {
+      "id": 1723,
+      "bank": "ECL FINANCE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ECFAINB1"
+    },
+    {
+      "id": 1724,
+      "bank": "EDELWEISS COMMODITIES SERVICES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "EDCSINB1"
+    },
+    {
+      "id": 1725,
+      "bank": "EDELWEISS CUSTODIAL SERVICES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ECSLINBB"
+    },
+    {
+      "id": 1726,
+      "bank": "EDELWEISS FINANCE AND INVESTMENTS LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "EDFVINB1"
+    },
+    {
+      "id": 1727,
+      "bank": "EDELWEISS SECURITIES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "RSSUINB1"
+    },
+    {
+      "id": 1728,
+      "bank": "ELARA SECURITIES (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ESIRINB1"
+    },
+    {
+      "id": 1729,
+      "bank": "EMIRATES NBD BANK (P.J.S.C)",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "EBILINBM"
+    },
+    {
+      "id": 1730,
+      "bank": "EMKAY GLOBAL FINANCIAL SERVICES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ESSRINB1"
+    },
+    {
+      "id": 1731,
+      "bank": "ENAM SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ENSPINB1"
+    },
+    {
+      "id": 1733,
+      "bank": "EXPORT-IMPORT BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "EIBIINBB"
+    },
+    {
+      "id": 1787,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI)",
+      "swift_code": "FDRLINBBBB2"
+    },
+    {
+      "id": 1788,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MUMBAI",
+      "branch": "(CHEMBUR BRANCH)",
+      "swift_code": "FDRLINBBYNN"
+    },
+    {
+      "id": 1789,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE BANKING BRANCH)",
+      "swift_code": "FDRLINBBBB8"
+    },
+    {
+      "id": 1790,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MUMBAI",
+      "branch": "(CRAWFORD)",
+      "swift_code": "FDRLINBBBB4"
+    },
+    {
+      "id": 1791,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MUMBAI",
+      "branch": "(DADAR EAST BRANCH)",
+      "swift_code": "FDRLINBBMUC"
+    },
+    {
+      "id": 1792,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MUMBAI",
+      "branch": "(DOMBIVILI BRANCH)",
+      "swift_code": "FDRLINBBYEE"
+    },
+    {
+      "id": 1793,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI FORT BRANCH)",
+      "swift_code": "FDRLINBBMUA"
+    },
+    {
+      "id": 1794,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MUMBAI",
+      "branch": "(TIRUPUR INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "FDRLINBBTPR"
+    },
+    {
+      "id": 1795,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "FDRLINBB"
+    },
+    {
+      "id": 1818,
+      "bank": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI)",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NBADINBB"
+    },
+    {
+      "id": 1822,
+      "bank": "FIRSTRAND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "FIRNINBB"
+    },
+    {
+      "id": 1823,
+      "bank": "FITCH RATINGS INDIA LIMITED (MUMBAI BRANCH)",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "FRIPIN41"
+    },
+    {
+      "id": 1824,
+      "bank": "FITCH RATINGS INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "FRIPINB1"
+    },
+    {
+      "id": 1825,
+      "bank": "FORTUNE EQUITY BROKERS (INDIA) LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "FEBNINB1"
+    },
+    {
+      "id": 1826,
+      "bank": "FRR SHARES AND SECURITIES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "FRSUINB1"
+    },
+    {
+      "id": 1827,
+      "bank": "GEOJIT BNP PARIBAS FINANCIAL SERVICES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "GEIEIN51"
+    },
+    {
+      "id": 1828,
+      "bank": "GEPL CAPITAL PVT. LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "GUEPINB1"
+    },
+    {
+      "id": 1829,
+      "bank": "GOLDMAN SACHS (INDIA) SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "GSISINB1"
+    },
+    {
+      "id": 1830,
+      "bank": "GOVINDBHAI B.DESAI",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DESAINB1"
+    },
+    {
+      "id": 1831,
+      "bank": "HAITONG SECURITIES INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ESSAINB1"
+    },
+    {
+      "id": 1846,
+      "bank": "HDFC BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CUSTODY SERVICES)",
+      "swift_code": "HDFCINBBCUS"
+    },
+    {
+      "id": 1847,
+      "bank": "HDFC BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(GIFT CITY)",
+      "swift_code": "HDFCINBBGFC"
+    },
+    {
+      "id": 1848,
+      "bank": "HDFC BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI - FORT)",
+      "swift_code": "HDFCINBBFRT"
+    },
+    {
+      "id": 1849,
+      "bank": "HDFC BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(REMITTANCES DEPARTMENT)",
+      "swift_code": "HDFCINBBGMT"
+    },
+    {
+      "id": 1850,
+      "bank": "HDFC BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SANDOZ HOUSE MUMBAI)",
+      "swift_code": "HDFCINBBSNZ"
+    },
+    {
+      "id": 1851,
+      "bank": "HDFC BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(TREASURY BRANCH)",
+      "swift_code": "HDFCINBBTRS"
+    },
+    {
+      "id": 1852,
+      "bank": "HDFC BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "HDFCINBB"
+    },
+    {
+      "id": 1853,
+      "bank": "HDFC BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "HDFCINBBJPR"
+    },
+    {
+      "id": 1857,
+      "bank": "HDFC SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "HDSEINB1"
+    },
+    {
+      "id": 1858,
+      "bank": "HG ASIA LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ASAAINB1"
+    },
+    {
+      "id": 1859,
+      "bank": "HOME TRADE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "LBROINB1"
+    },
+    {
+      "id": 1860,
+      "bank": "HRS INSIGHT FINANCIAL INTERMEDIARIES PVT LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "HIFIINB1"
+    },
+    {
+      "id": 1861,
+      "bank": "HSBC JAMES CAPEL BATIVALA AND KARANI",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "HJCBINB1"
+    },
+    {
+      "id": 1862,
+      "bank": "HSBC MUTUAL FUND",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "HSBCINM1"
+    },
+    {
+      "id": 1863,
+      "bank": "HSBC SECURITIES AND CAPITAL MARKETS (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "HSIHINB1"
+    },
+    {
+      "id": 1880,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI BRANCH)",
+      "swift_code": "ICICINBB011"
+    },
+    {
+      "id": 1881,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CENTRALIZED PAYMENT HUB)",
+      "swift_code": "ICICINBBGRP"
+    },
+    {
+      "id": 1882,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CMS HUB)",
+      "swift_code": "ICICINBBCMS"
+    },
+    {
+      "id": 1883,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CROSS BORDER PAYMENT PROCESSING CENTRE)",
+      "swift_code": "ICICINBBNRI"
+    },
+    {
+      "id": 1884,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(GLOBAL TRADE SERVICES UNIT-MUMBAI)",
+      "swift_code": "ICICINBBCTS"
+    },
+    {
+      "id": 1885,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH UNIT)",
+      "swift_code": "ICICINBBOBU"
+    },
+    {
+      "id": 1886,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(REGIONAL TRADE SERVICES UNIT-MUMBAI)",
+      "swift_code": "ICICINBBRT1"
+    },
+    {
+      "id": 1887,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SANGLI BRANCH)",
+      "swift_code": "ICICINBBSAN"
+    },
+    {
+      "id": 1888,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(TREASURY)",
+      "swift_code": "ICICINBBTSY"
+    },
+    {
+      "id": 1889,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(VOSTRO CELL-MUMBAI)",
+      "swift_code": "ICICINBBVC1"
+    },
+    {
+      "id": 1890,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ICICINBB"
+    },
+    {
+      "id": 1891,
+      "bank": "ICICI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ICICINBBFEX"
+    },
+    {
+      "id": 1897,
+      "bank": "ICICI SECURITIES AND FINANCE COMPANY LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ICIFINB1"
+    },
+    {
+      "id": 1898,
+      "bank": "ICICI SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ICBRINB1"
+    },
+    {
+      "id": 1899,
+      "bank": "ICICI SECURITIES PRIMARY DEALERSHIP LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ISPDINB1"
+    },
+    {
+      "id": 1946,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI BRANCH)",
+      "swift_code": "IBKLINBB039"
+    },
+    {
+      "id": 1947,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE BRANCH)",
+      "swift_code": "IBKLINBB126"
+    },
+    {
+      "id": 1948,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(DOMBIVGALI)",
+      "swift_code": "IBKLINBBDOM"
+    },
+    {
+      "id": 1949,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(FORT)",
+      "swift_code": "IBKLINBBFRT"
+    },
+    {
+      "id": 1950,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(LARGE CORPORATE BRANCH,  MUMBAI)",
+      "swift_code": "IBKLINBB701"
+    },
+    {
+      "id": 1951,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MAROL)",
+      "swift_code": "IBKLINBBMRL"
+    },
+    {
+      "id": 1952,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI BRANCH)",
+      "swift_code": "IBKLINBB004"
+    },
+    {
+      "id": 1953,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS)",
+      "swift_code": "IBKLINBBOSB"
+    },
+    {
+      "id": 1954,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(PRABHADEVI)",
+      "swift_code": "IBKLINBBPDV"
+    },
+    {
+      "id": 1955,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SPECIALISED CORPORATE BRANCH, BKC, MUMBAI)",
+      "swift_code": "IBKLINBBA01"
+    },
+    {
+      "id": 1956,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(SPECIALISED TREASURY BRANCH, MUMBAI)",
+      "swift_code": "IBKLINBB796"
+    },
+    {
+      "id": 1957,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(TREASURY BACK OFFICE)",
+      "swift_code": "IBKLINBBTBO"
+    },
+    {
+      "id": 1958,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "IBKLINBB"
+    },
+    {
+      "id": 1985,
+      "bank": "IDBI CAPITAL MARKET SERVICES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ICMSINB1"
+    },
+    {
+      "id": 1987,
+      "bank": "IDFC BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(TREASURY)",
+      "swift_code": "IDFBINBBTRY"
+    },
+    {
+      "id": 1990,
+      "bank": "IDFC SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SSKIINB1"
+    },
+    {
+      "id": 1993,
+      "bank": "IIFL WEALTH MANAGEMENT LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "IIWMINB1"
+    },
+    {
+      "id": 1994,
+      "bank": "IIT INVESTRUST LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "IIININB1"
+    },
+    {
+      "id": 1995,
+      "bank": "IL AND FS BROKING SERVICES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "AVCPINB1"
+    },
+    {
+      "id": 1996,
+      "bank": "IL AND FS INVESTSMART LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "IIGFINB1"
+    },
+    {
+      "id": 1997,
+      "bank": "IL AND FS INVESTSMART SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "IVVTINB1"
+    },
+    {
+      "id": 1998,
+      "bank": "INDIA INFOLINE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "INOFINB1"
+    },
+    {
+      "id": 2001,
+      "bank": "INDIA SECURITIES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "INDCINB1"
+    },
+    {
+      "id": 2054,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(BANDRA BRANCH)",
+      "swift_code": "IDIBINBBBAN"
+    },
+    {
+      "id": 2055,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(CUFFE PARADE BRANCH)",
+      "swift_code": "IDIBINBBCPD"
+    },
+    {
+      "id": 2056,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(DADAR BRANCH)",
+      "swift_code": "IDIBINBBDDR"
+    },
+    {
+      "id": 2057,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, MUMBAI)",
+      "swift_code": "IDIBINBBIFM"
+    },
+    {
+      "id": 2058,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(JVPDS BRANCH)",
+      "swift_code": "IDIBINBBJVP"
+    },
+    {
+      "id": 2059,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI FORT BRANCH)",
+      "swift_code": "IDIBINBBBFT"
+    },
+    {
+      "id": 2060,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(NAPEAN SEA ROAD BRANCH)",
+      "swift_code": "IDIBINBBNSR"
+    },
+    {
+      "id": 2061,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "IDIBINBBNPT"
+    },
+    {
+      "id": 2062,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(OSHIWARA BRANCH)",
+      "swift_code": "IDIBINBBOSH"
+    },
+    {
+      "id": 2063,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(PRARTHANA SAMAJ)",
+      "swift_code": "IDIBINBBPRS"
+    },
+    {
+      "id": 2064,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(VILE PARLE BRANCH)",
+      "swift_code": "IDIBINBBVPL"
+    },
+    {
+      "id": 2065,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "(WADALA)",
+      "swift_code": "IDIBINBBWAD"
+    },
+    {
+      "id": 2066,
+      "bank": "INDIAN BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "IDIBINBB"
+    },
+    {
+      "id": 2094,
+      "bank": "INDIAN CLEARING CORPORATION LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "IDCCINB1"
+    },
+    {
+      "id": 2166,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI (W) BRANCH)",
+      "swift_code": "IOBAINBB209"
+    },
+    {
+      "id": 2167,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(BANDRA BRANCH)",
+      "swift_code": "IOBAINBB128"
+    },
+    {
+      "id": 2168,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(FLORA FOUNTAIN)",
+      "swift_code": "IOBAINBBG06"
+    },
+    {
+      "id": 2169,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(FORT BRANCH)",
+      "swift_code": "IOBAINBB014"
+    },
+    {
+      "id": 2170,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(JUHU - MUMBAI)",
+      "swift_code": "IOBAINBB199"
+    },
+    {
+      "id": 2171,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(KALBADEVI ROAD, MUMBAI, MAHARASHTRA)",
+      "swift_code": "IOBAINBB111"
+    },
+    {
+      "id": 2172,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(MAHIM BRANCH)",
+      "swift_code": "IOBAINBB051"
+    },
+    {
+      "id": 2173,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(MANDVI BRANCH)",
+      "swift_code": "IOBAINBB052"
+    },
+    {
+      "id": 2174,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "IOBAINBB625"
+    },
+    {
+      "id": 2175,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(NEW MARINE LINES BRANCH)",
+      "swift_code": "IOBAINBB301"
+    },
+    {
+      "id": 2176,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(OPERA HOUSE, MUMBAI)",
+      "swift_code": "IOBAINBB140"
+    },
+    {
+      "id": 2177,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(SANTACRUZ - MUMBAI)",
+      "swift_code": "IOBAINBB247"
+    },
+    {
+      "id": 2178,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(SPECIALISED LARGE CORPORATE BRANCH)",
+      "swift_code": "IOBAINBBT98"
+    },
+    {
+      "id": 2179,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MUMBAI",
+      "branch": "(WORLI - MUMBAI)",
+      "swift_code": "IOBAINBB205"
+    },
+    {
+      "id": 2221,
+      "bank": "INDOSUEZ W I CARR SECURITIES (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "WICAINB1"
+    },
+    {
+      "id": 2222,
+      "bank": "INDSEC SECURITIES AND FINANCE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "INSFINB1"
+    },
+    {
+      "id": 2223,
+      "bank": "INDSEC SECURITIES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "INCCINB1"
+    },
+    {
+      "id": 2224,
+      "bank": "INDSEC SHARE AND STOCK BROKING LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "INSOINB1"
+    },
+    {
+      "id": 2245,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI BRANCH)",
+      "swift_code": "INDBINBBBOA"
+    },
+    {
+      "id": 2246,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(BKC BRANCH IN BANDRA, MUMBAI)",
+      "swift_code": "INDBINBBBOB"
+    },
+    {
+      "id": 2247,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CENTRALISED OPERATIONS)",
+      "swift_code": "INDBINBBCPC"
+    },
+    {
+      "id": 2248,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI 400 004)",
+      "swift_code": "INDBINBBFIG"
+    },
+    {
+      "id": 2249,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI, BANDRA S.V. ROAD)",
+      "swift_code": "INDBINBBBAS"
+    },
+    {
+      "id": 2250,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI, NARIMAN POINT)",
+      "swift_code": "INDBINBBBON"
+    },
+    {
+      "id": 2251,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI, OPERA HOUSE)",
+      "swift_code": "INDBINBBBOO"
+    },
+    {
+      "id": 2252,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(PNA HOUSE)",
+      "swift_code": "INDBINBBGRD"
+    },
+    {
+      "id": 2253,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "INDBINBB"
+    },
+    {
+      "id": 2254,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "INDBINBBIPS"
+    },
+    {
+      "id": 2266,
+      "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ICBKINBB"
+    },
+    {
+      "id": 2268,
+      "bank": "INFINITY.COM FINANCIAL SECURITIES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "INLRINB1"
+    },
+    {
+      "id": 2270,
+      "bank": "INVESTEC CAPITAL SERVICES (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ICEIINB1"
+    },
+    {
+      "id": 2271,
+      "bank": "ISHWARLAL MAGANLAL AND SONS",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ISMSINB1"
+    },
+    {
+      "id": 2272,
+      "bank": "J M FINANCIAL AND INVESTMENT CONSULTANCY SERVICES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JMFIINB1"
+    },
+    {
+      "id": 2273,
+      "bank": "J.G. SHAH AND CO",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHAHINB1"
+    },
+    {
+      "id": 2274,
+      "bank": "J.P. MORGAN INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CHASIN41"
+    },
+    {
+      "id": 2297,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "MUMBAI",
+      "branch": "(BANDRA MUMBAI)",
+      "swift_code": "JAKAINBBBDR"
+    },
+    {
+      "id": 2298,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "MUMBAI",
+      "branch": "(FORT BRANCH, MUMBAI)",
+      "swift_code": "JAKAINBBMUM"
+    },
+    {
+      "id": 2299,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "MUMBAI",
+      "branch": "(JK BANK  AZADPUR  NEW DELHI  INDIA)",
+      "swift_code": "JAKAINBBAZD"
+    },
+    {
+      "id": 2300,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "MUMBAI",
+      "branch": "(WORLI MUMBAI)",
+      "swift_code": "JAKAINBBWOR"
+    },
+    {
+      "id": 2301,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JAKAINBB"
+    },
+    {
+      "id": 2316,
+      "bank": "JAMNADAS KHUSHALDAS SHARES AND STOCK BROKERS PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JKSSINB1"
+    },
+    {
+      "id": 2317,
+      "bank": "JARDINE FLEMING INDIA SECURITIES PTY LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JFISINB1"
+    },
+    {
+      "id": 2318,
+      "bank": "JASVANTLAL CHHOTALAL AND COMPANY PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JASCINB1"
+    },
+    {
+      "id": 2319,
+      "bank": "JAYANTILAL KHANDWALA AND SONS",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JAKSINB1"
+    },
+    {
+      "id": 2321,
+      "bank": "JCP SHARES AND SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JSSPINB1"
+    },
+    {
+      "id": 2322,
+      "bank": "JEFFERIES INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JEIPINB1"
+    },
+    {
+      "id": 2323,
+      "bank": "JET AGE SECURITIES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JETAINB1"
+    },
+    {
+      "id": 2324,
+      "bank": "JM FINANCIAL ASK SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JMFAINB1"
+    },
+    {
+      "id": 2325,
+      "bank": "JM FINANCIAL INSTITUTIONAL SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JMFPINB1"
+    },
+    {
+      "id": 2326,
+      "bank": "JM FINANCIAL LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHSBINB1"
+    },
+    {
+      "id": 2327,
+      "bank": "JM FINANCIAL SERVICES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "FIVPINB1"
+    },
+    {
+      "id": 2328,
+      "bank": "JPMORGAN CHASE BANK, N.A., MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "(FX OPERATIONS SERVICES)",
+      "swift_code": "CHASINBXTRO"
+    },
+    {
+      "id": 2329,
+      "bank": "JPMORGAN CHASE BANK, N.A., MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "(GLOBAL SERVICE CENTRE)",
+      "swift_code": "CHASINBXGSC"
+    },
+    {
+      "id": 2330,
+      "bank": "JPMORGAN CHASE BANK, N.A., MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "(LOANS AND DEPOSITS SERVICES)",
+      "swift_code": "CHASINBXLND"
+    },
+    {
+      "id": 2331,
+      "bank": "JPMORGAN CHASE BANK, N.A., MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "(LOCAL CUSTODY OPERATIONS)",
+      "swift_code": "CHASINBXLCO"
+    },
+    {
+      "id": 2332,
+      "bank": "JPMORGAN CHASE BANK, N.A., MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "(MONEY TRANSFER SERVICES)",
+      "swift_code": "CHASINBXMTS"
+    },
+    {
+      "id": 2333,
+      "bank": "JPMORGAN CHASE BANK, N.A., MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+      "swift_code": "CHASINBXKEY"
+    },
+    {
+      "id": 2334,
+      "bank": "JPMORGAN CHASE BANK, N.A., MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "(TRADE SERVICES)",
+      "swift_code": "CHASINBXTSD"
+    },
+    {
+      "id": 2335,
+      "bank": "JPMORGAN CHASE BANK, N.A., MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CHASINBX"
+    },
+    {
+      "id": 2336,
+      "bank": "JSB SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JSBEINB1"
+    },
+    {
+      "id": 2338,
+      "bank": "K G VORA SECURITIES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "VOSEINB1"
+    },
+    {
+      "id": 2339,
+      "bank": "K J SHAH AND SONS",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHSOINB1"
+    },
+    {
+      "id": 2340,
+      "bank": "K.G. VORA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "VORAINB1"
+    },
+    {
+      "id": 2341,
+      "bank": "K.N. PEREKH",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PERKINB1"
+    },
+    {
+      "id": 2342,
+      "bank": "K.R. CHOKSEY AND CO",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CHOSINB1"
+    },
+    {
+      "id": 2343,
+      "bank": "KAILASH BHARAT INVESTMENT INTERMEDIARY PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KBIIINB1"
+    },
+    {
+      "id": 2344,
+      "bank": "KAILASH H BIYANI",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KABIINB1"
+    },
+    {
+      "id": 2359,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL DIVISION)",
+      "swift_code": "KARBINBB"
+    },
+    {
+      "id": 2360,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "KARBINBBOSB"
+    },
+    {
+      "id": 2375,
+      "bank": "KARUR VYSYA BANK LTD., THE",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI BRANCH)",
+      "swift_code": "KVBLINBBAND"
+    },
+    {
+      "id": 2381,
+      "bank": "KEYNOTE CAPITALS LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KCAPINB1"
+    },
+    {
+      "id": 2383,
+      "bank": "KHANDWALA FINANCE PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KHFPINB1"
+    },
+    {
+      "id": 2384,
+      "bank": "KIM ENG SECURITIES INDIA PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KESNINB1"
+    },
+    {
+      "id": 2385,
+      "bank": "KISAN RATILAL CHOKSEY AND CO",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KIRCINB1"
+    },
+    {
+      "id": 2386,
+      "bank": "KISAN RATILAL CHOKSEY SHARES AND SECURITIES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KRCSINB1"
+    },
+    {
+      "id": 2390,
+      "bank": "KOTAK MAHINDRA BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CPC - TRADE FINANCE)",
+      "swift_code": "KKBKINBBCPC"
+    },
+    {
+      "id": 2391,
+      "bank": "KOTAK MAHINDRA BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(CUSTODY OPERATION)",
+      "swift_code": "KKBKINBBCUS"
+    },
+    {
+      "id": 2392,
+      "bank": "KOTAK MAHINDRA BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(NRI CELL)",
+      "swift_code": "KKBKINBBNRI"
+    },
+    {
+      "id": 2393,
+      "bank": "KOTAK MAHINDRA BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(TREASURY)",
+      "swift_code": "KKBKINBBTRY"
+    },
+    {
+      "id": 2394,
+      "bank": "KOTAK MAHINDRA BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KKBKINBB"
+    },
+    {
+      "id": 2395,
+      "bank": "KOTAK SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KSSCINB1"
+    },
+    {
+      "id": 2396,
+      "bank": "KOTAK SECURITIES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KOSEINB1"
+    },
+    {
+      "id": 2397,
+      "bank": "KRUNG THAI BANK PUBLIC COMPANY LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "KRTHINBB"
+    },
+    {
+      "id": 2399,
+      "bank": "L.K. PANDAY",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PANDINB1"
+    },
+    {
+      "id": 2409,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI FORT)",
+      "swift_code": "LAVBINBB174"
+    },
+    {
+      "id": 2410,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "LAVBINBB"
+    },
+    {
+      "id": 2416,
+      "bank": "LATIN MANHARLAL SECURITIES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "LMSPINB1"
+    },
+    {
+      "id": 2417,
+      "bank": "LEHMAN BROTHERS SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "LBSPINB1"
+    },
+    {
+      "id": 2418,
+      "bank": "LKP MERCHANT FINANCING LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "LKPCINB1"
+    },
+    {
+      "id": 2419,
+      "bank": "LKP SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "LKSEINB1"
+    },
+    {
+      "id": 2420,
+      "bank": "LKP SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "LKSSINB1"
+    },
+    {
+      "id": 2421,
+      "bank": "MACQUARIE CAPITAL SECURITIES (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MSIVINB1"
+    },
+    {
+      "id": 2423,
+      "bank": "MAHARASHTRA STATE CO-OPERATIVE BANK LTD., THE",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MSCIINBB"
+    },
+    {
+      "id": 2424,
+      "bank": "MANGAL KESHAV SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MKSEINB1"
+    },
+    {
+      "id": 2425,
+      "bank": "MAPE ADMISI SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MAEPINB1"
+    },
+    {
+      "id": 2426,
+      "bank": "MARLIN PARTNERS LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MOMIINB1"
+    },
+    {
+      "id": 2428,
+      "bank": "MASHREQ BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MSHQINBB"
+    },
+    {
+      "id": 2429,
+      "bank": "MATA SECURITIES INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MSIPINB1"
+    },
+    {
+      "id": 2430,
+      "bank": "MCX STOCK EXCHANGE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MCSXINB1"
+    },
+    {
+      "id": 2431,
+      "bank": "MEHTA EQUITIES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MEEQINB1"
+    },
+    {
+      "id": 2433,
+      "bank": "MIZUHO BANK, LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MHCBINBB"
+    },
+    {
+      "id": 2436,
+      "bank": "MONEYBEE SECURITIES PRIVATE LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MOSVINB1"
+    },
+    {
+      "id": 2438,
+      "bank": "MORGAN STANLEY INDIA COMPANY PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MSMBINBX"
+    },
+    {
+      "id": 2439,
+      "bank": "MOTILAL OSWAL SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MOOSINB1"
+    },
+    {
+      "id": 2440,
+      "bank": "MUKESH BABU SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MUBSINB1"
+    },
+    {
+      "id": 2441,
+      "bank": "MURARILAL SARAF",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "MUSRINB1"
+    },
+    {
+      "id": 2442,
+      "bank": "NAGARMAL SARAF",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NASRINB1"
+    },
+    {
+      "id": 2443,
+      "bank": "NAGARMAL SARAF SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NSSPINB1"
+    },
+    {
+      "id": 2444,
+      "bank": "NATIONAL AUSTRALIA BANK LIMITED, INDIA BRANCH",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NATAINBB"
+    },
+    {
+      "id": 2445,
+      "bank": "NATIONAL SECURITIES DEPOSITORY LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NSDLINB1"
+    },
+    {
+      "id": 2446,
+      "bank": "NATIONAL STOCK EXCHANGE OF INDIA LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "XNSEINB1"
+    },
+    {
+      "id": 2447,
+      "bank": "NAVRATAN CAPITAL AND SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NCSPINB1"
+    },
+    {
+      "id": 2448,
+      "bank": "NETWORTH STOCK BROKING LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NESRINB1"
+    },
+    {
+      "id": 2449,
+      "bank": "NEWEDGE BROKER INDIA PRIVATE LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NEWGINB1"
+    },
+    {
+      "id": 2450,
+      "bank": "NH SECURITIES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SEPVINB1"
+    },
+    {
+      "id": 2451,
+      "bank": "NIRMAL BANG EQUITIES PVT. LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NEQPINB1"
+    },
+    {
+      "id": 2452,
+      "bank": "NIRPAN SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NISCINB1"
+    },
+    {
+      "id": 2453,
+      "bank": "NKGSB CO OP BANK LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NKGSINBB"
+    },
+    {
+      "id": 2454,
+      "bank": "NOMURA FINANCIAL ADVISORY AND SECURITIES (INDIA) PVT. LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NFAEINB1"
+    },
+    {
+      "id": 2455,
+      "bank": "NOMURA FIXED INCOME SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "NFIEINB1"
+    },
+    {
+      "id": 2456,
+      "bank": "OHM STOCK BROKER PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "OSBPINB1"
+    },
+    {
+      "id": 2509,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(1042)",
+      "swift_code": "ORBCINBBOPR"
+    },
+    {
+      "id": 2510,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(1045)",
+      "swift_code": "ORBCINBBBDR"
+    },
+    {
+      "id": 2511,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(B/O CORPORATE GROUP FINANCE BRANCH, CUFF PARADE, MUMBAI)",
+      "swift_code": "ORBCINBBIFB"
+    },
+    {
+      "id": 2512,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(B/O MALAD (WEST))",
+      "swift_code": "ORBCINBBMLD"
+    },
+    {
+      "id": 2513,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(FORT MUMBAI BRANCH)",
+      "swift_code": "ORBCINBBFRT"
+    },
+    {
+      "id": 2514,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "ORBCINBBOVS"
+    },
+    {
+      "id": 2515,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS, ANDHERI (EAST), MUMBAI)",
+      "swift_code": "ORBCINBBAEM"
+    },
+    {
+      "id": 2516,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(POWAI SOL 0632)",
+      "swift_code": "ORBCINBBPOW"
+    },
+    {
+      "id": 2517,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(PRABHADEVI BRANCH)",
+      "swift_code": "ORBCINBBPVD"
+    },
+    {
+      "id": 2518,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "(RAIPUR)",
+      "swift_code": "ORBCINBBRPR"
+    },
+    {
+      "id": 2519,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ORBCINBB"
+    },
+    {
+      "id": 2548,
+      "bank": "P.R. SUBRAMANYAM AND SONS",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SUBYINB1"
+    },
+    {
+      "id": 2549,
+      "bank": "PADMAKANT DEVIDAS SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PADMINB1"
+    },
+    {
+      "id": 2550,
+      "bank": "PARAG PARIKH FINANCIAL ADVISORY SERVICES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PPFSINB1"
+    },
+    {
+      "id": 2551,
+      "bank": "PARAG PARIKH SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PAPEINB1"
+    },
+    {
+      "id": 2553,
+      "bank": "PEREGRINE CAPITAL INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ITPCINB1"
+    },
+    {
+      "id": 2554,
+      "bank": "PHILLIPCAPITAL (INDIA) PRIVATE LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PHIRINB1"
+    },
+    {
+      "id": 2555,
+      "bank": "PIYUSH ARUN VORA SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PIYUINB1"
+    },
+    {
+      "id": 2557,
+      "bank": "PMB CAPITAL SERVICES LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PMBCINB1"
+    },
+    {
+      "id": 2558,
+      "bank": "PRABHUDAS LILLADHER PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PRAHINB1"
+    },
+    {
+      "id": 2559,
+      "bank": "PRANAV SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PRSPINB1"
+    },
+    {
+      "id": 2560,
+      "bank": "PRIME BROKING COMPANY (INDIA) LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PBCIINB1"
+    },
+    {
+      "id": 2561,
+      "bank": "PT BANK MAYBANK INDONESIA TBK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "IBBKINBB"
+    },
+    {
+      "id": 2562,
+      "bank": "PUG SECURITIES PVT. LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PUEPINB1"
+    },
+    {
+      "id": 2563,
+      "bank": "PUG STOCK BROKERS PVT. LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PSBPINB1"
+    },
+    {
+      "id": 2566,
+      "bank": "PUNJAB AND MAHARASHTRA CO-OPERATIVE BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "(TRADE FINANCE)",
+      "swift_code": "PMCBINBBADH"
+    },
+    {
+      "id": 2567,
+      "bank": "PUNJAB AND MAHARASHTRA CO-OPERATIVE BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PMCBINBB"
+    },
+    {
+      "id": 2581,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI BRANCH)",
+      "swift_code": "PSIBINBB021"
+    },
+    {
+      "id": 2582,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "MUMBAI",
+      "branch": "(FORT MUMBAI)",
+      "swift_code": "PSIBINBB002"
+    },
+    {
+      "id": 2583,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "MUMBAI",
+      "branch": "(IBD MUMBAI)",
+      "swift_code": "PSIBINBB631"
+    },
+    {
+      "id": 2584,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "MUMBAI",
+      "branch": "(KALBADEVI BRANCH)",
+      "swift_code": "PSIBINBB431"
+    },
+    {
+      "id": 2585,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "MUMBAI",
+      "branch": "(MASJID BUNDER MUMBAI)",
+      "swift_code": "PSIBINBB003"
+    },
+    {
+      "id": 2586,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "PSIBINBB"
+    },
+    {
+      "id": 2587,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "MUMBAI",
+      "branch": "(OPERA HOUSE MUMBAI)",
+      "swift_code": "PSIBINBB004"
+    },
+    {
+      "id": 2733,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(BANDRA KURLA COMPLEX,MUMBAI)",
+      "swift_code": "PUNBINBBMKC"
+    },
+    {
+      "id": 2734,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(BRADY HOUSE BRANCH)",
+      "swift_code": "PUNBINBBBBH"
+    },
+    {
+      "id": 2735,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(FOREIGN EXCHANGE OFFICE)",
+      "swift_code": "PUNBINBBBFE"
+    },
+    {
+      "id": 2736,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(FORESHORE ROAD BRANCH)",
+      "swift_code": "PUNBINBBBFR"
+    },
+    {
+      "id": 2737,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(HO: TREASURY DIVISION, MUMBAI)",
+      "swift_code": "PUNBINBBDIB"
+    },
+    {
+      "id": 2738,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(ILACO HOUSE BRANCH)",
+      "swift_code": "PUNBINBBBIH"
+    },
+    {
+      "id": 2739,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "PUNBINBBBIF"
+    },
+    {
+      "id": 2740,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL BANKING BRANCH)",
+      "swift_code": "PUNBINBBDBB"
+    },
+    {
+      "id": 2741,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(MANDVI)",
+      "swift_code": "PUNBINBBMMA"
+    },
+    {
+      "id": 2742,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI, BANDRA (WEST))",
+      "swift_code": "PUNBINBBBCP"
+    },
+    {
+      "id": 2743,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(OFFSHORE BANKING UNIT)",
+      "swift_code": "PUNBINBBOBU"
+    },
+    {
+      "id": 2744,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(OPERA HOUSE BRANCH)",
+      "swift_code": "PUNBINBBBOH"
+    },
+    {
+      "id": 2745,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(PNB HOUSE PM ROAD BRANCH)",
+      "swift_code": "PUNBINBBBPF"
+    },
+    {
+      "id": 2746,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(SEEPZ BRANCH)",
+      "swift_code": "PUNBINBBBSZ"
+    },
+    {
+      "id": 2747,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "(WORLI MUMBAI)",
+      "swift_code": "PUNBINBBMWR"
+    },
+    {
+      "id": 2748,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "PUNBINBB"
+    },
+    {
+      "id": 2812,
+      "bank": "QATAR NATIONAL BANK SAQ",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "QNBAINBB"
+    },
+    {
+      "id": 2813,
+      "bank": "QUANT BROKING PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "QUBPINB1"
+    },
+    {
+      "id": 2814,
+      "bank": "QUANT SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "QAMPINB1"
+    },
+    {
+      "id": 2816,
+      "bank": "R.N. SHAH",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "RNSHINB1"
+    },
+    {
+      "id": 2819,
+      "bank": "RBL BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "RATNINBB"
+    },
+    {
+      "id": 2820,
+      "bank": "RBS EQUITIES (INDIA) LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "HGASINB1"
+    },
+    {
+      "id": 2821,
+      "bank": "RELIANCE EQUITIES INTERNATIONAL PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "REIPINB1"
+    },
+    {
+      "id": 2822,
+      "bank": "RELIANCE INDUSTRIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "REILINBB"
+    },
+    {
+      "id": 2823,
+      "bank": "RELIANCE SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "RSERINB1"
+    },
+    {
+      "id": 2824,
+      "bank": "RELIGARE CAPITAL MARKETS LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "REPKINB1"
+    },
+    {
+      "id": 2825,
+      "bank": "RELIGARE SECURITIES LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "RSEUINB1"
+    },
+    {
+      "id": 2826,
+      "bank": "RESERVE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "RBISINBB"
+    },
+    {
+      "id": 2827,
+      "bank": "ROONGTA CAPITAL MARKETS PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ROCMINB1"
+    },
+    {
+      "id": 2828,
+      "bank": "ROSY BLUE SECURITIES PRIVATE LIMITED.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ROSPINB1"
+    },
+    {
+      "id": 2835,
+      "bank": "SBICAP SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SBSEINB1"
+    },
+    {
+      "id": 2836,
+      "bank": "SBI-SG GLOBAL SECURITIES SERVICES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SBSGINBB"
+    },
+    {
+      "id": 2837,
+      "bank": "SBM BANK (MAURITIUS) LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "STCBINBX"
+    },
+    {
+      "id": 2838,
+      "bank": "SBM BANK (MAURITIUS) LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "STCBINBXNPT"
+    },
+    {
+      "id": 2839,
+      "bank": "SECURITIES AND EXCHANGE BOARD OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SEBOINB1"
+    },
+    {
+      "id": 2840,
+      "bank": "SG ASIA SECURITIES (INDIA) PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SGSEINB1"
+    },
+    {
+      "id": 2841,
+      "bank": "SHAILESH MERCHANT STOCK BROKERS PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SMSRINB1"
+    },
+    {
+      "id": 2843,
+      "bank": "SHAREKHAN LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHRKINB1"
+    },
+    {
+      "id": 2844,
+      "bank": "SHARP STOCKVISION SECURITIES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHSTINB1"
+    },
+    {
+      "id": 2845,
+      "bank": "SHINHAN BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHBKINBB"
+    },
+    {
+      "id": 2846,
+      "bank": "SHREE STOCKVISION SECURITIES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHTSINB1"
+    },
+    {
+      "id": 2848,
+      "bank": "SHUBHA TRADERS PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHTPINB1"
+    },
+    {
+      "id": 2849,
+      "bank": "SI INVESTMENTS AND BROKING PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "INBPINB1"
+    },
+    {
+      "id": 2852,
+      "bank": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SIDBINBB"
+    },
+    {
+      "id": 2853,
+      "bank": "SMC GLOBAL SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SMGSINB1"
+    },
+    {
+      "id": 2856,
+      "bank": "SOCIETE GENERALE",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SOGEINBB"
+    },
+    {
+      "id": 2859,
+      "bank": "SPA SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SESIINB1"
+    },
+    {
+      "id": 2861,
+      "bank": "SPS SHARE BROKERS PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SSBVINB1"
+    },
+    {
+      "id": 2864,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "MUMBAI",
+      "branch": "(BRANCH)",
+      "swift_code": "SCBLINBBBOM"
+    },
+    {
+      "id": 2865,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "MUMBAI",
+      "branch": "(CONSUMER BANKING)",
+      "swift_code": "SCBLINBBCON"
+    },
+    {
+      "id": 2866,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "MUMBAI",
+      "branch": "(INVESTMENT BANKING DIVISION)",
+      "swift_code": "SCBLINBBIBB"
+    },
+    {
+      "id": 2867,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SCBLINBB"
+    },
+    {
+      "id": 2869,
+      "bank": "STANDARD CHARTERED SECURITIES (INDIA) LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "UTSEINB1"
+    },
+    {
+      "id": 3370,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI (WEST), MUMBAI)",
+      "swift_code": "SBININBB354"
+    },
+    {
+      "id": 3371,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BACKBAY RECLAMATION BRANCH)",
+      "swift_code": "SBININBB107"
+    },
+    {
+      "id": 3372,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BARC,MUMBAI)",
+      "swift_code": "SBININBB508"
+    },
+    {
+      "id": 3373,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BORIVLI EAST,MUMBAI)",
+      "swift_code": "SBININBB510"
+    },
+    {
+      "id": 3374,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BULLION BRANCH)",
+      "swift_code": "SBININBB648"
+    },
+    {
+      "id": 3375,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CAG-SBICSPL, MUMBAI)",
+      "swift_code": "SBININBB658"
+    },
+    {
+      "id": 3376,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP41"
+    },
+    {
+      "id": 3377,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHEMBUR RNW,MUMBAI)",
+      "swift_code": "SBININBB514"
+    },
+    {
+      "id": 3378,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBH24"
+    },
+    {
+      "id": 3379,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBH28"
+    },
+    {
+      "id": 3380,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBH48"
+    },
+    {
+      "id": 3381,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBM27"
+    },
+    {
+      "id": 3382,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBT70"
+    },
+    {
+      "id": 3383,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CHURCHGATE BRANCH, MUMBAI)",
+      "swift_code": "SBININBB196"
+    },
+    {
+      "id": 3384,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CMP CENTRE)",
+      "swift_code": "SBININBB688"
+    },
+    {
+      "id": 3385,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB101"
+    },
+    {
+      "id": 3386,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(COMMERCIAL BRANCH, DADAR)",
+      "swift_code": "SBININBB355"
+    },
+    {
+      "id": 3387,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(COMMERCIAL BRANCH, PUNE)",
+      "swift_code": "SBININBB249"
+    },
+    {
+      "id": 3388,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(COMMERCIAL BRANCH, VILE PARLE (EAST))",
+      "swift_code": "SBININBB356"
+    },
+    {
+      "id": 3389,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE ACCOUNTS GROUP BRANCH)",
+      "swift_code": "SBININBB162"
+    },
+    {
+      "id": 3390,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE ACCOUNTS GROUP BRANCH-II, MUMBAI)",
+      "swift_code": "SBININBB796"
+    },
+    {
+      "id": 3391,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CUFFE PARADE MVIRDC,MUMBAI)",
+      "swift_code": "SBININBB515"
+    },
+    {
+      "id": 3392,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(D.N. ROAD,MUMBAI)",
+      "swift_code": "SBININBB516"
+    },
+    {
+      "id": 3393,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(DIAMOND BRANCH)",
+      "swift_code": "SBININBB109"
+    },
+    {
+      "id": 3394,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(DIAMOND GARDEN, CHEMBUR BRANCH)",
+      "swift_code": "SBININBB682"
+    },
+    {
+      "id": 3395,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(FBGCPC MUMBAI)",
+      "swift_code": "SBININBBFBG"
+    },
+    {
+      "id": 3396,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(FORT, MUMBAI (ERSTWHILE SB INDORE))",
+      "swift_code": "SBININBB689"
+    },
+    {
+      "id": 3397,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(GAREGAON EAST,MUMBAI)",
+      "swift_code": "SBININBB518"
+    },
+    {
+      "id": 3398,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(GHATKOPAR EAST,MUMBAI)",
+      "swift_code": "SBININBB517"
+    },
+    {
+      "id": 3399,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(GLOBAL LINK SERVICES(GLS))",
+      "swift_code": "SBININBB176"
+    },
+    {
+      "id": 3400,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(GOREGAON MULUND LINK ROAD BRANCH)",
+      "swift_code": "SBININBB813"
+    },
+    {
+      "id": 3401,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH51"
+    },
+    {
+      "id": 3402,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(IFB, MALAD(WEST)MUMBAI)",
+      "swift_code": "SBININBB198"
+    },
+    {
+      "id": 3403,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(IIT,POWAI,MUMBAI)",
+      "swift_code": "SBININBB519"
+    },
+    {
+      "id": 3404,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SBININBB150"
+    },
+    {
+      "id": 3405,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, ANDHERI EAST)",
+      "swift_code": "SBININBB197"
+    },
+    {
+      "id": 3406,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, SAKINAKA, MUMBAI)",
+      "swift_code": "SBININBB151"
+    },
+    {
+      "id": 3407,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL SERVICES BRANCH)",
+      "swift_code": "SBININBB136"
+    },
+    {
+      "id": 3408,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(JOGESHWARI (WEST), MUMBAI)",
+      "swift_code": "SBININBB360"
+    },
+    {
+      "id": 3409,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(KANDIVLI INDUST. EST. MUMBAI)",
+      "swift_code": "SBININBB361"
+    },
+    {
+      "id": 3410,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT67"
+    },
+    {
+      "id": 3411,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT77"
+    },
+    {
+      "id": 3412,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(LINKING ROAD,MUMBAI)",
+      "swift_code": "SBININBB520"
+    },
+    {
+      "id": 3413,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MADAME CAMA ROAD,MUMBAI)",
+      "swift_code": "SBININBB521"
+    },
+    {
+      "id": 3414,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "SBININBB110"
+    },
+    {
+      "id": 3415,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MANDVI,MUMBAI)",
+      "swift_code": "SBININBB523"
+    },
+    {
+      "id": 3416,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MAROL,MUMBAI)",
+      "swift_code": "SBININBB526"
+    },
+    {
+      "id": 3417,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MIDC, ANDHERI (EAST))",
+      "swift_code": "SBININBB363"
+    },
+    {
+      "id": 3418,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBH01"
+    },
+    {
+      "id": 3419,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBH27"
+    },
+    {
+      "id": 3420,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBJ14"
+    },
+    {
+      "id": 3421,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBJ15"
+    },
+    {
+      "id": 3422,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBJ16"
+    },
+    {
+      "id": 3423,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBT65"
+    },
+    {
+      "id": 3424,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT MUMBAI)",
+      "swift_code": "SBININBB364"
+    },
+    {
+      "id": 3425,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NEPEAN SEA ROAD,MUMBAI)",
+      "swift_code": "SBININBB529"
+    },
+    {
+      "id": 3426,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBH46"
+    },
+    {
+      "id": 3427,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBP02"
+    },
+    {
+      "id": 3428,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBP19"
+    },
+    {
+      "id": 3429,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBP54"
+    },
+    {
+      "id": 3430,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NRI BRANCH SEAWOODS)",
+      "swift_code": "SBININBB787"
+    },
+    {
+      "id": 3431,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NRI BRANCH)",
+      "swift_code": "SBININBB111"
+    },
+    {
+      "id": 3432,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NRI BRANCH, VILE  PARLE(WEST) MUMBAI)",
+      "swift_code": "SBININBB775"
+    },
+    {
+      "id": 3433,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OBU SEEPZ)",
+      "swift_code": "SBININBB569"
+    },
+    {
+      "id": 3434,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OPERA HOUSE, MUMBAI)",
+      "swift_code": "SBININBB365"
+    },
+    {
+      "id": 3435,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB103"
+    },
+    {
+      "id": 3436,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(PEDDAR ROAD,MUMBAI)",
+      "swift_code": "SBININBB532"
+    },
+    {
+      "id": 3437,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(PERSONAL BANKING BRANCH, MUMBAI)",
+      "swift_code": "SBININBB367"
+    },
+    {
+      "id": 3438,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SANTACRUZ WEST,MUMBAI)",
+      "swift_code": "SBININBB536"
+    },
+    {
+      "id": 3439,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SEEPZ BRANCH)",
+      "swift_code": "SBININBB161"
+    },
+    {
+      "id": 3440,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SHIVSAGAR ESTATE)",
+      "swift_code": "SBININBB837"
+    },
+    {
+      "id": 3441,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SIB GHATKOPAR)",
+      "swift_code": "SBININBB836"
+    },
+    {
+      "id": 3442,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SIR P.M. ROAD BRANCH, FORT)",
+      "swift_code": "SBININBB627"
+    },
+    {
+      "id": 3443,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SME BACKBAY RECLAMATION BRANCH)",
+      "swift_code": "SBININBB684"
+    },
+    {
+      "id": 3444,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SME MIDC ANDHERI EAST)",
+      "swift_code": "SBININBB832"
+    },
+    {
+      "id": 3445,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SPECIALISED NRI BRANCH CHEMBUR)",
+      "swift_code": "SBININBB801"
+    },
+    {
+      "id": 3446,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(STATE BANK OF INDIA)",
+      "swift_code": "SBININBB847"
+    },
+    {
+      "id": 3447,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(TRADE FINANCE CENTRAL PROCESSING CELL BRANCH)",
+      "swift_code": "SBININBB582"
+    },
+    {
+      "id": 3448,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(WORLI NORTH, MUMBAI)",
+      "swift_code": "SBININBB370"
+    },
+    {
+      "id": 3449,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SBININBB"
+    },
+    {
+      "id": 3450,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SBININBB442"
+    },
+    {
+      "id": 3713,
+      "bank": "STOCK HOLDING CORPORATION OF INDIA LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SHCIINBB"
+    },
+    {
+      "id": 3715,
+      "bank": "SUNDER IYER",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SUIYINB1"
+    },
+    {
+      "id": 3716,
+      "bank": "SUNIDHI CONSULTANCY SERVICES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SCSVINB1"
+    },
+    {
+      "id": 3717,
+      "bank": "SUSHIL FINANCIAL SERVICE PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SFSVINB1"
+    },
+    {
+      "id": 3719,
+      "bank": "SVC CO-OPERATIVE BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SVCBINBB"
+    },
+    {
+      "id": 3795,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI EADT BRANCH)",
+      "swift_code": "SYNBINBB020"
+    },
+    {
+      "id": 3796,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(BACKBAY RECL. BRANCH)",
+      "swift_code": "SYNBINBB174"
+    },
+    {
+      "id": 3797,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(COLABA BRANCH)",
+      "swift_code": "SYNBINBB034"
+    },
+    {
+      "id": 3798,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(DANABUNDER BRANCH)",
+      "swift_code": "SYNBINBB002"
+    },
+    {
+      "id": 3799,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(FORT BRANCH)",
+      "swift_code": "SYNBINBB025"
+    },
+    {
+      "id": 3800,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(FXPC BRANCH)",
+      "swift_code": "SYNBINBB124"
+    },
+    {
+      "id": 3801,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(HOMJI STREET BRANCH)",
+      "swift_code": "SYNBINBB001"
+    },
+    {
+      "id": 3802,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SYNBINBB154"
+    },
+    {
+      "id": 3803,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(MAROL BRANCH)",
+      "swift_code": "SYNBINBB166"
+    },
+    {
+      "id": 3804,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "SYNBINBB018"
+    },
+    {
+      "id": 3805,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(NEW MARINE LINES BRANCH)",
+      "swift_code": "SYNBINBB040"
+    },
+    {
+      "id": 3806,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(PALI HILL BRANCH)",
+      "swift_code": "SYNBINBB183"
+    },
+    {
+      "id": 3807,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "(PRABHADEVI)",
+      "swift_code": "SYNBINBB038"
+    },
+    {
+      "id": 3808,
+      "bank": "SYNDICATE BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SYNBINBB"
+    },
+    {
+      "id": 3849,
+      "bank": "SYSTEMATIX SHARES AND STOCKS (I) LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SYSTINB1"
+    },
+    {
+      "id": 3853,
+      "bank": "TATA FINANCE SECURITIES LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "TAFSINB1"
+    },
+    {
+      "id": 3854,
+      "bank": "TATA SECURITIES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "TAECINB1"
+    },
+    {
+      "id": 3856,
+      "bank": "THE BHARAT CO-OPERATIVE BANK (MUMBAI) LTD",
+      "city": "MUMBAI",
+      "branch": "(TREASURY BRANCH)",
+      "swift_code": "BCMLINBBTRY"
+    },
+    {
+      "id": 3857,
+      "bank": "THE BHARAT CO-OPERATIVE BANK (MUMBAI) LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BCMLINBB"
+    },
+    {
+      "id": 3858,
+      "bank": "THE BHARAT CO-OPERATIVE BANK (MUMBAI) LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "BCMLINBBFRT"
+    },
+    {
+      "id": 3863,
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "city": "MUMBAI",
+      "branch": "(BOOKS DEPARTMENT)",
+      "swift_code": "HSBCINBBINY"
+    },
+    {
+      "id": 3864,
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "city": "MUMBAI",
+      "branch": "(DALHOUSIE SQUARE)",
+      "swift_code": "HSBCINBBDAL"
+    },
+    {
+      "id": 3865,
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "HSBCINBB"
+    },
+    {
+      "id": 3869,
+      "bank": "THE ROYAL BANK OF SCOTLAND PLC, INDIA BRANCH (FORMERLY KNOWN AS RBS NV)",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ABNAINBB"
+    },
+    {
+      "id": 3870,
+      "bank": "THE SANGLI BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SIBDINB1"
+    },
+    {
+      "id": 3874,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE BANKING BRANCH)",
+      "swift_code": "SRCBINBBCBB"
+    },
+    {
+      "id": 3875,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(FORT - OBC)",
+      "swift_code": "SRCBINBBFRT"
+    },
+    {
+      "id": 3876,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(KALINA)",
+      "swift_code": "SRCBINBBKAL"
+    },
+    {
+      "id": 3877,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(MAROL FOREX)",
+      "swift_code": "SRCBINBBMRL"
+    },
+    {
+      "id": 3878,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT)",
+      "swift_code": "SRCBINBBNPT"
+    },
+    {
+      "id": 3879,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SRCBINBBOSB"
+    },
+    {
+      "id": 3880,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(TREASURY DEPT/BACK OFFICE/MONEY MARKETS AND DERIVATIVES)",
+      "swift_code": "SRCBINBBTRS"
+    },
+    {
+      "id": 3881,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(VASHI BRANCH)",
+      "swift_code": "SRCBINBBVHI"
+    },
+    {
+      "id": 3882,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SRCBINBB"
+    },
+    {
+      "id": 3883,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SRCBINBBAND"
+    },
+    {
+      "id": 3884,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SRCBINBBBKC"
+    },
+    {
+      "id": 3885,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SRCBINBBGHT"
+    },
+    {
+      "id": 3926,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "MUMBAI",
+      "branch": "(GIRGAUM)",
+      "swift_code": "SOININ55266"
+    },
+    {
+      "id": 3927,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "MUMBAI",
+      "branch": "(MUMBAI FORT)",
+      "swift_code": "SOININ55263"
+    },
+    {
+      "id": 3928,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT MUMBAI BRANCH)",
+      "swift_code": "SOININ55194"
+    },
+    {
+      "id": 3941,
+      "bank": "THOMAS COOK (INDIA) LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "TCILINBB"
+    },
+    {
+      "id": 3942,
+      "bank": "TJSB SAHAKARI BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(ANDHERI IBD)",
+      "swift_code": "TJSKINBBANE"
+    },
+    {
+      "id": 3947,
+      "bank": "TOWER CAPITAL AND SECURITIES PVT.LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "TCSTINB1"
+    },
+    {
+      "id": 3948,
+      "bank": "TRENDS HOLDINGS AND CONSULTANCY PVT LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "THCPINB1"
+    },
+    {
+      "id": 3949,
+      "bank": "TRIVENI MANAGEMENT CONSULTANCY SERVICES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "TMCSINB1"
+    },
+    {
+      "id": 3950,
+      "bank": "TRUST FINANCIAL CONSULTANCY SERVICES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "TFCSINB1"
+    },
+    {
+      "id": 3951,
+      "bank": "TUSHAR BEDI",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "TUSHINB1"
+    },
+    {
+      "id": 3952,
+      "bank": "TWENTYFIRST CENTURY MANAGEMENT SERVICES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "TURYINB1"
+    },
+    {
+      "id": 3953,
+      "bank": "UBS SECURITIES INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "USIPINB1"
+    },
+    {
+      "id": 3954,
+      "bank": "UBS SECURITIES INDIA PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "WDRSINB1"
+    },
+    {
+      "id": 4002,
+      "bank": "UCO BANK",
+      "city": "MUMBAI",
+      "branch": "(D N ROAD BRANCH)",
+      "swift_code": "UCBAINBB004"
+    },
+    {
+      "id": 4003,
+      "bank": "UCO BANK",
+      "city": "MUMBAI",
+      "branch": "(MCU ANDHERI WEST MUMBAI)",
+      "swift_code": "UCBAINBBAND"
+    },
+    {
+      "id": 4004,
+      "bank": "UCO BANK",
+      "city": "MUMBAI",
+      "branch": "(NARIMAN POINT BRANCH)",
+      "swift_code": "UCBAINBB002"
+    },
+    {
+      "id": 4005,
+      "bank": "UCO BANK",
+      "city": "MUMBAI",
+      "branch": "(TREASURY)",
+      "swift_code": "UCBAINBB001"
+    },
+    {
+      "id": 4006,
+      "bank": "UCO BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "UCBAINBB"
+    },
+    {
+      "id": 4031,
+      "bank": "ULJK SECURITIES PVT LTD",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ULSVINB1"
+    },
+    {
+      "id": 4084,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(A. R. STREET BRANCH)",
+      "swift_code": "UBININBBARS"
+    },
+    {
+      "id": 4085,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(B.S. MARG BRANCH)",
+      "swift_code": "UBININBBBSM"
+    },
+    {
+      "id": 4086,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BHAT BAZAR BRANCH)",
+      "swift_code": "UBININBBBBZ"
+    },
+    {
+      "id": 4087,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(BYCULLA BRANCH)",
+      "swift_code": "UBININBBBYC"
+    },
+    {
+      "id": 4088,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CENTRALIZED FOREX BACK OFFICE)",
+      "swift_code": "UBININBBCFB"
+    },
+    {
+      "id": 4089,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(GHATKOPAR BRANCH)",
+      "swift_code": "UBININBBGHT"
+    },
+    {
+      "id": 4090,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(GOREGAON EAST)",
+      "swift_code": "UBININBBGOR"
+    },
+    {
+      "id": 4091,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(IFB,MUMBAI SAMACHAR MARG BRANCH)",
+      "swift_code": "UBININBBIMS"
+    },
+    {
+      "id": 4092,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "UBININBBIFB"
+    },
+    {
+      "id": 4093,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(INTERNATIONAL EXCHANGE BRANCH)",
+      "swift_code": "UBININBBIEV"
+    },
+    {
+      "id": 4094,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(KALBADEVI BRANCH)",
+      "swift_code": "UBININBBKLB"
+    },
+    {
+      "id": 4095,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(KHAND BAZAR BRANCH)",
+      "swift_code": "UBININBBKBZ"
+    },
+    {
+      "id": 4096,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(LOWER PAREL BR)",
+      "swift_code": "UBININBBLOP"
+    },
+    {
+      "id": 4097,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(NRI BRANCH)",
+      "swift_code": "UBININBBNRM"
+    },
+    {
+      "id": 4098,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OPERA HOUSE BRANCH)",
+      "swift_code": "UBININBBOPH"
+    },
+    {
+      "id": 4099,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH, MUMBAI)",
+      "swift_code": "UBININBBOBR"
+    },
+    {
+      "id": 4100,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(OVERSEAS BRANCH, SEEPZ)",
+      "swift_code": "UBININBBSEP"
+    },
+    {
+      "id": 4101,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(PRINCESS STREET BRANCH)",
+      "swift_code": "UBININBBPST"
+    },
+    {
+      "id": 4102,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SANTACRUZ BRANCH)",
+      "swift_code": "UBININBBSZW"
+    },
+    {
+      "id": 4103,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(SION EAST BR)",
+      "swift_code": "UBININBBSIO"
+    },
+    {
+      "id": 4104,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(TREASURY BRANCH)",
+      "swift_code": "UBININBBBKO"
+    },
+    {
+      "id": 4105,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "UBININBB"
+    },
+    {
+      "id": 4163,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(CORPORATE FINANCE BRANCH)",
+      "swift_code": "UTBIINBBCFM"
+    },
+    {
+      "id": 4164,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "(HOTEL OBEROI TOWERS)",
+      "swift_code": "UTBIINBBHOT"
+    },
+    {
+      "id": 4165,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "UTBIINBB"
+    },
+    {
+      "id": 4175,
+      "bank": "UNITED OVERSEAS BANK LIMITED MUMBAI BRANCH",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "UOVBINBB"
+    },
+    {
+      "id": 4182,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(DOMBIVLI EAST BRANCH)",
+      "swift_code": "UWBAINB1DOM"
+    },
+    {
+      "id": 4183,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(FORT BRANCH)",
+      "swift_code": "UWBAINB1FRT"
+    },
+    {
+      "id": 4184,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(INTEGRATED TREASURY BRANCH)",
+      "swift_code": "UWBAINB1TRY"
+    },
+    {
+      "id": 4185,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(MAROL BRANCH)",
+      "swift_code": "UWBAINB1MRL"
+    },
+    {
+      "id": 4186,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "(PRABHADEVI BRANCH)",
+      "swift_code": "UWBAINB1PDV"
+    },
+    {
+      "id": 4187,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "UWBAINB1"
+    },
+    {
+      "id": 4194,
+      "bank": "V JETHALAL RAMJI SHARE BROKERS PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "JRSBINB1"
+    },
+    {
+      "id": 4195,
+      "bank": "V.B. DESAI FINANCIAL SERVICES LTD.",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "DESIINB1"
+    },
+    {
+      "id": 4196,
+      "bank": "VASANT HOLDINGS PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "VAHPINB1"
+    },
+    {
+      "id": 4227,
+      "bank": "VIJAYA BANK",
+      "city": "MUMBAI",
+      "branch": "(CFEDOC DEPARTMENT)",
+      "swift_code": "VIJBINBBCFE"
+    },
+    {
+      "id": 4228,
+      "bank": "VIJAYA BANK",
+      "city": "MUMBAI",
+      "branch": "(EXCELSIOR BRANCH)",
+      "swift_code": "VIJBINBBEXB"
+    },
+    {
+      "id": 4229,
+      "bank": "VIJAYA BANK",
+      "city": "MUMBAI",
+      "branch": "(MANDVI BRANCH)",
+      "swift_code": "VIJBINBBMDV"
+    },
+    {
+      "id": 4230,
+      "bank": "VIJAYA BANK",
+      "city": "MUMBAI",
+      "branch": "(REG. FOREX CELL, MUMBAI)",
+      "swift_code": "VIJBINBBRFM"
+    },
+    {
+      "id": 4231,
+      "bank": "VIJAYA BANK",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "VIJBINBB"
+    },
+    {
+      "id": 4255,
+      "bank": "VIOLET ARCH SECURITIES PVT. LTD. 804 8TH FLOOR",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "ASPFINB1"
+    },
+    {
+      "id": 4257,
+      "bank": "VW GROUP SALES INDIA",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "VGSIINB1"
+    },
+    {
+      "id": 4259,
+      "bank": "WALLFORT FINANCIAL SERVICES LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "WAFRINB1"
+    },
+    {
+      "id": 4260,
+      "bank": "WEIZMANN LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "WEIZINB1"
+    },
+    {
+      "id": 4261,
+      "bank": "WESTPAC BANKING CORPORATION",
+      "city": "MUMBAI",
+      "branch": "(TRADE)",
+      "swift_code": "WPACINBBBBT"
+    },
+    {
+      "id": 4262,
+      "bank": "WESTPAC BANKING CORPORATION",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "WPACINBB"
+    },
+    {
+      "id": 4263,
+      "bank": "WOODSTOCK BROKING PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "WOBPINB1"
+    },
+    {
+      "id": 4264,
+      "bank": "WOODSTOCK SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "WOSPINB1"
+    },
+    {
+      "id": 4266,
+      "bank": "Y R CHOKSEY",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "CHOYINB1"
+    },
+    {
+      "id": 4270,
+      "bank": "YES BANK LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "YESBINBB"
+    },
+    {
+      "id": 4271,
+      "bank": "YSN SHARES AND SECURITIES PRIVATE LIMITED",
+      "city": "MUMBAI",
+      "branch": "",
+      "swift_code": "SYSNINB1"
+    }
+  ],
+  "meta": {
+    "title": "Mumbai में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Mumbai, India. Subset of hi-bank. Source city string preserved verbatim as \"MUMBAI\". शामिल हैं 850 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Mumbai में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Mumbai में बैंक — SWIFT/BIC कोड — 850 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 850 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

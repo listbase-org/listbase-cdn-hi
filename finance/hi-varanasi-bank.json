@@ -1,0 +1,156 @@
+{
+  "id": "hi-varanasi-bank",
+  "name": "Varanasi में बैंक — SWIFT/BIC कोड",
+  "title": "Varanasi में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Varanasi, India. Subset of hi-bank. Source city string preserved verbatim as \"VARANASI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 63,
+      "bank": "ALLAHABAD BANK",
+      "city": "VARANASI",
+      "branch": "(INTERNATIONAL BRANCH, VARANASI)",
+      "swift_code": "ALLAINBBVAR"
+    },
+    {
+      "id": 643,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VARANASI",
+      "branch": "(VARANASI)",
+      "swift_code": "AXISINBB287"
+    },
+    {
+      "id": 729,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "VARANASI",
+      "branch": "(VARANASI)",
+      "swift_code": "UTIBINB1287"
+    },
+    {
+      "id": 896,
+      "bank": "BANK OF BARODA",
+      "city": "VARANASI",
+      "branch": "(INTERNATIONAL BUSINESS BRANCH VARANASI)",
+      "swift_code": "BARBINBBVRN"
+    },
+    {
+      "id": 1118,
+      "bank": "BANK OF INDIA",
+      "city": "VARANASI",
+      "branch": "(VARANASI MAIN BRANCH)",
+      "swift_code": "BKIDINBBVAR"
+    },
+    {
+      "id": 1181,
+      "bank": "BENARES STATE BANK LTD., THE",
+      "city": "VARANASI",
+      "branch": "",
+      "swift_code": "BENAIN21"
+    },
+    {
+      "id": 1391,
+      "bank": "CANARA BANK",
+      "city": "VARANASI",
+      "branch": "(VARANASI BANASPHATAK MAIN)",
+      "swift_code": "CNRBINBBVAR"
+    },
+    {
+      "id": 1983,
+      "bank": "IDBI BANK LIMITED",
+      "city": "VARANASI",
+      "branch": "(VARANASI)",
+      "swift_code": "IBKLINBB081"
+    },
+    {
+      "id": 2545,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "VARANASI",
+      "branch": "(SIGRA VARANASI 0834)",
+      "swift_code": "ORBCINBBVAR"
+    },
+    {
+      "id": 2807,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "VARANASI",
+      "branch": "(MEHMOORGANJ VARANASI ROAD)",
+      "swift_code": "PUNBINBBVMG"
+    },
+    {
+      "id": 3690,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VARANASI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB125"
+    },
+    {
+      "id": 3844,
+      "bank": "SYNDICATE BANK",
+      "city": "VARANASI",
+      "branch": "(BHADOHI BRANCH)",
+      "swift_code": "SYNBINBBAZ2"
+    },
+    {
+      "id": 3845,
+      "bank": "SYNDICATE BANK",
+      "city": "VARANASI",
+      "branch": "(MID CORPORATE VARANASI)",
+      "swift_code": "SYNBINBBAR1"
+    },
+    {
+      "id": 4130,
+      "bank": "UNION BANK OF INDIA",
+      "city": "VARANASI",
+      "branch": "(VARANASI CANTT BRANCH)",
+      "swift_code": "UBININBBVRN"
+    },
+    {
+      "id": 4252,
+      "bank": "VIJAYA BANK",
+      "city": "VARANASI",
+      "branch": "(VARANASI BRANCH)",
+      "swift_code": "VIJBINBBVAR"
+    }
+  ],
+  "meta": {
+    "title": "Varanasi में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Varanasi, India. Subset of hi-bank. Source city string preserved verbatim as \"VARANASI\". शामिल हैं 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Varanasi में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Varanasi में बैंक — SWIFT/BIC कोड — 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 15 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

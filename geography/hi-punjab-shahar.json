@@ -1,0 +1,5416 @@
+{
+  "id": "hi-punjab-shahar",
+  "name": "पंजाब के शहर (Punjab Cities)",
+  "title": "पंजाब के शहर (Punjab Cities)",
+  "description": "पंजाब राज्य के 535 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 535 cities and towns in Punjab, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 535,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abadpura",
+      "name_lower": "abadpura",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.316667,
+      "longitude": 75.566667
+    },
+    {
+      "name": "Ablu",
+      "name_lower": "ablu",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.35,
+      "longitude": 74.8
+    },
+    {
+      "name": "Abohar",
+      "name_lower": "abohar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 130613,
+      "latitude": 30.15,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Abul Kharana",
+      "name_lower": "abul kharana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.15,
+      "longitude": 74.55
+    },
+    {
+      "name": "Aisru",
+      "name_lower": "aisru",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.671667,
+      "longitude": 76.111111
+    },
+    {
+      "name": "Aisru Kalan",
+      "name_lower": "aisru kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.671667,
+      "longitude": 76.111111
+    },
+    {
+      "name": "Ajitwal",
+      "name_lower": "ajitwal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.816667,
+      "longitude": 75.333333
+    },
+    {
+      "name": "Ajnala",
+      "name_lower": "ajnala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 19691,
+      "latitude": 31.8425,
+      "longitude": 74.758889
+    },
+    {
+      "name": "Ajram",
+      "name_lower": "ajram",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.466667,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Akalgarh",
+      "name_lower": "akalgarh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 6993,
+      "latitude": 29.816667,
+      "longitude": 75.883333
+    },
+    {
+      "name": "Aliwal",
+      "name_lower": "aliwal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.95,
+      "longitude": 75.6
+    },
+    {
+      "name": "Aluna Miana",
+      "name_lower": "aluna miana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.677778,
+      "longitude": 76.057778
+    },
+    {
+      "name": "Aluna Palla",
+      "name_lower": "aluna palla",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.679167,
+      "longitude": 76.045833
+    },
+    {
+      "name": "Aluna Tola",
+      "name_lower": "aluna tola",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.675833,
+      "longitude": 76.068611
+    },
+    {
+      "name": "Amloh",
+      "name_lower": "amloh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 13860,
+      "latitude": 30.608056,
+      "longitude": 76.230278
+    },
+    {
+      "name": "Amritsar",
+      "name_lower": "amritsar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 1092528,
+      "latitude": 31.633056,
+      "longitude": 74.865556
+    },
+    {
+      "name": "Anandpur Sahib",
+      "name_lower": "anandpur sahib",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 15230,
+      "latitude": 31.25,
+      "longitude": 76.5
+    },
+    {
+      "name": "Arnauli",
+      "name_lower": "arnauli",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.173611,
+      "longitude": 76.413611
+    },
+    {
+      "name": "Arniwala",
+      "name_lower": "arniwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.35,
+      "longitude": 74.266667
+    },
+    {
+      "name": "Asgaripur",
+      "name_lower": "asgaripur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.741944,
+      "longitude": 76.093889
+    },
+    {
+      "name": "Aslapur",
+      "name_lower": "aslapur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.6925,
+      "longitude": 76.059444
+    },
+    {
+      "name": "Atari",
+      "name_lower": "atari",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.600833,
+      "longitude": 74.605556
+    },
+    {
+      "name": "Baba Bakala",
+      "name_lower": "baba bakala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.555,
+      "longitude": 75.265556
+    },
+    {
+      "name": "Babahakala",
+      "name_lower": "babahakala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.555,
+      "longitude": 75.265556
+    },
+    {
+      "name": "Babbanpur",
+      "name_lower": "babbanpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.416667,
+      "longitude": 75.866667
+    },
+    {
+      "name": "Badbar",
+      "name_lower": "badbar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.25,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Badhni",
+      "name_lower": "badhni",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.683333,
+      "longitude": 75.283333
+    },
+    {
+      "name": "Badhni Kalan",
+      "name_lower": "badhni kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 6072,
+      "latitude": 30.683333,
+      "longitude": 75.283333
+    },
+    {
+      "name": "Badhni Khurd",
+      "name_lower": "badhni khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.683333,
+      "longitude": 75.283333
+    },
+    {
+      "name": "Badla",
+      "name_lower": "badla",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.882222,
+      "longitude": 75.766111
+    },
+    {
+      "name": "Bagha Purana",
+      "name_lower": "bagha purana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.683333,
+      "longitude": 75.1
+    },
+    {
+      "name": "Baghaparana",
+      "name_lower": "baghaparana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.683333,
+      "longitude": 75.1
+    },
+    {
+      "name": "Bagrian",
+      "name_lower": "bagrian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.428889,
+      "longitude": 76.031944
+    },
+    {
+      "name": "Bahamniwala",
+      "name_lower": "bahamniwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.533333,
+      "longitude": 74.233333
+    },
+    {
+      "name": "Bains",
+      "name_lower": "bains",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.166667,
+      "longitude": 76.083333
+    },
+    {
+      "name": "Bakain",
+      "name_lower": "bakain",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.165278,
+      "longitude": 73.975
+    },
+    {
+      "name": "Bakhshiwala",
+      "name_lower": "bakhshiwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.85,
+      "longitude": 75.75
+    },
+    {
+      "name": "Bakloh",
+      "name_lower": "bakloh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 1737,
+      "latitude": 32.466667,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Balachor",
+      "name_lower": "balachor",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.066667,
+      "longitude": 76.316667
+    },
+    {
+      "name": "Balanwali",
+      "name_lower": "balanwali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.15,
+      "longitude": 75.2
+    },
+    {
+      "name": "Balloke",
+      "name_lower": "balloke",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.383333,
+      "longitude": 75.333333
+    },
+    {
+      "name": "Balluan",
+      "name_lower": "balluan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.183333,
+      "longitude": 74.316667
+    },
+    {
+      "name": "Balluana",
+      "name_lower": "balluana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.183333,
+      "longitude": 74.316667
+    },
+    {
+      "name": "Banga",
+      "name_lower": "banga",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 19236,
+      "latitude": 31.186944,
+      "longitude": 75.992222
+    },
+    {
+      "name": "Bangi",
+      "name_lower": "bangi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.016667,
+      "longitude": 74.966667
+    },
+    {
+      "name": "Bangi Kalan",
+      "name_lower": "bangi kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.016667,
+      "longitude": 74.966667
+    },
+    {
+      "name": "Bankhandi",
+      "name_lower": "bankhandi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.9,
+      "longitude": 75.083333
+    },
+    {
+      "name": "Banur",
+      "name_lower": "banur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.555556,
+      "longitude": 76.718333
+    },
+    {
+      "name": "Barapind",
+      "name_lower": "barapind",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.116667,
+      "longitude": 76.6
+    },
+    {
+      "name": "Barki",
+      "name_lower": "barki",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.466667,
+      "longitude": 74.5
+    },
+    {
+      "name": "Barnala",
+      "name_lower": "barnala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 105024,
+      "latitude": 30.383333,
+      "longitude": 75.55
+    },
+    {
+      "name": "Basi Kalan",
+      "name_lower": "basi kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.45,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Bassian",
+      "name_lower": "bassian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.666667,
+      "longitude": 75.55
+    },
+    {
+      "name": "Basti Shekh Darwesh",
+      "name_lower": "basti shekh darwesh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.316667,
+      "longitude": 75.55
+    },
+    {
+      "name": "Batala",
+      "name_lower": "batala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 145479,
+      "latitude": 31.818611,
+      "longitude": 75.202778
+    },
+    {
+      "name": "Bazidka",
+      "name_lower": "bazidka",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.466667,
+      "longitude": 75.566667
+    },
+    {
+      "name": "Beas",
+      "name_lower": "beas",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.516667,
+      "longitude": 75.304444
+    },
+    {
+      "name": "Begowal",
+      "name_lower": "begowal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 10175,
+      "latitude": 31.616667,
+      "longitude": 75.516667
+    },
+    {
+      "name": "Begowala",
+      "name_lower": "begowala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.616667,
+      "longitude": 75.516667
+    },
+    {
+      "name": "Bhadaur",
+      "name_lower": "bhadaur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.483333,
+      "longitude": 75.316667
+    },
+    {
+      "name": "Bhaddi",
+      "name_lower": "bhaddi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.15,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Bhadson",
+      "name_lower": "bhadson",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.506667,
+      "longitude": 76.246111
+    },
+    {
+      "name": "Bhaina Bagha",
+      "name_lower": "bhaina bagha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.05,
+      "longitude": 75.366667
+    },
+    {
+      "name": "Bhaini Bagha",
+      "name_lower": "bhaini bagha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.05,
+      "longitude": 75.366667
+    },
+    {
+      "name": "Bhalan",
+      "name_lower": "bhalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.283333,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Bhalur",
+      "name_lower": "bhalur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.716667,
+      "longitude": 74.933333
+    },
+    {
+      "name": "Bham",
+      "name_lower": "bham",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.368333,
+      "longitude": 75.939722
+    },
+    {
+      "name": "Bhan",
+      "name_lower": "bhan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.368333,
+      "longitude": 75.939722
+    },
+    {
+      "name": "Bhandher",
+      "name_lower": "bhandher",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.166667,
+      "longitude": 75.516667
+    },
+    {
+      "name": "Bhangala",
+      "name_lower": "bhangala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.016667,
+      "longitude": 75.6
+    },
+    {
+      "name": "Bhangar Khera",
+      "name_lower": "bhangar khera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.166667,
+      "longitude": 73.990278
+    },
+    {
+      "name": "Bhangewala",
+      "name_lower": "bhangewala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.633333,
+      "longitude": 74.55
+    },
+    {
+      "name": "Bhangu",
+      "name_lower": "bhangu",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.033333,
+      "longitude": 74.233333
+    },
+    {
+      "name": "Bharana",
+      "name_lower": "bharana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.983333,
+      "longitude": 74.816667
+    },
+    {
+      "name": "Bhasin",
+      "name_lower": "bhasin",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.65,
+      "longitude": 74.5
+    },
+    {
+      "name": "Bhatinda",
+      "name_lower": "bhatinda",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.2,
+      "longitude": 74.95
+    },
+    {
+      "name": "Bhawanigarh",
+      "name_lower": "bhawanigarh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 19377,
+      "latitude": 30.266667,
+      "longitude": 76.035
+    },
+    {
+      "name": "Bhikhi",
+      "name_lower": "bhikhi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 15960,
+      "latitude": 30.066667,
+      "longitude": 75.533333
+    },
+    {
+      "name": "Bhikkiwind",
+      "name_lower": "bhikkiwind",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.348889,
+      "longitude": 74.701389
+    },
+    {
+      "name": "Bhikkiwind Uttar",
+      "name_lower": "bhikkiwind uttar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.348889,
+      "longitude": 74.701389
+    },
+    {
+      "name": "Bhogpur",
+      "name_lower": "bhogpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.55,
+      "longitude": 75.6325
+    },
+    {
+      "name": "Bhogpur Sirwal",
+      "name_lower": "bhogpur sirwal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.55,
+      "longitude": 75.6325
+    },
+    {
+      "name": "Bholath",
+      "name_lower": "bholath",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.532778,
+      "longitude": 75.502222
+    },
+    {
+      "name": "Bhunarheri",
+      "name_lower": "bhunarheri",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.212778,
+      "longitude": 76.461111
+    },
+    {
+      "name": "Bhundri",
+      "name_lower": "bhundri",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.95,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Bhunga",
+      "name_lower": "bhunga",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.681944,
+      "longitude": 75.815833
+    },
+    {
+      "name": "Bija",
+      "name_lower": "bija",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.749444,
+      "longitude": 76.114722
+    },
+    {
+      "name": "Bilga",
+      "name_lower": "bilga",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.051667,
+      "longitude": 75.655
+    },
+    {
+      "name": "Bilha",
+      "name_lower": "bilha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.516667,
+      "longitude": 75.433333
+    },
+    {
+      "name": "Binewal",
+      "name_lower": "binewal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.283333,
+      "longitude": 76.25
+    },
+    {
+      "name": "Bir Kishansingh",
+      "name_lower": "bir kishansingh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.700278,
+      "longitude": 76.110833
+    },
+    {
+      "name": "Birk",
+      "name_lower": "birk",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.173611,
+      "longitude": 75.779722
+    },
+    {
+      "name": "Bishanpura",
+      "name_lower": "bishanpura",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.748333,
+      "longitude": 76.056389
+    },
+    {
+      "name": "Boha",
+      "name_lower": "boha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.833333,
+      "longitude": 75.516667
+    },
+    {
+      "name": "Boras",
+      "name_lower": "boras",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.598056,
+      "longitude": 76.531667
+    },
+    {
+      "name": "Budhabar",
+      "name_lower": "budhabar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.05,
+      "longitude": 75.683333
+    },
+    {
+      "name": "Budhlada",
+      "name_lower": "budhlada",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 25433,
+      "latitude": 29.933333,
+      "longitude": 75.566667
+    },
+    {
+      "name": "Bukloh",
+      "name_lower": "bukloh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.466667,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Bulhowal",
+      "name_lower": "bulhowal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.6,
+      "longitude": 75.8
+    },
+    {
+      "name": "Bundala",
+      "name_lower": "bundala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.533056,
+      "longitude": 74.977778
+    },
+    {
+      "name": "Bungal",
+      "name_lower": "bungal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.316667,
+      "longitude": 75.75
+    },
+    {
+      "name": "Bura Gujar",
+      "name_lower": "bura gujar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.533333,
+      "longitude": 74.533333
+    },
+    {
+      "name": "Butala",
+      "name_lower": "butala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.818611,
+      "longitude": 75.202778
+    },
+    {
+      "name": "Chabal",
+      "name_lower": "chabal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.483611,
+      "longitude": 74.793056
+    },
+    {
+      "name": "Chabal Kalan",
+      "name_lower": "chabal kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.483611,
+      "longitude": 74.793056
+    },
+    {
+      "name": "Chabba",
+      "name_lower": "chabba",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.566667,
+      "longitude": 74.883333
+    },
+    {
+      "name": "Chagga",
+      "name_lower": "chagga",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.020833,
+      "longitude": 76.1025
+    },
+    {
+      "name": "Chagghar",
+      "name_lower": "chagghar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.020833,
+      "longitude": 76.1025
+    },
+    {
+      "name": "Chak Mahan Bhadar",
+      "name_lower": "chak mahan bhadar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.4,
+      "longitude": 74.416667
+    },
+    {
+      "name": "Chak Saidoke",
+      "name_lower": "chak saidoke",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.566667,
+      "longitude": 74.333333
+    },
+    {
+      "name": "Chak Sohelewala",
+      "name_lower": "chak sohelewala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.516667,
+      "longitude": 74.366667
+    },
+    {
+      "name": "Chalaila",
+      "name_lower": "chalaila",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.452222,
+      "longitude": 76.366389
+    },
+    {
+      "name": "Chamiari",
+      "name_lower": "chamiari",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.852778,
+      "longitude": 74.818333
+    },
+    {
+      "name": "Chamkor",
+      "name_lower": "chamkor",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.897778,
+      "longitude": 76.411111
+    },
+    {
+      "name": "Chanarthal",
+      "name_lower": "chanarthal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.519444,
+      "longitude": 76.345556
+    },
+    {
+      "name": "Chanarthal Kalan",
+      "name_lower": "chanarthal kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.519444,
+      "longitude": 76.345556
+    },
+    {
+      "name": "Chand Bhan",
+      "name_lower": "chand bhan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.4,
+      "longitude": 74.9
+    },
+    {
+      "name": "Chandbaja",
+      "name_lower": "chandbaja",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.75,
+      "longitude": 74.85
+    },
+    {
+      "name": "Chanunwala",
+      "name_lower": "chanunwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.633333,
+      "longitude": 75.116667
+    },
+    {
+      "name": "Chaoke",
+      "name_lower": "chaoke",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.183333,
+      "longitude": 75.333333
+    },
+    {
+      "name": "Chaunda",
+      "name_lower": "chaunda",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.510833,
+      "longitude": 76.054444
+    },
+    {
+      "name": "Chaurian Fatehgarh",
+      "name_lower": "chaurian fatehgarh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.864444,
+      "longitude": 74.951111
+    },
+    {
+      "name": "Chhaba",
+      "name_lower": "chhaba",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.566667,
+      "longitude": 74.883333
+    },
+    {
+      "name": "Chhajli",
+      "name_lower": "chhajli",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.033333,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Chhaudan",
+      "name_lower": "chhaudan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.510833,
+      "longitude": 76.054444
+    },
+    {
+      "name": "Chhaundan",
+      "name_lower": "chhaundan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.510833,
+      "longitude": 76.054444
+    },
+    {
+      "name": "Chima",
+      "name_lower": "chima",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.685556,
+      "longitude": 76.086111
+    },
+    {
+      "name": "Chiman",
+      "name_lower": "chiman",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.083333,
+      "longitude": 75.7
+    },
+    {
+      "name": "Chirak",
+      "name_lower": "chirak",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.716667,
+      "longitude": 75.166667
+    },
+    {
+      "name": "Choganwan",
+      "name_lower": "choganwan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.666667,
+      "longitude": 75.1
+    },
+    {
+      "name": "Chogawan",
+      "name_lower": "chogawan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.666667,
+      "longitude": 75.1
+    },
+    {
+      "name": "Chotian",
+      "name_lower": "chotian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.85,
+      "longitude": 75.783333
+    },
+    {
+      "name": "Chuchakwind",
+      "name_lower": "chuchakwind",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.983333,
+      "longitude": 74.866667
+    },
+    {
+      "name": "Chuganwan",
+      "name_lower": "chuganwan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.702778,
+      "longitude": 74.663056
+    },
+    {
+      "name": "Dagru",
+      "name_lower": "dagru",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.816667,
+      "longitude": 75.05
+    },
+    {
+      "name": "Dahmot Khurd",
+      "name_lower": "dahmot khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.695278,
+      "longitude": 76.013889
+    },
+    {
+      "name": "Dakala",
+      "name_lower": "dakala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.216667,
+      "longitude": 76.366667
+    },
+    {
+      "name": "Dala",
+      "name_lower": "dala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.783333,
+      "longitude": 75.25
+    },
+    {
+      "name": "Dalewala",
+      "name_lower": "dalewala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.833333,
+      "longitude": 75.4
+    },
+    {
+      "name": "Dalla",
+      "name_lower": "dalla",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.183333,
+      "longitude": 75.25
+    },
+    {
+      "name": "Dangar Khera",
+      "name_lower": "dangar khera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.216667,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Danger Khera",
+      "name_lower": "danger khera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.216667,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Darapur",
+      "name_lower": "darapur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.4,
+      "longitude": 75.15
+    },
+    {
+      "name": "Daska",
+      "name_lower": "daska",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.95,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Dasua",
+      "name_lower": "dasua",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.818333,
+      "longitude": 75.659722
+    },
+    {
+      "name": "Dasuya",
+      "name_lower": "dasuya",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 20699,
+      "latitude": 31.818333,
+      "longitude": 75.659722
+    },
+    {
+      "name": "Datarpur",
+      "name_lower": "datarpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.949444,
+      "longitude": 75.798889
+    },
+    {
+      "name": "Datarpur Rakri",
+      "name_lower": "datarpur rakri",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.949444,
+      "longitude": 75.798889
+    },
+    {
+      "name": "Daud Majra",
+      "name_lower": "daud majra",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.698056,
+      "longitude": 76.089167
+    },
+    {
+      "name": "Dehlon",
+      "name_lower": "dehlon",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.75,
+      "longitude": 75.85
+    },
+    {
+      "name": "Dehrian",
+      "name_lower": "dehrian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.833333,
+      "longitude": 75.916667
+    },
+    {
+      "name": "Dera Baba Nanak",
+      "name_lower": "dera baba nanak",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 7492,
+      "latitude": 32.033333,
+      "longitude": 75.016667
+    },
+    {
+      "name": "Dera Basi",
+      "name_lower": "dera basi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.587222,
+      "longitude": 76.842778
+    },
+    {
+      "name": "Dera Bassi",
+      "name_lower": "dera bassi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.587222,
+      "longitude": 76.842778
+    },
+    {
+      "name": "Dera Nanak",
+      "name_lower": "dera nanak",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.033333,
+      "longitude": 75.016667
+    },
+    {
+      "name": "Dhamot Kalan",
+      "name_lower": "dhamot kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.6875,
+      "longitude": 76.029167
+    },
+    {
+      "name": "Dhamot Khurd",
+      "name_lower": "dhamot khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.695278,
+      "longitude": 76.013889
+    },
+    {
+      "name": "Dhanaula",
+      "name_lower": "dhanaula",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 19283,
+      "latitude": 30.283333,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Dhandoli Khurd",
+      "name_lower": "dhandoli khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.1,
+      "longitude": 75.95
+    },
+    {
+      "name": "Dhanoa",
+      "name_lower": "dhanoa",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.896667,
+      "longitude": 75.584167
+    },
+    {
+      "name": "Dhar Khurd",
+      "name_lower": "dhar khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.4,
+      "longitude": 75.8
+    },
+    {
+      "name": "Dhariwal",
+      "name_lower": "dhariwal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 20605,
+      "latitude": 31.954167,
+      "longitude": 75.319167
+    },
+    {
+      "name": "Dharmkot",
+      "name_lower": "dharmkot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.95,
+      "longitude": 75.233333
+    },
+    {
+      "name": "Dhedhna",
+      "name_lower": "dhedhna",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.05,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Dhedna",
+      "name_lower": "dhedna",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.05,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Dhilwan",
+      "name_lower": "dhilwan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 8447,
+      "latitude": 31.516944,
+      "longitude": 75.35
+    },
+    {
+      "name": "Dhudike",
+      "name_lower": "dhudike",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.75,
+      "longitude": 75.333333
+    },
+    {
+      "name": "Dialpura Bhaika",
+      "name_lower": "dialpura bhaika",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.483333,
+      "longitude": 75.216667
+    },
+    {
+      "name": "Dinanagar",
+      "name_lower": "dinanagar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 23341,
+      "latitude": 32.15,
+      "longitude": 75.466667
+    },
+    {
+      "name": "Dirba",
+      "name_lower": "dirba",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 13838,
+      "latitude": 30.066667,
+      "longitude": 75.983333
+    },
+    {
+      "name": "Diwa Khosa",
+      "name_lower": "diwa khosa",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.648611,
+      "longitude": 76.069167
+    },
+    {
+      "name": "Diwa Mander",
+      "name_lower": "diwa mander",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.648611,
+      "longitude": 76.0675
+    },
+    {
+      "name": "Doda",
+      "name_lower": "doda",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.4,
+      "longitude": 74.65
+    },
+    {
+      "name": "Dodh",
+      "name_lower": "dodh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.766667,
+      "longitude": 74.6
+    },
+    {
+      "name": "Dogal",
+      "name_lower": "dogal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.983333,
+      "longitude": 76.033333
+    },
+    {
+      "name": "Doraha",
+      "name_lower": "doraha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 23553,
+      "latitude": 30.816667,
+      "longitude": 76.016667
+    },
+    {
+      "name": "Dotaranwali",
+      "name_lower": "dotaranwali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.083333,
+      "longitude": 74.283333
+    },
+    {
+      "name": "Dule",
+      "name_lower": "dule",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.783333,
+      "longitude": 75.85
+    },
+    {
+      "name": "Dulleke Bareke",
+      "name_lower": "dulleke bareke",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.220833,
+      "longitude": 73.991667
+    },
+    {
+      "name": "Dunera",
+      "name_lower": "dunera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.45,
+      "longitude": 75.883333
+    },
+    {
+      "name": "Fakarsar",
+      "name_lower": "fakarsar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.2,
+      "longitude": 74.583333
+    },
+    {
+      "name": "Faridkot",
+      "name_lower": "faridkot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 77455,
+      "latitude": 30.666667,
+      "longitude": 74.75
+    },
+    {
+      "name": "Fatehgarh Churian",
+      "name_lower": "fatehgarh churian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 18053,
+      "latitude": 31.864444,
+      "longitude": 74.951111
+    },
+    {
+      "name": "Fatehgarh Panjtor",
+      "name_lower": "fatehgarh panjtor",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.05,
+      "longitude": 75.116389
+    },
+    {
+      "name": "Fatehgarh Panjtur",
+      "name_lower": "fatehgarh panjtur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.05,
+      "longitude": 75.116389
+    },
+    {
+      "name": "Fatehgarh Sahib",
+      "name_lower": "fatehgarh sahib",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.533333,
+      "longitude": 75.716667
+    },
+    {
+      "name": "Fatta Maluka",
+      "name_lower": "fatta maluka",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.766667,
+      "longitude": 75.3
+    },
+    {
+      "name": "Fatuhi Labana",
+      "name_lower": "fatuhi labana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.038889,
+      "longitude": 73.872222
+    },
+    {
+      "name": "Fazika",
+      "name_lower": "fazika",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.4,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Fazilka",
+      "name_lower": "fazilka",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 70893,
+      "latitude": 30.4,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Ferozepore",
+      "name_lower": "ferozepore",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.916667,
+      "longitude": 74.6
+    },
+    {
+      "name": "Ferozepur",
+      "name_lower": "ferozepur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.916667,
+      "longitude": 74.6
+    },
+    {
+      "name": "Ferozeshah",
+      "name_lower": "ferozeshah",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.883333,
+      "longitude": 74.783333
+    },
+    {
+      "name": "Feruzpur",
+      "name_lower": "feruzpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.916667,
+      "longitude": 74.6
+    },
+    {
+      "name": "Firoz Shah",
+      "name_lower": "firoz shah",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.883333,
+      "longitude": 74.783333
+    },
+    {
+      "name": "Firozpur",
+      "name_lower": "firozpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 102138,
+      "latitude": 30.916667,
+      "longitude": 74.6
+    },
+    {
+      "name": "Gaggo Mahl",
+      "name_lower": "gaggo mahl",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.906389,
+      "longitude": 74.806667
+    },
+    {
+      "name": "Gaggu Mahil",
+      "name_lower": "gaggu mahil",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.906389,
+      "longitude": 74.806667
+    },
+    {
+      "name": "Galri",
+      "name_lower": "galri",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 75.333333
+    },
+    {
+      "name": "Gangowal",
+      "name_lower": "gangowal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.4,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Ganguwal",
+      "name_lower": "ganguwal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.4,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Gardhiwala",
+      "name_lower": "gardhiwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 6694,
+      "latitude": 31.7325,
+      "longitude": 75.750556
+    },
+    {
+      "name": "Garhdiwala",
+      "name_lower": "garhdiwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.7325,
+      "longitude": 75.750556
+    },
+    {
+      "name": "Garhshankar",
+      "name_lower": "garhshankar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 16471,
+      "latitude": 31.216667,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Garshankar",
+      "name_lower": "garshankar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.216667,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Ghadewal",
+      "name_lower": "ghadewal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.671111,
+      "longitude": 76.035278
+    },
+    {
+      "name": "Ghaggar",
+      "name_lower": "ghaggar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.020833,
+      "longitude": 76.1025
+    },
+    {
+      "name": "Ghanauli",
+      "name_lower": "ghanauli",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.016667,
+      "longitude": 76.583333
+    },
+    {
+      "name": "Ghanaur",
+      "name_lower": "ghanaur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 6091,
+      "latitude": 30.332222,
+      "longitude": 76.607222
+    },
+    {
+      "name": "Gharyala",
+      "name_lower": "gharyala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.23,
+      "longitude": 74.734722
+    },
+    {
+      "name": "Ghonewal",
+      "name_lower": "ghonewal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.016667,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Ghonewala",
+      "name_lower": "ghonewala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.016667,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Ghungrali",
+      "name_lower": "ghungrali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.723611,
+      "longitude": 76.106944
+    },
+    {
+      "name": "Ghurala",
+      "name_lower": "ghurala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.695,
+      "longitude": 76.120278
+    },
+    {
+      "name": "Ghuram",
+      "name_lower": "ghuram",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.123056,
+      "longitude": 76.478611
+    },
+    {
+      "name": "Ghurani",
+      "name_lower": "ghurani",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.716667,
+      "longitude": 75.983333
+    },
+    {
+      "name": "Ghurani Khurd",
+      "name_lower": "ghurani khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.716389,
+      "longitude": 76.033056
+    },
+    {
+      "name": "Giddarbaha",
+      "name_lower": "giddarbaha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 39246,
+      "latitude": 30.2,
+      "longitude": 74.666667
+    },
+    {
+      "name": "Gobindpura",
+      "name_lower": "gobindpura",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.720278,
+      "longitude": 76.084722
+    },
+    {
+      "name": "Gochar",
+      "name_lower": "gochar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.25,
+      "longitude": 76.35
+    },
+    {
+      "name": "Golewala",
+      "name_lower": "golewala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.783333,
+      "longitude": 74.7
+    },
+    {
+      "name": "Govindwal",
+      "name_lower": "govindwal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.366667,
+      "longitude": 75.133333
+    },
+    {
+      "name": "Gumja",
+      "name_lower": "gumja",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30,
+      "longitude": 73.909722
+    },
+    {
+      "name": "Gurdaspur",
+      "name_lower": "gurdaspur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 72503,
+      "latitude": 32.033333,
+      "longitude": 75.516667
+    },
+    {
+      "name": "Guru Har Sahai",
+      "name_lower": "guru har sahai",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 16029,
+      "latitude": 30.716667,
+      "longitude": 74.416667
+    },
+    {
+      "name": "Gurusar",
+      "name_lower": "gurusar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.266667,
+      "longitude": 74.583333
+    },
+    {
+      "name": "Hadiaya",
+      "name_lower": "hadiaya",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.316667,
+      "longitude": 75.5
+    },
+    {
+      "name": "Hajjipur",
+      "name_lower": "hajjipur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.975556,
+      "longitude": 75.757778
+    },
+    {
+      "name": "Halwara",
+      "name_lower": "halwara",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.716667,
+      "longitude": 75.65
+    },
+    {
+      "name": "Harchowal",
+      "name_lower": "harchowal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.783333,
+      "longitude": 75.45
+    },
+    {
+      "name": "Hariana",
+      "name_lower": "hariana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 8333,
+      "latitude": 31.637778,
+      "longitude": 75.840833
+    },
+    {
+      "name": "Hariau",
+      "name_lower": "hariau",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.966667,
+      "longitude": 75.716667
+    },
+    {
+      "name": "Harike",
+      "name_lower": "harike",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.166944,
+      "longitude": 74.948056
+    },
+    {
+      "name": "Hatur Khas",
+      "name_lower": "hatur khas",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.616667,
+      "longitude": 75.416667
+    },
+    {
+      "name": "Hindu Malkot",
+      "name_lower": "hindu malkot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.15,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Hir",
+      "name_lower": "hir",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.4,
+      "longitude": 74.483333
+    },
+    {
+      "name": "Hoshiarpur",
+      "name_lower": "hoshiarpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 158154,
+      "latitude": 31.532222,
+      "longitude": 75.917222
+    },
+    {
+      "name": "Hudiara",
+      "name_lower": "hudiara",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.45,
+      "longitude": 74.566667
+    },
+    {
+      "name": "Hushiarpur",
+      "name_lower": "hushiarpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.532222,
+      "longitude": 75.917222
+    },
+    {
+      "name": "Ina Khera",
+      "name_lower": "ina khera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.25,
+      "longitude": 74.483333
+    },
+    {
+      "name": "Isaru Kalan",
+      "name_lower": "isaru kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.671667,
+      "longitude": 76.111111
+    },
+    {
+      "name": "Isaru Khurd",
+      "name_lower": "isaru khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.675278,
+      "longitude": 76.124722
+    },
+    {
+      "name": "Ishanpur",
+      "name_lower": "ishanpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.64,
+      "longitude": 76.117222
+    },
+    {
+      "name": "Jagraon",
+      "name_lower": "jagraon",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 65310,
+      "latitude": 30.783333,
+      "longitude": 75.483333
+    },
+    {
+      "name": "Jahangir",
+      "name_lower": "jahangir",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.383333,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Jahman",
+      "name_lower": "jahman",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.366667,
+      "longitude": 74.516667
+    },
+    {
+      "name": "Jaijon",
+      "name_lower": "jaijon",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.35,
+      "longitude": 76.15
+    },
+    {
+      "name": "Jaito",
+      "name_lower": "jaito",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.466667,
+      "longitude": 74.883333
+    },
+    {
+      "name": "Jallan",
+      "name_lower": "jallan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.699444,
+      "longitude": 76.058889
+    },
+    {
+      "name": "Jallo",
+      "name_lower": "jallo",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.583333,
+      "longitude": 74.5
+    },
+    {
+      "name": "Jandali",
+      "name_lower": "jandali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.658889,
+      "longitude": 76.037222
+    },
+    {
+      "name": "Jandi",
+      "name_lower": "jandi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 75.566667
+    },
+    {
+      "name": "Jandiala",
+      "name_lower": "jandiala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 25633,
+      "latitude": 31.166667,
+      "longitude": 75.616667
+    },
+    {
+      "name": "Jandiala Guru",
+      "name_lower": "jandiala guru",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.561389,
+      "longitude": 75.026667
+    },
+    {
+      "name": "Jandiali",
+      "name_lower": "jandiali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.166667,
+      "longitude": 75.616667
+    },
+    {
+      "name": "Jandu Singha",
+      "name_lower": "jandu singha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.379167,
+      "longitude": 75.655
+    },
+    {
+      "name": "Jandwala",
+      "name_lower": "jandwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.05,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Jargari",
+      "name_lower": "jargari",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.6375,
+      "longitude": 76.045278
+    },
+    {
+      "name": "Jassowal",
+      "name_lower": "jassowal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.8,
+      "longitude": 75.816667
+    },
+    {
+      "name": "Jaura Chhitran",
+      "name_lower": "jaura chhitran",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.016667,
+      "longitude": 75.3
+    },
+    {
+      "name": "Jhakholahri",
+      "name_lower": "jhakholahri",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.216667,
+      "longitude": 75.55
+    },
+    {
+      "name": "Jhako Lahri",
+      "name_lower": "jhako lahri",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.216667,
+      "longitude": 75.55
+    },
+    {
+      "name": "Jhuniar",
+      "name_lower": "jhuniar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.816667,
+      "longitude": 75.35
+    },
+    {
+      "name": "Jodhe",
+      "name_lower": "jodhe",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.583333,
+      "longitude": 75.333333
+    },
+    {
+      "name": "Julajan",
+      "name_lower": "julajan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.634444,
+      "longitude": 76.073611
+    },
+    {
+      "name": "Jullundur",
+      "name_lower": "jullundur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.0775,
+      "longitude": 75.337222
+    },
+    {
+      "name": "Jullundur City",
+      "name_lower": "jullundur city",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.325556,
+      "longitude": 75.579167
+    },
+    {
+      "name": "Kabul Shah",
+      "name_lower": "kabul shah",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.283333,
+      "longitude": 74.05
+    },
+    {
+      "name": "Kadian",
+      "name_lower": "kadian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.817778,
+      "longitude": 75.391944
+    },
+    {
+      "name": "Kahnuwan",
+      "name_lower": "kahnuwan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.907222,
+      "longitude": 75.449167
+    },
+    {
+      "name": "Kairon",
+      "name_lower": "kairon",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.326667,
+      "longitude": 74.859722
+    },
+    {
+      "name": "Kajpura",
+      "name_lower": "kajpura",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.483056,
+      "longitude": 76.595
+    },
+    {
+      "name": "Kakrala Kalan",
+      "name_lower": "kakrala kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.366667,
+      "longitude": 76.1
+    },
+    {
+      "name": "Kala",
+      "name_lower": "kala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.266667,
+      "longitude": 75.45
+    },
+    {
+      "name": "Kala Afghanan",
+      "name_lower": "kala afghanan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.883333,
+      "longitude": 75.033333
+    },
+    {
+      "name": "Kalanaur",
+      "name_lower": "kalanaur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 13671,
+      "latitude": 32.016667,
+      "longitude": 75.15
+    },
+    {
+      "name": "Kalian",
+      "name_lower": "kalian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.002778,
+      "longitude": 73.865278
+    },
+    {
+      "name": "Kallar Khera",
+      "name_lower": "kallar khera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.044444,
+      "longitude": 73.954167
+    },
+    {
+      "name": "Kamam",
+      "name_lower": "kamam",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.116667,
+      "longitude": 76.033333
+    },
+    {
+      "name": "Kanya Maha Vidyalya",
+      "name_lower": "kanya maha vidyalya",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.35,
+      "longitude": 75.6
+    },
+    {
+      "name": "Kaoni",
+      "name_lower": "kaoni",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.333333,
+      "longitude": 74.7
+    },
+    {
+      "name": "Kapurthala",
+      "name_lower": "kapurthala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 92674,
+      "latitude": 31.379444,
+      "longitude": 75.384722
+    },
+    {
+      "name": "Kapurthala Town",
+      "name_lower": "kapurthala town",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.379444,
+      "longitude": 75.384722
+    },
+    {
+      "name": "Karaundia",
+      "name_lower": "karaundia",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.681944,
+      "longitude": 76.079722
+    },
+    {
+      "name": "Kartarpur",
+      "name_lower": "kartarpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 26703,
+      "latitude": 31.44,
+      "longitude": 75.499722
+    },
+    {
+      "name": "Kasel",
+      "name_lower": "kasel",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.548889,
+      "longitude": 74.783333
+    },
+    {
+      "name": "Kathlaur",
+      "name_lower": "kathlaur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.25,
+      "longitude": 75.433333
+    },
+    {
+      "name": "Kathlour",
+      "name_lower": "kathlour",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.25,
+      "longitude": 75.433333
+    },
+    {
+      "name": "Kathu Nangal",
+      "name_lower": "kathu nangal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.716111,
+      "longitude": 75.032778
+    },
+    {
+      "name": "Kauli",
+      "name_lower": "kauli",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.417222,
+      "longitude": 76.506389
+    },
+    {
+      "name": "Kauni",
+      "name_lower": "kauni",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.333333,
+      "longitude": 74.7
+    },
+    {
+      "name": "Khakhian",
+      "name_lower": "khakhian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.1875,
+      "longitude": 73.968056
+    },
+    {
+      "name": "Khalra",
+      "name_lower": "khalra",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.394722,
+      "longitude": 74.616944
+    },
+    {
+      "name": "Khamanon",
+      "name_lower": "khamanon",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 9395,
+      "latitude": 30.818611,
+      "longitude": 76.350833
+    },
+    {
+      "name": "Khamanon Kalan",
+      "name_lower": "khamanon kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.818611,
+      "longitude": 76.350833
+    },
+    {
+      "name": "Khem Karan",
+      "name_lower": "khem karan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 12637,
+      "latitude": 31.142778,
+      "longitude": 74.566667
+    },
+    {
+      "name": "Khizrabad",
+      "name_lower": "khizrabad",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.878889,
+      "longitude": 76.659722
+    },
+    {
+      "name": "Khojala",
+      "name_lower": "khojala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.749444,
+      "longitude": 75.383611
+    },
+    {
+      "name": "Khui Khera",
+      "name_lower": "khui khera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.3,
+      "longitude": 74.1
+    },
+    {
+      "name": "Kiri Shah",
+      "name_lower": "kiri shah",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.4,
+      "longitude": 75.15
+    },
+    {
+      "name": "Kishenpura",
+      "name_lower": "kishenpura",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.933333,
+      "longitude": 75.35
+    },
+    {
+      "name": "Koil Khera",
+      "name_lower": "koil khera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.133333,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Kojala",
+      "name_lower": "kojala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.749444,
+      "longitude": 75.383611
+    },
+    {
+      "name": "Kokli Mauran",
+      "name_lower": "kokli mauran",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.033333,
+      "longitude": 75.3
+    },
+    {
+      "name": "Kokri",
+      "name_lower": "kokri",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.85,
+      "longitude": 75.333333
+    },
+    {
+      "name": "Kokri Kalan",
+      "name_lower": "kokri kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.85,
+      "longitude": 75.333333
+    },
+    {
+      "name": "Kot Bakhtu",
+      "name_lower": "kot bakhtu",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.05,
+      "longitude": 74.966667
+    },
+    {
+      "name": "Kot Bhai",
+      "name_lower": "kot bhai",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.283333,
+      "longitude": 74.7
+    },
+    {
+      "name": "Kot Dharmun",
+      "name_lower": "kot dharmun",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.9,
+      "longitude": 75.366667
+    },
+    {
+      "name": "Kot Fateh",
+      "name_lower": "kot fateh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.116667,
+      "longitude": 75.083333
+    },
+    {
+      "name": "Kot Fatuhi",
+      "name_lower": "kot fatuhi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.277778,
+      "longitude": 75.968333
+    },
+    {
+      "name": "Kot Isa Khan",
+      "name_lower": "kot isa khan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 9639,
+      "latitude": 30.95,
+      "longitude": 75.133333
+    },
+    {
+      "name": "Kot Kapura",
+      "name_lower": "kot kapura",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 88360,
+      "latitude": 30.583333,
+      "longitude": 74.9
+    },
+    {
+      "name": "Kot-Ise-Khan",
+      "name_lower": "kot-ise-khan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.95,
+      "longitude": 75.133333
+    },
+    {
+      "name": "Kotha",
+      "name_lower": "kotha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.15,
+      "longitude": 73.952778
+    },
+    {
+      "name": "Kotha Guru",
+      "name_lower": "kotha guru",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.45,
+      "longitude": 75.083333
+    },
+    {
+      "name": "Kotli Mauran",
+      "name_lower": "kotli mauran",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.033333,
+      "longitude": 75.3
+    },
+    {
+      "name": "Kotli Surat Malli",
+      "name_lower": "kotli surat malli",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.938889,
+      "longitude": 75.096111
+    },
+    {
+      "name": "Kotli-Suratmali",
+      "name_lower": "kotli-suratmali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.938889,
+      "longitude": 75.096111
+    },
+    {
+      "name": "Kularan",
+      "name_lower": "kularan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.138889,
+      "longitude": 76.112778
+    },
+    {
+      "name": "Kulrian",
+      "name_lower": "kulrian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.8,
+      "longitude": 75.683333
+    },
+    {
+      "name": "Kum",
+      "name_lower": "kum",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.916944,
+      "longitude": 76.066944
+    },
+    {
+      "name": "Kurali",
+      "name_lower": "kurali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 25332,
+      "latitude": 30.833056,
+      "longitude": 76.573333
+    },
+    {
+      "name": "Ladhuka",
+      "name_lower": "ladhuka",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.516667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Ladhuwala",
+      "name_lower": "ladhuwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.55,
+      "longitude": 74.383333
+    },
+    {
+      "name": "Lahail",
+      "name_lower": "lahail",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.883333,
+      "longitude": 75.85
+    },
+    {
+      "name": "Lakkhoke Bahram",
+      "name_lower": "lakkhoke bahram",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.833333,
+      "longitude": 74.45
+    },
+    {
+      "name": "Lalewal",
+      "name_lower": "lalewal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.333333,
+      "longitude": 75.633333
+    },
+    {
+      "name": "Lambi",
+      "name_lower": "lambi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.066667,
+      "longitude": 74.616667
+    },
+    {
+      "name": "Landra",
+      "name_lower": "landra",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.7,
+      "longitude": 76.666667
+    },
+    {
+      "name": "Landran",
+      "name_lower": "landran",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.7,
+      "longitude": 76.666667
+    },
+    {
+      "name": "Lasara",
+      "name_lower": "lasara",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.632778,
+      "longitude": 76.014722
+    },
+    {
+      "name": "Lasara Pallewal",
+      "name_lower": "lasara pallewal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.630556,
+      "longitude": 76.011944
+    },
+    {
+      "name": "Laungowal",
+      "name_lower": "laungowal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.216667,
+      "longitude": 75.683333
+    },
+    {
+      "name": "Lohat Baddy",
+      "name_lower": "lohat baddy",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.633333,
+      "longitude": 75.7
+    },
+    {
+      "name": "Lopoke",
+      "name_lower": "lopoke",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.715556,
+      "longitude": 74.629167
+    },
+    {
+      "name": "Ludhiana",
+      "name_lower": "ludhiana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 1545476,
+      "latitude": 30.9,
+      "longitude": 75.85
+    },
+    {
+      "name": "Luliani",
+      "name_lower": "luliani",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.266667,
+      "longitude": 74.416667
+    },
+    {
+      "name": "Machhiwara",
+      "name_lower": "machhiwara",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 20448,
+      "latitude": 30.914722,
+      "longitude": 76.198333
+    },
+    {
+      "name": "Magbulpur",
+      "name_lower": "magbulpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.766667,
+      "longitude": 74.516667
+    },
+    {
+      "name": "Mahalpur",
+      "name_lower": "mahalpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.366667,
+      "longitude": 76.033333
+    },
+    {
+      "name": "Maharaj",
+      "name_lower": "maharaj",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.316667,
+      "longitude": 75.183333
+    },
+    {
+      "name": "Mahatpur",
+      "name_lower": "mahatpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.05,
+      "longitude": 75.483333
+    },
+    {
+      "name": "Mahendipur",
+      "name_lower": "mahendipur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.7425,
+      "longitude": 76.122222
+    },
+    {
+      "name": "Mahna",
+      "name_lower": "mahna",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.8,
+      "longitude": 75.25
+    },
+    {
+      "name": "Mahraj",
+      "name_lower": "mahraj",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.316667,
+      "longitude": 75.183333
+    },
+    {
+      "name": "Mahta",
+      "name_lower": "mahta",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.666667,
+      "longitude": 75.25
+    },
+    {
+      "name": "Maihma Sawai",
+      "name_lower": "maihma sawai",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.316667,
+      "longitude": 74.833333
+    },
+    {
+      "name": "Majitha",
+      "name_lower": "majitha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 13901,
+      "latitude": 31.758333,
+      "longitude": 74.954444
+    },
+    {
+      "name": "Makandpur",
+      "name_lower": "makandpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.595833,
+      "longitude": 76.632778
+    },
+    {
+      "name": "Makhu",
+      "name_lower": "makhu",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 12885,
+      "latitude": 31.103333,
+      "longitude": 74.997778
+    },
+    {
+      "name": "Maksudra",
+      "name_lower": "maksudra",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.736944,
+      "longitude": 76.0125
+    },
+    {
+      "name": "Malakpur",
+      "name_lower": "malakpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.283333,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Malaudh",
+      "name_lower": "malaudh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.633333,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Malaut",
+      "name_lower": "malaut",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 76621,
+      "latitude": 30.216667,
+      "longitude": 74.483333
+    },
+    {
+      "name": "Maler Kotla",
+      "name_lower": "maler kotla",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 113848,
+      "latitude": 30.516667,
+      "longitude": 75.883333
+    },
+    {
+      "name": "Malikpur",
+      "name_lower": "malikpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.95,
+      "longitude": 74.65
+    },
+    {
+      "name": "Malkana",
+      "name_lower": "malkana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.933333,
+      "longitude": 75.05
+    },
+    {
+      "name": "Mallanwala",
+      "name_lower": "mallanwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.048333,
+      "longitude": 74.816111
+    },
+    {
+      "name": "Mamdot",
+      "name_lower": "mamdot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.866667,
+      "longitude": 74.416667
+    },
+    {
+      "name": "Mandi Dabwal",
+      "name_lower": "mandi dabwal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.966667,
+      "longitude": 74.7
+    },
+    {
+      "name": "Mandi Dabwali",
+      "name_lower": "mandi dabwali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.966667,
+      "longitude": 74.7
+    },
+    {
+      "name": "Mandiala",
+      "name_lower": "mandiala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.666667,
+      "longitude": 75.35
+    },
+    {
+      "name": "Mangewal",
+      "name_lower": "mangewal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.266667,
+      "longitude": 76.466667
+    },
+    {
+      "name": "Manhiala Kalan",
+      "name_lower": "manhiala kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.533333,
+      "longitude": 74.55
+    },
+    {
+      "name": "Manhiala Khurd",
+      "name_lower": "manhiala khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.533333,
+      "longitude": 74.55
+    },
+    {
+      "name": "Manihala",
+      "name_lower": "manihala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.533333,
+      "longitude": 74.55
+    },
+    {
+      "name": "Mansa",
+      "name_lower": "mansa",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 80024,
+      "latitude": 29.983333,
+      "longitude": 75.383333
+    },
+    {
+      "name": "Mardanheri",
+      "name_lower": "mardanheri",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.216667,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Marhana",
+      "name_lower": "marhana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.2,
+      "longitude": 74.966667
+    },
+    {
+      "name": "Marori",
+      "name_lower": "marori",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.066667,
+      "longitude": 76.216667
+    },
+    {
+      "name": "Massigah",
+      "name_lower": "massigah",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.209167,
+      "longitude": 76.5575
+    },
+    {
+      "name": "Massigan",
+      "name_lower": "massigan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.209167,
+      "longitude": 76.5575
+    },
+    {
+      "name": "Maujgarh",
+      "name_lower": "maujgarh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.0625,
+      "longitude": 73.986111
+    },
+    {
+      "name": "Maur",
+      "name_lower": "maur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 28298,
+      "latitude": 30.083333,
+      "longitude": 75.25
+    },
+    {
+      "name": "Maur Kalan",
+      "name_lower": "maur kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.083333,
+      "longitude": 75.25
+    },
+    {
+      "name": "Maur Khurd",
+      "name_lower": "maur khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.083333,
+      "longitude": 75.25
+    },
+    {
+      "name": "Mianpur",
+      "name_lower": "mianpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.915,
+      "longitude": 76.573056
+    },
+    {
+      "name": "Midda",
+      "name_lower": "midda",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.3,
+      "longitude": 74.35
+    },
+    {
+      "name": "Mirthai",
+      "name_lower": "mirthai",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 75.6
+    },
+    {
+      "name": "Mirthal",
+      "name_lower": "mirthal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.116667,
+      "longitude": 75.6
+    },
+    {
+      "name": "Moga",
+      "name_lower": "moga",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 130559,
+      "latitude": 30.8,
+      "longitude": 75.166667
+    },
+    {
+      "name": "Mohiyuddin",
+      "name_lower": "mohiyuddin",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.533333,
+      "longitude": 75.716667
+    },
+    {
+      "name": "Moranwali",
+      "name_lower": "moranwali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.25,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Morawali",
+      "name_lower": "morawali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.25,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Morinda",
+      "name_lower": "morinda",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.791944,
+      "longitude": 76.496389
+    },
+    {
+      "name": "Mubarikpur",
+      "name_lower": "mubarikpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.614722,
+      "longitude": 76.856944
+    },
+    {
+      "name": "Mudki",
+      "name_lower": "mudki",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.783333,
+      "longitude": 74.883333
+    },
+    {
+      "name": "Mukandpur",
+      "name_lower": "mukandpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.133333,
+      "longitude": 75.933333
+    },
+    {
+      "name": "Mukerian",
+      "name_lower": "mukerian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 22753,
+      "latitude": 31.950556,
+      "longitude": 75.615833
+    },
+    {
+      "name": "Muktsar",
+      "name_lower": "muktsar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 89840,
+      "latitude": 30.483333,
+      "longitude": 74.516667
+    },
+    {
+      "name": "Murinda",
+      "name_lower": "murinda",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.791944,
+      "longitude": 76.496389
+    },
+    {
+      "name": "Musa",
+      "name_lower": "musa",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.983333,
+      "longitude": 75.316667
+    },
+    {
+      "name": "Nabha",
+      "name_lower": "nabha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 64645,
+      "latitude": 30.374722,
+      "longitude": 76.148611
+    },
+    {
+      "name": "Nadampur",
+      "name_lower": "nadampur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.266667,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Nahianwala",
+      "name_lower": "nahianwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.316667,
+      "longitude": 74.9
+    },
+    {
+      "name": "Nainakot",
+      "name_lower": "nainakot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.183333,
+      "longitude": 75.25
+    },
+    {
+      "name": "Nakodar",
+      "name_lower": "nakodar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 32407,
+      "latitude": 31.125833,
+      "longitude": 75.473333
+    },
+    {
+      "name": "Narangwal",
+      "name_lower": "narangwal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.75,
+      "longitude": 75.75
+    },
+    {
+      "name": "Nare",
+      "name_lower": "nare",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.066667,
+      "longitude": 74.816667
+    },
+    {
+      "name": "Narli",
+      "name_lower": "narli",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.416667,
+      "longitude": 74.666667
+    },
+    {
+      "name": "Narot",
+      "name_lower": "narot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.3,
+      "longitude": 75.45
+    },
+    {
+      "name": "Narot Mehra",
+      "name_lower": "narot mehra",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.266667,
+      "longitude": 75.55
+    },
+    {
+      "name": "Nasrali",
+      "name_lower": "nasrali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.663333,
+      "longitude": 76.085556
+    },
+    {
+      "name": "Nathana",
+      "name_lower": "nathana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.316667,
+      "longitude": 75.083333
+    },
+    {
+      "name": "Naushahra",
+      "name_lower": "naushahra",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.338056,
+      "longitude": 74.951944
+    },
+    {
+      "name": "Naushahra Panwan",
+      "name_lower": "naushahra panwan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.338056,
+      "longitude": 74.951944
+    },
+    {
+      "name": "Nawashahr",
+      "name_lower": "nawashahr",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 31123,
+      "latitude": 31.116667,
+      "longitude": 76.133333
+    },
+    {
+      "name": "Nial",
+      "name_lower": "nial",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.966667,
+      "longitude": 76.066667
+    },
+    {
+      "name": "Nihal Khera",
+      "name_lower": "nihal khera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.233333,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Nihal Singhwala",
+      "name_lower": "nihal singhwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.6,
+      "longitude": 75.283333
+    },
+    {
+      "name": "Nohan",
+      "name_lower": "nohan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.033333,
+      "longitude": 76.566667
+    },
+    {
+      "name": "Nurmahal",
+      "name_lower": "nurmahal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 13155,
+      "latitude": 31.096389,
+      "longitude": 75.596667
+    },
+    {
+      "name": "Nurpur Kalan",
+      "name_lower": "nurpur kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.166667,
+      "longitude": 76.483333
+    },
+    {
+      "name": "Nuruddin",
+      "name_lower": "nuruddin",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.466667,
+      "longitude": 74.866667
+    },
+    {
+      "name": "Pachranga",
+      "name_lower": "pachranga",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.516667,
+      "longitude": 75.633333
+    },
+    {
+      "name": "Pail",
+      "name_lower": "pail",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.722222,
+      "longitude": 76.061111
+    },
+    {
+      "name": "Pakka",
+      "name_lower": "pakka",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.05,
+      "longitude": 74.85
+    },
+    {
+      "name": "Pakka Kalan",
+      "name_lower": "pakka kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.05,
+      "longitude": 74.85
+    },
+    {
+      "name": "Pakki",
+      "name_lower": "pakki",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.123611,
+      "longitude": 73.947222
+    },
+    {
+      "name": "Panchat",
+      "name_lower": "panchat",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.333333,
+      "longitude": 75.867222
+    },
+    {
+      "name": "Panjagarian",
+      "name_lower": "panjagarian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.766667,
+      "longitude": 75.266667
+    },
+    {
+      "name": "Panjawa",
+      "name_lower": "panjawa",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.094444,
+      "longitude": 73.958333
+    },
+    {
+      "name": "Panjeke",
+      "name_lower": "panjeke",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.716667,
+      "longitude": 74.333333
+    },
+    {
+      "name": "Panjgarain",
+      "name_lower": "panjgarain",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.766667,
+      "longitude": 75.266667
+    },
+    {
+      "name": "Panjgirain",
+      "name_lower": "panjgirain",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.616667,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Panjgirain Kalan",
+      "name_lower": "panjgirain kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.616667,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Panjgrain Kalan",
+      "name_lower": "panjgrain kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.616667,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Panjrukha",
+      "name_lower": "panjrukha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.6375,
+      "longitude": 76.094444
+    },
+    {
+      "name": "Panniwala",
+      "name_lower": "panniwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.166667,
+      "longitude": 73.963889
+    },
+    {
+      "name": "Parmanand",
+      "name_lower": "parmanand",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.166667,
+      "longitude": 75.5
+    },
+    {
+      "name": "Pathankot",
+      "name_lower": "pathankot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 174319,
+      "latitude": 32.283333,
+      "longitude": 75.65
+    },
+    {
+      "name": "Patiala",
+      "name_lower": "patiala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 329248,
+      "latitude": 30.326667,
+      "longitude": 76.400278
+    },
+    {
+      "name": "Phagwara",
+      "name_lower": "phagwara",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 100154,
+      "latitude": 31.217778,
+      "longitude": 75.769444
+    },
+    {
+      "name": "Phillaur",
+      "name_lower": "phillaur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 22590,
+      "latitude": 31.029167,
+      "longitude": 75.784167
+    },
+    {
+      "name": "Phuglana",
+      "name_lower": "phuglana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.388056,
+      "longitude": 75.840556
+    },
+    {
+      "name": "Phul",
+      "name_lower": "phul",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.316667,
+      "longitude": 75.233333
+    },
+    {
+      "name": "Phungotah",
+      "name_lower": "phungotah",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.45,
+      "longitude": 75.766667
+    },
+    {
+      "name": "Qadian",
+      "name_lower": "qadian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 21016,
+      "latitude": 31.817778,
+      "longitude": 75.391944
+    },
+    {
+      "name": "Qutba",
+      "name_lower": "qutba",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.566667,
+      "longitude": 75.633333
+    },
+    {
+      "name": "Rabon",
+      "name_lower": "rabon",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.05,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Rahon",
+      "name_lower": "rahon",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 12486,
+      "latitude": 31.05,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Rai Majra",
+      "name_lower": "rai majra",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.729167,
+      "longitude": 76.058333
+    },
+    {
+      "name": "Raikot",
+      "name_lower": "raikot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 26116,
+      "latitude": 30.65,
+      "longitude": 75.6
+    },
+    {
+      "name": "Raja Sansi",
+      "name_lower": "raja sansi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 12958,
+      "latitude": 31.719167,
+      "longitude": 74.797778
+    },
+    {
+      "name": "Raja Tal",
+      "name_lower": "raja tal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.55,
+      "longitude": 74.633333
+    },
+    {
+      "name": "Rajo Mazra",
+      "name_lower": "rajo mazra",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.366667,
+      "longitude": 75.8
+    },
+    {
+      "name": "Rajoke",
+      "name_lower": "rajoke",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.280278,
+      "longitude": 74.55
+    },
+    {
+      "name": "Ralla",
+      "name_lower": "ralla",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.116667,
+      "longitude": 75.433333
+    },
+    {
+      "name": "Ram Das",
+      "name_lower": "ram das",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 6191,
+      "latitude": 31.966111,
+      "longitude": 74.904722
+    },
+    {
+      "name": "Ram Tirak Jaga",
+      "name_lower": "ram tirak jaga",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.95,
+      "longitude": 75.15
+    },
+    {
+      "name": "Ram Tirath Jaga",
+      "name_lower": "ram tirath jaga",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.95,
+      "longitude": 75.15
+    },
+    {
+      "name": "Rampura Mandi",
+      "name_lower": "rampura mandi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.266667,
+      "longitude": 75.25
+    },
+    {
+      "name": "Ranwan",
+      "name_lower": "ranwan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.715278,
+      "longitude": 76.009722
+    },
+    {
+      "name": "Rathankot",
+      "name_lower": "rathankot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.283333,
+      "longitude": 75.65
+    },
+    {
+      "name": "Rattewala",
+      "name_lower": "rattewala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.6,
+      "longitude": 74.383333
+    },
+    {
+      "name": "Rauni",
+      "name_lower": "rauni",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.6,
+      "longitude": 76.1
+    },
+    {
+      "name": "Rohnon Khurd",
+      "name_lower": "rohnon khurd",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.648611,
+      "longitude": 76.120278
+    },
+    {
+      "name": "Rohti",
+      "name_lower": "rohti",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.4,
+      "longitude": 76.2
+    },
+    {
+      "name": "Ropar",
+      "name_lower": "ropar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.966389,
+      "longitude": 76.533056
+    },
+    {
+      "name": "Rukanpura",
+      "name_lower": "rukanpura",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.05,
+      "longitude": 74.1
+    },
+    {
+      "name": "Rupana",
+      "name_lower": "rupana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.416667,
+      "longitude": 74.516667
+    },
+    {
+      "name": "Rupar",
+      "name_lower": "rupar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.966389,
+      "longitude": 76.533056
+    },
+    {
+      "name": "Rurka Kalan",
+      "name_lower": "rurka kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.116667,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Rurka Khan",
+      "name_lower": "rurka khan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.116667,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Rurka Klan",
+      "name_lower": "rurka klan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.116667,
+      "longitude": 75.666667
+    },
+    {
+      "name": "Sabrai",
+      "name_lower": "sabrai",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.1775,
+      "longitude": 74.852778
+    },
+    {
+      "name": "Sabraon",
+      "name_lower": "sabraon",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.1775,
+      "longitude": 74.852778
+    },
+    {
+      "name": "Sadhuwala",
+      "name_lower": "sadhuwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.966667,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Sadiq",
+      "name_lower": "sadiq",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.716667,
+      "longitude": 74.583333
+    },
+    {
+      "name": "Sahna",
+      "name_lower": "sahna",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.433333,
+      "longitude": 75.383333
+    },
+    {
+      "name": "Saidoke",
+      "name_lower": "saidoke",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.566667,
+      "longitude": 74.333333
+    },
+    {
+      "name": "Samadh Bhai",
+      "name_lower": "samadh bhai",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.6,
+      "longitude": 75.15
+    },
+    {
+      "name": "Samalsar",
+      "name_lower": "samalsar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.65,
+      "longitude": 74.983333
+    },
+    {
+      "name": "Samana",
+      "name_lower": "samana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 50536,
+      "latitude": 30.158333,
+      "longitude": 76.193056
+    },
+    {
+      "name": "Samrala",
+      "name_lower": "samrala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 18624,
+      "latitude": 30.836667,
+      "longitude": 76.189722
+    },
+    {
+      "name": "Sanaur",
+      "name_lower": "sanaur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 18402,
+      "latitude": 30.3025,
+      "longitude": 76.455278
+    },
+    {
+      "name": "Sanghol",
+      "name_lower": "sanghol",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.783333,
+      "longitude": 76.383333
+    },
+    {
+      "name": "Sangrur",
+      "name_lower": "sangrur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 88622,
+      "latitude": 30.233333,
+      "longitude": 75.833333
+    },
+    {
+      "name": "Sarai Amanat Khan",
+      "name_lower": "sarai amanat khan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.5,
+      "longitude": 74.666667
+    },
+    {
+      "name": "Sarangdeo",
+      "name_lower": "sarangdeo",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.9,
+      "longitude": 74.7
+    },
+    {
+      "name": "Sardulgarh",
+      "name_lower": "sardulgarh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 17270,
+      "latitude": 29.7,
+      "longitude": 75.25
+    },
+    {
+      "name": "Sariana",
+      "name_lower": "sariana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32,
+      "longitude": 75.75
+    },
+    {
+      "name": "Sathiala",
+      "name_lower": "sathiala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.582778,
+      "longitude": 75.283333
+    },
+    {
+      "name": "Saurian",
+      "name_lower": "saurian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.766667,
+      "longitude": 74.666667
+    },
+    {
+      "name": "Sawaddi",
+      "name_lower": "sawaddi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.866667,
+      "longitude": 75.583333
+    },
+    {
+      "name": "Sekhwan",
+      "name_lower": "sekhwan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.85,
+      "longitude": 75.316667
+    },
+    {
+      "name": "Shahbazpur",
+      "name_lower": "shahbazpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.35,
+      "longitude": 74.816667
+    },
+    {
+      "name": "Shahkot",
+      "name_lower": "shahkot",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 13578,
+      "latitude": 31.0775,
+      "longitude": 75.337222
+    },
+    {
+      "name": "Sham Churasi",
+      "name_lower": "sham churasi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 4403,
+      "latitude": 31.499722,
+      "longitude": 75.749444
+    },
+    {
+      "name": "Sham Nagar",
+      "name_lower": "sham nagar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.766111,
+      "longitude": 75.033889
+    },
+    {
+      "name": "Shatrana",
+      "name_lower": "shatrana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.916667,
+      "longitude": 76.116667
+    },
+    {
+      "name": "Sidhwan Khas",
+      "name_lower": "sidhwan khas",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.966667,
+      "longitude": 75.483333
+    },
+    {
+      "name": "Sidhwan bet",
+      "name_lower": "sidhwan bet",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.966667,
+      "longitude": 75.483333
+    },
+    {
+      "name": "Sihaura",
+      "name_lower": "sihaura",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.656944,
+      "longitude": 76.007778
+    },
+    {
+      "name": "Singhanwala",
+      "name_lower": "singhanwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.766667,
+      "longitude": 75.116667
+    },
+    {
+      "name": "Sirhali",
+      "name_lower": "sirhali",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.278889,
+      "longitude": 74.938611
+    },
+    {
+      "name": "Sirhali Kalan",
+      "name_lower": "sirhali kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.278889,
+      "longitude": 74.938611
+    },
+    {
+      "name": "Sirhind",
+      "name_lower": "sirhind",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 60852,
+      "latitude": 30.645556,
+      "longitude": 76.3825
+    },
+    {
+      "name": "Sito Ganno",
+      "name_lower": "sito ganno",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.016667,
+      "longitude": 74.383333
+    },
+    {
+      "name": "Sobraon",
+      "name_lower": "sobraon",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.1775,
+      "longitude": 74.852778
+    },
+    {
+      "name": "Sohal",
+      "name_lower": "sohal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.466667,
+      "longitude": 74.716667
+    },
+    {
+      "name": "Sohana",
+      "name_lower": "sohana",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.686111,
+      "longitude": 76.706667
+    },
+    {
+      "name": "Sohian",
+      "name_lower": "sohian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.75,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Sohian Kalan",
+      "name_lower": "sohian kalan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.75,
+      "longitude": 74.916667
+    },
+    {
+      "name": "Sotha",
+      "name_lower": "sotha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.383333,
+      "longitude": 74.55
+    },
+    {
+      "name": "Sri Govindpur",
+      "name_lower": "sri govindpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.689444,
+      "longitude": 75.479722
+    },
+    {
+      "name": "Srigobindpur",
+      "name_lower": "srigobindpur",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.689444,
+      "longitude": 75.479722
+    },
+    {
+      "name": "Sulial",
+      "name_lower": "sulial",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.383333,
+      "longitude": 75.9
+    },
+    {
+      "name": "Sunam",
+      "name_lower": "sunam",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 53651,
+      "latitude": 30.133333,
+      "longitude": 75.8
+    },
+    {
+      "name": "Sur Singh",
+      "name_lower": "sur singh",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.398333,
+      "longitude": 74.715833
+    },
+    {
+      "name": "Talwan",
+      "name_lower": "talwan",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.011944,
+      "longitude": 75.611111
+    },
+    {
+      "name": "Talwandi",
+      "name_lower": "talwandi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.983333,
+      "longitude": 75.083333
+    },
+    {
+      "name": "Talwandi Bhai",
+      "name_lower": "talwandi bhai",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 16392,
+      "latitude": 30.85,
+      "longitude": 74.933333
+    },
+    {
+      "name": "Talwandi Chaudhrian",
+      "name_lower": "talwandi chaudhrian",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.300833,
+      "longitude": 75.176389
+    },
+    {
+      "name": "Talwandi Malak",
+      "name_lower": "talwandi malak",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.173611,
+      "longitude": 76.069722
+    },
+    {
+      "name": "Talwandi Malik",
+      "name_lower": "talwandi malik",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.173611,
+      "longitude": 76.069722
+    },
+    {
+      "name": "Talwandi Sabo",
+      "name_lower": "talwandi sabo",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 29.983333,
+      "longitude": 75.083333
+    },
+    {
+      "name": "Tarn Taran",
+      "name_lower": "tarn taran",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": 58590,
+      "latitude": 31.45,
+      "longitude": 74.925278
+    },
+    {
+      "name": "Thatthi Bhai",
+      "name_lower": "thatthi bhai",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.583333,
+      "longitude": 75.033333
+    },
+    {
+      "name": "Then",
+      "name_lower": "then",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 32.433333,
+      "longitude": 75.733333
+    },
+    {
+      "name": "Thoba",
+      "name_lower": "thoba",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.9375,
+      "longitude": 74.845833
+    },
+    {
+      "name": "Tibbar",
+      "name_lower": "tibbar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 75.416667
+    },
+    {
+      "name": "Tibber",
+      "name_lower": "tibber",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.983333,
+      "longitude": 75.416667
+    },
+    {
+      "name": "Tutwala",
+      "name_lower": "tutwala",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.052778,
+      "longitude": 73.948611
+    },
+    {
+      "name": "Uddhoke",
+      "name_lower": "uddhoke",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.733333,
+      "longitude": 75.183333
+    },
+    {
+      "name": "Ughi",
+      "name_lower": "ughi",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.226111,
+      "longitude": 75.380278
+    },
+    {
+      "name": "Urapar",
+      "name_lower": "urapar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.055278,
+      "longitude": 75.946111
+    },
+    {
+      "name": "Urmar",
+      "name_lower": "urmar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.691944,
+      "longitude": 75.634722
+    },
+    {
+      "name": "Urpaar",
+      "name_lower": "urpaar",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.055278,
+      "longitude": 75.946111
+    },
+    {
+      "name": "Usman Khera",
+      "name_lower": "usman khera",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 30.020833,
+      "longitude": 73.902778
+    },
+    {
+      "name": "Vairowa",
+      "name_lower": "vairowa",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.433333,
+      "longitude": 75.15
+    },
+    {
+      "name": "Vairowal",
+      "name_lower": "vairowal",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.433333,
+      "longitude": 75.15
+    },
+    {
+      "name": "Valtoha",
+      "name_lower": "valtoha",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.206944,
+      "longitude": 74.643333
+    },
+    {
+      "name": "Verka",
+      "name_lower": "verka",
+      "state": "Punjab",
+      "state_hi": "पंजाब",
+      "region_code": "23",
+      "population": "",
+      "latitude": 31.666389,
+      "longitude": 74.9325
+    }
+  ],
+  "meta": {
+    "title": "पंजाब के शहर (Punjab Cities) - मुफ़्त डाउनलोड",
+    "description": "पंजाब राज्य के 535 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 535 cities and towns in Punjab, India, with population and geographic coordinates. शामिल हैं 535 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "पंजाब के शहर (Punjab Cities) | ListBase",
+    "seo_description": "डाउनलोड पंजाब के शहर (Punjab Cities) — 535 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 535 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

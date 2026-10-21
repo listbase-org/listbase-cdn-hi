@@ -1,0 +1,695 @@
+{
+  "id": "hi-pune-bank",
+  "name": "Pune में बैंक — SWIFT/BIC कोड",
+  "title": "Pune में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Pune, India. Subset of hi-bank. Source city string preserved verbatim as \"PUNE\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 92,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 58,
+      "bank": "ALLAHABAD BANK",
+      "city": "PUNE",
+      "branch": "(PUNE)",
+      "swift_code": "ALLAINBBPUN"
+    },
+    {
+      "id": 67,
+      "bank": "AMINMAN LLC",
+      "city": "PUNE",
+      "branch": "",
+      "swift_code": "AMLLINB1"
+    },
+    {
+      "id": 118,
+      "bank": "ANDHRA BANK",
+      "city": "PUNE",
+      "branch": "",
+      "swift_code": "ANDBINBBPUN"
+    },
+    {
+      "id": 572,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(AUNDH, PUNE (MH))",
+      "swift_code": "AXISINBB871"
+    },
+    {
+      "id": 573,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(BANER-338)",
+      "swift_code": "AXISINBBA43"
+    },
+    {
+      "id": 574,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(BARAMATI MH)",
+      "swift_code": "AXISINBB135"
+    },
+    {
+      "id": 575,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(BUNDGARDEN)",
+      "swift_code": "AXISINBB073"
+    },
+    {
+      "id": 576,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(CAMP PUNE, PUNE MH)",
+      "swift_code": "AXISINBB305"
+    },
+    {
+      "id": 577,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(CBB PUNE)",
+      "swift_code": "AXISINBBA07"
+    },
+    {
+      "id": 578,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(CHAKAN, PUNE MH)",
+      "swift_code": "AXISINBB512"
+    },
+    {
+      "id": 579,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(DHANKAWADI, PUNE SOL ID 1168)",
+      "swift_code": "AXISINBBA87"
+    },
+    {
+      "id": 580,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(HADAPSAR, PUNE (MH)-404)",
+      "swift_code": "AXISINBB404"
+    },
+    {
+      "id": 581,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(HINJEWADI, PUNE)",
+      "swift_code": "AXISINBBA80"
+    },
+    {
+      "id": 582,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(KALYANI NAGAR, PUNE (MH)-269)",
+      "swift_code": "AXISINBB269"
+    },
+    {
+      "id": 583,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(KOTHRUD -104)",
+      "swift_code": "AXISINBBA42"
+    },
+    {
+      "id": 584,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(NIGDI,PUNE)",
+      "swift_code": "AXISINBBA81"
+    },
+    {
+      "id": 585,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(PIMPRI BRANCH)",
+      "swift_code": "AXISINBB103"
+    },
+    {
+      "id": 586,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(PUNE MAIN BRANCH)",
+      "swift_code": "AXISINBB037"
+    },
+    {
+      "id": 587,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(RAHATANI,PUNE (MH))",
+      "swift_code": "AXISINBBA72"
+    },
+    {
+      "id": 588,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(SADASHIV PETH SOL ID 1437)",
+      "swift_code": "AXISINBBA88"
+    },
+    {
+      "id": 589,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(SAHAKAR NAGAR, PUNE (MH))",
+      "swift_code": "AXISINBB350"
+    },
+    {
+      "id": 590,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(SENAPATI BAPAT MARG)",
+      "swift_code": "AXISINBB315"
+    },
+    {
+      "id": 591,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(SHIKRAPUR, PUNE (MH)-862)",
+      "swift_code": "AXISINBB862"
+    },
+    {
+      "id": 592,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(VIMAN NAGAR, PUNE (MH)-1032)",
+      "swift_code": "AXISINBBA54"
+    },
+    {
+      "id": 593,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(WAKAD, PUNE PUNE MH)",
+      "swift_code": "AXISINBBA82"
+    },
+    {
+      "id": 594,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(WANAWADI, PUNE MH)",
+      "swift_code": "AXISINBB110"
+    },
+    {
+      "id": 714,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "PUNE",
+      "branch": "(PIMPRI CHINCHWAD)",
+      "swift_code": "UTIBINB1103"
+    },
+    {
+      "id": 715,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "PUNE",
+      "branch": "(PUNE BRANCH)",
+      "swift_code": "UTIBINB1037"
+    },
+    {
+      "id": 872,
+      "bank": "BANK OF BARODA",
+      "city": "PUNE",
+      "branch": "(CORPORATE FINANCIAL SERVICES, PUNE)",
+      "swift_code": "BARBINBBCRP"
+    },
+    {
+      "id": 873,
+      "bank": "BANK OF BARODA",
+      "city": "PUNE",
+      "branch": "(MID-CORPORATE BRANCH PUNE)",
+      "swift_code": "BARBINBBMCP"
+    },
+    {
+      "id": 874,
+      "bank": "BANK OF BARODA",
+      "city": "PUNE",
+      "branch": "(PIMPRI CHUCHWAD BRANCH)",
+      "swift_code": "BARBINBBPCA"
+    },
+    {
+      "id": 875,
+      "bank": "BANK OF BARODA",
+      "city": "PUNE",
+      "branch": "(PUNE CAMP BR.)",
+      "swift_code": "BARBINBBPCB"
+    },
+    {
+      "id": 1090,
+      "bank": "BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(KOREGAON PARK)",
+      "swift_code": "BKIDINBBKOR"
+    },
+    {
+      "id": 1091,
+      "bank": "BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(PUNE BRANCH)",
+      "swift_code": "BKIDINBBPMB"
+    },
+    {
+      "id": 1092,
+      "bank": "BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(PUNE INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "BKIDINBBPIF"
+    },
+    {
+      "id": 1093,
+      "bank": "BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "",
+      "swift_code": "BKIDINBBPLB"
+    },
+    {
+      "id": 1151,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "PUNE",
+      "branch": "(DECCAN GYMKHANA)",
+      "swift_code": "MAHBINBBDGP"
+    },
+    {
+      "id": 1152,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "PUNE",
+      "branch": "(OVERSEAS BRANCH PUNE, MAHARASHTRA)",
+      "swift_code": "MAHBINBBOCP"
+    },
+    {
+      "id": 1153,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "PUNE",
+      "branch": "(PUNE, INDIA)",
+      "swift_code": "MAHBINBBIFP"
+    },
+    {
+      "id": 1196,
+      "bank": "BNP PARIBAS INDIA",
+      "city": "PUNE",
+      "branch": "(PUNE BRANCH)",
+      "swift_code": "BNPAINBBPUN"
+    },
+    {
+      "id": 1374,
+      "bank": "CANARA BANK",
+      "city": "PUNE",
+      "branch": "(PRIME CORPORATE BRANCH PUNE)",
+      "swift_code": "CNRBINBBIFP"
+    },
+    {
+      "id": 1375,
+      "bank": "CANARA BANK",
+      "city": "PUNE",
+      "branch": "(PUNE FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBPFD"
+    },
+    {
+      "id": 1454,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(PIMPRI BRANCH)",
+      "swift_code": "CBININBBPMR"
+    },
+    {
+      "id": 1455,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(PUNE CAMP BRANCH)",
+      "swift_code": "CBININBBPOO"
+    },
+    {
+      "id": 1484,
+      "bank": "CITIBANK N.A.",
+      "city": "PUNE",
+      "branch": "(PUNE BRANCH)",
+      "swift_code": "CITIINBXPUN"
+    },
+    {
+      "id": 1590,
+      "bank": "CORPORATION BANK",
+      "city": "PUNE",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "CORPINBB502"
+    },
+    {
+      "id": 1591,
+      "bank": "CORPORATION BANK",
+      "city": "PUNE",
+      "branch": "(PUNE BRANCH)",
+      "swift_code": "CORPINBB132"
+    },
+    {
+      "id": 1617,
+      "bank": "CREDIT AGRICOLE CIB",
+      "city": "PUNE",
+      "branch": "(PUNE BRANCH, INDIA)",
+      "swift_code": "CRLYINBBPUN"
+    },
+    {
+      "id": 1682,
+      "bank": "DENA BANK",
+      "city": "PUNE",
+      "branch": "(PUNE CAMP BRANCH)",
+      "swift_code": "BKDNINBBCMP"
+    },
+    {
+      "id": 1699,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "PUNE",
+      "branch": "(PUNE BRANCH)",
+      "swift_code": "DEUTINBBPUN"
+    },
+    {
+      "id": 1808,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "PUNE",
+      "branch": "(PUNE)",
+      "swift_code": "FDRLINBBPNE"
+    },
+    {
+      "id": 1856,
+      "bank": "HDFC BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(PUNE BRANCH)",
+      "swift_code": "HDFCINBBPNE"
+    },
+    {
+      "id": 1894,
+      "bank": "ICICI BANK LIMITED",
+      "city": "PUNE",
+      "branch": "",
+      "swift_code": "ICICINBB005"
+    },
+    {
+      "id": 1968,
+      "bank": "IDBI BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(LAXMI ROAD PUNE)",
+      "swift_code": "IBKLINBBLRP"
+    },
+    {
+      "id": 1969,
+      "bank": "IDBI BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(PIMPRI CHINCHWAD)",
+      "swift_code": "IBKLINBB522"
+    },
+    {
+      "id": 1970,
+      "bank": "IDBI BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(PUNE BRANCH)",
+      "swift_code": "IBKLINBB007"
+    },
+    {
+      "id": 2080,
+      "bank": "INDIAN BANK",
+      "city": "PUNE",
+      "branch": "(DECCAN GYMKHANA BRANCH)",
+      "swift_code": "IDIBINBBGYM"
+    },
+    {
+      "id": 2081,
+      "bank": "INDIAN BANK",
+      "city": "PUNE",
+      "branch": "(NANAPETH BRANCH)",
+      "swift_code": "IDIBINBBNNP"
+    },
+    {
+      "id": 2082,
+      "bank": "INDIAN BANK",
+      "city": "PUNE",
+      "branch": "(PUNE CANTONMENT BRANCH)",
+      "swift_code": "IDIBINBBPCT"
+    },
+    {
+      "id": 2200,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "PUNE",
+      "branch": "(PUNE CANTONMENT INDIA)",
+      "swift_code": "IOBAINBB722"
+    },
+    {
+      "id": 2201,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "PUNE",
+      "branch": "(SPECIALISED MID CORPORATE BRANCH, PUNE)",
+      "swift_code": "IOBAINBBP98"
+    },
+    {
+      "id": 2259,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(PUNE, M.G. ROAD)",
+      "swift_code": "INDBINBBPUN"
+    },
+    {
+      "id": 2269,
+      "bank": "INSTITUTE OF ELECTRONICS AND TELECOMMUNICATION ENGINEERS",
+      "city": "PUNE",
+      "branch": "",
+      "swift_code": "IETEINB1"
+    },
+    {
+      "id": 2310,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "PUNE",
+      "branch": "(PUNE)",
+      "swift_code": "JAKAINBBPLV"
+    },
+    {
+      "id": 2364,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "PUNE",
+      "branch": "(PUNE MAIN)",
+      "swift_code": "KARBINBBPUN"
+    },
+    {
+      "id": 2535,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "PUNE",
+      "branch": "(1088)",
+      "swift_code": "ORBCINBBFCP"
+    },
+    {
+      "id": 2536,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "PUNE",
+      "branch": "(BRANCH OFFICE PUNE MAIN)",
+      "swift_code": "ORBCINBBPMS"
+    },
+    {
+      "id": 2787,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "PUNE",
+      "branch": "(CAMP M G ROAD BRANCH)",
+      "swift_code": "PUNBINBBPUC"
+    },
+    {
+      "id": 2788,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "PUNE",
+      "branch": "(MCB KALYANI NAGAR, PUNE)",
+      "swift_code": "PUNBINBBPHM"
+    },
+    {
+      "id": 2789,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "PUNE",
+      "branch": "(NANAPETH PUNE)",
+      "swift_code": "PUNBINBBPNP"
+    },
+    {
+      "id": 3563,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(DECCAN GYMKHANA)",
+      "swift_code": "SBININBB218"
+    },
+    {
+      "id": 3564,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH30"
+    },
+    {
+      "id": 3565,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(IFB PIMPRI BRANCH)",
+      "swift_code": "SBININBB200"
+    },
+    {
+      "id": 3566,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SBININBB152"
+    },
+    {
+      "id": 3567,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBJ38"
+    },
+    {
+      "id": 3568,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(NRI BRANCH,KOREGAON PARK)",
+      "swift_code": "SBININBB733"
+    },
+    {
+      "id": 3569,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(PUNE MAIN BRANCH)",
+      "swift_code": "SBININBB238"
+    },
+    {
+      "id": 3570,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(TRADE FINANCE CENTRALIZED PROCESSING CENTRE)",
+      "swift_code": "SBININBB600"
+    },
+    {
+      "id": 3721,
+      "bank": "SVC CO-OPERATIVE BANK LIMITED",
+      "city": "PUNE",
+      "branch": "(DECCAN GYMKHANA)",
+      "swift_code": "SVCBINBBPUN"
+    },
+    {
+      "id": 3831,
+      "bank": "SYNDICATE BANK",
+      "city": "PUNE",
+      "branch": "(CHINCHWAD MSME BRANCH)",
+      "swift_code": "SYNBINBB523"
+    },
+    {
+      "id": 3832,
+      "bank": "SYNDICATE BANK",
+      "city": "PUNE",
+      "branch": "(PUNE CAMP BRANCH)",
+      "swift_code": "SYNBINBB044"
+    },
+    {
+      "id": 3860,
+      "bank": "THE COSMOS CO-OPERATIVE BANK LTD.",
+      "city": "PUNE",
+      "branch": "",
+      "swift_code": "COSDINBB"
+    },
+    {
+      "id": 3889,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "PUNE",
+      "branch": "",
+      "swift_code": "SRCBINBBPUN"
+    },
+    {
+      "id": 3932,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "PUNE",
+      "branch": "(PUNE)",
+      "swift_code": "SOININ55147"
+    },
+    {
+      "id": 3944,
+      "bank": "TJSB SAHAKARI BANK LTD.",
+      "city": "PUNE",
+      "branch": "(PUNE IBD)",
+      "swift_code": "TJSKINBBDGP"
+    },
+    {
+      "id": 4020,
+      "bank": "UCO BANK",
+      "city": "PUNE",
+      "branch": "(PIMPRI, PUNE)",
+      "swift_code": "UCBAINBB024"
+    },
+    {
+      "id": 4118,
+      "bank": "UNION BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, PUNE)",
+      "swift_code": "UBININBBIPN"
+    },
+    {
+      "id": 4119,
+      "bank": "UNION BANK OF INDIA",
+      "city": "PUNE",
+      "branch": "(KASARWADI BRANCH)",
+      "swift_code": "UBININBBKWP"
+    },
+    {
+      "id": 4191,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "PUNE",
+      "branch": "(LAXMI ROAD BRANCH)",
+      "swift_code": "UWBAINB1LRP"
+    },
+    {
+      "id": 4242,
+      "bank": "VIJAYA BANK",
+      "city": "PUNE",
+      "branch": "(CORPORATE BANKING BRANCH)",
+      "swift_code": "VIJBINBBCBP"
+    },
+    {
+      "id": 4243,
+      "bank": "VIJAYA BANK",
+      "city": "PUNE",
+      "branch": "",
+      "swift_code": "VIJBINBBPCB"
+    },
+    {
+      "id": 4256,
+      "bank": "VOLKSWAGEN IT SERVICES INDIA PRIVATE LIMITED",
+      "city": "PUNE",
+      "branch": "",
+      "swift_code": "VSIPINB1"
+    }
+  ],
+  "meta": {
+    "title": "Pune में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Pune, India. Subset of hi-bank. Source city string preserved verbatim as \"PUNE\". शामिल हैं 92 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Pune में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Pune में बैंक — SWIFT/BIC कोड — 92 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 92 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "hi-raipur-bank",
+  "name": "Raipur में बैंक — SWIFT/BIC कोड",
+  "title": "Raipur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Raipur, India. Subset of hi-bank. Source city string preserved verbatim as \"RAIPUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 119,
+      "bank": "ANDHRA BANK",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR BRANCH, CHHATISGARH)",
+      "swift_code": "ANDBINBBRAI"
+    },
+    {
+      "id": 596,
+      "bank": "AXIS BANK LIMITED",
+      "city": "RAIPUR",
+      "branch": "(DEVENDRA NAGAR,RAIPUR CT1508)",
+      "swift_code": "AXISINBBA49"
+    },
+    {
+      "id": 597,
+      "bank": "AXIS BANK LIMITED",
+      "city": "RAIPUR",
+      "branch": "(KATNI)",
+      "swift_code": "AXISINBB317"
+    },
+    {
+      "id": 598,
+      "bank": "AXIS BANK LIMITED",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR BRANCH)",
+      "swift_code": "AXISINBB139"
+    },
+    {
+      "id": 599,
+      "bank": "AXIS BANK LIMITED",
+      "city": "RAIPUR",
+      "branch": "(TAGORE NAGAR (CT)-537)",
+      "swift_code": "AXISINBB537"
+    },
+    {
+      "id": 716,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR)",
+      "swift_code": "UTIBINB1139"
+    },
+    {
+      "id": 876,
+      "bank": "BANK OF BARODA",
+      "city": "RAIPUR",
+      "branch": "(MID CORPORATE BRANCH RAIPUR)",
+      "swift_code": "BARBINBBMCR"
+    },
+    {
+      "id": 877,
+      "bank": "BANK OF BARODA",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR BRANCH)",
+      "swift_code": "BARBINBBRAI"
+    },
+    {
+      "id": 1094,
+      "bank": "BANK OF INDIA",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR BRANCH)",
+      "swift_code": "BKIDINBBRAI"
+    },
+    {
+      "id": 1095,
+      "bank": "BANK OF INDIA",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR MCB)",
+      "swift_code": "BKIDINBBRCB"
+    },
+    {
+      "id": 1154,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "RAIPUR",
+      "branch": "(BYRON BAZAR BRANCH RAIPUR)",
+      "swift_code": "MAHBINBBRPR"
+    },
+    {
+      "id": 1687,
+      "bank": "DENA BANK, RAIPUR, M.P.",
+      "city": "RAIPUR",
+      "branch": "",
+      "swift_code": "BKDNINBBRAI"
+    },
+    {
+      "id": 1971,
+      "bank": "IDBI BANK LIMITED",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR BRANCH)",
+      "swift_code": "IBKLINBB391"
+    },
+    {
+      "id": 2365,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR, CHHATTISGARH)",
+      "swift_code": "KARBINBBRPR"
+    },
+    {
+      "id": 2790,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "RAIPUR",
+      "branch": "",
+      "swift_code": "PUNBINBBRPM"
+    },
+    {
+      "id": 3574,
+      "bank": "STATE BANK OF INDIA",
+      "city": "RAIPUR",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB193"
+    },
+    {
+      "id": 3575,
+      "bank": "STATE BANK OF INDIA",
+      "city": "RAIPUR",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH73"
+    },
+    {
+      "id": 3576,
+      "bank": "STATE BANK OF INDIA",
+      "city": "RAIPUR",
+      "branch": "(SME RAIPUR)",
+      "swift_code": "SBININBB646"
+    },
+    {
+      "id": 4021,
+      "bank": "UCO BANK",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR MAIN BRANCH)",
+      "swift_code": "UCBAINBBRAI"
+    },
+    {
+      "id": 4022,
+      "bank": "UCO BANK",
+      "city": "RAIPUR",
+      "branch": "",
+      "swift_code": "UCBAINBB022"
+    },
+    {
+      "id": 4120,
+      "bank": "UNION BANK OF INDIA",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR BRANCH)",
+      "swift_code": "UBININBBRAI"
+    },
+    {
+      "id": 4244,
+      "bank": "VIJAYA BANK",
+      "city": "RAIPUR",
+      "branch": "(RAIPUR)",
+      "swift_code": "VIJBINBBRAI"
+    }
+  ],
+  "meta": {
+    "title": "Raipur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Raipur, India. Subset of hi-bank. Source city string preserved verbatim as \"RAIPUR\". शामिल हैं 22 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Raipur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Raipur में बैंक — SWIFT/BIC कोड — 22 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 22 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

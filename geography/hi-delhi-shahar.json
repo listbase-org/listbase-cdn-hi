@@ -1,0 +1,616 @@
+{
+  "id": "hi-delhi-shahar",
+  "name": "दिल्ली के शहर (Delhi Cities)",
+  "title": "दिल्ली के शहर (Delhi Cities)",
+  "description": "दिल्ली राज्य के 55 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 55 cities and towns in Delhi, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Azadpur",
+      "name_lower": "azadpur",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.716667,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Baqargarh",
+      "name_lower": "baqargarh",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.595833,
+      "longitude": 76.878611
+    },
+    {
+      "name": "Bawana Delhi",
+      "name_lower": "bawana delhi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.8,
+      "longitude": 77.033333
+    },
+    {
+      "name": "Chatarpur",
+      "name_lower": "chatarpur",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.5,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Chattarpur",
+      "name_lower": "chattarpur",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.5,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Chhattarpur",
+      "name_lower": "chhattarpur",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.5,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Connaught Place",
+      "name_lower": "connaught place",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Daria Ganj",
+      "name_lower": "daria ganj",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 77.25
+    },
+    {
+      "name": "Darya Ganj",
+      "name_lower": "darya ganj",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.633333,
+      "longitude": 77.25
+    },
+    {
+      "name": "Dehli",
+      "name_lower": "dehli",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.666667,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Delhi",
+      "name_lower": "delhi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": 10928270,
+      "latitude": 28.666667,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Delhi Cantonment",
+      "name_lower": "delhi cantonment",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.6,
+      "longitude": 77.133333
+    },
+    {
+      "name": "Delhi Paharganj",
+      "name_lower": "delhi paharganj",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.616667,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Delhi Sabzimandi",
+      "name_lower": "delhi sabzimandi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 77.2
+    },
+    {
+      "name": "Dera Mandi",
+      "name_lower": "dera mandi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.433333,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Dhandasa",
+      "name_lower": "dhandasa",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.55,
+      "longitude": 76.866667
+    },
+    {
+      "name": "Dichaon Kalan",
+      "name_lower": "dichaon kalan",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.639722,
+      "longitude": 76.983056
+    },
+    {
+      "name": "Dilli",
+      "name_lower": "dilli",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.666667,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Dindarput",
+      "name_lower": "dindarput",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.593056,
+      "longitude": 76.994444
+    },
+    {
+      "name": "Fort Tughlakabad",
+      "name_lower": "fort tughlakabad",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.5,
+      "longitude": 77.266667
+    },
+    {
+      "name": "Isharheri",
+      "name_lower": "isharheri",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.631944,
+      "longitude": 76.934722
+    },
+    {
+      "name": "Jafarpur Kalan",
+      "name_lower": "jafarpur kalan",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.589722,
+      "longitude": 76.921667
+    },
+    {
+      "name": "Jharoda Kalan",
+      "name_lower": "jharoda kalan",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.652778,
+      "longitude": 76.953889
+    },
+    {
+      "name": "Kair",
+      "name_lower": "kair",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.624444,
+      "longitude": 76.919444
+    },
+    {
+      "name": "Kalkaji",
+      "name_lower": "kalkaji",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.55,
+      "longitude": 77.266667
+    },
+    {
+      "name": "Kalkaji Devi",
+      "name_lower": "kalkaji devi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.55,
+      "longitude": 77.266667
+    },
+    {
+      "name": "Karol Bagh",
+      "name_lower": "karol bagh",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.65,
+      "longitude": 77.2
+    },
+    {
+      "name": "Kharkhari Nahar",
+      "name_lower": "kharkhari nahar",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.585556,
+      "longitude": 76.962222
+    },
+    {
+      "name": "Mahrauli",
+      "name_lower": "mahrauli",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.516667,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Mandhela Kalan",
+      "name_lower": "mandhela kalan",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.6125,
+      "longitude": 76.896667
+    },
+    {
+      "name": "Mandhela Khurd",
+      "name_lower": "mandhela khurd",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.617222,
+      "longitude": 76.891944
+    },
+    {
+      "name": "Mehrauli",
+      "name_lower": "mehrauli",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.516667,
+      "longitude": 77.183333
+    },
+    {
+      "name": "Mitraon",
+      "name_lower": "mitraon",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.606944,
+      "longitude": 76.946667
+    },
+    {
+      "name": "Mukhmerpur",
+      "name_lower": "mukhmerpur",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.816667,
+      "longitude": 77.166667
+    },
+    {
+      "name": "Mukmelpur",
+      "name_lower": "mukmelpur",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.816667,
+      "longitude": 77.166667
+    },
+    {
+      "name": "Najafgarh",
+      "name_lower": "najafgarh",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.6125,
+      "longitude": 76.984722
+    },
+    {
+      "name": "Najafgarli",
+      "name_lower": "najafgarli",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.6125,
+      "longitude": 76.984722
+    },
+    {
+      "name": "Nangloi",
+      "name_lower": "nangloi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Nangloi Jat",
+      "name_lower": "nangloi jat",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": 194381,
+      "latitude": 28.683333,
+      "longitude": 77.066667
+    },
+    {
+      "name": "Narela",
+      "name_lower": "narela",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.85,
+      "longitude": 77.1
+    },
+    {
+      "name": "New Cantonment",
+      "name_lower": "new cantonment",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.6,
+      "longitude": 77.133333
+    },
+    {
+      "name": "New Delhi",
+      "name_lower": "new delhi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": 10928270,
+      "latitude": 28.6,
+      "longitude": 77.2
+    },
+    {
+      "name": "New Dilli",
+      "name_lower": "new dilli",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.6,
+      "longitude": 77.2
+    },
+    {
+      "name": "Nilwal",
+      "name_lower": "nilwal",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.666111,
+      "longitude": 76.980556
+    },
+    {
+      "name": "Old Delhi",
+      "name_lower": "old delhi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.666667,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Paharganj",
+      "name_lower": "paharganj",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.616667,
+      "longitude": 77.216667
+    },
+    {
+      "name": "Paprawat",
+      "name_lower": "paprawat",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.589167,
+      "longitude": 76.980278
+    },
+    {
+      "name": "Roshanpura",
+      "name_lower": "roshanpura",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.600833,
+      "longitude": 76.988889
+    },
+    {
+      "name": "Sabzi Mandi",
+      "name_lower": "sabzi mandi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 77.2
+    },
+    {
+      "name": "Shakurpur",
+      "name_lower": "shakurpur",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 77.15
+    },
+    {
+      "name": "Soreda",
+      "name_lower": "soreda",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.597222,
+      "longitude": 76.937778
+    },
+    {
+      "name": "Subzi Mundi",
+      "name_lower": "subzi mundi",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.683333,
+      "longitude": 77.2
+    },
+    {
+      "name": "Surkhpur",
+      "name_lower": "surkhpur",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.625833,
+      "longitude": 76.943889
+    },
+    {
+      "name": "Tughlakabad",
+      "name_lower": "tughlakabad",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.5,
+      "longitude": 77.266667
+    },
+    {
+      "name": "Tughlaqabad",
+      "name_lower": "tughlaqabad",
+      "state": "Delhi",
+      "state_hi": "दिल्ली",
+      "region_code": "07",
+      "population": "",
+      "latitude": 28.5,
+      "longitude": 77.266667
+    }
+  ],
+  "meta": {
+    "title": "दिल्ली के शहर (Delhi Cities) - मुफ़्त डाउनलोड",
+    "description": "दिल्ली राज्य के 55 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 55 cities and towns in Delhi, India, with population and geographic coordinates. शामिल हैं 55 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "दिल्ली के शहर (Delhi Cities) | ListBase",
+    "seo_description": "डाउनलोड दिल्ली के शहर (Delhi Cities) — 55 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 55 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

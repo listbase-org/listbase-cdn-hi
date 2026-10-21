@@ -1,0 +1,1122 @@
+{
+  "id": "hi-bangalore-bank",
+  "name": "Bangalore में बैंक — SWIFT/BIC कोड",
+  "title": "Bangalore में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Bangalore, India. Subset of hi-bank. Source city string preserved verbatim as \"BANGALORE\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 12,
+      "bank": "ALLAHABAD BANK",
+      "city": "BANGALORE",
+      "branch": "(IFB BANGLORE)",
+      "swift_code": "ALLAINBBBAN"
+    },
+    {
+      "id": 75,
+      "bank": "ANDHRA BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE MAIN BRANCH)",
+      "swift_code": "ANDBINBBBAN"
+    },
+    {
+      "id": 170,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(BANASHANKARI)",
+      "swift_code": "AXISINBB102"
+    },
+    {
+      "id": 171,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(BANGLORE BRANCH)",
+      "swift_code": "AXISINBB009"
+    },
+    {
+      "id": 172,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(BASAVESHWAR)",
+      "swift_code": "AXISINBB065"
+    },
+    {
+      "id": 173,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(CBB BANGALORE)",
+      "swift_code": "AXISINBBA06"
+    },
+    {
+      "id": 174,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(COX TOWN, BANGALORE (KT)-231)",
+      "swift_code": "AXISINBB231"
+    },
+    {
+      "id": 175,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(ELECTRONIC CITY, BANGALORE -677)",
+      "swift_code": "AXISINBBA28"
+    },
+    {
+      "id": 176,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(HSR LAYOUT, BANGALORE KT)",
+      "swift_code": "AXISINBB785"
+    },
+    {
+      "id": 177,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(INDIRA NAGAR)",
+      "swift_code": "AXISINBB114"
+    },
+    {
+      "id": 178,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(J P NAGAR BRANCH)",
+      "swift_code": "AXISINBB333"
+    },
+    {
+      "id": 179,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(JAYA NAGAR)",
+      "swift_code": "AXISINBB052"
+    },
+    {
+      "id": 180,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(KORAMANGALA)",
+      "swift_code": "AXISINBBA89"
+    },
+    {
+      "id": 181,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(KORAMANGLA)",
+      "swift_code": "AXISINBB194"
+    },
+    {
+      "id": 182,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(MAJESTIC, BANGALORE (KT))",
+      "swift_code": "AXISINBB693"
+    },
+    {
+      "id": 183,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(MALLESWARAM)",
+      "swift_code": "AXISINBB227"
+    },
+    {
+      "id": 184,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(PEENYA)",
+      "swift_code": "AXISINBB560"
+    },
+    {
+      "id": 185,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(RAJAJINAGAR, BANGALORE (KT)-559)",
+      "swift_code": "AXISINBB559"
+    },
+    {
+      "id": 186,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(SANJAY NAGAR, BANGALORE (KT):755)",
+      "swift_code": "AXISINBB755"
+    },
+    {
+      "id": 187,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(TUMKUR -343)",
+      "swift_code": "AXISINBBA22"
+    },
+    {
+      "id": 188,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(VIJAYANAGAR, BANGALORE (KT))",
+      "swift_code": "AXISINBB468"
+    },
+    {
+      "id": 189,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(WHITEFIELD)",
+      "swift_code": "AXISINBB514"
+    },
+    {
+      "id": 190,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(YELAHANKA)",
+      "swift_code": "AXISINBB094"
+    },
+    {
+      "id": 658,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "UTIBINB1009"
+    },
+    {
+      "id": 735,
+      "bank": "BANGALORE STOCK EXCHANGE LIMITED",
+      "city": "BANGALORE",
+      "branch": "",
+      "swift_code": "XBANIN51"
+    },
+    {
+      "id": 753,
+      "bank": "BANK OF BARODA",
+      "city": "BANGALORE",
+      "branch": "(CORPORATE FINANCIAL SERVICES, BANGALORE)",
+      "swift_code": "BARBINBBCRB"
+    },
+    {
+      "id": 754,
+      "bank": "BANK OF BARODA",
+      "city": "BANGALORE",
+      "branch": "(K.G. ROAD BR.)",
+      "swift_code": "BARBINBBBGL"
+    },
+    {
+      "id": 755,
+      "bank": "BANK OF BARODA",
+      "city": "BANGALORE",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "BARBINBBMCB"
+    },
+    {
+      "id": 917,
+      "bank": "BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "BKIDINBBBGL"
+    },
+    {
+      "id": 918,
+      "bank": "BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE MID CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBBCB"
+    },
+    {
+      "id": 919,
+      "bank": "BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(CANTONMENT)",
+      "swift_code": "BKIDINBBCAN"
+    },
+    {
+      "id": 920,
+      "bank": "BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(MALLESWARAM)",
+      "swift_code": "BKIDINBBMWM"
+    },
+    {
+      "id": 921,
+      "bank": "BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "",
+      "swift_code": "BKIDINBBBLB"
+    },
+    {
+      "id": 1125,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "BANGALORE",
+      "branch": "(CITY MARKET BRANCH, BANGALORE)",
+      "swift_code": "MAHBINBBBGL"
+    },
+    {
+      "id": 1161,
+      "bank": "BANK OF NOVA SCOTIA, THE",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "NOSCINBBBLR"
+    },
+    {
+      "id": 1167,
+      "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+      "city": "BANGALORE",
+      "branch": "",
+      "swift_code": "BOTKINBX"
+    },
+    {
+      "id": 1189,
+      "bank": "BNP PARIBAS INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "BNPAINBBBAN"
+    },
+    {
+      "id": 1215,
+      "bank": "CANARA BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE AVENUE ROAD BRANCH)",
+      "swift_code": "CNRBINBBLDA"
+    },
+    {
+      "id": 1216,
+      "bank": "CANARA BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CANTONMENT BRANCH)",
+      "swift_code": "CNRBINBBLDC"
+    },
+    {
+      "id": 1217,
+      "bank": "CANARA BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBLFD"
+    },
+    {
+      "id": 1218,
+      "bank": "CANARA BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBLOB"
+    },
+    {
+      "id": 1219,
+      "bank": "CANARA BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE TOWN HALL BRANCH)",
+      "swift_code": "CNRBINBBLDT"
+    },
+    {
+      "id": 1220,
+      "bank": "CANARA BANK",
+      "city": "BANGALORE",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "CNRBINBBIFB"
+    },
+    {
+      "id": 1221,
+      "bank": "CANARA BANK",
+      "city": "BANGALORE",
+      "branch": "(PRIME CORPORATE)",
+      "swift_code": "CNRBINBBCBB"
+    },
+    {
+      "id": 1401,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CITY BRANCH)",
+      "swift_code": "CBININBBBLR"
+    },
+    {
+      "id": 1402,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(MILLER ROAD EXTENSION, BANGALORE)",
+      "swift_code": "CBININBBMRB"
+    },
+    {
+      "id": 1473,
+      "bank": "CITIBANK N.A.",
+      "city": "BANGALORE",
+      "branch": "(BANGLORE BRANCH)",
+      "swift_code": "CITIINBXBLR"
+    },
+    {
+      "id": 1493,
+      "bank": "CORPORATION BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE-FRPC)",
+      "swift_code": "CORPINBBFRP"
+    },
+    {
+      "id": 1494,
+      "bank": "CORPORATION BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE-PEENYA)",
+      "swift_code": "CORPINBB763"
+    },
+    {
+      "id": 1495,
+      "bank": "CORPORATION BANK",
+      "city": "BANGALORE",
+      "branch": "(M.G. ROAD BRANCH)",
+      "swift_code": "CORPINBB341"
+    },
+    {
+      "id": 1496,
+      "bank": "CORPORATION BANK",
+      "city": "BANGALORE",
+      "branch": "(MALLESWARAM MAIN BRANCH)",
+      "swift_code": "CORPINBB056"
+    },
+    {
+      "id": 1497,
+      "bank": "CORPORATION BANK",
+      "city": "BANGALORE",
+      "branch": "(WHITE FIELD)",
+      "swift_code": "CORPINBB705"
+    },
+    {
+      "id": 1498,
+      "bank": "CORPORATION BANK",
+      "city": "BANGALORE",
+      "branch": "",
+      "swift_code": "CORPINBB438"
+    },
+    {
+      "id": 1613,
+      "bank": "CREDIT AGRICOLE CIB",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH, INDIA)",
+      "swift_code": "CRLYINBBBLR"
+    },
+    {
+      "id": 1633,
+      "bank": "DCB BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "DCBLINBB038"
+    },
+    {
+      "id": 1644,
+      "bank": "DENA BANK",
+      "city": "BANGALORE",
+      "branch": "(K.G. ROAD BRANCH, BANGALORE)",
+      "swift_code": "BKDNINBBKGB"
+    },
+    {
+      "id": 1690,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "DEUTINBBBGL"
+    },
+    {
+      "id": 1702,
+      "bank": "DHANLAXMI BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(FOREX)",
+      "swift_code": "DLXBINBBKPM"
+    },
+    {
+      "id": 1742,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE RESIDENCY ROAD BRANCH)",
+      "swift_code": "FDRLINBBBGA"
+    },
+    {
+      "id": 1743,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "BANGALORE",
+      "branch": "(BASAVANGUDI)",
+      "swift_code": "FDRLINBBBG3"
+    },
+    {
+      "id": 1744,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "BANGALORE",
+      "branch": "(GANDHINAGAR)",
+      "swift_code": "FDRLINBBBG2"
+    },
+    {
+      "id": 1821,
+      "bank": "FIRST SECURITIES PRIVATE LIMITED",
+      "city": "BANGALORE",
+      "branch": "",
+      "swift_code": "FISRIN51"
+    },
+    {
+      "id": 1833,
+      "bank": "HDFC BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "HDFCINBBBNG"
+    },
+    {
+      "id": 1865,
+      "bank": "ICICI BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(REGIONAL TRADE SERVICES UNIT-BANGALORE)",
+      "swift_code": "ICICINBBRT3"
+    },
+    {
+      "id": 1866,
+      "bank": "ICICI BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "",
+      "swift_code": "ICICINBB002"
+    },
+    {
+      "id": 1904,
+      "bank": "IDBI BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "IBKLINBB008"
+    },
+    {
+      "id": 1905,
+      "bank": "IDBI BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE)",
+      "swift_code": "IBKLINBBBGL"
+    },
+    {
+      "id": 1906,
+      "bank": "IDBI BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(MAIN CORPORATE BRANCH, BANGALORE)",
+      "swift_code": "IBKLINBB128"
+    },
+    {
+      "id": 2005,
+      "bank": "INDIAN BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CITY BRANCH)",
+      "swift_code": "IDIBINBBCTY"
+    },
+    {
+      "id": 2006,
+      "bank": "INDIAN BANK",
+      "city": "BANGALORE",
+      "branch": "(MG ROAD - BANGALORE BRANCH)",
+      "swift_code": "IDIBINBBMGR"
+    },
+    {
+      "id": 2100,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "BANGALORE",
+      "branch": "(RESIDENCY ROAD, BANGALORE)",
+      "swift_code": "IOBAINBB268"
+    },
+    {
+      "id": 2101,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "BANGALORE",
+      "branch": "",
+      "swift_code": "IOBAINBB011"
+    },
+    {
+      "id": 2226,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE, M.G. ROAD)",
+      "swift_code": "INDBINBBBGM"
+    },
+    {
+      "id": 2278,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "JAKAINBBBNG"
+    },
+    {
+      "id": 2279,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "BANGALORE",
+      "branch": "(OTC BRANCH)",
+      "swift_code": "JAKAINBBOTC"
+    },
+    {
+      "id": 2346,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "BANGALORE",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "KARBINBBBNG"
+    },
+    {
+      "id": 2347,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "BANGALORE",
+      "branch": "(SARAKKI LAYOUT BANGALORE)",
+      "swift_code": "KARBINBBSRK"
+    },
+    {
+      "id": 2387,
+      "bank": "KOTAK MAHINDRA BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(FOREIGN EXCHANGE SERVICES)",
+      "swift_code": "KKBKINBBFES"
+    },
+    {
+      "id": 2388,
+      "bank": "KOTAK MAHINDRA BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(TRADE FINANCE UNIT)",
+      "swift_code": "KKBKINBBBLR"
+    },
+    {
+      "id": 2401,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE MAIN)",
+      "swift_code": "LAVBINBB161"
+    },
+    {
+      "id": 2464,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "BANGALORE",
+      "branch": "(B/O RICHMOND ROAD, BANGALORE)",
+      "swift_code": "ORBCINBBBAN"
+    },
+    {
+      "id": 2564,
+      "bank": "PUNJAB AND MAHARASHTRA CO-OPERATIVE BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(RAJAJI NAGAR BANGALORE)",
+      "swift_code": "PMCBINBBBLR"
+    },
+    {
+      "id": 2570,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "BANGALORE",
+      "branch": "(JC ROAD BANGALORE)",
+      "swift_code": "PSIBINBB162"
+    },
+    {
+      "id": 2611,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "BANGALORE",
+      "branch": "(HUDSON CIRCLE BRANCH)",
+      "swift_code": "PUNBINBBBCY"
+    },
+    {
+      "id": 2612,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "BANGALORE",
+      "branch": "(IFB BANGALORE)",
+      "swift_code": "PUNBINBBBFB"
+    },
+    {
+      "id": 2613,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "BANGALORE",
+      "branch": "(K.G. ROAD, BANGALORE)",
+      "swift_code": "PUNBINBBBKG"
+    },
+    {
+      "id": 2831,
+      "bank": "SAMSUNG INDIA ELECTRONICS PRIVATE .LTD",
+      "city": "BANGALORE",
+      "branch": "(SISO)",
+      "swift_code": "SECTIND1552"
+    },
+    {
+      "id": 2855,
+      "bank": "SOCIETE GENERALE",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "SOGEINBBBLR"
+    },
+    {
+      "id": 2920,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBH15"
+    },
+    {
+      "id": 2921,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM02"
+    },
+    {
+      "id": 2922,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM03"
+    },
+    {
+      "id": 2923,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM04"
+    },
+    {
+      "id": 2924,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM05"
+    },
+    {
+      "id": 2925,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM06"
+    },
+    {
+      "id": 2926,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM07"
+    },
+    {
+      "id": 2927,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM08"
+    },
+    {
+      "id": 2928,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM09"
+    },
+    {
+      "id": 2929,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM28"
+    },
+    {
+      "id": 2930,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CITY COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB113"
+    },
+    {
+      "id": 2931,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CITY)",
+      "swift_code": "SBININBB424"
+    },
+    {
+      "id": 2932,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(CBD BRANCH, BANGALORE)",
+      "swift_code": "SBININBB704"
+    },
+    {
+      "id": 2933,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(CBD, BANGALORE)",
+      "swift_code": "SBININBB169"
+    },
+    {
+      "id": 2934,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP17"
+    },
+    {
+      "id": 2935,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBM32"
+    },
+    {
+      "id": 2936,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(COMMERCIAL BRANCH, RAJAJINAGAR)",
+      "swift_code": "SBININBB240"
+    },
+    {
+      "id": 2937,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(DOORAVANI NAGAR BRANCH)",
+      "swift_code": "SBININBB223"
+    },
+    {
+      "id": 2938,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(ELECTRONIC CITY)",
+      "swift_code": "SBININBB230"
+    },
+    {
+      "id": 2939,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(HAL BRANCH)",
+      "swift_code": "SBININBB147"
+    },
+    {
+      "id": 2940,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(IISC CAMPUS,BANGALORE)",
+      "swift_code": "SBININBB425"
+    },
+    {
+      "id": 2941,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SBININBB116"
+    },
+    {
+      "id": 2942,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(ISRO)",
+      "swift_code": "SBININBB224"
+    },
+    {
+      "id": 2943,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(ITI ANCILLARY INDUSTRIAL ESTATE, MAHADEVAPURA BANGALORE)",
+      "swift_code": "SBININBB262"
+    },
+    {
+      "id": 2944,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(JALAHALLI BRANCH)",
+      "swift_code": "SBININBB177"
+    },
+    {
+      "id": 2945,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(JAYANAGAR II BLOCK,BANGALORE)",
+      "swift_code": "SBININBB423"
+    },
+    {
+      "id": 2946,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT52"
+    },
+    {
+      "id": 2947,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT68"
+    },
+    {
+      "id": 2948,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBH59"
+    },
+    {
+      "id": 2949,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBM01"
+    },
+    {
+      "id": 2950,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(NAL,BANGALORE)",
+      "swift_code": "SBININBB422"
+    },
+    {
+      "id": 2951,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB112"
+    },
+    {
+      "id": 2952,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(PEENYA INDUSTRIAL ESTATE, BANGALORE)",
+      "swift_code": "SBININBB192"
+    },
+    {
+      "id": 2953,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(RACE COURSE ROAD BRANCH)",
+      "swift_code": "SBININBB171"
+    },
+    {
+      "id": 2954,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(SPB,BANGALORE)",
+      "swift_code": "SBININBB421"
+    },
+    {
+      "id": 2955,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(SPL. MIG BRANCH,BANGALORE)",
+      "swift_code": "SBININBB736"
+    },
+    {
+      "id": 2956,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(SSI, KUMARAPARK,BANGALORE)",
+      "swift_code": "SBININBB420"
+    },
+    {
+      "id": 2957,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(TRADE FINANCE CENTRAL PROCESSING CENTRE, BANGALORE)",
+      "swift_code": "SBININBB596"
+    },
+    {
+      "id": 3718,
+      "bank": "SVC CO-OPERATIVE BANK LIMITED",
+      "city": "BANGALORE",
+      "branch": "(CHAMRAJPET BRANCH)",
+      "swift_code": "SVCBINBBBLR"
+    },
+    {
+      "id": 3731,
+      "bank": "SYNDICATE BANK",
+      "city": "BANGALORE",
+      "branch": "(FXPC BRANCH)",
+      "swift_code": "SYNBINBB118"
+    },
+    {
+      "id": 3732,
+      "bank": "SYNDICATE BANK",
+      "city": "BANGALORE",
+      "branch": "(GHANDHI NAGAR BRANCH)",
+      "swift_code": "SYNBINBB003"
+    },
+    {
+      "id": 3733,
+      "bank": "SYNDICATE BANK",
+      "city": "BANGALORE",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SYNBINBB164"
+    },
+    {
+      "id": 3734,
+      "bank": "SYNDICATE BANK",
+      "city": "BANGALORE",
+      "branch": "(JAYANAGAR BRANCH)",
+      "swift_code": "SYNBINBB313"
+    },
+    {
+      "id": 3735,
+      "bank": "SYNDICATE BANK",
+      "city": "BANGALORE",
+      "branch": "(KORAMANGALA BRANCH)",
+      "swift_code": "SYNBINBB327"
+    },
+    {
+      "id": 3736,
+      "bank": "SYNDICATE BANK",
+      "city": "BANGALORE",
+      "branch": "(MALLESWARAM BRANCH)",
+      "swift_code": "SYNBINBB085"
+    },
+    {
+      "id": 3737,
+      "bank": "SYNDICATE BANK",
+      "city": "BANGALORE",
+      "branch": "(MILLERS ROAD BRANCH)",
+      "swift_code": "SYNBINBB169"
+    },
+    {
+      "id": 3738,
+      "bank": "SYNDICATE BANK",
+      "city": "BANGALORE",
+      "branch": "(RAJAJINAGAR)",
+      "swift_code": "SYNBINBB316"
+    },
+    {
+      "id": 3739,
+      "bank": "SYNDICATE BANK",
+      "city": "BANGALORE",
+      "branch": "(SHOOLEY BRANCH)",
+      "swift_code": "SYNBINBB077"
+    },
+    {
+      "id": 3855,
+      "bank": "THE BHARAT CO-OPERATIVE BANK (MUMBAI) LTD",
+      "city": "BANGALORE",
+      "branch": "(K H ROAD, BANGALORE)",
+      "swift_code": "BCMLINBBBGR"
+    },
+    {
+      "id": 3861,
+      "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+      "city": "BANGALORE",
+      "branch": "",
+      "swift_code": "HSBCINBBBGE"
+    },
+    {
+      "id": 3895,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CITY)",
+      "swift_code": "SOININ55008"
+    },
+    {
+      "id": 3896,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CORPORATE)",
+      "swift_code": "SOININ55715"
+    },
+    {
+      "id": 3957,
+      "bank": "UCO BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE CITY BRANCH)",
+      "swift_code": "UCBAINBB306"
+    },
+    {
+      "id": 3958,
+      "bank": "UCO BANK",
+      "city": "BANGALORE",
+      "branch": "(BANGLORE CITY)",
+      "swift_code": "UCBAINBB346"
+    },
+    {
+      "id": 4040,
+      "bank": "UNION BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(CANTONMENT BRANCH)",
+      "swift_code": "UBININBBCTB"
+    },
+    {
+      "id": 4041,
+      "bank": "UNION BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(GANDHINAGAR, BANGALORE)",
+      "swift_code": "UBININBBGNB"
+    },
+    {
+      "id": 4042,
+      "bank": "UNION BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, KASTURBA ROAD)",
+      "swift_code": "UBININBBIBB"
+    },
+    {
+      "id": 4136,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "UTBIINBBBGC"
+    },
+    {
+      "id": 4137,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "BANGALORE",
+      "branch": "(ELECTRONIC CITY BRANCH)",
+      "swift_code": "UTBIINBBECB"
+    },
+    {
+      "id": 4177,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "BANGALORE",
+      "branch": "(BANGALORE BRANCH)",
+      "swift_code": "UWBAINB1BGL"
+    },
+    {
+      "id": 4200,
+      "bank": "VIJAYA BANK",
+      "city": "BANGALORE",
+      "branch": "(CENTRALIZED FOREX PROCESSING CELL)",
+      "swift_code": "VIJBINBBCPC"
+    },
+    {
+      "id": 4201,
+      "bank": "VIJAYA BANK",
+      "city": "BANGALORE",
+      "branch": "(CORPORATE BANKING BRANCH)",
+      "swift_code": "VIJBINBBCBB"
+    },
+    {
+      "id": 4202,
+      "bank": "VIJAYA BANK",
+      "city": "BANGALORE",
+      "branch": "(IBD H.O. BRANCH)",
+      "swift_code": "VIJBINBBIBD"
+    },
+    {
+      "id": 4203,
+      "bank": "VIJAYA BANK",
+      "city": "BANGALORE",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "VIJBINBBFXB"
+    },
+    {
+      "id": 4204,
+      "bank": "VIJAYA BANK",
+      "city": "BANGALORE",
+      "branch": "(RESIDENCY ROAD)",
+      "swift_code": "VIJBINBBRRB"
+    }
+  ],
+  "meta": {
+    "title": "Bangalore में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Bangalore, India. Subset of hi-bank. Source city string preserved verbatim as \"BANGALORE\". शामिल हैं 153 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Bangalore में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Bangalore में बैंक — SWIFT/BIC कोड — 153 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 153 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

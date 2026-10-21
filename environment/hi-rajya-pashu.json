@@ -1,0 +1,426 @@
+{
+  "id": "hi-rajya-pashu",
+  "name": "भारत के राज्य पशु (State Animals of India)",
+  "title": "भारत के राज्य पशु (State Animals of India)",
+  "description": "36 state and union-territory animals officially designated by Indian state governments, with common name, binomial scientific name, IUCN Red List category, contextual notes, and Wikimedia Commons image reference.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "common_name",
+      "label": "Common Name",
+      "type": "string"
+    },
+    {
+      "key": "binomial_name",
+      "label": "Binomial Name",
+      "type": "string"
+    },
+    {
+      "key": "iucn_category",
+      "label": "Iucn Category",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    },
+    {
+      "key": "image_src",
+      "label": "Image Src",
+      "type": "string"
+    },
+    {
+      "key": "image_alt",
+      "label": "Image Alt",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "state_slug": "andaman-and-nicobar-islands",
+      "common_name": "Dugong",
+      "binomial_name": "Dugong dugon",
+      "iucn_category": "VU",
+      "notes": "strictly herbivore aquatic animal hence also known as Sea Cow",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dugong_Marsa_Alam.jpg/180px-Dugong_Marsa_Alam.jpg",
+      "image_alt": "Dugong Marsa Alam.jpg"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_slug": "andhra-pradesh",
+      "common_name": "Blackbuck",
+      "binomial_name": "Antilope cervicapra",
+      "iucn_category": "NT",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Blackbuck_by_N_A_Nazeer.jpg/200px-Blackbuck_by_N_A_Nazeer.jpg",
+      "image_alt": "Blackbuck by N A Nazeer.jpg"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "state_slug": "arunachal-pradesh",
+      "common_name": "Gayal/Mithun",
+      "binomial_name": "Bos Frontalis",
+      "iucn_category": "EN",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/1e/B4_darjeling_para-5.jpg/200px-B4_darjeling_para-5.jpg",
+      "image_alt": "Mithun"
+    },
+    {
+      "state": "Assam",
+      "state_slug": "assam",
+      "common_name": "One-horned rhinoceros",
+      "binomial_name": "Rhinoceros unicornis",
+      "iucn_category": "VU",
+      "notes": "The state hosts majority (~2000) of Indian rhinos living in the Sub-continent (~2500)",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Indian_Rhino_%28Rhinoceros_unicornis%291_-_Relic38.jpg/200px-Indian_Rhino_%28Rhinoceros_unicornis%291_-_Relic38.jpg",
+      "image_alt": "Indian Rhino (Rhinoceros unicornis)1 - Relic38.jpg"
+    },
+    {
+      "state": "Bihar",
+      "state_slug": "bihar",
+      "common_name": "Gaur",
+      "binomial_name": "Bos gaurus",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Indian_Gaur_from_anaimalai_hills_JEG5290.jpg/200px-Indian_Gaur_from_anaimalai_hills_JEG5290.jpg",
+      "image_alt": "Indian Gaur from anaimalai hills JEG5290.jpg"
+    },
+    {
+      "state": "Chandigarh",
+      "state_slug": "chandigarh",
+      "common_name": "Indian Gray Mongoose",
+      "binomial_name": "Herpestes edwardsi",
+      "iucn_category": "LC",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Herpestes_edwardsii._2.jpg/180px-Herpestes_edwardsii._2.jpg",
+      "image_alt": "Common grey mangoose"
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_slug": "chhattisgarh",
+      "common_name": "Wild water buffalo",
+      "binomial_name": "Bubalus bubalis arnee",
+      "iucn_category": "EN",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/5/51/Indian_Water_Buffalo_Bubalus_arnee_by_Dr_Raju_Kasambe_IMG_0347_%2811%29_%28cropped%29.jpg/200px-Indian_Water_Buffalo_Bubalus_arnee_by_Dr_Raju_Kasambe_IMG_0347_%2811%29_%28cropped%29.jpg",
+      "image_alt": "Indian Water Buffalo Bubalus arnee by Dr Raju Kasambe IMG 0347 (11) (cropped).jpg"
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "state_slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+      "common_name": "Not yet designated",
+      "binomial_name": "",
+      "iucn_category": "",
+      "notes": "",
+      "image_src": "",
+      "image_alt": ""
+    },
+    {
+      "state": "Delhi",
+      "state_slug": "delhi",
+      "common_name": "Nilgai",
+      "binomial_name": "Boselaphus tragocamelus",
+      "iucn_category": "LC",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nilgauantilope_Boselaphus_tragocamelus_Tierpark_Hellabrunn-10.jpg/180px-Nilgauantilope_Boselaphus_tragocamelus_Tierpark_Hellabrunn-10.jpg",
+      "image_alt": "Nilgauantilope Boselaphus tragocamelus Tierpark Hellabrunn-10.jpg"
+    },
+    {
+      "state": "Goa",
+      "state_slug": "goa",
+      "common_name": "Gaur",
+      "binomial_name": "Bos gaurus",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Indian_Gaur_from_anaimalai_hills_JEG5290.jpg/200px-Indian_Gaur_from_anaimalai_hills_JEG5290.jpg",
+      "image_alt": "Indian Gaur from anaimalai hills JEG5290.jpg"
+    },
+    {
+      "state": "Gujarat",
+      "state_slug": "gujarat",
+      "common_name": "Asiatic lion",
+      "binomial_name": "Panthera leo persica",
+      "iucn_category": "EN",
+      "notes": "Lives exclusively in Gir Forest National Park the only place where asiatic lions live in the wild.",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/11/Panthera_leo_persica_male.jpg/200px-Panthera_leo_persica_male.jpg",
+      "image_alt": "Panthera leo persica male.jpg"
+    },
+    {
+      "state": "Haryana",
+      "state_slug": "haryana",
+      "common_name": "Blackbuck",
+      "binomial_name": "Antilope cervicapra",
+      "iucn_category": "NT",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blackbuck_male_female.jpg/200px-Blackbuck_male_female.jpg",
+      "image_alt": "Blackbuck male female.jpg"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "state_slug": "himachal-pradesh",
+      "common_name": "Snow leopard",
+      "binomial_name": "Uncia uncia or Panthera uncia",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/19/Snow_leopard_portrait.jpg/200px-Snow_leopard_portrait.jpg",
+      "image_alt": "Snow leopard portrait.jpg"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "state_slug": "jammu-and-kashmir",
+      "common_name": "Kashmir stag/Hangul",
+      "binomial_name": "Cervus elaphus hanglu",
+      "iucn_category": "CR",
+      "notes": "Found in Kashmir Valley and Dachigam National Park",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cervus_cashmeerianus_Smit.jpg/180px-Cervus_cashmeerianus_Smit.jpg",
+      "image_alt": "Cervus cashmeerianus Smit.jpg"
+    },
+    {
+      "state": "Jharkhand",
+      "state_slug": "jharkhand",
+      "common_name": "Indian elephant",
+      "binomial_name": "Elephas maximus indicus",
+      "iucn_category": "EN",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/a/ac/IndianElephant.jpg/200px-IndianElephant.jpg",
+      "image_alt": "IndianElephant.jpg"
+    },
+    {
+      "state": "Karnataka",
+      "state_slug": "karnataka",
+      "common_name": "Indian elephant",
+      "binomial_name": "Elephas maximus indicus",
+      "iucn_category": "EN",
+      "notes": "Karnataka has the largest number of elephants in India",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/a/ac/IndianElephant.jpg/200px-IndianElephant.jpg",
+      "image_alt": "IndianElephant.jpg"
+    },
+    {
+      "state": "Kerala",
+      "state_slug": "kerala",
+      "common_name": "Indian elephant",
+      "binomial_name": "Elephas maximus indicus",
+      "iucn_category": "EN",
+      "notes": "Elephants are an integral part of Kerala's culture. See Elephants in Kerala Culture",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/a/ac/IndianElephant.jpg/200px-IndianElephant.jpg",
+      "image_alt": "IndianElephant.jpg"
+    },
+    {
+      "state": "Ladakh",
+      "state_slug": "ladakh",
+      "common_name": "Snow leopard",
+      "binomial_name": "Uncia uncia or Panthera uncia",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/19/Snow_leopard_portrait.jpg/200px-Snow_leopard_portrait.jpg",
+      "image_alt": "Snow leopard portrait.jpg"
+    },
+    {
+      "state": "Lakshadweep",
+      "state_slug": "lakshadweep",
+      "common_name": "Butterfly fish",
+      "binomial_name": "Chaetodon decussatus",
+      "iucn_category": "NT",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bep_chaetodon_decussatus.jpg/180px-Bep_chaetodon_decussatus.jpg",
+      "image_alt": "Bep chaetodon decussatus.jpg"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "state_slug": "madhya-pradesh",
+      "common_name": "Barasingha Swamp deer",
+      "binomial_name": "Rucervus duvaucelii",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Barasingha.jpg/200px-Barasingha.jpg",
+      "image_alt": "Barasingha.jpg"
+    },
+    {
+      "state": "Maharashtra",
+      "state_slug": "maharashtra",
+      "common_name": "Indian giant squirrel",
+      "binomial_name": "Ratufa indica",
+      "iucn_category": "LC",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Malabar_giant_sqirrel.jpg/200px-Malabar_giant_sqirrel.jpg",
+      "image_alt": "Malabar giant sqirrel.jpg"
+    },
+    {
+      "state": "Manipur",
+      "state_slug": "manipur",
+      "common_name": "Sangai",
+      "binomial_name": "Cervus eldi eldi",
+      "iucn_category": "EN",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cervus_eldii2.jpg/200px-Cervus_eldii2.jpg",
+      "image_alt": "Cervus eldii2.jpg"
+    },
+    {
+      "state": "Meghalaya",
+      "state_slug": "meghalaya",
+      "common_name": "Clouded leopard",
+      "binomial_name": "Neofelis nebulosa",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clouded_leopard.jpg/200px-Clouded_leopard.jpg",
+      "image_alt": "Clouded leopard.jpg"
+    },
+    {
+      "state": "Mizoram",
+      "state_slug": "mizoram",
+      "common_name": "Himalayan serow",
+      "binomial_name": "Capricornis thar",
+      "iucn_category": "NT",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/18/Himalayan_Serow_Pangolakha_Wildlife_Sanctuary_East_Sikkim_Sikkim_India_13.02.2016.jpg/200px-Himalayan_Serow_Pangolakha_Wildlife_Sanctuary_East_Sikkim_Sikkim_India_13.02.2016.jpg",
+      "image_alt": "Himalayan Serow Pangolakha Wildlife Sanctuary East Sikkim Sikkim India 13.02.2016.jpg"
+    },
+    {
+      "state": "Nagaland",
+      "state_slug": "nagaland",
+      "common_name": "Gayal/Mithun",
+      "binomial_name": "Bos frontalis",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/1/1e/B4_darjeling_para-5.jpg/200px-B4_darjeling_para-5.jpg",
+      "image_alt": "B4 darjeling para-5.jpg"
+    },
+    {
+      "state": "Odisha",
+      "state_slug": "odisha",
+      "common_name": "Sambar",
+      "binomial_name": "Rusa unicolor",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sambhar_deer.jpg/200px-Sambhar_deer.jpg",
+      "image_alt": "Sambhar deer.jpg"
+    },
+    {
+      "state": "Puducherry",
+      "state_slug": "puducherry",
+      "common_name": "Indian palm squirrel",
+      "binomial_name": "Funambulus palmarum",
+      "iucn_category": "LC",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/3/36/Funambulus_palmarum_%28Bengaluru%29.jpg/180px-Funambulus_palmarum_%28Bengaluru%29.jpg",
+      "image_alt": "Funambulus palmarum (Bengaluru).jpg"
+    },
+    {
+      "state": "Punjab",
+      "state_slug": "punjab",
+      "common_name": "Blackbuck",
+      "binomial_name": "Antilope cervicapra",
+      "iucn_category": "NT",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Blackbuck_male_female.jpg/200px-Blackbuck_male_female.jpg",
+      "image_alt": "Blackbuck male female.jpg"
+    },
+    {
+      "state": "Rajasthan",
+      "state_slug": "rajasthan",
+      "common_name": "Chinkara",
+      "binomial_name": "Gazella bennettii",
+      "iucn_category": "LC",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chinkara_-_Shreeram_M_V_-_Bikaner.jpg/200px-Chinkara_-_Shreeram_M_V_-_Bikaner.jpg",
+      "image_alt": "Chinkara - Shreeram M V - Bikaner.jpg"
+    },
+    {
+      "state": "Sikkim",
+      "state_slug": "sikkim",
+      "common_name": "Red panda",
+      "binomial_name": "Ailurus fulgens",
+      "iucn_category": "EN",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ailurus_fulgens_RoterPanda_LesserPanda.jpg/200px-Ailurus_fulgens_RoterPanda_LesserPanda.jpg",
+      "image_alt": "Ailurus fulgens RoterPanda LesserPanda.jpg"
+    },
+    {
+      "state": "Tamil Nadu",
+      "state_slug": "tamil-nadu",
+      "common_name": "Nilgiri tahr",
+      "binomial_name": "Nilgiritragus hylocrius",
+      "iucn_category": "EN",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nilgiri_Tahr%2C_Kerala.jpg/200px-Nilgiri_Tahr%2C_Kerala.jpg",
+      "image_alt": "Nilgiri Tahr, Kerala.jpg"
+    },
+    {
+      "state": "Telangana",
+      "state_slug": "telangana",
+      "common_name": "Spotted deer (Chital)",
+      "binomial_name": "Axis axis",
+      "iucn_category": "LC",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/c/cb/White-tailed_deer_%28Odocoileus_virginianus%29_grazing_-_20050809.jpg/200px-White-tailed_deer_%28Odocoileus_virginianus%29_grazing_-_20050809.jpg",
+      "image_alt": "White-tailed deer (Odocoileus virginianus) grazing - 20050809.jpg"
+    },
+    {
+      "state": "Tripura",
+      "state_slug": "tripura",
+      "common_name": "Phayre's langur",
+      "binomial_name": "Trachypithecus phayrei",
+      "iucn_category": "EN",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Phayre%27s_Langur%2C_Trachypithecus_phayrei_in_Phu_Khieo_Wildlife_Sanctuary_%2821134240148%29.jpg/200px-Phayre%27s_Langur%2C_Trachypithecus_phayrei_in_Phu_Khieo_Wildlife_Sanctuary_%2821134240148%29.jpg",
+      "image_alt": "Phayre's Langur, Trachypithecus phayrei in Phu Khieo Wildlife Sanctuary (21134240148).jpg"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "state_slug": "uttar-pradesh",
+      "common_name": "Swamp deer",
+      "binomial_name": "Rucervus duvaucelii",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Barasingha.jpg/200px-Barasingha.jpg",
+      "image_alt": "Barasingha.jpg"
+    },
+    {
+      "state": "Uttarakhand",
+      "state_slug": "uttarakhand",
+      "common_name": "Alpine musk deer",
+      "binomial_name": "Moschus chrysogaster",
+      "iucn_category": "EN",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Moschus_chrysogaster.jpg/200px-Moschus_chrysogaster.jpg",
+      "image_alt": "Moschus chrysogaster.jpg"
+    },
+    {
+      "state": "West Bengal",
+      "state_slug": "west-bengal",
+      "common_name": "Fishing Cat",
+      "binomial_name": "Prionailurus viverrinus",
+      "iucn_category": "VU",
+      "notes": "",
+      "image_src": "upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fishing_Cat_%28Prionailurus_viverrinus%29_3.jpg/200px-Fishing_Cat_%28Prionailurus_viverrinus%29_3.jpg",
+      "image_alt": "Fishing Cat (Prionailurus viverrinus) 3.jpg"
+    }
+  ],
+  "meta": {
+    "title": "भारत के राज्य पशु (State Animals of India) - मुफ़्त डाउनलोड",
+    "description": "36 state and union-territory animals officially designated by Indian state governments, with common name, binomial scientific name, IUCN Red List category, contextual notes, and Wikimedia Commons image reference. शामिल हैं 36 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "भारत के राज्य पशु (State Animals of India) | ListBase",
+    "seo_description": "डाउनलोड भारत के राज्य पशु (State Animals of India) — 36 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 36 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

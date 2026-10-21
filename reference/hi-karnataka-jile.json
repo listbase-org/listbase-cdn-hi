@@ -1,0 +1,448 @@
+{
+  "id": "hi-karnataka-jile",
+  "name": "Karnataka के जिले (Karnataka Districts)",
+  "title": "Karnataka के जिले (Karnataka Districts)",
+  "description": "31 districts in Karnataka (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Karnataka\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "BK",
+      "district": "Bagalakote",
+      "district_slug": "bagalakote",
+      "headquarters": "Bagalakote",
+      "population": 1890826,
+      "area_km2": 6583,
+      "density_per_km2": 288
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "BL",
+      "district": "Ballari",
+      "district_slug": "ballari",
+      "headquarters": "Ballari",
+      "population": 1400970,
+      "area_km2": 4252,
+      "density_per_km2": 330
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "BG",
+      "district": "Belagavi",
+      "district_slug": "belagavi",
+      "headquarters": "Belagavi",
+      "population": 4778439,
+      "area_km2": 13415,
+      "density_per_km2": 356
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "BR",
+      "district": "Bengaluru Rural",
+      "district_slug": "bengaluru-rural",
+      "headquarters": "Bengaluru",
+      "population": 987257,
+      "area_km2": 2239,
+      "density_per_km2": 441
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "BN",
+      "district": "Bengaluru Urban",
+      "district_slug": "bengaluru-urban",
+      "headquarters": "Bengaluru",
+      "population": 9588910,
+      "area_km2": 2190,
+      "density_per_km2": 4378
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "BD",
+      "district": "Bidar",
+      "district_slug": "bidar",
+      "headquarters": "Bidar",
+      "population": 1700018,
+      "area_km2": 5448,
+      "density_per_km2": 312
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "CJ",
+      "district": "Chamarajanagara",
+      "district_slug": "chamarajanagara",
+      "headquarters": "Chamarajanagara",
+      "population": 1020962,
+      "area_km2": 5102,
+      "density_per_km2": 200
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "CK",
+      "district": "Chikkaballapura",
+      "district_slug": "chikkaballapura",
+      "headquarters": "Chikkaballapura",
+      "population": 1254377,
+      "area_km2": 4208,
+      "density_per_km2": 298
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "CK",
+      "district": "Chikkamagaluru",
+      "district_slug": "chikkamagaluru",
+      "headquarters": "Chikkamagaluru",
+      "population": 1137753,
+      "area_km2": 7201,
+      "density_per_km2": 158
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "CT",
+      "district": "Chitradurga",
+      "district_slug": "chitradurga",
+      "headquarters": "Chitradurga",
+      "population": 1660378,
+      "area_km2": 8437,
+      "density_per_km2": 197
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "DK",
+      "district": "Dakshina Kannada",
+      "district_slug": "dakshina-kannada",
+      "headquarters": "Mangalore",
+      "population": 2083625,
+      "area_km2": 4559,
+      "density_per_km2": 457
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "DA",
+      "district": "Davanagere",
+      "district_slug": "davanagere",
+      "headquarters": "Davangere",
+      "population": 1643494,
+      "area_km2": 4460,
+      "density_per_km2": 370
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "DH",
+      "district": "Dharwada",
+      "district_slug": "dharwada",
+      "headquarters": "Dharwada",
+      "population": 1846993,
+      "area_km2": 4265,
+      "density_per_km2": 434
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "GA",
+      "district": "Gadaga",
+      "district_slug": "gadaga",
+      "headquarters": "Gadag-Betageri",
+      "population": 1065235,
+      "area_km2": 4651,
+      "density_per_km2": 229
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "HS",
+      "district": "Hassan",
+      "district_slug": "hassan",
+      "headquarters": "Hassan",
+      "population": 1776221,
+      "area_km2": 6814,
+      "density_per_km2": 261
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "HV",
+      "district": "Haveri",
+      "district_slug": "haveri",
+      "headquarters": "Haveri",
+      "population": 1598506,
+      "area_km2": 4825,
+      "density_per_km2": 331
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "GU",
+      "district": "Kalaburagi",
+      "district_slug": "kalaburagi",
+      "headquarters": "Kalaburagi",
+      "population": 2564892,
+      "area_km2": 10990,
+      "density_per_km2": 233
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "KD",
+      "district": "Kodagu",
+      "district_slug": "kodagu",
+      "headquarters": "Madikeri",
+      "population": 554762,
+      "area_km2": 4102,
+      "density_per_km2": 135
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "KL",
+      "district": "Kolar",
+      "district_slug": "kolar",
+      "headquarters": "Kolar",
+      "population": 1540231,
+      "area_km2": 4012,
+      "density_per_km2": 384
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "KP",
+      "district": "Koppala",
+      "district_slug": "koppala",
+      "headquarters": "Koppala",
+      "population": 1391292,
+      "area_km2": 5565,
+      "density_per_km2": 250
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "MA",
+      "district": "Mandya",
+      "district_slug": "mandya",
+      "headquarters": "Mandya",
+      "population": 1808680,
+      "area_km2": 4961,
+      "density_per_km2": 365
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "MY",
+      "district": "Mysuru",
+      "district_slug": "mysuru",
+      "headquarters": "Mysuru",
+      "population": 2994744,
+      "area_km2": 6854,
+      "density_per_km2": 437
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "RA",
+      "district": "Raichuru",
+      "district_slug": "raichuru",
+      "headquarters": "Raichuru",
+      "population": 1924773,
+      "area_km2": 6839,
+      "density_per_km2": 228
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "RM",
+      "district": "Ramanagara",
+      "district_slug": "ramanagara",
+      "headquarters": "Ramanagara",
+      "population": 1082739,
+      "area_km2": 3573,
+      "density_per_km2": 303
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "SH",
+      "district": "Shivamogga",
+      "district_slug": "shivamogga",
+      "headquarters": "Shivamogga",
+      "population": 1755512,
+      "area_km2": 8495,
+      "density_per_km2": 207
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "TU",
+      "district": "Tumakuru",
+      "district_slug": "tumakuru",
+      "headquarters": "Tumakuru",
+      "population": 2681449,
+      "area_km2": 10598,
+      "density_per_km2": 253
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "UD",
+      "district": "Udupi",
+      "district_slug": "udupi",
+      "headquarters": "Udupi",
+      "population": 1177908,
+      "area_km2": 3879,
+      "density_per_km2": 304
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "UK",
+      "district": "Uttara Kannada",
+      "district_slug": "uttara-kannada",
+      "headquarters": "Karwar",
+      "population": 1353299,
+      "area_km2": 10291,
+      "density_per_km2": 132
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "",
+      "district": "Vijayanagara",
+      "district_slug": "vijayanagara",
+      "headquarters": "Hospete",
+      "population": 1353628,
+      "area_km2": 5644,
+      "density_per_km2": 240
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "BJ",
+      "district": "Vijayapura",
+      "district_slug": "vijayapura",
+      "headquarters": "Vijayapura",
+      "population": 2175102,
+      "area_km2": 10517,
+      "density_per_km2": 207
+    },
+    {
+      "state": "Karnataka",
+      "state_code": "KA",
+      "state_slug": "karnataka",
+      "district_code": "YG",
+      "district": "Yadgiri",
+      "district_slug": "yadgiri",
+      "headquarters": "Yadgiri",
+      "population": 1172985,
+      "area_km2": 5225,
+      "density_per_km2": 224
+    }
+  ],
+  "meta": {
+    "title": "Karnataka के जिले (Karnataka Districts) - मुफ़्त डाउनलोड",
+    "description": "31 districts in Karnataka (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Karnataka\". शामिल हैं 31 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Karnataka के जिले (Karnataka Districts) | ListBase",
+    "seo_description": "डाउनलोड Karnataka के जिले (Karnataka Districts) — 31 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 31 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

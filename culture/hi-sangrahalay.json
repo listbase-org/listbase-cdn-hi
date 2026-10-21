@@ -1,0 +1,2032 @@
+{
+  "id": "hi-sangrahalay",
+  "name": "भारत में संग्रहालय (Museums in India)",
+  "title": "भारत में संग्रहालय (Museums in India)",
+  "description": "OpenStreetMap से भारत के 219 संग्रहालयों की सूची — नाम, शहर, निर्देशांक और वेबसाइट सहित।",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 219,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "aaab",
+      "name_en": "",
+      "city": "Jabalpur",
+      "country": "India",
+      "latitude": 23.16134,
+      "longitude": 79.947767,
+      "website": ""
+    },
+    {
+      "name": "Aihole temples and museum entrance",
+      "name_en": "",
+      "city": "Guledagudda",
+      "country": "India",
+      "latitude": 16.020938,
+      "longitude": 75.881279,
+      "website": ""
+    },
+    {
+      "name": "Air Force Museum",
+      "name_en": "",
+      "city": "Karol Bāgh",
+      "country": "India",
+      "latitude": 28.574396,
+      "longitude": 77.117209,
+      "website": ""
+    },
+    {
+      "name": "Akbar's Fort & Museum",
+      "name_en": "",
+      "city": "Ajmer",
+      "country": "India",
+      "latitude": 26.46073,
+      "longitude": 74.633691,
+      "website": ""
+    },
+    {
+      "name": "albert hall",
+      "name_en": "",
+      "city": "Jaipur",
+      "country": "India",
+      "latitude": 26.911705,
+      "longitude": 75.819497,
+      "website": ""
+    },
+    {
+      "name": "Alleppey Lighthouse & Museum",
+      "name_en": "",
+      "city": "Alleppey",
+      "country": "India",
+      "latitude": 9.493872,
+      "longitude": 76.32103,
+      "website": ""
+    },
+    {
+      "name": "Amar Mahal Museum & Library",
+      "name_en": "",
+      "city": "Jammu",
+      "country": "India",
+      "latitude": 32.747754,
+      "longitude": 74.872527,
+      "website": ""
+    },
+    {
+      "name": "Anantashayana Gudi",
+      "name_en": "",
+      "city": "Hospet",
+      "country": "India",
+      "latitude": 15.277877,
+      "longitude": 76.407396,
+      "website": ""
+    },
+    {
+      "name": "Ancestral Goa",
+      "name_en": "",
+      "city": "Raia",
+      "country": "India",
+      "latitude": 15.339748,
+      "longitude": 73.98668,
+      "website": ""
+    },
+    {
+      "name": "Andaman Cellular Jail",
+      "name_en": "",
+      "city": "Port Blair",
+      "country": "India",
+      "latitude": 11.67448,
+      "longitude": 92.74798,
+      "website": ""
+    },
+    {
+      "name": "Anthropological",
+      "name_en": "",
+      "city": "Port Blair",
+      "country": "India",
+      "latitude": 11.66924,
+      "longitude": 92.73266,
+      "website": ""
+    },
+    {
+      "name": "Aquarium",
+      "name_en": "",
+      "city": "Bijapur",
+      "country": "India",
+      "latitude": 16.828545,
+      "longitude": 75.721254,
+      "website": ""
+    },
+    {
+      "name": "Arakkal Museum",
+      "name_en": "",
+      "city": "Cannanore",
+      "country": "India",
+      "latitude": 11.85945,
+      "longitude": 75.378297,
+      "website": ""
+    },
+    {
+      "name": "Archaelogical Museum",
+      "name_en": "",
+      "city": "Hampi",
+      "country": "India",
+      "latitude": 15.307391,
+      "longitude": 76.477193,
+      "website": ""
+    },
+    {
+      "name": "Archeological Museum",
+      "name_en": "",
+      "city": "Jua",
+      "country": "India",
+      "latitude": 15.503086,
+      "longitude": 73.910898,
+      "website": ""
+    },
+    {
+      "name": "Archeological Museum, Konark",
+      "name_en": "",
+      "city": "Konārka",
+      "country": "India",
+      "latitude": 19.891141,
+      "longitude": 86.094478,
+      "website": "http://konarkmuseum.com/"
+    },
+    {
+      "name": "Ashvek Vintage world- Car Museum",
+      "name_en": "",
+      "city": "Raia",
+      "country": "India",
+      "latitude": 15.320844,
+      "longitude": 73.941655,
+      "website": ""
+    },
+    {
+      "name": "Assam State Museum",
+      "name_en": "",
+      "city": "Guwahati",
+      "country": "India",
+      "latitude": 26.185288,
+      "longitude": 91.752382,
+      "website": ""
+    },
+    {
+      "name": "B M Birla Science Museum",
+      "name_en": "",
+      "city": "Hyderabad",
+      "country": "India",
+      "latitude": 17.403312,
+      "longitude": 78.469528,
+      "website": ""
+    },
+    {
+      "name": "Badami Museum",
+      "name_en": "",
+      "city": "Bādāmi",
+      "country": "India",
+      "latitude": 15.921353,
+      "longitude": 75.684778,
+      "website": ""
+    },
+    {
+      "name": "Badr Juma Masjid",
+      "name_en": "",
+      "city": "Pariyāpuram",
+      "country": "India",
+      "latitude": 11.001456,
+      "longitude": 75.878247,
+      "website": ""
+    },
+    {
+      "name": "Bankura District Museum",
+      "name_en": "",
+      "city": "Bishnupur",
+      "country": "India",
+      "latitude": 23.066242,
+      "longitude": 87.325192,
+      "website": ""
+    },
+    {
+      "name": "Battle of Kohima Museum",
+      "name_en": "",
+      "city": "Kohima",
+      "country": "India",
+      "latitude": 25.616077,
+      "longitude": 94.115526,
+      "website": ""
+    },
+    {
+      "name": "Bee Museum",
+      "name_en": "",
+      "city": "Ooty",
+      "country": "India",
+      "latitude": 11.413172,
+      "longitude": 76.696896,
+      "website": ""
+    },
+    {
+      "name": "Bharat Nivas",
+      "name_en": "",
+      "city": "Auroville",
+      "country": "India",
+      "latitude": 12.006956,
+      "longitude": 79.802058,
+      "website": ""
+    },
+    {
+      "name": "Bharatiya Lok Kala Museum",
+      "name_en": "",
+      "city": "Udaipur",
+      "country": "India",
+      "latitude": 24.594348,
+      "longitude": 73.691709,
+      "website": ""
+    },
+    {
+      "name": "Bhau Daji Lad Museum (Victoria & Albert Museum)",
+      "name_en": "",
+      "city": "Mumbai",
+      "country": "India",
+      "latitude": 18.979189,
+      "longitude": 72.834833,
+      "website": ""
+    },
+    {
+      "name": "Bhavani Museum",
+      "name_en": "",
+      "city": "Rahimatpur",
+      "country": "India",
+      "latitude": 17.532711,
+      "longitude": 74.322581,
+      "website": ""
+    },
+    {
+      "name": "Big Foot Cross Museum",
+      "name_en": "",
+      "city": "Raia",
+      "country": "India",
+      "latitude": 15.339523,
+      "longitude": 73.9876,
+      "website": ""
+    },
+    {
+      "name": "Bihar Museum",
+      "name_en": "",
+      "city": "Patna",
+      "country": "India",
+      "latitude": 25.607795,
+      "longitude": 85.119593,
+      "website": ""
+    },
+    {
+      "name": "Blessed Chavara Museum",
+      "name_en": "",
+      "city": "Kottayam",
+      "country": "India",
+      "latitude": 9.646406,
+      "longitude": 76.519807,
+      "website": ""
+    },
+    {
+      "name": "Bodhgaya Multimedia Museum",
+      "name_en": "",
+      "city": "Bodh Gaya",
+      "country": "India",
+      "latitude": 24.696977,
+      "longitude": 84.991161,
+      "website": ""
+    },
+    {
+      "name": "Calico Textile Museum",
+      "name_en": "",
+      "city": "Ahmedabad",
+      "country": "India",
+      "latitude": 23.05418,
+      "longitude": 72.592476,
+      "website": ""
+    },
+    {
+      "name": "Calicut University Museum",
+      "name_en": "",
+      "city": "Ferokh",
+      "country": "India",
+      "latitude": 11.132381,
+      "longitude": 75.888589,
+      "website": ""
+    },
+    {
+      "name": "Central Asian Museum",
+      "name_en": "",
+      "city": "Leh",
+      "country": "India",
+      "latitude": 34.165237,
+      "longitude": 77.584895,
+      "website": ""
+    },
+    {
+      "name": "Central Sikh Museum",
+      "name_en": "",
+      "city": "Amritsar",
+      "country": "India",
+      "latitude": 31.62073,
+      "longitude": 74.877105,
+      "website": ""
+    },
+    {
+      "name": "Chaitanya Jyoti Museum",
+      "name_en": "",
+      "city": "Puttaparthi",
+      "country": "India",
+      "latitude": 14.161276,
+      "longitude": 77.809588,
+      "website": ""
+    },
+    {
+      "name": "Chatrapati Shivaji Raje Museum",
+      "name_en": "",
+      "city": "Aurangabad",
+      "country": "India",
+      "latitude": 19.894703,
+      "longitude": 75.335846,
+      "website": ""
+    },
+    {
+      "name": "Cheraman Museum",
+      "name_en": "",
+      "city": "Kodungallūr",
+      "country": "India",
+      "latitude": 10.212967,
+      "longitude": 76.20242,
+      "website": ""
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrhalaya",
+      "name_en": "",
+      "city": "Uran",
+      "country": "India",
+      "latitude": 18.926823,
+      "longitude": 72.832602,
+      "website": ""
+    },
+    {
+      "name": "Chhatrapati Shivaji Museum",
+      "name_en": "",
+      "city": "Sātāra",
+      "country": "India",
+      "latitude": 17.687437,
+      "longitude": 73.994386,
+      "website": ""
+    },
+    {
+      "name": "Chunar Fort",
+      "name_en": "",
+      "city": "Chunār",
+      "country": "India",
+      "latitude": 25.125206,
+      "longitude": 82.876007,
+      "website": ""
+    },
+    {
+      "name": "City Museum",
+      "name_en": "",
+      "city": "Ahmadnagar",
+      "country": "India",
+      "latitude": 19.09335,
+      "longitude": 74.743196,
+      "website": ""
+    },
+    {
+      "name": "City Palace",
+      "name_en": "",
+      "city": "Udaipur",
+      "country": "India",
+      "latitude": 24.576987,
+      "longitude": 73.683444,
+      "website": ""
+    },
+    {
+      "name": "Classic Car Collection",
+      "name_en": "",
+      "city": "Udaipur",
+      "country": "India",
+      "latitude": 24.575684,
+      "longitude": 73.694321,
+      "website": ""
+    },
+    {
+      "name": "Coffee Museum",
+      "name_en": "",
+      "city": "Chikmagalūr",
+      "country": "India",
+      "latitude": 13.34145,
+      "longitude": 75.810248,
+      "website": ""
+    },
+    {
+      "name": "Crafts Museum",
+      "name_en": "",
+      "city": "New Delhi",
+      "country": "India",
+      "latitude": 28.613283,
+      "longitude": 77.242172,
+      "website": "http://http://nationalcraftsmuseum.nic.in"
+    },
+    {
+      "name": "Cuddalore Museum",
+      "name_en": "",
+      "city": "Cuddalore",
+      "country": "India",
+      "latitude": 11.757341,
+      "longitude": 79.76123,
+      "website": ""
+    },
+    {
+      "name": "Darbar Hall",
+      "name_en": "",
+      "city": "Sāngli",
+      "country": "India",
+      "latitude": 16.858621,
+      "longitude": 74.565893,
+      "website": ""
+    },
+    {
+      "name": "Darbar Hall Museum",
+      "name_en": "",
+      "city": "Jūnāgadh",
+      "country": "India",
+      "latitude": 21.520743,
+      "longitude": 70.46483,
+      "website": ""
+    },
+    {
+      "name": "Deshbandu Museum",
+      "name_en": "",
+      "city": "Dārjiling",
+      "country": "India",
+      "latitude": 27.046631,
+      "longitude": 88.268739,
+      "website": ""
+    },
+    {
+      "name": "Dinosaurium",
+      "name_en": "",
+      "city": "Hyderabad",
+      "country": "India",
+      "latitude": 17.403153,
+      "longitude": 78.469892,
+      "website": ""
+    },
+    {
+      "name": "Discs & Machines: Sunny's Gramophone Museum",
+      "name_en": "",
+      "city": "Erāttupetta",
+      "country": "India",
+      "latitude": 9.707296,
+      "longitude": 76.755717,
+      "website": "www.sunnysgramophonemuseum.com"
+    },
+    {
+      "name": "District Science Center, Purulia",
+      "name_en": "",
+      "city": "Puruliya",
+      "country": "India",
+      "latitude": 23.340958,
+      "longitude": 86.359433,
+      "website": ""
+    },
+    {
+      "name": "Dr. B.R. Ambedkar Library",
+      "name_en": "",
+      "city": "Puducherry",
+      "country": "India",
+      "latitude": 11.929153,
+      "longitude": 79.834684,
+      "website": ""
+    },
+    {
+      "name": "Drift Wood Museum",
+      "name_en": "",
+      "city": "Kottayam",
+      "country": "India",
+      "latitude": 9.617107,
+      "longitude": 76.432292,
+      "website": ""
+    },
+    {
+      "name": "Egmore National Museum",
+      "name_en": "",
+      "city": "Chetput",
+      "country": "India",
+      "latitude": 13.07128,
+      "longitude": 80.256772,
+      "website": ""
+    },
+    {
+      "name": "Fernandes Heritage Home",
+      "name_en": "",
+      "city": "Quepem",
+      "country": "India",
+      "latitude": 15.255674,
+      "longitude": 74.051853,
+      "website": ""
+    },
+    {
+      "name": "Folklore museum",
+      "name_en": "",
+      "city": "Jaisalmer",
+      "country": "India",
+      "latitude": 26.909576,
+      "longitude": 70.920624,
+      "website": ""
+    },
+    {
+      "name": "Folklore Museum",
+      "name_en": "",
+      "city": "Cochin",
+      "country": "India",
+      "latitude": 9.933106,
+      "longitude": 76.299107,
+      "website": ""
+    },
+    {
+      "name": "Forest Museum",
+      "name_en": "",
+      "city": "Bamboo Flat",
+      "country": "India",
+      "latitude": 11.677396,
+      "longitude": 92.724009,
+      "website": ""
+    },
+    {
+      "name": "Fr. Kadalikkattil Museum",
+      "name_en": "",
+      "city": "Lālam",
+      "country": "India",
+      "latitude": 9.706783,
+      "longitude": 76.67974,
+      "website": ""
+    },
+    {
+      "name": "Furtado House",
+      "name_en": "",
+      "city": "Vagator",
+      "country": "India",
+      "latitude": 15.587468,
+      "longitude": 73.76036,
+      "website": ""
+    },
+    {
+      "name": "Gandhi Ashram Museum",
+      "name_en": "",
+      "city": "Ahmedabad",
+      "country": "India",
+      "latitude": 23.060476,
+      "longitude": 72.580649,
+      "website": ""
+    },
+    {
+      "name": "Gandhi Museum",
+      "name_en": "",
+      "city": "Madurai",
+      "country": "India",
+      "latitude": 9.929927,
+      "longitude": 78.138626,
+      "website": ""
+    },
+    {
+      "name": "Gandhi Museum",
+      "name_en": "",
+      "city": "Patna",
+      "country": "India",
+      "latitude": 25.620891,
+      "longitude": 85.142433,
+      "website": ""
+    },
+    {
+      "name": "ganpatipule",
+      "name_en": "",
+      "city": "Ratnagiri",
+      "country": "India",
+      "latitude": 17.150253,
+      "longitude": 73.276398,
+      "website": ""
+    },
+    {
+      "name": "Gass Forest Museum",
+      "name_en": "",
+      "city": "Coimbatore",
+      "country": "India",
+      "latitude": 11.016348,
+      "longitude": 76.950703,
+      "website": ""
+    },
+    {
+      "name": "Goa Chitra museum",
+      "name_en": "",
+      "city": "Benaulim",
+      "country": "India",
+      "latitude": 15.264701,
+      "longitude": 73.94161,
+      "website": ""
+    },
+    {
+      "name": "Goa State Museum",
+      "name_en": "",
+      "city": "Panaji",
+      "country": "India",
+      "latitude": 15.49294,
+      "longitude": 73.833255,
+      "website": ""
+    },
+    {
+      "name": "Goverdhandas Tripathi Museum",
+      "name_en": "",
+      "city": "Nadiād",
+      "country": "India",
+      "latitude": 22.68848,
+      "longitude": 72.868144,
+      "website": ""
+    },
+    {
+      "name": "Government Museum",
+      "name_en": "",
+      "city": "Ooty",
+      "country": "India",
+      "latitude": 11.413229,
+      "longitude": 76.691435,
+      "website": ""
+    },
+    {
+      "name": "Govt. Buddha Museum",
+      "name_en": "",
+      "city": "Hāta",
+      "country": "India",
+      "latitude": 26.738711,
+      "longitude": 83.893248,
+      "website": ""
+    },
+    {
+      "name": "Gurdwara Fatehgarh Sahib",
+      "name_en": "",
+      "city": "Sirhind",
+      "country": "India",
+      "latitude": 30.656295,
+      "longitude": 76.390367,
+      "website": ""
+    },
+    {
+      "name": "Gurudwara Sees Ganj Sahib",
+      "name_en": "",
+      "city": "Sirhind",
+      "country": "India",
+      "latitude": 30.646603,
+      "longitude": 76.393175,
+      "website": ""
+    },
+    {
+      "name": "Gurudwara Shaheed Buga Sahib",
+      "name_en": "",
+      "city": "Sirhind",
+      "country": "India",
+      "latitude": 30.645926,
+      "longitude": 76.393602,
+      "website": ""
+    },
+    {
+      "name": "Guwahati Planetarium",
+      "name_en": "",
+      "city": "Guwahati",
+      "country": "India",
+      "latitude": 26.191557,
+      "longitude": 91.751884,
+      "website": ""
+    },
+    {
+      "name": "HAL Aerospace Museum",
+      "name_en": "",
+      "city": "Bangalore",
+      "country": "India",
+      "latitude": 12.955129,
+      "longitude": 77.68074,
+      "website": ""
+    },
+    {
+      "name": "Hamachal Pradesh State Museum",
+      "name_en": "",
+      "city": "Shimla",
+      "country": "India",
+      "latitude": 31.103145,
+      "longitude": 77.150828,
+      "website": ""
+    },
+    {
+      "name": "High Court Museum",
+      "name_en": "",
+      "city": "Chandigarh",
+      "country": "India",
+      "latitude": 30.755906,
+      "longitude": 76.805264,
+      "website": ""
+    },
+    {
+      "name": "Himalayan Mountaineering Institute",
+      "name_en": "",
+      "city": "Dārjiling",
+      "country": "India",
+      "latitude": 27.05837,
+      "longitude": 88.253939,
+      "website": ""
+    },
+    {
+      "name": "Horticulture Dept and Museum",
+      "name_en": "",
+      "city": "Hyderabad",
+      "country": "India",
+      "latitude": 17.399447,
+      "longitude": 78.468961,
+      "website": ""
+    },
+    {
+      "name": "House of Goa",
+      "name_en": "",
+      "city": "Serula",
+      "country": "India",
+      "latitude": 15.530313,
+      "longitude": 73.840679,
+      "website": ""
+    },
+    {
+      "name": "Indian Customs & Central Excise Museum",
+      "name_en": "",
+      "city": "Panaji",
+      "country": "India",
+      "latitude": 15.501018,
+      "longitude": 73.82824,
+      "website": ""
+    },
+    {
+      "name": "Indira Gandhi Rashtriya Manav Sangrahalaya",
+      "name_en": "",
+      "city": "Mysore",
+      "country": "India",
+      "latitude": 12.314503,
+      "longitude": 76.657605,
+      "website": ""
+    },
+    {
+      "name": "Indo-Portuguese Museum",
+      "name_en": "",
+      "city": "Cochin",
+      "country": "India",
+      "latitude": 9.962314,
+      "longitude": 76.240272,
+      "website": ""
+    },
+    {
+      "name": "Jai Vilas Palace",
+      "name_en": "",
+      "city": "Gwalior",
+      "country": "India",
+      "latitude": 26.20472,
+      "longitude": 78.168585,
+      "website": ""
+    },
+    {
+      "name": "Joshi's Museum of Miniature Railways",
+      "name_en": "",
+      "city": "Pune",
+      "country": "India",
+      "latitude": 18.501363,
+      "longitude": 73.822288,
+      "website": "minirailways.com"
+    },
+    {
+      "name": "Kamal's Art Museum Home",
+      "name_en": "",
+      "city": "Vagator",
+      "country": "India",
+      "latitude": 15.580181,
+      "longitude": 73.75443,
+      "website": ""
+    },
+    {
+      "name": "Kamaraj Memorial House",
+      "name_en": "",
+      "city": "Chetput",
+      "country": "India",
+      "latitude": 13.047464,
+      "longitude": 80.239546,
+      "website": ""
+    },
+    {
+      "name": "Kamarajar Museum",
+      "name_en": "",
+      "city": "Kanniyākumāri",
+      "country": "India",
+      "latitude": 8.078993,
+      "longitude": 77.54912,
+      "website": ""
+    },
+    {
+      "name": "Kanchi Kudil",
+      "name_en": "",
+      "city": "Kānchipuram",
+      "country": "India",
+      "latitude": 12.839835,
+      "longitude": 79.69606,
+      "website": ""
+    },
+    {
+      "name": "Karnataka Folk Museum",
+      "name_en": "",
+      "city": "Rāmanagaram",
+      "country": "India",
+      "latitude": 12.701371,
+      "longitude": 77.251754,
+      "website": ""
+    },
+    {
+      "name": "Kaveri Kala Kuteera",
+      "name_en": "",
+      "city": "Mysore",
+      "country": "India",
+      "latitude": 12.291861,
+      "longitude": 76.632179,
+      "website": ""
+    },
+    {
+      "name": "Kerala Museum of History and Heritage",
+      "name_en": "",
+      "city": "Thiruvananthapuram",
+      "country": "India",
+      "latitude": 8.5082,
+      "longitude": 76.95375,
+      "website": ""
+    },
+    {
+      "name": "Kerker Art Complex",
+      "name_en": "",
+      "city": "Calangute",
+      "country": "India",
+      "latitude": 15.533034,
+      "longitude": 73.762528,
+      "website": ""
+    },
+    {
+      "name": "KHDP Tea Museum",
+      "name_en": "",
+      "city": "Munnar",
+      "country": "India",
+      "latitude": 10.094178,
+      "longitude": 77.050781,
+      "website": ""
+    },
+    {
+      "name": "King's palace",
+      "name_en": "",
+      "city": "Thang",
+      "country": "India",
+      "latitude": 34.846945,
+      "longitude": 76.823683,
+      "website": ""
+    },
+    {
+      "name": "Kipling Palace",
+      "name_en": "",
+      "city": "Būndi",
+      "country": "India",
+      "latitude": 25.453089,
+      "longitude": 75.64168,
+      "website": "http://rtdc.tourism.rajasthan.gov.in/"
+    },
+    {
+      "name": "Kiran Center",
+      "name_en": "",
+      "city": "Rāmnagar",
+      "country": "India",
+      "latitude": 25.216385,
+      "longitude": 82.957069,
+      "website": "http://kiranvillage.org/"
+    },
+    {
+      "name": "Kiran Nadar Museum of Art",
+      "name_en": "",
+      "city": "New Delhi",
+      "country": "India",
+      "latitude": 28.528739,
+      "longitude": 77.220368,
+      "website": ""
+    },
+    {
+      "name": "Kirti Mandir",
+      "name_en": "",
+      "city": "Porbandar",
+      "country": "India",
+      "latitude": 21.641336,
+      "longitude": 69.601032,
+      "website": ""
+    },
+    {
+      "name": "Kriti Gallery",
+      "name_en": "",
+      "city": "Varanasi",
+      "country": "India",
+      "latitude": 25.30463,
+      "longitude": 82.980014,
+      "website": "http://www.kritigallery.com"
+    },
+    {
+      "name": "Kurukshetra Panorama and Science Centre",
+      "name_en": "",
+      "city": "Thānesar",
+      "country": "India",
+      "latitude": 29.965844,
+      "longitude": 76.833422,
+      "website": ""
+    },
+    {
+      "name": "Kutch Museum",
+      "name_en": "",
+      "city": "Bhuj",
+      "country": "India",
+      "latitude": 23.248771,
+      "longitude": 69.666344,
+      "website": ""
+    },
+    {
+      "name": "Ladakh House",
+      "name_en": "",
+      "city": "Leh",
+      "country": "India",
+      "latitude": 34.17546,
+      "longitude": 77.585103,
+      "website": ""
+    },
+    {
+      "name": "Ladakh Rocks & Minerals museum",
+      "name_en": "",
+      "city": "Leh",
+      "country": "India",
+      "latitude": 34.174284,
+      "longitude": 77.585688,
+      "website": ""
+    },
+    {
+      "name": "Lakhota Lake Museum",
+      "name_en": "",
+      "city": "Jāmnagar",
+      "country": "India",
+      "latitude": 22.464696,
+      "longitude": 70.069573,
+      "website": ""
+    },
+    {
+      "name": "Library Museum",
+      "name_en": "",
+      "city": "Ludhiāna",
+      "country": "India",
+      "latitude": 30.899756,
+      "longitude": 75.813559,
+      "website": ""
+    },
+    {
+      "name": "Losel Doll Museum",
+      "name_en": "",
+      "city": "Dharmsāla",
+      "country": "India",
+      "latitude": 32.198623,
+      "longitude": 76.358493,
+      "website": ""
+    },
+    {
+      "name": "Lumbini Museum",
+      "name_en": "",
+      "city": "Nautanwa",
+      "country": "India",
+      "latitude": 27.489146,
+      "longitude": 83.276985,
+      "website": ""
+    },
+    {
+      "name": "Magan Museum Wardha",
+      "name_en": "",
+      "city": "Wardha",
+      "country": "India",
+      "latitude": 20.738966,
+      "longitude": 78.595676,
+      "website": ""
+    },
+    {
+      "name": "Man Singh Astronomical Observatory",
+      "name_en": "",
+      "city": "Varanasi",
+      "country": "India",
+      "latitude": 25.307816,
+      "longitude": 83.010814,
+      "website": ""
+    },
+    {
+      "name": "Manipal Museum of Anatomy & Pathology",
+      "name_en": "",
+      "city": "Manipala",
+      "country": "India",
+      "latitude": 13.35252,
+      "longitude": 74.785443,
+      "website": ""
+    },
+    {
+      "name": "Marble Palace",
+      "name_en": "",
+      "city": "Bara Bazar",
+      "country": "India",
+      "latitude": 22.582123,
+      "longitude": 88.360171,
+      "website": ""
+    },
+    {
+      "name": "masjid",
+      "name_en": "",
+      "city": "Mumbai",
+      "country": "India",
+      "latitude": 19.061219,
+      "longitude": 72.929693,
+      "website": ""
+    },
+    {
+      "name": "Melody World Wax Museum",
+      "name_en": "",
+      "city": "Mysore",
+      "country": "India",
+      "latitude": 12.302396,
+      "longitude": 76.67772,
+      "website": ""
+    },
+    {
+      "name": "MInarals",
+      "name_en": "",
+      "city": "Pānchgani",
+      "country": "India",
+      "latitude": 17.931988,
+      "longitude": 73.811939,
+      "website": ""
+    },
+    {
+      "name": "morabadi museum",
+      "name_en": "",
+      "city": "Kānke",
+      "country": "India",
+      "latitude": 23.394019,
+      "longitude": 85.333466,
+      "website": ""
+    },
+    {
+      "name": "msk mill road",
+      "name_en": "",
+      "city": "Gulbarga",
+      "country": "India",
+      "latitude": 17.329767,
+      "longitude": 76.815986,
+      "website": ""
+    },
+    {
+      "name": "Museum",
+      "name_en": "",
+      "city": "Sangrūr",
+      "country": "India",
+      "latitude": 30.24594,
+      "longitude": 75.846848,
+      "website": ""
+    },
+    {
+      "name": "Museum and Cultural Hall",
+      "name_en": "",
+      "city": "Bagalkot",
+      "country": "India",
+      "latitude": 16.162333,
+      "longitude": 75.66332,
+      "website": ""
+    },
+    {
+      "name": "Museum of Goa",
+      "name_en": "",
+      "city": "Saligao",
+      "country": "India",
+      "latitude": 15.525461,
+      "longitude": 73.795451,
+      "website": ""
+    },
+    {
+      "name": "Museum of Himachal Culture & Folk Arts",
+      "name_en": "",
+      "city": "Manāli",
+      "country": "India",
+      "latitude": 32.246144,
+      "longitude": 77.180771,
+      "website": ""
+    },
+    {
+      "name": "Museum Of Kerala History",
+      "name_en": "",
+      "city": "Elūr",
+      "country": "India",
+      "latitude": 10.037991,
+      "longitude": 76.314865,
+      "website": ""
+    },
+    {
+      "name": "Museum of Rural History of Punjab and Culture",
+      "name_en": "",
+      "city": "Ludhiāna",
+      "country": "India",
+      "latitude": 30.899994,
+      "longitude": 75.805604,
+      "website": ""
+    },
+    {
+      "name": "Museum of Soil Science",
+      "name_en": "",
+      "city": "Ludhiāna",
+      "country": "India",
+      "latitude": 30.901047,
+      "longitude": 75.810241,
+      "website": ""
+    },
+    {
+      "name": "Museum of Water Resources of Northern India- Dr.Uppal Museum",
+      "name_en": "",
+      "city": "Ludhiāna",
+      "country": "India",
+      "latitude": 30.90049,
+      "longitude": 75.813815,
+      "website": ""
+    },
+    {
+      "name": "Mysore Sand Museum",
+      "name_en": "",
+      "city": "Mysore",
+      "country": "India",
+      "latitude": 12.294739,
+      "longitude": 76.682162,
+      "website": ""
+    },
+    {
+      "name": "Nagarjunakonda museum",
+      "name_en": "",
+      "city": "Mācherla",
+      "country": "India",
+      "latitude": 16.523886,
+      "longitude": 79.245111,
+      "website": ""
+    },
+    {
+      "name": "Nalanda museum",
+      "name_en": "",
+      "city": "Silao",
+      "country": "India",
+      "latitude": 25.135701,
+      "longitude": 85.448322,
+      "website": ""
+    },
+    {
+      "name": "Namgyal Institute of Tibetology",
+      "name_en": "",
+      "city": "Gangtok",
+      "country": "India",
+      "latitude": 27.315736,
+      "longitude": 88.604825,
+      "website": ""
+    },
+    {
+      "name": "National Atlas and Thematic Mapping Organisation",
+      "name_en": "",
+      "city": "Dam Dam",
+      "country": "India",
+      "latitude": 22.570336,
+      "longitude": 88.430813,
+      "website": ""
+    },
+    {
+      "name": "National Council of Science Museums",
+      "name_en": "",
+      "city": "Dam Dam",
+      "country": "India",
+      "latitude": 22.570128,
+      "longitude": 88.428343,
+      "website": ""
+    },
+    {
+      "name": "National Gallery of Modern Art",
+      "name_en": "",
+      "city": "Uran",
+      "country": "India",
+      "latitude": 18.92589,
+      "longitude": 72.831202,
+      "website": ""
+    },
+    {
+      "name": "National Maritime Museum",
+      "name_en": "",
+      "city": "Uran",
+      "country": "India",
+      "latitude": 18.931417,
+      "longitude": 72.842631,
+      "website": ""
+    },
+    {
+      "name": "National Science Centre",
+      "name_en": "",
+      "city": "New Delhi",
+      "country": "India",
+      "latitude": 28.612963,
+      "longitude": 77.244502,
+      "website": "www.nscd.gov.in"
+    },
+    {
+      "name": "Natural History Museum",
+      "name_en": "",
+      "city": "Mysore",
+      "country": "India",
+      "latitude": 12.305596,
+      "longitude": 76.674134,
+      "website": ""
+    },
+    {
+      "name": "Nehru Children's Museum",
+      "name_en": "",
+      "city": "Bara Bazar",
+      "country": "India",
+      "latitude": 22.542038,
+      "longitude": 88.347081,
+      "website": ""
+    },
+    {
+      "name": "Nehru Museum",
+      "name_en": "",
+      "city": "Kharagpur",
+      "country": "India",
+      "latitude": 22.319872,
+      "longitude": 87.315555,
+      "website": ""
+    },
+    {
+      "name": "Nehru Planetarium",
+      "name_en": "",
+      "city": "New Delhi",
+      "country": "India",
+      "latitude": 28.603747,
+      "longitude": 77.198227,
+      "website": ""
+    },
+    {
+      "name": "Nilambur Teak Museum",
+      "name_en": "",
+      "city": "Manjeri",
+      "country": "India",
+      "latitude": 11.300093,
+      "longitude": 76.250409,
+      "website": ""
+    },
+    {
+      "name": "Nizams museum",
+      "name_en": "",
+      "city": "Hyderabad",
+      "country": "India",
+      "latitude": 17.365648,
+      "longitude": 78.482962,
+      "website": ""
+    },
+    {
+      "name": "Odisha State Maritime Museum",
+      "name_en": "",
+      "city": "Cuttack",
+      "country": "India",
+      "latitude": 20.478879,
+      "longitude": 85.896405,
+      "website": ""
+    },
+    {
+      "name": "Old Heritage Village",
+      "name_en": "",
+      "city": "Manipala",
+      "country": "India",
+      "latitude": 13.337986,
+      "longitude": 74.781884,
+      "website": ""
+    },
+    {
+      "name": "Open Air Sculpture Museum",
+      "name_en": "",
+      "city": "Hampi",
+      "country": "India",
+      "latitude": 15.319603,
+      "longitude": 76.469729,
+      "website": ""
+    },
+    {
+      "name": "Orissa State Museum",
+      "name_en": "",
+      "city": "Bhubaneshwar",
+      "country": "India",
+      "latitude": 20.256155,
+      "longitude": 85.841178,
+      "website": ""
+    },
+    {
+      "name": "Paribesh Bhavan",
+      "name_en": "",
+      "city": "Kolkata",
+      "country": "India",
+      "latitude": 22.56193,
+      "longitude": 88.409066,
+      "website": ""
+    },
+    {
+      "name": "Parliament Museum",
+      "name_en": "",
+      "city": "New Delhi",
+      "country": "India",
+      "latitude": 28.618923,
+      "longitude": 77.207791,
+      "website": ""
+    },
+    {
+      "name": "Parvati Museum",
+      "name_en": "",
+      "city": "Pune",
+      "country": "India",
+      "latitude": 18.497267,
+      "longitude": 73.846829,
+      "website": ""
+    },
+    {
+      "name": "PATNA",
+      "name_en": "",
+      "city": "Raypur",
+      "country": "India",
+      "latitude": 22.415544,
+      "longitude": 88.580327,
+      "website": ""
+    },
+    {
+      "name": "Patna Museum",
+      "name_en": "",
+      "city": "Patna",
+      "country": "India",
+      "latitude": 25.612702,
+      "longitude": 85.133435,
+      "website": ""
+    },
+    {
+      "name": "PEOBRICS",
+      "name_en": "",
+      "city": "Raypur",
+      "country": "India",
+      "latitude": 22.462509,
+      "longitude": 88.547712,
+      "website": ""
+    },
+    {
+      "name": "Photo Museum",
+      "name_en": "",
+      "city": "Hampi",
+      "country": "India",
+      "latitude": 15.334071,
+      "longitude": 76.466357,
+      "website": ""
+    },
+    {
+      "name": "Picture Gallery",
+      "name_en": "",
+      "city": "Lucknow",
+      "country": "India",
+      "latitude": 26.874993,
+      "longitude": 80.907569,
+      "website": ""
+    },
+    {
+      "name": "Planetarium",
+      "name_en": "",
+      "city": "Gulbarga",
+      "country": "India",
+      "latitude": 17.333492,
+      "longitude": 76.831555,
+      "website": ""
+    },
+    {
+      "name": "Police Museum",
+      "name_en": "",
+      "city": "Cochin",
+      "country": "India",
+      "latitude": 9.95596,
+      "longitude": 76.26,
+      "website": ""
+    },
+    {
+      "name": "Pondychery Museum",
+      "name_en": "",
+      "city": "Puducherry",
+      "country": "India",
+      "latitude": 11.934417,
+      "longitude": 79.834932,
+      "website": ""
+    },
+    {
+      "name": "Prabhas Patan Museum",
+      "name_en": "",
+      "city": "Verāval",
+      "country": "India",
+      "latitude": 20.890524,
+      "longitude": 70.401953,
+      "website": ""
+    },
+    {
+      "name": "Puducherry Science Center & Planetarium",
+      "name_en": "",
+      "city": "Puducherry",
+      "country": "India",
+      "latitude": 11.951778,
+      "longitude": 79.807828,
+      "website": ""
+    },
+    {
+      "name": "Raja Aman Singh Kalinjar Fort Museum",
+      "name_en": "",
+      "city": "Naraini",
+      "country": "India",
+      "latitude": 24.996499,
+      "longitude": 80.484723,
+      "website": ""
+    },
+    {
+      "name": "Ramnagar Fort",
+      "name_en": "",
+      "city": "Rāmnagar",
+      "country": "India",
+      "latitude": 25.270584,
+      "longitude": 83.024878,
+      "website": ""
+    },
+    {
+      "name": "Rock Art Museum",
+      "name_en": "",
+      "city": "Sarāhan",
+      "country": "India",
+      "latitude": 32.228275,
+      "longitude": 78.067275,
+      "website": ""
+    },
+    {
+      "name": "Sadar Government Museum",
+      "name_en": "",
+      "city": "Jodhpur",
+      "country": "India",
+      "latitude": 26.291832,
+      "longitude": 73.032263,
+      "website": ""
+    },
+    {
+      "name": "Samdurine Marine Museum",
+      "name_en": "",
+      "city": "Port Blair",
+      "country": "India",
+      "latitude": 11.67188,
+      "longitude": 92.72615,
+      "website": ""
+    },
+    {
+      "name": "Samyukta Maharashtra Daalan",
+      "name_en": "",
+      "city": "Mumbai",
+      "country": "India",
+      "latitude": 19.027896,
+      "longitude": 72.836529,
+      "website": ""
+    },
+    {
+      "name": "San Thome Museum - Back in Time",
+      "name_en": "",
+      "city": "Varca",
+      "country": "India",
+      "latitude": 15.239761,
+      "longitude": 73.941451,
+      "website": ""
+    },
+    {
+      "name": "Sand museum",
+      "name_en": "",
+      "city": "Mysore",
+      "country": "India",
+      "latitude": 12.295029,
+      "longitude": 76.682019,
+      "website": ""
+    },
+    {
+      "name": "Sanghralaya",
+      "name_en": "",
+      "city": "Indore",
+      "country": "India",
+      "latitude": 22.705232,
+      "longitude": 75.879308,
+      "website": ""
+    },
+    {
+      "name": "Sangli Museum",
+      "name_en": "",
+      "city": "Sāngli",
+      "country": "India",
+      "latitude": 16.858201,
+      "longitude": 74.566008,
+      "website": ""
+    },
+    {
+      "name": "Sanskar Kendra",
+      "name_en": "",
+      "city": "Ahmedabad",
+      "country": "India",
+      "latitude": 23.013095,
+      "longitude": 72.569404,
+      "website": ""
+    },
+    {
+      "name": "Science Museum",
+      "name_en": "",
+      "city": "Panaji",
+      "country": "India",
+      "latitude": 15.477546,
+      "longitude": 73.808931,
+      "website": ""
+    },
+    {
+      "name": "Sculpture museum",
+      "name_en": "",
+      "city": "Hampi",
+      "country": "India",
+      "latitude": 15.321674,
+      "longitude": 76.472253,
+      "website": ""
+    },
+    {
+      "name": "Sculpture Shed",
+      "name_en": "",
+      "city": "Naya Bāzār",
+      "country": "India",
+      "latitude": 27.30194,
+      "longitude": 88.256004,
+      "website": ""
+    },
+    {
+      "name": "Sea Shell Museum",
+      "name_en": "",
+      "city": "Diu",
+      "country": "India",
+      "latitude": 20.71375,
+      "longitude": 70.928094,
+      "website": ""
+    },
+    {
+      "name": "Seashell Museum",
+      "name_en": "",
+      "city": "Māmallapuram",
+      "country": "India",
+      "latitude": 12.608294,
+      "longitude": 80.187996,
+      "website": ""
+    },
+    {
+      "name": "Shankar Memorial",
+      "name_en": "",
+      "city": "Kāyankulam",
+      "country": "India",
+      "latitude": 9.14647,
+      "longitude": 76.512472,
+      "website": ""
+    },
+    {
+      "name": "Shivaji Museum Satara",
+      "name_en": "",
+      "city": "Sātāra",
+      "country": "India",
+      "latitude": 17.69418,
+      "longitude": 74.004636,
+      "website": ""
+    },
+    {
+      "name": "Shobha Temple",
+      "name_en": "",
+      "city": "Pariyāpuram",
+      "country": "India",
+      "latitude": 10.974421,
+      "longitude": 75.879351,
+      "website": ""
+    },
+    {
+      "name": "Shri Bhuri Singh Palace",
+      "name_en": "",
+      "city": "Chamba",
+      "country": "India",
+      "latitude": 32.557177,
+      "longitude": 76.125147,
+      "website": ""
+    },
+    {
+      "name": "Shriram Industries",
+      "name_en": "",
+      "city": "Davorlim",
+      "country": "India",
+      "latitude": 15.272929,
+      "longitude": 73.975655,
+      "website": ""
+    },
+    {
+      "name": "Silappathikara Art Gallery",
+      "name_en": "",
+      "city": "Tirumullaivāsal",
+      "country": "India",
+      "latitude": 11.143707,
+      "longitude": 79.854551,
+      "website": ""
+    },
+    {
+      "name": "Sivaganga District Museum",
+      "name_en": "",
+      "city": "Sivaganga",
+      "country": "India",
+      "latitude": 9.851469,
+      "longitude": 78.487042,
+      "website": ""
+    },
+    {
+      "name": "SNC Maritime Museum",
+      "name_en": "",
+      "city": "Cochin",
+      "country": "India",
+      "latitude": 9.958192,
+      "longitude": 76.239126,
+      "website": ""
+    },
+    {
+      "name": "Sobha Singh Art Gallery",
+      "name_en": "",
+      "city": "Pālampur",
+      "country": "India",
+      "latitude": 32.038905,
+      "longitude": 76.570265,
+      "website": ""
+    },
+    {
+      "name": "Sonu home",
+      "name_en": "",
+      "city": "Jaipur",
+      "country": "India",
+      "latitude": 26.805502,
+      "longitude": 75.845466,
+      "website": ""
+    },
+    {
+      "name": "Spice garden",
+      "name_en": "",
+      "city": "Gudalur",
+      "country": "India",
+      "latitude": 9.615832,
+      "longitude": 77.155224,
+      "website": ""
+    },
+    {
+      "name": "Sri Venkateswara Museum",
+      "name_en": "",
+      "city": "Tirumala",
+      "country": "India",
+      "latitude": 13.683969,
+      "longitude": 79.343151,
+      "website": ""
+    },
+    {
+      "name": "Srikrishna Science Museum",
+      "name_en": "",
+      "city": "Patna",
+      "country": "India",
+      "latitude": 25.616307,
+      "longitude": 85.141085,
+      "website": ""
+    },
+    {
+      "name": "St. Alphonsa Museum",
+      "name_en": "",
+      "city": "Lālam",
+      "country": "India",
+      "latitude": 9.702754,
+      "longitude": 76.725916,
+      "website": ""
+    },
+    {
+      "name": "State Art Gallery",
+      "name_en": "",
+      "city": "Guwahati",
+      "country": "India",
+      "latitude": 26.184946,
+      "longitude": 91.753884,
+      "website": ""
+    },
+    {
+      "name": "Sun temple",
+      "name_en": "",
+      "city": "Chānasma",
+      "country": "India",
+      "latitude": 23.582391,
+      "longitude": 72.134198,
+      "website": ""
+    },
+    {
+      "name": "Sunehari Mahal",
+      "name_en": "",
+      "city": "Aurangabad",
+      "country": "India",
+      "latitude": 19.906702,
+      "longitude": 75.309966,
+      "website": ""
+    },
+    {
+      "name": "Swami Parvananda Museum",
+      "name_en": "",
+      "city": "Puri",
+      "country": "India",
+      "latitude": 19.794864,
+      "longitude": 85.818405,
+      "website": ""
+    },
+    {
+      "name": "Tai Museum",
+      "name_en": "",
+      "city": "Sibsāgar",
+      "country": "India",
+      "latitude": 26.991836,
+      "longitude": 94.629317,
+      "website": ""
+    },
+    {
+      "name": "Tea Plantage",
+      "name_en": "",
+      "city": "Gudalur",
+      "country": "India",
+      "latitude": 9.578813,
+      "longitude": 77.097976,
+      "website": ""
+    },
+    {
+      "name": "Techspots",
+      "name_en": "",
+      "city": "Davorlim",
+      "country": "India",
+      "latitude": 15.2831,
+      "longitude": 73.9765,
+      "website": ""
+    },
+    {
+      "name": "Teen Murti Bhavan",
+      "name_en": "",
+      "city": "New Delhi",
+      "country": "India",
+      "latitude": 28.602698,
+      "longitude": 77.198872,
+      "website": ""
+    },
+    {
+      "name": "The Army Heritage Museum",
+      "name_en": "",
+      "city": "Shimla",
+      "country": "India",
+      "latitude": 31.109506,
+      "longitude": 77.159138,
+      "website": ""
+    },
+    {
+      "name": "The Tibet Museum",
+      "name_en": "",
+      "city": "Dharmsāla",
+      "country": "India",
+      "latitude": 32.232603,
+      "longitude": 76.32488,
+      "website": ""
+    },
+    {
+      "name": "Thripunitra Hill Palace",
+      "name_en": "",
+      "city": "Arukutti",
+      "country": "India",
+      "latitude": 9.952735,
+      "longitude": 76.363942,
+      "website": ""
+    },
+    {
+      "name": "Thunchan Paramb",
+      "name_en": "",
+      "city": "Tirūr",
+      "country": "India",
+      "latitude": 10.908101,
+      "longitude": 75.916172,
+      "website": ""
+    },
+    {
+      "name": "Timber Engineering Museum",
+      "name_en": "",
+      "city": "Dehradun",
+      "country": "India",
+      "latitude": 30.340332,
+      "longitude": 77.99539,
+      "website": ""
+    },
+    {
+      "name": "Tribal Museum",
+      "name_en": "",
+      "city": "Bhubaneshwar",
+      "country": "India",
+      "latitude": 20.283322,
+      "longitude": 85.806642,
+      "website": ""
+    },
+    {
+      "name": "Tribal museum",
+      "name_en": "",
+      "city": "Bhopal",
+      "country": "India",
+      "latitude": 23.234684,
+      "longitude": 77.385053,
+      "website": ""
+    },
+    {
+      "name": "Tribal Museum Chhindwara",
+      "name_en": "",
+      "city": "Chhindwāra",
+      "country": "India",
+      "latitude": 22.071178,
+      "longitude": 78.939991,
+      "website": ""
+    },
+    {
+      "name": "UCO Bank Museum",
+      "name_en": "",
+      "city": "Ahmedabad",
+      "country": "India",
+      "latitude": 23.024322,
+      "longitude": 72.582897,
+      "website": ""
+    },
+    {
+      "name": "ultimus",
+      "name_en": "",
+      "city": "Hyderabad",
+      "country": "India",
+      "latitude": 17.42459,
+      "longitude": 78.45217,
+      "website": ""
+    },
+    {
+      "name": "Umaid Bhawan Palace",
+      "name_en": "",
+      "city": "Jodhpur",
+      "country": "India",
+      "latitude": 26.280721,
+      "longitude": 73.047705,
+      "website": ""
+    },
+    {
+      "name": "Vallathol Museum",
+      "name_en": "",
+      "city": "Shoranūr",
+      "country": "India",
+      "latitude": 10.749456,
+      "longitude": 76.274615,
+      "website": ""
+    },
+    {
+      "name": "Vechaar: Utensils Museum",
+      "name_en": "",
+      "city": "Sarkhej",
+      "country": "India",
+      "latitude": 22.994438,
+      "longitude": 72.535732,
+      "website": ""
+    },
+    {
+      "name": "Venkatappa Art Gallery",
+      "name_en": "",
+      "city": "Bangalore",
+      "country": "India",
+      "latitude": 12.974259,
+      "longitude": 77.595208,
+      "website": ""
+    },
+    {
+      "name": "Villa Braganca",
+      "name_en": "",
+      "city": "Davorlim",
+      "country": "India",
+      "latitude": 15.261504,
+      "longitude": 74.043404,
+      "website": ""
+    },
+    {
+      "name": "Wandering Monk Museum",
+      "name_en": "",
+      "city": "Kanniyākumāri",
+      "country": "India",
+      "latitude": 8.081302,
+      "longitude": 77.549901,
+      "website": ""
+    },
+    {
+      "name": "Watson Museum",
+      "name_en": "",
+      "city": "Rājkot",
+      "country": "India",
+      "latitude": 22.302186,
+      "longitude": 70.802285,
+      "website": ""
+    },
+    {
+      "name": "Wax Museum",
+      "name_en": "",
+      "city": "Ooty",
+      "country": "India",
+      "latitude": 11.404334,
+      "longitude": 76.714935,
+      "website": ""
+    },
+    {
+      "name": "Wax World",
+      "name_en": "",
+      "city": "Kodaikānāl",
+      "country": "India",
+      "latitude": 10.21772,
+      "longitude": 77.477918,
+      "website": "waxworld.in"
+    },
+    {
+      "name": "Wax World Museum",
+      "name_en": "Wax De goa",
+      "city": "Jua",
+      "country": "India",
+      "latitude": 15.500229,
+      "longitude": 73.913811,
+      "website": ""
+    },
+    {
+      "name": "Zonal Anthropological Museum",
+      "name_en": "",
+      "city": "Port Blair",
+      "country": "India",
+      "latitude": 11.66438,
+      "longitude": 92.740233,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "भारत में संग्रहालय (Museums in India) - मुफ़्त डाउनलोड",
+    "description": "OpenStreetMap से भारत के 219 संग्रहालयों की सूची — नाम, शहर, निर्देशांक और वेबसाइट सहित। शामिल हैं 219 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "भारत में संग्रहालय (Museums in India) | ListBase",
+    "seo_description": "डाउनलोड भारत में संग्रहालय (Museums in India) — 219 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 219 रिकॉर्ड / 7 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

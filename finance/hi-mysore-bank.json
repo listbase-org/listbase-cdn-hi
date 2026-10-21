@@ -1,0 +1,135 @@
+{
+  "id": "hi-mysore-bank",
+  "name": "Mysore में बैंक — SWIFT/BIC कोड",
+  "title": "Mysore में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Mysore, India. Subset of hi-bank. Source city string preserved verbatim as \"MYSORE\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 503,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MYSORE",
+      "branch": "(MYSORE)",
+      "swift_code": "AXISINBB151"
+    },
+    {
+      "id": 1335,
+      "bank": "CANARA BANK",
+      "city": "MYSORE",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "CNRBINBBWXM"
+    },
+    {
+      "id": 1336,
+      "bank": "CANARA BANK",
+      "city": "MYSORE",
+      "branch": "",
+      "swift_code": "CNRBINBBJLM"
+    },
+    {
+      "id": 1582,
+      "bank": "CORPORATION BANK",
+      "city": "MYSORE",
+      "branch": "(MYSORE-MAIN)",
+      "swift_code": "CORPINBB011"
+    },
+    {
+      "id": 1959,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MYSORE",
+      "branch": "(MYSORE BRANCH)",
+      "swift_code": "IBKLINBB281"
+    },
+    {
+      "id": 2067,
+      "bank": "INDIAN BANK",
+      "city": "MYSORE",
+      "branch": "(MYSORE BRANCH)",
+      "swift_code": "IDIBINBBMSR"
+    },
+    {
+      "id": 2750,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MYSORE",
+      "branch": "(D R URS ROAD BRANCH)",
+      "swift_code": "PUNBINBBMSP"
+    },
+    {
+      "id": 3453,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MYSORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM10"
+    },
+    {
+      "id": 3454,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MYSORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM11"
+    },
+    {
+      "id": 3455,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MYSORE",
+      "branch": "(COMMERCIAL BRANCH, MYSORE)",
+      "swift_code": "SBININBB170"
+    },
+    {
+      "id": 3809,
+      "bank": "SYNDICATE BANK",
+      "city": "MYSORE",
+      "branch": "(K.R. CIRCLE BRANCH)",
+      "swift_code": "SYNBINBB087"
+    },
+    {
+      "id": 4232,
+      "bank": "VIJAYA BANK",
+      "city": "MYSORE",
+      "branch": "(SANTHEPET BRANCH)",
+      "swift_code": "VIJBINBBSNT"
+    }
+  ],
+  "meta": {
+    "title": "Mysore में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Mysore, India. Subset of hi-bank. Source city string preserved verbatim as \"MYSORE\". शामिल हैं 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Mysore में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Mysore में बैंक — SWIFT/BIC कोड — 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 12 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

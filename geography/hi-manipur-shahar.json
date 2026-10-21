@@ -1,0 +1,1546 @@
+{
+  "id": "hi-manipur-shahar",
+  "name": "मणिपुर के शहर (Manipur Cities)",
+  "title": "मणिपुर के शहर (Manipur Cities)",
+  "description": "मणिपुर राज्य के 148 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 148 cities and towns in Manipur, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 148,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aihol",
+      "name_lower": "aihol",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 23.933333,
+      "longitude": 93.983333
+    },
+    {
+      "name": "Angami",
+      "name_lower": "angami",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 94.533333
+    },
+    {
+      "name": "Atengba",
+      "name_lower": "atengba",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 93.35
+    },
+    {
+      "name": "Bishenpur",
+      "name_lower": "bishenpur",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.633333,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Boljang",
+      "name_lower": "boljang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.616667,
+      "longitude": 94.4
+    },
+    {
+      "name": "Bongba Khulen",
+      "name_lower": "bongba khulen",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Bongbal Khulen",
+      "name_lower": "bongbal khulen",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Buri Bazar",
+      "name_lower": "buri bazar",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.733333,
+      "longitude": 93.833333
+    },
+    {
+      "name": "Chakpi Karong",
+      "name_lower": "chakpi karong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.216667,
+      "longitude": 93.883333
+    },
+    {
+      "name": "Chalong",
+      "name_lower": "chalong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.25,
+      "longitude": 94.066667
+    },
+    {
+      "name": "Charoi Chakoklong",
+      "name_lower": "charoi chakoklong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.766667,
+      "longitude": 93.633333
+    },
+    {
+      "name": "Chassad",
+      "name_lower": "chassad",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.8,
+      "longitude": 94.516667
+    },
+    {
+      "name": "Chassud",
+      "name_lower": "chassud",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.8,
+      "longitude": 94.516667
+    },
+    {
+      "name": "Chaton",
+      "name_lower": "chaton",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 93.716667
+    },
+    {
+      "name": "Chatong",
+      "name_lower": "chatong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.25,
+      "longitude": 94.066667
+    },
+    {
+      "name": "Chattrik",
+      "name_lower": "chattrik",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.95,
+      "longitude": 94.616667
+    },
+    {
+      "name": "Chekrima",
+      "name_lower": "chekrima",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Churachandpur",
+      "name_lower": "churachandpur",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": 47774,
+      "latitude": 24.333333,
+      "longitude": 93.666667
+    },
+    {
+      "name": "Furing",
+      "name_lower": "furing",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.166667,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Gaziphema",
+      "name_lower": "gaziphema",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 94.4
+    },
+    {
+      "name": "Gouthang",
+      "name_lower": "gouthang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.466667,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Guilengmei",
+      "name_lower": "guilengmei",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Hangao",
+      "name_lower": "hangao",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.9,
+      "longitude": 94.4
+    },
+    {
+      "name": "Hanggou",
+      "name_lower": "hanggou",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.9,
+      "longitude": 94.4
+    },
+    {
+      "name": "Hanship",
+      "name_lower": "hanship",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.15,
+      "longitude": 93.233333
+    },
+    {
+      "name": "Hengtam",
+      "name_lower": "hengtam",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 93.616667
+    },
+    {
+      "name": "Huining",
+      "name_lower": "huining",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.166667,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Humhpum",
+      "name_lower": "humhpum",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.066667,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Humine",
+      "name_lower": "humine",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 94.566667
+    },
+    {
+      "name": "Humpum",
+      "name_lower": "humpum",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.066667,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Hungphun",
+      "name_lower": "hungphun",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.066667,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Imphal",
+      "name_lower": "imphal",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": 223537,
+      "latitude": 24.816667,
+      "longitude": 93.95
+    },
+    {
+      "name": "Jessami",
+      "name_lower": "jessami",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 94.533333
+    },
+    {
+      "name": "Kakching",
+      "name_lower": "kakching",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": 30420,
+      "latitude": 24.483333,
+      "longitude": 93.983333
+    },
+    {
+      "name": "Kalanaga",
+      "name_lower": "kalanaga",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.766667,
+      "longitude": 93.266667
+    },
+    {
+      "name": "Kalapahar",
+      "name_lower": "kalapahar",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.116667,
+      "longitude": 93.95
+    },
+    {
+      "name": "Kalhang Khunou",
+      "name_lower": "kalhang khunou",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Kampang",
+      "name_lower": "kampang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.433333,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Kampha",
+      "name_lower": "kampha",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.083333,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Kangchup Khul",
+      "name_lower": "kangchup khul",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Kangpat",
+      "name_lower": "kangpat",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.666667,
+      "longitude": 94.483333
+    },
+    {
+      "name": "Kangpokpi",
+      "name_lower": "kangpokpi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.133333,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Kanjang",
+      "name_lower": "kanjang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 93.9
+    },
+    {
+      "name": "Karong",
+      "name_lower": "karong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 94.05
+    },
+    {
+      "name": "Katang",
+      "name_lower": "katang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Katangmel",
+      "name_lower": "katangmel",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Keaoma",
+      "name_lower": "keaoma",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 93.916667
+    },
+    {
+      "name": "Kekrima",
+      "name_lower": "kekrima",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Kendma",
+      "name_lower": "kendma",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 93.916667
+    },
+    {
+      "name": "Khamson",
+      "name_lower": "khamson",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Kharasom",
+      "name_lower": "kharasom",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Khebuching",
+      "name_lower": "khebuching",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 93.5
+    },
+    {
+      "name": "Kheeuching",
+      "name_lower": "kheeuching",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 93.5
+    },
+    {
+      "name": "Khengoi",
+      "name_lower": "khengoi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 94.083333
+    },
+    {
+      "name": "Khengyoi",
+      "name_lower": "khengyoi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.05,
+      "longitude": 94.083333
+    },
+    {
+      "name": "Khunthak",
+      "name_lower": "khunthak",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 94.1
+    },
+    {
+      "name": "Koiri",
+      "name_lower": "koiri",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Krikima",
+      "name_lower": "krikima",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Kuiri",
+      "name_lower": "kuiri",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Lagairong",
+      "name_lower": "lagairong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.7,
+      "longitude": 93.533333
+    },
+    {
+      "name": "Langga",
+      "name_lower": "langga",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Langkhong",
+      "name_lower": "langkhong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 93.55
+    },
+    {
+      "name": "Laphurak",
+      "name_lower": "laphurak",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 94.1
+    },
+    {
+      "name": "Lauiangdong",
+      "name_lower": "lauiangdong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.633333,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Laö",
+      "name_lower": "lao",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 94.4
+    },
+    {
+      "name": "Laü",
+      "name_lower": "lau",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 94.4
+    },
+    {
+      "name": "Leishan",
+      "name_lower": "leishan",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.116667,
+      "longitude": 94.2
+    },
+    {
+      "name": "Longbi Hirei",
+      "name_lower": "longbi hirei",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Longpi",
+      "name_lower": "longpi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.616667,
+      "longitude": 93.333333
+    },
+    {
+      "name": "Makeng",
+      "name_lower": "makeng",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.1,
+      "longitude": 94.016667
+    },
+    {
+      "name": "Makuol",
+      "name_lower": "makuol",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 93.35
+    },
+    {
+      "name": "Mao",
+      "name_lower": "mao",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Mao Songsang",
+      "name_lower": "mao songsang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Maram",
+      "name_lower": "maram",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.416667,
+      "longitude": 94.1
+    },
+    {
+      "name": "Mawlashin",
+      "name_lower": "mawlashin",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 94.7
+    },
+    {
+      "name": "Mayang Imphal",
+      "name_lower": "mayang imphal",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": 22160,
+      "latitude": 24.616667,
+      "longitude": 93.883333
+    },
+    {
+      "name": "Meiring",
+      "name_lower": "meiring",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Meiti",
+      "name_lower": "meiti",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.7,
+      "longitude": 94.5
+    },
+    {
+      "name": "Metikumi",
+      "name_lower": "metikumi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 94.583333
+    },
+    {
+      "name": "Moirang",
+      "name_lower": "moirang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": 17104,
+      "latitude": 24.5,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Molnom",
+      "name_lower": "molnom",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 93.4
+    },
+    {
+      "name": "Molsang",
+      "name_lower": "molsang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 94.7
+    },
+    {
+      "name": "Molvailup",
+      "name_lower": "molvailup",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.8,
+      "longitude": 94.616667
+    },
+    {
+      "name": "Mombi",
+      "name_lower": "mombi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.1,
+      "longitude": 93.933333
+    },
+    {
+      "name": "Mombi New",
+      "name_lower": "mombi new",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.1,
+      "longitude": 93.933333
+    },
+    {
+      "name": "Mulam",
+      "name_lower": "mulam",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 93.6
+    },
+    {
+      "name": "Munpi",
+      "name_lower": "munpi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.316667,
+      "longitude": 93.5
+    },
+    {
+      "name": "Nambashi",
+      "name_lower": "nambashi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.583333,
+      "longitude": 94.35
+    },
+    {
+      "name": "Ngari Khunou",
+      "name_lower": "ngari khunou",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.35,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Nungba",
+      "name_lower": "nungba",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 93.433333
+    },
+    {
+      "name": "Nungbi Khulen",
+      "name_lower": "nungbi khulen",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Nungkuinu",
+      "name_lower": "nungkuinu",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.033333,
+      "longitude": 94.083333
+    },
+    {
+      "name": "Nungtak",
+      "name_lower": "nungtak",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.516667,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Oinamlong",
+      "name_lower": "oinamlong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.766667,
+      "longitude": 93.266667
+    },
+    {
+      "name": "Pabram",
+      "name_lower": "pabram",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 93.366667
+    },
+    {
+      "name": "Palel",
+      "name_lower": "palel",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 94.033333
+    },
+    {
+      "name": "Parbung",
+      "name_lower": "parbung",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.25,
+      "longitude": 93.1
+    },
+    {
+      "name": "Phaiphengmun",
+      "name_lower": "phaiphengmun",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.35,
+      "longitude": 93.466667
+    },
+    {
+      "name": "Phek",
+      "name_lower": "phek",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": 15119,
+      "latitude": 25.666667,
+      "longitude": 94.5
+    },
+    {
+      "name": "Phellong",
+      "name_lower": "phellong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.1,
+      "longitude": 93.433333
+    },
+    {
+      "name": "Phering",
+      "name_lower": "phering",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.166667,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Phungta",
+      "name_lower": "phungta",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.066667,
+      "longitude": 94.716667
+    },
+    {
+      "name": "Pochingmai",
+      "name_lower": "pochingmai",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 93.5
+    },
+    {
+      "name": "Poi",
+      "name_lower": "poi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.266667,
+      "longitude": 94.566667
+    },
+    {
+      "name": "Pulomi",
+      "name_lower": "pulomi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 93.916667
+    },
+    {
+      "name": "Raipalomei",
+      "name_lower": "raipalomei",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.35,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Sagolmang",
+      "name_lower": "sagolmang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.95,
+      "longitude": 94.033333
+    },
+    {
+      "name": "Saibom",
+      "name_lower": "saibom",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.416667,
+      "longitude": 94.1
+    },
+    {
+      "name": "Saitu",
+      "name_lower": "saitu",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 93.9
+    },
+    {
+      "name": "Sakok",
+      "name_lower": "sakok",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 94.316667
+    },
+    {
+      "name": "Sempang",
+      "name_lower": "sempang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 93.433333
+    },
+    {
+      "name": "Shelkui Khunou",
+      "name_lower": "shelkui khunou",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.066667,
+      "longitude": 93.866667
+    },
+    {
+      "name": "Shuganu",
+      "name_lower": "shuganu",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.3,
+      "longitude": 93.866667
+    },
+    {
+      "name": "Sibong",
+      "name_lower": "sibong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.333333,
+      "longitude": 94.266667
+    },
+    {
+      "name": "Sochumei",
+      "name_lower": "sochumei",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Songchal",
+      "name_lower": "songchal",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.15,
+      "longitude": 93.366667
+    },
+    {
+      "name": "Songkong",
+      "name_lower": "songkong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.083333,
+      "longitude": 93.683333
+    },
+    {
+      "name": "Songpekmun",
+      "name_lower": "songpekmun",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.316667,
+      "longitude": 93.283333
+    },
+    {
+      "name": "Songsang",
+      "name_lower": "songsang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 93.333333
+    },
+    {
+      "name": "Sonparam",
+      "name_lower": "sonparam",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.016667,
+      "longitude": 93.6
+    },
+    {
+      "name": "Tadehi",
+      "name_lower": "tadehi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Tairenpokpi",
+      "name_lower": "tairenpokpi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 93.666667
+    },
+    {
+      "name": "Tallui",
+      "name_lower": "tallui",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Taloulong",
+      "name_lower": "taloulong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.1,
+      "longitude": 93.633333
+    },
+    {
+      "name": "Tamenglong",
+      "name_lower": "tamenglong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 93.55
+    },
+    {
+      "name": "Tamma",
+      "name_lower": "tamma",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 93.7
+    },
+    {
+      "name": "Thanga",
+      "name_lower": "thanga",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.5,
+      "longitude": 93.833333
+    },
+    {
+      "name": "Thanlon",
+      "name_lower": "thanlon",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.283333,
+      "longitude": 93.283333
+    },
+    {
+      "name": "Thlanship",
+      "name_lower": "thlanship",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.15,
+      "longitude": 93.233333
+    },
+    {
+      "name": "Thonglang",
+      "name_lower": "thonglang",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 93.916667
+    },
+    {
+      "name": "Thoubal",
+      "name_lower": "thoubal",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": 44497,
+      "latitude": 24.633333,
+      "longitude": 94.016667
+    },
+    {
+      "name": "Tingpibung",
+      "name_lower": "tingpibung",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.033333,
+      "longitude": 94.1
+    },
+    {
+      "name": "Tinsong",
+      "name_lower": "tinsong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.3,
+      "longitude": 93.2
+    },
+    {
+      "name": "Tolbol",
+      "name_lower": "tolbol",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.283333,
+      "longitude": 93.283333
+    },
+    {
+      "name": "Tolloi",
+      "name_lower": "tolloi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Tonglon",
+      "name_lower": "tonglon",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.216667,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Tsutuho",
+      "name_lower": "tsutuho",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.783333,
+      "longitude": 94.616667
+    },
+    {
+      "name": "Tulihal",
+      "name_lower": "tulihal",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 93.883333
+    },
+    {
+      "name": "Tuphema",
+      "name_lower": "tuphema",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Ukhrul",
+      "name_lower": "ukhrul",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.116667,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Viswema",
+      "name_lower": "viswema",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.55,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Wabagai",
+      "name_lower": "wabagai",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.533333,
+      "longitude": 93.933333
+    },
+    {
+      "name": "Wangjing",
+      "name_lower": "wangjing",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": 7529,
+      "latitude": 24.6,
+      "longitude": 94.033333
+    },
+    {
+      "name": "Wilong",
+      "name_lower": "wilong",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Yaingangpokpi",
+      "name_lower": "yaingangpokpi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.9,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Yairipok",
+      "name_lower": "yairipok",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": 8798,
+      "latitude": 24.666667,
+      "longitude": 94.066667
+    },
+    {
+      "name": "kanglatombi",
+      "name_lower": "kanglatombi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.983333,
+      "longitude": 93.9
+    },
+    {
+      "name": "kanglatongbi",
+      "name_lower": "kanglatongbi",
+      "state": "Manipur",
+      "state_hi": "मणिपुर",
+      "region_code": "17",
+      "population": "",
+      "latitude": 24.983333,
+      "longitude": 93.9
+    }
+  ],
+  "meta": {
+    "title": "मणिपुर के शहर (Manipur Cities) - मुफ़्त डाउनलोड",
+    "description": "मणिपुर राज्य के 148 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 148 cities and towns in Manipur, India, with population and geographic coordinates. शामिल हैं 148 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मणिपुर के शहर (Manipur Cities) | ListBase",
+    "seo_description": "डाउनलोड मणिपुर के शहर (Manipur Cities) — 148 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 148 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

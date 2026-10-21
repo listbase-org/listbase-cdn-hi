@@ -1,0 +1,149 @@
+{
+  "id": "hi-panaji-bank",
+  "name": "Panaji में बैंक — SWIFT/BIC कोड",
+  "title": "Panaji में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Panaji, India. Subset of hi-bank. Source city string preserved verbatim as \"PANAJI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 560,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PANAJI",
+      "branch": "(PANAJI BRANCH)",
+      "swift_code": "AXISINBB078"
+    },
+    {
+      "id": 868,
+      "bank": "BANK OF BARODA",
+      "city": "PANAJI",
+      "branch": "(PANAJI BRANCH)",
+      "swift_code": "BARBINBBPAN"
+    },
+    {
+      "id": 1082,
+      "bank": "BANK OF INDIA",
+      "city": "PANAJI",
+      "branch": "(CAMPAL BRANCH)",
+      "swift_code": "BKIDINBBCAM"
+    },
+    {
+      "id": 1148,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "PANAJI",
+      "branch": "(PANAJI BRANCH, GOA)",
+      "swift_code": "MAHBINBBPNJ"
+    },
+    {
+      "id": 1680,
+      "bank": "DENA BANK",
+      "city": "PANAJI",
+      "branch": "(PANAJI BRANCH, INDRAPRASTHA)",
+      "swift_code": "BKDNINBBPNG"
+    },
+    {
+      "id": 1806,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "PANAJI",
+      "branch": "(PANAJI)",
+      "swift_code": "FDRLINBBPNJ"
+    },
+    {
+      "id": 2781,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "PANAJI",
+      "branch": "(CALISTO MANSIONN)",
+      "swift_code": "PUNBINBBGPA"
+    },
+    {
+      "id": 3538,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PANAJI",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB120"
+    },
+    {
+      "id": 3539,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PANAJI",
+      "branch": "(NRI BRANCH PANAJI)",
+      "swift_code": "SBININBB805"
+    },
+    {
+      "id": 3540,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PANAJI",
+      "branch": "(PANAJI)",
+      "swift_code": "SBININBB366"
+    },
+    {
+      "id": 3830,
+      "bank": "SYNDICATE BANK",
+      "city": "PANAJI",
+      "branch": "(PANAJI BRANCH)",
+      "swift_code": "SYNBINBB010"
+    },
+    {
+      "id": 4015,
+      "bank": "UCO BANK",
+      "city": "PANAJI",
+      "branch": "(PANAJI GOA)",
+      "swift_code": "UCBAINBBPNJ"
+    },
+    {
+      "id": 4190,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "PANAJI",
+      "branch": "(PANAJI GOA BRANCH)",
+      "swift_code": "UWBAINB1PNJ"
+    },
+    {
+      "id": 4240,
+      "bank": "VIJAYA BANK",
+      "city": "PANAJI",
+      "branch": "(PANAJI BRANCH)",
+      "swift_code": "VIJBINBBPNJ"
+    }
+  ],
+  "meta": {
+    "title": "Panaji में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Panaji, India. Subset of hi-bank. Source city string preserved verbatim as \"PANAJI\". शामिल हैं 14 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Panaji में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Panaji में बैंक — SWIFT/BIC कोड — 14 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 14 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

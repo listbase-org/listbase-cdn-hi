@@ -1,0 +1,360 @@
+{
+  "id": "hi-samay-kshetra-pacific",
+  "name": "समय क्षेत्र — Pacific (38)",
+  "title": "समय क्षेत्र — Pacific (38)",
+  "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Pacific/' से आरंभ होता है, हिन्दी नामों सहित।",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "kshetra",
+      "label": "Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "shahar",
+      "label": "Shahar",
+      "type": "string"
+    },
+    {
+      "key": "manak_naam",
+      "label": "Manak Naam",
+      "type": "string"
+    },
+    {
+      "key": "divakaal_naam",
+      "label": "Divakaal Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Pacific/Apia",
+      "kshetra": "Pacific",
+      "shahar": "एपिया",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Pacific/Auckland",
+      "kshetra": "Pacific",
+      "shahar": "ऑकलैंड",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Pacific/Bougainville",
+      "kshetra": "Pacific",
+      "shahar": "बोगनविले",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Pacific/Chatham",
+      "kshetra": "Pacific",
+      "shahar": "चैथम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Pacific/Easter",
+      "kshetra": "Pacific",
+      "shahar": "ईस्टर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Pacific/Efate",
+      "kshetra": "Pacific",
+      "shahar": "एफ़ेट",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Pacific/Enderbury",
+      "kshetra": "Pacific",
+      "shahar": "कैंटन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Pacific/Fakaofo",
+      "kshetra": "Pacific",
+      "shahar": "फ़ाकाओफ़ो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Pacific/Fiji",
+      "kshetra": "Pacific",
+      "shahar": "फ़िजी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Pacific/Funafuti",
+      "kshetra": "Pacific",
+      "shahar": "फ़्यूनाफ़ुटी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Pacific/Galapagos",
+      "kshetra": "Pacific",
+      "shahar": "गेलापागोस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Pacific/Gambier",
+      "kshetra": "Pacific",
+      "shahar": "गैंबियर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Pacific/Guadalcanal",
+      "kshetra": "Pacific",
+      "shahar": "ग्वाडलकनाल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Pacific/Guam",
+      "kshetra": "Pacific",
+      "shahar": "गुआम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Pacific/Honolulu",
+      "kshetra": "Pacific",
+      "shahar": "होनोलुलु",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Pacific/Kiritimati",
+      "kshetra": "Pacific",
+      "shahar": "किरीतिमाति",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Pacific/Kosrae",
+      "kshetra": "Pacific",
+      "shahar": "कोसराए",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Pacific/Kwajalein",
+      "kshetra": "Pacific",
+      "shahar": "क्वाज़ालीन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Pacific/Majuro",
+      "kshetra": "Pacific",
+      "shahar": "माजुरो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Pacific/Marquesas",
+      "kshetra": "Pacific",
+      "shahar": "मार्केसस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Pacific/Midway",
+      "kshetra": "Pacific",
+      "shahar": "मिडवे",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Pacific/Nauru",
+      "kshetra": "Pacific",
+      "shahar": "नौरु",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Pacific/Niue",
+      "kshetra": "Pacific",
+      "shahar": "नीयू",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Pacific/Norfolk",
+      "kshetra": "Pacific",
+      "shahar": "नॉरफ़ॉक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Pacific/Noumea",
+      "kshetra": "Pacific",
+      "shahar": "नौमिया",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Pacific/Pago_Pago",
+      "kshetra": "Pacific",
+      "shahar": "पागो पागो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Pacific/Palau",
+      "kshetra": "Pacific",
+      "shahar": "पलाऊ",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Pacific/Pitcairn",
+      "kshetra": "Pacific",
+      "shahar": "पिटकैर्न",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Pacific/Ponape",
+      "kshetra": "Pacific",
+      "shahar": "पोनपेई",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Pacific/Port_Moresby",
+      "kshetra": "Pacific",
+      "shahar": "पोर्ट मोरेस्बी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Pacific/Rarotonga",
+      "kshetra": "Pacific",
+      "shahar": "रारोटोंगा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Pacific/Saipan",
+      "kshetra": "Pacific",
+      "shahar": "सायपान",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Pacific/Tahiti",
+      "kshetra": "Pacific",
+      "shahar": "ताहिती",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Pacific/Tarawa",
+      "kshetra": "Pacific",
+      "shahar": "टारावा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Pacific/Tongatapu",
+      "kshetra": "Pacific",
+      "shahar": "टोंगाटापू",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Pacific/Truk",
+      "kshetra": "Pacific",
+      "shahar": "चक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Pacific/Wake",
+      "kshetra": "Pacific",
+      "shahar": "वेक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Pacific/Wallis",
+      "kshetra": "Pacific",
+      "shahar": "वालिस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    }
+  ],
+  "meta": {
+    "title": "समय क्षेत्र — Pacific (38) - मुफ़्त डाउनलोड",
+    "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Pacific/' से आरंभ होता है, हिन्दी नामों सहित। शामिल हैं 38 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "समय क्षेत्र — Pacific (38) | ListBase",
+    "seo_description": "डाउनलोड समय क्षेत्र — Pacific (38) — 38 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 38 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

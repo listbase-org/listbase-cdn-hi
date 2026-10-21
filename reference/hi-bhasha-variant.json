@@ -1,0 +1,96 @@
+{
+  "id": "hi-bhasha-variant",
+  "name": "भाषा वेरिएंट — हिन्दी नाम (CLDR)",
+  "title": "भाषा वेरिएंट — हिन्दी नाम (CLDR)",
+  "description": "BCP 47 भाषा-वेरिएंट कोड और CLDR hi लोकेल से उनके हिन्दी नाम।",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "1901",
+      "naam": "पारम्पारिक जर्मन वर्तनी"
+    },
+    {
+      "id": 2,
+      "code": "1996",
+      "naam": "जर्मेनी की 1996 वर्तनी"
+    },
+    {
+      "id": 3,
+      "code": "AREVELA",
+      "naam": "पूर्वी अर्मेनियाई"
+    },
+    {
+      "id": 4,
+      "code": "MONOTON",
+      "naam": "एकस्वरीय"
+    },
+    {
+      "id": 5,
+      "code": "NJIVA",
+      "naam": "जीवा बोली"
+    },
+    {
+      "id": 6,
+      "code": "PINYIN",
+      "naam": "पिनयिन रोमनाइज़ेशन"
+    },
+    {
+      "id": 7,
+      "code": "POLYTON",
+      "naam": "बहुस्वरीय"
+    },
+    {
+      "id": 8,
+      "code": "POSIX",
+      "naam": "कम्प्यूटर"
+    },
+    {
+      "id": 9,
+      "code": "REVISED",
+      "naam": "संशोधित वर्तनी"
+    },
+    {
+      "id": 10,
+      "code": "SCOTLAND",
+      "naam": "स्कॉटिश मानक अंग्रेज़ी"
+    },
+    {
+      "id": 11,
+      "code": "WADEGILE",
+      "naam": "वेड-जाइल्स रोमनाइज़ेशन"
+    }
+  ],
+  "meta": {
+    "title": "भाषा वेरिएंट — हिन्दी नाम (CLDR) - मुफ़्त डाउनलोड",
+    "description": "BCP 47 भाषा-वेरिएंट कोड और CLDR hi लोकेल से उनके हिन्दी नाम। शामिल हैं 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "भाषा वेरिएंट — हिन्दी नाम (CLDR) | ListBase",
+    "seo_description": "डाउनलोड भाषा वेरिएंट — हिन्दी नाम (CLDR) — 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 11 रिकॉर्ड / 3 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

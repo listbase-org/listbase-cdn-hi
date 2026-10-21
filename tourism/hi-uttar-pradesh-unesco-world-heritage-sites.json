@@ -1,0 +1,144 @@
+{
+  "id": "hi-uttar-pradesh-unesco-world-heritage-sites",
+  "name": "Uttar Pradesh के यूनेस्को विश्व धरोहर स्थल (Uttar Pradesh UNESCO World Heritage Sites)",
+  "title": "Uttar Pradesh के यूनेस्को विश्व धरोहर स्थल (Uttar Pradesh UNESCO World Heritage Sites)",
+  "description": "UNESCO World Heritage Sites located in Uttar Pradesh, India (3 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"Uttar Pradesh\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "image_url",
+      "label": "Image Url",
+      "type": "string"
+    },
+    {
+      "key": "wiki_url",
+      "label": "Wiki Url",
+      "type": "string"
+    },
+    {
+      "key": "asi_ticket_url",
+      "label": "Asi Ticket Url",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_slug",
+      "label": "Country Slug",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Taj Mahal",
+      "name_slug": "taj-mahal",
+      "state": "Uttar Pradesh",
+      "state_slug": "uttar-pradesh",
+      "latitude": 27.1751,
+      "longitude": 78.0421,
+      "description": "An ivory-white marble mausoleum on the right bank of the river Yamuna. Built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg/800px-Taj_Mahal%2C_Agra%2C_India_edit3.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "asi_ticket_url": "https://asi.payumoney.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 2,
+      "name": "Agra Fort",
+      "name_slug": "agra-fort",
+      "state": "Uttar Pradesh",
+      "state_slug": "uttar-pradesh",
+      "latitude": 27.1795,
+      "longitude": 78.0211,
+      "description": "A historical fort in Agra. It was the main residence of the emperors of the Mughal Dynasty until 1638.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Agra_Fort_-_Diwan-i-Am.jpg/800px-Agra_Fort_-_Diwan-i-Am.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Agra_Fort",
+      "asi_ticket_url": "https://asi.payumoney.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 12,
+      "name": "Fatehpur Sikri",
+      "name_slug": "fatehpur-sikri",
+      "state": "Uttar Pradesh",
+      "state_slug": "uttar-pradesh",
+      "latitude": 27.0945,
+      "longitude": 77.6661,
+      "description": "A city built by Mughal Emperor Akbar. Known for its Mughal architecture and historical significance.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Buland_Darwaza_gate%2C_Fatehpur_Sikri.jpg/800px-Buland_Darwaza_gate%2C_Fatehpur_Sikri.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Fatehpur_Sikri",
+      "asi_ticket_url": "https://asi.payumoney.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    }
+  ],
+  "meta": {
+    "title": "Uttar Pradesh के यूनेस्को विश्व धरोहर स्थल (Uttar Pradesh UNESCO World Heritage Sites) - मुफ़्त डाउनलोड",
+    "description": "UNESCO World Heritage Sites located in Uttar Pradesh, India (3 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"Uttar Pradesh\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11). शामिल हैं 3 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Uttar Pradesh के यूनेस्को विश्व धरोहर स्थल (Uttar Pradesh UNESCO World Heritage Sites) | ListBase",
+    "seo_description": "डाउनलोड Uttar Pradesh के यूनेस्को विश्व धरोहर स्थल (Uttar Pradesh UNESCO World Heritage Sites) — 3 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 3 रिकॉर्ड / 14 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "hi-kollam-bank",
+  "name": "Kollam में बैंक — SWIFT/BIC कोड",
+  "title": "Kollam में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Kollam, India. Subset of hi-bank. Source city string preserved verbatim as \"KOLLAM\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 101,
+      "bank": "ANDHRA BANK",
+      "city": "KOLLAM",
+      "branch": "",
+      "swift_code": "ANDBINBBQUI"
+    },
+    {
+      "id": 419,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM)",
+      "swift_code": "AXISINBB218"
+    },
+    {
+      "id": 684,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "KOLLAM",
+      "branch": "",
+      "swift_code": "UTIBINB1218"
+    },
+    {
+      "id": 993,
+      "bank": "BANK OF INDIA",
+      "city": "KOLLAM",
+      "branch": "(QUILON)",
+      "swift_code": "BKIDINBBQLN"
+    },
+    {
+      "id": 1290,
+      "bank": "CANARA BANK",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM CONVENT ROAD MAIN BRANCH)",
+      "swift_code": "CNRBINBBQDM"
+    },
+    {
+      "id": 1706,
+      "bank": "DHANLAXMI BANK LIMITED",
+      "city": "KOLLAM",
+      "branch": "(FOREX)",
+      "swift_code": "DLXBINBBQLN"
+    },
+    {
+      "id": 1776,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM)",
+      "swift_code": "FDRLINBBQLN"
+    },
+    {
+      "id": 1777,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOLLAM",
+      "branch": "(POLAYATHODE)",
+      "swift_code": "FDRLINBBQLB"
+    },
+    {
+      "id": 1940,
+      "bank": "IDBI BANK LIMITED",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM)",
+      "swift_code": "IBKLINBB737"
+    },
+    {
+      "id": 2047,
+      "bank": "INDIAN BANK",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM BRANCH)",
+      "swift_code": "IDIBINBBQLN"
+    },
+    {
+      "id": 2713,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM)",
+      "swift_code": "PUNBINBBKOL"
+    },
+    {
+      "id": 3312,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLLAM",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB149"
+    },
+    {
+      "id": 3313,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLLAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT10"
+    },
+    {
+      "id": 3314,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM BRANCH)",
+      "swift_code": "SBININBB575"
+    },
+    {
+      "id": 3781,
+      "bank": "SYNDICATE BANK",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM)",
+      "swift_code": "SYNBINBB477"
+    },
+    {
+      "id": 3919,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM BRANCH)",
+      "swift_code": "SOININ55074"
+    },
+    {
+      "id": 3997,
+      "bank": "UCO BANK",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM (QUILON) BRANCH)",
+      "swift_code": "UCBAINBB312"
+    },
+    {
+      "id": 4075,
+      "bank": "UNION BANK OF INDIA",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM BR.)",
+      "swift_code": "UBININBBKLM"
+    },
+    {
+      "id": 4221,
+      "bank": "VIJAYA BANK",
+      "city": "KOLLAM",
+      "branch": "(KOLLAM BRANCH)",
+      "swift_code": "VIJBINBBQLN"
+    }
+  ],
+  "meta": {
+    "title": "Kollam में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Kollam, India. Subset of hi-bank. Source city string preserved verbatim as \"KOLLAM\". शामिल हैं 19 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Kollam में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Kollam में बैंक — SWIFT/BIC कोड — 19 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 19 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

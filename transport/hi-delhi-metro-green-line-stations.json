@@ -1,0 +1,156 @@
+{
+  "id": "hi-delhi-metro-green-line-stations",
+  "name": "दिल्ली मेट्रो Green Line स्टेशन (Delhi Metro Green Line, 2013)",
+  "title": "दिल्ली मेट्रो Green Line स्टेशन (Delhi Metro Green Line, 2013)",
+  "description": "15 Delhi Metro stations on the Green Line as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "station_name",
+      "label": "Station Name",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "layout",
+      "label": "Layout",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "station_name": "Ashok Park Main",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.67153,
+      "longitude": 77.15527
+    },
+    {
+      "station_name": "Inderlok",
+      "lines": "Red Line, Green Line",
+      "layout": "Elevated",
+      "latitude": 28.67319,
+      "longitude": 77.16994
+    },
+    {
+      "station_name": "Kirti Nagar",
+      "lines": "Blue Line, Green Line",
+      "layout": "Elevated",
+      "latitude": 28.65575,
+      "longitude": 77.15057
+    },
+    {
+      "station_name": "Madipur",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.67734,
+      "longitude": 77.11965
+    },
+    {
+      "station_name": "Mundka",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.68321,
+      "longitude": 77.03133
+    },
+    {
+      "station_name": "Nangloi",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.68231,
+      "longitude": 77.06471
+    },
+    {
+      "station_name": "Nangloi Railway station",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.68208,
+      "longitude": 77.05596
+    },
+    {
+      "station_name": "Paschim Vihar East",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.6773,
+      "longitude": 77.11228
+    },
+    {
+      "station_name": "Paschim Vihar West",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.67855,
+      "longitude": 77.10227
+    },
+    {
+      "station_name": "Peera Garhi",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.67959,
+      "longitude": 77.09261
+    },
+    {
+      "station_name": "Punjabi Bagh East",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.67289,
+      "longitude": 77.14614
+    },
+    {
+      "station_name": "Rajdhani Park",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.68221,
+      "longitude": 77.04381
+    },
+    {
+      "station_name": "Shivaji Park",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.6749,
+      "longitude": 77.13056
+    },
+    {
+      "station_name": "Surajmal Stadium",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.6818,
+      "longitude": 77.07385
+    },
+    {
+      "station_name": "Udyog Nagar",
+      "lines": "Green Line",
+      "layout": "Elevated",
+      "latitude": 28.6809,
+      "longitude": 77.08077
+    }
+  ],
+  "meta": {
+    "title": "दिल्ली मेट्रो Green Line स्टेशन (Delhi Metro Green Line, 2013) - मुफ़्त डाउनलोड",
+    "description": "15 Delhi Metro stations on the Green Line as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source). शामिल हैं 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "दिल्ली मेट्रो Green Line स्टेशन (Delhi Metro Green Line, 2013) | ListBase",
+    "seo_description": "डाउनलोड दिल्ली मेट्रो Green Line स्टेशन (Delhi Metro Green Line, 2013) — 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 15 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

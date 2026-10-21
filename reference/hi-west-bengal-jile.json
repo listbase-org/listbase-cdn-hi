@@ -1,0 +1,352 @@
+{
+  "id": "hi-west-bengal-jile",
+  "name": "West Bengal के जिले (West Bengal Districts)",
+  "title": "West Bengal के जिले (West Bengal Districts)",
+  "description": "23 districts in West Bengal (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"West Bengal\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "AD",
+      "district": "Alipurduar",
+      "district_slug": "alipurduar",
+      "headquarters": "Alipurduar",
+      "population": 1501983,
+      "area_km2": 3136,
+      "density_per_km2": 479
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "BN",
+      "district": "Bankura",
+      "district_slug": "bankura",
+      "headquarters": "Bankura",
+      "population": 3596292,
+      "area_km2": 6882,
+      "density_per_km2": 523
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "BI",
+      "district": "Birbhum",
+      "district_slug": "birbhum",
+      "headquarters": "Suri",
+      "population": 3502387,
+      "area_km2": 4545,
+      "density_per_km2": 771
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "KB",
+      "district": "Cooch Behar",
+      "district_slug": "cooch-behar",
+      "headquarters": "Cooch Behar",
+      "population": 2822780,
+      "area_km2": 3387,
+      "density_per_km2": 833
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "DD",
+      "district": "Dakshin Dinajpur",
+      "district_slug": "dakshin-dinajpur",
+      "headquarters": "Balurghat",
+      "population": 1670931,
+      "area_km2": 2183,
+      "density_per_km2": 753
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "DA",
+      "district": "Darjeeling",
+      "district_slug": "darjeeling",
+      "headquarters": "Darjeeling",
+      "population": 1595181,
+      "area_km2": 2093,
+      "density_per_km2": 762
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "HG",
+      "district": "Hooghly",
+      "district_slug": "hooghly",
+      "headquarters": "Chinsurah",
+      "population": 5520389,
+      "area_km2": 3149,
+      "density_per_km2": 1753
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "HR",
+      "district": "Howrah",
+      "district_slug": "howrah",
+      "headquarters": "Howrah",
+      "population": 4841638,
+      "area_km2": 1467,
+      "density_per_km2": 3300
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "JA",
+      "district": "Jalpaiguri",
+      "district_slug": "jalpaiguri",
+      "headquarters": "Jalpaiguri",
+      "population": 3869675,
+      "area_km2": 6227,
+      "density_per_km2": 621
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "JH",
+      "district": "Jhargram",
+      "district_slug": "jhargram",
+      "headquarters": "Jhargram",
+      "population": 1136548,
+      "area_km2": 3038,
+      "density_per_km2": 374
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "KA",
+      "district": "Kalimpong",
+      "district_slug": "kalimpong",
+      "headquarters": "Kalimpong",
+      "population": 251642,
+      "area_km2": 1054,
+      "density_per_km2": 239
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "KO",
+      "district": "Kolkata",
+      "district_slug": "kolkata",
+      "headquarters": "Kolkata",
+      "population": 4486679,
+      "area_km2": 206,
+      "density_per_km2": 24252
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "MA",
+      "district": "Maldah",
+      "district_slug": "maldah",
+      "headquarters": "English Bazar",
+      "population": 3997970,
+      "area_km2": 3733,
+      "density_per_km2": 1071
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "MSD",
+      "district": "Murshidabad",
+      "district_slug": "murshidabad",
+      "headquarters": "Baharampur",
+      "population": 7102430,
+      "area_km2": 5324,
+      "density_per_km2": 1334
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "NA",
+      "district": "Nadia",
+      "district_slug": "nadia",
+      "headquarters": "Krishnanagar",
+      "population": 5168488,
+      "area_km2": 3927,
+      "density_per_km2": 1316
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "PN",
+      "district": "North 24 Parganas",
+      "district_slug": "north-24-parganas",
+      "headquarters": "Barasat",
+      "population": 10082852,
+      "area_km2": 4094,
+      "density_per_km2": 2463
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "BR",
+      "district": "Paschim Bardhaman",
+      "district_slug": "paschim-bardhaman",
+      "headquarters": "Asansol",
+      "population": 2882031,
+      "area_km2": 1603,
+      "density_per_km2": 1798
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "PM",
+      "district": "Paschim Medinipur",
+      "district_slug": "paschim-medinipur",
+      "headquarters": "Midnapore",
+      "population": 4776909,
+      "area_km2": 6308,
+      "density_per_km2": 757
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "BR",
+      "district": "Purba Bardhaman",
+      "district_slug": "purba-bardhaman",
+      "headquarters": "Bardhaman",
+      "population": 4835532,
+      "area_km2": 5433,
+      "density_per_km2": 890
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "PR",
+      "district": "Purba Medinipur",
+      "district_slug": "purba-medinipur",
+      "headquarters": "Tamluk",
+      "population": 5095875,
+      "area_km2": 4736,
+      "density_per_km2": 1076
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "PU",
+      "district": "Purulia",
+      "district_slug": "purulia",
+      "headquarters": "Purulia",
+      "population": 2927965,
+      "area_km2": 6259,
+      "density_per_km2": 468
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "PS",
+      "district": "South 24 Parganas",
+      "district_slug": "south-24-parganas",
+      "headquarters": "Alipore",
+      "population": 8161961,
+      "area_km2": 9960,
+      "density_per_km2": 819
+    },
+    {
+      "state": "West Bengal",
+      "state_code": "WB",
+      "state_slug": "west-bengal",
+      "district_code": "UD",
+      "district": "Uttar Dinajpur",
+      "district_slug": "uttar-dinajpur",
+      "headquarters": "Raiganj",
+      "population": 3000849,
+      "area_km2": 3180,
+      "density_per_km2": 956
+    }
+  ],
+  "meta": {
+    "title": "West Bengal के जिले (West Bengal Districts) - मुफ़्त डाउनलोड",
+    "description": "23 districts in West Bengal (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"West Bengal\". शामिल हैं 23 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "West Bengal के जिले (West Bengal Districts) | ListBase",
+    "seo_description": "डाउनलोड West Bengal के जिले (West Bengal Districts) — 23 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 23 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

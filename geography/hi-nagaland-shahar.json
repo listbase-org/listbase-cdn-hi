@@ -1,0 +1,1226 @@
+{
+  "id": "hi-nagaland-shahar",
+  "name": "नागालैंड के शहर (Nagaland Cities)",
+  "title": "नागालैंड के शहर (Nagaland Cities)",
+  "description": "नागालैंड राज्य के 116 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 116 cities and towns in Nagaland, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 116,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aichisagami",
+      "name_lower": "aichisagami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 94.583333
+    },
+    {
+      "name": "Akhegwo",
+      "name_lower": "akhegwo",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 94.683333
+    },
+    {
+      "name": "Aochagalimi",
+      "name_lower": "aochagalimi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 94.533333
+    },
+    {
+      "name": "Baimho",
+      "name_lower": "baimho",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 94.566667
+    },
+    {
+      "name": "Banfang",
+      "name_lower": "banfang",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.966667,
+      "longitude": 95.233333
+    },
+    {
+      "name": "Borjan",
+      "name_lower": "borjan",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.816667,
+      "longitude": 94.833333
+    },
+    {
+      "name": "Chakhabama",
+      "name_lower": "chakhabama",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.666667,
+      "longitude": 94.183333
+    },
+    {
+      "name": "Chantongia",
+      "name_lower": "chantongia",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.566667,
+      "longitude": 94.7
+    },
+    {
+      "name": "Chazubama",
+      "name_lower": "chazubama",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.716667,
+      "longitude": 94.316667
+    },
+    {
+      "name": "Chen",
+      "name_lower": "chen",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 95.1
+    },
+    {
+      "name": "Cheshorr",
+      "name_lower": "cheshorr",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.083333,
+      "longitude": 94.75
+    },
+    {
+      "name": "Cheswezumi",
+      "name_lower": "cheswezumi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 94.3
+    },
+    {
+      "name": "Chimakudi",
+      "name_lower": "chimakudi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.783333,
+      "longitude": 93.8
+    },
+    {
+      "name": "Chinglong",
+      "name_lower": "chinglong",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 94.916667
+    },
+    {
+      "name": "Chingtang",
+      "name_lower": "chingtang",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 94.916667
+    },
+    {
+      "name": "Chipoketami",
+      "name_lower": "chipoketami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.816667,
+      "longitude": 94.483333
+    },
+    {
+      "name": "Chizami",
+      "name_lower": "chizami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 94.4
+    },
+    {
+      "name": "Chongliyimsen",
+      "name_lower": "chongliyimsen",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 94.433333
+    },
+    {
+      "name": "Chozumi",
+      "name_lower": "chozumi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.716667,
+      "longitude": 94.316667
+    },
+    {
+      "name": "Chungtia",
+      "name_lower": "chungtia",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.4,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Ghaspani",
+      "name_lower": "ghaspani",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 93.9
+    },
+    {
+      "name": "Henima",
+      "name_lower": "henima",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 93.6
+    },
+    {
+      "name": "Ipsinyu",
+      "name_lower": "ipsinyu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Jotsama",
+      "name_lower": "jotsama",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 94.066667
+    },
+    {
+      "name": "Jotsema",
+      "name_lower": "jotsema",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 94.066667
+    },
+    {
+      "name": "Karami",
+      "name_lower": "karami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 94.8
+    },
+    {
+      "name": "Khensa",
+      "name_lower": "khensa",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.35,
+      "longitude": 94.5
+    },
+    {
+      "name": "Khezoabama",
+      "name_lower": "khezoabama",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 94.4
+    },
+    {
+      "name": "Khonoma",
+      "name_lower": "khonoma",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.65,
+      "longitude": 94.033333
+    },
+    {
+      "name": "Khuzami",
+      "name_lower": "khuzami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 94.483333
+    },
+    {
+      "name": "Khwunoma",
+      "name_lower": "khwunoma",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.65,
+      "longitude": 94.033333
+    },
+    {
+      "name": "Kila-phuyami",
+      "name_lower": "kila-phuyami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 94.416667
+    },
+    {
+      "name": "Kilami",
+      "name_lower": "kilami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 94.416667
+    },
+    {
+      "name": "Kitagha",
+      "name_lower": "kitagha",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Kiyekhu",
+      "name_lower": "kiyekhu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.916667,
+      "longitude": 94.516667
+    },
+    {
+      "name": "Kohima",
+      "name_lower": "kohima",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": 92117,
+      "latitude": 25.666667,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Kongan",
+      "name_lower": "kongan",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.75,
+      "longitude": 94.833333
+    },
+    {
+      "name": "Kongnyu",
+      "name_lower": "kongnyu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.75,
+      "longitude": 94.833333
+    },
+    {
+      "name": "Lakema",
+      "name_lower": "lakema",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Lakhuti",
+      "name_lower": "lakhuti",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 94.25
+    },
+    {
+      "name": "Laluri",
+      "name_lower": "laluri",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 94.8
+    },
+    {
+      "name": "Lapa",
+      "name_lower": "lapa",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.916667,
+      "longitude": 95.033333
+    },
+    {
+      "name": "Lapvomi",
+      "name_lower": "lapvomi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Laruri",
+      "name_lower": "laruri",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 94.8
+    },
+    {
+      "name": "Lazami",
+      "name_lower": "lazami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.866667,
+      "longitude": 94.25
+    },
+    {
+      "name": "Lephori",
+      "name_lower": "lephori",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Litim",
+      "name_lower": "litim",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 94.716667
+    },
+    {
+      "name": "Longching",
+      "name_lower": "longching",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.533333,
+      "longitude": 94.933333
+    },
+    {
+      "name": "Longsa",
+      "name_lower": "longsa",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 94.55
+    },
+    {
+      "name": "Lozema",
+      "name_lower": "lozema",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.866667,
+      "longitude": 94.25
+    },
+    {
+      "name": "Lu",
+      "name_lower": "lu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.966667,
+      "longitude": 95.233333
+    },
+    {
+      "name": "Lukami",
+      "name_lower": "lukami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 94.666667
+    },
+    {
+      "name": "Lungkam",
+      "name_lower": "lungkam",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.25,
+      "longitude": 94.416667
+    },
+    {
+      "name": "Lungsachung",
+      "name_lower": "lungsachung",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 94.266667
+    },
+    {
+      "name": "Melomi",
+      "name_lower": "melomi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Meluri",
+      "name_lower": "meluri",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Merangkong",
+      "name_lower": "merangkong",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.566667,
+      "longitude": 94.666667
+    },
+    {
+      "name": "Mkokchung",
+      "name_lower": "mkokchung",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.333333,
+      "longitude": 94.533333
+    },
+    {
+      "name": "Mokokchung",
+      "name_lower": "mokokchung",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": 34023,
+      "latitude": 26.333333,
+      "longitude": 94.533333
+    },
+    {
+      "name": "Mokokshung",
+      "name_lower": "mokokshung",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.333333,
+      "longitude": 94.533333
+    },
+    {
+      "name": "Molungyimsen",
+      "name_lower": "molungyimsen",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.65,
+      "longitude": 94.6
+    },
+    {
+      "name": "Mon",
+      "name_lower": "mon",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": 18743,
+      "latitude": 26.75,
+      "longitude": 95.1
+    },
+    {
+      "name": "Mongsenyimti",
+      "name_lower": "mongsenyimti",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 94.616667
+    },
+    {
+      "name": "Monseyimli",
+      "name_lower": "monseyimli",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 94.616667
+    },
+    {
+      "name": "Mozungjami",
+      "name_lower": "mozungjami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 94.833333
+    },
+    {
+      "name": "Naginimara",
+      "name_lower": "naginimara",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.816667,
+      "longitude": 94.833333
+    },
+    {
+      "name": "Naginimora",
+      "name_lower": "naginimora",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.816667,
+      "longitude": 94.833333
+    },
+    {
+      "name": "Namtolagaon",
+      "name_lower": "namtolagaon",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.966667,
+      "longitude": 95.05
+    },
+    {
+      "name": "Natsimi",
+      "name_lower": "natsimi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.916667,
+      "longitude": 94.3
+    },
+    {
+      "name": "Nerhema",
+      "name_lower": "nerhema",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.783333,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Nichuguard",
+      "name_lower": "nichuguard",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.816667,
+      "longitude": 93.783333
+    },
+    {
+      "name": "Nisampi",
+      "name_lower": "nisampi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 93.55
+    },
+    {
+      "name": "Nyasia",
+      "name_lower": "nyasia",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 95.2
+    },
+    {
+      "name": "Pangti",
+      "name_lower": "pangti",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.266667,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Panso",
+      "name_lower": "panso",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 94.933333
+    },
+    {
+      "name": "Pasompu",
+      "name_lower": "pasompu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 93.55
+    },
+    {
+      "name": "Pasompui",
+      "name_lower": "pasompui",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 93.55
+    },
+    {
+      "name": "Philimi",
+      "name_lower": "philimi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.066667,
+      "longitude": 94.416667
+    },
+    {
+      "name": "Piphima",
+      "name_lower": "piphima",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.75,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Priimi",
+      "name_lower": "priimi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 94.683333
+    },
+    {
+      "name": "Priphema",
+      "name_lower": "priphema",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.75,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Purorr",
+      "name_lower": "purorr",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Rusa",
+      "name_lower": "rusa",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 27.033333,
+      "longitude": 95.283333
+    },
+    {
+      "name": "Sakha",
+      "name_lower": "sakha",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.883333,
+      "longitude": 94.5
+    },
+    {
+      "name": "Sakhai",
+      "name_lower": "sakhai",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.883333,
+      "longitude": 94.5
+    },
+    {
+      "name": "Sakhalu",
+      "name_lower": "sakhalu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 94.5
+    },
+    {
+      "name": "Sampurre",
+      "name_lower": "sampurre",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 94.783333
+    },
+    {
+      "name": "Samuguting",
+      "name_lower": "samuguting",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.783333,
+      "longitude": 93.8
+    },
+    {
+      "name": "Sanis",
+      "name_lower": "sanis",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Sapekhati",
+      "name_lower": "sapekhati",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 27.083333,
+      "longitude": 95.183333
+    },
+    {
+      "name": "Sathazum",
+      "name_lower": "sathazum",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.75,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Sathazumi",
+      "name_lower": "sathazumi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.75,
+      "longitude": 94.366667
+    },
+    {
+      "name": "Sepekhati",
+      "name_lower": "sepekhati",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 27.083333,
+      "longitude": 95.183333
+    },
+    {
+      "name": "Shipungrr",
+      "name_lower": "shipungrr",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 94.8
+    },
+    {
+      "name": "Sirire",
+      "name_lower": "sirire",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.933333,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Tamkhung",
+      "name_lower": "tamkhung",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.4,
+      "longitude": 95.016667
+    },
+    {
+      "name": "Tamlu",
+      "name_lower": "tamlu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.683333,
+      "longitude": 94.75
+    },
+    {
+      "name": "Tasangki",
+      "name_lower": "tasangki",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 93.666667
+    },
+    {
+      "name": "Thachumi",
+      "name_lower": "thachumi",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 94.783333
+    },
+    {
+      "name": "Themoketsa",
+      "name_lower": "themoketsa",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.933333,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Thonokhyu",
+      "name_lower": "thonokhyu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 94.9
+    },
+    {
+      "name": "Tseminyu",
+      "name_lower": "tseminyu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.933333,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Tuensang",
+      "name_lower": "tuensang",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": 33750,
+      "latitude": 26.283333,
+      "longitude": 94.833333
+    },
+    {
+      "name": "Ungma",
+      "name_lower": "ungma",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 94.533333
+    },
+    {
+      "name": "Ungr",
+      "name_lower": "ungr",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.483333,
+      "longitude": 94.666667
+    },
+    {
+      "name": "Wakching",
+      "name_lower": "wakching",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.7,
+      "longitude": 94.9
+    },
+    {
+      "name": "Wangla",
+      "name_lower": "wangla",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.816667,
+      "longitude": 95.016667
+    },
+    {
+      "name": "Wokha",
+      "name_lower": "wokha",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": 54012,
+      "latitude": 26.1,
+      "longitude": 94.266667
+    },
+    {
+      "name": "Yangching",
+      "name_lower": "yangching",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 94.883333
+    },
+    {
+      "name": "Yekhum",
+      "name_lower": "yekhum",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 94.25
+    },
+    {
+      "name": "Yezami",
+      "name_lower": "yezami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 94.566667
+    },
+    {
+      "name": "Yimtsung-aenrr",
+      "name_lower": "yimtsung-aenrr",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 94.783333
+    },
+    {
+      "name": "Zhumkiri",
+      "name_lower": "zhumkiri",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.883333,
+      "longitude": 94.866667
+    },
+    {
+      "name": "Zu-nyu",
+      "name_lower": "zu-nyu",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 26.966667,
+      "longitude": 95.233333
+    },
+    {
+      "name": "Zulhami",
+      "name_lower": "zulhami",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 94.4
+    },
+    {
+      "name": "Zunheboto",
+      "name_lower": "zunheboto",
+      "state": "Nagaland",
+      "state_hi": "नागालैंड",
+      "region_code": "20",
+      "population": 29500,
+      "latitude": 25.966667,
+      "longitude": 94.516667
+    }
+  ],
+  "meta": {
+    "title": "नागालैंड के शहर (Nagaland Cities) - मुफ़्त डाउनलोड",
+    "description": "नागालैंड राज्य के 116 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 116 cities and towns in Nagaland, India, with population and geographic coordinates. शामिल हैं 116 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "नागालैंड के शहर (Nagaland Cities) | ListBase",
+    "seo_description": "डाउनलोड नागालैंड के शहर (Nagaland Cities) — 116 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 116 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

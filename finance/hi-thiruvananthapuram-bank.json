@@ -1,0 +1,268 @@
+{
+  "id": "hi-thiruvananthapuram-bank",
+  "name": "Thiruvananthapuram में बैंक — SWIFT/BIC कोड",
+  "title": "Thiruvananthapuram में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Thiruvananthapuram, India. Subset of hi-bank. Source city string preserved verbatim as \"THIRUVANANTHAPURAM\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 631,
+      "bank": "AXIS BANK LIMITED",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(TRIVANDRUM BRANCH)",
+      "swift_code": "AXISINBB113"
+    },
+    {
+      "id": 723,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(THIRUVANANTHAPURAM BRANCH)",
+      "swift_code": "UTIBINB1113"
+    },
+    {
+      "id": 1110,
+      "bank": "BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(TRIVANDRUM BRANCH)",
+      "swift_code": "BKIDINBBTRV"
+    },
+    {
+      "id": 1384,
+      "bank": "CANARA BANK",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(TRIVANDRUM CONTONMENT BRANCH)",
+      "swift_code": "CNRBINBBTDC"
+    },
+    {
+      "id": 1461,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(THIRUVANANTHPURAM)",
+      "swift_code": "CBININBBTHI"
+    },
+    {
+      "id": 1596,
+      "bank": "CORPORATION BANK",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(THIRUVANANTHAPURAM)",
+      "swift_code": "CORPINBB070"
+    },
+    {
+      "id": 1709,
+      "bank": "DHANLAXMI BANK LIMITED",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(FOREX)",
+      "swift_code": "DLXBINBBTVM"
+    },
+    {
+      "id": 1813,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(PALAYAM)",
+      "swift_code": "FDRLINBBTVM"
+    },
+    {
+      "id": 2084,
+      "bank": "INDIAN BANK",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(THIRUVANANTHAPURAM BRANCH)",
+      "swift_code": "IDIBINBBUPT"
+    },
+    {
+      "id": 2211,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(TRIVENDRUM, KERALA)",
+      "swift_code": "IOBAINBB099"
+    },
+    {
+      "id": 2261,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(KAZHAKUTTOM)",
+      "swift_code": "INDBINBBKAT"
+    },
+    {
+      "id": 2542,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(M.G. ROAD, OPPOSITE GOVT. AYURVEDA COLLEGE)",
+      "swift_code": "ORBCINBBTVK"
+    },
+    {
+      "id": 3640,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(BHUBANESWAR CIRCLE)",
+      "swift_code": "SBININBBT51"
+    },
+    {
+      "id": 3641,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(COMMERCIAL BRANCH, TRIVANDRUM, TC 25/641)",
+      "swift_code": "SBININBB564"
+    },
+    {
+      "id": 3642,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT06"
+    },
+    {
+      "id": 3643,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT07"
+    },
+    {
+      "id": 3644,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT08"
+    },
+    {
+      "id": 3645,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT09"
+    },
+    {
+      "id": 3646,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT40"
+    },
+    {
+      "id": 3647,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT60"
+    },
+    {
+      "id": 3648,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT64"
+    },
+    {
+      "id": 3649,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBT61"
+    },
+    {
+      "id": 3650,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(NRI BRANCH)",
+      "swift_code": "SBININBB131"
+    },
+    {
+      "id": 3651,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(TECHNOPARK BRANCH, TRIVANDRUM)",
+      "swift_code": "SBININBB565"
+    },
+    {
+      "id": 3652,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(THIRUVANANTHAPURAM)",
+      "swift_code": "SBININBB398"
+    },
+    {
+      "id": 3653,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(THUMBA)",
+      "swift_code": "SBININBB486"
+    },
+    {
+      "id": 3654,
+      "bank": "STATE BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(VALIAMALA)",
+      "swift_code": "SBININBB487"
+    },
+    {
+      "id": 3839,
+      "bank": "SYNDICATE BANK",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(THIRUVANANTHAPURAM BRANCH)",
+      "swift_code": "SYNBINBB024"
+    },
+    {
+      "id": 3934,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(THAMPANOOR CORPORATE BRANCH)",
+      "swift_code": "SOININ55721"
+    },
+    {
+      "id": 4173,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(TRIVANDRUM)",
+      "swift_code": "UTBIINBBTVD"
+    },
+    {
+      "id": 4247,
+      "bank": "VIJAYA BANK",
+      "city": "THIRUVANANTHAPURAM",
+      "branch": "(M.G. ROAD, TRIVANDRUM BRANCH)",
+      "swift_code": "VIJBINBBTMV"
+    }
+  ],
+  "meta": {
+    "title": "Thiruvananthapuram में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Thiruvananthapuram, India. Subset of hi-bank. Source city string preserved verbatim as \"THIRUVANANTHAPURAM\". शामिल हैं 31 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Thiruvananthapuram में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Thiruvananthapuram में बैंक — SWIFT/BIC कोड — 31 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 31 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

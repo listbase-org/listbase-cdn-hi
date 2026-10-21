@@ -1,0 +1,219 @@
+{
+  "id": "hi-jodhpur-bank",
+  "name": "Jodhpur में बैंक — SWIFT/BIC कोड",
+  "title": "Jodhpur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Jodhpur, India. Subset of hi-bank. Source city string preserved verbatim as \"JODHPUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 378,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JODHPUR",
+      "branch": "(JODHPUR BRANCH)",
+      "swift_code": "AXISINBB057"
+    },
+    {
+      "id": 379,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JODHPUR",
+      "branch": "(PAOTA, JODHPUR (RJ):822)",
+      "swift_code": "AXISINBB832"
+    },
+    {
+      "id": 678,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "JODHPUR",
+      "branch": "(JODHPUR BRANCH)",
+      "swift_code": "UTIBINB1057"
+    },
+    {
+      "id": 797,
+      "bank": "BANK OF BARODA",
+      "city": "JODHPUR",
+      "branch": "(BORANADA)",
+      "swift_code": "BARBINBBBOR"
+    },
+    {
+      "id": 798,
+      "bank": "BANK OF BARODA",
+      "city": "JODHPUR",
+      "branch": "(JODHPUR BRANCH)",
+      "swift_code": "BARBINBBJDP"
+    },
+    {
+      "id": 799,
+      "bank": "BANK OF BARODA",
+      "city": "JODHPUR",
+      "branch": "(MARUDHAR INDUSTRIAL AREA BR JODHPUR)",
+      "swift_code": "BARBINBBMIA"
+    },
+    {
+      "id": 979,
+      "bank": "BANK OF INDIA",
+      "city": "JODHPUR",
+      "branch": "(JODHPUR BRANCH)",
+      "swift_code": "BKIDINBBJOD"
+    },
+    {
+      "id": 1270,
+      "bank": "CANARA BANK",
+      "city": "JODHPUR",
+      "branch": "(JODHPUR JALORI GATE MAIN)",
+      "swift_code": "CNRBINBBJOD"
+    },
+    {
+      "id": 1538,
+      "bank": "CORPORATION BANK",
+      "city": "JODHPUR",
+      "branch": "(JODHPUR BASANI 2)",
+      "swift_code": "CORPINBBJ01"
+    },
+    {
+      "id": 1932,
+      "bank": "IDBI BANK LIMITED",
+      "city": "JODHPUR",
+      "branch": "(JODHPUR BRANCH)",
+      "swift_code": "IBKLINBB058"
+    },
+    {
+      "id": 2236,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "JODHPUR",
+      "branch": "(JODHPUR BRANCH)",
+      "swift_code": "INDBINBBJOS"
+    },
+    {
+      "id": 2493,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "JODHPUR",
+      "branch": "(B/O JODHPUR)",
+      "swift_code": "ORBCINBBJDH"
+    },
+    {
+      "id": 2690,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JODHPUR",
+      "branch": "(CHOPASANI ROAD BRANCH)",
+      "swift_code": "PUNBINBBJCA"
+    },
+    {
+      "id": 2691,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JODHPUR",
+      "branch": "(MGH JODHPUR)",
+      "swift_code": "PUNBINBBMGH"
+    },
+    {
+      "id": 2692,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JODHPUR",
+      "branch": "(PAL ROAD, JODHPUR)",
+      "swift_code": "PUNBINBBGOP"
+    },
+    {
+      "id": 2693,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JODHPUR",
+      "branch": "(RATNADA COLONY JODHPUR)",
+      "swift_code": "PUNBINBBJRC"
+    },
+    {
+      "id": 3237,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JODHPUR",
+      "branch": "(COMMERCIAL BRANCH, JODHPUR)",
+      "swift_code": "SBININBB376"
+    },
+    {
+      "id": 3238,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JODHPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ09"
+    },
+    {
+      "id": 3239,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JODHPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ11"
+    },
+    {
+      "id": 3240,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JODHPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ27"
+    },
+    {
+      "id": 3241,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JODHPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ59"
+    },
+    {
+      "id": 3242,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JODHPUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ64"
+    },
+    {
+      "id": 3986,
+      "bank": "UCO BANK",
+      "city": "JODHPUR",
+      "branch": "(NEHRU PARK BRANCH)",
+      "swift_code": "UCBAINBB012"
+    },
+    {
+      "id": 4065,
+      "bank": "UNION BANK OF INDIA",
+      "city": "JODHPUR",
+      "branch": "(JODHPUR BRANCH)",
+      "swift_code": "UBININBBJOD"
+    }
+  ],
+  "meta": {
+    "title": "Jodhpur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Jodhpur, India. Subset of hi-bank. Source city string preserved verbatim as \"JODHPUR\". शामिल हैं 24 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Jodhpur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Jodhpur में बैंक — SWIFT/BIC कोड — 24 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 24 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

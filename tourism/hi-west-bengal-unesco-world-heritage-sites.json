@@ -1,0 +1,128 @@
+{
+  "id": "hi-west-bengal-unesco-world-heritage-sites",
+  "name": "West Bengal के यूनेस्को विश्व धरोहर स्थल (West Bengal UNESCO World Heritage Sites)",
+  "title": "West Bengal के यूनेस्को विश्व धरोहर स्थल (West Bengal UNESCO World Heritage Sites)",
+  "description": "UNESCO World Heritage Sites located in West Bengal, India (2 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"West Bengal\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "image_url",
+      "label": "Image Url",
+      "type": "string"
+    },
+    {
+      "key": "wiki_url",
+      "label": "Wiki Url",
+      "type": "string"
+    },
+    {
+      "key": "asi_ticket_url",
+      "label": "Asi Ticket Url",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_slug",
+      "label": "Country Slug",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 17,
+      "name": "Sundarbans National Park",
+      "name_slug": "sundarbans-national-park",
+      "state": "West Bengal",
+      "state_slug": "west-bengal",
+      "latitude": 21.9497,
+      "longitude": 88.8833,
+      "description": "The largest mangrove forest in the world. Home to the Royal Bengal Tiger.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sundarban_Tiger.jpg/800px-Sundarban_Tiger.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Sundarbans_National_Park",
+      "asi_ticket_url": "https://sundarbans.wbsfda.org/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 42,
+      "name": "Santiniketan",
+      "name_slug": "santiniketan",
+      "state": "West Bengal",
+      "state_slug": "west-bengal",
+      "latitude": 23.6811,
+      "longitude": 87.6831,
+      "description": "Established by Rabindranath Tagore. An educational institution representing the synthesis of Indian and global traditions.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Santiniketan_Ashrama.jpg/800px-Santiniketan_Ashrama.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Santiniketan",
+      "asi_ticket_url": "https://www.visva-bharati.ac.in/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    }
+  ],
+  "meta": {
+    "title": "West Bengal के यूनेस्को विश्व धरोहर स्थल (West Bengal UNESCO World Heritage Sites) - मुफ़्त डाउनलोड",
+    "description": "UNESCO World Heritage Sites located in West Bengal, India (2 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"West Bengal\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11). शामिल हैं 2 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "West Bengal के यूनेस्को विश्व धरोहर स्थल (West Bengal UNESCO World Heritage Sites) | ListBase",
+    "seo_description": "डाउनलोड West Bengal के यूनेस्को विश्व धरोहर स्थल (West Bengal UNESCO World Heritage Sites) — 2 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 2 रिकॉर्ड / 14 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

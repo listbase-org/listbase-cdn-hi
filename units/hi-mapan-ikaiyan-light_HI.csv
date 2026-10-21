@@ -1,0 +1,5 @@
+﻿"Id","Unit Code","Shreni","Naam","Sanket","Sankeern","Paitarn"
+"1","light-candela","light","कैन्डेला","cd","cd","{0} कैन्डेला"
+"2","light-lumen","light","लुमेन","lm","lm","{0} लुमेन"
+"3","light-lux","light","लक्स","लक्स","लक्स","{0} लक्स"
+"4","light-solar-luminosity","light","सौर ज्योति","L☉","L☉","{0} सौर ज्योति"

@@ -1,0 +1,457 @@
+{
+  "id": "hi-mapan-ikaiyan-volume",
+  "name": "मापन इकाइयाँ — श्रेणी 'volume' (44)",
+  "title": "मापन इकाइयाँ — श्रेणी 'volume' (44)",
+  "description": "CLDR hi लोकेल की 'volume' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित।",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "shreni",
+      "label": "Shreni",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sanket",
+      "label": "Sanket",
+      "type": "string"
+    },
+    {
+      "key": "sankeern",
+      "label": "Sankeern",
+      "type": "string"
+    },
+    {
+      "key": "paitarn",
+      "label": "Paitarn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "shreni": "volume",
+      "naam": "एकड़ फ़ीट",
+      "sanket": "एकड़ फ़ीट",
+      "sankeern": "एकड़ फ़ीट",
+      "paitarn": "{0} एकड़ फ़ीट"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "shreni": "volume",
+      "naam": "बैरल",
+      "sanket": "बैरल",
+      "sankeern": "बैरल",
+      "paitarn": "{0} बैरल"
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "shreni": "volume",
+      "naam": "बुशल",
+      "sanket": "बुशल",
+      "sankeern": "बु",
+      "paitarn": "{0} बुशल"
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "shreni": "volume",
+      "naam": "सेंटीलीटर",
+      "sanket": "सें॰ली॰",
+      "sankeern": "सेंली",
+      "paitarn": "{0} सेंटीलीटर"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "shreni": "volume",
+      "naam": "घन सेंटीमीटर",
+      "sanket": "घन सें॰ मी॰",
+      "sankeern": "घन सेंमी",
+      "paitarn": "{0} घन सेंटीमीटर"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "shreni": "volume",
+      "naam": "घन फ़ीट",
+      "sanket": "घ॰ फ़ी॰",
+      "sankeern": "घन फ़ीट",
+      "paitarn": "{0} घन फ़ीट"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "shreni": "volume",
+      "naam": "घन इंच",
+      "sanket": "घन इंच",
+      "sankeern": "घन इंच",
+      "paitarn": "{0} घन इंच"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "shreni": "volume",
+      "naam": "घन किलोमीटर",
+      "sanket": "घन कि॰मी॰",
+      "sankeern": "घन कि॰मी॰",
+      "paitarn": "{0} घन किलोमीटर"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "shreni": "volume",
+      "naam": "घन मीटर",
+      "sanket": "घन मी॰",
+      "sankeern": "घन मी",
+      "paitarn": "{0} घन मीटर"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "shreni": "volume",
+      "naam": "घन मील",
+      "sanket": "घन मील",
+      "sankeern": "घन मील",
+      "paitarn": "{0} घन मील"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "shreni": "volume",
+      "naam": "घन यार्ड",
+      "sanket": "घन या॰",
+      "sankeern": "घन या॰",
+      "paitarn": "{0} घन यार्ड"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "shreni": "volume",
+      "naam": "कप",
+      "sanket": "कप",
+      "sankeern": "कप",
+      "paitarn": "{0} कप"
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "shreni": "volume",
+      "naam": "cup Imp.",
+      "sanket": "cup Imp.",
+      "sankeern": "cup Imp.",
+      "paitarn": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "shreni": "volume",
+      "naam": "cup [JP]",
+      "sanket": "cup [JP]",
+      "sankeern": "cup [JP]",
+      "paitarn": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "shreni": "volume",
+      "naam": "मीट्रिक कप",
+      "sanket": "मीट्रिक कप",
+      "sankeern": "मीट्रिक कप",
+      "paitarn": "{0} मीट्रिक कप"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "shreni": "volume",
+      "naam": "डेसीलीटर",
+      "sanket": "डे॰ली॰",
+      "sankeern": "डेली",
+      "paitarn": "{0} डेसीलीटर"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "shreni": "volume",
+      "naam": "डेज़र्ट स्पून",
+      "sanket": "डे. स्पून",
+      "sankeern": "dsp",
+      "paitarn": "{0} डेज़र्ट स्पून"
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "shreni": "volume",
+      "naam": "इम्पीरियल डेज़र्टस्पून",
+      "sanket": "इम्पी. डेज़र्टस्पून",
+      "sankeern": "dsp Imp",
+      "paitarn": "{0} इम्पीरियल डेज़र्टस्पून"
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "shreni": "volume",
+      "naam": "ड्रम फ्लूइड",
+      "sanket": "ड्रम फ्लूइड",
+      "sankeern": "fl.dr.",
+      "paitarn": "{0} ड्रम"
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "shreni": "volume",
+      "naam": "बूंद",
+      "sanket": "बूंद",
+      "sankeern": "बूंद",
+      "paitarn": "{0} बूंद"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "shreni": "volume",
+      "naam": "फ़्लूइड आउंस",
+      "sanket": "फ़्लूइड आउंस",
+      "sankeern": "fl oz",
+      "paitarn": "{0} फ़्लूइड आउंस"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "shreni": "volume",
+      "naam": "इम्पी॰ फ़्लुइड आउंस",
+      "sanket": "Imp. fl oz",
+      "sankeern": "Imp fl oz",
+      "paitarn": "{0} इम्पी॰ फ़्लुइड आउंस"
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "shreni": "volume",
+      "naam": "मेट्रिक फ़्लूड आउंस",
+      "sanket": "मेट्रिक फ़्लूड आउंस",
+      "sankeern": "मेट्रिक फ़्लूड आउंस",
+      "paitarn": "{0} मेट्रिक फ़्लूड आउंस"
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "shreni": "volume",
+      "naam": "गैलन",
+      "sanket": "गैलन",
+      "sankeern": "गै",
+      "paitarn": "{0} गैलन"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "shreni": "volume",
+      "naam": "इम्पीरियल गैलन",
+      "sanket": "इम्पी॰ गैलन",
+      "sankeern": "इम्पी गैलन",
+      "paitarn": "{0} इम्पीरियल गैलन"
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "shreni": "volume",
+      "naam": "हेक्टोलीटर",
+      "sanket": "है॰ली॰",
+      "sankeern": "है॰ली॰",
+      "paitarn": "{0} हेक्टोलीटर"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "shreni": "volume",
+      "naam": "जिगर",
+      "sanket": "जिगर",
+      "sankeern": "जिगर",
+      "paitarn": "{0} जिगर"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "shreni": "volume",
+      "naam": "koku [JP]",
+      "sanket": "koku [JP]",
+      "sankeern": "koku [JP]",
+      "paitarn": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "shreni": "volume",
+      "naam": "kosaji [JP]",
+      "sanket": "kosaji [JP]",
+      "sankeern": "kosaji [JP]",
+      "paitarn": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "shreni": "volume",
+      "naam": "लीटर",
+      "sanket": "लीटर",
+      "sankeern": "लीटर",
+      "paitarn": "{0} लीटर"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "shreni": "volume",
+      "naam": "मेगालीटर",
+      "sanket": "मे॰ ली॰",
+      "sankeern": "मेली",
+      "paitarn": "{0} मेगालीटर"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "shreni": "volume",
+      "naam": "मिलीलीटर",
+      "sanket": "मि॰ ली॰",
+      "sankeern": "मिली",
+      "paitarn": "{0} मिलीलीटर"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "shreni": "volume",
+      "naam": "osaji [JP]",
+      "sanket": "osaji [JP]",
+      "sankeern": "osaji [JP]",
+      "paitarn": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "shreni": "volume",
+      "naam": "चुटकी",
+      "sanket": "चुटकी",
+      "sankeern": "चुटकी",
+      "paitarn": "{0} चुटकी"
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "shreni": "volume",
+      "naam": "पाइंट",
+      "sanket": "पाइंट",
+      "sankeern": "पा",
+      "paitarn": "{0} पाइंट"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "shreni": "volume",
+      "naam": "pint Imp.",
+      "sanket": "pint Imp.",
+      "sankeern": "pint Imp.",
+      "paitarn": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "shreni": "volume",
+      "naam": "मीट्रिक पिंट",
+      "sanket": "मीट्रिक पिंट",
+      "sankeern": "मीट्रिक पिंट",
+      "paitarn": "{0} मीट्रिक पिंट"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "shreni": "volume",
+      "naam": "क्वार्ट",
+      "sanket": "क्वार्ट",
+      "sankeern": "क्वार्ट",
+      "paitarn": "{0} क्वार्ट"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "shreni": "volume",
+      "naam": "क्वार्ट इम्पीरियल",
+      "sanket": "क्वार्ट इम्पी.",
+      "sankeern": "qt Imp",
+      "paitarn": "{0} क्वार्ट इम्पीरियल"
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "shreni": "volume",
+      "naam": "sai [JP]",
+      "sanket": "sai [JP]",
+      "sankeern": "sai [JP]",
+      "paitarn": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "shreni": "volume",
+      "naam": "shaku [vol, JP]",
+      "sanket": "shaku [vol, JP]",
+      "sankeern": "shaku [vol, JP]",
+      "paitarn": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "shreni": "volume",
+      "naam": "टेबलस्पून",
+      "sanket": "टे॰ स्पून",
+      "sankeern": "tbsp",
+      "paitarn": "{0} टेबलस्पून"
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "shreni": "volume",
+      "naam": "टी स्पून",
+      "sanket": "टी स्पून",
+      "sankeern": "tsp",
+      "paitarn": "{0} टी स्पून"
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "shreni": "volume",
+      "naam": "to [JP]",
+      "sanket": "to [JP]",
+      "sankeern": "to [JP]",
+      "paitarn": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "मापन इकाइयाँ — श्रेणी 'volume' (44) - मुफ़्त डाउनलोड",
+    "description": "CLDR hi लोकेल की 'volume' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित। शामिल हैं 44 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मापन इकाइयाँ — श्रेणी 'volume' (44) | ListBase",
+    "seo_description": "डाउनलोड मापन इकाइयाँ — श्रेणी 'volume' (44) — 44 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 44 रिकॉर्ड / 7 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

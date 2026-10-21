@@ -1,0 +1,170 @@
+{
+  "id": "hi-tuticorin-bank",
+  "name": "Tuticorin में बैंक — SWIFT/BIC कोड",
+  "title": "Tuticorin में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Tuticorin, India. Subset of hi-bank. Source city string preserved verbatim as \"TUTICORIN\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 636,
+      "bank": "AXIS BANK LIMITED",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN BRANCH)",
+      "swift_code": "AXISINBB105"
+    },
+    {
+      "id": 726,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN BRANCH)",
+      "swift_code": "UTIBINB1105"
+    },
+    {
+      "id": 887,
+      "bank": "BANK OF BARODA",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN BRANCH)",
+      "swift_code": "BARBINBBTUT"
+    },
+    {
+      "id": 1112,
+      "bank": "BANK OF INDIA",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN)",
+      "swift_code": "BKIDINBBTUT"
+    },
+    {
+      "id": 1159,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN)",
+      "swift_code": "MAHBINBBTTN"
+    },
+    {
+      "id": 1389,
+      "bank": "CANARA BANK",
+      "city": "TUTICORIN",
+      "branch": "(TUTICURIN BEACH ROAD MAIN BRANCH)",
+      "swift_code": "CNRBINBBTUT"
+    },
+    {
+      "id": 1598,
+      "bank": "CORPORATION BANK",
+      "city": "TUTICORIN",
+      "branch": "(THOOTHUKODI)",
+      "swift_code": "CORPINBB716"
+    },
+    {
+      "id": 1816,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN BRANCH)",
+      "swift_code": "FDRLINBBTTN"
+    },
+    {
+      "id": 1978,
+      "bank": "IDBI BANK LIMITED",
+      "city": "TUTICORIN",
+      "branch": "(WGC ROAD)",
+      "swift_code": "IBKLINBB371"
+    },
+    {
+      "id": 2088,
+      "bank": "INDIAN BANK",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN BRANCH)",
+      "swift_code": "IDIBINBBTUT"
+    },
+    {
+      "id": 2215,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN, TAMILNADU)",
+      "swift_code": "IOBAINBB100"
+    },
+    {
+      "id": 3676,
+      "bank": "STATE BANK OF INDIA",
+      "city": "TUTICORIN",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT27"
+    },
+    {
+      "id": 3677,
+      "bank": "STATE BANK OF INDIA",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN)",
+      "swift_code": "SBININBB469"
+    },
+    {
+      "id": 3841,
+      "bank": "SYNDICATE BANK",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN BRANCH)",
+      "swift_code": "SYNBINBB029"
+    },
+    {
+      "id": 3852,
+      "bank": "TAMILNAD MERCANTILE BANK LIMITED",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN BRANCH)",
+      "swift_code": "TMBLINBBTUT"
+    },
+    {
+      "id": 3939,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN)",
+      "swift_code": "SOININ55090"
+    },
+    {
+      "id": 4249,
+      "bank": "VIJAYA BANK",
+      "city": "TUTICORIN",
+      "branch": "(TUTICORIN BRANCH)",
+      "swift_code": "VIJBINBBTUT"
+    }
+  ],
+  "meta": {
+    "title": "Tuticorin में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Tuticorin, India. Subset of hi-bank. Source city string preserved verbatim as \"TUTICORIN\". शामिल हैं 17 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Tuticorin में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Tuticorin में बैंक — SWIFT/BIC कोड — 17 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 17 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

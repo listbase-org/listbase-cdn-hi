@@ -1,0 +1,472 @@
+{
+  "id": "hi-chhattisgarh-jile",
+  "name": "Chhattisgarh के जिले (Chhattisgarh Districts)",
+  "title": "Chhattisgarh के जिले (Chhattisgarh Districts)",
+  "description": "33 districts in Chhattisgarh (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Chhattisgarh\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Balod",
+      "district_slug": "balod",
+      "headquarters": "Balod",
+      "population": 826165,
+      "area_km2": 3527,
+      "density_per_km2": 234
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Baloda Bazar",
+      "district_slug": "baloda-bazar",
+      "headquarters": "Baloda Bazar",
+      "population": 1305343,
+      "area_km2": 4748,
+      "density_per_km2": 275
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Balrampur-Ramanujganj",
+      "district_slug": "balrampur-ramanujganj",
+      "headquarters": "Balrampur",
+      "population": 730491,
+      "area_km2": 3806,
+      "density_per_km2": 190
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "BA",
+      "district": "Bastar",
+      "district_slug": "bastar",
+      "headquarters": "Jagdalpur",
+      "population": 834873,
+      "area_km2": 4030,
+      "density_per_km2": 210
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Bemetara",
+      "district_slug": "bemetara",
+      "headquarters": "Bemetara",
+      "population": 795759,
+      "area_km2": 2855,
+      "density_per_km2": 270
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "BJ",
+      "district": "Bijapur",
+      "district_slug": "bijapur",
+      "headquarters": "Bijapur",
+      "population": 229832,
+      "area_km2": 6562,
+      "density_per_km2": 35
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "BI",
+      "district": "Bilaspur",
+      "district_slug": "bilaspur",
+      "headquarters": "Bilaspur",
+      "population": 1961922,
+      "area_km2": 3508,
+      "density_per_km2": 460
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "DA",
+      "district": "Dantewada",
+      "district_slug": "dantewada",
+      "headquarters": "Dantewada",
+      "population": 533638,
+      "area_km2": 3411,
+      "density_per_km2": 59
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "DH",
+      "district": "Dhamtari",
+      "district_slug": "dhamtari",
+      "headquarters": "Dhamtari",
+      "population": 799199,
+      "area_km2": 2029,
+      "density_per_km2": 394
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "DU",
+      "district": "Durg",
+      "district_slug": "durg",
+      "headquarters": "Durg",
+      "population": 1721726,
+      "area_km2": 2238,
+      "density_per_km2": 770
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Gariaband",
+      "district_slug": "gariaband",
+      "headquarters": "Gariaband",
+      "population": 597653,
+      "area_km2": 5823,
+      "density_per_km2": 103
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Gaurela-Pendra-Marwahi",
+      "district_slug": "gaurela-pendra-marwahi",
+      "headquarters": "Gaurela",
+      "population": 336420,
+      "area_km2": 2307,
+      "density_per_km2": 150
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "JC",
+      "district": "Janjgir-Champa",
+      "district_slug": "janjgir-champa",
+      "headquarters": "Janjgir",
+      "population": 1620632,
+      "area_km2": 3848,
+      "density_per_km2": 421
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "JA",
+      "district": "Jashpur",
+      "district_slug": "jashpur",
+      "headquarters": "Jashpur Nagar",
+      "population": 852043,
+      "area_km2": 5825,
+      "density_per_km2": 146
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "KW",
+      "district": "Kabirdham",
+      "district_slug": "kabirdham",
+      "headquarters": "Kawardha",
+      "population": 584667,
+      "area_km2": 4237,
+      "density_per_km2": 195
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "KK",
+      "district": "Kanker",
+      "district_slug": "kanker",
+      "headquarters": "Kanker",
+      "population": 748593,
+      "area_km2": 6513,
+      "density_per_km2": 115
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Khairagarh-Chhuikhadan-Gandai",
+      "district_slug": "khairagarh-chhuikhadan-gandai",
+      "headquarters": "Khairagarh",
+      "population": 368444,
+      "area_km2": 0,
+      "density_per_km2": 0
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Kondagaon",
+      "district_slug": "kondagaon",
+      "headquarters": "Kondagaon",
+      "population": 578326,
+      "area_km2": 7768,
+      "density_per_km2": 74
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "KB",
+      "district": "Korba",
+      "district_slug": "korba",
+      "headquarters": "Korba",
+      "population": 1206563,
+      "area_km2": 6615,
+      "density_per_km2": 183
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "KJ",
+      "district": "Korea",
+      "district_slug": "korea",
+      "headquarters": "Baikunthpur",
+      "population": 659039,
+      "area_km2": 6578,
+      "density_per_km2": 100
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "MA",
+      "district": "Mahasamund",
+      "district_slug": "mahasamund",
+      "headquarters": "Mahasamund",
+      "population": 1032275,
+      "area_km2": 4779,
+      "density_per_km2": 216
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "MG",
+      "district": "Manendragarh-Chirmiri-Bharatpur",
+      "district_slug": "manendragarh-chirmiri-bharatpur",
+      "headquarters": "Manendragarh",
+      "population": 422248,
+      "area_km2": 1726,
+      "density_per_km2": 0
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "MM",
+      "district": "Mohla-Manpur-Ambagarh Chowki",
+      "district_slug": "mohla-manpur-ambagarh-chowki",
+      "headquarters": "Mohla",
+      "population": 283947,
+      "area_km2": 0,
+      "density_per_km2": 0
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Mungeli",
+      "district_slug": "mungeli",
+      "headquarters": "Mungeli",
+      "population": 701707,
+      "area_km2": 2750,
+      "density_per_km2": 255
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "NR",
+      "district": "Narayanpur",
+      "district_slug": "narayanpur",
+      "headquarters": "Narayanpur",
+      "population": 140206,
+      "area_km2": 6640,
+      "density_per_km2": 20
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "RG",
+      "district": "Raigarh",
+      "district_slug": "raigarh",
+      "headquarters": "Raigarh",
+      "population": 1493627,
+      "area_km2": 7068,
+      "density_per_km2": 211
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "RP",
+      "district": "Raipur",
+      "district_slug": "raipur",
+      "headquarters": "Raipur",
+      "population": 2160876,
+      "area_km2": 2892,
+      "density_per_km2": 750
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "RN",
+      "district": "Rajnandgaon",
+      "district_slug": "rajnandgaon",
+      "headquarters": "Rajnandgaon",
+      "population": 1537520,
+      "area_km2": 8062,
+      "density_per_km2": 191
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "SB",
+      "district": "Sarangarh-Bilaigarh",
+      "district_slug": "sarangarh-bilaigarh",
+      "headquarters": "Sarangarh",
+      "population": 607434,
+      "area_km2": 0,
+      "density_per_km2": 0
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "ST",
+      "district": "Shakti",
+      "district_slug": "shakti",
+      "headquarters": "Sakti",
+      "population": 653036,
+      "area_km2": 0,
+      "density_per_km2": 0
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "SK",
+      "district": "Sukma",
+      "district_slug": "sukma",
+      "headquarters": "Sukma",
+      "population": 250159,
+      "area_km2": 5897,
+      "density_per_km2": 42
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "–",
+      "district": "Surajpur",
+      "district_slug": "surajpur",
+      "headquarters": "Surajpur",
+      "population": 789043,
+      "area_km2": 2787,
+      "density_per_km2": 280
+    },
+    {
+      "state": "Chhattisgarh",
+      "state_code": "CG",
+      "state_slug": "chhattisgarh",
+      "district_code": "SJ",
+      "district": "Surguja",
+      "district_slug": "surguja",
+      "headquarters": "Ambikapur",
+      "population": 839661,
+      "area_km2": 3265,
+      "density_per_km2": 150
+    }
+  ],
+  "meta": {
+    "title": "Chhattisgarh के जिले (Chhattisgarh Districts) - मुफ़्त डाउनलोड",
+    "description": "33 districts in Chhattisgarh (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Chhattisgarh\". शामिल हैं 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Chhattisgarh के जिले (Chhattisgarh Districts) | ListBase",
+    "seo_description": "डाउनलोड Chhattisgarh के जिले (Chhattisgarh Districts) — 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 33 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

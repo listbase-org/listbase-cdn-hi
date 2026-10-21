@@ -1,0 +1,3806 @@
+{
+  "id": "hi-goa-shahar",
+  "name": "गोवा के शहर (Goa Cities)",
+  "title": "गोवा के शहर (Goa Cities)",
+  "description": "गोवा राज्य के 374 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 374 cities and towns in Goa, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 374,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Acaro",
+      "name_lower": "acaro",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Adsulim",
+      "name_lower": "adsulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.25,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Advolpale",
+      "name_lower": "advolpale",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.633333,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Advota",
+      "name_lower": "advota",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.016667,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Agacaim",
+      "name_lower": "agacaim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.416667,
+      "longitude": 73.9
+    },
+    {
+      "name": "Agarvado",
+      "name_lower": "agarvado",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.633333,
+      "longitude": 73.75
+    },
+    {
+      "name": "Aglot",
+      "name_lower": "aglot",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.416667,
+      "longitude": 74.15
+    },
+    {
+      "name": "Agoada",
+      "name_lower": "agoada",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Agonda",
+      "name_lower": "agonda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.05,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Aguada",
+      "name_lower": "aguada",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Aguada Fort",
+      "name_lower": "aguada fort",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Agwad",
+      "name_lower": "agwad",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Ajgaon",
+      "name_lower": "ajgaon",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.766667,
+      "longitude": 73.7
+    },
+    {
+      "name": "Aldona",
+      "name_lower": "aldona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 6606,
+      "latitude": 15.583333,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Alorna",
+      "name_lower": "alorna",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.7,
+      "longitude": 73.9
+    },
+    {
+      "name": "Ambarim",
+      "name_lower": "ambarim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 73.85
+    },
+    {
+      "name": "Ambaulim",
+      "name_lower": "ambaulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.2,
+      "longitude": 74.05
+    },
+    {
+      "name": "Ambeachi-Gavol",
+      "name_lower": "ambeachi-gavol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.633333,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Ambedem",
+      "name_lower": "ambedem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Ambelim",
+      "name_lower": "ambelim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Ambora",
+      "name_lower": "ambora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.316667,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Anjuna",
+      "name_lower": "anjuna",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 73.733333
+    },
+    {
+      "name": "Anjunem",
+      "name_lower": "anjunem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.616667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Anjuriem",
+      "name_lower": "anjuriem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.616667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Arambol",
+      "name_lower": "arambol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.7,
+      "longitude": 73.7
+    },
+    {
+      "name": "Aroe",
+      "name_lower": "aroe",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.8,
+      "longitude": 73.8
+    },
+    {
+      "name": "Aros",
+      "name_lower": "aros",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.8,
+      "longitude": 73.8
+    },
+    {
+      "name": "Arpora",
+      "name_lower": "arpora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.566667,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Assagao",
+      "name_lower": "assagao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.75
+    },
+    {
+      "name": "Assolda",
+      "name_lower": "assolda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.083333,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Assolna",
+      "name_lower": "assolna",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.183333,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Assonora",
+      "name_lower": "assonora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Astagal",
+      "name_lower": "astagal",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 14.95,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Azossim",
+      "name_lower": "azossim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Azzosim",
+      "name_lower": "azzosim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Bali",
+      "name_lower": "bali",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Bally",
+      "name_lower": "bally",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Bambolim",
+      "name_lower": "bambolim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5441,
+      "latitude": 15.45,
+      "longitude": 73.85
+    },
+    {
+      "name": "Banastarim",
+      "name_lower": "banastarim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.483333,
+      "longitude": 73.95
+    },
+    {
+      "name": "Bandavado",
+      "name_lower": "bandavado",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.083333,
+      "longitude": 74.233333
+    },
+    {
+      "name": "Bandoli",
+      "name_lower": "bandoli",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.283333,
+      "longitude": 74.116667
+    },
+    {
+      "name": "Bandora",
+      "name_lower": "bandora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 12819,
+      "latitude": 15.4,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Barcem",
+      "name_lower": "barcem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.066667,
+      "longitude": 74.05
+    },
+    {
+      "name": "Bastora",
+      "name_lower": "bastora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Batim",
+      "name_lower": "batim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Benaulim",
+      "name_lower": "benaulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 10225,
+      "latitude": 15.25,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Betalbatim",
+      "name_lower": "betalbatim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.3,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Betgui",
+      "name_lower": "betgui",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Betim",
+      "name_lower": "betim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Betora",
+      "name_lower": "betora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.366667,
+      "longitude": 74.05
+    },
+    {
+      "name": "Betqui",
+      "name_lower": "betqui",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Bicholim",
+      "name_lower": "bicholim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 15317,
+      "latitude": 15.6,
+      "longitude": 73.95
+    },
+    {
+      "name": "Bicholim Town",
+      "name_lower": "bicholim town",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.95
+    },
+    {
+      "name": "Birondem",
+      "name_lower": "birondem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.483333,
+      "longitude": 74.15
+    },
+    {
+      "name": "Bogmolo",
+      "name_lower": "bogmolo",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.383333,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Boma",
+      "name_lower": "boma",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.3,
+      "longitude": 74.266667
+    },
+    {
+      "name": "Borim",
+      "name_lower": "borim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.366667,
+      "longitude": 74
+    },
+    {
+      "name": "Buimpal",
+      "name_lower": "buimpal",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Calangute",
+      "name_lower": "calangute",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 73.75
+    },
+    {
+      "name": "Calata",
+      "name_lower": "calata",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.3,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Calate",
+      "name_lower": "calate",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.3,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Camocllu",
+      "name_lower": "camocllu",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.633333,
+      "longitude": 73.8
+    },
+    {
+      "name": "Camorlim",
+      "name_lower": "camorlim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.633333,
+      "longitude": 73.8
+    },
+    {
+      "name": "Camprol",
+      "name_lower": "camprol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.25,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Cana",
+      "name_lower": "cana",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.25,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Canacona",
+      "name_lower": "canacona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.016667,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Canaguinim",
+      "name_lower": "canaguinim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.116667,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Cancarvornem",
+      "name_lower": "cancarvornem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.716667,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Candeapar",
+      "name_lower": "candeapar",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Candiapar",
+      "name_lower": "candiapar",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Candolim",
+      "name_lower": "candolim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 9198,
+      "latitude": 15.516667,
+      "longitude": 73.75
+    },
+    {
+      "name": "Cansarvorném",
+      "name_lower": "cansarvornem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.716667,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Canvorem",
+      "name_lower": "canvorem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.133333,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Capao",
+      "name_lower": "capao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Carambolim",
+      "name_lower": "carambolim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 73.9
+    },
+    {
+      "name": "Caranzalem",
+      "name_lower": "caranzalem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 73.8
+    },
+    {
+      "name": "Caranzol",
+      "name_lower": "caranzol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.333333,
+      "longitude": 74.266667
+    },
+    {
+      "name": "Carapur",
+      "name_lower": "carapur",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5576,
+      "latitude": 15.55,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Carmona",
+      "name_lower": "carmona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.183333,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Cassabé de Bicholim",
+      "name_lower": "cassabe de bicholim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.95
+    },
+    {
+      "name": "Cassabé de Pondá",
+      "name_lower": "cassabe de ponda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Cassabé-de-Pernem",
+      "name_lower": "cassabe-de-pernem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.716667,
+      "longitude": 73.8
+    },
+    {
+      "name": "Caveloesim",
+      "name_lower": "caveloesim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Cavelossim",
+      "name_lower": "cavelossim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Chandel",
+      "name_lower": "chandel",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.733333,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Chander",
+      "name_lower": "chander",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.283333,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Chandor",
+      "name_lower": "chandor",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.283333,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Chandorgo",
+      "name_lower": "chandorgo",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.283333,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Chapora",
+      "name_lower": "chapora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.733333
+    },
+    {
+      "name": "Chapora Fort",
+      "name_lower": "chapora fort",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.733333
+    },
+    {
+      "name": "Chauri Town",
+      "name_lower": "chauri town",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.016667,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Chicalim",
+      "name_lower": "chicalim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 7787,
+      "latitude": 15.4,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Chicolna",
+      "name_lower": "chicolna",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.366667,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Chinchinim",
+      "name_lower": "chinchinim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 7356,
+      "latitude": 15.2,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Chiquilim",
+      "name_lower": "chiquilim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Chopdem",
+      "name_lower": "chopdem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.633333,
+      "longitude": 73.733333
+    },
+    {
+      "name": "Codal",
+      "name_lower": "codal",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.083333,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Codar",
+      "name_lower": "codar",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 74.05
+    },
+    {
+      "name": "Codqui",
+      "name_lower": "codqui",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Cola",
+      "name_lower": "cola",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.066667,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Colangute",
+      "name_lower": "colangute",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 73.75
+    },
+    {
+      "name": "Collam",
+      "name_lower": "collam",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 74.25
+    },
+    {
+      "name": "Collem",
+      "name_lower": "collem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 74.25
+    },
+    {
+      "name": "Colomba",
+      "name_lower": "colomba",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.15,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Colombi",
+      "name_lower": "colombi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Colovale",
+      "name_lower": "colovale",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.616667,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Colva",
+      "name_lower": "colva",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.266667,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Colvale",
+      "name_lower": "colvale",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5723,
+      "latitude": 15.616667,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Colém",
+      "name_lower": "colem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 74.25
+    },
+    {
+      "name": "Comproi",
+      "name_lower": "comproi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.25,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Comprol",
+      "name_lower": "comprol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.25,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Concem",
+      "name_lower": "concem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Conquirem",
+      "name_lower": "conquirem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 74.116667
+    },
+    {
+      "name": "Consua",
+      "name_lower": "consua",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.366667,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Conxém",
+      "name_lower": "conxem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Corchirém",
+      "name_lower": "corchirem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 74
+    },
+    {
+      "name": "Corgao",
+      "name_lower": "corgao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.716667,
+      "longitude": 73.733333
+    },
+    {
+      "name": "Cormonem",
+      "name_lower": "cormonem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.316667,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Corqui",
+      "name_lower": "corqui",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Cortalim",
+      "name_lower": "cortalim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 7564,
+      "latitude": 15.383333,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Cortolim",
+      "name_lower": "cortolim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.383333,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Costi",
+      "name_lower": "costi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.25,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Cotigao",
+      "name_lower": "cotigao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15,
+      "longitude": 74.2
+    },
+    {
+      "name": "Cotombi",
+      "name_lower": "cotombi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Cotorem",
+      "name_lower": "cotorem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 74.15
+    },
+    {
+      "name": "Cudnem",
+      "name_lower": "cudnem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Cuelim",
+      "name_lower": "cuelim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 73.9
+    },
+    {
+      "name": "Cumbari",
+      "name_lower": "cumbari",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 74.266667
+    },
+    {
+      "name": "Cunchelim",
+      "name_lower": "cunchelim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Cuncolim",
+      "name_lower": "cuncolim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 16124,
+      "latitude": 15.166667,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Cundaim",
+      "name_lower": "cundaim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Cupa",
+      "name_lower": "cupa",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Curca",
+      "name_lower": "curca",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Curchirem",
+      "name_lower": "curchirem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 74
+    },
+    {
+      "name": "Curchorem",
+      "name_lower": "curchorem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 22512,
+      "latitude": 15.25,
+      "longitude": 74.1
+    },
+    {
+      "name": "Curchurem",
+      "name_lower": "curchurem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.25,
+      "longitude": 74.1
+    },
+    {
+      "name": "Curdi",
+      "name_lower": "curdi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.15,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Curpem",
+      "name_lower": "curpem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.133333,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Curti",
+      "name_lower": "curti",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 13662,
+      "latitude": 15.416667,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Curtorim",
+      "name_lower": "curtorim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.283333,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Dabal",
+      "name_lower": "dabal",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 74.1
+    },
+    {
+      "name": "Dabem",
+      "name_lower": "dabem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 74.116667
+    },
+    {
+      "name": "Dabolim",
+      "name_lower": "dabolim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Damal",
+      "name_lower": "damal",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.2,
+      "longitude": 74.2
+    },
+    {
+      "name": "Darbandora",
+      "name_lower": "darbandora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.383333,
+      "longitude": 74.116667
+    },
+    {
+      "name": "Dargalim",
+      "name_lower": "dargalim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.666667,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Dauconda",
+      "name_lower": "dauconda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 74.116667
+    },
+    {
+      "name": "Davorlim",
+      "name_lower": "davorlim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 11418,
+      "latitude": 15.25,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Derodem",
+      "name_lower": "derodem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 74.2
+    },
+    {
+      "name": "Dicholi",
+      "name_lower": "dicholi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.95
+    },
+    {
+      "name": "Dona Paula",
+      "name_lower": "dona paula",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 73.8
+    },
+    {
+      "name": "Donna Paulaho",
+      "name_lower": "donna paulaho",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 73.8
+    },
+    {
+      "name": "Dramapur",
+      "name_lower": "dramapur",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.216667,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Dumacem",
+      "name_lower": "dumacem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.666667,
+      "longitude": 73.9
+    },
+    {
+      "name": "Durbate",
+      "name_lower": "durbate",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.383333,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Dxel",
+      "name_lower": "dxel",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.616667,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Fatorpa",
+      "name_lower": "fatorpa",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.116667,
+      "longitude": 74
+    },
+    {
+      "name": "Gandaulim",
+      "name_lower": "gandaulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Gaundongrem",
+      "name_lower": "gaundongrem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.033333,
+      "longitude": 74.116667
+    },
+    {
+      "name": "Goa",
+      "name_lower": "goa",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.8
+    },
+    {
+      "name": "Goa Velha",
+      "name_lower": "goa velha",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5656,
+      "latitude": 15.433333,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Goltim",
+      "name_lower": "goltim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 73.9
+    },
+    {
+      "name": "Govanem",
+      "name_lower": "govanem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 74.15
+    },
+    {
+      "name": "Guirdolim",
+      "name_lower": "guirdolim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.283333,
+      "longitude": 74.05
+    },
+    {
+      "name": "Guirim",
+      "name_lower": "guirim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 7058,
+      "latitude": 15.583333,
+      "longitude": 73.8
+    },
+    {
+      "name": "Gululem",
+      "name_lower": "gululem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 74.1
+    },
+    {
+      "name": "Itanagar",
+      "name_lower": "itanagar",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 44995,
+      "latitude": 27.1,
+      "longitude": 93.616667
+    },
+    {
+      "name": "Jagvi",
+      "name_lower": "jagvi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.083333,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Jambavali",
+      "name_lower": "jambavali",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.183333,
+      "longitude": 74.1
+    },
+    {
+      "name": "Jaqui",
+      "name_lower": "jaqui",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.083333,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Kankon",
+      "name_lower": "kankon",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 12446,
+      "latitude": 15.016667,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Latambarcem",
+      "name_lower": "latambarcem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.633333,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Latembarcem",
+      "name_lower": "latembarcem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.633333,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Ledo",
+      "name_lower": "ledo",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 95.733333
+    },
+    {
+      "name": "Loliem",
+      "name_lower": "loliem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 14.933333,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Loltem",
+      "name_lower": "loltem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 14.933333,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Loutolim",
+      "name_lower": "loutolim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.333333,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Loutulim",
+      "name_lower": "loutulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.333333,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Macasana",
+      "name_lower": "macasana",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.283333,
+      "longitude": 74.05
+    },
+    {
+      "name": "Macazana",
+      "name_lower": "macazana",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.283333,
+      "longitude": 74.05
+    },
+    {
+      "name": "Madgaon",
+      "name_lower": "madgaon",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 86827,
+      "latitude": 15.3,
+      "longitude": 73.95
+    },
+    {
+      "name": "Madkai",
+      "name_lower": "madkai",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.416667,
+      "longitude": 73.95
+    },
+    {
+      "name": "Maem",
+      "name_lower": "maem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.633333,
+      "longitude": 73.9
+    },
+    {
+      "name": "Magdal",
+      "name_lower": "magdal",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 14.966667,
+      "longitude": 74.05
+    },
+    {
+      "name": "Mahem",
+      "name_lower": "mahem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Maida",
+      "name_lower": "maida",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.15,
+      "longitude": 74.2
+    },
+    {
+      "name": "Malar",
+      "name_lower": "malar",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Malbona",
+      "name_lower": "malbona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Malconda",
+      "name_lower": "malconda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 74.233333
+    },
+    {
+      "name": "Malcopona",
+      "name_lower": "malcopona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Maleopona",
+      "name_lower": "maleopona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Malvona",
+      "name_lower": "malvona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Mandrem",
+      "name_lower": "mandrem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.65,
+      "longitude": 73.7
+    },
+    {
+      "name": "Mandur",
+      "name_lower": "mandur",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Mapuca",
+      "name_lower": "mapuca",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Marcaim",
+      "name_lower": "marcaim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.416667,
+      "longitude": 73.95
+    },
+    {
+      "name": "Mardol",
+      "name_lower": "mardol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 73.95
+    },
+    {
+      "name": "Margão",
+      "name_lower": "margao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.3,
+      "longitude": 73.95
+    },
+    {
+      "name": "Marmagao",
+      "name_lower": "marmagao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.8
+    },
+    {
+      "name": "Marmagoa",
+      "name_lower": "marmagoa",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.8
+    },
+    {
+      "name": "Marmugao",
+      "name_lower": "marmugao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.8
+    },
+    {
+      "name": "Marn",
+      "name_lower": "marn",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Marna",
+      "name_lower": "marna",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Maulinguem",
+      "name_lower": "maulinguem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Maus",
+      "name_lower": "maus",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 74.1
+    },
+    {
+      "name": "Melcornem",
+      "name_lower": "melcornem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.183333,
+      "longitude": 74.15
+    },
+    {
+      "name": "Mencurem",
+      "name_lower": "mencurem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.7,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Merces",
+      "name_lower": "merces",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.483333,
+      "longitude": 73.85
+    },
+    {
+      "name": "Mermugao",
+      "name_lower": "mermugao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.8
+    },
+    {
+      "name": "Moira",
+      "name_lower": "moira",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Molcornem",
+      "name_lower": "molcornem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.183333,
+      "longitude": 74.15
+    },
+    {
+      "name": "Molem",
+      "name_lower": "molem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.366667,
+      "longitude": 74.216667
+    },
+    {
+      "name": "Mopa",
+      "name_lower": "mopa",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.75,
+      "longitude": 73.85
+    },
+    {
+      "name": "Morgim",
+      "name_lower": "morgim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.716667
+    },
+    {
+      "name": "Moriem",
+      "name_lower": "moriem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 74.05
+    },
+    {
+      "name": "Mormugao",
+      "name_lower": "mormugao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 102355,
+      "latitude": 15.4,
+      "longitude": 73.8
+    },
+    {
+      "name": "Morpirla",
+      "name_lower": "morpirla",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.1,
+      "longitude": 74
+    },
+    {
+      "name": "Muguli",
+      "name_lower": "muguli",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.233333,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Mulem",
+      "name_lower": "mulem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.233333,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Mulgao",
+      "name_lower": "mulgao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.9
+    },
+    {
+      "name": "Nachinola",
+      "name_lower": "nachinola",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 73.85
+    },
+    {
+      "name": "Nadora",
+      "name_lower": "nadora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.666667,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Nagargao",
+      "name_lower": "nagargao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.566667,
+      "longitude": 74.15
+    },
+    {
+      "name": "Nagorcém",
+      "name_lower": "nagorcem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.016667,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Nagorgao",
+      "name_lower": "nagorgao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.566667,
+      "longitude": 74.15
+    },
+    {
+      "name": "Naina",
+      "name_lower": "naina",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.116667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Naneli",
+      "name_lower": "naneli",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Nanodem",
+      "name_lower": "nanodem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.566667,
+      "longitude": 74.2
+    },
+    {
+      "name": "Nanorem",
+      "name_lower": "nanorem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.566667,
+      "longitude": 74.2
+    },
+    {
+      "name": "Nanus",
+      "name_lower": "nanus",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Nanuz",
+      "name_lower": "nanuz",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Naozor",
+      "name_lower": "naozor",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.7,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Naroa",
+      "name_lower": "naroa",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 73.9
+    },
+    {
+      "name": "Navelim",
+      "name_lower": "navelim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 12470,
+      "latitude": 15.25,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Nerul",
+      "name_lower": "nerul",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 73.783333
+    },
+    {
+      "name": "Netorlim",
+      "name_lower": "netorlim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.083333,
+      "longitude": 74.216667
+    },
+    {
+      "name": "Neura",
+      "name_lower": "neura",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 73.9
+    },
+    {
+      "name": "Neuraopegueno",
+      "name_lower": "neuraopegueno",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 73.9
+    },
+    {
+      "name": "Nirancal",
+      "name_lower": "nirancal",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.366667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Nogorcem",
+      "name_lower": "nogorcem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.016667,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Nova Goa",
+      "name_lower": "nova goa",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.483333,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Nundem",
+      "name_lower": "nundem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.066667,
+      "longitude": 74.2
+    },
+    {
+      "name": "Nuvem",
+      "name_lower": "nuvem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.316667,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Odxel",
+      "name_lower": "odxel",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Orlim",
+      "name_lower": "orlim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.216667,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Orxel",
+      "name_lower": "orxel",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Oxel",
+      "name_lower": "oxel",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.283333,
+      "longitude": 74.25
+    },
+    {
+      "name": "Ozorim",
+      "name_lower": "ozorim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.683333,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Pale",
+      "name_lower": "pale",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5428,
+      "latitude": 15.466667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Paliem",
+      "name_lower": "paliem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.716667,
+      "longitude": 73.7
+    },
+    {
+      "name": "Palle",
+      "name_lower": "palle",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Palolem",
+      "name_lower": "palolem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.016667,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Panaji",
+      "name_lower": "panaji",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 65593,
+      "latitude": 15.483333,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Pangim",
+      "name_lower": "pangim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.483333,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Panjim",
+      "name_lower": "panjim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.483333,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Paradá",
+      "name_lower": "parada",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.216667,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Pareda",
+      "name_lower": "pareda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.216667,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Paroda",
+      "name_lower": "paroda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.216667,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Parra",
+      "name_lower": "parra",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.566667,
+      "longitude": 73.783333
+    },
+    {
+      "name": "Parxem",
+      "name_lower": "parxem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.666667,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Patnem",
+      "name_lower": "patnem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Peligão",
+      "name_lower": "peligao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Pernem",
+      "name_lower": "pernem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5555,
+      "latitude": 15.716667,
+      "longitude": 73.8
+    },
+    {
+      "name": "Pilerne",
+      "name_lower": "pilerne",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Piliem",
+      "name_lower": "piliem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.416667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Piligao",
+      "name_lower": "piligao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Pirna",
+      "name_lower": "pirna",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.666667,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Pissurlem",
+      "name_lower": "pissurlem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.516667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Poinguinim",
+      "name_lower": "poinguinim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 14.966667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Poliem",
+      "name_lower": "poliem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 14.916667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Pololem",
+      "name_lower": "pololem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.016667,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Polém",
+      "name_lower": "polem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 14.916667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Pomburpa",
+      "name_lower": "pomburpa",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 73.85
+    },
+    {
+      "name": "Ponda",
+      "name_lower": "ponda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 18900,
+      "latitude": 15.4,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Ponsuli",
+      "name_lower": "ponsuli",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.616667,
+      "longitude": 74.1
+    },
+    {
+      "name": "Poriem",
+      "name_lower": "poriem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Porio",
+      "name_lower": "porio",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.8
+    },
+    {
+      "name": "Poroscodem",
+      "name_lower": "poroscodem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.733333,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Potrem",
+      "name_lower": "potrem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.2,
+      "longitude": 74.25
+    },
+    {
+      "name": "Priol",
+      "name_lower": "priol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.416667,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Quelossim",
+      "name_lower": "quelossim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.383333,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Quepem",
+      "name_lower": "quepem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 13042,
+      "latitude": 15.216667,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Quepem Town",
+      "name_lower": "quepem town",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.216667,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Querim",
+      "name_lower": "querim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 74
+    },
+    {
+      "name": "Queula",
+      "name_lower": "queula",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5699,
+      "latitude": 15.383333,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Racaim",
+      "name_lower": "racaim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Rachol",
+      "name_lower": "rachol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.3,
+      "longitude": 74
+    },
+    {
+      "name": "Raia",
+      "name_lower": "raia",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 9421,
+      "latitude": 15.3,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Revera",
+      "name_lower": "revera",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.666667,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Revora",
+      "name_lower": "revora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.666667,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Ribandar",
+      "name_lower": "ribandar",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 73.85
+    },
+    {
+      "name": "Rivona",
+      "name_lower": "rivona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 74.116667
+    },
+    {
+      "name": "Salauli",
+      "name_lower": "salauli",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.2,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Salem",
+      "name_lower": "salem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.7,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Saligao",
+      "name_lower": "saligao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5804,
+      "latitude": 15.55,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Sancoale",
+      "name_lower": "sancoale",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 16312,
+      "latitude": 15.366667,
+      "longitude": 73.9
+    },
+    {
+      "name": "Sancordem",
+      "name_lower": "sancordem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Sancordám",
+      "name_lower": "sancordam",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Sangod",
+      "name_lower": "sangod",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.383333,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Sanguem",
+      "name_lower": "sanguem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 6120,
+      "latitude": 15.233333,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Sanquelim",
+      "name_lower": "sanquelim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 11698,
+      "latitude": 15.583333,
+      "longitude": 74
+    },
+    {
+      "name": "Santa Cruz",
+      "name_lower": "santa cruz",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Sanvordem",
+      "name_lower": "sanvordem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5051,
+      "latitude": 15.266667,
+      "longitude": 74.116667
+    },
+    {
+      "name": "Sarvona",
+      "name_lower": "sarvona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 73.95
+    },
+    {
+      "name": "Sarzora",
+      "name_lower": "sarzora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.2,
+      "longitude": 73.983333
+    },
+    {
+      "name": "Serula",
+      "name_lower": "serula",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 10632,
+      "latitude": 15.533333,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Sigao",
+      "name_lower": "sigao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.333333,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Sigonem",
+      "name_lower": "sigonem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.116667,
+      "longitude": 74.25
+    },
+    {
+      "name": "Silidao",
+      "name_lower": "silidao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Siolim",
+      "name_lower": "siolim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 10481,
+      "latitude": 15.616667,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Siranguli",
+      "name_lower": "siranguli",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Sirangulim",
+      "name_lower": "sirangulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Sirgão",
+      "name_lower": "sirgao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.9
+    },
+    {
+      "name": "Siridão",
+      "name_lower": "siridao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 73.866667
+    },
+    {
+      "name": "Sirigao",
+      "name_lower": "sirigao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.9
+    },
+    {
+      "name": "Siroda",
+      "name_lower": "siroda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.3,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Sirsodem",
+      "name_lower": "sirsodem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Sirvoi",
+      "name_lower": "sirvoi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.2,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Sirçodem",
+      "name_lower": "sircodem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Solim",
+      "name_lower": "solim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.616667,
+      "longitude": 73.766667
+    },
+    {
+      "name": "Sonaulim",
+      "name_lower": "sonaulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.316667,
+      "longitude": 74.3
+    },
+    {
+      "name": "Sulcorna",
+      "name_lower": "sulcorna",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.1,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Surla",
+      "name_lower": "surla",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.416667,
+      "longitude": 74.2
+    },
+    {
+      "name": "Talaulim",
+      "name_lower": "talaulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.233333,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Taleigao",
+      "name_lower": "taleigao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 17148,
+      "latitude": 15.466667,
+      "longitude": 73.8
+    },
+    {
+      "name": "Talvorda",
+      "name_lower": "talvorda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.2,
+      "longitude": 74.033333
+    },
+    {
+      "name": "Tamborcem",
+      "name_lower": "tamborcem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.75,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Tamboxem",
+      "name_lower": "tamboxem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.75,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Tanem",
+      "name_lower": "tanem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Telaulim",
+      "name_lower": "telaulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.233333,
+      "longitude": 73.933333
+    },
+    {
+      "name": "Terekhol",
+      "name_lower": "terekhol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.716667,
+      "longitude": 73.7
+    },
+    {
+      "name": "Tilamola",
+      "name_lower": "tilamola",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.216667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Tiracol",
+      "name_lower": "tiracol",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.716667,
+      "longitude": 73.7
+    },
+    {
+      "name": "Tirakul Fort",
+      "name_lower": "tirakul fort",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.716667,
+      "longitude": 73.7
+    },
+    {
+      "name": "Tivim",
+      "name_lower": "tivim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.6,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Toldem",
+      "name_lower": "toldem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.45,
+      "longitude": 74.2
+    },
+    {
+      "name": "Torxem",
+      "name_lower": "torxem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.783333,
+      "longitude": 73.85
+    },
+    {
+      "name": "Tudou",
+      "name_lower": "tudou",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.216667,
+      "longitude": 74.216667
+    },
+    {
+      "name": "Tuem",
+      "name_lower": "tuem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.666667,
+      "longitude": 73.783333
+    },
+    {
+      "name": "Ucassaim",
+      "name_lower": "ucassaim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 73.816667
+    },
+    {
+      "name": "Uguem",
+      "name_lower": "uguem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.216667,
+      "longitude": 74.166667
+    },
+    {
+      "name": "Usgao",
+      "name_lower": "usgao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.433333,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Ustem",
+      "name_lower": "ustem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 74.183333
+    },
+    {
+      "name": "Utorda",
+      "name_lower": "utorda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.316667,
+      "longitude": 73.9
+    },
+    {
+      "name": "Vaddem",
+      "name_lower": "vaddem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Vadém",
+      "name_lower": "vadem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Vainguinim",
+      "name_lower": "vainguinim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.566667,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Valpoi",
+      "name_lower": "valpoi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 8331,
+      "latitude": 15.533333,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Valpoi Town",
+      "name_lower": "valpoi town",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Valpoy",
+      "name_lower": "valpoy",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.533333,
+      "longitude": 74.133333
+    },
+    {
+      "name": "Vantem",
+      "name_lower": "vantem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 74.1
+    },
+    {
+      "name": "Varca",
+      "name_lower": "varca",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": 5079,
+      "latitude": 15.216667,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Varconda",
+      "name_lower": "varconda",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.7,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Vasco Da Gama",
+      "name_lower": "vasco da gama",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.4,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Velcao",
+      "name_lower": "velcao",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 73.883333
+    },
+    {
+      "name": "Velguem",
+      "name_lower": "velguem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.483333,
+      "longitude": 74.066667
+    },
+    {
+      "name": "Velha Goa",
+      "name_lower": "velha goa",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.5,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Velim",
+      "name_lower": "velim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.15,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Velinga",
+      "name_lower": "velinga",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.416667,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Veluz",
+      "name_lower": "veluz",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 74.15
+    },
+    {
+      "name": "Verdi",
+      "name_lower": "verdi",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 73.966667
+    },
+    {
+      "name": "Verem",
+      "name_lower": "verem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.466667,
+      "longitude": 74.016667
+    },
+    {
+      "name": "Verla",
+      "name_lower": "verla",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.583333,
+      "longitude": 73.783333
+    },
+    {
+      "name": "Verlem",
+      "name_lower": "verlem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.05,
+      "longitude": 74.25
+    },
+    {
+      "name": "Verna",
+      "name_lower": "verna",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.35,
+      "longitude": 73.916667
+    },
+    {
+      "name": "Vichondrem",
+      "name_lower": "vichondrem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.1,
+      "longitude": 74.2
+    },
+    {
+      "name": "Viliena",
+      "name_lower": "viliena",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.166667,
+      "longitude": 74.233333
+    },
+    {
+      "name": "Virnora",
+      "name_lower": "virnora",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.7,
+      "longitude": 73.833333
+    },
+    {
+      "name": "Xeldem",
+      "name_lower": "xeldem",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.25,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Xelvona",
+      "name_lower": "xelvona",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.266667,
+      "longitude": 74.083333
+    },
+    {
+      "name": "Zadani",
+      "name_lower": "zadani",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 74.216667
+    },
+    {
+      "name": "Zambaulim",
+      "name_lower": "zambaulim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.183333,
+      "longitude": 74.1
+    },
+    {
+      "name": "Zarani",
+      "name_lower": "zarani",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 74.216667
+    },
+    {
+      "name": "Zaranim",
+      "name_lower": "zaranim",
+      "state": "Goa",
+      "state_hi": "गोवा",
+      "region_code": "33",
+      "population": "",
+      "latitude": 15.55,
+      "longitude": 74.216667
+    }
+  ],
+  "meta": {
+    "title": "गोवा के शहर (Goa Cities) - मुफ़्त डाउनलोड",
+    "description": "गोवा राज्य के 374 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 374 cities and towns in Goa, India, with population and geographic coordinates. शामिल हैं 374 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "गोवा के शहर (Goa Cities) | ListBase",
+    "seo_description": "डाउनलोड गोवा के शहर (Goa Cities) — 374 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 374 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "id": "hi-punjab-jile",
+  "name": "Punjab के जिले (Punjab Districts)",
+  "title": "Punjab के जिले (Punjab Districts)",
+  "description": "23 districts in Punjab (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Punjab\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "AM",
+      "district": "Amritsar",
+      "district_slug": "amritsar",
+      "headquarters": "Amritsar",
+      "population": 2490891,
+      "area_km2": 2673,
+      "density_per_km2": 932
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "BNL",
+      "district": "Barnala",
+      "district_slug": "barnala",
+      "headquarters": "Barnala",
+      "population": 596294,
+      "area_km2": 1423,
+      "density_per_km2": 419
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "BA",
+      "district": "Bathinda",
+      "district_slug": "bathinda",
+      "headquarters": "Bathinda",
+      "population": 1388859,
+      "area_km2": 3355,
+      "density_per_km2": 414
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "FR",
+      "district": "Faridkot",
+      "district_slug": "faridkot",
+      "headquarters": "Faridkot",
+      "population": 618008,
+      "area_km2": 1472,
+      "density_per_km2": 424
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "FT",
+      "district": "Fatehgarh Sahib",
+      "district_slug": "fatehgarh-sahib",
+      "headquarters": "Fatehgarh Sahib",
+      "population": 599814,
+      "area_km2": 1180,
+      "density_per_km2": 508
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "FA",
+      "district": "Fazilka",
+      "district_slug": "fazilka",
+      "headquarters": "Fazilka",
+      "population": 1180483,
+      "area_km2": 3113,
+      "density_per_km2": 379
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "FI",
+      "district": "Firozpur",
+      "district_slug": "firozpur",
+      "headquarters": "Firozpur",
+      "population": 2026831,
+      "area_km2": 5334,
+      "density_per_km2": 380
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "GU",
+      "district": "Gurdaspur",
+      "district_slug": "gurdaspur",
+      "headquarters": "Gurdaspur",
+      "population": 2299026,
+      "area_km2": 3542,
+      "density_per_km2": 649
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "HO",
+      "district": "Hoshiarpur",
+      "district_slug": "hoshiarpur",
+      "headquarters": "Hoshiarpur",
+      "population": 1582793,
+      "area_km2": 3397,
+      "density_per_km2": 466
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "JA",
+      "district": "Jalandhar",
+      "district_slug": "jalandhar",
+      "headquarters": "Jalandhar",
+      "population": 2181753,
+      "area_km2": 2625,
+      "density_per_km2": 831
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "KA",
+      "district": "Kapurthala",
+      "district_slug": "kapurthala",
+      "headquarters": "Kapurthala",
+      "population": 817668,
+      "area_km2": 1646,
+      "density_per_km2": 501
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "LU",
+      "district": "Ludhiana",
+      "district_slug": "ludhiana",
+      "headquarters": "Ludhiana",
+      "population": 3487882,
+      "area_km2": 3744,
+      "density_per_km2": 975
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "ML",
+      "district": "Malerkotla",
+      "district_slug": "malerkotla",
+      "headquarters": "Malerkotla",
+      "population": 429754,
+      "area_km2": 684,
+      "density_per_km2": 629
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "MA",
+      "district": "Mansa",
+      "district_slug": "mansa",
+      "headquarters": "Mansa",
+      "population": 768808,
+      "area_km2": 2174,
+      "density_per_km2": 350
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "MO",
+      "district": "Moga",
+      "district_slug": "moga",
+      "headquarters": "Moga",
+      "population": 992289,
+      "area_km2": 2235,
+      "density_per_km2": 444
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "PA",
+      "district": "Pathankot",
+      "district_slug": "pathankot",
+      "headquarters": "Pathankot",
+      "population": 626154,
+      "area_km2": 929,
+      "density_per_km2": 674
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "PA",
+      "district": "Patiala",
+      "district_slug": "patiala",
+      "headquarters": "Patiala",
+      "population": 2892282,
+      "area_km2": 3175,
+      "density_per_km2": 596
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "RU",
+      "district": "Rupnagar",
+      "district_slug": "rupnagar",
+      "headquarters": "Rupnagar",
+      "population": 683349,
+      "area_km2": 1400,
+      "density_per_km2": 488
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "SAS",
+      "district": "Sahibzada Ajit Singh Nagar",
+      "district_slug": "sahibzada-ajit-singh-nagar",
+      "headquarters": "Sahibzada Ajit Singh Nagar",
+      "population": 986147,
+      "area_km2": 1188,
+      "density_per_km2": 830
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "SA",
+      "district": "Sangrur",
+      "district_slug": "sangrur",
+      "headquarters": "Sangrur",
+      "population": 1654408,
+      "area_km2": 3685,
+      "density_per_km2": 449
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "PB",
+      "district": "Shahid Bhagat Singh Nagar",
+      "district_slug": "shahid-bhagat-singh-nagar",
+      "headquarters": "Nawanshehr",
+      "population": 614362,
+      "area_km2": 1283,
+      "density_per_km2": 479
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "MU",
+      "district": "Sri Muktsar Sahib",
+      "district_slug": "sri-muktsar-sahib",
+      "headquarters": "Sri Muktsar Sahib",
+      "population": 902702,
+      "area_km2": 2596,
+      "density_per_km2": 348
+    },
+    {
+      "state": "Punjab",
+      "state_code": "PB",
+      "state_slug": "punjab",
+      "district_code": "TT",
+      "district": "Tarn Taran",
+      "district_slug": "tarn-taran",
+      "headquarters": "Tarn Taran Sahib",
+      "population": 1120070,
+      "area_km2": 2414,
+      "density_per_km2": 464
+    }
+  ],
+  "meta": {
+    "title": "Punjab के जिले (Punjab Districts) - मुफ़्त डाउनलोड",
+    "description": "23 districts in Punjab (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Punjab\". शामिल हैं 23 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Punjab के जिले (Punjab Districts) | ListBase",
+    "seo_description": "डाउनलोड Punjab के जिले (Punjab Districts) — 23 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 23 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

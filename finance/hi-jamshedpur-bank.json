@@ -1,0 +1,128 @@
+{
+  "id": "hi-jamshedpur-bank",
+  "name": "Jamshedpur में बैंक — SWIFT/BIC कोड",
+  "title": "Jamshedpur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Jamshedpur, India. Subset of hi-bank. Source city string preserved verbatim as \"JAMSHEDPUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 377,
+      "bank": "AXIS BANK LIMITED",
+      "city": "JAMSHEDPUR",
+      "branch": "(JAMSHEDPUR BRANCH)",
+      "swift_code": "AXISINBB012"
+    },
+    {
+      "id": 677,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "JAMSHEDPUR",
+      "branch": "(JAMSHEDPUR BRANCH)",
+      "swift_code": "UTIBINB1012"
+    },
+    {
+      "id": 796,
+      "bank": "BANK OF BARODA",
+      "city": "JAMSHEDPUR",
+      "branch": "(JAMSHEDPUR MAIN BRANCH BOB BUILDING MAIN ROAD BISTUPUR)",
+      "swift_code": "BARBINBBJAM"
+    },
+    {
+      "id": 978,
+      "bank": "BANK OF INDIA",
+      "city": "JAMSHEDPUR",
+      "branch": "(JAMSHEDPUR BRANCH)",
+      "swift_code": "BKIDINBBJAM"
+    },
+    {
+      "id": 1269,
+      "bank": "CANARA BANK",
+      "city": "JAMSHEDPUR",
+      "branch": "(BISTURPUR (MAIN))",
+      "swift_code": "CNRBINBBBJM"
+    },
+    {
+      "id": 1931,
+      "bank": "IDBI BANK LIMITED",
+      "city": "JAMSHEDPUR",
+      "branch": "(JAMSHEDPUR BRANCH)",
+      "swift_code": "IBKLINBB017"
+    },
+    {
+      "id": 2688,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "JAMSHEDPUR",
+      "branch": "",
+      "swift_code": "PUNBINBBJSH"
+    },
+    {
+      "id": 3233,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAMSHEDPUR",
+      "branch": "(COMMERCIAL BRANCH, JAMSHEDPUR)",
+      "swift_code": "SBININBB386"
+    },
+    {
+      "id": 3234,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAMSHEDPUR",
+      "branch": "(JAMSHEDPUR BRANCH)",
+      "swift_code": "SBININBB164"
+    },
+    {
+      "id": 3235,
+      "bank": "STATE BANK OF INDIA",
+      "city": "JAMSHEDPUR",
+      "branch": "(SME ADITYAPUR)",
+      "swift_code": "SBININBB761"
+    },
+    {
+      "id": 4064,
+      "bank": "UNION BANK OF INDIA",
+      "city": "JAMSHEDPUR",
+      "branch": "(JAMSHEDPUR MAIN BR.)",
+      "swift_code": "UBININBBJAM"
+    }
+  ],
+  "meta": {
+    "title": "Jamshedpur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Jamshedpur, India. Subset of hi-bank. Source city string preserved verbatim as \"JAMSHEDPUR\". शामिल हैं 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Jamshedpur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Jamshedpur में बैंक — SWIFT/BIC कोड — 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 11 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

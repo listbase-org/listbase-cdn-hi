@@ -1,0 +1,472 @@
+{
+  "id": "hi-rajasthan-jile",
+  "name": "Rajasthan के जिले (Rajasthan Districts)",
+  "title": "Rajasthan के जिले (Rajasthan Districts)",
+  "description": "33 districts in Rajasthan (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Rajasthan\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "AJ",
+      "district": "Ajmer",
+      "district_slug": "ajmer",
+      "headquarters": "Ajmer",
+      "population": 2584913,
+      "area_km2": 8481,
+      "density_per_km2": 305
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "AL",
+      "district": "Alwar",
+      "district_slug": "alwar",
+      "headquarters": "Alwar",
+      "population": 3671999,
+      "area_km2": 8380,
+      "density_per_km2": 438
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "BN",
+      "district": "Banswara",
+      "district_slug": "banswara",
+      "headquarters": "Banswara",
+      "population": 1798194,
+      "area_km2": 5037,
+      "density_per_km2": 399
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "BR",
+      "district": "Baran",
+      "district_slug": "baran",
+      "headquarters": "Baran",
+      "population": 1223921,
+      "area_km2": 6955,
+      "density_per_km2": 175
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "BM",
+      "district": "Barmer",
+      "district_slug": "barmer",
+      "headquarters": "Barmer",
+      "population": 2604453,
+      "area_km2": 28387,
+      "density_per_km2": 92
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "BP",
+      "district": "Bharatpur",
+      "district_slug": "bharatpur",
+      "headquarters": "Bharatpur",
+      "population": 2549121,
+      "area_km2": 5066,
+      "density_per_km2": 503
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "BW",
+      "district": "Bhilwara",
+      "district_slug": "bhilwara",
+      "headquarters": "Bhilwara",
+      "population": 2410459,
+      "area_km2": 10455,
+      "density_per_km2": 230
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "BI",
+      "district": "Bikaner",
+      "district_slug": "bikaner",
+      "headquarters": "Bikaner",
+      "population": 2367745,
+      "area_km2": 27244,
+      "density_per_km2": 78
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "BU",
+      "district": "Bundi",
+      "district_slug": "bundi",
+      "headquarters": "Bundi",
+      "population": 1113725,
+      "area_km2": 5550,
+      "density_per_km2": 193
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "CT",
+      "district": "Chittorgarh",
+      "district_slug": "chittorgarh",
+      "headquarters": "Chittorgarh",
+      "population": 1544392,
+      "area_km2": 10856,
+      "density_per_km2": 193
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "CR",
+      "district": "Churu",
+      "district_slug": "churu",
+      "headquarters": "Churu",
+      "population": 2041172,
+      "area_km2": 16830,
+      "density_per_km2": 148
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "DA",
+      "district": "Dausa",
+      "district_slug": "dausa",
+      "headquarters": "Dausa",
+      "population": 1637226,
+      "area_km2": 3429,
+      "density_per_km2": 476
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "DH",
+      "district": "Dholpur",
+      "district_slug": "dholpur",
+      "headquarters": "Dholpur",
+      "population": 1207293,
+      "area_km2": 3084,
+      "density_per_km2": 398
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "DU",
+      "district": "Dungarpur",
+      "district_slug": "dungarpur",
+      "headquarters": "Dungarpur",
+      "population": 1388906,
+      "area_km2": 3771,
+      "density_per_km2": 368
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "HA",
+      "district": "Hanumangarh",
+      "district_slug": "hanumangarh",
+      "headquarters": "Hanumangarh",
+      "population": 1779650,
+      "area_km2": 9670,
+      "density_per_km2": 184
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "JP",
+      "district": "Jaipur",
+      "district_slug": "jaipur",
+      "headquarters": "Jaipur",
+      "population": 6626178,
+      "area_km2": 11143,
+      "density_per_km2": 595
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "JS",
+      "district": "Jaisalmer",
+      "district_slug": "jaisalmer",
+      "headquarters": "Jaisalmer",
+      "population": 672008,
+      "area_km2": 38401,
+      "density_per_km2": 17
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "JL",
+      "district": "Jalore",
+      "district_slug": "jalore",
+      "headquarters": "Jalore",
+      "population": 1830151,
+      "area_km2": 10640,
+      "density_per_km2": 172
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "JW",
+      "district": "Jhalawar",
+      "district_slug": "jhalawar",
+      "headquarters": "Jhalawar",
+      "population": 1411327,
+      "area_km2": 6219,
+      "density_per_km2": 227
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "JJ",
+      "district": "Jhunjhunu",
+      "district_slug": "jhunjhunu",
+      "headquarters": "Jhunjhunu",
+      "population": 2139658,
+      "area_km2": 5928,
+      "density_per_km2": 361
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "JO",
+      "district": "Jodhpur",
+      "district_slug": "jodhpur",
+      "headquarters": "Jodhpur",
+      "population": 3685681,
+      "area_km2": 22850,
+      "density_per_km2": 161
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "KA",
+      "district": "Karauli",
+      "district_slug": "karauli",
+      "headquarters": "Karauli",
+      "population": 1458459,
+      "area_km2": 5530,
+      "density_per_km2": 264
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "KO",
+      "district": "Kota",
+      "district_slug": "kota",
+      "headquarters": "Kota",
+      "population": 1950491,
+      "area_km2": 5446,
+      "density_per_km2": 374
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "NA",
+      "district": "Nagaur",
+      "district_slug": "nagaur",
+      "headquarters": "Nagaur",
+      "population": 3309234,
+      "area_km2": 17718,
+      "density_per_km2": 187
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "PA",
+      "district": "Pali",
+      "district_slug": "pali",
+      "headquarters": "Pali",
+      "population": 2038533,
+      "area_km2": 12387,
+      "density_per_km2": 165
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "PG",
+      "district": "Pratapgarh",
+      "district_slug": "pratapgarh",
+      "headquarters": "Pratapgarh",
+      "population": 867848,
+      "area_km2": 4112,
+      "density_per_km2": 211
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "RA",
+      "district": "Rajsamand",
+      "district_slug": "rajsamand",
+      "headquarters": "Rajsamand",
+      "population": 1158283,
+      "area_km2": 3853,
+      "density_per_km2": 302
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "SM",
+      "district": "Sawai Madhopur",
+      "district_slug": "sawai-madhopur",
+      "headquarters": "Sawai Madhopur",
+      "population": 1338114,
+      "area_km2": 4500,
+      "density_per_km2": 257
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "SK",
+      "district": "Sikar",
+      "district_slug": "sikar",
+      "headquarters": "Sikar",
+      "population": 2677737,
+      "area_km2": 7732,
+      "density_per_km2": 346
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "SR",
+      "district": "Sirohi",
+      "district_slug": "sirohi",
+      "headquarters": "Sirohi",
+      "population": 1037185,
+      "area_km2": 5136,
+      "density_per_km2": 202
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "GA",
+      "district": "Sri Ganganagar",
+      "district_slug": "sri-ganganagar",
+      "headquarters": "Sri Ganganagar",
+      "population": 1969520,
+      "area_km2": 10990,
+      "density_per_km2": 179
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "TO",
+      "district": "Tonk",
+      "district_slug": "tonk",
+      "headquarters": "Tonk",
+      "population": 1421711,
+      "area_km2": 7194,
+      "density_per_km2": 198
+    },
+    {
+      "state": "Rajasthan",
+      "state_code": "RJ",
+      "state_slug": "rajasthan",
+      "district_code": "UD",
+      "district": "Udaipur",
+      "district_slug": "udaipur",
+      "headquarters": "Udaipur",
+      "population": 3067549,
+      "area_km2": 13430,
+      "density_per_km2": 242
+    }
+  ],
+  "meta": {
+    "title": "Rajasthan के जिले (Rajasthan Districts) - मुफ़्त डाउनलोड",
+    "description": "33 districts in Rajasthan (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Rajasthan\". शामिल हैं 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Rajasthan के जिले (Rajasthan Districts) | ListBase",
+    "seo_description": "डाउनलोड Rajasthan के जिले (Rajasthan Districts) — 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 33 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

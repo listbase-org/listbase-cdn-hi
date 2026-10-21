@@ -1,0 +1,93 @@
+{
+  "id": "hi-delhi-metro-airport-express-stations",
+  "name": "दिल्ली मेट्रो Airport Express स्टेशन (Delhi Metro Airport Express, 2013)",
+  "title": "दिल्ली मेट्रो Airport Express स्टेशन (Delhi Metro Airport Express, 2013)",
+  "description": "6 Delhi Metro stations on the Airport Express as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "station_name",
+      "label": "Station Name",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "layout",
+      "label": "Layout",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "station_name": "Delhi Aerocity",
+      "lines": "Airport Express",
+      "layout": "Underground",
+      "latitude": 28.54881,
+      "longitude": 77.12092
+    },
+    {
+      "station_name": "Dhaula Kuan",
+      "lines": "Airport Express",
+      "layout": "Elevated",
+      "latitude": 28.59178,
+      "longitude": 77.16155
+    },
+    {
+      "station_name": "Dwarka Sector 21",
+      "lines": "Blue Line, Airport Express",
+      "layout": "Underground",
+      "latitude": 28.55226,
+      "longitude": 77.05828
+    },
+    {
+      "station_name": "Indira Gandhi International Airport",
+      "lines": "Airport Express",
+      "layout": "Underground",
+      "latitude": 28.55693,
+      "longitude": 77.08669
+    },
+    {
+      "station_name": "New Delhi",
+      "lines": "Yellow Line, Airport Express",
+      "layout": "Underground",
+      "latitude": 28.64307,
+      "longitude": 77.22144
+    },
+    {
+      "station_name": "Shivaji Stadium",
+      "lines": "Airport Express",
+      "layout": "Underground",
+      "latitude": 28.62901,
+      "longitude": 77.2119
+    }
+  ],
+  "meta": {
+    "title": "दिल्ली मेट्रो Airport Express स्टेशन (Delhi Metro Airport Express, 2013) - मुफ़्त डाउनलोड",
+    "description": "6 Delhi Metro stations on the Airport Express as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source). शामिल हैं 6 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "दिल्ली मेट्रो Airport Express स्टेशन (Delhi Metro Airport Express, 2013) | ListBase",
+    "seo_description": "डाउनलोड दिल्ली मेट्रो Airport Express स्टेशन (Delhi Metro Airport Express, 2013) — 6 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 6 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

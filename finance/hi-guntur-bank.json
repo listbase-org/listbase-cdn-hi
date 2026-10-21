@@ -1,0 +1,156 @@
+{
+  "id": "hi-guntur-bank",
+  "name": "Guntur में बैंक — SWIFT/BIC कोड",
+  "title": "Guntur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Guntur, India. Subset of hi-bank. Source city string preserved verbatim as \"GUNTUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 87,
+      "bank": "ANDHRA BANK",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR MAIN BRANCH)",
+      "swift_code": "ANDBINBBGUN"
+    },
+    {
+      "id": 312,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR BRANCH)",
+      "swift_code": "AXISINBB070"
+    },
+    {
+      "id": 669,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR BRANCH)",
+      "swift_code": "UTIBINB1070"
+    },
+    {
+      "id": 1256,
+      "bank": "CANARA BANK",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR MAIN BRANCH)",
+      "swift_code": "CNRBINBBGMB"
+    },
+    {
+      "id": 2036,
+      "bank": "INDIAN BANK",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR BRANCH)",
+      "swift_code": "IDIBINBBGTR"
+    },
+    {
+      "id": 2138,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR BRANCH)",
+      "swift_code": "IOBAINBB028"
+    },
+    {
+      "id": 2659,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "GUNTUR",
+      "branch": "(STATION ROAD GUNTUR)",
+      "swift_code": "PUNBINBBGSR"
+    },
+    {
+      "id": 3129,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR BRANCH)",
+      "swift_code": "SBININBB181"
+    },
+    {
+      "id": 3130,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GUNTUR",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBH32"
+    },
+    {
+      "id": 3131,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GUNTUR",
+      "branch": "(SPECIALISED COMMERCIAL BRANCH, GUNTUR)",
+      "swift_code": "SBININBB679"
+    },
+    {
+      "id": 3132,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GUNTUR",
+      "branch": "(VINUKONDA BRANCH)",
+      "swift_code": "SBININBB831"
+    },
+    {
+      "id": 3759,
+      "bank": "SYNDICATE BANK",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR BRANCH)",
+      "swift_code": "SYNBINBB037"
+    },
+    {
+      "id": 3975,
+      "bank": "UCO BANK",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR BRANCH)",
+      "swift_code": "UCBAINBB316"
+    },
+    {
+      "id": 4059,
+      "bank": "UNION BANK OF INDIA",
+      "city": "GUNTUR",
+      "branch": "(LAKSHMIPURAM,GUNTUR,ANDHRA PRADESH)",
+      "swift_code": "UBININBBGNT"
+    },
+    {
+      "id": 4212,
+      "bank": "VIJAYA BANK",
+      "city": "GUNTUR",
+      "branch": "(GUNTUR BRANCH)",
+      "swift_code": "VIJBINBBGUN"
+    }
+  ],
+  "meta": {
+    "title": "Guntur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Guntur, India. Subset of hi-bank. Source city string preserved verbatim as \"GUNTUR\". शामिल हैं 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Guntur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Guntur में बैंक — SWIFT/BIC कोड — 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 15 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

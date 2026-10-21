@@ -1,0 +1,121 @@
+{
+  "id": "hi-kannur-bank",
+  "name": "Kannur में बैंक — SWIFT/BIC कोड",
+  "title": "Kannur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Kannur, India. Subset of hi-bank. Source city string preserved verbatim as \"KANNUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 382,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KANNUR",
+      "branch": "(KANNUR-159)",
+      "swift_code": "AXISINBBA18"
+    },
+    {
+      "id": 1271,
+      "bank": "CANARA BANK",
+      "city": "KANNUR",
+      "branch": "(CANNANORE CAMP BAZAAR MAIN)",
+      "swift_code": "CNRBINBBCCB"
+    },
+    {
+      "id": 1540,
+      "bank": "CORPORATION BANK",
+      "city": "KANNUR",
+      "branch": "(KANNUR-KERALA BRANCH)",
+      "swift_code": "CORPINBB027"
+    },
+    {
+      "id": 1763,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KANNUR",
+      "branch": "(KANNUR BRANCH)",
+      "swift_code": "FDRLINBBCNN"
+    },
+    {
+      "id": 2148,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "KANNUR",
+      "branch": "(CANNANORE, KERALA)",
+      "swift_code": "IOBAINBB016"
+    },
+    {
+      "id": 3250,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KANNUR",
+      "branch": "(CANNANORE)",
+      "swift_code": "SBININBB393"
+    },
+    {
+      "id": 3251,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KANNUR",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT26"
+    },
+    {
+      "id": 3768,
+      "bank": "SYNDICATE BANK",
+      "city": "KANNUR",
+      "branch": "(KANNUR BRANCH)",
+      "swift_code": "SYNBINBB030"
+    },
+    {
+      "id": 3914,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "KANNUR",
+      "branch": "(KANNUR)",
+      "swift_code": "SOININ55133"
+    },
+    {
+      "id": 4067,
+      "bank": "UNION BANK OF INDIA",
+      "city": "KANNUR",
+      "branch": "(KANNUR BRANCH)",
+      "swift_code": "UBININBBKNN"
+    }
+  ],
+  "meta": {
+    "title": "Kannur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Kannur, India. Subset of hi-bank. Source city string preserved verbatim as \"KANNUR\". शामिल हैं 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Kannur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Kannur में बैंक — SWIFT/BIC कोड — 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 10 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

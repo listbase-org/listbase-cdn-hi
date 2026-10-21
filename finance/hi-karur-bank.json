@@ -1,0 +1,149 @@
+{
+  "id": "hi-karur-bank",
+  "name": "Karur में बैंक — SWIFT/BIC कोड",
+  "title": "Karur में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Karur, India. Subset of hi-bank. Source city string preserved verbatim as \"KARUR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 388,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KARUR",
+      "branch": "(KARUR BRANCH)",
+      "swift_code": "AXISINBB123"
+    },
+    {
+      "id": 680,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "KARUR",
+      "branch": "(KARUR BRANCH)",
+      "swift_code": "UTIBINB1123"
+    },
+    {
+      "id": 805,
+      "bank": "BANK OF BARODA",
+      "city": "KARUR",
+      "branch": "(KARUR BRANCH, KARUR)",
+      "swift_code": "BARBINBBKRR"
+    },
+    {
+      "id": 984,
+      "bank": "BANK OF INDIA",
+      "city": "KARUR",
+      "branch": "(KARUR SSI)",
+      "swift_code": "BKIDINBBKAR"
+    },
+    {
+      "id": 1277,
+      "bank": "CANARA BANK",
+      "city": "KARUR",
+      "branch": "(KARUR (TRICHY DISTRICT) BRANCH)",
+      "swift_code": "CNRBINBBVDK"
+    },
+    {
+      "id": 1428,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "KARUR",
+      "branch": "(KARUR BRANCH)",
+      "swift_code": "CBININBBKRU"
+    },
+    {
+      "id": 1544,
+      "bank": "CORPORATION BANK",
+      "city": "KARUR",
+      "branch": "",
+      "swift_code": "CORPINBB459"
+    },
+    {
+      "id": 2354,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "KARUR",
+      "branch": "(KARUR BRANCH)",
+      "swift_code": "KARBINBBKRR"
+    },
+    {
+      "id": 2374,
+      "bank": "KARUR VYSYA BANK LTD., THE",
+      "city": "KARUR",
+      "branch": "",
+      "swift_code": "KVBLINBB"
+    },
+    {
+      "id": 2408,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "KARUR",
+      "branch": "(KARUR WEST)",
+      "swift_code": "LAVBINBB363"
+    },
+    {
+      "id": 3273,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KARUR",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBT35"
+    },
+    {
+      "id": 3274,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KARUR",
+      "branch": "(SIRUTHIZHIL BRANCH,KARUR)",
+      "swift_code": "SBININBB460"
+    },
+    {
+      "id": 3771,
+      "bank": "SYNDICATE BANK",
+      "city": "KARUR",
+      "branch": "(KARUR BRANCH)",
+      "swift_code": "SYNBINBB017"
+    },
+    {
+      "id": 4070,
+      "bank": "UNION BANK OF INDIA",
+      "city": "KARUR",
+      "branch": "(KARUR BRANCH)",
+      "swift_code": "UBININBBKAR"
+    }
+  ],
+  "meta": {
+    "title": "Karur में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Karur, India. Subset of hi-bank. Source city string preserved verbatim as \"KARUR\". शामिल हैं 14 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Karur में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Karur में बैंक — SWIFT/BIC कोड — 14 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 14 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

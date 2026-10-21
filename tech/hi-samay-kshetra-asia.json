@@ -1,0 +1,712 @@
+{
+  "id": "hi-samay-kshetra-asia",
+  "name": "समय क्षेत्र — Asia (82)",
+  "title": "समय क्षेत्र — Asia (82)",
+  "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Asia/' से आरंभ होता है, हिन्दी नामों सहित।",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "kshetra",
+      "label": "Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "shahar",
+      "label": "Shahar",
+      "type": "string"
+    },
+    {
+      "key": "manak_naam",
+      "label": "Manak Naam",
+      "type": "string"
+    },
+    {
+      "key": "divakaal_naam",
+      "label": "Divakaal Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Asia/Aden",
+      "kshetra": "Asia",
+      "shahar": "आदेन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Asia/Almaty",
+      "kshetra": "Asia",
+      "shahar": "अल्माटी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Asia/Amman",
+      "kshetra": "Asia",
+      "shahar": "अम्मान",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Asia/Anadyr",
+      "kshetra": "Asia",
+      "shahar": "अनाडिर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Asia/Aqtau",
+      "kshetra": "Asia",
+      "shahar": "अक्ताउ",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Asia/Aqtobe",
+      "kshetra": "Asia",
+      "shahar": "अक्तोब",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Asia/Ashgabat",
+      "kshetra": "Asia",
+      "shahar": "अश्गाबात",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Asia/Atyrau",
+      "kshetra": "Asia",
+      "shahar": "एतराउ",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Asia/Baghdad",
+      "kshetra": "Asia",
+      "shahar": "बगदाद",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Asia/Bahrain",
+      "kshetra": "Asia",
+      "shahar": "बहरीन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Asia/Baku",
+      "kshetra": "Asia",
+      "shahar": "बाकु",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 12,
+      "tz_id": "Asia/Bangkok",
+      "kshetra": "Asia",
+      "shahar": "बैंकॉक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 13,
+      "tz_id": "Asia/Barnaul",
+      "kshetra": "Asia",
+      "shahar": "बर्नोल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 14,
+      "tz_id": "Asia/Beirut",
+      "kshetra": "Asia",
+      "shahar": "बेरुत",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 15,
+      "tz_id": "Asia/Bishkek",
+      "kshetra": "Asia",
+      "shahar": "बिश्केक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 16,
+      "tz_id": "Asia/Brunei",
+      "kshetra": "Asia",
+      "shahar": "ब्रूनेई",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 17,
+      "tz_id": "Asia/Calcutta",
+      "kshetra": "Asia",
+      "shahar": "कोलकाता",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 18,
+      "tz_id": "Asia/Chita",
+      "kshetra": "Asia",
+      "shahar": "त्शिता",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 19,
+      "tz_id": "Asia/Colombo",
+      "kshetra": "Asia",
+      "shahar": "कोलंबो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 20,
+      "tz_id": "Asia/Damascus",
+      "kshetra": "Asia",
+      "shahar": "दमास्कस",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 21,
+      "tz_id": "Asia/Dhaka",
+      "kshetra": "Asia",
+      "shahar": "ढाका",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 22,
+      "tz_id": "Asia/Dili",
+      "kshetra": "Asia",
+      "shahar": "डिलि",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 23,
+      "tz_id": "Asia/Dubai",
+      "kshetra": "Asia",
+      "shahar": "दुबई",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 24,
+      "tz_id": "Asia/Dushanbe",
+      "kshetra": "Asia",
+      "shahar": "दुशांबे",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 25,
+      "tz_id": "Asia/Famagusta",
+      "kshetra": "Asia",
+      "shahar": "फ़ामागुस्ता",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 26,
+      "tz_id": "Asia/Gaza",
+      "kshetra": "Asia",
+      "shahar": "गाज़ा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 27,
+      "tz_id": "Asia/Hebron",
+      "kshetra": "Asia",
+      "shahar": "हेब्रोन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 28,
+      "tz_id": "Asia/Hong_Kong",
+      "kshetra": "Asia",
+      "shahar": "हाँग काँग",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 29,
+      "tz_id": "Asia/Hovd",
+      "kshetra": "Asia",
+      "shahar": "होव्ड",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 30,
+      "tz_id": "Asia/Irkutsk",
+      "kshetra": "Asia",
+      "shahar": "इर्कुत्स्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 31,
+      "tz_id": "Asia/Jakarta",
+      "kshetra": "Asia",
+      "shahar": "जकार्ता",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 32,
+      "tz_id": "Asia/Jayapura",
+      "kshetra": "Asia",
+      "shahar": "जयापुरा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 33,
+      "tz_id": "Asia/Jerusalem",
+      "kshetra": "Asia",
+      "shahar": "यरूशलम",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 34,
+      "tz_id": "Asia/Kabul",
+      "kshetra": "Asia",
+      "shahar": "काबुल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 35,
+      "tz_id": "Asia/Kamchatka",
+      "kshetra": "Asia",
+      "shahar": "कमचत्का",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 36,
+      "tz_id": "Asia/Karachi",
+      "kshetra": "Asia",
+      "shahar": "कराची",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 37,
+      "tz_id": "Asia/Katmandu",
+      "kshetra": "Asia",
+      "shahar": "काठमांडू",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 38,
+      "tz_id": "Asia/Khandyga",
+      "kshetra": "Asia",
+      "shahar": "खांडिगा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 39,
+      "tz_id": "Asia/Krasnoyarsk",
+      "kshetra": "Asia",
+      "shahar": "क्रास्नोयार्स्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 40,
+      "tz_id": "Asia/Kuala_Lumpur",
+      "kshetra": "Asia",
+      "shahar": "कुआलालंपुर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 41,
+      "tz_id": "Asia/Kuching",
+      "kshetra": "Asia",
+      "shahar": "कूचिंग",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 42,
+      "tz_id": "Asia/Kuwait",
+      "kshetra": "Asia",
+      "shahar": "कुवैत",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 43,
+      "tz_id": "Asia/Macau",
+      "kshetra": "Asia",
+      "shahar": "मकाऊ",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 44,
+      "tz_id": "Asia/Magadan",
+      "kshetra": "Asia",
+      "shahar": "मागादान",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 45,
+      "tz_id": "Asia/Makassar",
+      "kshetra": "Asia",
+      "shahar": "मकस्सर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 46,
+      "tz_id": "Asia/Manila",
+      "kshetra": "Asia",
+      "shahar": "मनीला",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 47,
+      "tz_id": "Asia/Muscat",
+      "kshetra": "Asia",
+      "shahar": "मस्कट",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 48,
+      "tz_id": "Asia/Nicosia",
+      "kshetra": "Asia",
+      "shahar": "निकोसिया",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 49,
+      "tz_id": "Asia/Novokuznetsk",
+      "kshetra": "Asia",
+      "shahar": "नोवोकुज़्नेत्स्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 50,
+      "tz_id": "Asia/Novosibirsk",
+      "kshetra": "Asia",
+      "shahar": "नोवोसिबिर्स्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 51,
+      "tz_id": "Asia/Omsk",
+      "kshetra": "Asia",
+      "shahar": "ओम्स्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 52,
+      "tz_id": "Asia/Oral",
+      "kshetra": "Asia",
+      "shahar": "ओरल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 53,
+      "tz_id": "Asia/Phnom_Penh",
+      "kshetra": "Asia",
+      "shahar": "नॉम पेन्ह",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 54,
+      "tz_id": "Asia/Pontianak",
+      "kshetra": "Asia",
+      "shahar": "पोंटीयांक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 55,
+      "tz_id": "Asia/Pyongyang",
+      "kshetra": "Asia",
+      "shahar": "प्योंगयांग",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 56,
+      "tz_id": "Asia/Qatar",
+      "kshetra": "Asia",
+      "shahar": "कतर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 57,
+      "tz_id": "Asia/Qostanay",
+      "kshetra": "Asia",
+      "shahar": "कोस्टाने",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 58,
+      "tz_id": "Asia/Qyzylorda",
+      "kshetra": "Asia",
+      "shahar": "केज़ेलोर्डा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 59,
+      "tz_id": "Asia/Rangoon",
+      "kshetra": "Asia",
+      "shahar": "रंगून",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 60,
+      "tz_id": "Asia/Riyadh",
+      "kshetra": "Asia",
+      "shahar": "रियाद",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 61,
+      "tz_id": "Asia/Saigon",
+      "kshetra": "Asia",
+      "shahar": "हो ची मिन्ह सिटी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 62,
+      "tz_id": "Asia/Sakhalin",
+      "kshetra": "Asia",
+      "shahar": "सखालिन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 63,
+      "tz_id": "Asia/Samarkand",
+      "kshetra": "Asia",
+      "shahar": "समरकंद",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 64,
+      "tz_id": "Asia/Seoul",
+      "kshetra": "Asia",
+      "shahar": "सिओल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 65,
+      "tz_id": "Asia/Shanghai",
+      "kshetra": "Asia",
+      "shahar": "शंघाई",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 66,
+      "tz_id": "Asia/Singapore",
+      "kshetra": "Asia",
+      "shahar": "सिंगापुर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 67,
+      "tz_id": "Asia/Srednekolymsk",
+      "kshetra": "Asia",
+      "shahar": "स्रेद्निकोलिमस्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 68,
+      "tz_id": "Asia/Taipei",
+      "kshetra": "Asia",
+      "shahar": "ताईपेई",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 69,
+      "tz_id": "Asia/Tashkent",
+      "kshetra": "Asia",
+      "shahar": "ताशकंद",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 70,
+      "tz_id": "Asia/Tbilisi",
+      "kshetra": "Asia",
+      "shahar": "टबिलिसी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 71,
+      "tz_id": "Asia/Tehran",
+      "kshetra": "Asia",
+      "shahar": "तेहरान",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 72,
+      "tz_id": "Asia/Thimphu",
+      "kshetra": "Asia",
+      "shahar": "थिंपू",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 73,
+      "tz_id": "Asia/Tokyo",
+      "kshetra": "Asia",
+      "shahar": "टोक्यो",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 74,
+      "tz_id": "Asia/Tomsk",
+      "kshetra": "Asia",
+      "shahar": "तोम्स्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 75,
+      "tz_id": "Asia/Ulaanbaatar",
+      "kshetra": "Asia",
+      "shahar": "उलानबातर",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 76,
+      "tz_id": "Asia/Urumqi",
+      "kshetra": "Asia",
+      "shahar": "उरूम्की",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 77,
+      "tz_id": "Asia/Ust-Nera",
+      "kshetra": "Asia",
+      "shahar": "यूस्ट–नेरा",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 78,
+      "tz_id": "Asia/Vientiane",
+      "kshetra": "Asia",
+      "shahar": "विएनतियान",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 79,
+      "tz_id": "Asia/Vladivostok",
+      "kshetra": "Asia",
+      "shahar": "व्लादिवोस्तोक",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 80,
+      "tz_id": "Asia/Yakutsk",
+      "kshetra": "Asia",
+      "shahar": "याकूत्स्क",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 81,
+      "tz_id": "Asia/Yekaterinburg",
+      "kshetra": "Asia",
+      "shahar": "येकातेरिनबर्ग",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 82,
+      "tz_id": "Asia/Yerevan",
+      "kshetra": "Asia",
+      "shahar": "येरेवान",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    }
+  ],
+  "meta": {
+    "title": "समय क्षेत्र — Asia (82) - मुफ़्त डाउनलोड",
+    "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Asia/' से आरंभ होता है, हिन्दी नामों सहित। शामिल हैं 82 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "समय क्षेत्र — Asia (82) | ListBase",
+    "seo_description": "डाउनलोड समय क्षेत्र — Asia (82) — 82 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 82 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

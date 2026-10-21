@@ -1,0 +1,254 @@
+{
+  "id": "hi-moradabad-bank",
+  "name": "Moradabad में बैंक — SWIFT/BIC कोड",
+  "title": "Moradabad में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Moradabad, India. Subset of hi-bank. Source city string preserved verbatim as \"MORADABAD\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 41,
+      "bank": "ALLAHABAD BANK",
+      "city": "MORADABAD",
+      "branch": "(INTERNATIONAL BRANCH, MORADABAD)",
+      "swift_code": "ALLAINBBMBD"
+    },
+    {
+      "id": 42,
+      "bank": "ALLAHABAD BANK",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD)",
+      "swift_code": "ALLAINBBMCO"
+    },
+    {
+      "id": 103,
+      "bank": "ANDHRA BANK",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD BRANCH)",
+      "swift_code": "ANDBINBBMOR"
+    },
+    {
+      "id": 440,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MORADABAD",
+      "branch": "(DELHI ROAD)",
+      "swift_code": "AXISINBBA55"
+    },
+    {
+      "id": 441,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD)",
+      "swift_code": "AXISINBB282"
+    },
+    {
+      "id": 692,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MORADABAD",
+      "branch": "",
+      "swift_code": "UTIBINB1282"
+    },
+    {
+      "id": 820,
+      "bank": "BANK OF BARODA",
+      "city": "MORADABAD",
+      "branch": "(INTERNATIONAL BUSINESS BR. MORADABAD)",
+      "swift_code": "BARBINBBMOR"
+    },
+    {
+      "id": 1008,
+      "bank": "BANK OF INDIA",
+      "city": "MORADABAD",
+      "branch": "(SSI MORADABAD BRANCH)",
+      "swift_code": "BKIDINBBMSI"
+    },
+    {
+      "id": 1300,
+      "bank": "CANARA BANK",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD MANDI CHOWK)",
+      "swift_code": "CNRBINBBMMC"
+    },
+    {
+      "id": 1301,
+      "bank": "CANARA BANK",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBOBM"
+    },
+    {
+      "id": 1302,
+      "bank": "CANARA BANK",
+      "city": "MORADABAD",
+      "branch": "",
+      "swift_code": "CNRBINBBMOR"
+    },
+    {
+      "id": 1437,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD)",
+      "swift_code": "CBININBBMOR"
+    },
+    {
+      "id": 1556,
+      "bank": "CORPORATION BANK",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD)",
+      "swift_code": "CORPINBB612"
+    },
+    {
+      "id": 1663,
+      "bank": "DENA BANK",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD BRANCH)",
+      "swift_code": "BKDNINBBMOR"
+    },
+    {
+      "id": 1945,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD BRANCH)",
+      "swift_code": "IBKLINBB122"
+    },
+    {
+      "id": 2164,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MORADABAD",
+      "branch": "(MAJHOLA BRANCH, MORADABAD)",
+      "swift_code": "IOBAINBBE10"
+    },
+    {
+      "id": 2165,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MORADABAD",
+      "branch": "",
+      "swift_code": "IOBAINBB526"
+    },
+    {
+      "id": 2296,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD BRANCH)",
+      "swift_code": "JAKAINBBMBD"
+    },
+    {
+      "id": 2507,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MORADABAD",
+      "branch": "(BRANCH OFFICE MORADABAD, UTTAR PRADESH)",
+      "swift_code": "ORBCINBBMOR"
+    },
+    {
+      "id": 2731,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "MORADABAD",
+      "branch": "(INTERNATIONAL BANKING BRANCH)",
+      "swift_code": "PUNBINBBMBD"
+    },
+    {
+      "id": 3365,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MORADABAD",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBP34"
+    },
+    {
+      "id": 3366,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MORADABAD",
+      "branch": "(OVERSEAS BRANCH, MORADABAD CIVIL LINES, MORADABAD)",
+      "swift_code": "SBININBB167"
+    },
+    {
+      "id": 3793,
+      "bank": "SYNDICATE BANK",
+      "city": "MORADABAD",
+      "branch": "(MID CORPORATE MORADABAD)",
+      "swift_code": "SYNBINBBAV9"
+    },
+    {
+      "id": 3794,
+      "bank": "SYNDICATE BANK",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD BRANCH)",
+      "swift_code": "SYNBINBB011"
+    },
+    {
+      "id": 4000,
+      "bank": "UCO BANK",
+      "city": "MORADABAD",
+      "branch": "(CIVIL LINES MORADABAD)",
+      "swift_code": "UCBAINBB240"
+    },
+    {
+      "id": 4001,
+      "bank": "UCO BANK",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD BARTAN BAZAR BRANCH)",
+      "swift_code": "UCBAINBB218"
+    },
+    {
+      "id": 4083,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MORADABAD",
+      "branch": "(OVERSEAS BRANCH, MORADABAD)",
+      "swift_code": "UBININBBMOR"
+    },
+    {
+      "id": 4162,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD BRANCH)",
+      "swift_code": "UTBIINBBMRB"
+    },
+    {
+      "id": 4226,
+      "bank": "VIJAYA BANK",
+      "city": "MORADABAD",
+      "branch": "(MORADABAD BRANCH)",
+      "swift_code": "VIJBINBBMOR"
+    }
+  ],
+  "meta": {
+    "title": "Moradabad में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Moradabad, India. Subset of hi-bank. Source city string preserved verbatim as \"MORADABAD\". शामिल हैं 29 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Moradabad में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Moradabad में बैंक — SWIFT/BIC कोड — 29 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 29 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

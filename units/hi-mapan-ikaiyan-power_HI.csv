@@ -1,0 +1,7 @@
+﻿"Id","Unit Code","Shreni","Naam","Sanket","Sankeern","Paitarn"
+"1","power-gigawatt","power","गिगावॉट","GW","GW","{0} गिगावॉट"
+"2","power-horsepower","power","अश्वशक्ति","hp","hp","{0} अश्वशक्ति"
+"3","power-kilowatt","power","किलोवॉट","kW","kW","{0} किलोवॉट"
+"4","power-megawatt","power","मेगावॉट","MW","MW","{0} मेगावॉट"
+"5","power-milliwatt","power","मिलीवॉट","mW","mW","{0} मिलीवॉट"
+"6","power-watt","power","वॉट","वॉट","वॉट","{0} वॉट"

@@ -1,0 +1,97 @@
+{
+  "id": "hi-mapan-ikaiyan-force",
+  "name": "मापन इकाइयाँ — श्रेणी 'force' (4)",
+  "title": "मापन इकाइयाँ — श्रेणी 'force' (4)",
+  "description": "CLDR hi लोकेल की 'force' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित।",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "shreni",
+      "label": "Shreni",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sanket",
+      "label": "Sanket",
+      "type": "string"
+    },
+    {
+      "key": "sankeern",
+      "label": "Sankeern",
+      "type": "string"
+    },
+    {
+      "key": "paitarn",
+      "label": "Paitarn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "force-kilogram-force",
+      "shreni": "force",
+      "naam": "किलोग्राम-फ़ोर्स",
+      "sanket": "kgf",
+      "sankeern": "kgf",
+      "paitarn": "{0} किलोग्राम-फ़ोर्स"
+    },
+    {
+      "id": 2,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "shreni": "force",
+      "naam": "kWh/100km",
+      "sanket": "kWh/100km",
+      "sankeern": "kWh/100km",
+      "paitarn": "{0} kWh/100km"
+    },
+    {
+      "id": 3,
+      "unit_code": "force-newton",
+      "shreni": "force",
+      "naam": "न्यूटन",
+      "sanket": "न्यू॰",
+      "sankeern": "न्यू॰",
+      "paitarn": "{0} न्यूटन"
+    },
+    {
+      "id": 4,
+      "unit_code": "force-pound-force",
+      "shreni": "force",
+      "naam": "पाउंड-बल",
+      "sanket": "lbf",
+      "sankeern": "lbf",
+      "paitarn": "{0} पाउंड-बल"
+    }
+  ],
+  "meta": {
+    "title": "मापन इकाइयाँ — श्रेणी 'force' (4) - मुफ़्त डाउनलोड",
+    "description": "CLDR hi लोकेल की 'force' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित। शामिल हैं 4 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मापन इकाइयाँ — श्रेणी 'force' (4) | ListBase",
+    "seo_description": "डाउनलोड मापन इकाइयाँ — श्रेणी 'force' (4) — 4 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 4 रिकॉर्ड / 7 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

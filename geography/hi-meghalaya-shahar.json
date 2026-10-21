@@ -1,0 +1,1436 @@
+{
+  "id": "hi-meghalaya-shahar",
+  "name": "मेघालय के शहर (Meghalaya Cities)",
+  "title": "मेघालय के शहर (Meghalaya Cities)",
+  "description": "मेघालय राज्य के 137 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 137 cities and towns in Meghalaya, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 137,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adugiri",
+      "name_lower": "adugiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.433333,
+      "longitude": 90.233333
+    },
+    {
+      "name": "Baghamara",
+      "name_lower": "baghamara",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 90.633333
+    },
+    {
+      "name": "Bajendoba",
+      "name_lower": "bajendoba",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.9,
+      "longitude": 90.516667
+    },
+    {
+      "name": "Bajengdoba",
+      "name_lower": "bajengdoba",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.9,
+      "longitude": 90.516667
+    },
+    {
+      "name": "Bangsi",
+      "name_lower": "bangsi",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.866667,
+      "longitude": 90.733333
+    },
+    {
+      "name": "Barato",
+      "name_lower": "barato",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.616667,
+      "longitude": 92.466667
+    },
+    {
+      "name": "Barni Hat",
+      "name_lower": "barni hat",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 91.866667
+    },
+    {
+      "name": "Bataw",
+      "name_lower": "bataw",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.233333,
+      "longitude": 92.25
+    },
+    {
+      "name": "Bhoilymbong",
+      "name_lower": "bhoilymbong",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 92.016667
+    },
+    {
+      "name": "Bishwarpur",
+      "name_lower": "bishwarpur",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25,
+      "longitude": 92.45
+    },
+    {
+      "name": "Chaptuk",
+      "name_lower": "chaptuk",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Cheran",
+      "name_lower": "cheran",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.716667,
+      "longitude": 90.683333
+    },
+    {
+      "name": "Cherapunji",
+      "name_lower": "cherapunji",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 91.7
+    },
+    {
+      "name": "Cherrapunjee",
+      "name_lower": "cherrapunjee",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 91.7
+    },
+    {
+      "name": "Cherrapunji",
+      "name_lower": "cherrapunji",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": 11090,
+      "latitude": 25.3,
+      "longitude": 91.7
+    },
+    {
+      "name": "Cherripunji",
+      "name_lower": "cherripunji",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 91.7
+    },
+    {
+      "name": "Chibilbang",
+      "name_lower": "chibilbang",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 90.766667
+    },
+    {
+      "name": "Dabigiri",
+      "name_lower": "dabigiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 90.216667
+    },
+    {
+      "name": "Dainadubi",
+      "name_lower": "dainadubi",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.916667,
+      "longitude": 90.766667
+    },
+    {
+      "name": "Dambu",
+      "name_lower": "dambu",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 90.833333
+    },
+    {
+      "name": "Damra",
+      "name_lower": "damra",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.933333,
+      "longitude": 90.766667
+    },
+    {
+      "name": "Darugiri",
+      "name_lower": "darugiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 90.75
+    },
+    {
+      "name": "Digli",
+      "name_lower": "digli",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 89.85
+    },
+    {
+      "name": "Digligiri",
+      "name_lower": "digligiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 89.85
+    },
+    {
+      "name": "Dingpasoh",
+      "name_lower": "dingpasoh",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 92.05
+    },
+    {
+      "name": "Diwon",
+      "name_lower": "diwon",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 92.016667
+    },
+    {
+      "name": "Dommati",
+      "name_lower": "dommati",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.85,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Donmatia",
+      "name_lower": "donmatia",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.85,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Garobadha",
+      "name_lower": "garobadha",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 90.033333
+    },
+    {
+      "name": "Gasnapara",
+      "name_lower": "gasnapara",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 90.35
+    },
+    {
+      "name": "Gasuapara",
+      "name_lower": "gasuapara",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 90.35
+    },
+    {
+      "name": "Genapara",
+      "name_lower": "genapara",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 90.016667
+    },
+    {
+      "name": "Jakrem",
+      "name_lower": "jakrem",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.4,
+      "longitude": 91.5
+    },
+    {
+      "name": "Jarain",
+      "name_lower": "jarain",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 92.133333
+    },
+    {
+      "name": "Jongohetpara",
+      "name_lower": "jongohetpara",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 90.016667
+    },
+    {
+      "name": "Jowai",
+      "name_lower": "jowai",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 92.2
+    },
+    {
+      "name": "Khaddum",
+      "name_lower": "khaddum",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.15,
+      "longitude": 92.45
+    },
+    {
+      "name": "Khainduli",
+      "name_lower": "khainduli",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 92.433333
+    },
+    {
+      "name": "Khatdom",
+      "name_lower": "khatdom",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.15,
+      "longitude": 92.45
+    },
+    {
+      "name": "Kherapara",
+      "name_lower": "kherapara",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 90.233333
+    },
+    {
+      "name": "Kobak",
+      "name_lower": "kobak",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 92.8
+    },
+    {
+      "name": "Ksehkma Bazar",
+      "name_lower": "ksehkma bazar",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.866667,
+      "longitude": 92.1
+    },
+    {
+      "name": "Kynshi",
+      "name_lower": "kynshi",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 91.55
+    },
+    {
+      "name": "Kyrdem",
+      "name_lower": "kyrdem",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 92.083333
+    },
+    {
+      "name": "Laitlyngkot",
+      "name_lower": "laitlyngkot",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 91.833333
+    },
+    {
+      "name": "Laitmawpan",
+      "name_lower": "laitmawpan",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 91.833333
+    },
+    {
+      "name": "Laitmawsiang",
+      "name_lower": "laitmawsiang",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.383333,
+      "longitude": 91.616667
+    },
+    {
+      "name": "Lakadong",
+      "name_lower": "lakadong",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 92.283333
+    },
+    {
+      "name": "Lobang",
+      "name_lower": "lobang",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Lyngiong",
+      "name_lower": "lyngiong",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.416667,
+      "longitude": 91.716667
+    },
+    {
+      "name": "Mahendraganj",
+      "name_lower": "mahendraganj",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 89.85
+    },
+    {
+      "name": "Mairang",
+      "name_lower": "mairang",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": 12586,
+      "latitude": 25.566667,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Manikarchar",
+      "name_lower": "manikarchar",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 89.866667
+    },
+    {
+      "name": "Mankachar",
+      "name_lower": "mankachar",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": 31092,
+      "latitude": 25.533333,
+      "longitude": 89.866667
+    },
+    {
+      "name": "Mawdem",
+      "name_lower": "mawdem",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.8,
+      "longitude": 91.483333
+    },
+    {
+      "name": "Mawdoh",
+      "name_lower": "mawdoh",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 91.4
+    },
+    {
+      "name": "Mawhati",
+      "name_lower": "mawhati",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.816667,
+      "longitude": 92.083333
+    },
+    {
+      "name": "Mawiong",
+      "name_lower": "mawiong",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.566667,
+      "longitude": 91.716667
+    },
+    {
+      "name": "Mawiyngkhung",
+      "name_lower": "mawiyngkhung",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.666667,
+      "longitude": 91.9
+    },
+    {
+      "name": "Mawkarah",
+      "name_lower": "mawkarah",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 91.566667
+    },
+    {
+      "name": "Mawliba",
+      "name_lower": "mawliba",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.55,
+      "longitude": 91.183333
+    },
+    {
+      "name": "Mawlyngkhung",
+      "name_lower": "mawlyngkhung",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.666667,
+      "longitude": 91.9
+    },
+    {
+      "name": "Mawlyngkneng",
+      "name_lower": "mawlyngkneng",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.566667,
+      "longitude": 92.066667
+    },
+    {
+      "name": "Mawphlang",
+      "name_lower": "mawphlang",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 91.766667
+    },
+    {
+      "name": "Mawrongor",
+      "name_lower": "mawrongor",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 91.433333
+    },
+    {
+      "name": "Mawsynram",
+      "name_lower": "mawsynram",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 91.583333
+    },
+    {
+      "name": "Mohendroganj",
+      "name_lower": "mohendroganj",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 89.85
+    },
+    {
+      "name": "Mohindurgunj",
+      "name_lower": "mohindurgunj",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 89.85
+    },
+    {
+      "name": "Mokalaw",
+      "name_lower": "mokalaw",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 92.466667
+    },
+    {
+      "name": "Mongwalbibra",
+      "name_lower": "mongwalbibra",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 90.7
+    },
+    {
+      "name": "Mutah",
+      "name_lower": "mutah",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 92.283333
+    },
+    {
+      "name": "Mylliem",
+      "name_lower": "mylliem",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 91.833333
+    },
+    {
+      "name": "Mynsning",
+      "name_lower": "mynsning",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.383333,
+      "longitude": 92.55
+    },
+    {
+      "name": "Mynso",
+      "name_lower": "mynso",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.566667,
+      "longitude": 92.333333
+    },
+    {
+      "name": "Nartiang",
+      "name_lower": "nartiang",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.566667,
+      "longitude": 92.216667
+    },
+    {
+      "name": "Nengkhra Agalgiri",
+      "name_lower": "nengkhra agalgiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 90.7
+    },
+    {
+      "name": "Nongbah",
+      "name_lower": "nongbah",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 92.266667
+    },
+    {
+      "name": "Nongjrong",
+      "name_lower": "nongjrong",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 92.1
+    },
+    {
+      "name": "Nongkhlao",
+      "name_lower": "nongkhlao",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Nongkhlaw",
+      "name_lower": "nongkhlaw",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Nongkram",
+      "name_lower": "nongkram",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 91.883333
+    },
+    {
+      "name": "Nongkrem",
+      "name_lower": "nongkrem",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 91.883333
+    },
+    {
+      "name": "Nongkynshi",
+      "name_lower": "nongkynshi",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 91.55
+    },
+    {
+      "name": "Nongpoh",
+      "name_lower": "nongpoh",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": 14387,
+      "latitude": 25.9,
+      "longitude": 91.883333
+    },
+    {
+      "name": "Nongpur",
+      "name_lower": "nongpur",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 91.05
+    },
+    {
+      "name": "Nongspung",
+      "name_lower": "nongspung",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.45,
+      "longitude": 91.6
+    },
+    {
+      "name": "Nongstoin",
+      "name_lower": "nongstoin",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": 25760,
+      "latitude": 25.516667,
+      "longitude": 91.266667
+    },
+    {
+      "name": "Nongwalbibra",
+      "name_lower": "nongwalbibra",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 90.7
+    },
+    {
+      "name": "Nongwalhibra",
+      "name_lower": "nongwalhibra",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 90.7
+    },
+    {
+      "name": "Pambriew",
+      "name_lower": "pambriew",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.433333,
+      "longitude": 91.366667
+    },
+    {
+      "name": "Pamdkhar",
+      "name_lower": "pamdkhar",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 92.383333
+    },
+    {
+      "name": "Panikunda",
+      "name_lower": "panikunda",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 91.033333
+    },
+    {
+      "name": "Patakata",
+      "name_lower": "patakata",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.85,
+      "longitude": 89.983333
+    },
+    {
+      "name": "Patharkhnang",
+      "name_lower": "patharkhnang",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 91.166667
+    },
+    {
+      "name": "Patharknang",
+      "name_lower": "patharknang",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.633333,
+      "longitude": 91.166667
+    },
+    {
+      "name": "Pdengshakap",
+      "name_lower": "pdengshakap",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.233333,
+      "longitude": 92.133333
+    },
+    {
+      "name": "Phlangmawphra",
+      "name_lower": "phlangmawphra",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 91.266667
+    },
+    {
+      "name": "Psiar",
+      "name_lower": "psiar",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 92.583333
+    },
+    {
+      "name": "Pynursla",
+      "name_lower": "pynursla",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 91.9
+    },
+    {
+      "name": "Rambrai",
+      "name_lower": "rambrai",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.666667,
+      "longitude": 91.316667
+    },
+    {
+      "name": "Rangshken",
+      "name_lower": "rangshken",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 91.733333
+    },
+    {
+      "name": "Rangthong",
+      "name_lower": "rangthong",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 91.4
+    },
+    {
+      "name": "Rembigiri",
+      "name_lower": "rembigiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.866667,
+      "longitude": 90.466667
+    },
+    {
+      "name": "Rengjeng",
+      "name_lower": "rengjeng",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 90.883333
+    },
+    {
+      "name": "Rewak Songmong",
+      "name_lower": "rewak songmong",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 90.666667
+    },
+    {
+      "name": "Ringkhap Songmong",
+      "name_lower": "ringkhap songmong",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 90.433333
+    },
+    {
+      "name": "Rongchugiri",
+      "name_lower": "rongchugiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 90.15
+    },
+    {
+      "name": "Rongjeng",
+      "name_lower": "rongjeng",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 90.883333
+    },
+    {
+      "name": "Rongmachokgiri",
+      "name_lower": "rongmachokgiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.816667,
+      "longitude": 90.1
+    },
+    {
+      "name": "Rongra",
+      "name_lower": "rongra",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 90.8
+    },
+    {
+      "name": "Rongram",
+      "name_lower": "rongram",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.583333,
+      "longitude": 90.25
+    },
+    {
+      "name": "Rongrenggiri",
+      "name_lower": "rongrenggiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.55,
+      "longitude": 90.566667
+    },
+    {
+      "name": "Rongsanggiri",
+      "name_lower": "rongsanggiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 90.016667
+    },
+    {
+      "name": "Saitthad",
+      "name_lower": "saitthad",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.55,
+      "longitude": 92.533333
+    },
+    {
+      "name": "Sangsik",
+      "name_lower": "sangsik",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 90.866667
+    },
+    {
+      "name": "Selbalgiri",
+      "name_lower": "selbalgiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 90.116667
+    },
+    {
+      "name": "Shangpung",
+      "name_lower": "shangpung",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 92.35
+    },
+    {
+      "name": "Shillong",
+      "name_lower": "shillong",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": 132853,
+      "latitude": 25.575556,
+      "longitude": 91.873056
+    },
+    {
+      "name": "Singrimari",
+      "name_lower": "singrimari",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.716667,
+      "longitude": 89.9
+    },
+    {
+      "name": "Smet",
+      "name_lower": "smet",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 91.9
+    },
+    {
+      "name": "Smit",
+      "name_lower": "smit",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 91.9
+    },
+    {
+      "name": "Sohrarim",
+      "name_lower": "sohrarim",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.35,
+      "longitude": 91.733333
+    },
+    {
+      "name": "Songsak",
+      "name_lower": "songsak",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.65,
+      "longitude": 90.6
+    },
+    {
+      "name": "Suanggiri",
+      "name_lower": "suanggiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.516667,
+      "longitude": 90.8
+    },
+    {
+      "name": "Sutnga",
+      "name_lower": "sutnga",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 92.45
+    },
+    {
+      "name": "Thongbolgiri",
+      "name_lower": "thongbolgiri",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 90.4
+    },
+    {
+      "name": "Thuruk",
+      "name_lower": "thuruk",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.25,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Tikrikila",
+      "name_lower": "tikrikila",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 90.233333
+    },
+    {
+      "name": "Tongseng",
+      "name_lower": "tongseng",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 92.5
+    },
+    {
+      "name": "Tura",
+      "name_lower": "tura",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": 63650,
+      "latitude": 25.516667,
+      "longitude": 90.216667
+    },
+    {
+      "name": "Umlaiteng",
+      "name_lower": "umlaiteng",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.8,
+      "longitude": 92.05
+    },
+    {
+      "name": "Umlympung",
+      "name_lower": "umlympung",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 91.833333
+    },
+    {
+      "name": "Umran",
+      "name_lower": "umran",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 91.883333
+    },
+    {
+      "name": "Umshem",
+      "name_lower": "umshem",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 91.3
+    },
+    {
+      "name": "Umsning",
+      "name_lower": "umsning",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.75,
+      "longitude": 91.883333
+    },
+    {
+      "name": "Wahjajer",
+      "name_lower": "wahjajer",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 92.166667
+    },
+    {
+      "name": "Waitang",
+      "name_lower": "waitang",
+      "state": "Meghalaya",
+      "state_hi": "मेघालय",
+      "region_code": "18",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 92.816667
+    }
+  ],
+  "meta": {
+    "title": "मेघालय के शहर (Meghalaya Cities) - मुफ़्त डाउनलोड",
+    "description": "मेघालय राज्य के 137 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 137 cities and towns in Meghalaya, India, with population and geographic coordinates. शामिल हैं 137 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मेघालय के शहर (Meghalaya Cities) | ListBase",
+    "seo_description": "डाउनलोड मेघालय के शहर (Meghalaya Cities) — 137 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 137 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

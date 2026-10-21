@@ -1,0 +1,478 @@
+{
+  "id": "hi-ludhiana-bank",
+  "name": "Ludhiana में बैंक — SWIFT/BIC कोड",
+  "title": "Ludhiana में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Ludhiana, India. Subset of hi-bank. Source city string preserved verbatim as \"LUDHIANA\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 39,
+      "bank": "ALLAHABAD BANK",
+      "city": "LUDHIANA",
+      "branch": "(INTERNATIONAL BRANCH)",
+      "swift_code": "ALLAINBBLIB"
+    },
+    {
+      "id": 102,
+      "bank": "ANDHRA BANK",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA)",
+      "swift_code": "ANDBINBBLUD"
+    },
+    {
+      "id": 430,
+      "bank": "AXIS BANK LIMITED",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA)",
+      "swift_code": "AXISINBB042"
+    },
+    {
+      "id": 431,
+      "bank": "AXIS BANK LIMITED",
+      "city": "LUDHIANA",
+      "branch": "(MATA RANI CHOWK, LUDHIANA (PB) : 1026)",
+      "swift_code": "AXISINBBA61"
+    },
+    {
+      "id": 432,
+      "bank": "AXIS BANK LIMITED",
+      "city": "LUDHIANA",
+      "branch": "(MILLERGANJ)",
+      "swift_code": "AXISINBB324"
+    },
+    {
+      "id": 688,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH)",
+      "swift_code": "UTIBINB1042"
+    },
+    {
+      "id": 689,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "LUDHIANA",
+      "branch": "(MILLERGANJ LUDHIANA)",
+      "swift_code": "UTIBINB1324"
+    },
+    {
+      "id": 814,
+      "bank": "BANK OF BARODA",
+      "city": "LUDHIANA",
+      "branch": "(CLOCK TOWER BR.)",
+      "swift_code": "BARBINBBLUD"
+    },
+    {
+      "id": 815,
+      "bank": "BANK OF BARODA",
+      "city": "LUDHIANA",
+      "branch": "(MID-CORPORATE BR, LUDHIANA)",
+      "swift_code": "BARBINBBMCL"
+    },
+    {
+      "id": 998,
+      "bank": "BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH, MAIN)",
+      "swift_code": "BKIDINBBLUD"
+    },
+    {
+      "id": 999,
+      "bank": "BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA INDUSTRIAL AREA)",
+      "swift_code": "BKIDINBBLIA"
+    },
+    {
+      "id": 1000,
+      "bank": "BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA MCB)",
+      "swift_code": "BKIDINBBLMB"
+    },
+    {
+      "id": 1001,
+      "bank": "BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA SSI)",
+      "swift_code": "BKIDINBBLSE"
+    },
+    {
+      "id": 1002,
+      "bank": "BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(MODEL TOWN BRANCH)",
+      "swift_code": "BKIDINBBLDH"
+    },
+    {
+      "id": 1135,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA)",
+      "swift_code": "MAHBINBBLUD"
+    },
+    {
+      "id": 1292,
+      "bank": "CANARA BANK",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BHARAT NAGAR CHOWK BRANCH)",
+      "swift_code": "CNRBINBBIDL"
+    },
+    {
+      "id": 1293,
+      "bank": "CANARA BANK",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBOBL"
+    },
+    {
+      "id": 1434,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(MILLER GIANJ, LUDHIANA)",
+      "swift_code": "CBININBBLUD"
+    },
+    {
+      "id": 1549,
+      "bank": "CORPORATION BANK",
+      "city": "LUDHIANA",
+      "branch": "",
+      "swift_code": "CORPINBB480"
+    },
+    {
+      "id": 1635,
+      "bank": "DCB BANK LIMITED",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA)",
+      "swift_code": "DCBLINBB107"
+    },
+    {
+      "id": 1662,
+      "bank": "DENA BANK",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH, MATA RANI CHOWK)",
+      "swift_code": "BKDNINBBLDN"
+    },
+    {
+      "id": 1784,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA)",
+      "swift_code": "FDRLINBBLDN"
+    },
+    {
+      "id": 1879,
+      "bank": "ICICI BANK LIMITED",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH)",
+      "swift_code": "ICICINBB017"
+    },
+    {
+      "id": 1942,
+      "bank": "IDBI BANK LIMITED",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH)",
+      "swift_code": "IBKLINBB041"
+    },
+    {
+      "id": 2050,
+      "bank": "INDIAN BANK",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH)",
+      "swift_code": "IDIBINBBLDN"
+    },
+    {
+      "id": 2158,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "LUDHIANA",
+      "branch": "(SPECIALIZED MID CORPORATE LUDHIANA)",
+      "swift_code": "IOBAINBBS92"
+    },
+    {
+      "id": 2159,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "LUDHIANA",
+      "branch": "",
+      "swift_code": "IOBAINBB047"
+    },
+    {
+      "id": 2242,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH)",
+      "swift_code": "INDBINBBLUF"
+    },
+    {
+      "id": 2293,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "LUDHIANA",
+      "branch": "(INDUSTRIAL AREA)",
+      "swift_code": "JAKAINBBIAL"
+    },
+    {
+      "id": 2294,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH)",
+      "swift_code": "JAKAINBBLUD"
+    },
+    {
+      "id": 2357,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH)",
+      "swift_code": "KARBINBBLDH"
+    },
+    {
+      "id": 2502,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "LUDHIANA",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "ORBCINBBLDH"
+    },
+    {
+      "id": 2577,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "LUDHIANA",
+      "branch": "(BO SABAN BAZAR LUDHIANA (PUNJAB))",
+      "swift_code": "PSIBINBB025"
+    },
+    {
+      "id": 2578,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "LUDHIANA",
+      "branch": "(IBD LUDHIANA)",
+      "swift_code": "PSIBINBB011"
+    },
+    {
+      "id": 2579,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "LUDHIANA",
+      "branch": "(IFB LUDHIANA)",
+      "swift_code": "PSIBINBB147"
+    },
+    {
+      "id": 2719,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUDHIANA",
+      "branch": "(CHANDIGARH ROAD)",
+      "swift_code": "PUNBINBBLCR"
+    },
+    {
+      "id": 2720,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUDHIANA",
+      "branch": "(INDUSTRIAL AREA)",
+      "swift_code": "PUNBINBBIAL"
+    },
+    {
+      "id": 2721,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUDHIANA",
+      "branch": "(INTERNATIONAL BANKING BRANCH)",
+      "swift_code": "PUNBINBBLIA"
+    },
+    {
+      "id": 2722,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUDHIANA",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "PUNBINBBLMC"
+    },
+    {
+      "id": 2723,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUDHIANA",
+      "branch": "(MILLARGUNJ)",
+      "swift_code": "PUNBINBBLMG"
+    },
+    {
+      "id": 2724,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUDHIANA",
+      "branch": "(SUNDER NAGAR LUDHIANA)",
+      "swift_code": "PUNBINBBLSN"
+    },
+    {
+      "id": 2725,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "LUDHIANA",
+      "branch": "",
+      "swift_code": "PUNBINBBDRK"
+    },
+    {
+      "id": 3333,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP10"
+    },
+    {
+      "id": 3334,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(CIVIL LINES LUDHIANA)",
+      "swift_code": "SBININBB276"
+    },
+    {
+      "id": 3335,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH65"
+    },
+    {
+      "id": 3336,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(INDUSTRIAL FINANCE BRANCH ,LUDHIANA)",
+      "swift_code": "SBININBB121"
+    },
+    {
+      "id": 3337,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(MILLERGANJ LUDHIANA)",
+      "swift_code": "SBININBB281"
+    },
+    {
+      "id": 3338,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBP22"
+    },
+    {
+      "id": 3339,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB163"
+    },
+    {
+      "id": 3340,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(SCB FOCAL POINT,LUDHIANA)",
+      "swift_code": "SBININBB434"
+    },
+    {
+      "id": 3341,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(SCB, CIVIL LINES LUDHIANA)",
+      "swift_code": "SBININBB217"
+    },
+    {
+      "id": 3342,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(SPECIAL HOSIERY BR. SUNDARNAGAR)",
+      "swift_code": "SBININBB289"
+    },
+    {
+      "id": 3343,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(SPECIALIZED NRI BRANCH, LUDHIANA)",
+      "swift_code": "SBININBB674"
+    },
+    {
+      "id": 3344,
+      "bank": "STATE BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(TFCPC, LUDHIANA)",
+      "swift_code": "SBININBB597"
+    },
+    {
+      "id": 3784,
+      "bank": "SYNDICATE BANK",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH)",
+      "swift_code": "SYNBINBB156"
+    },
+    {
+      "id": 3785,
+      "bank": "SYNDICATE BANK",
+      "city": "LUDHIANA",
+      "branch": "(MID CORPORATE LUDHIANA)",
+      "swift_code": "SYNBINBBV75"
+    },
+    {
+      "id": 3923,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA)",
+      "swift_code": "SOININ55411"
+    },
+    {
+      "id": 3998,
+      "bank": "UCO BANK",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA CIVIL LINES BRANCH)",
+      "swift_code": "UCBAINBB216"
+    },
+    {
+      "id": 4077,
+      "bank": "UNION BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "(SSI BRANCH, LUDHIANA)",
+      "swift_code": "UBININBBLDN"
+    },
+    {
+      "id": 4160,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "LUDHIANA",
+      "branch": "",
+      "swift_code": "UTBIINBBLUD"
+    },
+    {
+      "id": 4224,
+      "bank": "VIJAYA BANK",
+      "city": "LUDHIANA",
+      "branch": "(LUDHIANA BRANCH)",
+      "swift_code": "VIJBINBBLDH"
+    }
+  ],
+  "meta": {
+    "title": "Ludhiana में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Ludhiana, India. Subset of hi-bank. Source city string preserved verbatim as \"LUDHIANA\". शामिल हैं 61 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Ludhiana में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Ludhiana में बैंक — SWIFT/BIC कोड — 61 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 61 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

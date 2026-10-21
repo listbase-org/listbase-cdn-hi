@@ -1,0 +1,448 @@
+{
+  "id": "hi-assam-jile",
+  "name": "Assam के जिले (Assam Districts)",
+  "title": "Assam के जिले (Assam Districts)",
+  "description": "31 districts in Assam (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Assam\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "BK",
+      "district": "Baksa",
+      "district_slug": "baksa",
+      "headquarters": "Mushalpur",
+      "population": 953773,
+      "area_km2": 2008,
+      "density_per_km2": 475
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "BP",
+      "district": "Barpeta",
+      "district_slug": "barpeta",
+      "headquarters": "Barpeta",
+      "population": 1693622,
+      "area_km2": 3245,
+      "density_per_km2": 520
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "BO",
+      "district": "Bongaigaon",
+      "district_slug": "bongaigaon",
+      "headquarters": "Bongaigaon",
+      "population": 732639,
+      "area_km2": 1724,
+      "density_per_km2": 425
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "CA",
+      "district": "Cachar",
+      "district_slug": "cachar",
+      "headquarters": "Silchar",
+      "population": 1736319,
+      "area_km2": 3786,
+      "density_per_km2": 459
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "CD",
+      "district": "Charaideo",
+      "district_slug": "charaideo",
+      "headquarters": "Sonari",
+      "population": 471418,
+      "area_km2": 1069,
+      "density_per_km2": 440
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "CH",
+      "district": "Chirang",
+      "district_slug": "chirang",
+      "headquarters": "Kajalgaon",
+      "population": 481818,
+      "area_km2": 1975,
+      "density_per_km2": 244
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "DR",
+      "district": "Darrang",
+      "district_slug": "darrang",
+      "headquarters": "Mangaldoi",
+      "population": 908090,
+      "area_km2": 1849,
+      "density_per_km2": 491
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "DM",
+      "district": "Dhemaji",
+      "district_slug": "dhemaji",
+      "headquarters": "Dhemaji",
+      "population": 688077,
+      "area_km2": 3237,
+      "density_per_km2": 213
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "DU",
+      "district": "Dhubri",
+      "district_slug": "dhubri",
+      "headquarters": "Dhubri",
+      "population": 1948632,
+      "area_km2": 2838,
+      "density_per_km2": 687
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "DI",
+      "district": "Dibrugarh",
+      "district_slug": "dibrugarh",
+      "headquarters": "Dibrugarh",
+      "population": 1327748,
+      "area_km2": 3381,
+      "density_per_km2": 393
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "NC",
+      "district": "Dima Hasao",
+      "district_slug": "dima-hasao",
+      "headquarters": "Haflong",
+      "population": 213529,
+      "area_km2": 4888,
+      "density_per_km2": 44
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "GP",
+      "district": "Goalpara",
+      "district_slug": "goalpara",
+      "headquarters": "Goalpara",
+      "population": 1008959,
+      "area_km2": 1824,
+      "density_per_km2": 553
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "GG",
+      "district": "Golaghat",
+      "district_slug": "golaghat",
+      "headquarters": "Golaghat",
+      "population": 1058674,
+      "area_km2": 3502,
+      "density_per_km2": 302
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "HA",
+      "district": "Hailakandi",
+      "district_slug": "hailakandi",
+      "headquarters": "Hailakandi",
+      "population": 659260,
+      "area_km2": 1327,
+      "density_per_km2": 497
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "JO",
+      "district": "Jorhat",
+      "district_slug": "jorhat",
+      "headquarters": "Jorhat",
+      "population": 1091295,
+      "area_km2": 2851,
+      "density_per_km2": 383
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "KU",
+      "district": "Kamrup",
+      "district_slug": "kamrup",
+      "headquarters": "Amingaon",
+      "population": 1517202,
+      "area_km2": 3480,
+      "density_per_km2": 436
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "KM",
+      "district": "Kamrup Metropolitan",
+      "district_slug": "kamrup-metropolitan",
+      "headquarters": "Guwahati",
+      "population": 1260419,
+      "area_km2": 627,
+      "density_per_km2": 2010
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "KG",
+      "district": "Karbi Anglong",
+      "district_slug": "karbi-anglong",
+      "headquarters": "Diphu",
+      "population": 965280,
+      "area_km2": 10434,
+      "density_per_km2": 93
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "KR",
+      "district": "Karimganj",
+      "district_slug": "karimganj",
+      "headquarters": "Karimganj",
+      "population": 1217002,
+      "area_km2": 1809,
+      "density_per_km2": 673
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "KJ",
+      "district": "Kokrajhar",
+      "district_slug": "kokrajhar",
+      "headquarters": "Kokrajhar",
+      "population": 886999,
+      "area_km2": 3129,
+      "density_per_km2": 283
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "LA",
+      "district": "Lakhimpur",
+      "district_slug": "lakhimpur",
+      "headquarters": "North Lakhimpur",
+      "population": 1040644,
+      "area_km2": 2277,
+      "density_per_km2": 457
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "MJ",
+      "district": "Majuli",
+      "district_slug": "majuli",
+      "headquarters": "Garamur",
+      "population": 167304,
+      "area_km2": 880,
+      "density_per_km2": 300
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "MA",
+      "district": "Morigaon",
+      "district_slug": "morigaon",
+      "headquarters": "Marigaon",
+      "population": 957853,
+      "area_km2": 1704,
+      "density_per_km2": 562
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "NN",
+      "district": "Nagaon",
+      "district_slug": "nagaon",
+      "headquarters": "Nagaon",
+      "population": 2826006,
+      "area_km2": 3831,
+      "density_per_km2": 738
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "NB",
+      "district": "Nalbari",
+      "district_slug": "nalbari",
+      "headquarters": "Nalbari",
+      "population": 769919,
+      "area_km2": 1009,
+      "density_per_km2": 763
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "ST",
+      "district": "Sivasagar",
+      "district_slug": "sivasagar",
+      "headquarters": "Sibsagar",
+      "population": 1150253,
+      "area_km2": 2668,
+      "density_per_km2": 431
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "SO",
+      "district": "Sonitpur",
+      "district_slug": "sonitpur",
+      "headquarters": "Tezpur",
+      "population": 1925975,
+      "area_km2": 5324,
+      "density_per_km2": 362
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "SM",
+      "district": "South Salmara Mankachar",
+      "district_slug": "south-salmara-mankachar",
+      "headquarters": "Hatsingimari",
+      "population": 555114,
+      "area_km2": 568,
+      "density_per_km2": 980
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "TI",
+      "district": "Tinsukia",
+      "district_slug": "tinsukia",
+      "headquarters": "Tinsukia",
+      "population": 1316948,
+      "area_km2": 3790,
+      "density_per_km2": 347
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "UD",
+      "district": "Udalguri",
+      "district_slug": "udalguri",
+      "headquarters": "Udalguri",
+      "population": 832769,
+      "area_km2": 1676,
+      "density_per_km2": 497
+    },
+    {
+      "state": "Assam",
+      "state_code": "AS",
+      "state_slug": "assam",
+      "district_code": "WK",
+      "district": "West Karbi Anglong",
+      "district_slug": "west-karbi-anglong",
+      "headquarters": "Hamren",
+      "population": 300320,
+      "area_km2": 3035,
+      "density_per_km2": 99
+    }
+  ],
+  "meta": {
+    "title": "Assam के जिले (Assam Districts) - मुफ़्त डाउनलोड",
+    "description": "31 districts in Assam (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Assam\". शामिल हैं 31 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Assam के जिले (Assam Districts) | ListBase",
+    "seo_description": "डाउनलोड Assam के जिले (Assam Districts) — 31 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 31 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

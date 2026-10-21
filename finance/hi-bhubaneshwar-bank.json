@@ -1,0 +1,338 @@
+{
+  "id": "hi-bhubaneshwar-bank",
+  "name": "Bhubaneshwar में बैंक — SWIFT/BIC कोड",
+  "title": "Bhubaneshwar में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Bhubaneshwar, India. Subset of hi-bank. Source city string preserved verbatim as \"BHUBANESHWAR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 16,
+      "bank": "ALLAHABAD BANK",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR)",
+      "swift_code": "ALLAINBBBHU"
+    },
+    {
+      "id": 17,
+      "bank": "ALLAHABAD BANK",
+      "city": "BHUBANESHWAR",
+      "branch": "(DALMANDAP PURI)",
+      "swift_code": "ALLAINBBDMP"
+    },
+    {
+      "id": 78,
+      "bank": "ANDHRA BANK",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR MAIN BRANCH)",
+      "swift_code": "ANDBINBBBHU"
+    },
+    {
+      "id": 207,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(ANGUL OR)",
+      "swift_code": "AXISINBB288"
+    },
+    {
+      "id": 208,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(BARBIL)",
+      "swift_code": "AXISINBB502"
+    },
+    {
+      "id": 209,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(BERHAMPURGANJAM (OR)-212)",
+      "swift_code": "AXISINBB212"
+    },
+    {
+      "id": 210,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR BRANCH)",
+      "swift_code": "AXISINBB024"
+    },
+    {
+      "id": 211,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(CHANDRASEKHAR)",
+      "swift_code": "AXISINBB381"
+    },
+    {
+      "id": 212,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(CRPF SQUARE, BHUBANESHWAR (OR):551)",
+      "swift_code": "AXISINBB551"
+    },
+    {
+      "id": 213,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(JEYPORE : 633)",
+      "swift_code": "AXISINBB633"
+    },
+    {
+      "id": 214,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(JHARSUGUDA (OR))",
+      "swift_code": "AXISINBB493"
+    },
+    {
+      "id": 215,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(KALPANA SQRE, BHUBANESHWAR OR)",
+      "swift_code": "AXISINBB438"
+    },
+    {
+      "id": 216,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(RASULGARH)",
+      "swift_code": "AXISINBBA95"
+    },
+    {
+      "id": 661,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR BRANCH)",
+      "swift_code": "UTIBINB1024"
+    },
+    {
+      "id": 762,
+      "bank": "BANK OF BARODA",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR)",
+      "swift_code": "BARBINBBBHU"
+    },
+    {
+      "id": 928,
+      "bank": "BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR MID CORPORATE)",
+      "swift_code": "BKIDINBBBMC"
+    },
+    {
+      "id": 929,
+      "bank": "BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR)",
+      "swift_code": "BKIDINBBBBS"
+    },
+    {
+      "id": 930,
+      "bank": "BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(JAYADEV VIHAR MID CORP BRANCH)",
+      "swift_code": "BKIDINBBJDV"
+    },
+    {
+      "id": 1226,
+      "bank": "CANARA BANK",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR BAPUJI NAGAR MAIN)",
+      "swift_code": "CNRBINBBBHU"
+    },
+    {
+      "id": 1405,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(JANPATH, BHUBNESHWAR, KOLKATA)",
+      "swift_code": "CBININBBBHU"
+    },
+    {
+      "id": 1745,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESWAR)",
+      "swift_code": "FDRLINBBBUB"
+    },
+    {
+      "id": 1835,
+      "bank": "HDFC BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR OPERATIONS)",
+      "swift_code": "HDFCINBBBHU"
+    },
+    {
+      "id": 1867,
+      "bank": "ICICI BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "",
+      "swift_code": "ICICINBB061"
+    },
+    {
+      "id": 1910,
+      "bank": "IDBI BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR)",
+      "swift_code": "IBKLINBB042"
+    },
+    {
+      "id": 2007,
+      "bank": "INDIAN BANK",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR)",
+      "swift_code": "IDIBINBBBWR"
+    },
+    {
+      "id": 2105,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR BRANCH)",
+      "swift_code": "IOBAINBB159"
+    },
+    {
+      "id": 2348,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR BRANCH)",
+      "swift_code": "KARBINBBBWR"
+    },
+    {
+      "id": 2470,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "BHUBANESHWAR",
+      "branch": "(SAHID NAGAR)",
+      "swift_code": "ORBCINBBBHU"
+    },
+    {
+      "id": 2622,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR)",
+      "swift_code": "PUNBINBBBBN"
+    },
+    {
+      "id": 2983,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR MAIN BRANCH)",
+      "swift_code": "SBININBB270"
+    },
+    {
+      "id": 2984,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB119"
+    },
+    {
+      "id": 2985,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(FORTUNE TOWERS BRANCH)",
+      "swift_code": "SBININBB589"
+    },
+    {
+      "id": 2986,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT47"
+    },
+    {
+      "id": 2987,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBH45"
+    },
+    {
+      "id": 2988,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(NRI BRANCH, BHUBANESWAR)",
+      "swift_code": "SBININBB808"
+    },
+    {
+      "id": 3744,
+      "bank": "SYNDICATE BANK",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR BRANCH)",
+      "swift_code": "SYNBINBB143"
+    },
+    {
+      "id": 3897,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR)",
+      "swift_code": "SOININ55082"
+    },
+    {
+      "id": 3964,
+      "bank": "UCO BANK",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESWAR, ASHOK MKT. BRANCH)",
+      "swift_code": "UCBAINBB104"
+    },
+    {
+      "id": 4046,
+      "bank": "UNION BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESHWAR MAIN BRANCH)",
+      "swift_code": "UBININBBBNW"
+    },
+    {
+      "id": 4138,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBANESWAR)",
+      "swift_code": "UTBIINBBBBS"
+    },
+    {
+      "id": 4267,
+      "bank": "YES BANK LIMITED",
+      "city": "BHUBANESHWAR",
+      "branch": "(BHUBHANESWAR BRANCH)",
+      "swift_code": "YESBINBBBBS"
+    }
+  ],
+  "meta": {
+    "title": "Bhubaneshwar में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Bhubaneshwar, India. Subset of hi-bank. Source city string preserved verbatim as \"BHUBANESHWAR\". शामिल हैं 41 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Bhubaneshwar में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Bhubaneshwar में बैंक — SWIFT/BIC कोड — 41 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 41 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

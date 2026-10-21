@@ -1,0 +1,135 @@
+{
+  "id": "hi-udupi-bank",
+  "name": "Udupi में बैंक — SWIFT/BIC कोड",
+  "title": "Udupi में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Udupi, India. Subset of hi-bank. Source city string preserved verbatim as \"UDUPI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 638,
+      "bank": "AXIS BANK LIMITED",
+      "city": "UDUPI",
+      "branch": "(UDUPI (KT))",
+      "swift_code": "AXISINBB181"
+    },
+    {
+      "id": 1390,
+      "bank": "CANARA BANK",
+      "city": "UDUPI",
+      "branch": "(TOWN BRANCH UDUPI)",
+      "swift_code": "CNRBINBBMMR"
+    },
+    {
+      "id": 1599,
+      "bank": "CORPORATION BANK",
+      "city": "UDUPI",
+      "branch": "(AMBALPADY BRANCH)",
+      "swift_code": "CORPINBB164"
+    },
+    {
+      "id": 1600,
+      "bank": "CORPORATION BANK",
+      "city": "UDUPI",
+      "branch": "(DOOPADAKATTE BRANCH)",
+      "swift_code": "CORPINBB245"
+    },
+    {
+      "id": 1601,
+      "bank": "CORPORATION BANK",
+      "city": "UDUPI",
+      "branch": "(HERADI BRANCH)",
+      "swift_code": "CORPINBB240"
+    },
+    {
+      "id": 1602,
+      "bank": "CORPORATION BANK",
+      "city": "UDUPI",
+      "branch": "(KURKAL BRANCH)",
+      "swift_code": "CORPINBB189"
+    },
+    {
+      "id": 1603,
+      "bank": "CORPORATION BANK",
+      "city": "UDUPI",
+      "branch": "(MANIPAL BRANCH)",
+      "swift_code": "CORPINBB128"
+    },
+    {
+      "id": 1604,
+      "bank": "CORPORATION BANK",
+      "city": "UDUPI",
+      "branch": "(PERNAL BRANCH)",
+      "swift_code": "CORPINBB088"
+    },
+    {
+      "id": 1605,
+      "bank": "CORPORATION BANK",
+      "city": "UDUPI",
+      "branch": "(SHIRVA BRANCH)",
+      "swift_code": "CORPINBB013"
+    },
+    {
+      "id": 1606,
+      "bank": "CORPORATION BANK",
+      "city": "UDUPI",
+      "branch": "(UDUPI DK BRANCH)",
+      "swift_code": "CORPINBB001"
+    },
+    {
+      "id": 1607,
+      "bank": "CORPORATION BANK",
+      "city": "UDUPI",
+      "branch": "(ULIYARGOLI BRANCH)",
+      "swift_code": "CORPINBB238"
+    },
+    {
+      "id": 4250,
+      "bank": "VIJAYA BANK",
+      "city": "UDUPI",
+      "branch": "(UDUPI MAIN BRANCH)",
+      "swift_code": "VIJBINBBUDU"
+    }
+  ],
+  "meta": {
+    "title": "Udupi में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Udupi, India. Subset of hi-bank. Source city string preserved verbatim as \"UDUPI\". शामिल हैं 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Udupi में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Udupi में बैंक — SWIFT/BIC कोड — 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 12 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

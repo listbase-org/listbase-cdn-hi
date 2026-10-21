@@ -1,0 +1,163 @@
+{
+  "id": "hi-patna-bank",
+  "name": "Patna में बैंक — SWIFT/BIC कोड",
+  "title": "Patna में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Patna, India. Subset of hi-bank. Source city string preserved verbatim as \"PATNA\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 56,
+      "bank": "ALLAHABAD BANK",
+      "city": "PATNA",
+      "branch": "(EXHIBITION ROAD PATNA)",
+      "swift_code": "ALLAINBBPAT"
+    },
+    {
+      "id": 565,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PATNA",
+      "branch": "(BORING ROAD, PATNA BH)",
+      "swift_code": "AXISINBB387"
+    },
+    {
+      "id": 566,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PATNA",
+      "branch": "(GAYA (BH)-529)",
+      "swift_code": "AXISINBB529"
+    },
+    {
+      "id": 567,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PATNA",
+      "branch": "(HAJIPUR (BH))",
+      "swift_code": "AXISINBB845"
+    },
+    {
+      "id": 568,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PATNA",
+      "branch": "(PATNA CITY,PATNA (BH) :1406)",
+      "swift_code": "AXISINBBA60"
+    },
+    {
+      "id": 569,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PATNA",
+      "branch": "(PATNA)",
+      "swift_code": "AXISINBB142"
+    },
+    {
+      "id": 570,
+      "bank": "AXIS BANK LIMITED",
+      "city": "PATNA",
+      "branch": "(RAJA BAZAR (BH))",
+      "swift_code": "AXISINBBA56"
+    },
+    {
+      "id": 870,
+      "bank": "BANK OF BARODA",
+      "city": "PATNA",
+      "branch": "(PATNA MAIN BRANCH FRAZER ROAD PATNA)",
+      "swift_code": "BARBINBBPAT"
+    },
+    {
+      "id": 1085,
+      "bank": "BANK OF INDIA",
+      "city": "PATNA",
+      "branch": "(PATNA)",
+      "swift_code": "BKIDINBBPAT"
+    },
+    {
+      "id": 1371,
+      "bank": "CANARA BANK",
+      "city": "PATNA",
+      "branch": "(PATNA EXHIBITION ROAD)",
+      "swift_code": "CNRBINBBPER"
+    },
+    {
+      "id": 1451,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "PATNA",
+      "branch": "(PATNA)",
+      "swift_code": "CBININBBPAT"
+    },
+    {
+      "id": 1967,
+      "bank": "IDBI BANK LIMITED",
+      "city": "PATNA",
+      "branch": "(PATNA BRANCH)",
+      "swift_code": "IBKLINBB140"
+    },
+    {
+      "id": 3550,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PATNA",
+      "branch": "(INDUSTRIAL FIN. BR. PATNA)",
+      "swift_code": "SBININBB390"
+    },
+    {
+      "id": 3551,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PATNA",
+      "branch": "(MAIN BRANCH)",
+      "swift_code": "SBININBB156"
+    },
+    {
+      "id": 3552,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PATNA",
+      "branch": "(SPB, PATNA)",
+      "swift_code": "SBININBB391"
+    },
+    {
+      "id": 3553,
+      "bank": "STATE BANK OF INDIA",
+      "city": "PATNA",
+      "branch": "(SPECIALISED NRI BRANCH PATNA)",
+      "swift_code": "SBININBB798"
+    }
+  ],
+  "meta": {
+    "title": "Patna में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Patna, India. Subset of hi-bank. Source city string preserved verbatim as \"PATNA\". शामिल हैं 16 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Patna में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Patna में बैंक — SWIFT/BIC कोड — 16 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 16 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

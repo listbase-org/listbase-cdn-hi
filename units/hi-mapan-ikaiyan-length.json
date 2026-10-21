@@ -1,0 +1,340 @@
+{
+  "id": "hi-mapan-ikaiyan-length",
+  "name": "मापन इकाइयाँ — श्रेणी 'length' (31)",
+  "title": "मापन इकाइयाँ — श्रेणी 'length' (31)",
+  "description": "CLDR hi लोकेल की 'length' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित।",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "shreni",
+      "label": "Shreni",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sanket",
+      "label": "Sanket",
+      "type": "string"
+    },
+    {
+      "key": "sankeern",
+      "label": "Sankeern",
+      "type": "string"
+    },
+    {
+      "key": "paitarn",
+      "label": "Paitarn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "shreni": "length",
+      "naam": "खगोलीय इकाइयाँ",
+      "sanket": "खगो॰ इका॰",
+      "sankeern": "au",
+      "paitarn": "{0} खगोलीय इकाईयां"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "shreni": "length",
+      "naam": "सेंटीमीटर",
+      "sanket": "सें॰मी॰",
+      "sankeern": "सें॰मी॰",
+      "paitarn": "{0} सेंटीमीटर"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "shreni": "length",
+      "naam": "chain",
+      "sanket": "chain",
+      "sankeern": "chain",
+      "paitarn": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "shreni": "length",
+      "naam": "डेसीमीटर",
+      "sanket": "डे॰मी॰",
+      "sankeern": "डेमी",
+      "paitarn": "{0} डेसीमीटर"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "shreni": "length",
+      "naam": "पृथ्वी की त्रिज्या",
+      "sanket": "R⊕",
+      "sankeern": "R⊕",
+      "paitarn": "{0} पृथ्वी की त्रिज्या"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "shreni": "length",
+      "naam": "फ़ैदम",
+      "sanket": "फ़ैदम",
+      "sankeern": "फ़ैदम",
+      "paitarn": "{0} फ़ैदम"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "shreni": "length",
+      "naam": "फ़ीट",
+      "sanket": "फ़ीट",
+      "sankeern": "फ़ीट",
+      "paitarn": "{0} फ़ीट"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "shreni": "length",
+      "naam": "फ़र्लांग",
+      "sanket": "फ़र्लांग",
+      "sankeern": "फ़र्लांग",
+      "paitarn": "{0} फ़र्लांग"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "shreni": "length",
+      "naam": "इंच",
+      "sanket": "इंच",
+      "sankeern": "इंच",
+      "paitarn": "{0} इंच"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "shreni": "length",
+      "naam": "jo [JP]",
+      "sanket": "jo [JP]",
+      "sankeern": "jo [JP]",
+      "paitarn": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "shreni": "length",
+      "naam": "ken [JP]",
+      "sanket": "ken [JP]",
+      "sankeern": "ken [JP]",
+      "paitarn": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "shreni": "length",
+      "naam": "किलोमीटर",
+      "sanket": "कि॰मी॰",
+      "sankeern": "किमी",
+      "paitarn": "{0} किलोमीटर"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "shreni": "length",
+      "naam": "प्रकाश वर्ष",
+      "sanket": "प्रकाश वर्ष",
+      "sankeern": "प्रव",
+      "paitarn": "{0} प्रकाश वर्ष"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "shreni": "length",
+      "naam": "मीटर",
+      "sanket": "मीटर",
+      "sankeern": "मीटर",
+      "paitarn": "{0} मीटर"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "shreni": "length",
+      "naam": "माइक्रोमीटर",
+      "sanket": "μ मा॰मी॰",
+      "sankeern": "μm",
+      "paitarn": "{0} माइक्रोमीटर"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "shreni": "length",
+      "naam": "मील",
+      "sanket": "मील",
+      "sankeern": "मील",
+      "paitarn": "{0} मील"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "shreni": "length",
+      "naam": "मील-स्कैण्डिनेवियन",
+      "sanket": "smi",
+      "sankeern": "smi",
+      "paitarn": "{0} मील-स्कैण्डिनेवियन"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "shreni": "length",
+      "naam": "मिलीमीटर",
+      "sanket": "मि॰मी॰",
+      "sankeern": "मि॰मी॰",
+      "paitarn": "{0} मिलीमीटर"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "shreni": "length",
+      "naam": "नैनोमीटर",
+      "sanket": "नै॰मी॰",
+      "sankeern": "nm",
+      "paitarn": "{0} नैनोमीटर"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "shreni": "length",
+      "naam": "नॉटिकल मील",
+      "sanket": "नॉ॰ मी॰",
+      "sankeern": "nmi",
+      "paitarn": "{0} नॉटिकल मील"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "shreni": "length",
+      "naam": "पार्सेक",
+      "sanket": "पार्सेक",
+      "sankeern": "पार्सेक",
+      "paitarn": "{0} पार्सेक"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "shreni": "length",
+      "naam": "पिकोमीटर",
+      "sanket": "पि॰मी॰",
+      "sankeern": "pm",
+      "paitarn": "{0} पिकोमीटर"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "shreni": "length",
+      "naam": "pt",
+      "sanket": "pt",
+      "sankeern": "pt",
+      "paitarn": "{0} pt"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "shreni": "length",
+      "naam": "ri [JP]",
+      "sanket": "ri [JP]",
+      "sankeern": "ri [JP]",
+      "paitarn": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "shreni": "length",
+      "naam": "rin [JP]",
+      "sanket": "rin [JP]",
+      "sankeern": "rin [JP]",
+      "paitarn": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "shreni": "length",
+      "naam": "rod",
+      "sanket": "rod",
+      "sankeern": "rod",
+      "paitarn": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "shreni": "length",
+      "naam": "shaku [cloth, JP]",
+      "sanket": "shaku [cloth, JP]",
+      "sankeern": "shaku [cloth, JP]",
+      "paitarn": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "shreni": "length",
+      "naam": "shaku [JP]",
+      "sanket": "shaku [JP]",
+      "sankeern": "shaku [JP]",
+      "paitarn": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "shreni": "length",
+      "naam": "सौर अर्धव्यास",
+      "sanket": "R☉",
+      "sankeern": "R☉",
+      "paitarn": "{0} सौर अर्धव्यास"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "shreni": "length",
+      "naam": "sun [JP]",
+      "sanket": "sun [JP]",
+      "sankeern": "sun [JP]",
+      "paitarn": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "shreni": "length",
+      "naam": "यार्ड",
+      "sanket": "गज़",
+      "sankeern": "गज़",
+      "paitarn": "{0} गज़"
+    }
+  ],
+  "meta": {
+    "title": "मापन इकाइयाँ — श्रेणी 'length' (31) - मुफ़्त डाउनलोड",
+    "description": "CLDR hi लोकेल की 'length' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित। शामिल हैं 31 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मापन इकाइयाँ — श्रेणी 'length' (31) | ListBase",
+    "seo_description": "डाउनलोड मापन इकाइयाँ — श्रेणी 'length' (31) — 31 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 31 रिकॉर्ड / 7 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "id": "hi-delhi-bank",
+  "name": "Delhi में बैंक — SWIFT/BIC कोड",
+  "title": "Delhi में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Delhi, India. Subset of hi-bank. Source city string preserved verbatim as \"DELHI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 22,
+      "bank": "ALLAHABAD BANK",
+      "city": "DELHI",
+      "branch": "(FARIDABAD)",
+      "swift_code": "ALLAINBBFRD"
+    },
+    {
+      "id": 263,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(ASHOK VIHAR BRANCH)",
+      "swift_code": "AXISINBB208"
+    },
+    {
+      "id": 264,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(CBB DELHI)",
+      "swift_code": "AXISINBBA09"
+    },
+    {
+      "id": 265,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(CONNAUGHT PLACE)",
+      "swift_code": "AXISINBBA96"
+    },
+    {
+      "id": 266,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(DEFENCE COLONY)",
+      "swift_code": "AXISINBB357"
+    },
+    {
+      "id": 267,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(EAST OF KIALASH)",
+      "swift_code": "AXISINBB593"
+    },
+    {
+      "id": 268,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(JANAKPURI BRANCH)",
+      "swift_code": "AXISINBB207"
+    },
+    {
+      "id": 269,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(JASOLA, NEW DELHI-1148)",
+      "swift_code": "AXISINBBA36"
+    },
+    {
+      "id": 270,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(KIRTI NAGAR)",
+      "swift_code": "AXISINBB250"
+    },
+    {
+      "id": 271,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(KRISHNA NAGAR BRANCH)",
+      "swift_code": "AXISINBB166"
+    },
+    {
+      "id": 272,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(LOK VIHAR)",
+      "swift_code": "AXISINBB588"
+    },
+    {
+      "id": 273,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(MALVIYA NAGAR)",
+      "swift_code": "AXISINBB206"
+    },
+    {
+      "id": 274,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(MANESAR-720)",
+      "swift_code": "AXISINBBA29"
+    },
+    {
+      "id": 275,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(NARAINA VIHAR)",
+      "swift_code": "AXISINBB644"
+    },
+    {
+      "id": 276,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(OKHLA PHASE-I, NEW DELHI- 1103)",
+      "swift_code": "AXISINBBA35"
+    },
+    {
+      "id": 277,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(PALAM)",
+      "swift_code": "AXISINBB132"
+    },
+    {
+      "id": 278,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(PASCHIM VIHAR - 96)",
+      "swift_code": "AXISINBBA14"
+    },
+    {
+      "id": 279,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(PITAMPURA BRANCH)",
+      "swift_code": "AXISINBB040"
+    },
+    {
+      "id": 280,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(PUNJABI BAGH -478)",
+      "swift_code": "AXISINBBA26"
+    },
+    {
+      "id": 281,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(R K MISSION, NEW DELHI (DL))",
+      "swift_code": "AXISINBBA66"
+    },
+    {
+      "id": 282,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(ROHINI-371)",
+      "swift_code": "AXISINBBA23"
+    },
+    {
+      "id": 283,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(SADAR BAZAR, NEW DELHI-1014)",
+      "swift_code": "AXISINBBA33"
+    },
+    {
+      "id": 284,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(SECTOR 54, GURGAON-846)",
+      "swift_code": "AXISINBBA31"
+    },
+    {
+      "id": 285,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(SECTOR-110, NOIDA (UP))",
+      "swift_code": "AXISINBBA67"
+    },
+    {
+      "id": 286,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(SHAKTI NAGAR)",
+      "swift_code": "AXISINBB054"
+    },
+    {
+      "id": 287,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(SHALIMAR BAGH)",
+      "swift_code": "AXISINBB263"
+    },
+    {
+      "id": 288,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(SWASTHYA VIHAR)",
+      "swift_code": "AXISINBB055"
+    },
+    {
+      "id": 289,
+      "bank": "AXIS BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(VASANT VIHAR)",
+      "swift_code": "AXISINBB473"
+    },
+    {
+      "id": 665,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "DELHI",
+      "branch": "(CHANDNI CHOWK BRANCH)",
+      "swift_code": "UTIBINB1254"
+    },
+    {
+      "id": 773,
+      "bank": "BANK OF BARODA",
+      "city": "DELHI",
+      "branch": "(DEFENCE ENCLAVE BRANCH)",
+      "swift_code": "BARBINBBDEF"
+    },
+    {
+      "id": 774,
+      "bank": "BANK OF BARODA",
+      "city": "DELHI",
+      "branch": "(MID CORPORATE BRANCH NEW DELHI)",
+      "swift_code": "BARBINBBMCN"
+    },
+    {
+      "id": 946,
+      "bank": "BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(CHANDNI CHOWK)",
+      "swift_code": "BKIDINBBCHC"
+    },
+    {
+      "id": 947,
+      "bank": "BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(KAMLA NAGAR BRANCH)",
+      "swift_code": "BKIDINBBKML"
+    },
+    {
+      "id": 1248,
+      "bank": "CANARA BANK",
+      "city": "DELHI",
+      "branch": "(GOLE MARKET DELHI)",
+      "swift_code": "CNRBINBBDGO"
+    },
+    {
+      "id": 1249,
+      "bank": "CANARA BANK",
+      "city": "DELHI",
+      "branch": "(PRIME CORPORATE II)",
+      "swift_code": "CNRBINBBIFD"
+    },
+    {
+      "id": 1250,
+      "bank": "CANARA BANK",
+      "city": "DELHI",
+      "branch": "(RAJA GARDEN BRANCH)",
+      "swift_code": "CNRBINBBDRG"
+    },
+    {
+      "id": 1412,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(ASHOKA HOTEL)",
+      "swift_code": "CBININBBASH"
+    },
+    {
+      "id": 1413,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(CORPORATE FINANCE DELHI)",
+      "swift_code": "CBININBBCFD"
+    },
+    {
+      "id": 1414,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(IP KOTA, DELHI)",
+      "swift_code": "CBININBBKOT"
+    },
+    {
+      "id": 1415,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(MCB, DELHI)",
+      "swift_code": "CBININBBMDE"
+    },
+    {
+      "id": 1416,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(NEHRU PLACE, DELHI)",
+      "swift_code": "CBININBBNEH"
+    },
+    {
+      "id": 1417,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(SOUTH EXTENTION, DELHI)",
+      "swift_code": "CBININBBSOU"
+    },
+    {
+      "id": 1509,
+      "bank": "CORPORATION BANK",
+      "city": "DELHI",
+      "branch": "(KAMLANAGAR BRANCH)",
+      "swift_code": "CORPINBB283"
+    },
+    {
+      "id": 2000,
+      "bank": "INDIA POST",
+      "city": "DELHI",
+      "branch": "",
+      "swift_code": "IDDIIND1"
+    },
+    {
+      "id": 2032,
+      "bank": "INDIAN BANK",
+      "city": "DELHI",
+      "branch": "(MEHRAULI INSTITUTIONAL AREA)",
+      "swift_code": "IDIBINBBMHR"
+    },
+    {
+      "id": 2230,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(PREET VIHAR - DELHI)",
+      "swift_code": "INDBINBBDEP"
+    },
+    {
+      "id": 2477,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "DELHI",
+      "branch": "(B/O CHAWRI BAZAR, DELHI)",
+      "swift_code": "ORBCINBBCWD"
+    },
+    {
+      "id": 2478,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "DELHI",
+      "branch": "(B/O L.U. BLOCK, PITAMPURA)",
+      "swift_code": "ORBCINBBLUP"
+    },
+    {
+      "id": 2479,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "DELHI",
+      "branch": "(BIO NAYA BAZAR, DELHI)",
+      "swift_code": "ORBCINBBNBZ"
+    },
+    {
+      "id": 2480,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "DELHI",
+      "branch": "(BRANCH OFFICE FATEHPURI - CHANDNI CHOWK)",
+      "swift_code": "ORBCINBBCCK"
+    },
+    {
+      "id": 2565,
+      "bank": "PUNJAB AND MAHARASHTRA CO-OPERATIVE BANK LIMITED",
+      "city": "DELHI",
+      "branch": "(DELHI - KAROL BAGH)",
+      "swift_code": "PMCBINBBDEL"
+    },
+    {
+      "id": 2573,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "DELHI",
+      "branch": "(FATEHPURI BRANCH)",
+      "swift_code": "PSIBINBB482"
+    },
+    {
+      "id": 2643,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DELHI",
+      "branch": "(BO:GUJRAWALA TOWN, DELHI)",
+      "swift_code": "PUNBINBBDGT"
+    },
+    {
+      "id": 2644,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DELHI",
+      "branch": "(CHANDNI CHOWK)",
+      "swift_code": "PUNBINBBDCC"
+    },
+    {
+      "id": 2645,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DELHI",
+      "branch": "(CIVIL LINES)",
+      "swift_code": "PUNBINBBDCL"
+    },
+    {
+      "id": 2646,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DELHI",
+      "branch": "(MALL ROAD DELHI)",
+      "swift_code": "PUNBINBBDMR"
+    },
+    {
+      "id": 2647,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DELHI",
+      "branch": "(PATPARGANJ)",
+      "swift_code": "PUNBINBBDPG"
+    },
+    {
+      "id": 2648,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DELHI",
+      "branch": "(PREET VIHAR)",
+      "swift_code": "PUNBINBBDPV"
+    },
+    {
+      "id": 2649,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "DELHI",
+      "branch": "(WAZIRPUR (ASHOK VIHAR))",
+      "swift_code": "PUNBINBBDWP"
+    },
+    {
+      "id": 3065,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP57"
+    },
+    {
+      "id": 3066,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(CHANDINI CHOWK DELHI)",
+      "swift_code": "SBININBB160"
+    },
+    {
+      "id": 3067,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(DELHI UNIVERSITY)",
+      "swift_code": "SBININBB544"
+    },
+    {
+      "id": 3068,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ04"
+    },
+    {
+      "id": 3069,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ24"
+    },
+    {
+      "id": 3070,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBJ43"
+    },
+    {
+      "id": 3071,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(SADAR BAZAR,DELHI)",
+      "swift_code": "SBININBB543"
+    },
+    {
+      "id": 3072,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(SME CHURCH MISSION ROAD BRANCH)",
+      "swift_code": "SBININBB777"
+    },
+    {
+      "id": 3073,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(SME NETAJI SUBHASH PLACE BRANCH)",
+      "swift_code": "SBININBB776"
+    },
+    {
+      "id": 3074,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(SSI,SHAHDARA,DELHI)",
+      "swift_code": "SBININBB542"
+    },
+    {
+      "id": 3075,
+      "bank": "STATE BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(UDYOG SADAN BRANCH)",
+      "swift_code": "SBININBB818"
+    },
+    {
+      "id": 3752,
+      "bank": "SYNDICATE BANK",
+      "city": "DELHI",
+      "branch": "(PUNJABI BAGH, NEW DELHI)",
+      "swift_code": "SYNBINBB551"
+    },
+    {
+      "id": 3872,
+      "bank": "THE SARASWAT CO-OPERATIVE BANK LTD.",
+      "city": "DELHI",
+      "branch": "(DELHI FOREX)",
+      "swift_code": "SRCBINBBDEL"
+    },
+    {
+      "id": 3902,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "DELHI",
+      "branch": "(DELHI CORPORATE)",
+      "swift_code": "SOININ55117"
+    },
+    {
+      "id": 4055,
+      "bank": "UNION BANK OF INDIA",
+      "city": "DELHI",
+      "branch": "(KHARI BAOLI BRANCH)",
+      "swift_code": "UBININBBCCD"
+    },
+    {
+      "id": 4210,
+      "bank": "VIJAYA BANK",
+      "city": "DELHI",
+      "branch": "(CORPORATE BANKING BRANCH)",
+      "swift_code": "VIJBINBBCBD"
+    },
+    {
+      "id": 4268,
+      "bank": "YES BANK LIMITED",
+      "city": "DELHI",
+      "branch": "",
+      "swift_code": "YESBINBBDEL"
+    }
+  ],
+  "meta": {
+    "title": "Delhi में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Delhi, India. Subset of hi-bank. Source city string preserved verbatim as \"DELHI\". शामिल हैं 76 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Delhi में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Delhi में बैंक — SWIFT/BIC कोड — 76 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 76 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

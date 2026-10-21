@@ -1,0 +1,268 @@
+{
+  "id": "hi-manipur-jile",
+  "name": "Manipur के जिले (Manipur Districts)",
+  "title": "Manipur के जिले (Manipur Districts)",
+  "description": "16 districts in Manipur (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Manipur\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "BPR",
+      "district": "Bishnupur",
+      "district_slug": "bishnupur",
+      "headquarters": "Bishnupur",
+      "population": 240363,
+      "area_km2": 496,
+      "density_per_km2": 415
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "CDL",
+      "district": "Chandel",
+      "district_slug": "chandel",
+      "headquarters": "Chandel",
+      "population": 144028,
+      "area_km2": 3317,
+      "density_per_km2": 37
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "CCpr",
+      "district": "Churachandpur",
+      "district_slug": "churachandpur",
+      "headquarters": "Churachandpur",
+      "population": 271274,
+      "area_km2": 4574,
+      "density_per_km2": 50
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "IE",
+      "district": "Imphal East",
+      "district_slug": "imphal-east",
+      "headquarters": "Porompat",
+      "population": 452661,
+      "area_km2": 710,
+      "density_per_km2": 555
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "IW",
+      "district": "Imphal West",
+      "district_slug": "imphal-west",
+      "headquarters": "Lamphelpat",
+      "population": 514683,
+      "area_km2": 519,
+      "density_per_km2": 847
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "JBM",
+      "district": "Jiribam",
+      "district_slug": "jiribam",
+      "headquarters": "Jiribam",
+      "population": 43818,
+      "area_km2": 232,
+      "density_per_km2": 190
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "KAK",
+      "district": "Kakching",
+      "district_slug": "kakching",
+      "headquarters": "Kakching",
+      "population": 135481,
+      "area_km2": 190,
+      "density_per_km2": 710
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "KJ",
+      "district": "Kamjong",
+      "district_slug": "kamjong",
+      "headquarters": "Kamjong",
+      "population": 45616,
+      "area_km2": 2000,
+      "density_per_km2": 23
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "KPI",
+      "district": "Kangpokpi",
+      "district_slug": "kangpokpi",
+      "headquarters": "Kangpokpi",
+      "population": 193744,
+      "area_km2": 1698,
+      "density_per_km2": 110
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "NL",
+      "district": "Noney",
+      "district_slug": "noney",
+      "headquarters": "Noney (Longmai)",
+      "population": 0,
+      "area_km2": 0,
+      "density_per_km2": 0
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "PZ",
+      "district": "Pherzawl",
+      "district_slug": "pherzawl",
+      "headquarters": "Pherzawl",
+      "population": 47250,
+      "area_km2": 2285,
+      "density_per_km2": 21
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "SE",
+      "district": "Senapati",
+      "district_slug": "senapati",
+      "headquarters": "Senapati",
+      "population": 354772,
+      "area_km2": 3269,
+      "density_per_km2": 116
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "TML",
+      "district": "Tamenglong",
+      "district_slug": "tamenglong",
+      "headquarters": "Tamenglong",
+      "population": 140143,
+      "area_km2": 4391,
+      "density_per_km2": 25
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "TNL",
+      "district": "Tengnoupal",
+      "district_slug": "tengnoupal",
+      "headquarters": "Tengnoupal",
+      "population": 59110,
+      "area_km2": 1213,
+      "density_per_km2": 49
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "TBL",
+      "district": "Thoubal",
+      "district_slug": "thoubal",
+      "headquarters": "Thoubal",
+      "population": 420517,
+      "area_km2": 514,
+      "density_per_km2": 713
+    },
+    {
+      "state": "Manipur",
+      "state_code": "MN",
+      "state_slug": "manipur",
+      "district_code": "UKR",
+      "district": "Ukhrul",
+      "district_slug": "ukhrul",
+      "headquarters": "Ukhrul",
+      "population": 183115,
+      "area_km2": 4547,
+      "density_per_km2": 31
+    }
+  ],
+  "meta": {
+    "title": "Manipur के जिले (Manipur Districts) - मुफ़्त डाउनलोड",
+    "description": "16 districts in Manipur (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Manipur\". शामिल हैं 16 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Manipur के जिले (Manipur Districts) | ListBase",
+    "seo_description": "डाउनलोड Manipur के जिले (Manipur Districts) — 16 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 16 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

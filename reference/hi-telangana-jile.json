@@ -1,0 +1,472 @@
+{
+  "id": "hi-telangana-jile",
+  "name": "Telangana के जिले (Telangana Districts)",
+  "title": "Telangana के जिले (Telangana Districts)",
+  "description": "33 districts in Telangana (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Telangana\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "AD",
+      "district": "Adilabad",
+      "district_slug": "adilabad",
+      "headquarters": "Adilabad",
+      "population": 708952,
+      "area_km2": 4185,
+      "density_per_km2": 171
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Bhadradri Kothagudem",
+      "district_slug": "bhadradri-kothagudem",
+      "headquarters": "Kothagudem",
+      "population": 1304811,
+      "area_km2": 8951,
+      "density_per_km2": 143
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Hanamkonda",
+      "district_slug": "hanamkonda",
+      "headquarters": "Hanamkonda",
+      "population": 1135707,
+      "area_km2": 1304,
+      "density_per_km2": 826
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "HY",
+      "district": "Hyderabad",
+      "district_slug": "hyderabad",
+      "headquarters": "Hyderabad",
+      "population": 3943323,
+      "area_km2": 217,
+      "density_per_km2": 18172
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Jagtial",
+      "district_slug": "jagtial",
+      "headquarters": "Jagtial",
+      "population": 983414,
+      "area_km2": 3043,
+      "density_per_km2": 407
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Jangaon",
+      "district_slug": "jangaon",
+      "headquarters": "Jangaon",
+      "population": 582457,
+      "area_km2": 2187,
+      "density_per_km2": 259
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Jayashankar Bhupalpally",
+      "district_slug": "jayashankar-bhupalpally",
+      "headquarters": "Bhupalpally",
+      "population": 712257,
+      "area_km2": 6361,
+      "density_per_km2": 115
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Jogulamba Gadwal",
+      "district_slug": "jogulamba-gadwal",
+      "headquarters": "Gadwal",
+      "population": 664971,
+      "area_km2": 2928,
+      "density_per_km2": 208
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Kamareddy",
+      "district_slug": "kamareddy",
+      "headquarters": "Kamareddy",
+      "population": 972625,
+      "area_km2": 3651,
+      "density_per_km2": 266
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "KA",
+      "district": "Karimnagar",
+      "district_slug": "karimnagar",
+      "headquarters": "Karimnagar",
+      "population": 1016063,
+      "area_km2": 2379,
+      "density_per_km2": 473
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "KH",
+      "district": "Khammam",
+      "district_slug": "khammam",
+      "headquarters": "Khammam",
+      "population": 1401639,
+      "area_km2": 4453,
+      "density_per_km2": 321
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Kumuram Bheem Asifabad",
+      "district_slug": "kumuram-bheem-asifabad",
+      "headquarters": "Asifabad",
+      "population": 515835,
+      "area_km2": 4300,
+      "density_per_km2": 106
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Mahabubabad",
+      "district_slug": "mahabubabad",
+      "headquarters": "Mahabubabad",
+      "population": 770170,
+      "area_km2": 2876,
+      "density_per_km2": 269
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "MA",
+      "district": "Mahbubnagar",
+      "district_slug": "mahbubnagar",
+      "headquarters": "Mahbubnagar",
+      "population": 1318110,
+      "area_km2": 4037,
+      "density_per_km2": 281
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Mancherial",
+      "district_slug": "mancherial",
+      "headquarters": "Mancherial",
+      "population": 807037,
+      "area_km2": 4056,
+      "density_per_km2": 201
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "ME",
+      "district": "Medak",
+      "district_slug": "medak",
+      "headquarters": "Medak",
+      "population": 767428,
+      "area_km2": 2740,
+      "density_per_km2": 275
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Medchal–Malkajgiri",
+      "district_slug": "medchalmalkajgiri",
+      "headquarters": "Shamirpet",
+      "population": 2542203,
+      "area_km2": 5005,
+      "density_per_km2": 2251
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Mulugu",
+      "district_slug": "mulugu",
+      "headquarters": "Mulugu",
+      "population": 294671,
+      "area_km2": 3881,
+      "density_per_km2": 124
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Nagarkurnool",
+      "district_slug": "nagarkurnool",
+      "headquarters": "Nagarkurnool",
+      "population": 893308,
+      "area_km2": 6545,
+      "density_per_km2": 124
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "NA",
+      "district": "Nalgonda",
+      "district_slug": "nalgonda",
+      "headquarters": "Nalgonda",
+      "population": 1631399,
+      "area_km2": 2449,
+      "density_per_km2": 227
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Narayanpet",
+      "district_slug": "narayanpet",
+      "headquarters": "Narayanpet",
+      "population": 566874,
+      "area_km2": 2336,
+      "density_per_km2": 243
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Nirmal",
+      "district_slug": "nirmal",
+      "headquarters": "Nirmal",
+      "population": 709415,
+      "area_km2": 3562,
+      "density_per_km2": 185
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "NI",
+      "district": "Nizamabad",
+      "district_slug": "nizamabad",
+      "headquarters": "Nizamabad",
+      "population": 1534428,
+      "area_km2": 4153,
+      "density_per_km2": 366
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Peddapalli",
+      "district_slug": "peddapalli",
+      "headquarters": "Peddapalli",
+      "population": 795332,
+      "area_km2": 4614,
+      "density_per_km2": 356
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Rajanna Sircilla",
+      "district_slug": "rajanna-sircilla",
+      "headquarters": "Sircilla",
+      "population": 546121,
+      "area_km2": 2030,
+      "density_per_km2": 273
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "RA",
+      "district": "Ranga Reddy",
+      "district_slug": "ranga-reddy",
+      "headquarters": "Hyderabad",
+      "population": 2551731,
+      "area_km2": 5031,
+      "density_per_km2": 486
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Sangareddy",
+      "district_slug": "sangareddy",
+      "headquarters": "Sangareddy",
+      "population": 1527628,
+      "area_km2": 4464,
+      "density_per_km2": 347
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Siddipet",
+      "district_slug": "siddipet",
+      "headquarters": "Siddipet",
+      "population": 993376,
+      "area_km2": 3425,
+      "density_per_km2": 279
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Suryapet",
+      "district_slug": "suryapet",
+      "headquarters": "Suryapet",
+      "population": 1099560,
+      "area_km2": 3374,
+      "density_per_km2": 305
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Vikarabad",
+      "district_slug": "vikarabad",
+      "headquarters": "Vikarabad",
+      "population": 881250,
+      "area_km2": 3385,
+      "density_per_km2": 274
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Wanaparthy",
+      "district_slug": "wanaparthy",
+      "headquarters": "Wanaparthy",
+      "population": 751553,
+      "area_km2": 2938,
+      "density_per_km2": 268
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "WL",
+      "district": "Warangal",
+      "district_slug": "warangal",
+      "headquarters": "Warangal",
+      "population": 716457,
+      "area_km2": 2175,
+      "density_per_km2": 330
+    },
+    {
+      "state": "Telangana",
+      "state_code": "TS",
+      "state_slug": "telangana",
+      "district_code": "–",
+      "district": "Yadadri Bhuvanagiri",
+      "district_slug": "yadadri-bhuvanagiri",
+      "headquarters": "Bhongir",
+      "population": 726465,
+      "area_km2": 3091,
+      "density_per_km2": 239
+    }
+  ],
+  "meta": {
+    "title": "Telangana के जिले (Telangana Districts) - मुफ़्त डाउनलोड",
+    "description": "33 districts in Telangana (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Telangana\". शामिल हैं 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Telangana के जिले (Telangana Districts) | ListBase",
+    "seo_description": "डाउनलोड Telangana के जिले (Telangana Districts) — 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 33 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

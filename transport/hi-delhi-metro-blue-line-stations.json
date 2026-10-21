@@ -1,0 +1,359 @@
+{
+  "id": "hi-delhi-metro-blue-line-stations",
+  "name": "दिल्ली मेट्रो Blue Line स्टेशन (Delhi Metro Blue Line, 2013)",
+  "title": "दिल्ली मेट्रो Blue Line स्टेशन (Delhi Metro Blue Line, 2013)",
+  "description": "44 Delhi Metro stations on the Blue Line as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "station_name",
+      "label": "Station Name",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "layout",
+      "label": "Layout",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "station_name": "Akshardham",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.61806,
+      "longitude": 77.27869
+    },
+    {
+      "station_name": "Barakhambha Road",
+      "lines": "Blue Line",
+      "layout": "Underground",
+      "latitude": 28.63003,
+      "longitude": 77.22436
+    },
+    {
+      "station_name": "Botanical Garden",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.56409,
+      "longitude": 77.3342
+    },
+    {
+      "station_name": "Dwarka",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.61564,
+      "longitude": 77.02197
+    },
+    {
+      "station_name": "Dwarka Morh",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.61932,
+      "longitude": 77.03326
+    },
+    {
+      "station_name": "Dwarka Sector 10",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.58068,
+      "longitude": 77.05682
+    },
+    {
+      "station_name": "Dwarka Sector 11",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.58657,
+      "longitude": 77.04929
+    },
+    {
+      "station_name": "Dwarka Sector 12",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.59232,
+      "longitude": 77.04051
+    },
+    {
+      "station_name": "Dwarka Sector 13",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.59722,
+      "longitude": 77.03326
+    },
+    {
+      "station_name": "Dwarka Sector 14",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.60223,
+      "longitude": 77.02588
+    },
+    {
+      "station_name": "Dwarka Sector 21",
+      "lines": "Blue Line, Airport Express",
+      "layout": "Underground",
+      "latitude": 28.55226,
+      "longitude": 77.05828
+    },
+    {
+      "station_name": "Dwarka Sector 8",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.56583,
+      "longitude": 77.06706
+    },
+    {
+      "station_name": "Dwarka Sector 9",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.57487,
+      "longitude": 77.06454
+    },
+    {
+      "station_name": "Indraprastha",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.62051,
+      "longitude": 77.24993
+    },
+    {
+      "station_name": "Janakpuri East",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.63305,
+      "longitude": 77.08669
+    },
+    {
+      "station_name": "Janakpuri West",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.62943,
+      "longitude": 77.07767
+    },
+    {
+      "station_name": "Jhandewalan",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.64427,
+      "longitude": 77.19988
+    },
+    {
+      "station_name": "Karol Bagh",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.644,
+      "longitude": 77.18855
+    },
+    {
+      "station_name": "Kirti Nagar",
+      "lines": "Blue Line, Green Line",
+      "layout": "Elevated",
+      "latitude": 28.65575,
+      "longitude": 77.15057
+    },
+    {
+      "station_name": "Mandi House",
+      "lines": "Blue Line",
+      "layout": "Underground",
+      "latitude": 28.62588,
+      "longitude": 77.2341
+    },
+    {
+      "station_name": "Mayur Vihar -I",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.60442,
+      "longitude": 77.28925
+    },
+    {
+      "station_name": "Mayur Vihar Extension",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.59428,
+      "longitude": 77.29455
+    },
+    {
+      "station_name": "Moti Nagar",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.65784,
+      "longitude": 77.14248
+    },
+    {
+      "station_name": "Nawada",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.62025,
+      "longitude": 77.04514
+    },
+    {
+      "station_name": "New Ashok Nagar",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.58916,
+      "longitude": 77.30204
+    },
+    {
+      "station_name": "Noida City Centre",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.57466,
+      "longitude": 77.35608
+    },
+    {
+      "station_name": "Noida Golf Course",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.56714,
+      "longitude": 77.34598
+    },
+    {
+      "station_name": "Noida Sector 15",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.58512,
+      "longitude": 77.31139
+    },
+    {
+      "station_name": "Noida Sector 16",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.57819,
+      "longitude": 77.31757
+    },
+    {
+      "station_name": "Noida Sector 18",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.57081,
+      "longitude": 77.32612
+    },
+    {
+      "station_name": "Patel Nagar",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.64498,
+      "longitude": 77.16929
+    },
+    {
+      "station_name": "Pragati Maidan",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.62342,
+      "longitude": 77.2425
+    },
+    {
+      "station_name": "Rajendra Place",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.6425,
+      "longitude": 77.17815
+    },
+    {
+      "station_name": "Rajiv Chowk",
+      "lines": "Yellow Line, Blue Line",
+      "layout": "Underground",
+      "latitude": 28.63282,
+      "longitude": 77.21826
+    },
+    {
+      "station_name": "Rajouri Garden",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.64902,
+      "longitude": 77.1227
+    },
+    {
+      "station_name": "Ramakrishna Ashram Marg",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.63923,
+      "longitude": 77.2084
+    },
+    {
+      "station_name": "Ramesh Nagar",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.65274,
+      "longitude": 77.13164
+    },
+    {
+      "station_name": "Shadipur",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.6516,
+      "longitude": 77.15824
+    },
+    {
+      "station_name": "Subhash Nagar",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.64039,
+      "longitude": 77.10495
+    },
+    {
+      "station_name": "Tagore Garden",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.64379,
+      "longitude": 77.11284
+    },
+    {
+      "station_name": "Tilak Nagar",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.63657,
+      "longitude": 77.09648
+    },
+    {
+      "station_name": "Uttam Nagar East",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.62481,
+      "longitude": 77.0653
+    },
+    {
+      "station_name": "Uttam Nagar West",
+      "lines": "Blue Line",
+      "layout": "Elevated",
+      "latitude": 28.62177,
+      "longitude": 77.05585
+    },
+    {
+      "station_name": "Yamuna Bank",
+      "lines": "Blue Line",
+      "layout": "At-Grade",
+      "latitude": 28.62331,
+      "longitude": 77.26792
+    }
+  ],
+  "meta": {
+    "title": "दिल्ली मेट्रो Blue Line स्टेशन (Delhi Metro Blue Line, 2013) - मुफ़्त डाउनलोड",
+    "description": "44 Delhi Metro stations on the Blue Line as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source). शामिल हैं 44 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "दिल्ली मेट्रो Blue Line स्टेशन (Delhi Metro Blue Line, 2013) | ListBase",
+    "seo_description": "डाउनलोड दिल्ली मेट्रो Blue Line स्टेशन (Delhi Metro Blue Line, 2013) — 44 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 44 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

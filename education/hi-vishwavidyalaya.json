@@ -1,0 +1,4816 @@
+{
+  "id": "hi-vishwavidyalaya",
+  "name": "भारत — विश्वविद्यालय एवं उच्च शिक्षा संस्थान",
+  "title": "भारत — विश्वविद्यालय एवं उच्च शिक्षा संस्थान",
+  "description": "भारत में विश्वविद्यालयों एवं उच्च शिक्षा संस्थानों की सूची। प्रत्येक प्रविष्टि में संस्थान का नाम (अंग्रेज़ी/लैटिन वर्णमाला), मुख्य पंजीकृत डोमेन, समस्त डोमेन की सूची, मुख्य वेबसाइट, देश कोड (ISO-3166-1 alpha-2) तथा (जहाँ स्रोत में उपलब्ध हो) राज्य/प्रांत की जानकारी सम्मिलित है। वैश्विक Hipo/university-domains-list डेटासेट को छानकर निकाला गया (country == \"India\")।",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 475,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Acharya Nagarjuna University",
+      "slug": "acharya-nagarjuna",
+      "domain": "nagarjunauniversity.ac.in",
+      "domains": "nagarjunauniversity.ac.in",
+      "web_page": "http://www.nagarjunauniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Acharya Ranga Agricultural University",
+      "slug": "acharya-ranga-agricultural",
+      "domain": "angrau.net",
+      "domains": "angrau.net",
+      "web_page": "http://www.angrau.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Aditya University",
+      "slug": "aditya",
+      "domain": "aditya.ac.in",
+      "domains": "aditya.ac.in",
+      "web_page": "https://aditya.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Ahmedabad University",
+      "slug": "ahmedabad",
+      "domain": "ahduni.edu.in",
+      "domains": "ahduni.edu.in",
+      "web_page": "http://www.ahduni.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "AISECT University",
+      "slug": "aisect",
+      "domain": "aisectuniversity.ac.in",
+      "domains": "aisectuniversity.ac.in",
+      "web_page": "http://www.aisectuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Alagappa University",
+      "slug": "alagappa",
+      "domain": "alagappauniversity.ac.in",
+      "domains": "alagappauniversity.ac.in",
+      "web_page": "http://www.alagappauniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Aligarh Muslim University",
+      "slug": "aligarh-muslim",
+      "domain": "amu.ac.in",
+      "domains": "amu.ac.in",
+      "web_page": "http://www.amu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttar Pradesh"
+    },
+    {
+      "name": "All India Institute of Medical Sciences",
+      "slug": "all-india-institute-medical-sciences",
+      "domain": "aiims.ac.in",
+      "domains": "aiims.ac.in",
+      "web_page": "http://www.aiims.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Allahabad Agricultural Institute, Deemed University",
+      "slug": "allahabad-agricultural-institute-deemed",
+      "domain": "aaidu.org",
+      "domains": "aaidu.org",
+      "web_page": "http://www.aaidu.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Allahabad University",
+      "slug": "allahabad",
+      "domain": "alldunivpio.org",
+      "domains": "alldunivpio.org",
+      "web_page": "http://www.alldunivpio.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttar Pradesh"
+    },
+    {
+      "name": "Alpha College of Engineering",
+      "slug": "alpha-college-engineering",
+      "domain": "alphagroup.edu",
+      "domains": "alphagroup.edu",
+      "web_page": "https://alphagroup.edu/engineering/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Amity University",
+      "slug": "amity",
+      "domain": "amity.edu",
+      "domains": "amity.edu",
+      "web_page": "http://www.amity.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttar Pradesh"
+    },
+    {
+      "name": "Amravati University",
+      "slug": "amravati",
+      "domain": "amtuni.com",
+      "domains": "amtuni.com",
+      "web_page": "http://www.amtuni.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Amrita Vishwa Vidyapeetham",
+      "slug": "amrita-vishwa-vidyapeetham",
+      "domain": "amrita.edu",
+      "domains": "amrita.edu",
+      "web_page": "http://www.amrita.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Andhra University",
+      "slug": "andhra",
+      "domain": "andhrauniversity.info",
+      "domains": "andhrauniversity.info",
+      "web_page": "http://www.andhrauniversity.info/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Andhra Pradesh"
+    },
+    {
+      "name": "Anna University",
+      "slug": "anna",
+      "domain": "annauniv.edu",
+      "domains": "annauniv.edu",
+      "web_page": "http://www.annauniv.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Anna University of Technology, Tirunelveli",
+      "slug": "anna-technology-tirunelveli",
+      "domain": "annauniv.edu.in",
+      "domains": "annauniv.edu.in",
+      "web_page": "http://www.annauniv.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Annamalai University",
+      "slug": "annamalai",
+      "domain": "annamalaiuniversity.ac.in",
+      "domains": "annamalaiuniversity.ac.in",
+      "web_page": "http://www.annamalaiuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Anurag University",
+      "slug": "anurag",
+      "domain": "anurag.edu.in",
+      "domains": "anurag.edu.in",
+      "web_page": "https://anurag.edu.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "ARYA Institute of Engineering & Technology",
+      "slug": "arya-institute-engineering-technology",
+      "domain": "aryainstitutejpr.com",
+      "domains": "aryainstitutejpr.com",
+      "web_page": "http://www.aryainstitutejpr.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Asansol Engineering College",
+      "slug": "asansol-engineering-college",
+      "domain": "aecwb.edu.in",
+      "domains": "aecwb.edu.in",
+      "web_page": "http://www.aecwb.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Ashoka University",
+      "slug": "ashoka",
+      "domain": "ashoka.edu.in",
+      "domains": "ashoka.edu.in",
+      "web_page": "https://www.ashoka.edu.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Haryana"
+    },
+    {
+      "name": "Assam Agricultural University",
+      "slug": "assam-agricultural",
+      "domain": "aau.ac.in",
+      "domains": "aau.ac.in",
+      "web_page": "http://www.aau.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Assam"
+    },
+    {
+      "name": "Assam Down Town University",
+      "slug": "assam-down-town",
+      "domain": "adtu.in",
+      "domains": "adtu.in",
+      "web_page": "https://adtu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Assam University",
+      "slug": "assam",
+      "domain": "assamuniversity.nic.in",
+      "domains": "assamuniversity.nic.in",
+      "web_page": "http://www.assamuniversity.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Assam"
+    },
+    {
+      "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior",
+      "slug": "atal-bihari-vajpayee-indian-institute-information-technology-management-gwalior",
+      "domain": "iiitm.ac.in",
+      "domains": "iiitm.ac.in",
+      "web_page": "https://www.iiitm.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Madhya Pradesh"
+    },
+    {
+      "name": "Atharva College of Engineering",
+      "slug": "atharva-college-engineering",
+      "domain": "atharvacoe.ac.in",
+      "domains": "atharvacoe.ac.in",
+      "web_page": "https://atharvacoe.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Mumbai"
+    },
+    {
+      "name": "Avinashilingam Institute for Home Science and Higher Education for Women",
+      "slug": "avinashilingam-institute-home-science-higher-education-women",
+      "domain": "tnuniv.ac.in",
+      "domains": "tnuniv.ac.in",
+      "web_page": "http://www.tnuniv.ac.in/adu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Awadhesh Pratap Singh University",
+      "slug": "awadhesh-pratap-singh",
+      "domain": "apsurewa.nic.in",
+      "domains": "apsurewa.nic.in",
+      "web_page": "http://www.apsurewa.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Madhya Pradesh"
+    },
+    {
+      "name": "B. R. Ambedkar Bihar University",
+      "slug": "b-r-ambedkar-bihar",
+      "domain": "brabu.net",
+      "domains": "brabu.net",
+      "web_page": "http://www.brabu.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Bihar"
+    },
+    {
+      "name": "B. S. Abdur Rahman University",
+      "slug": "b-s-abdur-rahman",
+      "domain": "bsauniv.ac.in",
+      "domains": "bsauniv.ac.in",
+      "web_page": "http://www.bsauniv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Babasaheb Bhimrao Ambedkar University",
+      "slug": "babasaheb-bhimrao-ambedkar",
+      "domain": "bbauindia.org",
+      "domains": "bbauindia.org",
+      "web_page": "http://www.bbauindia.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Banaras Hindu University",
+      "slug": "banaras-hindu",
+      "domain": "bhu.ac.in",
+      "domains": "bhu.ac.in",
+      "web_page": "http://www.bhu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttar Pradesh"
+    },
+    {
+      "name": "Banasthali University",
+      "slug": "banasthali",
+      "domain": "banasthali.org",
+      "domains": "banasthali.org",
+      "web_page": "http://www.banasthali.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bangalore University",
+      "slug": "bangalore",
+      "domain": "bengaluruuniversity.com",
+      "domains": "bengaluruuniversity.com",
+      "web_page": "http://bengaluruuniversity.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "Bankura University",
+      "slug": "bankura",
+      "domain": "bankurauniv.com",
+      "domains": "bankurauniv.com",
+      "web_page": "http://www.bankurauniv.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Barkatullah University",
+      "slug": "barkatullah",
+      "domain": "bubhopal.nic.in",
+      "domains": "bubhopal.nic.in",
+      "web_page": "http://www.bubhopal.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bengal Engineering College",
+      "slug": "bengal-engineering-college",
+      "domain": "becs.ac.in",
+      "domains": "becs.ac.in",
+      "web_page": "http://www.becs.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "Berhampur University",
+      "slug": "berhampur",
+      "domain": "bamu.nic.in",
+      "domains": "bamu.nic.in",
+      "web_page": "http://www.bamu.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bhagwan Parshuram Institute of Technology",
+      "slug": "bhagwan-parshuram-institute-technology",
+      "domain": "bpitindia.edu.in",
+      "domains": "bpitindia.edu.in, bpitindia.in",
+      "web_page": "http://bpitindia.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "Bhagwant University",
+      "slug": "bhagwant",
+      "domain": "bhagwantuniversity.com",
+      "domains": "bhagwantuniversity.com",
+      "web_page": "http://www.bhagwantuniversity.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bharath Institue Of Higher Education & Research",
+      "slug": "bharath-institue-higher-education-research",
+      "domain": "bharathuniv.com",
+      "domains": "bharathuniv.com",
+      "web_page": "http://www.bharathuniv.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Bharathiar University",
+      "slug": "bharathiar",
+      "domain": "bharathi.ernet.in",
+      "domains": "bharathi.ernet.in",
+      "web_page": "http://www.bharathi.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Bharathidasan University",
+      "slug": "bharathidasan",
+      "domain": "bdu.ernet.in",
+      "domains": "bdu.ernet.in",
+      "web_page": "http://www.bdu.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bharati Vidyapeeth University",
+      "slug": "bharati-vidyapeeth",
+      "domain": "bharatividyapeeth.edu",
+      "domains": "bharatividyapeeth.edu",
+      "web_page": "http://www.bharatividyapeeth.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bhavnagar University",
+      "slug": "bhavnagar",
+      "domain": "bhavuni.edu",
+      "domains": "bhavuni.edu",
+      "web_page": "http://www.bhavuni.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bhupendra Narayan Mandal University",
+      "slug": "bhupendra-narayan-mandal",
+      "domain": "bnmu.in",
+      "domains": "bnmu.in",
+      "web_page": "http://www.bnmu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bidhan Chandra Agricultural University",
+      "slug": "bidhan-chandra-agricultural",
+      "domain": "bckv.edu.in",
+      "domains": "bckv.edu.in",
+      "web_page": "http://www.bckv.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Biju Pattnaik University of Technology",
+      "slug": "biju-pattnaik-technology",
+      "domain": "bput.org",
+      "domains": "bput.org",
+      "web_page": "http://www.bput.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Birla Institute of Technology and Science",
+      "slug": "birla-institute-technology-science",
+      "domain": "bits-pilani.ac.in",
+      "domains": "bits-pilani.ac.in",
+      "web_page": "http://www.bits-pilani.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Birla Institute of Technology, Ranchi",
+      "slug": "birla-institute-technology-ranchi",
+      "domain": "bitmesraranchi.org",
+      "domains": "bitmesraranchi.org",
+      "web_page": "http://bitmesraranchi.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Jharkhand"
+    },
+    {
+      "name": "Birsa Agricultural University",
+      "slug": "birsa-agricultural",
+      "domain": "bau.nic.in",
+      "domains": "bau.nic.in",
+      "web_page": "http://www.bau.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bishop Herber College",
+      "slug": "bishop-herber-college",
+      "domain": "bhc.edu.in",
+      "domains": "bhc.edu.in",
+      "web_page": "https://bhc.edu.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Bundelkhand University",
+      "slug": "bundelkhand",
+      "domain": "bundelkhanduniversity.org",
+      "domains": "bundelkhanduniversity.org",
+      "web_page": "http://www.bundelkhanduniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "CCS Haryana Agricultural University",
+      "slug": "ccs-haryana-agricultural",
+      "domain": "hau.ernet.in",
+      "domains": "hau.ernet.in",
+      "web_page": "http://hau.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Haryana"
+    },
+    {
+      "name": "Center for Entrepreneurship and Small Business Management",
+      "slug": "center-entrepreneurship-small-business-management",
+      "domain": "cesbm.ac.in",
+      "domains": "cesbm.ac.in",
+      "web_page": "http://www.cesbm.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Central Agricultural University",
+      "slug": "central-agricultural",
+      "domain": "cau.org.in",
+      "domains": "cau.org.in",
+      "web_page": "http://www.cau.org.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Central Institute of English and Foreign Languages",
+      "slug": "central-institute-english-foreign-languages",
+      "domain": "ciefl.org",
+      "domains": "ciefl.org",
+      "web_page": "http://www.ciefl.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Central Institute of Fisheries Education",
+      "slug": "central-institute-fisheries-education",
+      "domain": "cife.edu.in",
+      "domains": "cife.edu.in",
+      "web_page": "http://www.cife.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Central Institute of Higher Tibetan Studies",
+      "slug": "central-institute-higher-tibetan-studies",
+      "domain": "cihts.ac.in",
+      "domains": "cihts.ac.in",
+      "web_page": "http://www.cihts.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Ch. Charan Singh University",
+      "slug": "ch-charan-singh",
+      "domain": "ccsuniversity.org",
+      "domains": "ccsuniversity.org",
+      "web_page": "http://www.ccsuniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Chandil Polytechnic School",
+      "slug": "chandil-polytechnic-school",
+      "domain": "chandilpolytechnic.org",
+      "domains": "chandilpolytechnic.org",
+      "web_page": "https://www.chandilpolytechnic.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Chandra Shekhar Azad University of Agriculture and Technology",
+      "slug": "chandra-shekhar-azad-agriculture-technology",
+      "domain": "csauk.ac.in",
+      "domains": "csauk.ac.in",
+      "web_page": "http://www.csauk.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Charotar University of Science and Technology",
+      "slug": "charotar-science-technology",
+      "domain": "charusat.ac.in",
+      "domains": "charusat.ac.in",
+      "web_page": "https://www.charusat.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Chaudhary Charan Singh University",
+      "slug": "chaudhary-charan-singh",
+      "domain": "ccsuniversity.ac.in",
+      "domains": "ccsuniversity.ac.in",
+      "web_page": "http://www.ccsuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Chennai Institute of Technology",
+      "slug": "chennai-institute-technology",
+      "domain": "citchennai.edu.in",
+      "domains": "citchennai.edu.in",
+      "web_page": "https://www.citchennai.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Chhatrapati Shahu Ji Maharaj University",
+      "slug": "chhatrapati-shahu-ji-maharaj",
+      "domain": "kanpuruniversity.org",
+      "domains": "kanpuruniversity.org",
+      "web_page": "http://www.kanpuruniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Chitkara Univerity",
+      "slug": "chitkara-univerity",
+      "domain": "chitkara.edu.in",
+      "domains": "chitkara.edu.in, chitkarauniversity.edu.in",
+      "web_page": "https://www.chitkara.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Himachal Pradesh"
+    },
+    {
+      "name": "Christ University",
+      "slug": "christ",
+      "domain": "christuniversity.in",
+      "domains": "christuniversity.in",
+      "web_page": "http://www.christuniversity.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "CMJ University",
+      "slug": "cmj",
+      "domain": "cmjuniversity.edu.in",
+      "domains": "cmjuniversity.edu.in",
+      "web_page": "http://www.cmjuniversity.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Cochin University of Science and Technology",
+      "slug": "cochin-science-technology",
+      "domain": "cusat.ac.in",
+      "domains": "cusat.ac.in",
+      "web_page": "http://www.cusat.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "COEP Technological University",
+      "slug": "coep-technological",
+      "domain": "coeptech.ac.in",
+      "domains": "coeptech.ac.in",
+      "web_page": "https://www.coep.org.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "COER University Roorkee",
+      "slug": "coer-roorkee",
+      "domain": "coeruniversity.ac.in",
+      "domains": "coeruniversity.ac.in, coer.ac.in",
+      "web_page": "https://coeruniversity.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttarakhand"
+    },
+    {
+      "name": "Darul Huda Islamic University",
+      "slug": "darul-huda-islamic",
+      "domain": "darulhuda.com",
+      "domains": "darulhuda.com",
+      "web_page": "http://www.darulhuda.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "DAV Institute of Engineering & Technology",
+      "slug": "dav-institute-engineering-technology",
+      "domain": "davietjal.org",
+      "domains": "davietjal.org",
+      "web_page": "http://www.davietjal.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab"
+    },
+    {
+      "name": "Dav University",
+      "slug": "dav",
+      "domain": "davuniversity.org",
+      "domains": "davuniversity.org",
+      "web_page": "http://www.davuniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dayalbagh Educational Institute",
+      "slug": "dayalbagh-educational-institute",
+      "domain": "dei.ac.in",
+      "domains": "dei.ac.in",
+      "web_page": "http://www.dei.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Deccan College Postgraduate and Research Institute",
+      "slug": "deccan-college-postgraduate-research-institute",
+      "domain": "deccancollegepune.ac.in",
+      "domains": "deccancollegepune.ac.in",
+      "web_page": "http://www.deccancollegepune.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Deen Dayal Upadhyay Gorakhpur University",
+      "slug": "deen-dayal-upadhyay-gorakhpur",
+      "domain": "ddugu.edu.in",
+      "domains": "ddugu.edu.in",
+      "web_page": "http://www.ddugu.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Delhi College of Engineering (DCE)",
+      "slug": "delhi-college-engineering-dce",
+      "domain": "dceonline.net",
+      "domains": "dceonline.net",
+      "web_page": "http://www.dceonline.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "Devi Ahilya University of Indore",
+      "slug": "devi-ahilya-indore",
+      "domain": "davv.ac.in",
+      "domains": "davv.ac.in",
+      "web_page": "http://www.davv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dharamsinh Desai University",
+      "slug": "dharamsinh-desai",
+      "domain": "ddu.ac.in",
+      "domains": "ddu.ac.in",
+      "web_page": "http://www.ddu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Dhirubhai Ambani Institute of Information and Communication Technology",
+      "slug": "dhirubhai-ambani-institute-information-communication-technology",
+      "domain": "da-iict.org",
+      "domains": "da-iict.org",
+      "web_page": "http://www.da-iict.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dibrugarh University",
+      "slug": "dibrugarh",
+      "domain": "dibru.ernet.in",
+      "domains": "dibru.ernet.in",
+      "web_page": "http://www.dibru.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
+      "slug": "dr-b-r-ambedkar-national-institute-technology-jalandhar",
+      "domain": "nitj.ac.in",
+      "domains": "nitj.ac.in",
+      "web_page": "http://www.nitj.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. B.R. Ambedkar Open University",
+      "slug": "dr-b-r-ambedkar-open",
+      "domain": "braou.ac.in",
+      "domains": "braou.ac.in",
+      "web_page": "http://www.braou.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. Babasaheb Ambedkar Marathwada Universtiy",
+      "slug": "dr-babasaheb-ambedkar-marathwada-universtiy",
+      "domain": "bamu.net",
+      "domains": "bamu.net",
+      "web_page": "http://www.bamu.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. Babasaheb Ambedkar Technological University",
+      "slug": "dr-babasaheb-ambedkar-technological",
+      "domain": "dbatechuni.org",
+      "domains": "dbatechuni.org",
+      "web_page": "http://www.dbatechuni.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. Bhim Rao Abdekar University",
+      "slug": "dr-bhim-rao-abdekar",
+      "domain": "brauagra.com",
+      "domains": "brauagra.com",
+      "web_page": "http://www.brauagra.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. C.V. Raman University",
+      "slug": "dr-c-v-raman",
+      "domain": "cvru.ac.in",
+      "domains": "cvru.ac.in",
+      "web_page": "http://www.cvru.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. D.Y. Patil University",
+      "slug": "dr-d-patil",
+      "domain": "dypatiluniversity.org",
+      "domains": "dypatiluniversity.org",
+      "web_page": "http://www.dypatiluniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "Dr. Hari Singh Gour University, formerly University of Sagar",
+      "slug": "dr-hari-singh-gour-formerly-sagar",
+      "domain": "sagaruniversity.nic.in",
+      "domains": "sagaruniversity.nic.in",
+      "web_page": "http://www.sagaruniversity.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. Panjabrao Deshmukh Krishi Vidyapeeth",
+      "slug": "dr-panjabrao-deshmukh-krishi-vidyapeeth",
+      "domain": "pdkv.ac.in",
+      "domains": "pdkv.ac.in",
+      "web_page": "http://www.pdkv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. Ram Manohar Lohia Avadh University",
+      "slug": "dr-ram-manohar-lohia-avadh",
+      "domain": "rmlau.ac.in",
+      "domains": "rmlau.ac.in",
+      "web_page": "http://www.rmlau.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex",
+      "slug": "dr-sudhir-chandra-sur-institute-technology-sports-complex",
+      "domain": "surtech.edu.in",
+      "domains": "surtech.edu.in",
+      "web_page": "https://www.surtech.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dr. YS Parmar University of Horticulture and Forestry",
+      "slug": "dr-ys-parmar-horticulture-forestry",
+      "domain": "ysparmaruniversity.org",
+      "domains": "ysparmaruniversity.org",
+      "web_page": "http://www.ysparmaruniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Dravidian University",
+      "slug": "dravidian",
+      "domain": "dravidianuniversity.ac.in",
+      "domains": "dravidianuniversity.ac.in",
+      "web_page": "http://www.dravidianuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Andhra Pradesh"
+    },
+    {
+      "name": "Easwari Engineering College",
+      "slug": "easwari-engineering-college",
+      "domain": "srmeaswari.ac.in",
+      "domains": "srmeaswari.ac.in",
+      "web_page": "https://srmeaswari.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Eiilm University",
+      "slug": "eiilm",
+      "domain": "eiilmuniversity.ac.in",
+      "domains": "eiilmuniversity.ac.in",
+      "web_page": "http://www.eiilmuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Fatima Mata National College",
+      "slug": "fatima-mata-national-college",
+      "domain": "fatimacollege.net",
+      "domains": "fatimacollege.net",
+      "web_page": "http://www.fatimacollege.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "First Global University to teaching Jainism",
+      "slug": "first-global-to-teaching-jainism",
+      "domain": "jainuniversity.org",
+      "domains": "jainuniversity.org",
+      "web_page": "http://www.jainuniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Forest Research Institute Dehradun",
+      "slug": "forest-research-institute-dehradun",
+      "domain": "fri.icfre.gov.in",
+      "domains": "fri.icfre.gov.in",
+      "web_page": "http://fri.icfre.gov.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttarakhand"
+    },
+    {
+      "name": "Gandhi Institute of Technology and Managment",
+      "slug": "gandhi-institute-technology-managment",
+      "domain": "gitam.edu",
+      "domains": "gitam.edu",
+      "web_page": "http://www.gitam.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Gauhati University",
+      "slug": "gauhati",
+      "domain": "gu.nic.in",
+      "domains": "gu.nic.in",
+      "web_page": "http://www.gu.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Global Open University , Nagaland",
+      "slug": "global-open-nagaland",
+      "domain": "government.ind.in",
+      "domains": "government.ind.in",
+      "web_page": "http://www.government.ind.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Nagaland"
+    },
+    {
+      "name": "Goa University",
+      "slug": "goa",
+      "domain": "unigoa.ac.in",
+      "domains": "unigoa.ac.in",
+      "web_page": "http://www.unigoa.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Goa"
+    },
+    {
+      "name": "Gokhale Institute of Politics and Economics",
+      "slug": "gokhale-institute-politics-economics",
+      "domain": "gipe.ernet.in",
+      "domains": "gipe.ernet.in",
+      "web_page": "http://www.gipe.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Gola Polytechnic School",
+      "slug": "gola-polytechnic-school",
+      "domain": "golapolytechnic.org",
+      "domains": "golapolytechnic.org",
+      "web_page": "https://golapolytechnic.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Govind Ballabh Pant University of Agriculture and Technology",
+      "slug": "govind-ballabh-pant-agriculture-technology",
+      "domain": "gbpuat.ac.in",
+      "domains": "gbpuat.ac.in",
+      "web_page": "http://www.gbpuat.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Greater Kolkata College of Engineering & Management",
+      "slug": "greater-kolkata-college-engineering-management",
+      "domain": "gkcem.ac.in",
+      "domains": "gkcem.ac.in",
+      "web_page": "https://www.gkcem.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "GSFC University",
+      "slug": "gsfc",
+      "domain": "gsfcuniversity.ac.in",
+      "domains": "gsfcuniversity.ac.in",
+      "web_page": "https://gsfcuni.edu.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Gujarat Ayurved University",
+      "slug": "gujarat-ayurved",
+      "domain": "ayurveduniversity.com",
+      "domains": "ayurveduniversity.com",
+      "web_page": "http://www.ayurveduniversity.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Gujarat Technological University Ahmedabad",
+      "slug": "gujarat-technological-ahmedabad",
+      "domain": "gtu.ac.in",
+      "domains": "gtu.ac.in",
+      "web_page": "http://www.gtu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Gujarat University Ahmedabad",
+      "slug": "gujarat-ahmedabad",
+      "domain": "gujaratuniversity.org.in",
+      "domains": "gujaratuniversity.org.in",
+      "web_page": "http://www.gujaratuniversity.org.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Gulbarga University",
+      "slug": "gulbarga",
+      "domain": "gulbargauniversity.kar.nic.in",
+      "domains": "gulbargauniversity.kar.nic.in",
+      "web_page": "http://www.gulbargauniversity.kar.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Guru Ghasidas University",
+      "slug": "guru-ghasidas",
+      "domain": "ggu.ac.in",
+      "domains": "ggu.ac.in",
+      "web_page": "http://www.ggu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Guru Gobind Singh Indraprastha University",
+      "slug": "guru-gobind-singh-indraprastha",
+      "domain": "ipu.ac.in",
+      "domains": "ipu.ac.in",
+      "web_page": "http://www.ipu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Guru Jambeshwar University",
+      "slug": "guru-jambeshwar",
+      "domain": "gju.ernet.in",
+      "domains": "gju.ernet.in",
+      "web_page": "http://www.gju.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Guru Nanak Dev University",
+      "slug": "guru-nanak-dev",
+      "domain": "gnduonline.org",
+      "domains": "gnduonline.org",
+      "web_page": "http://www.gnduonline.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Guru Nanak Institute of Dental Sciences & Research",
+      "slug": "guru-nanak-institute-dental-sciences-research",
+      "domain": "gnidsr.ac.in",
+      "domains": "gnidsr.ac.in",
+      "web_page": "https://www.gnidsr.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Guru Nanak Institute of Hotel Management",
+      "slug": "guru-nanak-institute-hotel-management",
+      "domain": "gnihm.ac.in",
+      "domains": "gnihm.ac.in",
+      "web_page": "https://www.gnihm.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Guru Nanak Institute of Pharmaceutical Science & Technology",
+      "slug": "guru-nanak-institute-pharmaceutical-science-technology",
+      "domain": "gnipst.ac.in",
+      "domains": "gnipst.ac.in",
+      "web_page": "https://www.gnipst.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Guru Nanak Institute of Technology",
+      "slug": "guru-nanak-institute-technology",
+      "domain": "gnit.ac.in",
+      "domains": "gnit.ac.in",
+      "web_page": "https://gnit.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Gurukul University",
+      "slug": "gurukul",
+      "domain": "gurukuluniversity.org",
+      "domains": "gurukuluniversity.org",
+      "web_page": "http://www.gurukuluniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Gurukula Kangri University",
+      "slug": "gurukula-kangri",
+      "domain": "gkvharidwar.org",
+      "domains": "gkvharidwar.org",
+      "web_page": "http://www.gkvharidwar.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Hemchandracharay North Gujarat University",
+      "slug": "hemchandracharay-north-gujarat",
+      "domain": "ngu.ac.in",
+      "domains": "ngu.ac.in",
+      "web_page": "http://www.ngu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Hemwati Nandan Bahuguna Garhwal University",
+      "slug": "hemwati-nandan-bahuguna-garhwal",
+      "domain": "hnbgu.ac.in",
+      "domains": "hnbgu.ac.in",
+      "web_page": "http://www.hnbgu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Hidayatullah National Law University, Raipur",
+      "slug": "hidayatullah-national-law-raipur",
+      "domain": "hnluraipur.com",
+      "domains": "hnluraipur.com",
+      "web_page": "http://www.hnluraipur.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Chhattisgarh"
+    },
+    {
+      "name": "Himachal Pradesh Agricultural University",
+      "slug": "himachal-pradesh-agricultural",
+      "domain": "hillagric.ernet.in",
+      "domains": "hillagric.ernet.in",
+      "web_page": "http://hillagric.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Himachal Pradesh"
+    },
+    {
+      "name": "Himachal Pradesh University",
+      "slug": "himachal-pradesh",
+      "domain": "hpuniv.nic.in",
+      "domains": "hpuniv.nic.in",
+      "web_page": "http://hpuniv.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Himachal Pradesh"
+    },
+    {
+      "name": "Hindustan Institute of Technology and Science",
+      "slug": "hindustan-institute-technology-science",
+      "domain": "hindustanuniv.ac.in",
+      "domains": "hindustanuniv.ac.in",
+      "web_page": "https://hindustanuniv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "IASE (Institute of Advanced Studies) Deemed University",
+      "slug": "iase-institute-advanced-studies-deemed",
+      "domain": "iaseduniv.org",
+      "domains": "iaseduniv.org",
+      "web_page": "http://www.iaseduniv.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "ICFAI University",
+      "slug": "icfai",
+      "domain": "icfai.org",
+      "domains": "icfai.org",
+      "web_page": "http://www.icfai.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "ICFAI University, Dehradun",
+      "slug": "icfai-dehradun",
+      "domain": "iudehradun.edu.in",
+      "domains": "iudehradun.edu.in",
+      "web_page": "https://www.iudehradun.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Dehradun"
+    },
+    {
+      "name": "ICFAI University, Himachal Pradesh",
+      "slug": "icfai-himachal-pradesh",
+      "domain": "iuhimachal.edu.in",
+      "domains": "iuhimachal.edu.in",
+      "web_page": "https://www.iuhimachal.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Himachal Pradesh"
+    },
+    {
+      "name": "ICFAI University, Hyderabad",
+      "slug": "icfai-hyderabad",
+      "domain": "ifheindia.org",
+      "domains": "ifheindia.org",
+      "web_page": "https://www.ifheindia.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "ICFAI University, Jaipur",
+      "slug": "icfai-jaipur",
+      "domain": "iujaipur.edu.in",
+      "domains": "iujaipur.edu.in",
+      "web_page": "https://www.iujaipur.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "ICFAI University, Jharkhand",
+      "slug": "icfai-jharkhand",
+      "domain": "iujharkhand.edu.in",
+      "domains": "iujharkhand.edu.in",
+      "web_page": "https://www.iujharkhand.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Jharkhand"
+    },
+    {
+      "name": "ICFAI University, Meghalaya",
+      "slug": "icfai-meghalaya",
+      "domain": "iumeghalaya.edu.in",
+      "domains": "iumeghalaya.edu.in",
+      "web_page": "https://www.iumeghalaya.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Meghalaya"
+    },
+    {
+      "name": "ICFAI University, Mizoram",
+      "slug": "icfai-mizoram",
+      "domain": "iumizoram.edu.in",
+      "domains": "iumizoram.edu.in",
+      "web_page": "https://www.iumizoram.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Mizoram"
+    },
+    {
+      "name": "ICFAI University, Nagaland",
+      "slug": "icfai-nagaland",
+      "domain": "iunagaland.edu.in",
+      "domains": "iunagaland.edu.in",
+      "web_page": "https://www.iunagaland.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Nagaland"
+    },
+    {
+      "name": "ICFAI University, Raipur",
+      "slug": "icfai-raipur",
+      "domain": "iuraipur.edu.in",
+      "domains": "iuraipur.edu.in",
+      "web_page": "https://www.iuraipur.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Chhattisgarh"
+    },
+    {
+      "name": "ICFAI University, Sikkim",
+      "slug": "icfai-sikkim",
+      "domain": "iusikkim.edu.in",
+      "domains": "iusikkim.edu.in",
+      "web_page": "https://www.iusikkim.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Sikkim"
+    },
+    {
+      "name": "ICFAI University, Tripura",
+      "slug": "icfai-tripura",
+      "domain": "iutripura.edu.in",
+      "domains": "iutripura.edu.in",
+      "web_page": "https://www.iutripura.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tripura"
+    },
+    {
+      "name": "IIT Bhubaneswar",
+      "slug": "iit-bhubaneswar",
+      "domain": "iitbbs.ac.in",
+      "domains": "iitbbs.ac.in",
+      "web_page": "https://www.iitbbs.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Odisha"
+    },
+    {
+      "name": "Indian Agricultural Research Institute",
+      "slug": "indian-agricultural-research-institute",
+      "domain": "iari.ernet.in",
+      "domains": "iari.ernet.in",
+      "web_page": "http://www.iari.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indian Board of Alternative Medicine",
+      "slug": "indian-board-alternative-medicine",
+      "domain": "altmedworld.net",
+      "domains": "altmedworld.net",
+      "web_page": "http://www.altmedworld.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "Indian Institute of Information Technology Allahabad",
+      "slug": "indian-institute-information-technology-allahabad",
+      "domain": "iiita.com",
+      "domains": "iiita.com",
+      "web_page": "http://www.iiita.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttar Pradesh"
+    },
+    {
+      "name": "Indian Institute of Information Technology and Management - Kerala",
+      "slug": "indian-institute-information-technology-management-kerala",
+      "domain": "iiitmk.ac.in",
+      "domains": "iiitmk.ac.in",
+      "web_page": "http://www.iiitmk.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "Indian Institute of Information Technology Sri City",
+      "slug": "indian-institute-information-technology-sri-city",
+      "domain": "iiits.in",
+      "domains": "iiits.in",
+      "web_page": "https://www.iiits.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Chittoor"
+    },
+    {
+      "name": "Indian Institute of Information Technology, Guwahati",
+      "slug": "indian-institute-information-technology-guwahati",
+      "domain": "iiitg.ac.in",
+      "domains": "iiitg.ac.in",
+      "web_page": "http://www.iimtrichy.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Assam"
+    },
+    {
+      "name": "Indian Institute of Information Technology, Kota",
+      "slug": "indian-institute-information-technology-kota",
+      "domain": "iiitkota.ac.in",
+      "domains": "iiitkota.ac.in",
+      "web_page": "http://iiitkota.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Indian Institute of Information Technology, Vadodara",
+      "slug": "indian-institute-information-technology-vadodara",
+      "domain": "iiitvadodara.ac.in",
+      "domains": "iiitvadodara.ac.in",
+      "web_page": "http://iiitvadodara.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Indian Institute of Management, Tiruchirappalli",
+      "slug": "indian-institute-management-tiruchirappalli",
+      "domain": "iimtrichy.ac.in",
+      "domains": "iimtrichy.ac.in",
+      "web_page": "http://www.iimtrichy.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Indian Institute of Science",
+      "slug": "indian-institute-science",
+      "domain": "iisc.ernet.in",
+      "domains": "iisc.ernet.in, iisc.ac.in",
+      "web_page": "http://www.iisc.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "Indian Institute of Technology, Bombay",
+      "slug": "indian-institute-technology-bombay",
+      "domain": "iitb.ac.in",
+      "domains": "iitb.ac.in",
+      "web_page": "http://www.iitb.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "Indian Institute of Technology, Delhi",
+      "slug": "indian-institute-technology-delhi",
+      "domain": "iitd.ernet.in",
+      "domains": "iitd.ernet.in, iitd.ac.in",
+      "web_page": "http://www.iitd.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "Indian Institute of Technology, Gandhinagar",
+      "slug": "indian-institute-technology-gandhinagar",
+      "domain": "iitgn.ac.in",
+      "domains": "iitgn.ac.in",
+      "web_page": "https://iitgn.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Indian Institute of Technology, Guwahati",
+      "slug": "indian-institute-technology-guwahati",
+      "domain": "iitg.ernet.in",
+      "domains": "iitg.ernet.in, iitg.ac.in, op.iitg.ac.in, rnd.iitg.ac.in",
+      "web_page": "http://www.iitg.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Assam"
+    },
+    {
+      "name": "Indian Institute of Technology, Hyderabad",
+      "slug": "indian-institute-technology-hyderabad",
+      "domain": "iith.ac.in",
+      "domains": "iith.ac.in",
+      "web_page": "http://www.iith.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Indian Institute of Technology, Indore",
+      "slug": "indian-institute-technology-indore",
+      "domain": "iiti.ac.in",
+      "domains": "iiti.ac.in",
+      "web_page": "http://www.iiti.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Madhya Pradesh"
+    },
+    {
+      "name": "Indian Institute of Technology, Jodhpur",
+      "slug": "indian-institute-technology-jodhpur",
+      "domain": "iitj.ac.in",
+      "domains": "iitj.ac.in",
+      "web_page": "http://www.iitj.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Indian Institute of Technology, Kanpur",
+      "slug": "indian-institute-technology-kanpur",
+      "domain": "iitk.ac.in",
+      "domains": "iitk.ac.in",
+      "web_page": "http://www.iitk.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttar Pradesh"
+    },
+    {
+      "name": "Indian Institute of Technology, Kharagpur",
+      "slug": "indian-institute-technology-kharagpur",
+      "domain": "iitkgp.ernet.in",
+      "domains": "iitkgp.ernet.in, iitkgp.ac.in",
+      "web_page": "http://www.iitkgp.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "Indian Institute of Technology, Madras",
+      "slug": "indian-institute-technology-madras",
+      "domain": "iitm.ac.in",
+      "domains": "iitm.ac.in",
+      "web_page": "http://www.iitm.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Indian Institute of Technology, Patna",
+      "slug": "indian-institute-technology-patna",
+      "domain": "iitp.ac.in",
+      "domains": "iitp.ac.in",
+      "web_page": "http://www.iitp.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Bihar"
+    },
+    {
+      "name": "Indian Institute of Technology, Roorkee",
+      "slug": "indian-institute-technology-roorkee",
+      "domain": "iitr.ac.in",
+      "domains": "iitr.ac.in",
+      "web_page": "http://www.iitr.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttarakhand"
+    },
+    {
+      "name": "Indian Institute Of Technology–Ropar (IIT–Ropar)",
+      "slug": "indian-institute-technology-ropar-iit-ropar",
+      "domain": "iitrpr.ac.in",
+      "domains": "iitrpr.ac.in",
+      "web_page": "https://www.iitrpr.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab"
+    },
+    {
+      "name": "Indian Law Institue",
+      "slug": "indian-law-institue",
+      "domain": "ili.ac.in",
+      "domains": "ili.ac.in",
+      "web_page": "https://www.ili.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "Indian School of Business Management and Administration",
+      "slug": "indian-school-business-management-administration",
+      "domain": "isbm.org.in",
+      "domains": "isbm.org.in",
+      "web_page": "http://isbm.org.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indian School of Mines (ISM)",
+      "slug": "indian-school-mines-ism",
+      "domain": "ismdhanbad.ac.in",
+      "domains": "ismdhanbad.ac.in",
+      "web_page": "http://www.ismdhanbad.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indian Statistical Institute",
+      "slug": "indian-statistical-institute",
+      "domain": "isical.ac.in",
+      "domains": "isical.ac.in",
+      "web_page": "http://www.isical.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indian University",
+      "slug": "indian",
+      "domain": "iur.ac.in",
+      "domains": "iur.ac.in",
+      "web_page": "http://www.iur.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indian Veterinary Research Institute",
+      "slug": "indian-veterinary-research-institute",
+      "domain": "ivri.nic.in",
+      "domains": "ivri.nic.in",
+      "web_page": "http://www.ivri.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indira Gandhi Agricultural University",
+      "slug": "indira-gandhi-agricultural",
+      "domain": "igau.edu.in",
+      "domains": "igau.edu.in",
+      "web_page": "http://www.igau.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indira Gandhi Institute of Development and Research",
+      "slug": "indira-gandhi-institute-development-research",
+      "domain": "igidr.ac.in",
+      "domains": "igidr.ac.in",
+      "web_page": "http://www.igidr.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indira Gandhi Institute of Medical Sciences",
+      "slug": "indira-gandhi-institute-medical-sciences",
+      "domain": "igims.org",
+      "domains": "igims.org",
+      "web_page": "http://www.igims.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indira Gandhi National Open University",
+      "slug": "indira-gandhi-national-open",
+      "domain": "ignou.ac.in",
+      "domains": "ignou.ac.in",
+      "web_page": "http://www.ignou.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Indraprastha Institute of Information Technology, Delhi",
+      "slug": "indraprastha-institute-information-technology-delhi",
+      "domain": "iiitd.ac.in",
+      "domains": "iiitd.ac.in",
+      "web_page": "http://www.iiitd.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "Indus University",
+      "slug": "indus",
+      "domain": "indusuni.ac.in",
+      "domains": "indusuni.ac.in",
+      "web_page": "http://www.indusuni.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Management Studies",
+      "slug": "institute-management-studies",
+      "domain": "nims.net.in",
+      "domains": "nims.net.in",
+      "web_page": "http://www.nims.net.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Technology and Management",
+      "slug": "institute-technology-management",
+      "domain": "itmindia.edu",
+      "domains": "itmindia.edu",
+      "web_page": "http://www.itmindia.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Integral University",
+      "slug": "integral",
+      "domain": "integraluniversity.ac.in",
+      "domains": "integraluniversity.ac.in",
+      "web_page": "http://www.integraluniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "International Institute for Population Sciences",
+      "slug": "international-institute-population-sciences",
+      "domain": "iipsindia.org",
+      "domains": "iipsindia.org",
+      "web_page": "http://www.iipsindia.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "International Institute of Information Technology, Bangalore",
+      "slug": "international-institute-information-technology-bangalore",
+      "domain": "iiitb.ac.in",
+      "domains": "iiitb.ac.in",
+      "web_page": "https://www.iiitb.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "International Institute of Information Technology, Bhubaneswar",
+      "slug": "international-institute-information-technology-bhubaneswar",
+      "domain": "iiit-bh.ac.in",
+      "domains": "iiit-bh.ac.in",
+      "web_page": "https://www.iiit-bh.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Odisha"
+    },
+    {
+      "name": "International Institute of Information Technology, Pune",
+      "slug": "international-institute-information-technology-pune",
+      "domain": "squareit.edu.in",
+      "domains": "squareit.edu.in",
+      "web_page": "https://www.isquareit.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "Jadavpur University",
+      "slug": "jadavpur",
+      "domain": "jadavpur.edu",
+      "domains": "jadavpur.edu",
+      "web_page": "http://www.jadavpur.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "Jai Narain Vyas University",
+      "slug": "jai-narain-vyas",
+      "domain": "ptetjnvu.org",
+      "domains": "ptetjnvu.org",
+      "web_page": "http://www.ptetjnvu.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Jai Prakash University",
+      "slug": "jai-prakash",
+      "domain": "jpv.bih.nic.in",
+      "domains": "jpv.bih.nic.in",
+      "web_page": "http://jpv.bih.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Jain Vishva Bharati Institute",
+      "slug": "jain-vishva-bharati-institute",
+      "domain": "jvbi.ac.in",
+      "domains": "jvbi.ac.in",
+      "web_page": "http://www.jvbi.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Jaipur National University",
+      "slug": "jaipur-national",
+      "domain": "jnujaipur.ac.in",
+      "domains": "jnujaipur.ac.in",
+      "web_page": "http://www.jnujaipur.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Jamia Hamdard University",
+      "slug": "jamia-hamdard",
+      "domain": "jamiahamdard.edu",
+      "domains": "jamiahamdard.edu",
+      "web_page": "http://www.jamiahamdard.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Jamia Millia Islamia University",
+      "slug": "jamia-millia-islamia",
+      "domain": "jmi.nic.in",
+      "domains": "jmi.nic.in",
+      "web_page": "http://jmi.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "Jawaharlal Nehru Agricultural University",
+      "slug": "jawaharlal-nehru-agricultural",
+      "domain": "jnkvv.nic.in",
+      "domains": "jnkvv.nic.in",
+      "web_page": "http://www.jnkvv.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Jawaharlal Nehru Centre for Advanced Scientific Research",
+      "slug": "jawaharlal-nehru-centre-advanced-scientific-research",
+      "domain": "jncasr.ac.in",
+      "domains": "jncasr.ac.in",
+      "web_page": "http://www.jncasr.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Jawaharlal Nehru Technological University Hyderabad",
+      "slug": "jawaharlal-nehru-technological-hyderabad",
+      "domain": "jntuh.ac.in",
+      "domains": "jntuh.ac.in",
+      "web_page": "http://www.jntuh.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Jawaharlal Nehru University",
+      "slug": "jawaharlal-nehru",
+      "domain": "jnu.ac.in",
+      "domains": "jnu.ac.in",
+      "web_page": "http://www.jnu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "Jaypee Institute of Information Technology",
+      "slug": "jaypee-institute-information-technology",
+      "domain": "jiit.ac.in",
+      "domains": "jiit.ac.in",
+      "web_page": "http://www.jiit.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Jeppiar Engineering College",
+      "slug": "jeppiar-engineering-college",
+      "domain": "jeppiaarcollege.org",
+      "domains": "jeppiaarcollege.org",
+      "web_page": "https://jeppiaarcollege.org/jeppiaar/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "JIS College of Engineering",
+      "slug": "jis-college-engineering",
+      "domain": "jiscollege.ac.in",
+      "domains": "jiscollege.ac.in",
+      "web_page": "https://www.jiscollege.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "JIS Institute of Advanced Studies & Research",
+      "slug": "jis-institute-advanced-studies-research",
+      "domain": "jisiasr.org",
+      "domains": "jisiasr.org",
+      "web_page": "https://jisiasr.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "JIS Institute of Pharmacy",
+      "slug": "jis-institute-pharmacy",
+      "domain": "jisiop.org",
+      "domains": "jisiop.org",
+      "web_page": "https://jisiop.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "JIS School of Medical Science & Research",
+      "slug": "jis-school-medical-science-research",
+      "domain": "jismsr.org",
+      "domains": "jismsr.org",
+      "web_page": "https://jismsr.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "JIS School of Polytechnic",
+      "slug": "jis-school-polytechnic",
+      "domain": "jissp.ac.in",
+      "domains": "jissp.ac.in",
+      "web_page": "https://www.jissp.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "JIS University",
+      "slug": "jis",
+      "domain": "jisuniversity.ac.in",
+      "domains": "jisuniversity.ac.in",
+      "web_page": "https://www.jisuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Jiwaji University",
+      "slug": "jiwaji",
+      "domain": "jiwaji.edu",
+      "domains": "jiwaji.edu",
+      "web_page": "http://www.jiwaji.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Jodhpur National University",
+      "slug": "jodhpur-national",
+      "domain": "jodhpurnationaluniversity.com",
+      "domains": "jodhpurnationaluniversity.com",
+      "web_page": "http://www.jodhpurnationaluniversity.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Kakatiya University",
+      "slug": "kakatiya",
+      "domain": "kuwarangal.com",
+      "domains": "kuwarangal.com",
+      "web_page": "http://www.kuwarangal.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Kalinga Institute of Industrial Technology (KIIT)",
+      "slug": "kalinga-institute-industrial-technology-kiit",
+      "domain": "kiit.ac.in",
+      "domains": "kiit.ac.in",
+      "web_page": "https://kiit.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Kalinga University",
+      "slug": "kalinga",
+      "domain": "kalingauniversity.com",
+      "domains": "kalingauniversity.com",
+      "web_page": "http://www.kalingauniversity.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Chhattisgarh"
+    },
+    {
+      "name": "Kaloji Narayana Rao University of Health Sciences",
+      "slug": "kaloji-narayana-rao-health-sciences",
+      "domain": "knruhs.telangana.gov.in",
+      "domains": "knruhs.telangana.gov.in",
+      "web_page": "https://www.knruhs.telangana.gov.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Kameshwar Singh Darbhanga Sanskrit University",
+      "slug": "kameshwar-singh-darbhanga-sanskrit",
+      "domain": "ksdsu.edu.in",
+      "domains": "ksdsu.edu.in",
+      "web_page": "http://www.ksdsu.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Kannada University",
+      "slug": "kannada",
+      "domain": "kannadauniversity.org",
+      "domains": "kannadauniversity.org",
+      "web_page": "http://www.kannadauniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "Kannur University",
+      "slug": "kannur",
+      "domain": "kannuruniversity.ac.in",
+      "domains": "kannuruniversity.ac.in",
+      "web_page": "http://www.kannuruniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Karnatak University",
+      "slug": "karnatak",
+      "domain": "kud.ac.in",
+      "domains": "kud.ac.in",
+      "web_page": "http://www.kud.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Karnataka State Law University",
+      "slug": "karnataka-state-law",
+      "domain": "kslu.ac.in",
+      "domains": "kslu.ac.in",
+      "web_page": "http://www.kslu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "Karnataka State Open University",
+      "slug": "karnataka-state-open",
+      "domain": "karnatakastateopenuniversity.in",
+      "domains": "karnatakastateopenuniversity.in",
+      "web_page": "http://www.karnatakastateopenuniversity.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "Karpagam University",
+      "slug": "karpagam",
+      "domain": "karpagamuniv.com",
+      "domains": "karpagamuniv.com",
+      "web_page": "http://www.karpagamuniv.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Karunya Institute Of Technology",
+      "slug": "karunya-institute-technology",
+      "domain": "karunya.edu",
+      "domains": "karunya.edu",
+      "web_page": "http://www.karunya.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "KCG College of Technology",
+      "slug": "kcg-college-technology",
+      "domain": "kcgcollege.ac.in",
+      "domains": "kcgcollege.ac.in",
+      "web_page": "https://kcgcollege.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Kerala Agricultural University",
+      "slug": "kerala-agricultural",
+      "domain": "kau.edu",
+      "domains": "kau.edu",
+      "web_page": "http://www.kau.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "Kerala University of Fisheries and Ocean Sciences",
+      "slug": "kerala-fisheries-ocean-sciences",
+      "domain": "kufos.ac.in",
+      "domains": "kufos.ac.in",
+      "web_page": "http://www.kufos.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "KIET Group of Institutions",
+      "slug": "kiet-group-institutions",
+      "domain": "kiet.edu",
+      "domains": "kiet.edu",
+      "web_page": "https://kiet.edu",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Kohinoor School of Hospitality Management",
+      "slug": "kohinoor-school-hospitality-management",
+      "domain": "kimi.kohinoor.ac.in",
+      "domains": "kimi.kohinoor.ac.in",
+      "web_page": "http://kimi.kohinoor.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Konkan Agricultural University",
+      "slug": "konkan-agricultural",
+      "domain": "dbskkv.org",
+      "domains": "dbskkv.org",
+      "web_page": "http://www.dbskkv.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Krishna University",
+      "slug": "krishna",
+      "domain": "krishnauniversity.ac.in",
+      "domains": "krishnauniversity.ac.in",
+      "web_page": "http://www.krishnauniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Kumaraguru College of Technology",
+      "slug": "kumaraguru-college-technology",
+      "domain": "kct.ac.in",
+      "domains": "kct.ac.in",
+      "web_page": "http://www.kct.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Kumaun University",
+      "slug": "kumaun",
+      "domain": "kumaununiversity.org",
+      "domains": "kumaununiversity.org",
+      "web_page": "http://www.kumaununiversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Kurukshetra University",
+      "slug": "kurukshetra",
+      "domain": "kukinfo.com",
+      "domains": "kukinfo.com",
+      "web_page": "http://www.kukinfo.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Kuvempu University",
+      "slug": "kuvempu",
+      "domain": "kuvempu.ac.in",
+      "domains": "kuvempu.ac.in",
+      "web_page": "http://www.kuvempu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "L.D.College of Engineering",
+      "slug": "l-d-college-engineering",
+      "domain": "ldceahd.org",
+      "domains": "ldceahd.org",
+      "web_page": "http://www.ldceahd.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Lakshmibai National Institute of Physical Education",
+      "slug": "lakshmibai-national-institute-physical-education",
+      "domain": "lnipe.edu",
+      "domains": "lnipe.edu",
+      "web_page": "http://www.lnipe.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Lalit Narayan Mithila University",
+      "slug": "lalit-narayan-mithila",
+      "domain": "lnmu.bih.nic.in",
+      "domains": "lnmu.bih.nic.in",
+      "web_page": "http://lnmu.bih.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Lovely Professional University",
+      "slug": "lovely-professional",
+      "domain": "lpu.in",
+      "domains": "lpu.in",
+      "web_page": "http://www.lpu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab"
+    },
+    {
+      "name": "Loyola-ICAM College of Engineering and Technology",
+      "slug": "loyola-icam-college-engineering-technology",
+      "domain": "licet.ac.in",
+      "domains": "licet.ac.in",
+      "web_page": "https://licet.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Madhya Pradesh Bhoj (Open) University",
+      "slug": "madhya-pradesh-bhoj-open",
+      "domain": "mpbou.org",
+      "domains": "mpbou.org",
+      "web_page": "http://www.mpbou.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Madhya Pradesh"
+    },
+    {
+      "name": "Madras Institute of Technology",
+      "slug": "madras-institute-technology",
+      "domain": "mitindia.edu",
+      "domains": "mitindia.edu",
+      "web_page": "https://www.mitindia.edu/en/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Madurai Kamaraj University",
+      "slug": "madurai-kamaraj",
+      "domain": "mkuhyd.com",
+      "domains": "mkuhyd.com",
+      "web_page": "http://www.mkuhyd.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Magadh University",
+      "slug": "magadh",
+      "domain": "magadhuniversity.org",
+      "domains": "magadhuniversity.org",
+      "web_page": "http://www.magadhuniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Maharaja Ganga Singh University, Bikaner",
+      "slug": "maharaja-ganga-singh-bikaner",
+      "domain": "mgsubikaner.ac.in",
+      "domains": "mgsubikaner.ac.in",
+      "web_page": "http://www.mgsubikaner.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Maharaja Sayajirao University of Baroda",
+      "slug": "maharaja-sayajirao-baroda",
+      "domain": "msubaroda.ac.in",
+      "domains": "msubaroda.ac.in",
+      "web_page": "http://www.msubaroda.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Maharishi Dayanand University, Rohtak",
+      "slug": "maharishi-dayanand-rohtak",
+      "domain": "mdurohtak.com",
+      "domains": "mdurohtak.com",
+      "web_page": "http://www.mdurohtak.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Haryana"
+    },
+    {
+      "name": "Maharshi Dayanand Sarswati University Ajmer",
+      "slug": "maharshi-dayanand-sarswati-ajmer",
+      "domain": "mdsuajmer.ac.in",
+      "domains": "mdsuajmer.ac.in",
+      "web_page": "http://www.mdsuajmer.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Mahatma Gandhi Chitrakut Gramoday University",
+      "slug": "mahatma-gandhi-chitrakut-gramoday",
+      "domain": "ruraluniversity-chitrakoot.org",
+      "domains": "ruraluniversity-chitrakoot.org",
+      "web_page": "http://www.ruraluniversity-chitrakoot.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Mahatma Gandhi Kashi Vidyapith",
+      "slug": "mahatma-gandhi-kashi-vidyapith",
+      "domain": "mgkvp.ac.in",
+      "domains": "mgkvp.ac.in",
+      "web_page": "http://www.mgkvp.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Mahatma Gandhi University, Kerala",
+      "slug": "mahatma-gandhi-kerala",
+      "domain": "mgu.ac.in",
+      "domains": "mgu.ac.in",
+      "web_page": "http://www.mgu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "Mahatma Gandhi University, Nalgonda",
+      "slug": "mahatma-gandhi-nalgonda",
+      "domain": "mguniversity.ac.in",
+      "domains": "mguniversity.ac.in",
+      "web_page": "https://mguniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Mahatma Jyotiba Phule Rohilkhand University Bareilly",
+      "slug": "mahatma-jyotiba-phule-rohilkhand-bareilly",
+      "domain": "mjpru.ac.in",
+      "domains": "mjpru.ac.in",
+      "web_page": "http://www.mjpru.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Mahatma Phule Agricultural University",
+      "slug": "mahatma-phule-agricultural",
+      "domain": "mpkv.mah.nic.in",
+      "domains": "mpkv.mah.nic.in",
+      "web_page": "http://mpkv.mah.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Makanlal Chutur Vedi University",
+      "slug": "makanlal-chutur-vedi",
+      "domain": "mcu.ac.in",
+      "domains": "mcu.ac.in",
+      "web_page": "http://www.mcu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Malaviya National Institute of Technology Jaipur",
+      "slug": "malaviya-national-institute-technology-jaipur",
+      "domain": "mnit.ac.in",
+      "domains": "mnit.ac.in",
+      "web_page": "http://www.mnit.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Manav Rachna University",
+      "slug": "manav-rachna",
+      "domain": "manavrachna.edu.in",
+      "domains": "manavrachna.edu.in",
+      "web_page": "https://manavrachna.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Haryana"
+    },
+    {
+      "name": "Mangalore University",
+      "slug": "mangalore",
+      "domain": "mangaloreuniversity.ac.in",
+      "domains": "mangaloreuniversity.ac.in",
+      "web_page": "http://www.mangaloreuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "Manipal University",
+      "slug": "manipal",
+      "domain": "manipal.edu",
+      "domains": "manipal.edu",
+      "web_page": "http://www.manipal.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "Manipur University",
+      "slug": "manipur",
+      "domain": "manipur.nic.in",
+      "domains": "manipur.nic.in",
+      "web_page": "http://www.manipur.nic.in/maniuniversity.htm",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Manipur"
+    },
+    {
+      "name": "Mar Athanasios College for Advanced Studies",
+      "slug": "mar-athanasios-college-advanced-studies",
+      "domain": "macfast.org",
+      "domains": "macfast.org",
+      "web_page": "http://www.macfast.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Marathwada Agricultural University",
+      "slug": "marathwada-agricultural",
+      "domain": "mkv2.mah.nic.in",
+      "domains": "mkv2.mah.nic.in",
+      "web_page": "http://mkv2.mah.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Maulana Azad National Institute of Technology Bhopal",
+      "slug": "maulana-azad-national-institute-technology-bhopal",
+      "domain": "manit.ac.in",
+      "domains": "manit.ac.in",
+      "web_page": "http://www.manit.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Madhya Pradesh"
+    },
+    {
+      "name": "MIT World Peace University",
+      "slug": "mit-world-peace",
+      "domain": "mitwpu.edu.in",
+      "domains": "mitwpu.edu.in",
+      "web_page": "https://mitwpu.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "Mohan Lal Sukhadia University",
+      "slug": "mohan-lal-sukhadia",
+      "domain": "mlsu.ac.in",
+      "domains": "mlsu.ac.in",
+      "web_page": "http://www.mlsu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Motilal Nehru National Institute Of Technology",
+      "slug": "motilal-nehru-national-institute-technology",
+      "domain": "mnnit.ac.in",
+      "domains": "mnnit.ac.in",
+      "web_page": "http://www.mnnit.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Moulana Azad national Urdu University",
+      "slug": "moulana-azad-national-urdu",
+      "domain": "manuu.ac.in",
+      "domains": "manuu.ac.in",
+      "web_page": "http://www.manuu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Nagaland University",
+      "slug": "nagaland",
+      "domain": "nagauniv.org.in",
+      "domains": "nagauniv.org.in",
+      "web_page": "http://www.nagauniv.org.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Nagaland"
+    },
+    {
+      "name": "Nagpur University",
+      "slug": "nagpur",
+      "domain": "nagpur-university.com",
+      "domains": "nagpur-university.com",
+      "web_page": "http://www.nagpur-university.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "Nalanda Open University",
+      "slug": "nalanda-open",
+      "domain": "nalandaopenuniversity.info",
+      "domains": "nalandaopenuniversity.info",
+      "web_page": "http://www.nalandaopenuniversity.info/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Narendra Deva University of Agriculture and Technology",
+      "slug": "narendra-deva-agriculture-technology",
+      "domain": "nduat.nic.in",
+      "domains": "nduat.nic.in",
+      "web_page": "http://www.nduat.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Narsee Monjee Institute of Management Studies",
+      "slug": "narsee-monjee-institute-management-studies",
+      "domain": "nmims.edu",
+      "domains": "nmims.edu",
+      "web_page": "http://www.nmims.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Narula Institute of Technology",
+      "slug": "narula-institute-technology",
+      "domain": "nit.ac.in",
+      "domains": "nit.ac.in",
+      "web_page": "https://www.nit.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "National Dairy Research Institute",
+      "slug": "national-dairy-research-institute",
+      "domain": "ndri.nic.in",
+      "domains": "ndri.nic.in",
+      "web_page": "http://ndri.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "National Institute of Industrial Engineering",
+      "slug": "national-institute-industrial-engineering",
+      "domain": "nitie.edu",
+      "domains": "nitie.edu",
+      "web_page": "http://www.nitie.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "National Institute of Mental Health and Neuro Sciences",
+      "slug": "national-institute-mental-health-neuro-sciences",
+      "domain": "nimhans.kar.nic.in",
+      "domains": "nimhans.kar.nic.in",
+      "web_page": "http://www.nimhans.kar.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "National Institute of Technology Agartala",
+      "slug": "national-institute-technology-agartala",
+      "domain": "nita.ac.in",
+      "domains": "nita.ac.in",
+      "web_page": "http://www.nita.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "National Institute of Technology Andhra Pradesh",
+      "slug": "national-institute-technology-andhra-pradesh",
+      "domain": "nitandhra.ac.in",
+      "domains": "nitandhra.ac.in",
+      "web_page": "http://www.nitandhra.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Andhra Pradesh"
+    },
+    {
+      "name": "National Institute of Technology Arunachal Pradesh",
+      "slug": "national-institute-technology-arunachal-pradesh",
+      "domain": "nitap.in",
+      "domains": "nitap.in",
+      "web_page": "http://www.nitap.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Arunachal Pradesh"
+    },
+    {
+      "name": "National Institute of Technology Calicut",
+      "slug": "national-institute-technology-calicut",
+      "domain": "nitc.ac.in",
+      "domains": "nitc.ac.in",
+      "web_page": "http://www.nitc.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "National Institute of Technology Delhi",
+      "slug": "national-institute-technology-delhi",
+      "domain": "nitdelhi.ac.in",
+      "domains": "nitdelhi.ac.in",
+      "web_page": "http://www.nitdelhi.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "National Institute of Technology Durgapur",
+      "slug": "national-institute-technology-durgapur",
+      "domain": "nitdgp.ac.in",
+      "domains": "nitdgp.ac.in",
+      "web_page": "http://www.nitdgp.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "National Institute of Technology Goa",
+      "slug": "national-institute-technology-goa",
+      "domain": "nitgoa.ac.in",
+      "domains": "nitgoa.ac.in",
+      "web_page": "http://www.nitgoa.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Goa"
+    },
+    {
+      "name": "National Institute of Technology Hamirpur",
+      "slug": "national-institute-technology-hamirpur",
+      "domain": "nith.ac.in",
+      "domains": "nith.ac.in",
+      "web_page": "http://www.nith.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Himachal Pradesh"
+    },
+    {
+      "name": "National Institute of Technology Jamshedpur",
+      "slug": "national-institute-technology-jamshedpur",
+      "domain": "nitjsr.ac.in",
+      "domains": "nitjsr.ac.in",
+      "web_page": "http://www.nitjsr.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Jharkhand"
+    },
+    {
+      "name": "National Institute of Technology Kurukshetra",
+      "slug": "national-institute-technology-kurukshetra",
+      "domain": "nitkkr.net",
+      "domains": "nitkkr.net",
+      "web_page": "http://www.nitkkr.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Haryana"
+    },
+    {
+      "name": "National Institute of Technology Manipur",
+      "slug": "national-institute-technology-manipur",
+      "domain": "nitmanipur.ac.in",
+      "domains": "nitmanipur.ac.in",
+      "web_page": "http://www.nitmanipur.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Manipur"
+    },
+    {
+      "name": "National Institute of Technology Meghalaya",
+      "slug": "national-institute-technology-meghalaya",
+      "domain": "nitm.ac.in",
+      "domains": "nitm.ac.in",
+      "web_page": "http://www.nitm.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Meghalaya"
+    },
+    {
+      "name": "National Institute of Technology Mizoram",
+      "slug": "national-institute-technology-mizoram",
+      "domain": "nitmz.ac.in",
+      "domains": "nitmz.ac.in",
+      "web_page": "http://www.nitmz.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Mizoram"
+    },
+    {
+      "name": "National Institute of Technology Nagaland",
+      "slug": "national-institute-technology-nagaland",
+      "domain": "nitnagaland.ac.in",
+      "domains": "nitnagaland.ac.in",
+      "web_page": "http://www.nitnagaland.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Nagaland"
+    },
+    {
+      "name": "National Institute of Technology Patna",
+      "slug": "national-institute-technology-patna",
+      "domain": "nitp.ac.in",
+      "domains": "nitp.ac.in",
+      "web_page": "http://www.nitp.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Bihar"
+    },
+    {
+      "name": "National Institute of Technology Puducherry",
+      "slug": "national-institute-technology-puducherry",
+      "domain": "nitpy.ac.in",
+      "domains": "nitpy.ac.in",
+      "web_page": "http://www.nitpy.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Puducherry"
+    },
+    {
+      "name": "National Institute of Technology Raipur",
+      "slug": "national-institute-technology-raipur",
+      "domain": "nitrr.ac.in",
+      "domains": "nitrr.ac.in",
+      "web_page": "http://www.nitrr.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Chhattisgarh"
+    },
+    {
+      "name": "National Institute of Technology Rourkela",
+      "slug": "national-institute-technology-rourkela",
+      "domain": "nitrkl.ac.in",
+      "domains": "nitrkl.ac.in",
+      "web_page": "http://www.nitrkl.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Odisha"
+    },
+    {
+      "name": "National Institute of Technology Sikkim",
+      "slug": "national-institute-technology-sikkim",
+      "domain": "nitsikkim.ac.in",
+      "domains": "nitsikkim.ac.in",
+      "web_page": "http://www.nitsikkim.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Sikkim"
+    },
+    {
+      "name": "National Institute of Technology Silchar",
+      "slug": "national-institute-technology-silchar",
+      "domain": "nits.ac.in",
+      "domains": "nits.ac.in",
+      "web_page": "http://www.nits.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Assam"
+    },
+    {
+      "name": "National Institute of Technology Srinagar",
+      "slug": "national-institute-technology-srinagar",
+      "domain": "nitsri.net",
+      "domains": "nitsri.net",
+      "web_page": "http://www.nitsri.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Jammu and Kashmir"
+    },
+    {
+      "name": "National Institute of Technology Surathkal",
+      "slug": "national-institute-technology-surathkal",
+      "domain": "nitk.ac.in",
+      "domains": "nitk.ac.in, nitk.edu.in",
+      "web_page": "http://www.nitk.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "National Institute of Technology Trichy",
+      "slug": "national-institute-technology-trichy",
+      "domain": "nitt.edu",
+      "domains": "nitt.edu",
+      "web_page": "http://www.nitt.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "National Institute of Technology Uttarakhand",
+      "slug": "national-institute-technology-uttarakhand",
+      "domain": "nituk.ac.in",
+      "domains": "nituk.ac.in",
+      "web_page": "http://www.nituk.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttarakhand"
+    },
+    {
+      "name": "National Institute of Technology Warangal",
+      "slug": "national-institute-technology-warangal",
+      "domain": "nitw.ernet.in",
+      "domains": "nitw.ernet.in",
+      "web_page": "http://www.nitw.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "National Law School of India University",
+      "slug": "national-law-school-india",
+      "domain": "nls.ac.in",
+      "domains": "nls.ac.in",
+      "web_page": "http://www.nls.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "National Museum Institute of History of Art, Conservation and Museology",
+      "slug": "national-museum-institute-history-art-conservation-museology",
+      "domain": "nationalmuseumindia.org",
+      "domains": "nationalmuseumindia.org",
+      "web_page": "http://www.nationalmuseumindia.org/nmi/index.htm",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "National Sanskrit University",
+      "slug": "national-sanskrit",
+      "domain": "sanskrit.nic.in",
+      "domains": "sanskrit.nic.in",
+      "web_page": "http://www.sanskrit.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Navrachana University",
+      "slug": "navrachana",
+      "domain": "nuv.ac.in",
+      "domains": "nuv.ac.in",
+      "web_page": "https://www.nuv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Netaji Subhas University of Technology",
+      "slug": "netaji-subhas-technology",
+      "domain": "nsut.ac.in",
+      "domains": "nsut.ac.in",
+      "web_page": "http://www.nsut.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "Nirma University",
+      "slug": "nirma",
+      "domain": "nirmauni.ac.in",
+      "domains": "nirmauni.ac.in",
+      "web_page": "http://www.nirmauni.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Nizam's Institute of Medical Sciences",
+      "slug": "nizam-s-institute-medical-sciences",
+      "domain": "nims.ap.nic.in",
+      "domains": "nims.ap.nic.in",
+      "web_page": "http://nims.ap.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Nizam’s Institute of Medical Sciences",
+      "slug": "nizam-s-institute-medical-sciences",
+      "domain": "nims.edu.in",
+      "domains": "nims.edu.in",
+      "web_page": "https://www.nims.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "North Eastern Hill University",
+      "slug": "north-eastern-hill",
+      "domain": "nehu.ac.in",
+      "domains": "nehu.ac.in",
+      "web_page": "http://www.nehu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "North Maharashtra University",
+      "slug": "north-maharashtra",
+      "domain": "nmu.ac.in",
+      "domains": "nmu.ac.in",
+      "web_page": "http://www.nmu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "NorthCap University",
+      "slug": "northcap",
+      "domain": "ncuindia.edu",
+      "domains": "ncuindia.edu",
+      "web_page": "http://www.ncuindia.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Haryana"
+    },
+    {
+      "name": "Open International University for Alternative Medicines",
+      "slug": "open-international-alternative-medicines",
+      "domain": "altmeduniversity.com",
+      "domains": "altmeduniversity.com",
+      "web_page": "http://www.altmeduniversity.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Orissa University of Agriculture and Technology",
+      "slug": "orissa-agriculture-technology",
+      "domain": "bhub.ori.nic.in",
+      "domains": "bhub.ori.nic.in",
+      "web_page": "http://bhub.ori.nic.in/ouat/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Odisha"
+    },
+    {
+      "name": "Osmania University",
+      "slug": "osmania",
+      "domain": "osmania.ac.in",
+      "domains": "osmania.ac.in",
+      "web_page": "http://www.osmania.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "P. V. Narasimha Rao Telangana Veterinary University",
+      "slug": "p-v-narasimha-rao-telangana-veterinary",
+      "domain": "tsvu.nic.in",
+      "domains": "tsvu.nic.in",
+      "web_page": "https://tsvu.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Palamuru University",
+      "slug": "palamuru",
+      "domain": "palamuruuniversity.ac.in",
+      "domains": "palamuruuniversity.ac.in",
+      "web_page": "https://palamuruuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Pandit Deendayal Energy University",
+      "slug": "pandit-deendayal-energy",
+      "domain": "pdeu.ac.in",
+      "domains": "pdeu.ac.in, pdpu.ac.in",
+      "web_page": "https://www.pdeu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Gujarat"
+    },
+    {
+      "name": "Pandit Ravi Shankar Shukla University",
+      "slug": "pandit-ravi-shankar-shukla",
+      "domain": "rsuniversity.com",
+      "domains": "rsuniversity.com",
+      "web_page": "http://www.rsuniversity.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Panimalar Engineering College",
+      "slug": "panimalar-engineering-college",
+      "domain": "panimalar.ac.in",
+      "domains": "panimalar.ac.in, panimalarengineeringcollegechennai.ac.in",
+      "web_page": "https://panimalar.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Panjab University",
+      "slug": "panjab",
+      "domain": "puchd.ac.in",
+      "domains": "puchd.ac.in",
+      "web_page": "http://www.puchd.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab"
+    },
+    {
+      "name": "Parul University",
+      "slug": "parul",
+      "domain": "paruluniversity.ac.in",
+      "domains": "paruluniversity.ac.in",
+      "web_page": "http://www.paruluniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Patna University",
+      "slug": "patna",
+      "domain": "puonline.bih.nic.in",
+      "domains": "puonline.bih.nic.in",
+      "web_page": "http://puonline.bih.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Bihar"
+    },
+    {
+      "name": "Periyar University",
+      "slug": "periyar",
+      "domain": "spuniv.org",
+      "domains": "spuniv.org",
+      "web_page": "http://www.spuniv.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "PES University",
+      "slug": "pes",
+      "domain": "pes.edu",
+      "domains": "pes.edu",
+      "web_page": "http://www.pes.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "Pondicherry University",
+      "slug": "pondicherry",
+      "domain": "pondiuni.org",
+      "domains": "pondiuni.org",
+      "web_page": "http://www.pondiuni.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Puducherry"
+    },
+    {
+      "name": "Pondicherry University",
+      "slug": "pondicherry",
+      "domain": "bicpu.edu.in",
+      "domains": "bicpu.edu.in",
+      "web_page": "https://bicpu.edu.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Postgraduate lnstitute of Medical Education and Research",
+      "slug": "postgraduate-lnstitute-medical-education-research",
+      "domain": "pgimer.nic.in",
+      "domains": "pgimer.nic.in",
+      "web_page": "http://www.pgimer.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab and Haryana"
+    },
+    {
+      "name": "Potti Sreeramulu Telugu University",
+      "slug": "potti-sreeramulu-telugu",
+      "domain": "teluguuniversity.ac.in",
+      "domains": "teluguuniversity.ac.in",
+      "web_page": "http://www.teluguuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Prathyusha Engineering College",
+      "slug": "prathyusha-engineering-college",
+      "domain": "prathyusha.edu.in",
+      "domains": "prathyusha.edu.in",
+      "web_page": "https://prathyusha.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Professor Jayashankar Telangana State Agricultural University",
+      "slug": "professor-jayashankar-telangana-state-agricultural",
+      "domain": "pjtau.edu.in",
+      "domains": "pjtau.edu.in",
+      "web_page": "https://pjtau.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "PSG College of Technology",
+      "slug": "psg-college-technology",
+      "domain": "psgtech.edu",
+      "domains": "psgtech.edu",
+      "web_page": "http://www.psgtech.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Punjab Agricultural University",
+      "slug": "punjab-agricultural",
+      "domain": "pau.edu",
+      "domains": "pau.edu",
+      "web_page": "http://www.pau.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab"
+    },
+    {
+      "name": "Punjab Engineering College",
+      "slug": "punjab-engineering-college",
+      "domain": "pec.ac.in",
+      "domains": "pec.ac.in",
+      "web_page": "http://www.pec.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab"
+    },
+    {
+      "name": "Punjab Technical University",
+      "slug": "punjab-technical",
+      "domain": "ptu.ac.in",
+      "domains": "ptu.ac.in",
+      "web_page": "http://www.ptu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab"
+    },
+    {
+      "name": "Punjabi University Patiala",
+      "slug": "punjabi-patiala",
+      "domain": "punjabiuniversity.ac.in",
+      "domains": "punjabiuniversity.ac.in",
+      "web_page": "http://www.punjabiuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab"
+    },
+    {
+      "name": "Rabindra Bharati University",
+      "slug": "rabindra-bharati",
+      "domain": "rabindrabharatiuniversity.net",
+      "domains": "rabindrabharatiuniversity.net",
+      "web_page": "http://www.rabindrabharatiuniversity.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Rajagiri School of Engineering and Technology",
+      "slug": "rajagiri-school-engineering-technology",
+      "domain": "rajagiritech.edu.in",
+      "domains": "rajagiritech.edu.in",
+      "web_page": "https://www.rajagiritech.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "Rajalakshmi Engineering College",
+      "slug": "rajalakshmi-engineering-college",
+      "domain": "rajalakshmi.org",
+      "domains": "rajalakshmi.org",
+      "web_page": "https://www.rajalakshmi.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Rajalakshmi Institute of Technology",
+      "slug": "rajalakshmi-institute-technology",
+      "domain": "ritchennai.org",
+      "domains": "ritchennai.org",
+      "web_page": "https://ritchennai.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Rajasthan Agricultural University, Bikaner",
+      "slug": "rajasthan-agricultural-bikaner",
+      "domain": "raubikaner.org",
+      "domains": "raubikaner.org",
+      "web_page": "http://www.raubikaner.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Rajasthan Technical University",
+      "slug": "rajasthan-technical",
+      "domain": "rtu.ac.in",
+      "domains": "rtu.ac.in",
+      "web_page": "http://www.rtu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Rajasthan Vidyapeeth University",
+      "slug": "rajasthan-vidyapeeth",
+      "domain": "jrnrvu.org",
+      "domains": "jrnrvu.org",
+      "web_page": "http://www.jrnrvu.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Rajendra Agricultural University",
+      "slug": "rajendra-agricultural",
+      "domain": "pusavarsity.org.in",
+      "domains": "pusavarsity.org.in",
+      "web_page": "http://www.pusavarsity.org.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Rajitlal Institute of Technology & Health Sciences (RITHS)",
+      "slug": "rajitlal-institute-technology-health-sciences-riths",
+      "domain": "riths.ac.in",
+      "domains": "riths.ac.in",
+      "web_page": "http://www.riths.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Rajiv Gandhi Technical University (University of Technology of Madhya Pradesh)",
+      "slug": "rajiv-gandhi-technical-technology-madhya-pradesh",
+      "domain": "rgtu.net",
+      "domains": "rgtu.net",
+      "web_page": "http://www.rgtu.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Madhya Pradesh"
+    },
+    {
+      "name": "Rajiv Gandhi University",
+      "slug": "rajiv-gandhi",
+      "domain": "rgu.ac.in",
+      "domains": "rgu.ac.in",
+      "web_page": "http://www.rgu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Ramaiah University of Applied Sciences",
+      "slug": "ramaiah-applied-sciences",
+      "domain": "msruas.ac.in",
+      "domains": "msruas.ac.in",
+      "web_page": "https://msruas.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Ranchi University",
+      "slug": "ranchi",
+      "domain": "ranchiuniversity.org.in",
+      "domains": "ranchiuniversity.org.in",
+      "web_page": "http://www.ranchiuniversity.org.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Jharkhand"
+    },
+    {
+      "name": "Rani Durgavati University",
+      "slug": "rani-durgavati",
+      "domain": "rdunijbpin.org",
+      "domains": "rdunijbpin.org",
+      "web_page": "http://www.rdunijbpin.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "RMD Engineering College",
+      "slug": "rmd-engineering-college",
+      "domain": "rmd.ac.in",
+      "domains": "rmd.ac.in",
+      "web_page": "https://rmd.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "RMK College of Engineering and Technology",
+      "slug": "rmk-college-engineering-technology",
+      "domain": "rmkcet.ac.in",
+      "domains": "rmkcet.ac.in",
+      "web_page": "https://rmkcet.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "RMK Engineering College",
+      "slug": "rmk-engineering-college",
+      "domain": "rmkec.ac.in",
+      "domains": "rmkec.ac.in",
+      "web_page": "http://www.rmkec.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "SA Engineering College",
+      "slug": "sa-engineering-college",
+      "domain": "saec.ac.in",
+      "domains": "saec.ac.in",
+      "web_page": "https://www.saec.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Sambalpur University",
+      "slug": "sambalpur",
+      "domain": "sambalpuruniversitypgc.in",
+      "domains": "sambalpuruniversitypgc.in",
+      "web_page": "http://www.sambalpuruniversitypgc.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sampurnanand Sanskrit University",
+      "slug": "sampurnanand-sanskrit",
+      "domain": "ssvv.up.nic.in",
+      "domains": "ssvv.up.nic.in",
+      "web_page": "http://ssvv.up.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sanjay Gandhi Postgraduate lnstitute of Medical Sciences",
+      "slug": "sanjay-gandhi-postgraduate-lnstitute-medical-sciences",
+      "domain": "sgpgi.ac.in",
+      "domains": "sgpgi.ac.in",
+      "web_page": "http://www.sgpgi.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sardar Patel University",
+      "slug": "sardar-patel",
+      "domain": "spuvvn.edu",
+      "domains": "spuvvn.edu",
+      "web_page": "http://www.spuvvn.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sardar Vallabhai Patel University of Agriculture Amd Technology",
+      "slug": "sardar-vallabhai-patel-agriculture-amd-technology",
+      "domain": "svbpuctm.org",
+      "domains": "svbpuctm.org",
+      "web_page": "http://www.svbpuctm.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sardar Vallabhbhai National Institute of Technology",
+      "slug": "sardar-vallabhbhai-national-institute-technology",
+      "domain": "svnit.ac.in",
+      "domains": "svnit.ac.in",
+      "web_page": "http://www.svnit.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sardarkrushinagar Dantiwada Agricultural University",
+      "slug": "sardarkrushinagar-dantiwada-agricultural",
+      "domain": "sdau.edu.in",
+      "domains": "sdau.edu.in",
+      "web_page": "http://www.sdau.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "SASTRA University",
+      "slug": "sastra",
+      "domain": "sastra.edu",
+      "domains": "sastra.edu, sastra.ac.in",
+      "web_page": "http://www.sastra.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Satavahana University",
+      "slug": "satavahana",
+      "domain": "satavahana.ac.in",
+      "domains": "satavahana.ac.in",
+      "web_page": "https://satavahana.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Sathyabama University",
+      "slug": "sathyabama",
+      "domain": "sathyabamauniv.ac.in",
+      "domains": "sathyabamauniv.ac.in",
+      "web_page": "http://www.sathyabamauniv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Saurashtra University",
+      "slug": "saurashtra",
+      "domain": "saurashtrauniversity.edu",
+      "domains": "saurashtrauniversity.edu",
+      "web_page": "http://www.saurashtrauniversity.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Saveetha Engineering College",
+      "slug": "saveetha-engineering-college",
+      "domain": "saveetha.ac.in",
+      "domains": "saveetha.ac.in",
+      "web_page": "https://www.saveetha.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Saveetha School of Engineering",
+      "slug": "saveetha-school-engineering",
+      "domain": "saveethaengineering.com",
+      "domains": "saveethaengineering.com",
+      "web_page": "https://saveethaengineering.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Saveetha University",
+      "slug": "saveetha",
+      "domain": "saveetha.com",
+      "domains": "saveetha.com",
+      "web_page": "https://www.saveetha.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "School of Planning and Architecture",
+      "slug": "school-planning-architecture",
+      "domain": "spa.ac.in",
+      "domains": "spa.ac.in",
+      "web_page": "http://www.spa.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "Sharda University",
+      "slug": "sharda",
+      "domain": "sharda.ac.in",
+      "domains": "sharda.ac.in",
+      "web_page": "https://www.sharda.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sher-E-Kashmir University of Agricultural Sciences and Technology",
+      "slug": "sher-e-kashmir-agricultural-sciences-technology",
+      "domain": "skuastkashmir.ac.in",
+      "domains": "skuastkashmir.ac.in",
+      "web_page": "http://www.skuastkashmir.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Shivaji University",
+      "slug": "shivaji",
+      "domain": "unishivaji.ac.in",
+      "domains": "unishivaji.ac.in",
+      "web_page": "http://www.unishivaji.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Shobhit University, Meerut",
+      "slug": "shobhit-meerut",
+      "domain": "shobhituniversity.ac.in",
+      "domains": "shobhituniversity.ac.in",
+      "web_page": "http://www.shobhituniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Shreemati Nathibai Damodar Thackersey Women's University",
+      "slug": "shreemati-nathibai-damodar-thackersey-women-s",
+      "domain": "sndt.edu",
+      "domains": "sndt.edu",
+      "web_page": "http://www.sndt.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Shri Jagannath Sanskrit University",
+      "slug": "shri-jagannath-sanskrit",
+      "domain": "sjsv.nic.in",
+      "domains": "sjsv.nic.in",
+      "web_page": "http://www.sjsv.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Shri Jagdishprasad Jhabarmal Tibrewala University",
+      "slug": "shri-jagdishprasad-jhabarmal-tibrewala",
+      "domain": "jjtu.ac.in",
+      "domains": "jjtu.ac.in",
+      "web_page": "https://jjtu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha",
+      "slug": "shri-lal-bahadur-shastri-rashtriya-sanskrit-vidyapeetha",
+      "domain": "slbsrsv.ac.in",
+      "domains": "slbsrsv.ac.in",
+      "web_page": "http://www.slbsrsv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Shridhar University",
+      "slug": "shridhar",
+      "domain": "shridharuniversity.ac.in",
+      "domains": "shridharuniversity.ac.in",
+      "web_page": "http://www.shridharuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sido Kanhu Murmu University",
+      "slug": "sido-kanhu-murmu",
+      "domain": "skmu.edu.in",
+      "domains": "skmu.edu.in",
+      "web_page": "http://www.skmu.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sikha 'O' Anushandhan University",
+      "slug": "sikha-o-anushandhan",
+      "domain": "soauniversity.ac.in",
+      "domains": "soauniversity.ac.in",
+      "web_page": "http://www.soauniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sikkim Manipal University of Health, Medical and Technological Sciences",
+      "slug": "sikkim-manipal-health-medical-technological-sciences",
+      "domain": "smu.edu.in",
+      "domains": "smu.edu.in",
+      "web_page": "http://www.smu.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Sikkim"
+    },
+    {
+      "name": "Singhania University",
+      "slug": "singhania",
+      "domain": "singhaniauniversity.ac.in",
+      "domains": "singhaniauniversity.ac.in",
+      "web_page": "https://singhaniauniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "Sister Nivedita University",
+      "slug": "sister-nivedita",
+      "domain": "snuniv.ac.in",
+      "domains": "snuniv.ac.in",
+      "web_page": "https://snuniv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "SMK Fomra Institute of Technology",
+      "slug": "smk-fomra-institute-technology",
+      "domain": "smkfomra.net",
+      "domains": "smkfomra.net",
+      "web_page": "http://www.smkfomra.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Solapur University",
+      "slug": "solapur",
+      "domain": "su.digitaluniversity.ac",
+      "domains": "su.digitaluniversity.ac",
+      "web_page": "http://su.digitaluniversity.ac/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Somaiya Vidyavihar",
+      "slug": "somaiya-vidyavihar",
+      "domain": "somaiya.edu",
+      "domains": "somaiya.edu",
+      "web_page": "https://somaiya.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "South Asian University",
+      "slug": "south-asian",
+      "domain": "southasianuniversity.org",
+      "domains": "southasianuniversity.org",
+      "web_page": "http://www.southasianuniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "South Gujarat University",
+      "slug": "south-gujarat",
+      "domain": "sgu.ernet.in",
+      "domains": "sgu.ernet.in",
+      "web_page": "http://www.sgu.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology",
+      "slug": "sree-chitra-tirunal-institute-medical-sciences-technology",
+      "domain": "sctimst.ker.nic.in",
+      "domains": "sctimst.ker.nic.in",
+      "web_page": "http://sctimst.ker.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sree Rama Krishna Degree College",
+      "slug": "sree-rama-krishna-degree-college",
+      "domain": "srkdc.org",
+      "domains": "srkdc.org",
+      "web_page": "http://www.srkdc.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sree Sankaracharya University of Sanskrit",
+      "slug": "sree-sankaracharya-sanskrit",
+      "domain": "ssus.ac.in",
+      "domains": "ssus.ac.in",
+      "web_page": "http://www.ssus.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya",
+      "slug": "sri-chandrasekharendra-saraswathi-viswa-mahavidyalaya",
+      "domain": "kanchiuniv.ac.in",
+      "domains": "kanchiuniv.ac.in",
+      "web_page": "http://www.kanchiuniv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sri Konda Laxman Telangana State Horticultural University",
+      "slug": "sri-konda-laxman-telangana-state-horticultural",
+      "domain": "skltshu.ac.in",
+      "domains": "skltshu.ac.in",
+      "web_page": "https://www.skltshu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Sri Krishnadevaraya University",
+      "slug": "sri-krishnadevaraya",
+      "domain": "skuniv.ap.nic.in",
+      "domains": "skuniv.ap.nic.in",
+      "web_page": "http://skuniv.ap.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sri Padmavati Women's University",
+      "slug": "sri-padmavati-women-s",
+      "domain": "padmavatiwomen-univ.org",
+      "domains": "padmavatiwomen-univ.org",
+      "web_page": "http://www.padmavatiwomen-univ.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sri Ramachardra Medical College and Research Institute",
+      "slug": "sri-ramachardra-medical-college-research-institute",
+      "domain": "sriramachandra.edu.in",
+      "domains": "sriramachandra.edu.in",
+      "web_page": "https://www.sriramachandra.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sri Sai Ram Engineering College",
+      "slug": "sri-sai-ram-engineering-college",
+      "domain": "sairam.edu.in",
+      "domains": "sairam.edu.in",
+      "web_page": "https://sairam.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Sri Sai Ram Institute of Technology",
+      "slug": "sri-sai-ram-institute-technology",
+      "domain": "sairamit.edu.in",
+      "domains": "sairamit.edu.in",
+      "web_page": "https://sairamit.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Sri Sant Gajanan Maharaj College of Engineering",
+      "slug": "sri-sant-gajanan-maharaj-college-engineering",
+      "domain": "ssgmce.org",
+      "domains": "ssgmce.org",
+      "web_page": "http://www.ssgmce.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sri Sathya Sai Institute of Higher Learning",
+      "slug": "sri-sathya-sai-institute-higher-learning",
+      "domain": "srisathyasai.org.in",
+      "domains": "srisathyasai.org.in",
+      "web_page": "http://www.srisathyasai.org.in/pages/instts/HighLearn.htm",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sri Sivasubramaniya Nadar Institutions",
+      "slug": "sri-sivasubramaniya-nadar-institutions",
+      "domain": "ssn.edu.in",
+      "domains": "ssn.edu.in",
+      "web_page": "https://www.ssn.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Sri Venkateswara College of Engineering",
+      "slug": "sri-venkateswara-college-engineering",
+      "domain": "svce.ac.in",
+      "domains": "svce.ac.in",
+      "web_page": "https://www.svce.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Sri Venkateswara Institute of Medical Sciences",
+      "slug": "sri-venkateswara-institute-medical-sciences",
+      "domain": "svimstpt.ap.nic.in",
+      "domains": "svimstpt.ap.nic.in",
+      "web_page": "http://svimstpt.ap.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Sri Venkateswara University",
+      "slug": "sri-venkateswara",
+      "domain": "svuni.ap.nic.in",
+      "domains": "svuni.ap.nic.in",
+      "web_page": "http://svuni.ap.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "SRM Institute Of Science & Technology",
+      "slug": "srm-institute-science-technology",
+      "domain": "srmuniv.ac.in",
+      "domains": "srmuniv.ac.in",
+      "web_page": "http://www.srmuniv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "SRM University",
+      "slug": "srm",
+      "domain": "srmap.edu.in",
+      "domains": "srmap.edu.in",
+      "web_page": "https://srmap.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Andhra Pradesh"
+    },
+    {
+      "name": "St Joseph's College Of Engineering",
+      "slug": "st-joseph-s-college-engineering",
+      "domain": "stjosephs.ac.in",
+      "domains": "stjosephs.ac.in",
+      "web_page": "https://stjosephs.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "St Joseph's Institute Of Technology",
+      "slug": "st-joseph-s-institute-technology",
+      "domain": "stjosephstechnology.ac.in",
+      "domains": "stjosephstechnology.ac.in",
+      "web_page": "https://www.stjosephstechnology.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "St. Joseph's College of Commerce",
+      "slug": "st-joseph-s-college-commerce",
+      "domain": "sjcc.edu.in",
+      "domains": "sjcc.edu.in",
+      "web_page": "https://sjcc.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "Swami Ramanand Teerth Marathwada University",
+      "slug": "swami-ramanand-teerth-marathwada",
+      "domain": "srtmun.org",
+      "domains": "srtmun.org",
+      "web_page": "http://www.srtmun.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Symbiosis International University",
+      "slug": "symbiosis-international",
+      "domain": "siu.edu.in",
+      "domains": "siu.edu.in",
+      "web_page": "http://www.siu.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Takhatmal Shrivallabh Homoeopathic Medical College",
+      "slug": "takhatmal-shrivallabh-homoeopathic-medical-college",
+      "domain": "tshmc.org",
+      "domains": "tshmc.org",
+      "web_page": "http://www.tshmc.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Tamil Nadu Agricultural University",
+      "slug": "tamil-nadu-agricultural",
+      "domain": "dbs.tn.nic.in",
+      "domains": "dbs.tn.nic.in",
+      "web_page": "http://dbs.tn.nic.in/tnau/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Tamil Nadu Dr. Ambedkar Law University",
+      "slug": "tamil-nadu-dr-ambedkar-law",
+      "domain": "tndalu.org",
+      "domains": "tndalu.org",
+      "web_page": "http://www.tndalu.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Tamil Nadu Dr. M.G.R. Medical University",
+      "slug": "tamil-nadu-dr-m-g-r-medical",
+      "domain": "tnmmu.ac.in",
+      "domains": "tnmmu.ac.in",
+      "web_page": "http://www.tnmmu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Tamil Nadu Veterinary and Animal Sciences University",
+      "slug": "tamil-nadu-veterinary-animal-sciences",
+      "domain": "tanuvas.com",
+      "domains": "tanuvas.com",
+      "web_page": "http://www.tanuvas.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Tamil University",
+      "slug": "tamil",
+      "domain": "tamiluniversity.ac.in",
+      "domains": "tamiluniversity.ac.in",
+      "web_page": "http://www.tamiluniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Tata Institute of Social Sciences",
+      "slug": "tata-institute-social-sciences",
+      "domain": "tiss.edu",
+      "domains": "tiss.edu",
+      "web_page": "http://www.tiss.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Technique Polytechnic Institute",
+      "slug": "technique-polytechnic-institute",
+      "domain": "techniqueedu.com",
+      "domains": "techniqueedu.com",
+      "web_page": "https://www.techniqueedu.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "Telangana University",
+      "slug": "telangana",
+      "domain": "telanganauniversity.ac.in",
+      "domains": "telanganauniversity.ac.in",
+      "web_page": "https://www.telanganauniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "Tezpur University",
+      "slug": "tezpur",
+      "domain": "tezu.ernet.in",
+      "domains": "tezu.ernet.in",
+      "web_page": "http://www.tezu.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Thapar Institute of Engineering and Technology",
+      "slug": "thapar-institute-engineering-technology",
+      "domain": "tiet.ac.in",
+      "domains": "tiet.ac.in",
+      "web_page": "http://www.tiet.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Punjab"
+    },
+    {
+      "name": "The New College",
+      "slug": "new-college",
+      "domain": "thenewcollege.edu.in",
+      "domains": "thenewcollege.edu.in",
+      "web_page": "http://www.thenewcollege.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Thiagarajar College of Engineering",
+      "slug": "thiagarajar-college-engineering",
+      "domain": "tce.edu",
+      "domains": "tce.edu",
+      "web_page": "http://www.tce.edu/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Thiruvalluvar University",
+      "slug": "thiruvalluvar",
+      "domain": "tvuni.in",
+      "domains": "tvuni.in",
+      "web_page": "http://www.tvuni.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Tilak Maharashtra Vidyapeeth",
+      "slug": "tilak-maharashtra-vidyapeeth",
+      "domain": "tmv.edu.in",
+      "domains": "tmv.edu.in",
+      "web_page": "http://www.tmv.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Tilka Manjhi Bhagalpur University",
+      "slug": "tilka-manjhi-bhagalpur",
+      "domain": "tmbu.org",
+      "domains": "tmbu.org",
+      "web_page": "http://www.tmbu.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Tripura University",
+      "slug": "tripura",
+      "domain": "tripurauniv.in",
+      "domains": "tripurauniv.in",
+      "web_page": "http://www.tripurauniv.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Tumkur University",
+      "slug": "tumkur",
+      "domain": "tumkuruniversity.ac.in",
+      "domains": "tumkuruniversity.ac.in",
+      "web_page": "http://www.tumkuruniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "University College, Thiruvananthapuram",
+      "slug": "college-thiruvananthapuram",
+      "domain": "universitycollege.ac.in",
+      "domains": "universitycollege.ac.in",
+      "web_page": "http://universitycollege.ac.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "University of Agricultural Sciences, Bangalore",
+      "slug": "agricultural-sciences-bangalore",
+      "domain": "uasbng.kar.nic.in",
+      "domains": "uasbng.kar.nic.in",
+      "web_page": "http://uasbng.kar.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "University of Agricultural Sciences, Dharwad",
+      "slug": "agricultural-sciences-dharwad",
+      "domain": "uasd.net",
+      "domains": "uasd.net",
+      "web_page": "http://www.uasd.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "University of Burdwan",
+      "slug": "burdwan",
+      "domain": "burdwanuniversity.ac.in",
+      "domains": "burdwanuniversity.ac.in",
+      "web_page": "http://www.burdwanuniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "University of Calcutta",
+      "slug": "calcutta",
+      "domain": "caluniv.ac.in",
+      "domains": "caluniv.ac.in",
+      "web_page": "http://www.caluniv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "University of Calicut",
+      "slug": "calicut",
+      "domain": "unical.ac.in",
+      "domains": "unical.ac.in",
+      "web_page": "http://unical.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "University of Delhi",
+      "slug": "delhi",
+      "domain": "du.ac.in",
+      "domains": "du.ac.in",
+      "web_page": "http://www.du.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Delhi"
+    },
+    {
+      "name": "University of Health Sciences Andhra Pradesh",
+      "slug": "health-sciences-andhra-pradesh",
+      "domain": "ntruhs.ap.nic.in",
+      "domains": "ntruhs.ap.nic.in",
+      "web_page": "http://ntruhs.ap.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Andhra Pradesh"
+    },
+    {
+      "name": "University of Hyderabad",
+      "slug": "hyderabad",
+      "domain": "uohyd.ernet.in",
+      "domains": "uohyd.ernet.in",
+      "web_page": "http://www.uohyd.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Telangana"
+    },
+    {
+      "name": "University of Jammu",
+      "slug": "jammu",
+      "domain": "jammuvarsity.org",
+      "domains": "jammuvarsity.org",
+      "web_page": "http://www.jammuvarsity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Jammu"
+    },
+    {
+      "name": "University of Kalyani",
+      "slug": "kalyani",
+      "domain": "klyuniv.ac.in",
+      "domains": "klyuniv.ac.in",
+      "web_page": "http://www.klyuniv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "University of Kashmir",
+      "slug": "kashmir",
+      "domain": "kashmiruniversity.net",
+      "domains": "kashmiruniversity.net",
+      "web_page": "http://kashmiruniversity.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kashmir"
+    },
+    {
+      "name": "University of Kerala",
+      "slug": "kerala",
+      "domain": "keralauniversity.ac.in",
+      "domains": "keralauniversity.ac.in",
+      "web_page": "http://www.keralauniversity.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Kerala"
+    },
+    {
+      "name": "University of Kota",
+      "slug": "kota",
+      "domain": "uok.ac.in",
+      "domains": "uok.ac.in",
+      "web_page": "http://www.uok.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "University of Lucknow",
+      "slug": "lucknow",
+      "domain": "lucknowuniv.org",
+      "domains": "lucknowuniv.org",
+      "web_page": "http://www.lucknowuniv.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttar Pradesh"
+    },
+    {
+      "name": "University of Madras",
+      "slug": "madras",
+      "domain": "unom.ac.in",
+      "domains": "unom.ac.in",
+      "web_page": "http://www.unom.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "University of Media Arts",
+      "slug": "media-arts",
+      "domain": "uma.ac.in",
+      "domains": "uma.ac.in",
+      "web_page": "http://www.uma.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "University of Mumbai",
+      "slug": "mumbai",
+      "domain": "mu.ac.in",
+      "domains": "mu.ac.in",
+      "web_page": "http://www.mu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "University of Music and Fine Arts",
+      "slug": "music-fine-arts",
+      "domain": "iksvv.com",
+      "domains": "iksvv.com",
+      "web_page": "http://www.iksvv.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "University of Mysore",
+      "slug": "mysore",
+      "domain": "uni-mysore.ac.in",
+      "domains": "uni-mysore.ac.in",
+      "web_page": "http://www.uni-mysore.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "University of North Bengal",
+      "slug": "north-bengal",
+      "domain": "nbu.ac.in",
+      "domains": "nbu.ac.in",
+      "web_page": "http://www.nbu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "University of Petroleum and Energy Studies",
+      "slug": "petroleum-energy-studies",
+      "domain": "upes.ac.in",
+      "domains": "upes.ac.in",
+      "web_page": "https://www.upes.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Dehradun"
+    },
+    {
+      "name": "University of Pune",
+      "slug": "pune",
+      "domain": "unipune.ernet.in",
+      "domains": "unipune.ernet.in",
+      "web_page": "http://www.unipune.ernet.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "University of Rajasthan",
+      "slug": "rajasthan",
+      "domain": "uniraj.org",
+      "domains": "uniraj.org",
+      "web_page": "http://www.uniraj.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Rajasthan"
+    },
+    {
+      "name": "University of Roorkee",
+      "slug": "roorkee",
+      "domain": "uor.org",
+      "domains": "uor.org",
+      "web_page": "http://www.uor.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Utkal University",
+      "slug": "utkal",
+      "domain": "utkaluniv.org",
+      "domains": "utkaluniv.org",
+      "web_page": "http://www.utkaluniv.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Uttar Pradesh Technical University",
+      "slug": "uttar-pradesh-technical",
+      "domain": "uptu.ac.in",
+      "domains": "uptu.ac.in",
+      "web_page": "http://www.uptu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttar Pradesh"
+    },
+    {
+      "name": "Uttarakhand Open University",
+      "slug": "uttarakhand-open",
+      "domain": "uou.ac.in",
+      "domains": "uou.ac.in",
+      "web_page": "http://www.uou.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttarakhand"
+    },
+    {
+      "name": "Uttarakhand Technical University",
+      "slug": "uttarakhand-technical",
+      "domain": "uktech.ac.in",
+      "domains": "uktech.ac.in",
+      "web_page": "http://www.uktech.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttarakhand"
+    },
+    {
+      "name": "Uttaranchal University",
+      "slug": "uttaranchal",
+      "domain": "uumail.in",
+      "domains": "uumail.in",
+      "web_page": "https://uudoon.in",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Uttarakhand"
+    },
+    {
+      "name": "Vardhaman Mahaveer Open University",
+      "slug": "vardhaman-mahaveer-open",
+      "domain": "vmou.ac.in",
+      "domains": "vmou.ac.in",
+      "web_page": "http://www.vmou.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "VBS Purvanchal University",
+      "slug": "vbs-purvanchal",
+      "domain": "vbspu.ac.in",
+      "domains": "vbspu.ac.in",
+      "web_page": "http://vbspu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Veer Kunwar Singh University",
+      "slug": "veer-kunwar-singh",
+      "domain": "vksu-ara.org",
+      "domains": "vksu-ara.org",
+      "web_page": "http://www.vksu-ara.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Veer Surendra Sai University of Technology",
+      "slug": "veer-surendra-sai-technology",
+      "domain": "vssut.ac.in",
+      "domains": "vssut.ac.in",
+      "web_page": "http://www.vssut.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Velammal Engineering College",
+      "slug": "velammal-engineering-college",
+      "domain": "velammal.edu.in",
+      "domains": "velammal.edu.in",
+      "web_page": "https://velammal.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Velammal Institute of Technology",
+      "slug": "velammal-institute-technology",
+      "domain": "velammalitech.edu.in",
+      "domains": "velammalitech.edu.in",
+      "web_page": "https://velammalitech.edu.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Vellore Institute of Technology",
+      "slug": "vellore-institute-technology",
+      "domain": "vit.ac.in",
+      "domains": "vit.ac.in",
+      "web_page": "http://www.vit.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Tamil Nadu"
+    },
+    {
+      "name": "Vidyasagar University",
+      "slug": "vidyasagar",
+      "domain": "vidyasagar.ac.in",
+      "domains": "vidyasagar.ac.in",
+      "web_page": "http://www.vidyasagar.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Vignan University",
+      "slug": "vignan",
+      "domain": "vignanuniversity.org",
+      "domains": "vignanuniversity.org",
+      "web_page": "http://www.vignanuniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Vikram University",
+      "slug": "vikram",
+      "domain": "vikramuniversity.org",
+      "domains": "vikramuniversity.org",
+      "web_page": "http://www.vikramuniversity.org/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Vikrama Simhapuri University",
+      "slug": "vikrama-simhapuri",
+      "domain": "simhapuriuniv.ac.in",
+      "domains": "simhapuriuniv.ac.in",
+      "web_page": "http://www.simhapuriuniv.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Vinayaka Mission's Research Foundation-Deemed University",
+      "slug": "vinayaka-mission-s-research-foundation-deemed",
+      "domain": "vinayakamissions.com",
+      "domains": "vinayakamissions.com",
+      "web_page": "http://www.vinayakamissions.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Vinoba Bhave University",
+      "slug": "vinoba-bhave",
+      "domain": "vbu.co.in",
+      "domains": "vbu.co.in",
+      "web_page": "http://www.vbu.co.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Visva-Bharati University",
+      "slug": "visva-bharati",
+      "domain": "visva-bharati.ac.in",
+      "domains": "visva-bharati.ac.in",
+      "web_page": "http://www.visva-bharati.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    },
+    {
+      "name": "Visvesvaraya National Institute of Technology",
+      "slug": "visvesvaraya-national-institute-technology",
+      "domain": "vnitnagpur.ac.in",
+      "domains": "vnitnagpur.ac.in",
+      "web_page": "http://www.vnitnagpur.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Maharashtra"
+    },
+    {
+      "name": "Visvesvaraya Technological University",
+      "slug": "visvesvaraya-technological",
+      "domain": "vtu.ac.in",
+      "domains": "vtu.ac.in",
+      "web_page": "http://www.vtu.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Karnataka"
+    },
+    {
+      "name": "VIT Bhopal",
+      "slug": "vit-bhopal",
+      "domain": "vitbhopal.ac.in",
+      "domains": "vitbhopal.ac.in",
+      "web_page": "https://vitbhopal.ac.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "Madhya Pradesh"
+    },
+    {
+      "name": "West Bengal University of Animal and Fishery Sciences",
+      "slug": "west-bengal-animal-fishery-sciences",
+      "domain": "wbuafs.nic.in",
+      "domains": "wbuafs.nic.in",
+      "web_page": "http://www.wbuafs.nic.in/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "West Bengal University of Technology",
+      "slug": "west-bengal-technology",
+      "domain": "wbut.net",
+      "domains": "wbut.net",
+      "web_page": "http://www.wbut.net/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": "West Bengal"
+    },
+    {
+      "name": "Yashawantrao Chavan Maharashtra Open University",
+      "slug": "yashawantrao-chavan-maharashtra-open",
+      "domain": "ycmou.com",
+      "domains": "ycmou.com",
+      "web_page": "http://www.ycmou.com/",
+      "country": "India",
+      "country_code": "IN",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "भारत — विश्वविद्यालय एवं उच्च शिक्षा संस्थान - मुफ़्त डाउनलोड",
+    "description": "भारत में विश्वविद्यालयों एवं उच्च शिक्षा संस्थानों की सूची। प्रत्येक प्रविष्टि में संस्थान का नाम (अंग्रेज़ी/लैटिन वर्णमाला), मुख्य पंजीकृत डोमेन, समस्त डोमेन की सूची, मुख्य वेबसाइट, देश कोड (ISO-3166-1 alpha-2) तथा (जहाँ स्रोत में उपलब्ध हो) राज्य/प्रांत की जानकारी सम्मिलित है। वैश्विक Hipo/university-domains-list डेटासेट को छानकर निकाला गया (country == \"India\")। शामिल हैं 475 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "भारत — विश्वविद्यालय एवं उच्च शिक्षा संस्थान | ListBase",
+    "seo_description": "डाउनलोड भारत — विश्वविद्यालय एवं उच्च शिक्षा संस्थान — 475 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 475 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

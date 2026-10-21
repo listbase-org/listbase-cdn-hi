@@ -1,0 +1,266 @@
+{
+  "id": "hi-tithi-samay-field",
+  "name": "तिथि और समय फ़ील्ड — हिन्दी नाम (CLDR)",
+  "title": "तिथि और समय फ़ील्ड — हिन्दी नाम (CLDR)",
+  "description": "CLDR hi लोकेल से तिथि-समय फ़ील्ड के नाम (युग, वर्ष, माह, दिन, घंटा...)।",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "era",
+      "naam": "युग"
+    },
+    {
+      "id": 2,
+      "code": "era-short",
+      "naam": "युग"
+    },
+    {
+      "id": 3,
+      "code": "era-narrow",
+      "naam": "युग"
+    },
+    {
+      "id": 4,
+      "code": "year",
+      "naam": "वर्ष"
+    },
+    {
+      "id": 5,
+      "code": "year-short",
+      "naam": "वर्ष"
+    },
+    {
+      "id": 6,
+      "code": "year-narrow",
+      "naam": "वर्ष"
+    },
+    {
+      "id": 7,
+      "code": "quarter",
+      "naam": "तिमाही"
+    },
+    {
+      "id": 8,
+      "code": "quarter-short",
+      "naam": "तिमाही"
+    },
+    {
+      "id": 9,
+      "code": "quarter-narrow",
+      "naam": "तिमाही"
+    },
+    {
+      "id": 10,
+      "code": "month",
+      "naam": "माह"
+    },
+    {
+      "id": 11,
+      "code": "month-short",
+      "naam": "माह"
+    },
+    {
+      "id": 12,
+      "code": "month-narrow",
+      "naam": "माह"
+    },
+    {
+      "id": 13,
+      "code": "week",
+      "naam": "सप्ताह"
+    },
+    {
+      "id": 14,
+      "code": "week-short",
+      "naam": "सप्ताह"
+    },
+    {
+      "id": 15,
+      "code": "week-narrow",
+      "naam": "सप्ताह"
+    },
+    {
+      "id": 16,
+      "code": "weekOfMonth",
+      "naam": "माह का सप्ताह"
+    },
+    {
+      "id": 17,
+      "code": "weekOfMonth-short",
+      "naam": "माह का सप्ताह"
+    },
+    {
+      "id": 18,
+      "code": "weekOfMonth-narrow",
+      "naam": "माह का सप्ताह"
+    },
+    {
+      "id": 19,
+      "code": "day",
+      "naam": "दिन"
+    },
+    {
+      "id": 20,
+      "code": "day-short",
+      "naam": "दिन"
+    },
+    {
+      "id": 21,
+      "code": "day-narrow",
+      "naam": "दिन"
+    },
+    {
+      "id": 22,
+      "code": "dayOfYear",
+      "naam": "वर्ष का दिन"
+    },
+    {
+      "id": 23,
+      "code": "dayOfYear-short",
+      "naam": "वर्ष का दिन"
+    },
+    {
+      "id": 24,
+      "code": "dayOfYear-narrow",
+      "naam": "वर्ष का दिन"
+    },
+    {
+      "id": 25,
+      "code": "weekday",
+      "naam": "सप्ताह का दिन"
+    },
+    {
+      "id": 26,
+      "code": "weekday-short",
+      "naam": "सप्ताह का दिन"
+    },
+    {
+      "id": 27,
+      "code": "weekday-narrow",
+      "naam": "सप्ताह का दिन"
+    },
+    {
+      "id": 28,
+      "code": "weekdayOfMonth",
+      "naam": "माह के कार्यदिवस"
+    },
+    {
+      "id": 29,
+      "code": "weekdayOfMonth-short",
+      "naam": "माह के कार्यदिवस"
+    },
+    {
+      "id": 30,
+      "code": "weekdayOfMonth-narrow",
+      "naam": "माह के कार्यदिवस"
+    },
+    {
+      "id": 31,
+      "code": "dayperiod-short",
+      "naam": "पू/अ"
+    },
+    {
+      "id": 32,
+      "code": "dayperiod",
+      "naam": "पूर्वाह्न/अपराह्न"
+    },
+    {
+      "id": 33,
+      "code": "dayperiod-narrow",
+      "naam": "पू/अ"
+    },
+    {
+      "id": 34,
+      "code": "hour",
+      "naam": "घंटा"
+    },
+    {
+      "id": 35,
+      "code": "hour-short",
+      "naam": "घं॰"
+    },
+    {
+      "id": 36,
+      "code": "hour-narrow",
+      "naam": "घं॰"
+    },
+    {
+      "id": 37,
+      "code": "minute",
+      "naam": "मिनट"
+    },
+    {
+      "id": 38,
+      "code": "minute-short",
+      "naam": "मि॰"
+    },
+    {
+      "id": 39,
+      "code": "minute-narrow",
+      "naam": "मि॰"
+    },
+    {
+      "id": 40,
+      "code": "second",
+      "naam": "सेकंड"
+    },
+    {
+      "id": 41,
+      "code": "second-short",
+      "naam": "से॰"
+    },
+    {
+      "id": 42,
+      "code": "second-narrow",
+      "naam": "से॰"
+    },
+    {
+      "id": 43,
+      "code": "zone",
+      "naam": "समय क्षेत्र"
+    },
+    {
+      "id": 44,
+      "code": "zone-short",
+      "naam": "क्षेत्र"
+    },
+    {
+      "id": 45,
+      "code": "zone-narrow",
+      "naam": "क्षेत्र"
+    }
+  ],
+  "meta": {
+    "title": "तिथि और समय फ़ील्ड — हिन्दी नाम (CLDR) - मुफ़्त डाउनलोड",
+    "description": "CLDR hi लोकेल से तिथि-समय फ़ील्ड के नाम (युग, वर्ष, माह, दिन, घंटा...)। शामिल हैं 45 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "तिथि और समय फ़ील्ड — हिन्दी नाम (CLDR) | ListBase",
+    "seo_description": "डाउनलोड तिथि और समय फ़ील्ड — हिन्दी नाम (CLDR) — 45 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 45 रिकॉर्ड / 3 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

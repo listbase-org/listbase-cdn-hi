@@ -1,0 +1,736 @@
+{
+  "id": "hi-dadra-and-nagar-haveli-shahar",
+  "name": "दादरा और नगर हवेली के शहर (Dadra and Nagar Haveli Cities)",
+  "title": "दादरा और नगर हवेली के शहर (Dadra and Nagar Haveli Cities)",
+  "description": "दादरा और नगर हवेली राज्य के 67 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 67 cities and towns in Dadra and Nagar Haveli, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Amal",
+      "name_lower": "amal",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.266667,
+      "longitude": 72.966667
+    },
+    {
+      "name": "Ambabari",
+      "name_lower": "ambabari",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.166667,
+      "longitude": 73.15
+    },
+    {
+      "name": "Atal",
+      "name_lower": "atal",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.266667,
+      "longitude": 72.966667
+    },
+    {
+      "name": "Athal",
+      "name_lower": "athal",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.266667,
+      "longitude": 72.966667
+    },
+    {
+      "name": "Bedpa",
+      "name_lower": "bedpa",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.083333,
+      "longitude": 73.183333
+    },
+    {
+      "name": "Berpa",
+      "name_lower": "berpa",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.083333,
+      "longitude": 73.183333
+    },
+    {
+      "name": "Berpum",
+      "name_lower": "berpum",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.083333,
+      "longitude": 73.183333
+    },
+    {
+      "name": "Bildari",
+      "name_lower": "bildari",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.166667,
+      "longitude": 73.2
+    },
+    {
+      "name": "Cadoli",
+      "name_lower": "cadoli",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.15,
+      "longitude": 73.033333
+    },
+    {
+      "name": "Carar",
+      "name_lower": "carar",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.216667,
+      "longitude": 73.05
+    },
+    {
+      "name": "Cararpará",
+      "name_lower": "cararpara",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.25,
+      "longitude": 72.95
+    },
+    {
+      "name": "Carchonde",
+      "name_lower": "carchonde",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.15,
+      "longitude": 73.15
+    },
+    {
+      "name": "Carconde",
+      "name_lower": "carconde",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.15,
+      "longitude": 73.15
+    },
+    {
+      "name": "Chicli",
+      "name_lower": "chicli",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.166667,
+      "longitude": 73.016667
+    },
+    {
+      "name": "Dadará",
+      "name_lower": "dadara",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.316667,
+      "longitude": 72.966667
+    },
+    {
+      "name": "Dadra",
+      "name_lower": "dadra",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.316667,
+      "longitude": 72.966667
+    },
+    {
+      "name": "Dahikhed",
+      "name_lower": "dahikhed",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.25,
+      "longitude": 73.133333
+    },
+    {
+      "name": "Dolora",
+      "name_lower": "dolora",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.083333,
+      "longitude": 73.05
+    },
+    {
+      "name": "Galonda",
+      "name_lower": "galonda",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.283333,
+      "longitude": 73.05
+    },
+    {
+      "name": "Gaonda",
+      "name_lower": "gaonda",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.283333,
+      "longitude": 73.05
+    },
+    {
+      "name": "Golondá",
+      "name_lower": "golonda",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.283333,
+      "longitude": 73.05
+    },
+    {
+      "name": "Gotar",
+      "name_lower": "gotar",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.166667,
+      "longitude": 73.116667
+    },
+    {
+      "name": "Karchond",
+      "name_lower": "karchond",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.15,
+      "longitude": 73.15
+    },
+    {
+      "name": "Karchondi",
+      "name_lower": "karchondi",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.15,
+      "longitude": 73.15
+    },
+    {
+      "name": "Khadoli",
+      "name_lower": "khadoli",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.15,
+      "longitude": 73.033333
+    },
+    {
+      "name": "Kharadpada",
+      "name_lower": "kharadpada",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.25,
+      "longitude": 72.95
+    },
+    {
+      "name": "Kharadpara",
+      "name_lower": "kharadpara",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.25,
+      "longitude": 72.95
+    },
+    {
+      "name": "Kherarbari",
+      "name_lower": "kherarbari",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.133333,
+      "longitude": 73.133333
+    },
+    {
+      "name": "Kherdi",
+      "name_lower": "kherdi",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.116667,
+      "longitude": 73.033333
+    },
+    {
+      "name": "Luari",
+      "name_lower": "luari",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.183333,
+      "longitude": 72.966667
+    },
+    {
+      "name": "Luhari",
+      "name_lower": "luhari",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.183333,
+      "longitude": 72.966667
+    },
+    {
+      "name": "Malanji",
+      "name_lower": "malanji",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.15,
+      "longitude": 73.233333
+    },
+    {
+      "name": "Malungi",
+      "name_lower": "malungi",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.15,
+      "longitude": 73.233333
+    },
+    {
+      "name": "Mandauni",
+      "name_lower": "mandauni",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.116667,
+      "longitude": 73.15
+    },
+    {
+      "name": "Mandavni",
+      "name_lower": "mandavni",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.116667,
+      "longitude": 73.15
+    },
+    {
+      "name": "Mandoni",
+      "name_lower": "mandoni",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.116667,
+      "longitude": 73.15
+    },
+    {
+      "name": "Mandonim",
+      "name_lower": "mandonim",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.116667,
+      "longitude": 73.15
+    },
+    {
+      "name": "Masat",
+      "name_lower": "masat",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.25,
+      "longitude": 73.016667
+    },
+    {
+      "name": "Massate",
+      "name_lower": "massate",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.25,
+      "longitude": 73.016667
+    },
+    {
+      "name": "Mota Randha",
+      "name_lower": "mota randha",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.3,
+      "longitude": 73.15
+    },
+    {
+      "name": "Nana Randha",
+      "name_lower": "nana randha",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.283333,
+      "longitude": 73.15
+    },
+    {
+      "name": "Norali",
+      "name_lower": "norali",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.283333,
+      "longitude": 72.95
+    },
+    {
+      "name": "Noroli",
+      "name_lower": "noroli",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.283333,
+      "longitude": 72.95
+    },
+    {
+      "name": "Querarbari",
+      "name_lower": "querarbari",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.133333,
+      "longitude": 73.133333
+    },
+    {
+      "name": "Racoli",
+      "name_lower": "racoli",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.216667,
+      "longitude": 73.033333
+    },
+    {
+      "name": "Rakholi",
+      "name_lower": "rakholi",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.216667,
+      "longitude": 73.033333
+    },
+    {
+      "name": "Randha Moti",
+      "name_lower": "randha moti",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.3,
+      "longitude": 73.15
+    },
+    {
+      "name": "Randha Nana",
+      "name_lower": "randha nana",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.283333,
+      "longitude": 73.15
+    },
+    {
+      "name": "Randhu Moti",
+      "name_lower": "randhu moti",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.3,
+      "longitude": 73.15
+    },
+    {
+      "name": "Randhu Nani",
+      "name_lower": "randhu nani",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.283333,
+      "longitude": 73.15
+    },
+    {
+      "name": "Randá",
+      "name_lower": "randa",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.3,
+      "longitude": 73.15
+    },
+    {
+      "name": "Randá Pequeno",
+      "name_lower": "randa pequeno",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.283333,
+      "longitude": 73.15
+    },
+    {
+      "name": "Rudana",
+      "name_lower": "rudana",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.1,
+      "longitude": 73.083333
+    },
+    {
+      "name": "Saily",
+      "name_lower": "saily",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.233333,
+      "longitude": 73.033333
+    },
+    {
+      "name": "Selvasa",
+      "name_lower": "selvasa",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.266667,
+      "longitude": 73.016667
+    },
+    {
+      "name": "Shindhoni",
+      "name_lower": "shindhoni",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.083333,
+      "longitude": 73.15
+    },
+    {
+      "name": "Sili",
+      "name_lower": "sili",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.316667,
+      "longitude": 73.05
+    },
+    {
+      "name": "Silvassa",
+      "name_lower": "silvassa",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": 27359,
+      "latitude": 20.266667,
+      "longitude": 73.016667
+    },
+    {
+      "name": "Sindavni",
+      "name_lower": "sindavni",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.083333,
+      "longitude": 73.15
+    },
+    {
+      "name": "Sindonim",
+      "name_lower": "sindonim",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.083333,
+      "longitude": 73.15
+    },
+    {
+      "name": "Umbarkoi",
+      "name_lower": "umbarkoi",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.266667,
+      "longitude": 73.083333
+    },
+    {
+      "name": "Umborcui",
+      "name_lower": "umborcui",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.266667,
+      "longitude": 73.083333
+    },
+    {
+      "name": "Vansda",
+      "name_lower": "vansda",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.116667,
+      "longitude": 73.15
+    },
+    {
+      "name": "Vasona",
+      "name_lower": "vasona",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.2,
+      "longitude": 73.033333
+    },
+    {
+      "name": "Vassoná",
+      "name_lower": "vassona",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.2,
+      "longitude": 73.033333
+    },
+    {
+      "name": "Velugam",
+      "name_lower": "velugam",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.133333,
+      "longitude": 72.983333
+    },
+    {
+      "name": "Velugão",
+      "name_lower": "velugao",
+      "state": "Dadra and Nagar Haveli",
+      "state_hi": "दादरा और नगर हवेली",
+      "region_code": "06",
+      "population": "",
+      "latitude": 20.133333,
+      "longitude": 72.983333
+    }
+  ],
+  "meta": {
+    "title": "दादरा और नगर हवेली के शहर (Dadra and Nagar Haveli Cities) - मुफ़्त डाउनलोड",
+    "description": "दादरा और नगर हवेली राज्य के 67 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 67 cities and towns in Dadra and Nagar Haveli, India, with population and geographic coordinates. शामिल हैं 67 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "दादरा और नगर हवेली के शहर (Dadra and Nagar Haveli Cities) | ListBase",
+    "seo_description": "डाउनलोड दादरा और नगर हवेली के शहर (Dadra and Nagar Haveli Cities) — 67 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 67 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

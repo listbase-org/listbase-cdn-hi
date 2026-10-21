@@ -1,0 +1,163 @@
+{
+  "id": "hi-bhadohi-bank",
+  "name": "Bhadohi में बैंक — SWIFT/BIC कोड",
+  "title": "Bhadohi में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Bhadohi, India. Subset of hi-bank. Source city string preserved verbatim as \"BHADOHI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 14,
+      "bank": "ALLAHABAD BANK",
+      "city": "BHADOHI",
+      "branch": "(BHADOHI BRANCH)",
+      "swift_code": "ALLAINBBBHD"
+    },
+    {
+      "id": 15,
+      "bank": "ALLAHABAD BANK",
+      "city": "BHADOHI",
+      "branch": "(KHAMARIA BRANCH)",
+      "swift_code": "ALLAINBBKHA"
+    },
+    {
+      "id": 194,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHADOHI",
+      "branch": "(BHADOHI BRANCH)",
+      "swift_code": "AXISINBBA04"
+    },
+    {
+      "id": 757,
+      "bank": "BANK OF BARODA",
+      "city": "BHADOHI",
+      "branch": "(BHADOHI BRANCH)",
+      "swift_code": "BARBINBBBDH"
+    },
+    {
+      "id": 923,
+      "bank": "BANK OF INDIA",
+      "city": "BHADOHI",
+      "branch": "(BHADOHI BRANCH)",
+      "swift_code": "BKIDINBBBDH"
+    },
+    {
+      "id": 924,
+      "bank": "BANK OF INDIA",
+      "city": "BHADOHI",
+      "branch": "(NAYA BAZAR BRANCH)",
+      "swift_code": "BKIDINBBNYB"
+    },
+    {
+      "id": 2280,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "BHADOHI",
+      "branch": "(BHADOHI BRANCH, U.P.)",
+      "swift_code": "JAKAINBBBUD"
+    },
+    {
+      "id": 2466,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "BHADOHI",
+      "branch": "(0678 BHADOHI)",
+      "swift_code": "ORBCINBBBDI"
+    },
+    {
+      "id": 2615,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "BHADOHI",
+      "branch": "(BHADOHI BRANCH)",
+      "swift_code": "PUNBINBBBHO"
+    },
+    {
+      "id": 2616,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "BHADOHI",
+      "branch": "(MADHOSING BHADOHI)",
+      "swift_code": "PUNBINBBMSB"
+    },
+    {
+      "id": 2617,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "BHADOHI",
+      "branch": "(MAHARAJGANJ BHADOHI)",
+      "swift_code": "PUNBINBBMGB"
+    },
+    {
+      "id": 2964,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHADOHI",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB168"
+    },
+    {
+      "id": 2965,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHADOHI",
+      "branch": "(LUCKNOW CIRCLE)",
+      "swift_code": "SBININBBJ30"
+    },
+    {
+      "id": 3960,
+      "bank": "UCO BANK",
+      "city": "BHADOHI",
+      "branch": "(BHADOHI BRANCH)",
+      "swift_code": "UCBAINBB106"
+    },
+    {
+      "id": 4043,
+      "bank": "UNION BANK OF INDIA",
+      "city": "BHADOHI",
+      "branch": "(BHADOHI BRANCH)",
+      "swift_code": "UBININBBBHD"
+    },
+    {
+      "id": 4205,
+      "bank": "VIJAYA BANK",
+      "city": "BHADOHI",
+      "branch": "(BHADOHI)",
+      "swift_code": "VIJBINBBBDH"
+    }
+  ],
+  "meta": {
+    "title": "Bhadohi में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Bhadohi, India. Subset of hi-bank. Source city string preserved verbatim as \"BHADOHI\". शामिल हैं 16 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Bhadohi में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Bhadohi में बैंक — SWIFT/BIC कोड — 16 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 16 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

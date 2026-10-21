@@ -1,0 +1,144 @@
+{
+  "id": "hi-samay-kshetra-australia",
+  "name": "समय क्षेत्र — Australia (11)",
+  "title": "समय क्षेत्र — Australia (11)",
+  "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Australia/' से आरंभ होता है, हिन्दी नामों सहित।",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "tz_id",
+      "label": "Tz Id",
+      "type": "string"
+    },
+    {
+      "key": "kshetra",
+      "label": "Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "shahar",
+      "label": "Shahar",
+      "type": "string"
+    },
+    {
+      "key": "manak_naam",
+      "label": "Manak Naam",
+      "type": "string"
+    },
+    {
+      "key": "divakaal_naam",
+      "label": "Divakaal Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "tz_id": "Australia/Adelaide",
+      "kshetra": "Australia",
+      "shahar": "एडिलेड",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 2,
+      "tz_id": "Australia/Brisbane",
+      "kshetra": "Australia",
+      "shahar": "ब्रिस्बन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 3,
+      "tz_id": "Australia/Broken_Hill",
+      "kshetra": "Australia",
+      "shahar": "ब्रोकन हिल",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 4,
+      "tz_id": "Australia/Darwin",
+      "kshetra": "Australia",
+      "shahar": "डार्विन",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 5,
+      "tz_id": "Australia/Eucla",
+      "kshetra": "Australia",
+      "shahar": "यूक्ला",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 6,
+      "tz_id": "Australia/Hobart",
+      "kshetra": "Australia",
+      "shahar": "होबार्ट",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 7,
+      "tz_id": "Australia/Lindeman",
+      "kshetra": "Australia",
+      "shahar": "लिंडेमान",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 8,
+      "tz_id": "Australia/Lord_Howe",
+      "kshetra": "Australia",
+      "shahar": "लॉर्ड होवे",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 9,
+      "tz_id": "Australia/Melbourne",
+      "kshetra": "Australia",
+      "shahar": "मेलबोर्न",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 10,
+      "tz_id": "Australia/Perth",
+      "kshetra": "Australia",
+      "shahar": "पर्थ",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    },
+    {
+      "id": 11,
+      "tz_id": "Australia/Sydney",
+      "kshetra": "Australia",
+      "shahar": "सिडनी",
+      "manak_naam": "",
+      "divakaal_naam": ""
+    }
+  ],
+  "meta": {
+    "title": "समय क्षेत्र — Australia (11) - मुफ़्त डाउनलोड",
+    "description": "वे समय क्षेत्र जिनका IANA पहचानकर्ता 'Australia/' से आरंभ होता है, हिन्दी नामों सहित। शामिल हैं 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "समय क्षेत्र — Australia (11) | ListBase",
+    "seo_description": "डाउनलोड समय क्षेत्र — Australia (11) — 11 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 11 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "hi-kozhikode-bank",
+  "name": "Kozhikode में बैंक — SWIFT/BIC कोड",
+  "title": "Kozhikode में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Kozhikode, India. Subset of hi-bank. Source city string preserved verbatim as \"KOZHIKODE\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 424,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOZHIKODE",
+      "branch": "(KOZHIKODE)",
+      "swift_code": "AXISINBB136"
+    },
+    {
+      "id": 686,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "KOZHIKODE",
+      "branch": "(KOZHIKODE BRANCH)",
+      "swift_code": "UTIBINB1136"
+    },
+    {
+      "id": 996,
+      "bank": "BANK OF INDIA",
+      "city": "KOZHIKODE",
+      "branch": "(CALICUT)",
+      "swift_code": "BKIDINBBCLT"
+    },
+    {
+      "id": 1780,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOZHIKODE",
+      "branch": "(CHERUVANNUR BRANCH)",
+      "swift_code": "FDRLINBBCVR"
+    },
+    {
+      "id": 1781,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOZHIKODE",
+      "branch": "(KOZHIKODE BRANCH)",
+      "swift_code": "FDRLINBBKKD"
+    },
+    {
+      "id": 1782,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOZHIKODE",
+      "branch": "(NADAKKAVU WEST)",
+      "swift_code": "FDRLINBBNKW"
+    },
+    {
+      "id": 2715,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOZHIKODE",
+      "branch": "(KPK MENON ROAD)",
+      "swift_code": "PUNBINBBKPK"
+    },
+    {
+      "id": 3323,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOZHIKODE",
+      "branch": "(CALICUT)",
+      "swift_code": "SBININBB392"
+    },
+    {
+      "id": 3324,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOZHIKODE",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT22"
+    },
+    {
+      "id": 3325,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOZHIKODE",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBT44"
+    },
+    {
+      "id": 3922,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "KOZHIKODE",
+      "branch": "( KOZHIKODE MAIN)",
+      "swift_code": "SOININ55038"
+    },
+    {
+      "id": 4222,
+      "bank": "VIJAYA BANK",
+      "city": "KOZHIKODE",
+      "branch": "",
+      "swift_code": "VIJBINBBCLT"
+    }
+  ],
+  "meta": {
+    "title": "Kozhikode में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Kozhikode, India. Subset of hi-bank. Source city string preserved verbatim as \"KOZHIKODE\". शामिल हैं 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Kozhikode में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Kozhikode में बैंक — SWIFT/BIC कोड — 12 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 12 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

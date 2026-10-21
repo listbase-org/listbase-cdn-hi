@@ -1,0 +1,388 @@
+{
+  "id": "hi-andhra-pradesh-jile",
+  "name": "Andhra Pradesh के जिले (Andhra Pradesh Districts)",
+  "title": "Andhra Pradesh के जिले (Andhra Pradesh Districts)",
+  "description": "26 districts in Andhra Pradesh (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Andhra Pradesh\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "AS",
+      "district": "Alluri Sitharama Raju",
+      "district_slug": "alluri-sitharama-raju",
+      "headquarters": "Paderu",
+      "population": 954000,
+      "area_km2": 12251,
+      "density_per_km2": 77
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "AK",
+      "district": "Anakapalli",
+      "district_slug": "anakapalli",
+      "headquarters": "Anakapalli",
+      "population": 1727000,
+      "area_km2": 4292,
+      "density_per_km2": 402
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "AN",
+      "district": "Ananthapuramu",
+      "district_slug": "ananthapuramu",
+      "headquarters": "Ananthapuramu",
+      "population": 2241100,
+      "area_km2": 10205,
+      "density_per_km2": 219
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "AM",
+      "district": "Annamayya",
+      "district_slug": "annamayya",
+      "headquarters": "Rayachoti",
+      "population": 1697300,
+      "area_km2": 7954,
+      "density_per_km2": 213
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "BP",
+      "district": "Bapatla",
+      "district_slug": "bapatla",
+      "headquarters": "Bapatla",
+      "population": 1587000,
+      "area_km2": 3829,
+      "density_per_km2": 414
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "CH",
+      "district": "Chittoor",
+      "district_slug": "chittoor",
+      "headquarters": "Chittoor",
+      "population": 1873000,
+      "area_km2": 6855,
+      "density_per_km2": 273
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "KN",
+      "district": "Dr. B.R. Ambedkar Konaseema",
+      "district_slug": "dr-b-r-ambedkar-konaseema",
+      "headquarters": "Amalapuram",
+      "population": 1719100,
+      "area_km2": 2083,
+      "density_per_km2": 825
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "EG",
+      "district": "East Godavari",
+      "district_slug": "east-godavari",
+      "headquarters": "Rajamahendravaram",
+      "population": 1832300,
+      "area_km2": 2561,
+      "density_per_km2": 715
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "EL",
+      "district": "Eluru",
+      "district_slug": "eluru",
+      "headquarters": "Eluru",
+      "population": 2071700,
+      "area_km2": 6679,
+      "density_per_km2": 310
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "GU",
+      "district": "Guntur",
+      "district_slug": "guntur",
+      "headquarters": "Guntur",
+      "population": 2091000,
+      "area_km2": 2443,
+      "density_per_km2": 855
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "KK",
+      "district": "Kakinada",
+      "district_slug": "kakinada",
+      "headquarters": "Kakinada",
+      "population": 2092300,
+      "area_km2": 3019,
+      "density_per_km2": 693
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "KR",
+      "district": "Krishna",
+      "district_slug": "krishna",
+      "headquarters": "Machilipatnam",
+      "population": 1735000,
+      "area_km2": 3775,
+      "density_per_km2": 459
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "KU",
+      "district": "Kurnool",
+      "district_slug": "kurnool",
+      "headquarters": "Kurnool",
+      "population": 2271700,
+      "area_km2": 7980,
+      "density_per_km2": 284
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "NT",
+      "district": "NTR",
+      "district_slug": "ntr",
+      "headquarters": "Vijayawada",
+      "population": 2218000,
+      "area_km2": 3316,
+      "density_per_km2": 668
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "NN",
+      "district": "Nandyal",
+      "district_slug": "nandyal",
+      "headquarters": "Nandyal",
+      "population": 1781800,
+      "area_km2": 9682,
+      "density_per_km2": 184
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "PL",
+      "district": "Palnadu",
+      "district_slug": "palnadu",
+      "headquarters": "Narasaraopet",
+      "population": 2042000,
+      "area_km2": 7298,
+      "density_per_km2": 279
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "PM",
+      "district": "Parvathipuram Manyam",
+      "district_slug": "parvathipuram-manyam",
+      "headquarters": "Parvathipuram",
+      "population": 925300,
+      "area_km2": 3659,
+      "density_per_km2": 252
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "PR",
+      "district": "Prakasam",
+      "district_slug": "prakasam",
+      "headquarters": "Ongole",
+      "population": 2288000,
+      "area_km2": 14322,
+      "density_per_km2": 160
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "NE",
+      "district": "Sri Potti Sriramulu Nellore",
+      "district_slug": "sri-potti-sriramulu-nellore",
+      "headquarters": "Nellore",
+      "population": 2469700,
+      "area_km2": 10441,
+      "density_per_km2": 236
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "SS",
+      "district": "Sri Sathya Sai",
+      "district_slug": "sri-sathya-sai",
+      "headquarters": "Puttaparthi",
+      "population": 1840000,
+      "area_km2": 8925,
+      "density_per_km2": 206
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "SR",
+      "district": "Srikakulam",
+      "district_slug": "srikakulam",
+      "headquarters": "Srikakulam",
+      "population": 2191471,
+      "area_km2": 4591,
+      "density_per_km2": 477
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "TR",
+      "district": "Tirupati",
+      "district_slug": "tirupati",
+      "headquarters": "Tirupati",
+      "population": 2197000,
+      "area_km2": 8231,
+      "density_per_km2": 241
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "VS",
+      "district": "Visakhapatnam",
+      "district_slug": "visakhapatnam",
+      "headquarters": "Visakhapatnam",
+      "population": 1959500,
+      "area_km2": 1048,
+      "density_per_km2": 1869
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "VZ",
+      "district": "Vizianagaram",
+      "district_slug": "vizianagaram",
+      "headquarters": "Vizianagaram",
+      "population": 1930800,
+      "area_km2": 4122,
+      "density_per_km2": 468
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "WG",
+      "district": "West Godavari",
+      "district_slug": "west-godavari",
+      "headquarters": "Bhimavaram",
+      "population": 1780000,
+      "area_km2": 2178,
+      "density_per_km2": 817
+    },
+    {
+      "state": "Andhra Pradesh",
+      "state_code": "AP",
+      "state_slug": "andhra-pradesh",
+      "district_code": "CU",
+      "district": "YSR",
+      "district_slug": "ysr",
+      "headquarters": "Kadapa",
+      "population": 2060700,
+      "area_km2": 11228,
+      "density_per_km2": 183
+    }
+  ],
+  "meta": {
+    "title": "Andhra Pradesh के जिले (Andhra Pradesh Districts) - मुफ़्त डाउनलोड",
+    "description": "26 districts in Andhra Pradesh (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Andhra Pradesh\". शामिल हैं 26 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Andhra Pradesh के जिले (Andhra Pradesh Districts) | ListBase",
+    "seo_description": "डाउनलोड Andhra Pradesh के जिले (Andhra Pradesh Districts) — 26 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 26 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

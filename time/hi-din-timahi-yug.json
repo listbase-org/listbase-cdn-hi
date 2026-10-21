@@ -1,0 +1,205 @@
+{
+  "id": "hi-din-timahi-yug",
+  "name": "दिन, तिमाही, दिन-अवधि और युग — हिन्दी नाम (CLDR)",
+  "title": "दिन, तिमाही, दिन-अवधि और युग — हिन्दी नाम (CLDR)",
+  "description": "CLDR hi लोकेल के ग्रेगोरियन कैलेंडर से सप्ताह के दिनों, तिमाहियों, दिन-अवधियों और युगों के हिन्दी नाम।",
+  "category": "time",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "prakar",
+      "label": "Prakar",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sanket",
+      "label": "Sanket",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "prakar": "din",
+      "code": "sun",
+      "naam": "रविवार",
+      "sanket": "रवि"
+    },
+    {
+      "id": 2,
+      "prakar": "din",
+      "code": "mon",
+      "naam": "सोमवार",
+      "sanket": "सोम"
+    },
+    {
+      "id": 3,
+      "prakar": "din",
+      "code": "tue",
+      "naam": "मंगलवार",
+      "sanket": "मंगल"
+    },
+    {
+      "id": 4,
+      "prakar": "din",
+      "code": "wed",
+      "naam": "बुधवार",
+      "sanket": "बुध"
+    },
+    {
+      "id": 5,
+      "prakar": "din",
+      "code": "thu",
+      "naam": "गुरुवार",
+      "sanket": "गुरु"
+    },
+    {
+      "id": 6,
+      "prakar": "din",
+      "code": "fri",
+      "naam": "शुक्रवार",
+      "sanket": "शुक्र"
+    },
+    {
+      "id": 7,
+      "prakar": "din",
+      "code": "sat",
+      "naam": "शनिवार",
+      "sanket": "शनि"
+    },
+    {
+      "id": 8,
+      "prakar": "timahi",
+      "code": "1",
+      "naam": "पहली तिमाही",
+      "sanket": "ति1"
+    },
+    {
+      "id": 9,
+      "prakar": "timahi",
+      "code": "2",
+      "naam": "दूसरी तिमाही",
+      "sanket": "ति2"
+    },
+    {
+      "id": 10,
+      "prakar": "timahi",
+      "code": "3",
+      "naam": "तीसरी तिमाही",
+      "sanket": "ति3"
+    },
+    {
+      "id": 11,
+      "prakar": "timahi",
+      "code": "4",
+      "naam": "चौथी तिमाही",
+      "sanket": "ति4"
+    },
+    {
+      "id": 12,
+      "prakar": "din_avadhi",
+      "code": "midnight",
+      "naam": "मध्यरात्रि",
+      "sanket": "मध्यरात्रि"
+    },
+    {
+      "id": 13,
+      "prakar": "din_avadhi",
+      "code": "am",
+      "naam": "am",
+      "sanket": "am"
+    },
+    {
+      "id": 14,
+      "prakar": "din_avadhi",
+      "code": "pm",
+      "naam": "pm",
+      "sanket": "pm"
+    },
+    {
+      "id": 15,
+      "prakar": "din_avadhi",
+      "code": "morning1",
+      "naam": "सुबह",
+      "sanket": "सुबह"
+    },
+    {
+      "id": 16,
+      "prakar": "din_avadhi",
+      "code": "afternoon1",
+      "naam": "दोपहर",
+      "sanket": "दोपहर"
+    },
+    {
+      "id": 17,
+      "prakar": "din_avadhi",
+      "code": "evening1",
+      "naam": "शाम",
+      "sanket": "शाम"
+    },
+    {
+      "id": 18,
+      "prakar": "din_avadhi",
+      "code": "night1",
+      "naam": "रात",
+      "sanket": "रात"
+    },
+    {
+      "id": 19,
+      "prakar": "yug",
+      "code": "0",
+      "naam": "ईसा-पूर्व",
+      "sanket": "ईसा-पूर्व"
+    },
+    {
+      "id": 20,
+      "prakar": "yug",
+      "code": "0-alt-variant",
+      "naam": "ईसवी पूर्व",
+      "sanket": "ईसवी पूर्व"
+    },
+    {
+      "id": 21,
+      "prakar": "yug",
+      "code": "1",
+      "naam": "ईसवी सन",
+      "sanket": "ईस्वी"
+    },
+    {
+      "id": 22,
+      "prakar": "yug",
+      "code": "1-alt-variant",
+      "naam": "ईसवी",
+      "sanket": "ईसवी"
+    }
+  ],
+  "meta": {
+    "title": "दिन, तिमाही, दिन-अवधि और युग — हिन्दी नाम (CLDR) - मुफ़्त डाउनलोड",
+    "description": "CLDR hi लोकेल के ग्रेगोरियन कैलेंडर से सप्ताह के दिनों, तिमाहियों, दिन-अवधियों और युगों के हिन्दी नाम। शामिल हैं 22 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "दिन, तिमाही, दिन-अवधि और युग — हिन्दी नाम (CLDR) | ListBase",
+    "seo_description": "डाउनलोड दिन, तिमाही, दिन-अवधि और युग — हिन्दी नाम (CLDR) — 22 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 22 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

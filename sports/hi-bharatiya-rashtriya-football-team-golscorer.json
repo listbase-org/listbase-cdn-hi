@@ -1,0 +1,775 @@
+{
+  "id": "hi-bharatiya-rashtriya-football-team-golscorer",
+  "name": "भारतीय राष्ट्रीय फ़ुटबॉल टीम के गोल — गोलस्कोरर 1964–2024 (64)",
+  "title": "भारतीय राष्ट्रीय फ़ुटबॉल टीम के गोल — गोलस्कोरर 1964–2024 (64)",
+  "description": "भारत की राष्ट्रीय फ़ुटबॉल टीम के पक्ष में किए गए गोल, martj42/international_results की goalscorers.csv के अनुसार: तारीख़, मैच, प्रतिद्वंद्वी, गोलस्कोरर, मिनट, आत्मघाती गोल (स्कोरर प्रतिद्वंद्वी टीम का खिलाड़ी), पेनल्टी गोल। स्रोत में हर मैच के गोलस्कोरर नहीं हैं — कवरेज अधूरी है (मुख्यतः बड़े टूर्नामेंट)। नाम स्रोत के अनुसार लैटिन लिपि में।",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 64,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "home_team",
+      "label": "Home Team",
+      "type": "string"
+    },
+    {
+      "key": "away_team",
+      "label": "Away Team",
+      "type": "string"
+    },
+    {
+      "key": "opponent",
+      "label": "Opponent",
+      "type": "string"
+    },
+    {
+      "key": "scorer",
+      "label": "Scorer",
+      "type": "string"
+    },
+    {
+      "key": "minute",
+      "label": "Minute",
+      "type": "number"
+    },
+    {
+      "key": "own_goal",
+      "label": "Own Goal",
+      "type": "boolean"
+    },
+    {
+      "key": "penalty",
+      "label": "Penalty",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "date": "1964-05-27",
+      "year": 1964,
+      "home_team": "India",
+      "away_team": "South Korea",
+      "opponent": "South Korea",
+      "scorer": "K. Appalaraju",
+      "minute": 2,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1964-05-27",
+      "year": 1964,
+      "home_team": "India",
+      "away_team": "South Korea",
+      "opponent": "South Korea",
+      "scorer": "Inder Singh",
+      "minute": 57,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1964-06-02",
+      "year": 1964,
+      "home_team": "Hong Kong",
+      "away_team": "India",
+      "opponent": "Hong Kong",
+      "scorer": "Inder Singh",
+      "minute": 45,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1964-06-02",
+      "year": 1964,
+      "home_team": "Hong Kong",
+      "away_team": "India",
+      "opponent": "Hong Kong",
+      "scorer": "Sukumar Samajpati",
+      "minute": 60,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1964-06-02",
+      "year": 1964,
+      "home_team": "Hong Kong",
+      "away_team": "India",
+      "opponent": "Hong Kong",
+      "scorer": "Chuni Goswami",
+      "minute": 77,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1985-03-21",
+      "year": 1985,
+      "home_team": "Indonesia",
+      "away_team": "India",
+      "opponent": "Indonesia",
+      "scorer": "Krishanu Dey",
+      "minute": 34,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1985-03-30",
+      "year": 1985,
+      "home_team": "Bangladesh",
+      "away_team": "India",
+      "opponent": "Bangladesh",
+      "scorer": "Sisir Ghosh",
+      "minute": 34,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1985-03-30",
+      "year": 1985,
+      "home_team": "Bangladesh",
+      "away_team": "India",
+      "opponent": "Bangladesh",
+      "scorer": "Bikash Panji",
+      "minute": 84,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1985-04-06",
+      "year": 1985,
+      "home_team": "India",
+      "away_team": "Indonesia",
+      "opponent": "Indonesia",
+      "scorer": "Narender Thapa",
+      "minute": 89,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1985-04-09",
+      "year": 1985,
+      "home_team": "India",
+      "away_team": "Thailand",
+      "opponent": "Thailand",
+      "scorer": "Krishanu Dey",
+      "minute": 85,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1985-04-12",
+      "year": 1985,
+      "home_team": "India",
+      "away_team": "Bangladesh",
+      "opponent": "Bangladesh",
+      "scorer": "Bikash Panji",
+      "minute": 36,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1985-04-12",
+      "year": 1985,
+      "home_team": "India",
+      "away_team": "Bangladesh",
+      "opponent": "Bangladesh",
+      "scorer": "Camillo Gonsalves",
+      "minute": 54,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1993-05-07",
+      "year": 1993,
+      "home_team": "Lebanon",
+      "away_team": "India",
+      "opponent": "Lebanon",
+      "scorer": "Tejinder Kumar",
+      "minute": 68,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1993-05-07",
+      "year": 1993,
+      "home_team": "Lebanon",
+      "away_team": "India",
+      "opponent": "Lebanon",
+      "scorer": "V. P. Sathyan",
+      "minute": 82,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1993-05-11",
+      "year": 1993,
+      "home_team": "India",
+      "away_team": "Hong Kong",
+      "opponent": "Hong Kong",
+      "scorer": "Bhupinder Thakur",
+      "minute": 54,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1993-05-15",
+      "year": 1993,
+      "home_team": "Bahrain",
+      "away_team": "India",
+      "opponent": "Bahrain",
+      "scorer": "V. P. Sathyan",
+      "minute": 90,
+      "own_goal": false,
+      "penalty": true
+    },
+    {
+      "date": "1993-06-11",
+      "year": 1993,
+      "home_team": "India",
+      "away_team": "Lebanon",
+      "opponent": "Lebanon",
+      "scorer": "Bhupinder Thakur",
+      "minute": 34,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1993-06-13",
+      "year": 1993,
+      "home_team": "Hong Kong",
+      "away_team": "India",
+      "opponent": "Hong Kong",
+      "scorer": "I. M. Vijayan",
+      "minute": 6,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1993-06-13",
+      "year": 1993,
+      "home_team": "Hong Kong",
+      "away_team": "India",
+      "opponent": "Hong Kong",
+      "scorer": "Bhupinder Thakur",
+      "minute": 55,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1993-06-13",
+      "year": 1993,
+      "home_team": "Hong Kong",
+      "away_team": "India",
+      "opponent": "Hong Kong",
+      "scorer": "I. M. Vijayan",
+      "minute": 77,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1996-09-21",
+      "year": 1996,
+      "home_team": "India",
+      "away_team": "Philippines",
+      "opponent": "Philippines",
+      "scorer": "Raman Vijayan",
+      "minute": 81,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1996-09-21",
+      "year": 1996,
+      "home_team": "India",
+      "away_team": "Philippines",
+      "opponent": "Philippines",
+      "scorer": "Bruno Coutinho",
+      "minute": 85,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "1996-09-24",
+      "year": 1996,
+      "home_team": "Sri Lanka",
+      "away_team": "India",
+      "opponent": "Sri Lanka",
+      "scorer": "Carlton Chapman",
+      "minute": 39,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-04-08",
+      "year": 2001,
+      "home_team": "India",
+      "away_team": "United Arab Emirates",
+      "opponent": "United Arab Emirates",
+      "scorer": "Jules Alberto",
+      "minute": 71,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-04-15",
+      "year": 2001,
+      "home_team": "India",
+      "away_team": "Yemen",
+      "opponent": "Yemen",
+      "scorer": "Baichung Bhutia",
+      "minute": 53,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-05-04",
+      "year": 2001,
+      "home_team": "Yemen",
+      "away_team": "India",
+      "opponent": "Yemen",
+      "scorer": "Jo Paul Ancheri",
+      "minute": 16,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-05-04",
+      "year": 2001,
+      "home_team": "Yemen",
+      "away_team": "India",
+      "opponent": "Yemen",
+      "scorer": "Jo Paul Ancheri",
+      "minute": 38,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-05-04",
+      "year": 2001,
+      "home_team": "Yemen",
+      "away_team": "India",
+      "opponent": "Yemen",
+      "scorer": "I. M. Vijayan",
+      "minute": 51,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-05-11",
+      "year": 2001,
+      "home_team": "Brunei",
+      "away_team": "India",
+      "opponent": "Brunei",
+      "scorer": "Jo Paul Ancheri",
+      "minute": 75,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-05-20",
+      "year": 2001,
+      "home_team": "India",
+      "away_team": "Brunei",
+      "opponent": "Brunei",
+      "scorer": "Jules Alberto",
+      "minute": 12,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-05-20",
+      "year": 2001,
+      "home_team": "India",
+      "away_team": "Brunei",
+      "opponent": "Brunei",
+      "scorer": "I. M. Vijayan",
+      "minute": 23,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-05-20",
+      "year": 2001,
+      "home_team": "India",
+      "away_team": "Brunei",
+      "opponent": "Brunei",
+      "scorer": "Baichung Bhutia",
+      "minute": 35,
+      "own_goal": false,
+      "penalty": true
+    },
+    {
+      "date": "2001-05-20",
+      "year": 2001,
+      "home_team": "India",
+      "away_team": "Brunei",
+      "opponent": "Brunei",
+      "scorer": "Jo Paul Ancheri",
+      "minute": 59,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2001-05-20",
+      "year": 2001,
+      "home_team": "India",
+      "away_team": "Brunei",
+      "opponent": "Brunei",
+      "scorer": "Abdul Hakim",
+      "minute": 80,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2004-02-18",
+      "year": 2004,
+      "home_team": "India",
+      "away_team": "Singapore",
+      "opponent": "Singapore",
+      "scorer": "Renedy Singh",
+      "minute": 50,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2004-03-31",
+      "year": 2004,
+      "home_team": "India",
+      "away_team": "Oman",
+      "opponent": "Oman",
+      "scorer": "Renedy Singh",
+      "minute": 18,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2007-10-08",
+      "year": 2007,
+      "home_team": "Lebanon",
+      "away_team": "India",
+      "opponent": "Lebanon",
+      "scorer": "Sunil Chhetri",
+      "minute": 30,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2007-10-30",
+      "year": 2007,
+      "home_team": "India",
+      "away_team": "Lebanon",
+      "opponent": "Lebanon",
+      "scorer": "Sunil Chhetri",
+      "minute": 29,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2007-10-30",
+      "year": 2007,
+      "home_team": "India",
+      "away_team": "Lebanon",
+      "opponent": "Lebanon",
+      "scorer": "Steven Dias",
+      "minute": 90,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2011-01-14",
+      "year": 2011,
+      "home_team": "Bahrain",
+      "away_team": "India",
+      "opponent": "Bahrain",
+      "scorer": "Gouramangi Singh",
+      "minute": 9,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2011-01-14",
+      "year": 2011,
+      "home_team": "Bahrain",
+      "away_team": "India",
+      "opponent": "Bahrain",
+      "scorer": "Sunil Chhetri",
+      "minute": 52,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2011-01-18",
+      "year": 2011,
+      "home_team": "South Korea",
+      "away_team": "India",
+      "opponent": "South Korea",
+      "scorer": "Sunil Chhetri",
+      "minute": 12,
+      "own_goal": false,
+      "penalty": true
+    },
+    {
+      "date": "2011-07-28",
+      "year": 2011,
+      "home_team": "India",
+      "away_team": "United Arab Emirates",
+      "opponent": "United Arab Emirates",
+      "scorer": "Jeje Lalpekhlua",
+      "minute": 74,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2011-07-28",
+      "year": 2011,
+      "home_team": "India",
+      "away_team": "United Arab Emirates",
+      "opponent": "United Arab Emirates",
+      "scorer": "Gouramangi Singh",
+      "minute": 90,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2015-03-12",
+      "year": 2015,
+      "home_team": "India",
+      "away_team": "Nepal",
+      "opponent": "Nepal",
+      "scorer": "Sunil Chhetri",
+      "minute": 53,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2015-03-12",
+      "year": 2015,
+      "home_team": "India",
+      "away_team": "Nepal",
+      "opponent": "Nepal",
+      "scorer": "Sunil Chhetri",
+      "minute": 70,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2015-06-11",
+      "year": 2015,
+      "home_team": "India",
+      "away_team": "Oman",
+      "opponent": "Oman",
+      "scorer": "Sunil Chhetri",
+      "minute": 26,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2015-06-16",
+      "year": 2015,
+      "home_team": "Guam",
+      "away_team": "India",
+      "opponent": "Guam",
+      "scorer": "Sunil Chhetri",
+      "minute": 90,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2015-10-08",
+      "year": 2015,
+      "home_team": "Turkmenistan",
+      "away_team": "India",
+      "opponent": "Turkmenistan",
+      "scorer": "Jeje Lalpekhlua",
+      "minute": 28,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2015-11-12",
+      "year": 2015,
+      "home_team": "India",
+      "away_team": "Guam",
+      "opponent": "Guam",
+      "scorer": "Robin Singh",
+      "minute": 10,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2016-03-29",
+      "year": 2016,
+      "home_team": "India",
+      "away_team": "Turkmenistan",
+      "opponent": "Turkmenistan",
+      "scorer": "Sandesh Jhingan",
+      "minute": 26,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2019-01-06",
+      "year": 2019,
+      "home_team": "Thailand",
+      "away_team": "India",
+      "opponent": "Thailand",
+      "scorer": "Sunil Chhetri",
+      "minute": 27,
+      "own_goal": false,
+      "penalty": true
+    },
+    {
+      "date": "2019-01-06",
+      "year": 2019,
+      "home_team": "Thailand",
+      "away_team": "India",
+      "opponent": "Thailand",
+      "scorer": "Sunil Chhetri",
+      "minute": 46,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2019-01-06",
+      "year": 2019,
+      "home_team": "Thailand",
+      "away_team": "India",
+      "opponent": "Thailand",
+      "scorer": "Anirudh Thapa",
+      "minute": 68,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2019-01-06",
+      "year": 2019,
+      "home_team": "Thailand",
+      "away_team": "India",
+      "opponent": "Thailand",
+      "scorer": "Jeje Lalpekhlua",
+      "minute": 80,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2019-09-05",
+      "year": 2019,
+      "home_team": "India",
+      "away_team": "Oman",
+      "opponent": "Oman",
+      "scorer": "Sunil Chhetri",
+      "minute": 24,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2019-10-15",
+      "year": 2019,
+      "home_team": "India",
+      "away_team": "Bangladesh",
+      "opponent": "Bangladesh",
+      "scorer": "Adil Khan",
+      "minute": 88,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2019-11-14",
+      "year": 2019,
+      "home_team": "Afghanistan",
+      "away_team": "India",
+      "opponent": "Afghanistan",
+      "scorer": "Seiminlen Doungel",
+      "minute": 90,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2021-06-07",
+      "year": 2021,
+      "home_team": "Bangladesh",
+      "away_team": "India",
+      "opponent": "Bangladesh",
+      "scorer": "Sunil Chhetri",
+      "minute": 79,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2021-06-07",
+      "year": 2021,
+      "home_team": "Bangladesh",
+      "away_team": "India",
+      "opponent": "Bangladesh",
+      "scorer": "Sunil Chhetri",
+      "minute": 90,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2021-06-15",
+      "year": 2021,
+      "home_team": "India",
+      "away_team": "Afghanistan",
+      "opponent": "Afghanistan",
+      "scorer": "Ovays Azizi",
+      "minute": 75,
+      "own_goal": true,
+      "penalty": false
+    },
+    {
+      "date": "2023-11-16",
+      "year": 2023,
+      "home_team": "Kuwait",
+      "away_team": "India",
+      "opponent": "Kuwait",
+      "scorer": "Manvir Singh",
+      "minute": 75,
+      "own_goal": false,
+      "penalty": false
+    },
+    {
+      "date": "2024-03-26",
+      "year": 2024,
+      "home_team": "India",
+      "away_team": "Afghanistan",
+      "opponent": "Afghanistan",
+      "scorer": "Sunil Chhetri",
+      "minute": 38,
+      "own_goal": false,
+      "penalty": true
+    },
+    {
+      "date": "2024-06-11",
+      "year": 2024,
+      "home_team": "Qatar",
+      "away_team": "India",
+      "opponent": "Qatar",
+      "scorer": "Lallianzuala Chhangte",
+      "minute": 37,
+      "own_goal": false,
+      "penalty": false
+    }
+  ],
+  "meta": {
+    "title": "भारतीय राष्ट्रीय फ़ुटबॉल टीम के गोल — गोलस्कोरर 1964–2024 (64) - मुफ़्त डाउनलोड",
+    "description": "भारत की राष्ट्रीय फ़ुटबॉल टीम के पक्ष में किए गए गोल, martj42/international_results की goalscorers.csv के अनुसार: तारीख़, मैच, प्रतिद्वंद्वी, गोलस्कोरर, मिनट, आत्मघाती गोल (स्कोरर प्रतिद्वंद्वी टीम का खिलाड़ी), पेनल्टी गोल। स्रोत में हर मैच के गोलस्कोरर नहीं हैं — कवरेज अधूरी है (मुख्यतः बड़े टूर्नामेंट)। नाम स्रोत के अनुसार लैटिन लिपि में। शामिल हैं 64 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "भारतीय राष्ट्रीय फ़ुटबॉल टीम के गोल — गोलस्कोरर 1964–2024 (64) | ListBase",
+    "seo_description": "डाउनलोड भारतीय राष्ट्रीय फ़ुटबॉल टीम के गोल — गोलस्कोरर 1964–2024 (64) — 64 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 64 रिकॉर्ड / 9 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "hi-mapan-ikaiyan-light",
+  "name": "मापन इकाइयाँ — श्रेणी 'light' (4)",
+  "title": "मापन इकाइयाँ — श्रेणी 'light' (4)",
+  "description": "CLDR hi लोकेल की 'light' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित।",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "shreni",
+      "label": "Shreni",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sanket",
+      "label": "Sanket",
+      "type": "string"
+    },
+    {
+      "key": "sankeern",
+      "label": "Sankeern",
+      "type": "string"
+    },
+    {
+      "key": "paitarn",
+      "label": "Paitarn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "light-candela",
+      "shreni": "light",
+      "naam": "कैन्डेला",
+      "sanket": "cd",
+      "sankeern": "cd",
+      "paitarn": "{0} कैन्डेला"
+    },
+    {
+      "id": 2,
+      "unit_code": "light-lumen",
+      "shreni": "light",
+      "naam": "लुमेन",
+      "sanket": "lm",
+      "sankeern": "lm",
+      "paitarn": "{0} लुमेन"
+    },
+    {
+      "id": 3,
+      "unit_code": "light-lux",
+      "shreni": "light",
+      "naam": "लक्स",
+      "sanket": "लक्स",
+      "sankeern": "लक्स",
+      "paitarn": "{0} लक्स"
+    },
+    {
+      "id": 4,
+      "unit_code": "light-solar-luminosity",
+      "shreni": "light",
+      "naam": "सौर ज्योति",
+      "sanket": "L☉",
+      "sankeern": "L☉",
+      "paitarn": "{0} सौर ज्योति"
+    }
+  ],
+  "meta": {
+    "title": "मापन इकाइयाँ — श्रेणी 'light' (4) - मुफ़्त डाउनलोड",
+    "description": "CLDR hi लोकेल की 'light' श्रेणी की मापन इकाइयाँ, हिन्दी नामों सहित। शामिल हैं 4 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मापन इकाइयाँ — श्रेणी 'light' (4) | ListBase",
+    "seo_description": "डाउनलोड मापन इकाइयाँ — श्रेणी 'light' (4) — 4 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 4 रिकॉर्ड / 7 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

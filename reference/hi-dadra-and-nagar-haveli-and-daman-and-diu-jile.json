@@ -1,0 +1,112 @@
+{
+  "id": "hi-dadra-and-nagar-haveli-and-daman-and-diu-jile",
+  "name": "Dadra and Nagar Haveli and Daman and Diu के जिले (Dadra and Nagar Haveli and Daman and Diu Districts)",
+  "title": "Dadra and Nagar Haveli and Daman and Diu के जिले (Dadra and Nagar Haveli and Daman and Diu Districts)",
+  "description": "3 districts in Dadra and Nagar Haveli and Daman and Diu (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Dadra and Nagar Haveli and Daman and Diu\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "state_code": "DD",
+      "state_slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+      "district_code": "DN",
+      "district": "Dadra and Nagar Haveli",
+      "district_slug": "dadra-and-nagar-haveli",
+      "headquarters": "Silvassa",
+      "population": 343709,
+      "area_km2": 491,
+      "density_per_km2": 700
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "state_code": "DD",
+      "state_slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+      "district_code": "DA",
+      "district": "Daman",
+      "district_slug": "daman",
+      "headquarters": "Daman",
+      "population": 191173,
+      "area_km2": 72,
+      "density_per_km2": 2651
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "state_code": "DD",
+      "state_slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+      "district_code": "DI",
+      "district": "Diu",
+      "district_slug": "diu",
+      "headquarters": "Diu",
+      "population": 52074,
+      "area_km2": 39,
+      "density_per_km2": 2058
+    }
+  ],
+  "meta": {
+    "title": "Dadra and Nagar Haveli and Daman and Diu के जिले (Dadra and Nagar Haveli and Daman and Diu Districts) - मुफ़्त डाउनलोड",
+    "description": "3 districts in Dadra and Nagar Haveli and Daman and Diu (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Dadra and Nagar Haveli and Daman and Diu\". शामिल हैं 3 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Dadra and Nagar Haveli and Daman and Diu के जिले (Dadra and Nagar Haveli and Daman and Diu Districts) | ListBase",
+    "seo_description": "डाउनलोड Dadra and Nagar Haveli and Daman and Diu के जिले (Dadra and Nagar Haveli and Daman and Diu Districts) — 3 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 3 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "id": "hi-mangalore-bank",
+  "name": "Mangalore में बैंक — SWIFT/BIC कोड",
+  "title": "Mangalore में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Mangalore, India. Subset of hi-bank. Source city string preserved verbatim as \"MANGALORE\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 436,
+      "bank": "AXIS BANK LIMITED",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE BRANCH)",
+      "swift_code": "AXISINBB077"
+    },
+    {
+      "id": 691,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE BRANCH)",
+      "swift_code": "UTIBINB1077"
+    },
+    {
+      "id": 816,
+      "bank": "BANK OF BARODA",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE(MAIN))",
+      "swift_code": "BARBINBBMGL"
+    },
+    {
+      "id": 1004,
+      "bank": "BANK OF INDIA",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE)",
+      "swift_code": "BKIDINBBMGL"
+    },
+    {
+      "id": 1296,
+      "bank": "CANARA BANK",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBRFM"
+    },
+    {
+      "id": 1550,
+      "bank": "CORPORATION BANK",
+      "city": "MANGALORE",
+      "branch": "(KANKANADY BRANCH)",
+      "swift_code": "CORPINBB078"
+    },
+    {
+      "id": 1551,
+      "bank": "CORPORATION BANK",
+      "city": "MANGALORE",
+      "branch": "(M.G. ROAD BRANCH)",
+      "swift_code": "CORPINBB180"
+    },
+    {
+      "id": 1552,
+      "bank": "CORPORATION BANK",
+      "city": "MANGALORE",
+      "branch": "(PADAVU BRANCH)",
+      "swift_code": "CORPINBB076"
+    },
+    {
+      "id": 1553,
+      "bank": "CORPORATION BANK",
+      "city": "MANGALORE",
+      "branch": "(PANDESHWAR BRANCH)",
+      "swift_code": "CORPINBB133"
+    },
+    {
+      "id": 1554,
+      "bank": "CORPORATION BANK",
+      "city": "MANGALORE",
+      "branch": "(POONJA ARCADE BRANCH)",
+      "swift_code": "CORPINBB129"
+    },
+    {
+      "id": 1785,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE BRANCH)",
+      "swift_code": "FDRLINBBMGR"
+    },
+    {
+      "id": 1944,
+      "bank": "IDBI BANK LIMITED",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE BRANCH)",
+      "swift_code": "IBKLINBBB17"
+    },
+    {
+      "id": 2162,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE MAIN, KARNATAKA)",
+      "swift_code": "IOBAINBB054"
+    },
+    {
+      "id": 2358,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "MANGALORE",
+      "branch": "(KODIALBAIL BRANCH)",
+      "swift_code": "KARBINBBMNG"
+    },
+    {
+      "id": 2505,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "MANGALORE",
+      "branch": "(1079 MANGALORE)",
+      "swift_code": "ORBCINBBMGL"
+    },
+    {
+      "id": 3352,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE BRANCH)",
+      "swift_code": "SBININBB146"
+    },
+    {
+      "id": 3353,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MANGALORE",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBM15"
+    },
+    {
+      "id": 3354,
+      "bank": "STATE BANK OF INDIA",
+      "city": "MANGALORE",
+      "branch": "(SME MANGALORE BRANCH)",
+      "swift_code": "SBININBB265"
+    },
+    {
+      "id": 3786,
+      "bank": "SYNDICATE BANK",
+      "city": "MANGALORE",
+      "branch": "(FXPC BRANCH)",
+      "swift_code": "SYNBINBB121"
+    },
+    {
+      "id": 3787,
+      "bank": "SYNDICATE BANK",
+      "city": "MANGALORE",
+      "branch": "(HAMPAN KATTA BRANCH)",
+      "swift_code": "SYNBINBB008"
+    },
+    {
+      "id": 3788,
+      "bank": "SYNDICATE BANK",
+      "city": "MANGALORE",
+      "branch": "(KADRI BRANCH)",
+      "swift_code": "SYNBINBB184"
+    },
+    {
+      "id": 3925,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "MANGALORE",
+      "branch": "",
+      "swift_code": "SOININ55046"
+    },
+    {
+      "id": 3999,
+      "bank": "UCO BANK",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE)",
+      "swift_code": "UCBAINBBMAN"
+    },
+    {
+      "id": 4080,
+      "bank": "UNION BANK OF INDIA",
+      "city": "MANGALORE",
+      "branch": "(MANGALORE CITY BRANCH)",
+      "swift_code": "UBININBBMNG"
+    },
+    {
+      "id": 4225,
+      "bank": "VIJAYA BANK",
+      "city": "MANGALORE",
+      "branch": "(FOUNDERS BRANCH)",
+      "swift_code": "VIJBINBBMLR"
+    }
+  ],
+  "meta": {
+    "title": "Mangalore में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Mangalore, India. Subset of hi-bank. Source city string preserved verbatim as \"MANGALORE\". शामिल हैं 25 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Mangalore में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Mangalore में बैंक — SWIFT/BIC कोड — 25 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 25 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

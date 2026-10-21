@@ -1,0 +1,216 @@
+{
+  "id": "hi-pratham-naam",
+  "name": "लोकप्रिय भारतीय प्रथम नाम (Popular Indian First Names)",
+  "title": "लोकप्रिय भारतीय प्रथम नाम (Popular Indian First Names)",
+  "description": "भारत में लोकप्रिय लड़कियों और लड़कों के प्रथम नाम; 2021–2022 BabyCenter India श्रेणी के अनुसार रैंकिंग; लड़कियाँ (10) + लड़के (10) श्रेणियों में बांटे गए, रोमन लिप्यंतरण के साथ।",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "N-IN-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Aditi",
+      "romanized": "Aditi",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Inaya",
+      "romanized": "Inaya",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Aarya",
+      "romanized": "Aarya",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Kiara",
+      "romanized": "Kiara",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Aadhya",
+      "romanized": "Aadhya",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Vamika",
+      "romanized": "Vamika",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Pari",
+      "romanized": "Pari",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Jiya",
+      "romanized": "Jiya",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Mehar",
+      "romanized": "Mehar",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Amayra",
+      "romanized": "Amayra",
+      "year": 2021
+    },
+    {
+      "name_group": "N-IN-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Muhammad",
+      "romanized": "Muhammad",
+      "year": 2022
+    },
+    {
+      "name_group": "N-IN-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Shivansh",
+      "romanized": "Shivansh",
+      "year": 2022
+    },
+    {
+      "name_group": "N-IN-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Dhruv",
+      "romanized": "Dhruv",
+      "year": 2022
+    },
+    {
+      "name_group": "N-IN-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Kabir",
+      "romanized": "Kabir",
+      "year": 2022
+    },
+    {
+      "name_group": "N-IN-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Vedant",
+      "romanized": "Vedant",
+      "year": 2022
+    },
+    {
+      "name_group": "N-IN-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Kiaan",
+      "romanized": "Kiaan",
+      "year": 2022
+    },
+    {
+      "name_group": "N-IN-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Aarav",
+      "romanized": "Aarav",
+      "year": 2022
+    },
+    {
+      "name_group": "N-IN-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Arjun",
+      "romanized": "Arjun",
+      "year": 2022
+    },
+    {
+      "name_group": "N-IN-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Viraj",
+      "romanized": "Viraj",
+      "year": 2022
+    },
+    {
+      "name_group": "N-IN-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Krishna",
+      "romanized": "Krishna",
+      "year": 2022
+    }
+  ],
+  "meta": {
+    "title": "लोकप्रिय भारतीय प्रथम नाम (Popular Indian First Names) - मुफ़्त डाउनलोड",
+    "description": "भारत में लोकप्रिय लड़कियों और लड़कों के प्रथम नाम; 2021–2022 BabyCenter India श्रेणी के अनुसार रैंकिंग; लड़कियाँ (10) + लड़के (10) श्रेणियों में बांटे गए, रोमन लिप्यंतरण के साथ। शामिल हैं 20 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "लोकप्रिय भारतीय प्रथम नाम (Popular Indian First Names) | ListBase",
+    "seo_description": "डाउनलोड लोकप्रिय भारतीय प्रथम नाम (Popular Indian First Names) — 20 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 20 रिकॉर्ड / 6 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

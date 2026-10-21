@@ -1,0 +1,198 @@
+{
+  "id": "hi-delhi-metro-red-line-stations",
+  "name": "दिल्ली मेट्रो Red Line स्टेशन (Delhi Metro Red Line, 2013)",
+  "title": "दिल्ली मेट्रो Red Line स्टेशन (Delhi Metro Red Line, 2013)",
+  "description": "21 Delhi Metro stations on the Red Line as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "station_name",
+      "label": "Station Name",
+      "type": "string"
+    },
+    {
+      "key": "lines",
+      "label": "Lines",
+      "type": "string"
+    },
+    {
+      "key": "layout",
+      "label": "Layout",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "station_name": "Dilshad Garden",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.67592,
+      "longitude": 77.32142
+    },
+    {
+      "station_name": "Inderlok",
+      "lines": "Red Line, Green Line",
+      "layout": "Elevated",
+      "latitude": 28.67319,
+      "longitude": 77.16994
+    },
+    {
+      "station_name": "Jhilmil",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.67579,
+      "longitude": 77.31239
+    },
+    {
+      "station_name": "Kanhiya Nagar",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.68254,
+      "longitude": 77.16459
+    },
+    {
+      "station_name": "Kashmere Gate",
+      "lines": "Red Line, Yellow Line",
+      "layout": "Elevated(RL), Underground(YL)",
+      "latitude": 28.6675,
+      "longitude": 77.22817
+    },
+    {
+      "station_name": "Keshav Puram",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.68894,
+      "longitude": 77.1616
+    },
+    {
+      "station_name": "Kohat Enclave",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.6981,
+      "longitude": 77.14024
+    },
+    {
+      "station_name": "Mansarovar Park",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.67544,
+      "longitude": 77.30095
+    },
+    {
+      "station_name": "Netaji Subhash Place",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.69591,
+      "longitude": 77.15226
+    },
+    {
+      "station_name": "Pitam Pura",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.70317,
+      "longitude": 77.13223
+    },
+    {
+      "station_name": "Pratap Nagar",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.66662,
+      "longitude": 77.19882
+    },
+    {
+      "station_name": "Pul Bangash",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.66636,
+      "longitude": 77.20727
+    },
+    {
+      "station_name": "Rithala",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.72072,
+      "longitude": 77.10713
+    },
+    {
+      "station_name": "Rohini East",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.7076,
+      "longitude": 77.12591
+    },
+    {
+      "station_name": "Rohini West",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.71483,
+      "longitude": 77.11467
+    },
+    {
+      "station_name": "Seelampur",
+      "lines": "Red Line",
+      "layout": "At Grade",
+      "latitude": 28.66989,
+      "longitude": 77.26678
+    },
+    {
+      "station_name": "Shahdara",
+      "lines": "Red Line",
+      "layout": "At Grade",
+      "latitude": 28.67345,
+      "longitude": 77.28962
+    },
+    {
+      "station_name": "Shastri Nagar",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.66999,
+      "longitude": 77.18169
+    },
+    {
+      "station_name": "Shastri Park",
+      "lines": "Red Line",
+      "layout": "At Grade",
+      "latitude": 28.668,
+      "longitude": 77.24994
+    },
+    {
+      "station_name": "Tis Hazari",
+      "lines": "Red Line",
+      "layout": "Elevated",
+      "latitude": 28.66711,
+      "longitude": 77.21653
+    },
+    {
+      "station_name": "Welcome",
+      "lines": "Red Line",
+      "layout": "At Grade",
+      "latitude": 28.6718,
+      "longitude": 77.27756
+    }
+  ],
+  "meta": {
+    "title": "दिल्ली मेट्रो Red Line स्टेशन (Delhi Metro Red Line, 2013) - मुफ़्त डाउनलोड",
+    "description": "21 Delhi Metro stations on the Red Line as of the 2013 snapshot; subset of hi-delhi-metro-stations (line label verbatim from source). शामिल हैं 21 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "दिल्ली मेट्रो Red Line स्टेशन (Delhi Metro Red Line, 2013) | ListBase",
+    "seo_description": "डाउनलोड दिल्ली मेट्रो Red Line स्टेशन (Delhi Metro Red Line, 2013) — 21 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 21 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

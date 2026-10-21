@@ -1,0 +1,373 @@
+{
+  "id": "hi-chandigarh-bank",
+  "name": "Chandigarh में बैंक — SWIFT/BIC कोड",
+  "title": "Chandigarh में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Chandigarh, India. Subset of hi-bank. Source city string preserved verbatim as \"CHANDIGARH\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 18,
+      "bank": "ALLAHABAD BANK",
+      "city": "CHANDIGARH",
+      "branch": "",
+      "swift_code": "ALLAINBBCHD"
+    },
+    {
+      "id": 79,
+      "bank": "ANDHRA BANK",
+      "city": "CHANDIGARH",
+      "branch": "",
+      "swift_code": "ANDBINBBCGH"
+    },
+    {
+      "id": 219,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH BRANCH)",
+      "swift_code": "AXISINBB041"
+    },
+    {
+      "id": 220,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH II)",
+      "swift_code": "AXISINBB302"
+    },
+    {
+      "id": 221,
+      "bank": "AXIS BANK LIMITED",
+      "city": "CHANDIGARH",
+      "branch": "(SECTOR 17-B, CHANDIGARH)",
+      "swift_code": "AXISINBB520"
+    },
+    {
+      "id": 662,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH BRANCH)",
+      "swift_code": "UTIBINB1041"
+    },
+    {
+      "id": 764,
+      "bank": "BANK OF BARODA",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH BRANCH)",
+      "swift_code": "BARBINBBCHD"
+    },
+    {
+      "id": 932,
+      "bank": "BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH BRANCH)",
+      "swift_code": "BKIDINBBCHD"
+    },
+    {
+      "id": 933,
+      "bank": "BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH MID CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBCDC"
+    },
+    {
+      "id": 1228,
+      "bank": "CANARA BANK",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBFFC"
+    },
+    {
+      "id": 1229,
+      "bank": "CANARA BANK",
+      "city": "CHANDIGARH",
+      "branch": "(HANDIGARH SECTOR 17C MAIN BRANCH)",
+      "swift_code": "CNRBINBB17C"
+    },
+    {
+      "id": 1230,
+      "bank": "CANARA BANK",
+      "city": "CHANDIGARH",
+      "branch": "(HANDIGARH SECTOR 35B BRANCH)",
+      "swift_code": "CNRBINBB35B"
+    },
+    {
+      "id": 1231,
+      "bank": "CANARA BANK",
+      "city": "CHANDIGARH",
+      "branch": "(MID CORPORATE BRANCH CHANDIGARH)",
+      "swift_code": "CNRBINBBMCC"
+    },
+    {
+      "id": 1406,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(SECTOR 17-B)",
+      "swift_code": "CBININBBSEC"
+    },
+    {
+      "id": 1501,
+      "bank": "CORPORATION BANK",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH)",
+      "swift_code": "CORPINBB319"
+    },
+    {
+      "id": 1647,
+      "bank": "DENA BANK",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH)",
+      "swift_code": "BKDNINBBCHD"
+    },
+    {
+      "id": 1746,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH)",
+      "swift_code": "FDRLINBBCGH"
+    },
+    {
+      "id": 1836,
+      "bank": "HDFC BANK LIMITED",
+      "city": "CHANDIGARH",
+      "branch": "(SERVICE BR. CHANDIGARH)",
+      "swift_code": "HDFCINBBCGH"
+    },
+    {
+      "id": 1868,
+      "bank": "ICICI BANK LIMITED",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH BRANCH)",
+      "swift_code": "ICICINBB013"
+    },
+    {
+      "id": 1911,
+      "bank": "IDBI BANK LIMITED",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH BRANCH)",
+      "swift_code": "IBKLINBB003"
+    },
+    {
+      "id": 2008,
+      "bank": "INDIAN BANK",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH BRANCH)",
+      "swift_code": "IDIBINBBCMN"
+    },
+    {
+      "id": 2106,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH)",
+      "swift_code": "IOBAINBB284"
+    },
+    {
+      "id": 2227,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH, SECTOR 8)",
+      "swift_code": "INDBINBBCHS"
+    },
+    {
+      "id": 2472,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "CHANDIGARH",
+      "branch": "(BRANCH OFFICE : CHANDIGAHR)",
+      "swift_code": "ORBCINBBCHD"
+    },
+    {
+      "id": 2571,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "CHANDIGARH",
+      "branch": "(INDUSTRIAL FINANCE CHANDIGARH BRANCH)",
+      "swift_code": "PSIBINBB019"
+    },
+    {
+      "id": 2624,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHANDIGARH",
+      "branch": "(INTERNATIONAL BANKING BRANCH)",
+      "swift_code": "PUNBINBBCHA"
+    },
+    {
+      "id": 2625,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHANDIGARH",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "PUNBINBBCMC"
+    },
+    {
+      "id": 2626,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHANDIGARH",
+      "branch": "(SECTOR-16)",
+      "swift_code": "PUNBINBBC16"
+    },
+    {
+      "id": 2627,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "CHANDIGARH",
+      "branch": "",
+      "swift_code": "PUNBINBBC17"
+    },
+    {
+      "id": 3001,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP35"
+    },
+    {
+      "id": 3002,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBP47"
+    },
+    {
+      "id": 3003,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(INDUSTRIAL ESTATE, CHANDIGARH)",
+      "swift_code": "SBININBB579"
+    },
+    {
+      "id": 3004,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SBININBB188"
+    },
+    {
+      "id": 3005,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(LUCKNOW CIRCLE)",
+      "swift_code": "SBININBBH63"
+    },
+    {
+      "id": 3006,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(MEDICAL INSTITUTE,CHANDIGARH)",
+      "swift_code": "SBININBB443"
+    },
+    {
+      "id": 3007,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBP31"
+    },
+    {
+      "id": 3008,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBP29"
+    },
+    {
+      "id": 3009,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(NRI BRANCH CHANDIGARH)",
+      "swift_code": "SBININBB283"
+    },
+    {
+      "id": 3010,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(SECTOR 30, CHANDIGARH)",
+      "swift_code": "SBININBB578"
+    },
+    {
+      "id": 3011,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(SME BRANCH, CHANDIGARH)",
+      "swift_code": "SBININBB141"
+    },
+    {
+      "id": 3012,
+      "bank": "STATE BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(TRADE FINANCE CENTRAL PROCESSING CELL, CHANDIGARH)",
+      "swift_code": "SBININBB599"
+    },
+    {
+      "id": 3745,
+      "bank": "SYNDICATE BANK",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH)",
+      "swift_code": "SYNBINBB061"
+    },
+    {
+      "id": 3965,
+      "bank": "UCO BANK",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH 17-B BRANCH)",
+      "swift_code": "UCBAINBB212"
+    },
+    {
+      "id": 4047,
+      "bank": "UNION BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH MAIN)",
+      "swift_code": "UBININBBCHA"
+    },
+    {
+      "id": 4139,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH BRANCH)",
+      "swift_code": "UTBIINBBCDH"
+    },
+    {
+      "id": 4206,
+      "bank": "VIJAYA BANK",
+      "city": "CHANDIGARH",
+      "branch": "(CHANDIGARH MAIN)",
+      "swift_code": "VIJBINBBCDG"
+    }
+  ],
+  "meta": {
+    "title": "Chandigarh में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Chandigarh, India. Subset of hi-bank. Source city string preserved verbatim as \"CHANDIGARH\". शामिल हैं 46 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Chandigarh में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Chandigarh में बैंक — SWIFT/BIC कोड — 46 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 46 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

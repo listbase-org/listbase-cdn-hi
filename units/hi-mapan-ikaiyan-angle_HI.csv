@@ -1,0 +1,7 @@
+﻿"Id","Unit Code","Shreni","Naam","Sanket","Sankeern","Paitarn"
+"1","angle-arc-minute","angle","आर्क मिनट","आर्क मिनट","आर्क मिनट","{0} आर्क मिनट"
+"2","angle-arc-second","angle","आर्क सेकंड","आर्क सेकंड","आर्क सेकंड","{0} आर्क सेकंड"
+"3","angle-degree","angle","अंश","अंश","अंश","{0} अंश"
+"4","angle-radian","angle","रेडियन","रेडियन","rad","{0} रेडियन"
+"5","angle-revolution","angle","घूर्णन","घूर्णन","r","{0} घूर्णन"
+"6","angle-steradian","angle","स्टेरेडियन","sr","sr","{0} स्टेरेडियन"

@@ -1,0 +1,121 @@
+{
+  "id": "hi-bhavnagar-bank",
+  "name": "Bhavnagar में बैंक — SWIFT/BIC कोड",
+  "title": "Bhavnagar में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Bhavnagar, India. Subset of hi-bank. Source city string preserved verbatim as \"BHAVNAGAR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 198,
+      "bank": "AXIS BANK LIMITED",
+      "city": "BHAVNAGAR",
+      "branch": "(BHAVNAGAR)",
+      "swift_code": "AXISINBB200"
+    },
+    {
+      "id": 759,
+      "bank": "BANK OF BARODA",
+      "city": "BHAVNAGAR",
+      "branch": "(BUNDER ROAD BRANCH)",
+      "swift_code": "BARBINBBBVG"
+    },
+    {
+      "id": 925,
+      "bank": "BANK OF INDIA",
+      "city": "BHAVNAGAR",
+      "branch": "(BHAVNAGAR(MAIN))",
+      "swift_code": "BKIDINBBBVN"
+    },
+    {
+      "id": 1500,
+      "bank": "CORPORATION BANK",
+      "city": "BHAVNAGAR",
+      "branch": "(BHAVNAGAR)",
+      "swift_code": "CORPINBB324"
+    },
+    {
+      "id": 1908,
+      "bank": "IDBI BANK LIMITED",
+      "city": "BHAVNAGAR",
+      "branch": "(BHAVNAGAR)",
+      "swift_code": "IBKLINBB071"
+    },
+    {
+      "id": 2102,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "BHAVNAGAR",
+      "branch": "(BHAVNAGAR BRANCH)",
+      "swift_code": "IOBAINBB169"
+    },
+    {
+      "id": 2618,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "BHAVNAGAR",
+      "branch": "",
+      "swift_code": "PUNBINBBBNR"
+    },
+    {
+      "id": 2971,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHAVNAGAR",
+      "branch": "(BHAVNAGAR(DARBARGADH))",
+      "swift_code": "SBININBB619"
+    },
+    {
+      "id": 2972,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHAVNAGAR",
+      "branch": "(BHAVNAGAR(S.I.F.B))",
+      "swift_code": "SBININBB620"
+    },
+    {
+      "id": 2973,
+      "bank": "STATE BANK OF INDIA",
+      "city": "BHAVNAGAR",
+      "branch": "",
+      "swift_code": "SBININBB208"
+    }
+  ],
+  "meta": {
+    "title": "Bhavnagar में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Bhavnagar, India. Subset of hi-bank. Source city string preserved verbatim as \"BHAVNAGAR\". शामिल हैं 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Bhavnagar में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Bhavnagar में बैंक — SWIFT/BIC कोड — 10 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 10 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

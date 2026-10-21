@@ -1,0 +1,5506 @@
+{
+  "id": "hi-assam-shahar",
+  "name": "असम के शहर (Assam Cities)",
+  "title": "असम के शहर (Assam Cities)",
+  "description": "असम राज्य के 544 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 544 cities and towns in Assam, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 544,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abhaipur",
+      "name_lower": "abhaipur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.033333,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Abhayapuri",
+      "name_lower": "abhayapuri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 15803,
+      "latitude": 26.333333,
+      "longitude": 90.666667
+    },
+    {
+      "name": "Abomgaon",
+      "name_lower": "abomgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Agamani",
+      "name_lower": "agamani",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.2,
+      "longitude": 89.783333
+    },
+    {
+      "name": "Agia",
+      "name_lower": "agia",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.083333,
+      "longitude": 90.55
+    },
+    {
+      "name": "Agrong",
+      "name_lower": "agrong",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 90.733333
+    },
+    {
+      "name": "Ahataguri",
+      "name_lower": "ahataguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 93.866667
+    },
+    {
+      "name": "Ahomgaon",
+      "name_lower": "ahomgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Amguri",
+      "name_lower": "amguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 8496,
+      "latitude": 26.8,
+      "longitude": 94.533333
+    },
+    {
+      "name": "Amguri Bazar",
+      "name_lower": "amguri bazar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.666667,
+      "longitude": 90.6
+    },
+    {
+      "name": "Amingaon",
+      "name_lower": "amingaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.184722,
+      "longitude": 91.669167
+    },
+    {
+      "name": "Amlakhi",
+      "name_lower": "amlakhi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 93.5
+    },
+    {
+      "name": "Amring",
+      "name_lower": "amring",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 92.833333
+    },
+    {
+      "name": "Amtika",
+      "name_lower": "amtika",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 90.533333
+    },
+    {
+      "name": "Anjakpani",
+      "name_lower": "anjakpani",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 93.1
+    },
+    {
+      "name": "Arunachal",
+      "name_lower": "arunachal",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 92.766667
+    },
+    {
+      "name": "Atharikhat",
+      "name_lower": "atharikhat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.75,
+      "longitude": 91.75
+    },
+    {
+      "name": "Athkhel",
+      "name_lower": "athkhel",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 94.7
+    },
+    {
+      "name": "Aujari",
+      "name_lower": "aujari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.233333,
+      "longitude": 92.283333
+    },
+    {
+      "name": "Auniati",
+      "name_lower": "auniati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.9,
+      "longitude": 94.083333
+    },
+    {
+      "name": "Auniati Sattra",
+      "name_lower": "auniati sattra",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.9,
+      "longitude": 94.083333
+    },
+    {
+      "name": "Bachagaon",
+      "name_lower": "bachagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.133333,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Badati",
+      "name_lower": "badati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.933333,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Badulahati",
+      "name_lower": "badulahati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.95,
+      "longitude": 93.85
+    },
+    {
+      "name": "Baga",
+      "name_lower": "baga",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.416667,
+      "longitude": 92.85
+    },
+    {
+      "name": "Bagbor",
+      "name_lower": "bagbor",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 90.85
+    },
+    {
+      "name": "Bagribari",
+      "name_lower": "bagribari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.183333,
+      "longitude": 90.166667
+    },
+    {
+      "name": "Baguliaghat",
+      "name_lower": "baguliaghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.083333,
+      "longitude": 93.2
+    },
+    {
+      "name": "Baida",
+      "name_lower": "baida",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 90.416667
+    },
+    {
+      "name": "Baihata",
+      "name_lower": "baihata",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.35,
+      "longitude": 91.666667
+    },
+    {
+      "name": "Baitha Langso",
+      "name_lower": "baitha langso",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 92.6
+    },
+    {
+      "name": "Baladban",
+      "name_lower": "baladban",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.066667,
+      "longitude": 93.216667
+    },
+    {
+      "name": "Baladhan",
+      "name_lower": "baladhan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.066667,
+      "longitude": 93.216667
+    },
+    {
+      "name": "Balagaon",
+      "name_lower": "balagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 91.333333
+    },
+    {
+      "name": "Balijan",
+      "name_lower": "balijan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.45,
+      "longitude": 94.266667
+    },
+    {
+      "name": "Balijangaon",
+      "name_lower": "balijangaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.45,
+      "longitude": 94.266667
+    },
+    {
+      "name": "Balipara",
+      "name_lower": "balipara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Bamungaon",
+      "name_lower": "bamungaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.916667,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Bangali",
+      "name_lower": "bangali",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 94.583333
+    },
+    {
+      "name": "Bangali Garigaon",
+      "name_lower": "bangali garigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 94.583333
+    },
+    {
+      "name": "Banguk",
+      "name_lower": "banguk",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 28.05,
+      "longitude": 95.533333
+    },
+    {
+      "name": "Banmurigaon",
+      "name_lower": "banmurigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.35,
+      "longitude": 92.233333
+    },
+    {
+      "name": "Bansbera",
+      "name_lower": "bansbera",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.766667,
+      "longitude": 92.6
+    },
+    {
+      "name": "Banskandi",
+      "name_lower": "banskandi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.8,
+      "longitude": 92.9
+    },
+    {
+      "name": "Bar Dambuk",
+      "name_lower": "bar dambuk",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.066667,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Bar Dhoa",
+      "name_lower": "bar dhoa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 92.55
+    },
+    {
+      "name": "Bar Dobia",
+      "name_lower": "bar dobia",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 92.55
+    },
+    {
+      "name": "Bara Digar",
+      "name_lower": "bara digar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.35,
+      "longitude": 93.3
+    },
+    {
+      "name": "Barakhola",
+      "name_lower": "barakhola",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Barama",
+      "name_lower": "barama",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.533333,
+      "longitude": 91.333333
+    },
+    {
+      "name": "Barar Digar",
+      "name_lower": "barar digar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.35,
+      "longitude": 93.3
+    },
+    {
+      "name": "Barbaru",
+      "name_lower": "barbaru",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.4,
+      "longitude": 94.866667
+    },
+    {
+      "name": "Barchola",
+      "name_lower": "barchola",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 92.383333
+    },
+    {
+      "name": "Bardalani",
+      "name_lower": "bardalani",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.416667,
+      "longitude": 94.433333
+    },
+    {
+      "name": "Barduar",
+      "name_lower": "barduar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.916667,
+      "longitude": 91.483333
+    },
+    {
+      "name": "Bardubi",
+      "name_lower": "bardubi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.4,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Bardubi Road",
+      "name_lower": "bardubi road",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.4,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Barhalla",
+      "name_lower": "barhalla",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 94.15
+    },
+    {
+      "name": "Barpathar",
+      "name_lower": "barpathar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 7445,
+      "latitude": 26.3,
+      "longitude": 93.866667
+    },
+    {
+      "name": "Barpeta",
+      "name_lower": "barpeta",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 48826,
+      "latitude": 26.316667,
+      "longitude": 91
+    },
+    {
+      "name": "Baruagaon",
+      "name_lower": "baruagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 94.083333
+    },
+    {
+      "name": "Basbari",
+      "name_lower": "basbari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.2,
+      "longitude": 89.9
+    },
+    {
+      "name": "Basugaon",
+      "name_lower": "basugaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 12833,
+      "latitude": 26.466667,
+      "longitude": 90.4
+    },
+    {
+      "name": "Batabari",
+      "name_lower": "batabari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 92.233333
+    },
+    {
+      "name": "Batelegaon",
+      "name_lower": "batelegaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.666667,
+      "longitude": 94.7
+    },
+    {
+      "name": "Baut Bazar",
+      "name_lower": "baut bazar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.733333,
+      "longitude": 92.7
+    },
+    {
+      "name": "Behali",
+      "name_lower": "behali",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 93.333333
+    },
+    {
+      "name": "Bengtol",
+      "name_lower": "bengtol",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 90.483333
+    },
+    {
+      "name": "Berung",
+      "name_lower": "berung",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.933333,
+      "longitude": 95.383333
+    },
+    {
+      "name": "Bhalukmara",
+      "name_lower": "bhalukmara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.683333,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Bhandari",
+      "name_lower": "bhandari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 94.15
+    },
+    {
+      "name": "Bhanga",
+      "name_lower": "bhanga",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.85,
+      "longitude": 92.483333
+    },
+    {
+      "name": "Bhauraguri",
+      "name_lower": "bhauraguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 90.166667
+    },
+    {
+      "name": "Bhutiagaon",
+      "name_lower": "bhutiagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.766667,
+      "longitude": 94.183333
+    },
+    {
+      "name": "Bihpuriagaon",
+      "name_lower": "bihpuriagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.033333,
+      "longitude": 93.9
+    },
+    {
+      "name": "Bihuguri",
+      "name_lower": "bihuguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.666667,
+      "longitude": 92.7
+    },
+    {
+      "name": "Bilasipara",
+      "name_lower": "bilasipara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 37741,
+      "latitude": 26.233333,
+      "longitude": 90.233333
+    },
+    {
+      "name": "Bilkhawtlir",
+      "name_lower": "bilkhawtlir",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.3,
+      "longitude": 92.7
+    },
+    {
+      "name": "Bindukuri",
+      "name_lower": "bindukuri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Binnakandi",
+      "name_lower": "binnakandi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 92.966667
+    },
+    {
+      "name": "Bishnath",
+      "name_lower": "bishnath",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.666667,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Bokajan",
+      "name_lower": "bokajan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 16561,
+      "latitude": 26.016667,
+      "longitude": 93.783333
+    },
+    {
+      "name": "Bokajan O. Noajan",
+      "name_lower": "bokajan o. noajan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.016667,
+      "longitude": 93.783333
+    },
+    {
+      "name": "Bokakhat",
+      "name_lower": "bokakhat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 93.6
+    },
+    {
+      "name": "Boko",
+      "name_lower": "boko",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 91.266667
+    },
+    {
+      "name": "Bolung",
+      "name_lower": "bolung",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 28.066667,
+      "longitude": 95.683333
+    },
+    {
+      "name": "Bongaigaon",
+      "name_lower": "bongaigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 64905,
+      "latitude": 26.466667,
+      "longitude": 90.566667
+    },
+    {
+      "name": "Bordoloni",
+      "name_lower": "bordoloni",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.416667,
+      "longitude": 94.433333
+    },
+    {
+      "name": "Borduttighat",
+      "name_lower": "borduttighat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.95,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Burakek",
+      "name_lower": "burakek",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Buri Khamar",
+      "name_lower": "buri khamar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.55,
+      "longitude": 90.9
+    },
+    {
+      "name": "Chabua",
+      "name_lower": "chabua",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 7623,
+      "latitude": 27.4825,
+      "longitude": 95.173611
+    },
+    {
+      "name": "Changchang",
+      "name_lower": "changchang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 94.416667
+    },
+    {
+      "name": "Changsari",
+      "name_lower": "changsari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 91.7
+    },
+    {
+      "name": "Chapanalla",
+      "name_lower": "chapanalla",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.333333,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Chaparmukh",
+      "name_lower": "chaparmukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.2,
+      "longitude": 92.533333
+    },
+    {
+      "name": "Chapenalla",
+      "name_lower": "chapenalla",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.333333,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Charduar",
+      "name_lower": "charduar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.866667,
+      "longitude": 92.766667
+    },
+    {
+      "name": "Charka Hai",
+      "name_lower": "charka hai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 93.233333
+    },
+    {
+      "name": "Chashinya",
+      "name_lower": "chashinya",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.916667,
+      "longitude": 94.05
+    },
+    {
+      "name": "Chatachara",
+      "name_lower": "chatachara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.283333,
+      "longitude": 92.433333
+    },
+    {
+      "name": "Chauldhoa",
+      "name_lower": "chauldhoa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.416667,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Chauldhoa Baligaon",
+      "name_lower": "chauldhoa baligaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.416667,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Chauldhoa Ballgaon",
+      "name_lower": "chauldhoa ballgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.416667,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Chetiagaon",
+      "name_lower": "chetiagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.316667,
+      "longitude": 94.433333
+    },
+    {
+      "name": "Chhaygaon",
+      "name_lower": "chhaygaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 91.4
+    },
+    {
+      "name": "Choshinyu",
+      "name_lower": "choshinyu",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.916667,
+      "longitude": 94.05
+    },
+    {
+      "name": "Chunari",
+      "name_lower": "chunari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 90.35
+    },
+    {
+      "name": "Chutia",
+      "name_lower": "chutia",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 93.05
+    },
+    {
+      "name": "Chutiya Mirigaon",
+      "name_lower": "chutiya mirigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.566667,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Cinnamara",
+      "name_lower": "cinnamara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Craigpark",
+      "name_lower": "craigpark",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25,
+      "longitude": 92.533333
+    },
+    {
+      "name": "Dabaka",
+      "name_lower": "dabaka",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Dalaigaon",
+      "name_lower": "dalaigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.533333,
+      "longitude": 91.233333
+    },
+    {
+      "name": "Dalgaon",
+      "name_lower": "dalgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.566667,
+      "longitude": 92.2
+    },
+    {
+      "name": "Dalgoma",
+      "name_lower": "dalgoma",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 90.783333
+    },
+    {
+      "name": "Daloo",
+      "name_lower": "daloo",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 92.766667
+    },
+    {
+      "name": "Dalu",
+      "name_lower": "dalu",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.933333,
+      "longitude": 92.766667
+    },
+    {
+      "name": "Dambukso",
+      "name_lower": "dambukso",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 93.583333
+    },
+    {
+      "name": "Dangori",
+      "name_lower": "dangori",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.683333,
+      "longitude": 95.6
+    },
+    {
+      "name": "Daranga",
+      "name_lower": "daranga",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 91.516667
+    },
+    {
+      "name": "Darangibra",
+      "name_lower": "darangibra",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.433333,
+      "longitude": 93.3
+    },
+    {
+      "name": "Daria",
+      "name_lower": "daria",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 93.933333
+    },
+    {
+      "name": "Darrang",
+      "name_lower": "darrang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 92.8
+    },
+    {
+      "name": "Darranga",
+      "name_lower": "darranga",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 91.516667
+    },
+    {
+      "name": "Darranga Camp",
+      "name_lower": "darranga camp",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 91.516667
+    },
+    {
+      "name": "Datma",
+      "name_lower": "datma",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.483333,
+      "longitude": 90.166667
+    },
+    {
+      "name": "Dengaon",
+      "name_lower": "dengaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.233333,
+      "longitude": 92.983333
+    },
+    {
+      "name": "Deosri",
+      "name_lower": "deosri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.766667,
+      "longitude": 90.483333
+    },
+    {
+      "name": "Derebara",
+      "name_lower": "derebara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Dergaon",
+      "name_lower": "dergaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 13366,
+      "latitude": 26.7,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Dhakuakhana",
+      "name_lower": "dhakuakhana",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.2,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Dhalai",
+      "name_lower": "dhalai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 92.833333
+    },
+    {
+      "name": "Dhamdhama",
+      "name_lower": "dhamdhama",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.566667,
+      "longitude": 91.466667
+    },
+    {
+      "name": "Dhansirimukh",
+      "name_lower": "dhansirimukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.7,
+      "longitude": 93.616667
+    },
+    {
+      "name": "Dhapaliagaon",
+      "name_lower": "dhapaliagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.283333,
+      "longitude": 94.416667
+    },
+    {
+      "name": "Dharamtul",
+      "name_lower": "dharamtul",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 92.35
+    },
+    {
+      "name": "Dhekiajuli",
+      "name_lower": "dhekiajuli",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 21272,
+      "latitude": 26.7,
+      "longitude": 92.5
+    },
+    {
+      "name": "Dhemaji",
+      "name_lower": "dhemaji",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 13059,
+      "latitude": 27.483333,
+      "longitude": 94.583333
+    },
+    {
+      "name": "Dhing",
+      "name_lower": "dhing",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 20827,
+      "latitude": 26.466667,
+      "longitude": 92.466667
+    },
+    {
+      "name": "Dhubri",
+      "name_lower": "dhubri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 89.966667
+    },
+    {
+      "name": "Dhuburi",
+      "name_lower": "dhuburi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 62528,
+      "latitude": 26.033333,
+      "longitude": 89.966667
+    },
+    {
+      "name": "Dhupdhara",
+      "name_lower": "dhupdhara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 91.066667
+    },
+    {
+      "name": "Dibrugarh",
+      "name_lower": "dibrugarh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 122160,
+      "latitude": 27.481667,
+      "longitude": 94.902778
+    },
+    {
+      "name": "Digboi",
+      "name_lower": "digboi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 20685,
+      "latitude": 27.383333,
+      "longitude": 95.618056
+    },
+    {
+      "name": "Digbol",
+      "name_lower": "digbol",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.383333,
+      "longitude": 95.618056
+    },
+    {
+      "name": "Digbor",
+      "name_lower": "digbor",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.383333,
+      "longitude": 95.618056
+    },
+    {
+      "name": "Dighaltarang",
+      "name_lower": "dighaltarang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.616667,
+      "longitude": 95.4
+    },
+    {
+      "name": "Dihajan",
+      "name_lower": "dihajan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.133333,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Dihingmukh",
+      "name_lower": "dihingmukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.266667,
+      "longitude": 94.7
+    },
+    {
+      "name": "Dijmur",
+      "name_lower": "dijmur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.65,
+      "longitude": 94.866667
+    },
+    {
+      "name": "Diju",
+      "name_lower": "diju",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.283333,
+      "longitude": 94.05
+    },
+    {
+      "name": "Dikhomukh",
+      "name_lower": "dikhomukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.983333,
+      "longitude": 94.433333
+    },
+    {
+      "name": "Dikrum",
+      "name_lower": "dikrum",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 93.566667
+    },
+    {
+      "name": "Dili Terang",
+      "name_lower": "dili terang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 93.683333
+    },
+    {
+      "name": "Dimakuchi",
+      "name_lower": "dimakuchi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 91.833333
+    },
+    {
+      "name": "Dimapur",
+      "name_lower": "dimapur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 135866,
+      "latitude": 25.9,
+      "longitude": 93.733333
+    },
+    {
+      "name": "Dimruguri",
+      "name_lower": "dimruguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 94.2
+    },
+    {
+      "name": "Dingdinga",
+      "name_lower": "dingdinga",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.35,
+      "longitude": 89.9
+    },
+    {
+      "name": "Dingdirga",
+      "name_lower": "dingdirga",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.35,
+      "longitude": 89.9
+    },
+    {
+      "name": "Dingram",
+      "name_lower": "dingram",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 90.166667
+    },
+    {
+      "name": "Dinjan",
+      "name_lower": "dinjan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 95.166667
+    },
+    {
+      "name": "Dinjaygaon",
+      "name_lower": "dinjaygaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 95.166667
+    },
+    {
+      "name": "Diphn",
+      "name_lower": "diphn",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 93.433333
+    },
+    {
+      "name": "Diphu",
+      "name_lower": "diphu",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 57099,
+      "latitude": 25.833333,
+      "longitude": 93.433333
+    },
+    {
+      "name": "Disangmukh",
+      "name_lower": "disangmukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.066667,
+      "longitude": 94.55
+    },
+    {
+      "name": "Dishpur",
+      "name_lower": "dishpur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.1425,
+      "longitude": 91.788889
+    },
+    {
+      "name": "Dispur",
+      "name_lower": "dispur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 8282,
+      "latitude": 26.1425,
+      "longitude": 91.788889
+    },
+    {
+      "name": "Dithur",
+      "name_lower": "dithur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 92.8
+    },
+    {
+      "name": "Dnakuakhana",
+      "name_lower": "dnakuakhana",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.2,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Dolungmukh",
+      "name_lower": "dolungmukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 94.3
+    },
+    {
+      "name": "Doom-Dooma",
+      "name_lower": "doom-dooma",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.566667,
+      "longitude": 95.566667
+    },
+    {
+      "name": "Duarmara",
+      "name_lower": "duarmara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 95.75
+    },
+    {
+      "name": "Dubri",
+      "name_lower": "dubri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 89.966667
+    },
+    {
+      "name": "Dudhnai",
+      "name_lower": "dudhnai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 90.733333
+    },
+    {
+      "name": "Dulahatgaon",
+      "name_lower": "dulahatgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.166667,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Dulangmukh",
+      "name_lower": "dulangmukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 94.3
+    },
+    {
+      "name": "Duliagaon",
+      "name_lower": "duliagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 23530,
+      "latitude": 27.366667,
+      "longitude": 95.316667
+    },
+    {
+      "name": "Dum Duma",
+      "name_lower": "dum duma",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 21707,
+      "latitude": 27.566667,
+      "longitude": 95.566667
+    },
+    {
+      "name": "Dumnichauki",
+      "name_lower": "dumnichauki",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.35,
+      "longitude": 91.833333
+    },
+    {
+      "name": "Dumsa",
+      "name_lower": "dumsa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.516667,
+      "longitude": 95.866667
+    },
+    {
+      "name": "Dwarband",
+      "name_lower": "dwarband",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 92.7
+    },
+    {
+      "name": "Erdangkramsa",
+      "name_lower": "erdangkramsa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 93.25
+    },
+    {
+      "name": "Fakiragram",
+      "name_lower": "fakiragram",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 90.133333
+    },
+    {
+      "name": "Fakirganj",
+      "name_lower": "fakirganj",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 90.033333
+    },
+    {
+      "name": "Furkating",
+      "name_lower": "furkating",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 93.983333
+    },
+    {
+      "name": "Gabharu",
+      "name_lower": "gabharu",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.683333,
+      "longitude": 92.65
+    },
+    {
+      "name": "Gagaldubi",
+      "name_lower": "gagaldubi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.366667,
+      "longitude": 94.2
+    },
+    {
+      "name": "Gagaldubigaon",
+      "name_lower": "gagaldubigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.366667,
+      "longitude": 94.2
+    },
+    {
+      "name": "Gangmohthan",
+      "name_lower": "gangmohthan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.766667,
+      "longitude": 93.316667
+    },
+    {
+      "name": "Garampani",
+      "name_lower": "garampani",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.4,
+      "longitude": 93.866667
+    },
+    {
+      "name": "Gariagaon",
+      "name_lower": "gariagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.7,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Garnbhasa",
+      "name_lower": "garnbhasa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.55,
+      "longitude": 90.366667
+    },
+    {
+      "name": "Garubhasa",
+      "name_lower": "garubhasa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.55,
+      "longitude": 90.366667
+    },
+    {
+      "name": "Gauhati",
+      "name_lower": "gauhati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.183333,
+      "longitude": 91.733333
+    },
+    {
+      "name": "Gejeragaon",
+      "name_lower": "gejeragaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.1,
+      "longitude": 94.466667
+    },
+    {
+      "name": "Geleki",
+      "name_lower": "geleki",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.816667,
+      "longitude": 94.7
+    },
+    {
+      "name": "Ginjia",
+      "name_lower": "ginjia",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 93.25
+    },
+    {
+      "name": "Goalpara",
+      "name_lower": "goalpara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 50761,
+      "latitude": 26.166667,
+      "longitude": 90.616667
+    },
+    {
+      "name": "Gogamukh",
+      "name_lower": "gogamukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.4,
+      "longitude": 94.35
+    },
+    {
+      "name": "Gogamukh Tajik",
+      "name_lower": "gogamukh tajik",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.4,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Gohaingaon",
+      "name_lower": "gohaingaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.866667,
+      "longitude": 94.233333
+    },
+    {
+      "name": "Gohpur",
+      "name_lower": "gohpur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 9896,
+      "latitude": 26.883333,
+      "longitude": 93.633333
+    },
+    {
+      "name": "Goibarigaon",
+      "name_lower": "goibarigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 91.7
+    },
+    {
+      "name": "Gokulkata",
+      "name_lower": "gokulkata",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 89.883333
+    },
+    {
+      "name": "Golaghat",
+      "name_lower": "golaghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 34374,
+      "latitude": 26.516667,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Golakganj",
+      "name_lower": "golakganj",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 8125,
+      "latitude": 26.1,
+      "longitude": 89.833333
+    },
+    {
+      "name": "Golakgans",
+      "name_lower": "golakgans",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 89.833333
+    },
+    {
+      "name": "Gossaigaon",
+      "name_lower": "gossaigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 13933,
+      "latitude": 26.45,
+      "longitude": 89.966667
+    },
+    {
+      "name": "Gowhatty",
+      "name_lower": "gowhatty",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.183333,
+      "longitude": 91.733333
+    },
+    {
+      "name": "Gunjong",
+      "name_lower": "gunjong",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.316667,
+      "longitude": 93.016667
+    },
+    {
+      "name": "Guwahati",
+      "name_lower": "guwahati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 899132,
+      "latitude": 26.183333,
+      "longitude": 91.733333
+    },
+    {
+      "name": "Habaipur",
+      "name_lower": "habaipur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.95,
+      "longitude": 92.833333
+    },
+    {
+      "name": "Habialgaon",
+      "name_lower": "habialgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Haflang",
+      "name_lower": "haflang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.183333,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Haflong",
+      "name_lower": "haflong",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 39983,
+      "latitude": 25.183333,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Hailakandi",
+      "name_lower": "hailakandi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 31032,
+      "latitude": 24.683333,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Hailikandi",
+      "name_lower": "hailikandi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.683333,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Hajo",
+      "name_lower": "hajo",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.25,
+      "longitude": 91.533333
+    },
+    {
+      "name": "Hajua",
+      "name_lower": "hajua",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 91.2
+    },
+    {
+      "name": "Haloagaon",
+      "name_lower": "haloagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.683333,
+      "longitude": 94.15
+    },
+    {
+      "name": "Haltugaon",
+      "name_lower": "haltugaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.483333,
+      "longitude": 90.3
+    },
+    {
+      "name": "Hang Habai",
+      "name_lower": "hang habai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.866667,
+      "longitude": 92.8
+    },
+    {
+      "name": "Hangrum",
+      "name_lower": "hangrum",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.133333,
+      "longitude": 93.3
+    },
+    {
+      "name": "Hatikhuli",
+      "name_lower": "hatikhuli",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 93.35
+    },
+    {
+      "name": "Haulighat",
+      "name_lower": "haulighat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.266667,
+      "longitude": 91.366667
+    },
+    {
+      "name": "Helapakari",
+      "name_lower": "helapakari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 90.966667
+    },
+    {
+      "name": "Helem",
+      "name_lower": "helem",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 93.333333
+    },
+    {
+      "name": "Hojai",
+      "name_lower": "hojai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 36871,
+      "latitude": 26,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Howang",
+      "name_lower": "howang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 93.4
+    },
+    {
+      "name": "Howli",
+      "name_lower": "howli",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 90.966667
+    },
+    {
+      "name": "Hudukhata",
+      "name_lower": "hudukhata",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 91.1
+    },
+    {
+      "name": "Huliagaon",
+      "name_lower": "huliagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.566667,
+      "longitude": 94.516667
+    },
+    {
+      "name": "Hulmari",
+      "name_lower": "hulmari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.116667,
+      "longitude": 93.933333
+    },
+    {
+      "name": "Hylakandi",
+      "name_lower": "hylakandi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.683333,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Itakhola",
+      "name_lower": "itakhola",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 92.966667
+    },
+    {
+      "name": "Jagdala",
+      "name_lower": "jagdala",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 91.25
+    },
+    {
+      "name": "Jaihing",
+      "name_lower": "jaihing",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.3,
+      "longitude": 94.033333
+    },
+    {
+      "name": "Jakhalabandha",
+      "name_lower": "jakhalabandha",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 93.016667
+    },
+    {
+      "name": "Jakuradhar",
+      "name_lower": "jakuradhar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.616667,
+      "longitude": 93.1
+    },
+    {
+      "name": "Jamduar",
+      "name_lower": "jamduar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 89.883333
+    },
+    {
+      "name": "Jamindargaon",
+      "name_lower": "jamindargaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.766667,
+      "longitude": 93.366667
+    },
+    {
+      "name": "Jamuguri",
+      "name_lower": "jamuguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 93.966667
+    },
+    {
+      "name": "Jamunamukh",
+      "name_lower": "jamunamukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Januguri",
+      "name_lower": "januguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Jeikhan",
+      "name_lower": "jeikhan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.483333,
+      "longitude": 93.1
+    },
+    {
+      "name": "Jelkarjhar",
+      "name_lower": "jelkarjhar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 90.533333
+    },
+    {
+      "name": "Jenggaon",
+      "name_lower": "jenggaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 93.216667
+    },
+    {
+      "name": "Jengpata",
+      "name_lower": "jengpata",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.333333,
+      "longitude": 93.666667
+    },
+    {
+      "name": "Jetukiagaon",
+      "name_lower": "jetukiagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Jhanzi",
+      "name_lower": "jhanzi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.866667,
+      "longitude": 94.5
+    },
+    {
+      "name": "Jirighat",
+      "name_lower": "jirighat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.783333,
+      "longitude": 93.1
+    },
+    {
+      "name": "Jogighopa",
+      "name_lower": "jogighopa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 2415,
+      "latitude": 26.233333,
+      "longitude": 90.583333
+    },
+    {
+      "name": "Jorhat",
+      "name_lower": "jorhat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 69036,
+      "latitude": 26.75,
+      "longitude": 94.216667
+    },
+    {
+      "name": "Jungterang",
+      "name_lower": "jungterang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 93.35
+    },
+    {
+      "name": "Kaharpara",
+      "name_lower": "kaharpara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 91.583333
+    },
+    {
+      "name": "Kaki",
+      "name_lower": "kaki",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 93.05
+    },
+    {
+      "name": "Kakilamuka",
+      "name_lower": "kakilamuka",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Kakilamukh",
+      "name_lower": "kakilamukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Kalaigaon",
+      "name_lower": "kalaigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 91.966667
+    },
+    {
+      "name": "Kalain",
+      "name_lower": "kalain",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.966667,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Kaliani",
+      "name_lower": "kaliani",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Kalitagaon",
+      "name_lower": "kalitagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.9,
+      "longitude": 93.733333
+    },
+    {
+      "name": "Kalkali Ghat",
+      "name_lower": "kalkali ghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 92.333333
+    },
+    {
+      "name": "Kalliani",
+      "name_lower": "kalliani",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 93.766667
+    },
+    {
+      "name": "Kamakhya",
+      "name_lower": "kamakhya",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 91.708333
+    },
+    {
+      "name": "Kampur",
+      "name_lower": "kampur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.2,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Kaolakhat",
+      "name_lower": "kaolakhat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 93.583333
+    },
+    {
+      "name": "Karimganj",
+      "name_lower": "karimganj",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 55293,
+      "latitude": 24.866667,
+      "longitude": 92.35
+    },
+    {
+      "name": "Kashikhagra",
+      "name_lower": "kashikhagra",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 90.55
+    },
+    {
+      "name": "Kasikatra",
+      "name_lower": "kasikatra",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.533333,
+      "longitude": 90.45
+    },
+    {
+      "name": "Kasomarigaon",
+      "name_lower": "kasomarigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 94
+    },
+    {
+      "name": "Katchugaon",
+      "name_lower": "katchugaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.566667,
+      "longitude": 90.066667
+    },
+    {
+      "name": "Kathiatali",
+      "name_lower": "kathiatali",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.183333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Katkali Ghat",
+      "name_lower": "katkali ghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 92.333333
+    },
+    {
+      "name": "Katlichara",
+      "name_lower": "katlichara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Katlicherra",
+      "name_lower": "katlicherra",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.45,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Kaupati",
+      "name_lower": "kaupati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 92.25
+    },
+    {
+      "name": "Kaziranga",
+      "name_lower": "kaziranga",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 93.466667
+    },
+    {
+      "name": "Kekuri Bebejia",
+      "name_lower": "kekuri bebejia",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.133333,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Kerimgaon",
+      "name_lower": "kerimgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.933333,
+      "longitude": 95.666667
+    },
+    {
+      "name": "Khanapara",
+      "name_lower": "khanapara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 91.816667
+    },
+    {
+      "name": "Kharikhanapatti",
+      "name_lower": "kharikhanapatti",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.883333,
+      "longitude": 92.9
+    },
+    {
+      "name": "Kharmauza",
+      "name_lower": "kharmauza",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.15,
+      "longitude": 90.483333
+    },
+    {
+      "name": "Kharupatia",
+      "name_lower": "kharupatia",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.516667,
+      "longitude": 92.133333
+    },
+    {
+      "name": "Kharupatia Ghat",
+      "name_lower": "kharupatia ghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.516667,
+      "longitude": 92.133333
+    },
+    {
+      "name": "Khatoalgaon",
+      "name_lower": "khatoalgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.683333,
+      "longitude": 94.15
+    },
+    {
+      "name": "Khoirabari",
+      "name_lower": "khoirabari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 91.833333
+    },
+    {
+      "name": "Khowang",
+      "name_lower": "khowang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.266667,
+      "longitude": 94.883333
+    },
+    {
+      "name": "Khutabari",
+      "name_lower": "khutabari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.066667,
+      "longitude": 91.083333
+    },
+    {
+      "name": "Kobirali",
+      "name_lower": "kobirali",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.65,
+      "longitude": 92.016667
+    },
+    {
+      "name": "Kobo",
+      "name_lower": "kobo",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.783333,
+      "longitude": 95.383333
+    },
+    {
+      "name": "Kochugaon",
+      "name_lower": "kochugaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.566667,
+      "longitude": 90.066667
+    },
+    {
+      "name": "Kokilamukh",
+      "name_lower": "kokilamukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Kokrajhar",
+      "name_lower": "kokrajhar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 31972,
+      "latitude": 26.4,
+      "longitude": 90.266667
+    },
+    {
+      "name": "Krishnai",
+      "name_lower": "krishnai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 90.666667
+    },
+    {
+      "name": "Kseh Kynthang",
+      "name_lower": "kseh kynthang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.95,
+      "longitude": 92.266667
+    },
+    {
+      "name": "Kukichara",
+      "name_lower": "kukichara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.4,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Kumargram",
+      "name_lower": "kumargram",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 89.833333
+    },
+    {
+      "name": "Kumbhir",
+      "name_lower": "kumbhir",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 92.983333
+    },
+    {
+      "name": "Kumbhirgram",
+      "name_lower": "kumbhirgram",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.916667,
+      "longitude": 92.983333
+    },
+    {
+      "name": "Kumding",
+      "name_lower": "kumding",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.75,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Kumguri",
+      "name_lower": "kumguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.7,
+      "longitude": 91.1
+    },
+    {
+      "name": "Kumrikhata",
+      "name_lower": "kumrikhata",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 91.55
+    },
+    {
+      "name": "Kundil Bazar",
+      "name_lower": "kundil bazar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 95.666667
+    },
+    {
+      "name": "Kuthari",
+      "name_lower": "kuthari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.55,
+      "longitude": 93.216667
+    },
+    {
+      "name": "Laher",
+      "name_lower": "laher",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.7,
+      "longitude": 92.616667
+    },
+    {
+      "name": "Lahorighat",
+      "name_lower": "lahorighat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 92.35
+    },
+    {
+      "name": "Lahorighat Pam",
+      "name_lower": "lahorighat pam",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 92.35
+    },
+    {
+      "name": "Laimakuri",
+      "name_lower": "laimakuri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.683333,
+      "longitude": 95.033333
+    },
+    {
+      "name": "Laisong",
+      "name_lower": "laisong",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.2,
+      "longitude": 93.3
+    },
+    {
+      "name": "Lakhinpur",
+      "name_lower": "lakhinpur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.481667,
+      "longitude": 94.902778
+    },
+    {
+      "name": "Lakhuni",
+      "name_lower": "lakhuni",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.55,
+      "longitude": 94.45
+    },
+    {
+      "name": "Lala",
+      "name_lower": "lala",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 10942,
+      "latitude": 24.55,
+      "longitude": 92.6
+    },
+    {
+      "name": "Lalaghat",
+      "name_lower": "lalaghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.566667,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Lalsong",
+      "name_lower": "lalsong",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.016667,
+      "longitude": 92.9
+    },
+    {
+      "name": "Laluk",
+      "name_lower": "laluk",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.116667,
+      "longitude": 93.933333
+    },
+    {
+      "name": "Langlut",
+      "name_lower": "langlut",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.466667,
+      "longitude": 92.8
+    },
+    {
+      "name": "Langting",
+      "name_lower": "langting",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 93.116667
+    },
+    {
+      "name": "Langyen",
+      "name_lower": "langyen",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.533333,
+      "longitude": 92.983333
+    },
+    {
+      "name": "Lankapatti",
+      "name_lower": "lankapatti",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.933333,
+      "longitude": 92.95
+    },
+    {
+      "name": "Lanting",
+      "name_lower": "lanting",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.5,
+      "longitude": 93.116667
+    },
+    {
+      "name": "Laokhoa",
+      "name_lower": "laokhoa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.533333,
+      "longitude": 92.8
+    },
+    {
+      "name": "Lasanbari",
+      "name_lower": "lasanbari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.266667,
+      "longitude": 92.416667
+    },
+    {
+      "name": "Leike",
+      "name_lower": "leike",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 93.433333
+    },
+    {
+      "name": "Lengrabhita",
+      "name_lower": "lengrabhita",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 90.166667
+    },
+    {
+      "name": "Lengteng",
+      "name_lower": "lengteng",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Letekujan",
+      "name_lower": "letekujan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 93.8
+    },
+    {
+      "name": "Loch",
+      "name_lower": "loch",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 91.7
+    },
+    {
+      "name": "Loharghat",
+      "name_lower": "loharghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 91.483333
+    },
+    {
+      "name": "Long-e-tilun",
+      "name_lower": "long-e-tilun",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 92.366667
+    },
+    {
+      "name": "Longkamgaon",
+      "name_lower": "longkamgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.216667,
+      "longitude": 93.366667
+    },
+    {
+      "name": "Longku",
+      "name_lower": "longku",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.683333,
+      "longitude": 92.8
+    },
+    {
+      "name": "Lumding",
+      "name_lower": "lumding",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 25777,
+      "latitude": 25.75,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Lungding",
+      "name_lower": "lungding",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.6,
+      "longitude": 93.2
+    },
+    {
+      "name": "Machkhoa",
+      "name_lower": "machkhoa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.333333,
+      "longitude": 94.55
+    },
+    {
+      "name": "Mahakal",
+      "name_lower": "mahakal",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.816667,
+      "longitude": 92.433333
+    },
+    {
+      "name": "Maibang",
+      "name_lower": "maibang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.3,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Maibong",
+      "name_lower": "maibong",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 8365,
+      "latitude": 25.3,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Majar Chuk",
+      "name_lower": "majar chuk",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 92.9
+    },
+    {
+      "name": "Majbat",
+      "name_lower": "majbat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.75,
+      "longitude": 92.35
+    },
+    {
+      "name": "Major Chuk",
+      "name_lower": "major chuk",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.716667,
+      "longitude": 92.9
+    },
+    {
+      "name": "Majuli",
+      "name_lower": "majuli",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.95,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Majuli-Bongaon",
+      "name_lower": "majuli-bongaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.95,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Makariagaon",
+      "name_lower": "makariagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 92.333333
+    },
+    {
+      "name": "Makum",
+      "name_lower": "makum",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 16226,
+      "latitude": 27.5,
+      "longitude": 95.45
+    },
+    {
+      "name": "Makum-Junction",
+      "name_lower": "makum-junction",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 95.45
+    },
+    {
+      "name": "Malu Khat",
+      "name_lower": "malu khat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Manakasha",
+      "name_lower": "manakasha",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.533333,
+      "longitude": 90.816667
+    },
+    {
+      "name": "Mangaldai",
+      "name_lower": "mangaldai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 24872,
+      "latitude": 26.433333,
+      "longitude": 92.033333
+    },
+    {
+      "name": "Marangaon",
+      "name_lower": "marangaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 93.316667
+    },
+    {
+      "name": "Maranjan",
+      "name_lower": "maranjan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.083333,
+      "longitude": 94.916667
+    },
+    {
+      "name": "Margang",
+      "name_lower": "margang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 91.983333
+    },
+    {
+      "name": "Mariani",
+      "name_lower": "mariani",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 23641,
+      "latitude": 26.666667,
+      "longitude": 94.333333
+    },
+    {
+      "name": "Maroa",
+      "name_lower": "maroa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 91.45
+    },
+    {
+      "name": "Maudanga",
+      "name_lower": "maudanga",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 93.016667
+    },
+    {
+      "name": "Mazbat",
+      "name_lower": "mazbat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.75,
+      "longitude": 92.35
+    },
+    {
+      "name": "Mechangbung",
+      "name_lower": "mechangbung",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.333333,
+      "longitude": 93.5
+    },
+    {
+      "name": "Merapani",
+      "name_lower": "merapani",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 94.1
+    },
+    {
+      "name": "Mijik",
+      "name_lower": "mijik",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Mijika",
+      "name_lower": "mijika",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Mikirgaon",
+      "name_lower": "mikirgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.25,
+      "longitude": 92.75
+    },
+    {
+      "name": "Mirza Pahar",
+      "name_lower": "mirza pahar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.136111,
+      "longitude": 91.548611
+    },
+    {
+      "name": "Misa",
+      "name_lower": "misa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.483333,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Misamari",
+      "name_lower": "misamari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 92.6
+    },
+    {
+      "name": "Missamari",
+      "name_lower": "missamari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 92.6
+    },
+    {
+      "name": "Mohanbari",
+      "name_lower": "mohanbari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.45,
+      "longitude": 95.033333
+    },
+    {
+      "name": "Mohmaragaon",
+      "name_lower": "mohmaragaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.65,
+      "longitude": 95.166667
+    },
+    {
+      "name": "Moilang",
+      "name_lower": "moilang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.066667,
+      "longitude": 94.066667
+    },
+    {
+      "name": "Moragang",
+      "name_lower": "moragang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Moranha",
+      "name_lower": "moranha",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.183333,
+      "longitude": 94.933333
+    },
+    {
+      "name": "Moranjan",
+      "name_lower": "moranjan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.083333,
+      "longitude": 94.916667
+    },
+    {
+      "name": "Mornai",
+      "name_lower": "mornai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 90.733333
+    },
+    {
+      "name": "Motilal Pattiar",
+      "name_lower": "motilal pattiar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.766667,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Motital Pathar",
+      "name_lower": "motital pathar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.766667,
+      "longitude": 94.133333
+    },
+    {
+      "name": "Mumgaon",
+      "name_lower": "mumgaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.383333,
+      "longitude": 93.483333
+    },
+    {
+      "name": "Mupa",
+      "name_lower": "mupa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.366667,
+      "longitude": 93.133333
+    },
+    {
+      "name": "Murkong Selek",
+      "name_lower": "murkong selek",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.733333,
+      "longitude": 95.3
+    },
+    {
+      "name": "Murkong Selok",
+      "name_lower": "murkong selok",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.733333,
+      "longitude": 95.3
+    },
+    {
+      "name": "Mynser",
+      "name_lower": "mynser",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.916667,
+      "longitude": 92.4
+    },
+    {
+      "name": "Nagarbera",
+      "name_lower": "nagarbera",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 90.983333
+    },
+    {
+      "name": "Nagargaon",
+      "name_lower": "nagargaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.016667,
+      "longitude": 94.166667
+    },
+    {
+      "name": "Naharkativa",
+      "name_lower": "naharkativa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.283333,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Naharkatiya",
+      "name_lower": "naharkatiya",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.283333,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Nahorkatiya",
+      "name_lower": "nahorkatiya",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.283333,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Nakachari",
+      "name_lower": "nakachari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 94.383333
+    },
+    {
+      "name": "Nakhola",
+      "name_lower": "nakhola",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 92.183333
+    },
+    {
+      "name": "Nalbari",
+      "name_lower": "nalbari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 24618,
+      "latitude": 26.416667,
+      "longitude": 91.433333
+    },
+    {
+      "name": "Nam Dabaka",
+      "name_lower": "nam dabaka",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Namdang",
+      "name_lower": "namdang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.933333,
+      "longitude": 94.533333
+    },
+    {
+      "name": "Namrup",
+      "name_lower": "namrup",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.183333,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Naojan",
+      "name_lower": "naojan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 93.816667
+    },
+    {
+      "name": "Naokata",
+      "name_lower": "naokata",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 91.733333
+    },
+    {
+      "name": "Narjan",
+      "name_lower": "narjan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.566667,
+      "longitude": 93.25
+    },
+    {
+      "name": "Narjon Basti",
+      "name_lower": "narjon basti",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.566667,
+      "longitude": 93.25
+    },
+    {
+      "name": "Neamati",
+      "name_lower": "neamati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 94.3
+    },
+    {
+      "name": "Neghereting",
+      "name_lower": "neghereting",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Negheretting",
+      "name_lower": "negheretting",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 94.116667
+    },
+    {
+      "name": "Nij Hajo",
+      "name_lower": "nij hajo",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.25,
+      "longitude": 91.533333
+    },
+    {
+      "name": "Nij Laluk",
+      "name_lower": "nij laluk",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.116667,
+      "longitude": 93.933333
+    },
+    {
+      "name": "Nilambazar",
+      "name_lower": "nilambazar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 92.35
+    },
+    {
+      "name": "Nilamsbazar",
+      "name_lower": "nilamsbazar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.75,
+      "longitude": 92.35
+    },
+    {
+      "name": "Noajan",
+      "name_lower": "noajan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 93.816667
+    },
+    {
+      "name": "Noonmati",
+      "name_lower": "noonmati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.183333,
+      "longitude": 91.8
+    },
+    {
+      "name": "North Gauhati",
+      "name_lower": "north gauhati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.201389,
+      "longitude": 91.723611
+    },
+    {
+      "name": "North Guwahati",
+      "name_lower": "north guwahati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 17517,
+      "latitude": 26.201389,
+      "longitude": 91.723611
+    },
+    {
+      "name": "North Lakhimpur",
+      "name_lower": "north lakhimpur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.233333,
+      "longitude": 94.116667
+    },
+    {
+      "name": "North Salmara",
+      "name_lower": "north salmara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 90.6
+    },
+    {
+      "name": "Numaligarh",
+      "name_lower": "numaligarh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 7386,
+      "latitude": 26.633333,
+      "longitude": 93.75
+    },
+    {
+      "name": "Nunmati",
+      "name_lower": "nunmati",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.183333,
+      "longitude": 91.8
+    },
+    {
+      "name": "Oaklands",
+      "name_lower": "oaklands",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.55,
+      "longitude": 95.066667
+    },
+    {
+      "name": "Orang",
+      "name_lower": "orang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.7,
+      "longitude": 92.333333
+    },
+    {
+      "name": "Orangajuli",
+      "name_lower": "orangajuli",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.816667,
+      "longitude": 91.866667
+    },
+    {
+      "name": "Pakariamukh",
+      "name_lower": "pakariamukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.266667,
+      "longitude": 92.05
+    },
+    {
+      "name": "Paklanggaon",
+      "name_lower": "paklanggaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.866667,
+      "longitude": 93.266667
+    },
+    {
+      "name": "Palanghat",
+      "name_lower": "palanghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.65,
+      "longitude": 92.9
+    },
+    {
+      "name": "Palasbari",
+      "name_lower": "palasbari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 4714,
+      "latitude": 26.136111,
+      "longitude": 91.548611
+    },
+    {
+      "name": "Pandu",
+      "name_lower": "pandu",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.169167,
+      "longitude": 91.675
+    },
+    {
+      "name": "Paneri",
+      "name_lower": "paneri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.733333,
+      "longitude": 91.916667
+    },
+    {
+      "name": "Paniputa",
+      "name_lower": "paniputa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 92.75
+    },
+    {
+      "name": "Panitola",
+      "name_lower": "panitola",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 95.283333
+    },
+    {
+      "name": "Parchat",
+      "name_lower": "parchat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 93.733333
+    },
+    {
+      "name": "Parghat",
+      "name_lower": "parghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 93.733333
+    },
+    {
+      "name": "Pasch im Naokota",
+      "name_lower": "pasch im naokota",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.633333,
+      "longitude": 91.733333
+    },
+    {
+      "name": "Patacharkuchi",
+      "name_lower": "patacharkuchi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.516667,
+      "longitude": 91.266667
+    },
+    {
+      "name": "Pathalipam",
+      "name_lower": "pathalipam",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.433333,
+      "longitude": 94.3
+    },
+    {
+      "name": "Patharkandi",
+      "name_lower": "patharkandi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.616667,
+      "longitude": 92.333333
+    },
+    {
+      "name": "Patharughat",
+      "name_lower": "patharughat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 91.866667
+    },
+    {
+      "name": "Phaikulum",
+      "name_lower": "phaikulum",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.483333,
+      "longitude": 93.466667
+    },
+    {
+      "name": "Phangchogaon",
+      "name_lower": "phangchogaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.516667,
+      "longitude": 93.433333
+    },
+    {
+      "name": "Phukangaon",
+      "name_lower": "phukangaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.55,
+      "longitude": 94.616667
+    },
+    {
+      "name": "Phulaguri",
+      "name_lower": "phulaguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.266667,
+      "longitude": 92.583333
+    },
+    {
+      "name": "Phuluni",
+      "name_lower": "phuluni",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.183333,
+      "longitude": 93.133333
+    },
+    {
+      "name": "Pithakhaitigaon",
+      "name_lower": "pithakhaitigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.416667,
+      "longitude": 92.183333
+    },
+    {
+      "name": "Powai",
+      "name_lower": "powai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.35,
+      "longitude": 95.65
+    },
+    {
+      "name": "Puranigudam",
+      "name_lower": "puranigudam",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.35,
+      "longitude": 92.8
+    },
+    {
+      "name": "Puthiman",
+      "name_lower": "puthiman",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.7,
+      "longitude": 92.233333
+    },
+    {
+      "name": "Puthimari",
+      "name_lower": "puthimari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.7,
+      "longitude": 92.233333
+    },
+    {
+      "name": "Raha",
+      "name_lower": "raha",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 4724,
+      "latitude": 26.233333,
+      "longitude": 92.516667
+    },
+    {
+      "name": "Raimana",
+      "name_lower": "raimana",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.65,
+      "longitude": 89.966667
+    },
+    {
+      "name": "Rairguruaon",
+      "name_lower": "rairguruaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 94.183333
+    },
+    {
+      "name": "Raja Bazar",
+      "name_lower": "raja bazar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.866667,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Raja Mayang",
+      "name_lower": "raja mayang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.283333,
+      "longitude": 92.016667
+    },
+    {
+      "name": "Rajgurugaon",
+      "name_lower": "rajgurugaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.783333,
+      "longitude": 94.183333
+    },
+    {
+      "name": "Ranga Nadi",
+      "name_lower": "ranga nadi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Rangagora",
+      "name_lower": "rangagora",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.566667,
+      "longitude": 95.333333
+    },
+    {
+      "name": "Rangapahar",
+      "name_lower": "rangapahar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.85,
+      "longitude": 93.7
+    },
+    {
+      "name": "Rangapani",
+      "name_lower": "rangapani",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 90.783333
+    },
+    {
+      "name": "Rangapara",
+      "name_lower": "rangapara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 18740,
+      "latitude": 26.816667,
+      "longitude": 92.65
+    },
+    {
+      "name": "Rangazumi",
+      "name_lower": "rangazumi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 94.033333
+    },
+    {
+      "name": "Rangia",
+      "name_lower": "rangia",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 26389,
+      "latitude": 26.466667,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Rangiya",
+      "name_lower": "rangiya",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.466667,
+      "longitude": 91.633333
+    },
+    {
+      "name": "Rangjoli",
+      "name_lower": "rangjoli",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 90.966667
+    },
+    {
+      "name": "Rangjuli",
+      "name_lower": "rangjuli",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.983333,
+      "longitude": 90.966667
+    },
+    {
+      "name": "Ranigodam",
+      "name_lower": "ranigodam",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.033333,
+      "longitude": 91.666667
+    },
+    {
+      "name": "Ranikhata",
+      "name_lower": "ranikhata",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.65,
+      "longitude": 90.4
+    },
+    {
+      "name": "Ratabari",
+      "name_lower": "ratabari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.6,
+      "longitude": 92.4
+    },
+    {
+      "name": "Rengma Pathar",
+      "name_lower": "rengma pathar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.166667,
+      "longitude": 93.916667
+    },
+    {
+      "name": "Rhutiagaon",
+      "name_lower": "rhutiagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.766667,
+      "longitude": 94.183333
+    },
+    {
+      "name": "Rihabari",
+      "name_lower": "rihabari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 91.183333
+    },
+    {
+      "name": "Rowta",
+      "name_lower": "rowta",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.7,
+      "longitude": 92.233333
+    },
+    {
+      "name": "Rupahi",
+      "name_lower": "rupahi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.416667,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Rupaigaon",
+      "name_lower": "rupaigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.45,
+      "longitude": 94.25
+    },
+    {
+      "name": "Rupohi",
+      "name_lower": "rupohi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.416667,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Rupshi",
+      "name_lower": "rupshi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 89.933333
+    },
+    {
+      "name": "Rupsi",
+      "name_lower": "rupsi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.133333,
+      "longitude": 89.933333
+    },
+    {
+      "name": "Sadiya",
+      "name_lower": "sadiya",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 95.666667
+    },
+    {
+      "name": "Saikhoa",
+      "name_lower": "saikhoa",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.766667,
+      "longitude": 95.6
+    },
+    {
+      "name": "Saikhoa Ghat",
+      "name_lower": "saikhoa ghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.766667,
+      "longitude": 95.6
+    },
+    {
+      "name": "Sakmuthi",
+      "name_lower": "sakmuthi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.516667,
+      "longitude": 93.016667
+    },
+    {
+      "name": "Salaguri",
+      "name_lower": "salaguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.066667,
+      "longitude": 94.833333
+    },
+    {
+      "name": "Salana",
+      "name_lower": "salana",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 92.966667
+    },
+    {
+      "name": "Salkocha",
+      "name_lower": "salkocha",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.25,
+      "longitude": 90.333333
+    },
+    {
+      "name": "Salmara-North",
+      "name_lower": "salmara-north",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 90.6
+    },
+    {
+      "name": "Samaguri",
+      "name_lower": "samaguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.416667,
+      "longitude": 92.85
+    },
+    {
+      "name": "Sandiya",
+      "name_lower": "sandiya",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.833333,
+      "longitude": 95.666667
+    },
+    {
+      "name": "Sandung",
+      "name_lower": "sandung",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.966667,
+      "longitude": 92.366667
+    },
+    {
+      "name": "Sapatgram",
+      "name_lower": "sapatgram",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 11714,
+      "latitude": 26.333333,
+      "longitude": 90.133333
+    },
+    {
+      "name": "Saralpara",
+      "name_lower": "saralpara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 90.25
+    },
+    {
+      "name": "Sarhed",
+      "name_lower": "sarhed",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.45,
+      "longitude": 93.366667
+    },
+    {
+      "name": "Sarkher",
+      "name_lower": "sarkher",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.9,
+      "longitude": 93.15
+    },
+    {
+      "name": "Serfanguri",
+      "name_lower": "serfanguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.583333,
+      "longitude": 90.216667
+    },
+    {
+      "name": "Shedhumi",
+      "name_lower": "shedhumi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.883333,
+      "longitude": 93.95
+    },
+    {
+      "name": "Siajuli",
+      "name_lower": "siajuli",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.35,
+      "longitude": 94.1
+    },
+    {
+      "name": "Siajuli Daflagaon",
+      "name_lower": "siajuli daflagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.35,
+      "longitude": 94.1
+    },
+    {
+      "name": "Sibsagar",
+      "name_lower": "sibsagar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 62107,
+      "latitude": 26.983333,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Sibsagor Naga Bhumi",
+      "name_lower": "sibsagor naga bhumi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.983333,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Sibságar Road",
+      "name_lower": "sibsagar road",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.916667,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Sidli",
+      "name_lower": "sidli",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.55,
+      "longitude": 90.466667
+    },
+    {
+      "name": "Siduma",
+      "name_lower": "siduma",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.883333,
+      "longitude": 93.95
+    },
+    {
+      "name": "Silchar",
+      "name_lower": "silchar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 152399,
+      "latitude": 24.816667,
+      "longitude": 92.8
+    },
+    {
+      "name": "Silghat",
+      "name_lower": "silghat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.616667,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Silkuri",
+      "name_lower": "silkuri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.733333,
+      "longitude": 92.783333
+    },
+    {
+      "name": "Silua",
+      "name_lower": "silua",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.55,
+      "longitude": 92.166667
+    },
+    {
+      "name": "Simaluguri",
+      "name_lower": "simaluguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.916667,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Simaluguri Junction",
+      "name_lower": "simaluguri junction",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.916667,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Simalunguri",
+      "name_lower": "simalunguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.916667,
+      "longitude": 94.766667
+    },
+    {
+      "name": "Simanagaon",
+      "name_lower": "simanagaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.433333,
+      "longitude": 92.966667
+    },
+    {
+      "name": "Simlabari",
+      "name_lower": "simlabari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.1,
+      "longitude": 90.45
+    },
+    {
+      "name": "Singlijan",
+      "name_lower": "singlijan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.9,
+      "longitude": 93.45
+    },
+    {
+      "name": "Singlijan Basti",
+      "name_lower": "singlijan basti",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.9,
+      "longitude": 93.45
+    },
+    {
+      "name": "Singmarigaon",
+      "name_lower": "singmarigaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Singri",
+      "name_lower": "singri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 92.483333
+    },
+    {
+      "name": "Sirtiso",
+      "name_lower": "sirtiso",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.833333,
+      "longitude": 92.533333
+    },
+    {
+      "name": "Sisi Bargaon",
+      "name_lower": "sisi bargaon",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.533333,
+      "longitude": 94.666667
+    },
+    {
+      "name": "Soalkuchi",
+      "name_lower": "soalkuchi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.168056,
+      "longitude": 91.571111
+    },
+    {
+      "name": "Sonaimukh",
+      "name_lower": "sonaimukh",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.716667,
+      "longitude": 92.9
+    },
+    {
+      "name": "Sonakhira",
+      "name_lower": "sonakhira",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.55,
+      "longitude": 92.3
+    },
+    {
+      "name": "Sookerating",
+      "name_lower": "sookerating",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.566667,
+      "longitude": 95.566667
+    },
+    {
+      "name": "Sorbhog",
+      "name_lower": "sorbhog",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 7614,
+      "latitude": 26.5,
+      "longitude": 90.866667
+    },
+    {
+      "name": "South Salmara",
+      "name_lower": "south salmara",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.916667,
+      "longitude": 90.016667
+    },
+    {
+      "name": "Sualkuchi",
+      "name_lower": "sualkuchi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 13918,
+      "latitude": 26.168056,
+      "longitude": 91.571111
+    },
+    {
+      "name": "Subankhata",
+      "name_lower": "subankhata",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.8,
+      "longitude": 91.416667
+    },
+    {
+      "name": "Sunphan",
+      "name_lower": "sunphan",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.816667,
+      "longitude": 90.166667
+    },
+    {
+      "name": "Suwalakuchi",
+      "name_lower": "suwalakuchi",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.168056,
+      "longitude": 91.571111
+    },
+    {
+      "name": "Tama Hat",
+      "name_lower": "tama hat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.3,
+      "longitude": 89.85
+    },
+    {
+      "name": "Tamarhat",
+      "name_lower": "tamarhat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.3,
+      "longitude": 89.85
+    },
+    {
+      "name": "Tamulpur",
+      "name_lower": "tamulpur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.666667,
+      "longitude": 91.566667
+    },
+    {
+      "name": "Tarabari",
+      "name_lower": "tarabari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.233333,
+      "longitude": 91.15
+    },
+    {
+      "name": "Tarabari Hat",
+      "name_lower": "tarabari hat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.233333,
+      "longitude": 91.15
+    },
+    {
+      "name": "Tengakhat",
+      "name_lower": "tengakhat",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.383333,
+      "longitude": 95.166667
+    },
+    {
+      "name": "Tengapania",
+      "name_lower": "tengapania",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.2,
+      "longitude": 94.633333
+    },
+    {
+      "name": "Teok",
+      "name_lower": "teok",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 94.416667
+    },
+    {
+      "name": "Tezpur",
+      "name_lower": "tezpur",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 58854,
+      "latitude": 26.633333,
+      "longitude": 92.8
+    },
+    {
+      "name": "Thaijuari",
+      "name_lower": "thaijuari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.566667,
+      "longitude": 92.966667
+    },
+    {
+      "name": "Thingje",
+      "name_lower": "thingje",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.266667,
+      "longitude": 93.383333
+    },
+    {
+      "name": "Tinkhang",
+      "name_lower": "tinkhang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.216667,
+      "longitude": 95.183333
+    },
+    {
+      "name": "Tinkhong",
+      "name_lower": "tinkhong",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.216667,
+      "longitude": 95.183333
+    },
+    {
+      "name": "Tinsukia",
+      "name_lower": "tinsukia",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 89377,
+      "latitude": 27.5,
+      "longitude": 95.366667
+    },
+    {
+      "name": "Tiplai",
+      "name_lower": "tiplai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.05,
+      "longitude": 90.983333
+    },
+    {
+      "name": "Titabar",
+      "name_lower": "titabar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.6,
+      "longitude": 94.2
+    },
+    {
+      "name": "Tukra Zhar",
+      "name_lower": "tukra zhar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.666667,
+      "longitude": 90.45
+    },
+    {
+      "name": "Tukrajar",
+      "name_lower": "tukrajar",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.666667,
+      "longitude": 90.45
+    },
+    {
+      "name": "Tumpung",
+      "name_lower": "tumpung",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.2,
+      "longitude": 93.15
+    },
+    {
+      "name": "Udalguri",
+      "name_lower": "udalguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": 15936,
+      "latitude": 26.766667,
+      "longitude": 92.133333
+    },
+    {
+      "name": "Udarband",
+      "name_lower": "udarband",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 24.883333,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Ulubam",
+      "name_lower": "ulubam",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.116667,
+      "longitude": 92.1
+    },
+    {
+      "name": "Ulubari",
+      "name_lower": "ulubari",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.366667,
+      "longitude": 91.3
+    },
+    {
+      "name": "Umpanai Christian",
+      "name_lower": "umpanai christian",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.933333,
+      "longitude": 92.3
+    },
+    {
+      "name": "Umswai",
+      "name_lower": "umswai",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 25.933333,
+      "longitude": 92.233333
+    },
+    {
+      "name": "Urao Basti",
+      "name_lower": "urao basti",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.85,
+      "longitude": 93.416667
+    },
+    {
+      "name": "Uriyamguri",
+      "name_lower": "uriyamguri",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 27.5,
+      "longitude": 94.5
+    },
+    {
+      "name": "Uttar Ginjia",
+      "name_lower": "uttar ginjia",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.833333,
+      "longitude": 93.25
+    },
+    {
+      "name": "Yimpang",
+      "name_lower": "yimpang",
+      "state": "Assam",
+      "state_hi": "असम",
+      "region_code": "03",
+      "population": "",
+      "latitude": 26.316667,
+      "longitude": 94.183333
+    }
+  ],
+  "meta": {
+    "title": "असम के शहर (Assam Cities) - मुफ़्त डाउनलोड",
+    "description": "असम राज्य के 544 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 544 cities and towns in Assam, India, with population and geographic coordinates. शामिल हैं 544 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "असम के शहर (Assam Cities) | ListBase",
+    "seo_description": "डाउनलोड असम के शहर (Assam Cities) — 544 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 544 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

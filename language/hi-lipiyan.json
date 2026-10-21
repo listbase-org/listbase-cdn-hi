@@ -1,0 +1,746 @@
+{
+  "id": "hi-lipiyan",
+  "name": "विश्व की लिपियाँ (ISO 15924 / CLDR हिन्दी)",
+  "title": "विश्व की लिपियाँ (ISO 15924 / CLDR हिन्दी)",
+  "description": "ISO 15924 लिपि कोड और CLDR hi लोकेल से उनके हिन्दी नाम।",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 141,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code": "Adlm",
+      "naam": "ऐडलम"
+    },
+    {
+      "id": 2,
+      "code": "Arab",
+      "naam": "अरबी"
+    },
+    {
+      "id": 3,
+      "code": "Arab-alt-variant",
+      "naam": "फ़ारसी-अरबी"
+    },
+    {
+      "id": 4,
+      "code": "Aran",
+      "naam": "नस्तालीक़"
+    },
+    {
+      "id": 5,
+      "code": "Armi",
+      "naam": "इम्पिरियल आर्मेनिक"
+    },
+    {
+      "id": 6,
+      "code": "Armn",
+      "naam": "आर्मेनियाई"
+    },
+    {
+      "id": 7,
+      "code": "Avst",
+      "naam": "अवेस्तन"
+    },
+    {
+      "id": 8,
+      "code": "Bali",
+      "naam": "बाली"
+    },
+    {
+      "id": 9,
+      "code": "Batk",
+      "naam": "बटकी"
+    },
+    {
+      "id": 10,
+      "code": "Beng",
+      "naam": "बांग्ला"
+    },
+    {
+      "id": 11,
+      "code": "Blis",
+      "naam": "ब्लिसिम्बॉल्स"
+    },
+    {
+      "id": 12,
+      "code": "Bopo",
+      "naam": "बोपोमोफ़ो"
+    },
+    {
+      "id": 13,
+      "code": "Brah",
+      "naam": "ब्रह्मी"
+    },
+    {
+      "id": 14,
+      "code": "Brai",
+      "naam": "ब्रेल"
+    },
+    {
+      "id": 15,
+      "code": "Bugi",
+      "naam": "बगिनीस"
+    },
+    {
+      "id": 16,
+      "code": "Buhd",
+      "naam": "बुहिद"
+    },
+    {
+      "id": 17,
+      "code": "Cakm",
+      "naam": "चकमा"
+    },
+    {
+      "id": 18,
+      "code": "Cans",
+      "naam": "यूनिफ़ाइड कैनेडियन एबोरिजनल सिलेबिक्स"
+    },
+    {
+      "id": 19,
+      "code": "Cari",
+      "naam": "करैन"
+    },
+    {
+      "id": 20,
+      "code": "Cham",
+      "naam": "चाम"
+    },
+    {
+      "id": 21,
+      "code": "Cher",
+      "naam": "चेरोकी"
+    },
+    {
+      "id": 22,
+      "code": "Cirt",
+      "naam": "किर्थ"
+    },
+    {
+      "id": 23,
+      "code": "Copt",
+      "naam": "कॉप्टिक"
+    },
+    {
+      "id": 24,
+      "code": "Cprt",
+      "naam": "काइप्रायट"
+    },
+    {
+      "id": 25,
+      "code": "Cyrl",
+      "naam": "सिरिलिक"
+    },
+    {
+      "id": 26,
+      "code": "Cyrs",
+      "naam": "ओल्ड चर्च स्लावोनिक सिरिलिक"
+    },
+    {
+      "id": 27,
+      "code": "Deva",
+      "naam": "देवनागरी"
+    },
+    {
+      "id": 28,
+      "code": "Dsrt",
+      "naam": "डेसरेट"
+    },
+    {
+      "id": 29,
+      "code": "Egyd",
+      "naam": "इजिप्शियन डेमोटिक"
+    },
+    {
+      "id": 30,
+      "code": "Egyh",
+      "naam": "इजिप्शियन हाइरेटिक"
+    },
+    {
+      "id": 31,
+      "code": "Egyp",
+      "naam": "इजिप्शियन हाइरोग्लिफ्स"
+    },
+    {
+      "id": 32,
+      "code": "Ethi",
+      "naam": "इथियोपियाई"
+    },
+    {
+      "id": 33,
+      "code": "Geok",
+      "naam": "जॉर्जियन खुतसुरी"
+    },
+    {
+      "id": 34,
+      "code": "Geor",
+      "naam": "जॉर्जियन"
+    },
+    {
+      "id": 35,
+      "code": "Glag",
+      "naam": "ग्लेगोलिटिक"
+    },
+    {
+      "id": 36,
+      "code": "Goth",
+      "naam": "गोथिक"
+    },
+    {
+      "id": 37,
+      "code": "Gran",
+      "naam": "ग्रन्थ"
+    },
+    {
+      "id": 38,
+      "code": "Grek",
+      "naam": "यूनानी"
+    },
+    {
+      "id": 39,
+      "code": "Gujr",
+      "naam": "गुजराती"
+    },
+    {
+      "id": 40,
+      "code": "Guru",
+      "naam": "गुरमुखी"
+    },
+    {
+      "id": 41,
+      "code": "Hanb",
+      "naam": "हांब"
+    },
+    {
+      "id": 42,
+      "code": "Hang",
+      "naam": "हंगुल"
+    },
+    {
+      "id": 43,
+      "code": "Hani",
+      "naam": "हान"
+    },
+    {
+      "id": 44,
+      "code": "Hano",
+      "naam": "हनुनू"
+    },
+    {
+      "id": 45,
+      "code": "Hans",
+      "naam": "सरलीकृत"
+    },
+    {
+      "id": 46,
+      "code": "Hans-alt-stand-alone",
+      "naam": "सरलीकृत हान"
+    },
+    {
+      "id": 47,
+      "code": "Hant",
+      "naam": "पारंपरिक"
+    },
+    {
+      "id": 48,
+      "code": "Hant-alt-stand-alone",
+      "naam": "पारंपरिक हान"
+    },
+    {
+      "id": 49,
+      "code": "Hebr",
+      "naam": "हिब्रू"
+    },
+    {
+      "id": 50,
+      "code": "Hira",
+      "naam": "हिरागाना"
+    },
+    {
+      "id": 51,
+      "code": "Hmng",
+      "naam": "पाहो ह्मोन्ग"
+    },
+    {
+      "id": 52,
+      "code": "Hrkt",
+      "naam": "जापानी सिलेबरीज़"
+    },
+    {
+      "id": 53,
+      "code": "Hung",
+      "naam": "ऑल्ड हंगेरियन"
+    },
+    {
+      "id": 54,
+      "code": "Inds",
+      "naam": "सिन्धु"
+    },
+    {
+      "id": 55,
+      "code": "Ital",
+      "naam": "पुरानी इटली"
+    },
+    {
+      "id": 56,
+      "code": "Jamo",
+      "naam": "जामो"
+    },
+    {
+      "id": 57,
+      "code": "Java",
+      "naam": "जावानीस"
+    },
+    {
+      "id": 58,
+      "code": "Jpan",
+      "naam": "जापानी"
+    },
+    {
+      "id": 59,
+      "code": "Kali",
+      "naam": "कायाह ली"
+    },
+    {
+      "id": 60,
+      "code": "Kana",
+      "naam": "काताकाना"
+    },
+    {
+      "id": 61,
+      "code": "Khar",
+      "naam": "खारोशथी"
+    },
+    {
+      "id": 62,
+      "code": "Khmr",
+      "naam": "खमेर"
+    },
+    {
+      "id": 63,
+      "code": "Knda",
+      "naam": "कन्नड़"
+    },
+    {
+      "id": 64,
+      "code": "Kore",
+      "naam": "कोरियाई"
+    },
+    {
+      "id": 65,
+      "code": "Kthi",
+      "naam": "कैथी"
+    },
+    {
+      "id": 66,
+      "code": "Lana",
+      "naam": "लाना"
+    },
+    {
+      "id": 67,
+      "code": "Laoo",
+      "naam": "लाओ"
+    },
+    {
+      "id": 68,
+      "code": "Latf",
+      "naam": "फ़्रैक्टुर लातिनी"
+    },
+    {
+      "id": 69,
+      "code": "Latg",
+      "naam": "गेली लातिनी"
+    },
+    {
+      "id": 70,
+      "code": "Latn",
+      "naam": "लैटिन"
+    },
+    {
+      "id": 71,
+      "code": "Lepc",
+      "naam": "लेपचा"
+    },
+    {
+      "id": 72,
+      "code": "Limb",
+      "naam": "लिम्बू"
+    },
+    {
+      "id": 73,
+      "code": "Lina",
+      "naam": "लीनियर A"
+    },
+    {
+      "id": 74,
+      "code": "Linb",
+      "naam": "लीनियर बी"
+    },
+    {
+      "id": 75,
+      "code": "Lyci",
+      "naam": "लिशियन"
+    },
+    {
+      "id": 76,
+      "code": "Lydi",
+      "naam": "लिडियन"
+    },
+    {
+      "id": 77,
+      "code": "Mand",
+      "naam": "मनडेन"
+    },
+    {
+      "id": 78,
+      "code": "Mani",
+      "naam": "मनीशीन"
+    },
+    {
+      "id": 79,
+      "code": "Maya",
+      "naam": "मयान हाइरोग्लिफ्स"
+    },
+    {
+      "id": 80,
+      "code": "Mero",
+      "naam": "मेरोइटिक"
+    },
+    {
+      "id": 81,
+      "code": "Mlym",
+      "naam": "मलयालम"
+    },
+    {
+      "id": 82,
+      "code": "Mong",
+      "naam": "मंगोलियाई"
+    },
+    {
+      "id": 83,
+      "code": "Moon",
+      "naam": "मून"
+    },
+    {
+      "id": 84,
+      "code": "Mtei",
+      "naam": "मेइतेइ मायेक"
+    },
+    {
+      "id": 85,
+      "code": "Mymr",
+      "naam": "म्यांमार"
+    },
+    {
+      "id": 86,
+      "code": "Nkoo",
+      "naam": "एन्‘को"
+    },
+    {
+      "id": 87,
+      "code": "Ogam",
+      "naam": "ओगम"
+    },
+    {
+      "id": 88,
+      "code": "Olck",
+      "naam": "ओल चिकी"
+    },
+    {
+      "id": 89,
+      "code": "Orkh",
+      "naam": "ओरखोन"
+    },
+    {
+      "id": 90,
+      "code": "Orya",
+      "naam": "ओड़िया"
+    },
+    {
+      "id": 91,
+      "code": "Osma",
+      "naam": "ओस्मान्या"
+    },
+    {
+      "id": 92,
+      "code": "Perm",
+      "naam": "ओल्ड परमिक"
+    },
+    {
+      "id": 93,
+      "code": "Phag",
+      "naam": "फाग्स-पा"
+    },
+    {
+      "id": 94,
+      "code": "Phli",
+      "naam": "इंस्क्रिपश्नल पाहलवी"
+    },
+    {
+      "id": 95,
+      "code": "Phlp",
+      "naam": "सॉल्टर पाहलवी"
+    },
+    {
+      "id": 96,
+      "code": "Phlv",
+      "naam": "बुक पाहलवी"
+    },
+    {
+      "id": 97,
+      "code": "Phnx",
+      "naam": "फोनिशियन"
+    },
+    {
+      "id": 98,
+      "code": "Plrd",
+      "naam": "पॉलार्ड फोनेटिक"
+    },
+    {
+      "id": 99,
+      "code": "Prti",
+      "naam": "इंस्क्रिपश्नल पार्थियन"
+    },
+    {
+      "id": 100,
+      "code": "Qaag",
+      "naam": "ज़ौजी"
+    },
+    {
+      "id": 101,
+      "code": "Rjng",
+      "naam": "रीजांग"
+    },
+    {
+      "id": 102,
+      "code": "Rohg",
+      "naam": "हनिफ़ि"
+    },
+    {
+      "id": 103,
+      "code": "Roro",
+      "naam": "रोन्गोरोन्गो"
+    },
+    {
+      "id": 104,
+      "code": "Runr",
+      "naam": "रूनिक"
+    },
+    {
+      "id": 105,
+      "code": "Samr",
+      "naam": "समरिटन"
+    },
+    {
+      "id": 106,
+      "code": "Sara",
+      "naam": "सराती"
+    },
+    {
+      "id": 107,
+      "code": "Saur",
+      "naam": "सौराष्ट्र"
+    },
+    {
+      "id": 108,
+      "code": "Sgnw",
+      "naam": "सांकेतिक लेख"
+    },
+    {
+      "id": 109,
+      "code": "Shaw",
+      "naam": "शावियान"
+    },
+    {
+      "id": 110,
+      "code": "Sinh",
+      "naam": "सिंहली"
+    },
+    {
+      "id": 111,
+      "code": "Sund",
+      "naam": "सूडानी"
+    },
+    {
+      "id": 112,
+      "code": "Sylo",
+      "naam": "सिलोती नागरी"
+    },
+    {
+      "id": 113,
+      "code": "Syrc",
+      "naam": "सिरिएक"
+    },
+    {
+      "id": 114,
+      "code": "Syre",
+      "naam": "एस्त्रेन्जेलो सिरिएक"
+    },
+    {
+      "id": 115,
+      "code": "Syrj",
+      "naam": "पश्चिम सिरिएक"
+    },
+    {
+      "id": 116,
+      "code": "Syrn",
+      "naam": "पूर्व सिरिएक"
+    },
+    {
+      "id": 117,
+      "code": "Tagb",
+      "naam": "तगबन्वा"
+    },
+    {
+      "id": 118,
+      "code": "Tale",
+      "naam": "ताई ली"
+    },
+    {
+      "id": 119,
+      "code": "Talu",
+      "naam": "नया ताई लु"
+    },
+    {
+      "id": 120,
+      "code": "Taml",
+      "naam": "तमिल"
+    },
+    {
+      "id": 121,
+      "code": "Tavt",
+      "naam": "ताई विएत"
+    },
+    {
+      "id": 122,
+      "code": "Telu",
+      "naam": "तेलुगू"
+    },
+    {
+      "id": 123,
+      "code": "Teng",
+      "naam": "तेन्गवार"
+    },
+    {
+      "id": 124,
+      "code": "Tfng",
+      "naam": "तिफ़िनाघ"
+    },
+    {
+      "id": 125,
+      "code": "Tglg",
+      "naam": "टैगालोग"
+    },
+    {
+      "id": 126,
+      "code": "Thaa",
+      "naam": "थाना"
+    },
+    {
+      "id": 127,
+      "code": "Thai",
+      "naam": "थाई"
+    },
+    {
+      "id": 128,
+      "code": "Tibt",
+      "naam": "तिब्बती"
+    },
+    {
+      "id": 129,
+      "code": "Ugar",
+      "naam": "युगारिटिक"
+    },
+    {
+      "id": 130,
+      "code": "Vaii",
+      "naam": "वाई"
+    },
+    {
+      "id": 131,
+      "code": "Visp",
+      "naam": "विसिबल स्पीच"
+    },
+    {
+      "id": 132,
+      "code": "Xpeo",
+      "naam": "पुरानी फारसी"
+    },
+    {
+      "id": 133,
+      "code": "Xsux",
+      "naam": "सुमेरो अक्कादियन सुनिफॉर्म"
+    },
+    {
+      "id": 134,
+      "code": "Yiii",
+      "naam": "यी"
+    },
+    {
+      "id": 135,
+      "code": "Zinh",
+      "naam": "विरासत"
+    },
+    {
+      "id": 136,
+      "code": "Zmth",
+      "naam": "गणितीय संकेतन"
+    },
+    {
+      "id": 137,
+      "code": "Zsye",
+      "naam": "ईमोजी"
+    },
+    {
+      "id": 138,
+      "code": "Zsym",
+      "naam": "चिह्न"
+    },
+    {
+      "id": 139,
+      "code": "Zxxx",
+      "naam": "अलिखित"
+    },
+    {
+      "id": 140,
+      "code": "Zyyy",
+      "naam": "सामान्य"
+    },
+    {
+      "id": 141,
+      "code": "Zzzz",
+      "naam": "अज्ञात लिपि"
+    }
+  ],
+  "meta": {
+    "title": "विश्व की लिपियाँ (ISO 15924 / CLDR हिन्दी) - मुफ़्त डाउनलोड",
+    "description": "ISO 15924 लिपि कोड और CLDR hi लोकेल से उनके हिन्दी नाम। शामिल हैं 141 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "विश्व की लिपियाँ (ISO 15924 / CLDR हिन्दी) | ListBase",
+    "seo_description": "डाउनलोड विश्व की लिपियाँ (ISO 15924 / CLDR हिन्दी) — 141 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 141 रिकॉर्ड / 3 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

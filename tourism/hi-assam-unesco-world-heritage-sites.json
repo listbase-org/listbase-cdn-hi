@@ -1,0 +1,144 @@
+{
+  "id": "hi-assam-unesco-world-heritage-sites",
+  "name": "Assam के यूनेस्को विश्व धरोहर स्थल (Assam UNESCO World Heritage Sites)",
+  "title": "Assam के यूनेस्को विश्व धरोहर स्थल (Assam UNESCO World Heritage Sites)",
+  "description": "UNESCO World Heritage Sites located in Assam, India (3 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"Assam\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "image_url",
+      "label": "Image Url",
+      "type": "string"
+    },
+    {
+      "key": "wiki_url",
+      "label": "Wiki Url",
+      "type": "string"
+    },
+    {
+      "key": "asi_ticket_url",
+      "label": "Asi Ticket Url",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_slug",
+      "label": "Country Slug",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 19,
+      "name": "Kaziranga National Park",
+      "name_slug": "kaziranga-national-park",
+      "state": "Assam",
+      "state_slug": "assam",
+      "latitude": 26.5775,
+      "longitude": 93.1711,
+      "description": "A national park famous for its one-horned rhinoceros population. Also home to tigers, elephants, and various bird species.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/One_horned_Rhino_at_Kaziranga.jpg/800px-One_horned_Rhino_at_Kaziranga.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Kaziranga_National_Park",
+      "asi_ticket_url": "https://kaziranganationalpark-official.in/online-ticket-booking/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 20,
+      "name": "Manas Wildlife Sanctuary",
+      "name_slug": "manas-wildlife-sanctuary",
+      "state": "Assam",
+      "state_slug": "assam",
+      "latitude": 26.7178,
+      "longitude": 91.0035,
+      "description": "A UNESCO Natural World Heritage site and a Project Tiger reserve. Known for its rare and endangered endemic wildlife.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Manas_River.jpg/800px-Manas_River.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Manas_National_Park",
+      "asi_ticket_url": "https://www.manastigerproject.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 41,
+      "name": "Moidams - Mound-Burial System of the Ahom Dynasty",
+      "name_slug": "moidams-mound-burial-system-of-the-ahom-dynasty",
+      "state": "Assam",
+      "state_slug": "assam",
+      "latitude": 26.984,
+      "longitude": 94.918,
+      "description": "Funerary mounds of Ahom royalty. Represents unique burial traditions and architectural heritage of medieval Assam.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Charaideo_Maidam.jpg/800px-Charaideo_Maidam.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Charaideo",
+      "asi_ticket_url": "https://assamtourism.gov.in/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    }
+  ],
+  "meta": {
+    "title": "Assam के यूनेस्को विश्व धरोहर स्थल (Assam UNESCO World Heritage Sites) - मुफ़्त डाउनलोड",
+    "description": "UNESCO World Heritage Sites located in Assam, India (3 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"Assam\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11). शामिल हैं 3 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Assam के यूनेस्को विश्व धरोहर स्थल (Assam UNESCO World Heritage Sites) | ListBase",
+    "seo_description": "डाउनलोड Assam के यूनेस्को विश्व धरोहर स्थल (Assam UNESCO World Heritage Sites) — 3 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 3 रिकॉर्ड / 14 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

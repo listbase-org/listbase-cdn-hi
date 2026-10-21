@@ -1,0 +1,149 @@
+{
+  "id": "hi-gandhinagar-bank",
+  "name": "Gandhinagar में बैंक — SWIFT/BIC कोड",
+  "title": "Gandhinagar में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Gandhinagar, India. Subset of hi-bank. Source city string preserved verbatim as \"GANDHINAGAR\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 301,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GANDHINAGAR",
+      "branch": "(GANDHINAGAR GJ)",
+      "swift_code": "AXISINBB448"
+    },
+    {
+      "id": 302,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GANDHINAGAR",
+      "branch": "(GIFT CITY IFSC BANKING UNIT)",
+      "swift_code": "AXISINBBGFT"
+    },
+    {
+      "id": 777,
+      "bank": "BANK OF BARODA",
+      "city": "GANDHINAGAR",
+      "branch": "(INTERNATIONAL BANKING UNIT(IBU) BRANCH)",
+      "swift_code": "BARBINBBIBU"
+    },
+    {
+      "id": 956,
+      "bank": "BANK OF INDIA",
+      "city": "GANDHINAGAR",
+      "branch": "(GANDHINAGAR)",
+      "swift_code": "BKIDINBBGAN"
+    },
+    {
+      "id": 1873,
+      "bank": "ICICI BANK LIMITED",
+      "city": "GANDHINAGAR",
+      "branch": "(ICICI GIFT CITY BRANCH)",
+      "swift_code": "ICICINBBIBU"
+    },
+    {
+      "id": 1919,
+      "bank": "IDBI BANK LIMITED",
+      "city": "GANDHINAGAR",
+      "branch": "(GIFT CITY,GANDHINAGAR)",
+      "swift_code": "IBKLINBBGFT"
+    },
+    {
+      "id": 1986,
+      "bank": "IDFC BANK LIMITED",
+      "city": "GANDHINAGAR",
+      "branch": "( GIFT CITY, GANDHINAGAR)",
+      "swift_code": "IDFBINBBIBU"
+    },
+    {
+      "id": 1999,
+      "bank": "INDIA INTERNATIONAL CLEARING CORPORATION(IFSC LIMITED",
+      "city": "GANDHINAGAR",
+      "branch": "",
+      "swift_code": "IICCINBB"
+    },
+    {
+      "id": 2232,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "GANDHINAGAR",
+      "branch": "(IFSC BANKING UNIT (IBU))",
+      "swift_code": "INDBINBBGFT"
+    },
+    {
+      "id": 2389,
+      "bank": "KOTAK MAHINDRA BANK LIMITED",
+      "city": "GANDHINAGAR",
+      "branch": "(GIFT CITY, GANDHINAGAR)",
+      "swift_code": "KKBKINBBGFT"
+    },
+    {
+      "id": 2818,
+      "bank": "RBL BANK LTD.",
+      "city": "GANDHINAGAR",
+      "branch": "(GIFT CITY)",
+      "swift_code": "RATNINBBGFT"
+    },
+    {
+      "id": 3114,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GANDHINAGAR",
+      "branch": "(GANDHINAGAR MAIN BRANCH)",
+      "swift_code": "SBININBB255"
+    },
+    {
+      "id": 3115,
+      "bank": "STATE BANK OF INDIA",
+      "city": "GANDHINAGAR",
+      "branch": "(IFSC BANKING UNIT)",
+      "swift_code": "SBININBB834"
+    },
+    {
+      "id": 4269,
+      "bank": "YES BANK LIMITED",
+      "city": "GANDHINAGAR",
+      "branch": "",
+      "swift_code": "YESBINBBIBU"
+    }
+  ],
+  "meta": {
+    "title": "Gandhinagar में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Gandhinagar, India. Subset of hi-bank. Source city string preserved verbatim as \"GANDHINAGAR\". शामिल हैं 14 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Gandhinagar में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Gandhinagar में बैंक — SWIFT/BIC कोड — 14 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 14 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

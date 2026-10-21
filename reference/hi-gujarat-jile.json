@@ -1,0 +1,472 @@
+{
+  "id": "hi-gujarat-jile",
+  "name": "Gujarat के जिले (Gujarat Districts)",
+  "title": "Gujarat के जिले (Gujarat Districts)",
+  "description": "33 districts in Gujarat (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Gujarat\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "AH",
+      "district": "Ahmedabad",
+      "district_slug": "ahmedabad",
+      "headquarters": "Ahmedabad",
+      "population": 7208200,
+      "area_km2": 7170,
+      "density_per_km2": 890
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "AM",
+      "district": "Amreli",
+      "district_slug": "amreli",
+      "headquarters": "Amreli",
+      "population": 1513614,
+      "area_km2": 6760,
+      "density_per_km2": 205
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "AN",
+      "district": "Anand",
+      "district_slug": "anand",
+      "headquarters": "Anand",
+      "population": 2090276,
+      "area_km2": 2942,
+      "density_per_km2": 711
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "AR",
+      "district": "Aravalli",
+      "district_slug": "aravalli",
+      "headquarters": "Modasa",
+      "population": 1051746,
+      "area_km2": 3217,
+      "density_per_km2": 327
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "BK",
+      "district": "Banaskantha",
+      "district_slug": "banaskantha",
+      "headquarters": "Palanpur",
+      "population": 3116045,
+      "area_km2": 12703,
+      "density_per_km2": 290
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "BR",
+      "district": "Bharuch",
+      "district_slug": "bharuch",
+      "headquarters": "Bharuch",
+      "population": 1550822,
+      "area_km2": 6524,
+      "density_per_km2": 238
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "BV",
+      "district": "Bhavnagar",
+      "district_slug": "bhavnagar",
+      "headquarters": "Bhavnagar",
+      "population": 2877961,
+      "area_km2": 11155,
+      "density_per_km2": 288
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "BT",
+      "district": "Botad",
+      "district_slug": "botad",
+      "headquarters": "Botad",
+      "population": 656005,
+      "area_km2": 2564,
+      "density_per_km2": 256
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "CU",
+      "district": "Chhota Udaipur",
+      "district_slug": "chhota-udaipur",
+      "headquarters": "Chhota Udaipur",
+      "population": 1071831,
+      "area_km2": 3237,
+      "density_per_km2": 331
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "DA",
+      "district": "Dahod",
+      "district_slug": "dahod",
+      "headquarters": "Dahod",
+      "population": 2126558,
+      "area_km2": 3642,
+      "density_per_km2": 582
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "DG",
+      "district": "Dang",
+      "district_slug": "dang",
+      "headquarters": "Ahwa",
+      "population": 226769,
+      "area_km2": 1764,
+      "density_per_km2": 129
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "DD",
+      "district": "Devbhumi Dwarka",
+      "district_slug": "devbhumi-dwarka",
+      "headquarters": "Khambhalia",
+      "population": 752484,
+      "area_km2": 5684,
+      "density_per_km2": 132
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "GA",
+      "district": "Gandhinagar",
+      "district_slug": "gandhinagar",
+      "headquarters": "Gandhinagar",
+      "population": 1387478,
+      "area_km2": 2163,
+      "density_per_km2": 660
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "GS",
+      "district": "Gir Somnath",
+      "district_slug": "gir-somnath",
+      "headquarters": "Veraval",
+      "population": 1217477,
+      "area_km2": 3754,
+      "density_per_km2": 324
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "JA",
+      "district": "Jamnagar",
+      "district_slug": "jamnagar",
+      "headquarters": "Jamnagar",
+      "population": 2159130,
+      "area_km2": 14125,
+      "density_per_km2": 153
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "JU",
+      "district": "Junagadh",
+      "district_slug": "junagadh",
+      "headquarters": "Junagadh",
+      "population": 2742291,
+      "area_km2": 8839,
+      "density_per_km2": 310
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "KH",
+      "district": "Kheda",
+      "district_slug": "kheda",
+      "headquarters": "Nadiad",
+      "population": 2298934,
+      "area_km2": 4215,
+      "density_per_km2": 541
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "KA",
+      "district": "Kutch",
+      "district_slug": "kutch",
+      "headquarters": "Bhuj",
+      "population": 2090313,
+      "area_km2": 45652,
+      "density_per_km2": 46
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "MH",
+      "district": "Mahisagar",
+      "district_slug": "mahisagar",
+      "headquarters": "Lunavada",
+      "population": 994624,
+      "area_km2": 2500,
+      "density_per_km2": 440
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "MA",
+      "district": "Mehsana",
+      "district_slug": "mehsana",
+      "headquarters": "Mehsana",
+      "population": 2027727,
+      "area_km2": 4386,
+      "density_per_km2": 462
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "MB",
+      "district": "Morbi",
+      "district_slug": "morbi",
+      "headquarters": "Morbi",
+      "population": 960329,
+      "area_km2": 4871,
+      "density_per_km2": 197
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "NR",
+      "district": "Narmada",
+      "district_slug": "narmada",
+      "headquarters": "Rajpipla",
+      "population": 590379,
+      "area_km2": 2749,
+      "density_per_km2": 214
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "NV",
+      "district": "Navsari",
+      "district_slug": "navsari",
+      "headquarters": "Navsari",
+      "population": 1330711,
+      "area_km2": 2211,
+      "density_per_km2": 602
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "PM",
+      "district": "Panchmahal",
+      "district_slug": "panchmahal",
+      "headquarters": "Godhra",
+      "population": 2388267,
+      "area_km2": 5219,
+      "density_per_km2": 458
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "PA",
+      "district": "Patan",
+      "district_slug": "patan",
+      "headquarters": "Patan",
+      "population": 1342746,
+      "area_km2": 5738,
+      "density_per_km2": 234
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "PO",
+      "district": "Porbandar",
+      "district_slug": "porbandar",
+      "headquarters": "Porbandar",
+      "population": 586062,
+      "area_km2": 2294,
+      "density_per_km2": 255
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "RA",
+      "district": "Rajkot",
+      "district_slug": "rajkot",
+      "headquarters": "Rajkot",
+      "population": 3157676,
+      "area_km2": 11203,
+      "density_per_km2": 282
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "SK",
+      "district": "Sabarkantha",
+      "district_slug": "sabarkantha",
+      "headquarters": "Himatnagar",
+      "population": 2427346,
+      "area_km2": 7390,
+      "density_per_km2": 328
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "ST",
+      "district": "Surat",
+      "district_slug": "surat",
+      "headquarters": "Surat",
+      "population": 6081322,
+      "area_km2": 4418,
+      "density_per_km2": 953
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "SN",
+      "district": "Surendranagar",
+      "district_slug": "surendranagar",
+      "headquarters": "Surendranagar",
+      "population": 1755873,
+      "area_km2": 10489,
+      "density_per_km2": 167
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "TA",
+      "district": "Tapi",
+      "district_slug": "tapi",
+      "headquarters": "Vyara",
+      "population": 806489,
+      "area_km2": 3435,
+      "density_per_km2": 249
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "VD",
+      "district": "Vadodara",
+      "district_slug": "vadodara",
+      "headquarters": "Vadodara",
+      "population": 3639775,
+      "area_km2": 4312,
+      "density_per_km2": 467
+    },
+    {
+      "state": "Gujarat",
+      "state_code": "GJ",
+      "state_slug": "gujarat",
+      "district_code": "VL",
+      "district": "Valsad",
+      "district_slug": "valsad",
+      "headquarters": "Valsad",
+      "population": 1703068,
+      "area_km2": 3034,
+      "density_per_km2": 561
+    }
+  ],
+  "meta": {
+    "title": "Gujarat के जिले (Gujarat Districts) - मुफ़्त डाउनलोड",
+    "description": "33 districts in Gujarat (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Gujarat\". शामिल हैं 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Gujarat के जिले (Gujarat Districts) | ListBase",
+    "seo_description": "डाउनलोड Gujarat के जिले (Gujarat Districts) — 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 33 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

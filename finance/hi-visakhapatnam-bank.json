@@ -1,0 +1,282 @@
+{
+  "id": "hi-visakhapatnam-bank",
+  "name": "Visakhapatnam में बैंक — SWIFT/BIC कोड",
+  "title": "Visakhapatnam में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Visakhapatnam, India. Subset of hi-bank. Source city string preserved verbatim as \"VISAKHAPATNAM\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 127,
+      "bank": "ANDHRA BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "",
+      "swift_code": "ANDBINBBSPT"
+    },
+    {
+      "id": 128,
+      "bank": "ANDHRA BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "",
+      "swift_code": "ANDBINBBVIS"
+    },
+    {
+      "id": 649,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VISAKHAPATNAM",
+      "branch": "(GAJUWAKA, VISHAKAPATNAM AP)",
+      "swift_code": "AXISINBB075"
+    },
+    {
+      "id": 650,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VISAKHAPATNAM",
+      "branch": "(MVP COLONY, VISAKHAPATNAM (AP))",
+      "swift_code": "AXISINBB557"
+    },
+    {
+      "id": 651,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VISAKHAPATNAM",
+      "branch": "(RAMNAGAR, VISAKHAPATNAM (AP))",
+      "swift_code": "AXISINBB554"
+    },
+    {
+      "id": 652,
+      "bank": "AXIS BANK LIMITED",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VIZAG BRANCH)",
+      "swift_code": "AXISINBB369"
+    },
+    {
+      "id": 730,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "VISAKHAPATNAM",
+      "branch": "(GAJUWAKA BRANCH)",
+      "swift_code": "UTIBINB1075"
+    },
+    {
+      "id": 731,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM)",
+      "swift_code": "UTIBINB1369"
+    },
+    {
+      "id": 898,
+      "bank": "BANK OF BARODA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(FOREIGN EXCHANGE DEPT., VADLAPWDI BRANCH)",
+      "swift_code": "BARBINBBVDP"
+    },
+    {
+      "id": 1120,
+      "bank": "BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM MID CORPORATE BANKING BRANCH)",
+      "swift_code": "BKIDINBBVOS"
+    },
+    {
+      "id": 1121,
+      "bank": "BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM)",
+      "swift_code": "BKIDINBBVIP"
+    },
+    {
+      "id": 1160,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM)",
+      "swift_code": "MAHBINBBVSP"
+    },
+    {
+      "id": 1392,
+      "bank": "CANARA BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "(OVERSEAS BRANCH VISAKHAPATNAM)",
+      "swift_code": "CNRBINBBVOB"
+    },
+    {
+      "id": 1393,
+      "bank": "CANARA BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "(STEEL PLANT,VISAKHAPATNAM BRANCH)",
+      "swift_code": "CNRBINBBVSP"
+    },
+    {
+      "id": 1466,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISHAKAPATINAM, HYDERABAD)",
+      "swift_code": "CBININBBVIS"
+    },
+    {
+      "id": 1611,
+      "bank": "CORPORATION BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "",
+      "swift_code": "CORPINBB158"
+    },
+    {
+      "id": 1896,
+      "bank": "ICICI BANK LIMITED",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM BRANCH)",
+      "swift_code": "ICICINBB060"
+    },
+    {
+      "id": 2093,
+      "bank": "INDIAN BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM BRANCH)",
+      "swift_code": "IDIBINBBVSK"
+    },
+    {
+      "id": 2220,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "",
+      "swift_code": "IOBAINBB121"
+    },
+    {
+      "id": 2546,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "VISAKHAPATNAM",
+      "branch": "(1056)",
+      "swift_code": "ORBCINBBVIS"
+    },
+    {
+      "id": 2810,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM)",
+      "swift_code": "PUNBINBBVIS"
+    },
+    {
+      "id": 3702,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(BHOPAL CIRCLE)",
+      "swift_code": "SBININBBH72"
+    },
+    {
+      "id": 3703,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(BHPV VISAKHAPATNAM)",
+      "swift_code": "SBININBB305"
+    },
+    {
+      "id": 3704,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB745"
+    },
+    {
+      "id": 3705,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(NRI BRANCH)",
+      "swift_code": "SBININBB726"
+    },
+    {
+      "id": 3706,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB123"
+    },
+    {
+      "id": 3707,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(SME VISAKHAPATNAM)",
+      "swift_code": "SBININBB833"
+    },
+    {
+      "id": 3708,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(STEEL PROJECT BRANCH)",
+      "swift_code": "SBININBB145"
+    },
+    {
+      "id": 3709,
+      "bank": "STATE BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM)",
+      "swift_code": "SBININBB326"
+    },
+    {
+      "id": 3848,
+      "bank": "SYNDICATE BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM BRANCH)",
+      "swift_code": "SYNBINBB032"
+    },
+    {
+      "id": 4029,
+      "bank": "UCO BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM BRANCH)",
+      "swift_code": "UCBAINBB324"
+    },
+    {
+      "id": 4131,
+      "bank": "UNION BANK OF INDIA",
+      "city": "VISAKHAPATNAM",
+      "branch": "(SSI FINANCE BRANCH)",
+      "swift_code": "UBININBBVIS"
+    },
+    {
+      "id": 4254,
+      "bank": "VIJAYA BANK",
+      "city": "VISAKHAPATNAM",
+      "branch": "(VISAKHAPATNAM BRANCH)",
+      "swift_code": "VIJBINBBVIZ"
+    }
+  ],
+  "meta": {
+    "title": "Visakhapatnam में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Visakhapatnam, India. Subset of hi-bank. Source city string preserved verbatim as \"VISAKHAPATNAM\". शामिल हैं 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Visakhapatnam में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Visakhapatnam में बैंक — SWIFT/BIC कोड — 33 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 33 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "id": "hi-haryana-jile",
+  "name": "Haryana के जिले (Haryana Districts)",
+  "title": "Haryana के जिले (Haryana Districts)",
+  "description": "22 districts in Haryana (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Haryana\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "AM",
+      "district": "Ambala",
+      "district_slug": "ambala",
+      "headquarters": "Ambala",
+      "population": 1136784,
+      "area_km2": 1569,
+      "density_per_km2": 722
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "BH",
+      "district": "Bhiwani",
+      "district_slug": "bhiwani",
+      "headquarters": "Bhiwani",
+      "population": 1629109,
+      "area_km2": 5140,
+      "density_per_km2": 341
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "CD",
+      "district": "Charkhi Dadri",
+      "district_slug": "charkhi-dadri",
+      "headquarters": "Charkhi Dadri",
+      "population": 502276,
+      "area_km2": 1370,
+      "density_per_km2": 367
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "HR",
+      "district": "Faridabad",
+      "district_slug": "faridabad",
+      "headquarters": "Faridabad",
+      "population": 1798954,
+      "area_km2": 783,
+      "density_per_km2": 2298
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "FT",
+      "district": "Fatehabad",
+      "district_slug": "fatehabad",
+      "headquarters": "Fatehabad",
+      "population": 941522,
+      "area_km2": 2538,
+      "density_per_km2": 371
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "GU",
+      "district": "Gurugram",
+      "district_slug": "gurugram",
+      "headquarters": "Gurugram",
+      "population": 1514085,
+      "area_km2": 1258,
+      "density_per_km2": 1241
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "HI",
+      "district": "Hisar",
+      "district_slug": "hisar",
+      "headquarters": "Hisar",
+      "population": 1742815,
+      "area_km2": 3788,
+      "density_per_km2": 438
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "JH",
+      "district": "Jhajjar",
+      "district_slug": "jhajjar",
+      "headquarters": "Jhajjar",
+      "population": 956907,
+      "area_km2": 1868,
+      "density_per_km2": 522
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "JI",
+      "district": "Jind",
+      "district_slug": "jind",
+      "headquarters": "Jind",
+      "population": 1332042,
+      "area_km2": 2702,
+      "density_per_km2": 493
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "KT",
+      "district": "Kaithal",
+      "district_slug": "kaithal",
+      "headquarters": "Kaithal",
+      "population": 1072861,
+      "area_km2": 2799,
+      "density_per_km2": 467
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "KR",
+      "district": "Karnal",
+      "district_slug": "karnal",
+      "headquarters": "Karnal",
+      "population": 1506323,
+      "area_km2": 2471,
+      "density_per_km2": 598
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "KU",
+      "district": "Kurukshetra",
+      "district_slug": "kurukshetra",
+      "headquarters": "Kurukshetra",
+      "population": 964231,
+      "area_km2": 1530,
+      "density_per_km2": 630
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "MA",
+      "district": "Mahendragarh",
+      "district_slug": "mahendragarh",
+      "headquarters": "Narnaul",
+      "population": 921680,
+      "area_km2": 1900,
+      "density_per_km2": 485
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "MW",
+      "district": "Nuh",
+      "district_slug": "nuh",
+      "headquarters": "Nuh",
+      "population": 1089406,
+      "area_km2": 1765,
+      "density_per_km2": 729
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "PW",
+      "district": "Palwal",
+      "district_slug": "palwal",
+      "headquarters": "Palwal",
+      "population": 1040493,
+      "area_km2": 1367,
+      "density_per_km2": 761
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "PK",
+      "district": "Panchkula",
+      "district_slug": "panchkula",
+      "headquarters": "Panchkula",
+      "population": 558890,
+      "area_km2": 816,
+      "density_per_km2": 622
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "PP",
+      "district": "Panipat",
+      "district_slug": "panipat",
+      "headquarters": "Panipat",
+      "population": 1202811,
+      "area_km2": 1250,
+      "density_per_km2": 949
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "RE",
+      "district": "Rewari",
+      "district_slug": "rewari",
+      "headquarters": "Rewari",
+      "population": 896129,
+      "area_km2": 1559,
+      "density_per_km2": 562
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "RO",
+      "district": "Rohtak",
+      "district_slug": "rohtak",
+      "headquarters": "Rohtak",
+      "population": 1058683,
+      "area_km2": 1668,
+      "density_per_km2": 607
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "SI",
+      "district": "Sirsa",
+      "district_slug": "sirsa",
+      "headquarters": "Sirsa",
+      "population": 1295114,
+      "area_km2": 4276,
+      "density_per_km2": 303
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "SNP",
+      "district": "Sonipat",
+      "district_slug": "sonipat",
+      "headquarters": "Sonipat",
+      "population": 1480080,
+      "area_km2": 2260,
+      "density_per_km2": 697
+    },
+    {
+      "state": "Haryana",
+      "state_code": "HR",
+      "state_slug": "haryana",
+      "district_code": "YN",
+      "district": "Yamunanagar",
+      "district_slug": "yamunanagar",
+      "headquarters": "Yamunanagar",
+      "population": 1214162,
+      "area_km2": 1756,
+      "density_per_km2": 687
+    }
+  ],
+  "meta": {
+    "title": "Haryana के जिले (Haryana Districts) - मुफ़्त डाउनलोड",
+    "description": "22 districts in Haryana (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Haryana\". शामिल हैं 22 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Haryana के जिले (Haryana Districts) | ListBase",
+    "seo_description": "डाउनलोड Haryana के जिले (Haryana Districts) — 22 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 22 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

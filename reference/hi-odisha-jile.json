@@ -1,0 +1,436 @@
+{
+  "id": "hi-odisha-jile",
+  "name": "Odisha के जिले (Odisha Districts)",
+  "title": "Odisha के जिले (Odisha Districts)",
+  "description": "30 districts in Odisha (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Odisha\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "district_code",
+      "label": "District Code",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "district_slug",
+      "label": "District Slug",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "density_per_km2",
+      "label": "Density Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "AN",
+      "district": "Angul",
+      "district_slug": "angul",
+      "headquarters": "Angul",
+      "population": 1271703,
+      "area_km2": 6232,
+      "density_per_km2": 199
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "BL",
+      "district": "Balangir",
+      "district_slug": "balangir",
+      "headquarters": "Balangir",
+      "population": 1648574,
+      "area_km2": 6575,
+      "density_per_km2": 251
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "BW",
+      "district": "Balasore",
+      "district_slug": "balasore",
+      "headquarters": "Balasore",
+      "population": 2317419,
+      "area_km2": 3634,
+      "density_per_km2": 609
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "BR",
+      "district": "Bargarh",
+      "district_slug": "bargarh",
+      "headquarters": "Bargarh",
+      "population": 1478833,
+      "area_km2": 5837,
+      "density_per_km2": 253
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "BH",
+      "district": "Bhadrak",
+      "district_slug": "bhadrak",
+      "headquarters": "Bhadrak",
+      "population": 1506522,
+      "area_km2": 2505,
+      "density_per_km2": 601
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "BD",
+      "district": "Boudh",
+      "district_slug": "boudh",
+      "headquarters": "Boudh",
+      "population": 439917,
+      "area_km2": 3098,
+      "density_per_km2": 142
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "CU",
+      "district": "Cuttack",
+      "district_slug": "cuttack",
+      "headquarters": "Cuttack",
+      "population": 2618708,
+      "area_km2": 3932,
+      "density_per_km2": 666
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "DE",
+      "district": "Debagarh",
+      "district_slug": "debagarh",
+      "headquarters": "Debagarh",
+      "population": 312164,
+      "area_km2": 2781,
+      "density_per_km2": 106
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "DH",
+      "district": "Dhenkanal",
+      "district_slug": "dhenkanal",
+      "headquarters": "Dhenkanal",
+      "population": 1192948,
+      "area_km2": 4452,
+      "density_per_km2": 268
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "GP",
+      "district": "Gajapati",
+      "district_slug": "gajapati",
+      "headquarters": "Paralakhemundi",
+      "population": 575880,
+      "area_km2": 3850,
+      "density_per_km2": 133
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "GN",
+      "district": "Ganjam",
+      "district_slug": "ganjam",
+      "headquarters": "Chhatrapur",
+      "population": 3529031,
+      "area_km2": 8206,
+      "density_per_km2": 430
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "JS",
+      "district": "Jagatsinghpur",
+      "district_slug": "jagatsinghpur",
+      "headquarters": "Jagatsinghpur",
+      "population": 1136604,
+      "area_km2": 1759,
+      "density_per_km2": 681
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "JP",
+      "district": "Jajpur",
+      "district_slug": "jajpur",
+      "headquarters": "Jajpur",
+      "population": 1826275,
+      "area_km2": 2888,
+      "density_per_km2": 630
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "JH",
+      "district": "Jharsuguda",
+      "district_slug": "jharsuguda",
+      "headquarters": "Jharsuguda",
+      "population": 579499,
+      "area_km2": 2081,
+      "density_per_km2": 274
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "KL",
+      "district": "Kalahandi",
+      "district_slug": "kalahandi",
+      "headquarters": "Bhawanipatna",
+      "population": 1573054,
+      "area_km2": 7920,
+      "density_per_km2": 199
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "KN",
+      "district": "Kandhamal",
+      "district_slug": "kandhamal",
+      "headquarters": "Phulbani",
+      "population": 731952,
+      "area_km2": 8021,
+      "density_per_km2": 91
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "KP",
+      "district": "Kendrapara",
+      "district_slug": "kendrapara",
+      "headquarters": "Kendrapara",
+      "population": 1439891,
+      "area_km2": 2644,
+      "density_per_km2": 545
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "KJ",
+      "district": "Kendujhar",
+      "district_slug": "kendujhar",
+      "headquarters": "Kendujhar",
+      "population": 1802777,
+      "area_km2": 8240,
+      "density_per_km2": 217
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "KH",
+      "district": "Khordha",
+      "district_slug": "khordha",
+      "headquarters": "Khordha",
+      "population": 2251673,
+      "area_km2": 2813,
+      "density_per_km2": 800
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "KO",
+      "district": "Koraput",
+      "district_slug": "koraput",
+      "headquarters": "Koraput",
+      "population": 1376934,
+      "area_km2": 8807,
+      "density_per_km2": 156
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "ML",
+      "district": "Malkangiri",
+      "district_slug": "malkangiri",
+      "headquarters": "Malkangiri",
+      "population": 612727,
+      "area_km2": 5791,
+      "density_per_km2": 106
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "MY",
+      "district": "Mayurbhanj",
+      "district_slug": "mayurbhanj",
+      "headquarters": "Baripada",
+      "population": 2513895,
+      "area_km2": 10418,
+      "density_per_km2": 241
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "NB",
+      "district": "Nabarangpur",
+      "district_slug": "nabarangpur",
+      "headquarters": "Nabarangpur",
+      "population": 1218762,
+      "area_km2": 5294,
+      "density_per_km2": 230
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "NY",
+      "district": "Nayagarh",
+      "district_slug": "nayagarh",
+      "headquarters": "Nayagarh",
+      "population": 962215,
+      "area_km2": 3890,
+      "density_per_km2": 247
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "NU",
+      "district": "Nuapada",
+      "district_slug": "nuapada",
+      "headquarters": "Nuapada",
+      "population": 606490,
+      "area_km2": 3408,
+      "density_per_km2": 157
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "PU",
+      "district": "Puri",
+      "district_slug": "puri",
+      "headquarters": "Puri",
+      "population": 1697983,
+      "area_km2": 3051,
+      "density_per_km2": 488
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "RA",
+      "district": "Rayagada",
+      "district_slug": "rayagada",
+      "headquarters": "Rayagada",
+      "population": 961959,
+      "area_km2": 7584,
+      "density_per_km2": 136
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "SA",
+      "district": "Sambalpur",
+      "district_slug": "sambalpur",
+      "headquarters": "Sambalpur",
+      "population": 1044410,
+      "area_km2": 6702,
+      "density_per_km2": 158
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "SO",
+      "district": "Subarnapur",
+      "district_slug": "subarnapur",
+      "headquarters": "Subarnapur",
+      "population": 652107,
+      "area_km2": 2284,
+      "density_per_km2": 279
+    },
+    {
+      "state": "Odisha",
+      "state_code": "OD",
+      "state_slug": "odisha",
+      "district_code": "SU",
+      "district": "Sundargarh",
+      "district_slug": "sundargarh",
+      "headquarters": "Sundergarh",
+      "population": 2080664,
+      "area_km2": 9712,
+      "density_per_km2": 214
+    }
+  ],
+  "meta": {
+    "title": "Odisha के जिले (Odisha Districts) - मुफ़्त डाउनलोड",
+    "description": "30 districts in Odisha (state/UT of India), with administrative headquarters, population, area, and density. Subset of hi-jile filtered to state=\"Odisha\". शामिल हैं 30 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Odisha के जिले (Odisha Districts) | ListBase",
+    "seo_description": "डाउनलोड Odisha के जिले (Odisha Districts) — 30 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 30 रिकॉर्ड / 10 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "id": "hi-indore-bank",
+  "name": "Indore में बैंक — SWIFT/BIC कोड",
+  "title": "Indore में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Indore, India. Subset of hi-bank. Source city string preserved verbatim as \"INDORE\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 25,
+      "bank": "ALLAHABAD BANK",
+      "city": "INDORE",
+      "branch": "(INDORE MAIN BRANCH)",
+      "swift_code": "ALLAINBBBTT"
+    },
+    {
+      "id": 94,
+      "bank": "ANDHRA BANK",
+      "city": "INDORE",
+      "branch": "(INDORE 0234)",
+      "swift_code": "ANDBINBBIND"
+    },
+    {
+      "id": 95,
+      "bank": "ANDHRA BANK",
+      "city": "INDORE",
+      "branch": "(VIJAY NAGAR)",
+      "swift_code": "ANDBINBBVJN"
+    },
+    {
+      "id": 358,
+      "bank": "AXIS BANK LIMITED",
+      "city": "INDORE",
+      "branch": "(ANNAPOORNA)",
+      "swift_code": "AXISINBB570"
+    },
+    {
+      "id": 359,
+      "bank": "AXIS BANK LIMITED",
+      "city": "INDORE",
+      "branch": "(INDORE BRANCH)",
+      "swift_code": "AXISINBB043"
+    },
+    {
+      "id": 360,
+      "bank": "AXIS BANK LIMITED",
+      "city": "INDORE",
+      "branch": "(ITWARIYA BAZAR, RAJWADA, INDORE-1139)",
+      "swift_code": "AXISINBBA84"
+    },
+    {
+      "id": 361,
+      "bank": "AXIS BANK LIMITED",
+      "city": "INDORE",
+      "branch": "(SAPNA SANGITA ROAD, INDORE (MP))",
+      "swift_code": "AXISINBB503"
+    },
+    {
+      "id": 362,
+      "bank": "AXIS BANK LIMITED",
+      "city": "INDORE",
+      "branch": "(VIJAYANAGAR, INDORE MP)",
+      "swift_code": "AXISINBB568"
+    },
+    {
+      "id": 674,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "INDORE",
+      "branch": "(INDORE BRANCH)",
+      "swift_code": "UTIBINB1043"
+    },
+    {
+      "id": 787,
+      "bank": "BANK OF BARODA",
+      "city": "INDORE",
+      "branch": "(INDUSTRIAL ESTATE BR., INDORE)",
+      "swift_code": "BARBINBBIND"
+    },
+    {
+      "id": 969,
+      "bank": "BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(INDORE BRANCH)",
+      "swift_code": "BKIDINBBIDR"
+    },
+    {
+      "id": 970,
+      "bank": "BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(INDORE MCB)",
+      "swift_code": "BKIDINBBICB"
+    },
+    {
+      "id": 971,
+      "bank": "BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(PALASIA)",
+      "swift_code": "BKIDINBBPAL"
+    },
+    {
+      "id": 1130,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "INDORE",
+      "branch": "(INDORE)",
+      "swift_code": "MAHBINBBIDR"
+    },
+    {
+      "id": 1266,
+      "bank": "CANARA BANK",
+      "city": "INDORE",
+      "branch": "(SIYAGANJ RNT MARG, INDORE)",
+      "swift_code": "CNRBINBBISG"
+    },
+    {
+      "id": 1421,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(SIYAGANJ BRANCH)",
+      "swift_code": "CBININBBSIY"
+    },
+    {
+      "id": 1535,
+      "bank": "CORPORATION BANK",
+      "city": "INDORE",
+      "branch": "(INDORE)",
+      "swift_code": "CORPINBB290"
+    },
+    {
+      "id": 1654,
+      "bank": "DENA BANK",
+      "city": "INDORE",
+      "branch": "(NAVLAKHA BRANCH)",
+      "swift_code": "BKDNINBBNAV"
+    },
+    {
+      "id": 1842,
+      "bank": "HDFC BANK LIMITED",
+      "city": "INDORE",
+      "branch": "(INDORE)",
+      "swift_code": "HDFCINBBIDR"
+    },
+    {
+      "id": 1926,
+      "bank": "IDBI BANK LIMITED",
+      "city": "INDORE",
+      "branch": "(INDORE)",
+      "swift_code": "IBKLINBB001"
+    },
+    {
+      "id": 1927,
+      "bank": "IDBI BANK LIMITED",
+      "city": "INDORE",
+      "branch": "(N P INDORE)",
+      "swift_code": "IBKLINBBIDR"
+    },
+    {
+      "id": 2042,
+      "bank": "INDIAN BANK",
+      "city": "INDORE",
+      "branch": "(INDORE BRANCH)",
+      "swift_code": "IDIBINBBIDR"
+    },
+    {
+      "id": 2143,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "INDORE",
+      "branch": "(SPECIALIZED MID CORPORATE INDORE)",
+      "swift_code": "IOBAINBBQ39"
+    },
+    {
+      "id": 2234,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "INDORE",
+      "branch": "(INDORE, A.B. ROAD)",
+      "swift_code": "INDBINBBINA"
+    },
+    {
+      "id": 2286,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "INDORE",
+      "branch": "(BRANCH:INDORE)",
+      "swift_code": "JAKAINBBARC"
+    },
+    {
+      "id": 2490,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "INDORE",
+      "branch": "(B/O RNT MARG, INDORE)",
+      "swift_code": "ORBCINBBRIN"
+    },
+    {
+      "id": 2671,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "INDORE",
+      "branch": "(MANORMAGANJ)",
+      "swift_code": "PUNBINBBMGI"
+    },
+    {
+      "id": 2672,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "INDORE",
+      "branch": "(SIYAGANJ BRANCH)",
+      "swift_code": "PUNBINBBISG"
+    },
+    {
+      "id": 3193,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBH70"
+    },
+    {
+      "id": 3194,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(BHOPAL CIRCLE)",
+      "swift_code": "SBININBBT72"
+    },
+    {
+      "id": 3195,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(CENTRE FOR ADVANCE TECHNOLOGY CAMPUS, SUKHNIWAS, INDORE)",
+      "swift_code": "SBININBB570"
+    },
+    {
+      "id": 3196,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP46"
+    },
+    {
+      "id": 3197,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(COMMERCIAL BRANCH - INDORE)",
+      "swift_code": "SBININBB143"
+    },
+    {
+      "id": 3198,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(IFB,INDORE(ERSTWHILE SB INDORE))",
+      "swift_code": "SBININBB711"
+    },
+    {
+      "id": 3199,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(INDORE)",
+      "swift_code": "SBININBB267"
+    },
+    {
+      "id": 3200,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(P. Y. INDORE(ERSTWHILE SB INDORE))",
+      "swift_code": "SBININBB691"
+    },
+    {
+      "id": 3201,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(SSI,INDORE)",
+      "swift_code": "SBININBB426"
+    },
+    {
+      "id": 3202,
+      "bank": "STATE BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(Y. N. NAGAR, INDORE(ERSTWHILE SB INDORE))",
+      "swift_code": "SBININBB692"
+    },
+    {
+      "id": 3766,
+      "bank": "SYNDICATE BANK",
+      "city": "INDORE",
+      "branch": "(MID CORPORATE INDORE)",
+      "swift_code": "SYNBINBBAT9"
+    },
+    {
+      "id": 3982,
+      "bank": "UCO BANK",
+      "city": "INDORE",
+      "branch": "(NEW PALASIA INDORE)",
+      "swift_code": "UCBAINBB008"
+    },
+    {
+      "id": 4061,
+      "bank": "UNION BANK OF INDIA",
+      "city": "INDORE",
+      "branch": "(MID CORPORATE BRANCH)",
+      "swift_code": "UBININBBSYI"
+    },
+    {
+      "id": 4180,
+      "bank": "UNITED WESTERN BANK LTD.",
+      "city": "INDORE",
+      "branch": "(INDORE BRANCH)",
+      "swift_code": "UWBAINB1IDR"
+    }
+  ],
+  "meta": {
+    "title": "Indore में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Indore, India. Subset of hi-bank. Source city string preserved verbatim as \"INDORE\". शामिल हैं 42 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Indore में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Indore में बैंक — SWIFT/BIC कोड — 42 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 42 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

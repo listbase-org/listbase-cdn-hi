@@ -1,0 +1,289 @@
+{
+  "id": "hi-kochi-bank",
+  "name": "Kochi में बैंक — SWIFT/BIC कोड",
+  "title": "Kochi में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Kochi, India. Subset of hi-bank. Source city string preserved verbatim as \"KOCHI\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 30,
+      "bank": "ALLAHABAD BANK",
+      "city": "KOCHI",
+      "branch": "(KOCHI)",
+      "swift_code": "ALLAINBBKOC"
+    },
+    {
+      "id": 390,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(KOCHI BRANCH)",
+      "swift_code": "AXISINBB081"
+    },
+    {
+      "id": 391,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(PALARIVATTOM, KOCHI KL)",
+      "swift_code": "AXISINBB691"
+    },
+    {
+      "id": 392,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(THRIKKAKKARA)",
+      "swift_code": "AXISINBBA70"
+    },
+    {
+      "id": 393,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(VYTILLA, KOCHI KL)",
+      "swift_code": "AXISINBB827"
+    },
+    {
+      "id": 681,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "KOCHI",
+      "branch": "(KOCHI BANCH)",
+      "swift_code": "UTIBINB1081"
+    },
+    {
+      "id": 985,
+      "bank": "BANK OF INDIA",
+      "city": "KOCHI",
+      "branch": "(COCHIN)",
+      "swift_code": "BKIDINBBCHN"
+    },
+    {
+      "id": 986,
+      "bank": "BANK OF INDIA",
+      "city": "KOCHI",
+      "branch": "(WILLINGDON ISLAND)",
+      "swift_code": "BKIDINBBWIL"
+    },
+    {
+      "id": 1132,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "KOCHI",
+      "branch": "(COCHIN)",
+      "swift_code": "MAHBINBBCHN"
+    },
+    {
+      "id": 1278,
+      "bank": "CANARA BANK",
+      "city": "KOCHI",
+      "branch": "(KOCHI FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBNFC"
+    },
+    {
+      "id": 1394,
+      "bank": "CATHOLIC SYRIAN BANK LTD",
+      "city": "KOCHI",
+      "branch": "",
+      "swift_code": "CSYBIN55"
+    },
+    {
+      "id": 1429,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "KOCHI",
+      "branch": "(WILLINGDON ISLAND BRANCH)",
+      "swift_code": "CBININBBWIS"
+    },
+    {
+      "id": 1545,
+      "bank": "CORPORATION BANK",
+      "city": "KOCHI",
+      "branch": "(ERNAKULAM BRANCH)",
+      "swift_code": "CORPINBB077"
+    },
+    {
+      "id": 1658,
+      "bank": "DENA BANK",
+      "city": "KOCHI",
+      "branch": "(ERNAKULAM)",
+      "swift_code": "BKDNINBBERN"
+    },
+    {
+      "id": 1705,
+      "bank": "DHANLAXMI BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(FOREX)",
+      "swift_code": "DLXBINBBIFB"
+    },
+    {
+      "id": 1764,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOCHI",
+      "branch": "(ARROOR BRANCH)",
+      "swift_code": "FDRLINBBARR"
+    },
+    {
+      "id": 1765,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOCHI",
+      "branch": "(MATTANCHERRY BRANCH)",
+      "swift_code": "FDRLINBBCHN"
+    },
+    {
+      "id": 1766,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOCHI",
+      "branch": "(OPERATIONS EXPORT)",
+      "swift_code": "FDRLINBBOPE"
+    },
+    {
+      "id": 1767,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOCHI",
+      "branch": "(OPERATIONS IMPORT)",
+      "swift_code": "FDRLINBBOPI"
+    },
+    {
+      "id": 1768,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOCHI",
+      "branch": "(OPERATIONS OTHERS)",
+      "swift_code": "FDRLINBBOPO"
+    },
+    {
+      "id": 1843,
+      "bank": "HDFC BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(COCHIN BRANCH)",
+      "swift_code": "HDFCINBBCOC"
+    },
+    {
+      "id": 1877,
+      "bank": "ICICI BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(KOCHI BRANCH)",
+      "swift_code": "ICICINBB010"
+    },
+    {
+      "id": 1934,
+      "bank": "IDBI BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(KOCHI BRANCH)",
+      "swift_code": "IBKLINBB027"
+    },
+    {
+      "id": 2238,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(KOCHI)",
+      "swift_code": "INDBINBBKOC"
+    },
+    {
+      "id": 2239,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "KOCHI",
+      "branch": "(KOKKANAD, KOCHI)",
+      "swift_code": "INDBINBBKOK"
+    },
+    {
+      "id": 2355,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "KOCHI",
+      "branch": "(ERNAKULAM BRANCH)",
+      "swift_code": "KARBINBBCHN"
+    },
+    {
+      "id": 2817,
+      "bank": "RBG FINANCIAL SERVICES PRIVATE LIMITED",
+      "city": "KOCHI",
+      "branch": "",
+      "swift_code": "RFSVIN51"
+    },
+    {
+      "id": 3278,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOCHI",
+      "branch": "(COCHIN SHIPYARD)",
+      "swift_code": "SBININBB399"
+    },
+    {
+      "id": 3279,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOCHI",
+      "branch": "(NRI BRANCH,KOCHI)",
+      "swift_code": "SBININBB402"
+    },
+    {
+      "id": 3280,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOCHI",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB128"
+    },
+    {
+      "id": 3772,
+      "bank": "SYNDICATE BANK",
+      "city": "KOCHI",
+      "branch": "(PERUMANOOR BRANCH)",
+      "swift_code": "SYNBINBB168"
+    },
+    {
+      "id": 3916,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "KOCHI",
+      "branch": "(FOREIGN EXCHANGE DEPT, CENTRAL OFFICE BRANCH)",
+      "swift_code": "SOININ55264"
+    },
+    {
+      "id": 3990,
+      "bank": "UCO BANK",
+      "city": "KOCHI",
+      "branch": "(COCHIN BRANCH)",
+      "swift_code": "UCBAINBB326"
+    },
+    {
+      "id": 4217,
+      "bank": "VIJAYA BANK",
+      "city": "KOCHI",
+      "branch": "",
+      "swift_code": "VIJBINBBCHN"
+    }
+  ],
+  "meta": {
+    "title": "Kochi में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Kochi, India. Subset of hi-bank. Source city string preserved verbatim as \"KOCHI\". शामिल हैं 34 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Kochi में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Kochi में बैंक — SWIFT/BIC कोड — 34 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 34 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

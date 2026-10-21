@@ -1,0 +1,394 @@
+{
+  "id": "hi-coimbatore-bank",
+  "name": "Coimbatore में बैंक — SWIFT/BIC कोड",
+  "title": "Coimbatore में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Coimbatore, India. Subset of hi-bank. Source city string preserved verbatim as \"COIMBATORE\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 83,
+      "bank": "ANDHRA BANK",
+      "city": "COIMBATORE",
+      "branch": "(17-MILL ROAD)",
+      "swift_code": "ANDBINBBCOI"
+    },
+    {
+      "id": 250,
+      "bank": "AXIS BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "AXISINBB090"
+    },
+    {
+      "id": 251,
+      "bank": "AXIS BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(NAGERCOIL-405)",
+      "swift_code": "AXISINBBA25"
+    },
+    {
+      "id": 252,
+      "bank": "AXIS BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(POLLACHI - 339)",
+      "swift_code": "AXISINBBA21"
+    },
+    {
+      "id": 253,
+      "bank": "AXIS BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(R S PURAM, COIMBATORE TN)",
+      "swift_code": "AXISINBB563"
+    },
+    {
+      "id": 254,
+      "bank": "AXIS BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(SAIBABA COLONY, COIMBATORE (TN))",
+      "swift_code": "AXISINBB842"
+    },
+    {
+      "id": 255,
+      "bank": "AXIS BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(TRICHY ROAD, COIMBATORE TN)",
+      "swift_code": "AXISINBB477"
+    },
+    {
+      "id": 256,
+      "bank": "AXIS BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(VIRUDHUNAGAR -1079)",
+      "swift_code": "AXISINBBA34"
+    },
+    {
+      "id": 664,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "COIMBATORE",
+      "branch": "",
+      "swift_code": "UTIBINB1090"
+    },
+    {
+      "id": 770,
+      "bank": "BANK OF BARODA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE MAIN BRANCH)",
+      "swift_code": "BARBINBBCOI"
+    },
+    {
+      "id": 771,
+      "bank": "BANK OF BARODA",
+      "city": "COIMBATORE",
+      "branch": "(MID CORPORATE BR, COIMBATORE)",
+      "swift_code": "BARBINBBMCC"
+    },
+    {
+      "id": 943,
+      "bank": "BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "BKIDINBBCOM"
+    },
+    {
+      "id": 944,
+      "bank": "BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE MID CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBCMC"
+    },
+    {
+      "id": 1162,
+      "bank": "BANK OF NOVA SCOTIA, THE",
+      "city": "COIMBATORE",
+      "branch": "",
+      "swift_code": "NOSCINBBCJB"
+    },
+    {
+      "id": 1247,
+      "bank": "CANARA BANK",
+      "city": "COIMBATORE",
+      "branch": "(MID CORPORATE BRANCH COIMBATORE)",
+      "swift_code": "CNRBINBBOXC"
+    },
+    {
+      "id": 1411,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "CBININBBCOB"
+    },
+    {
+      "id": 1507,
+      "bank": "CORPORATION BANK",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "CORPINBB021"
+    },
+    {
+      "id": 1508,
+      "bank": "CORPORATION BANK",
+      "city": "COIMBATORE",
+      "branch": "(INDUSTRIAL FINANCE BRANCH, COIMBATORE)",
+      "swift_code": "CORPINBB562"
+    },
+    {
+      "id": 1649,
+      "bank": "DENA BANK",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "BKDNINBBCOM"
+    },
+    {
+      "id": 1751,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "COIMBATORE",
+      "branch": "",
+      "swift_code": "FDRLINBBCBE"
+    },
+    {
+      "id": 1839,
+      "bank": "HDFC BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE)",
+      "swift_code": "HDFCINBBCMB"
+    },
+    {
+      "id": 1872,
+      "bank": "ICICI BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "ICICINBB016"
+    },
+    {
+      "id": 1916,
+      "bank": "IDBI BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "IBKLINBB006"
+    },
+    {
+      "id": 2030,
+      "bank": "INDIAN BANK",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE MAIN BRANCH)",
+      "swift_code": "IDIBINBBCBE"
+    },
+    {
+      "id": 2031,
+      "bank": "INDIAN BANK",
+      "city": "COIMBATORE",
+      "branch": "(TRICHY ROAD)",
+      "swift_code": "IDIBINBBKNR"
+    },
+    {
+      "id": 2130,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "COIMBATORE",
+      "branch": "(BIG BAZAAR STREET BRANCH)",
+      "swift_code": "IOBAINBB020"
+    },
+    {
+      "id": 2131,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "COIMBATORE",
+      "branch": "(PARK SQUARE-UPPILIPALAYAM)",
+      "swift_code": "IOBAINBB150"
+    },
+    {
+      "id": 2132,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "COIMBATORE",
+      "branch": "(R.S.PURAM)",
+      "swift_code": "IOBAINBB079"
+    },
+    {
+      "id": 2229,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "INDBINBBCOA"
+    },
+    {
+      "id": 2350,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "KARBINBBCBT"
+    },
+    {
+      "id": 2404,
+      "bank": "LAKSHMI VILAS BANK LIMITED",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE MAIN)",
+      "swift_code": "LAVBINBB185"
+    },
+    {
+      "id": 2476,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "COIMBATORE",
+      "branch": "(B/O COIMBATORE)",
+      "swift_code": "ORBCINBBCMB"
+    },
+    {
+      "id": 2639,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "PUNBINBBCOM"
+    },
+    {
+      "id": 2640,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "COIMBATORE",
+      "branch": "(CROSS CUT ROAD)",
+      "swift_code": "PUNBINBBTNK"
+    },
+    {
+      "id": 2851,
+      "bank": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE)",
+      "swift_code": "SIDBINBBCBB"
+    },
+    {
+      "id": 3051,
+      "bank": "STATE BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(CHENNAI CIRCLE)",
+      "swift_code": "SBININBBJ18"
+    },
+    {
+      "id": 3052,
+      "bank": "STATE BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE CITY)",
+      "swift_code": "SBININBB451"
+    },
+    {
+      "id": 3053,
+      "bank": "STATE BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE)",
+      "swift_code": "SBININBB294"
+    },
+    {
+      "id": 3054,
+      "bank": "STATE BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBTORE BR(ERSTWHILE SB INDORE))",
+      "swift_code": "SBININBB716"
+    },
+    {
+      "id": 3055,
+      "bank": "STATE BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(IFB BRANCH)",
+      "swift_code": "SBININBB180"
+    },
+    {
+      "id": 3056,
+      "bank": "STATE BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(KERALA CIRCLE)",
+      "swift_code": "SBININBBT33"
+    },
+    {
+      "id": 3057,
+      "bank": "STATE BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(TFCPC, COIMBTORE)",
+      "swift_code": "SBININBB613"
+    },
+    {
+      "id": 3750,
+      "bank": "SYNDICATE BANK",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "SYNBINBB027"
+    },
+    {
+      "id": 3901,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE INDUSTRIAL FINANCE)",
+      "swift_code": "SOININ55310"
+    },
+    {
+      "id": 3970,
+      "bank": "UCO BANK",
+      "city": "COIMBATORE",
+      "branch": "(KARUR COIMBATORE)",
+      "swift_code": "UCBAINBBKAR"
+    },
+    {
+      "id": 3971,
+      "bank": "UCO BANK",
+      "city": "COIMBATORE",
+      "branch": "",
+      "swift_code": "UCBAINBB342"
+    },
+    {
+      "id": 4052,
+      "bank": "UNION BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE (M) BRANCH)",
+      "swift_code": "UBININBBCMT"
+    },
+    {
+      "id": 4143,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "COIMBATORE",
+      "branch": "(COIMBATORE BRANCH)",
+      "swift_code": "UTBIINBBCOI"
+    },
+    {
+      "id": 4209,
+      "bank": "VIJAYA BANK",
+      "city": "COIMBATORE",
+      "branch": "(NANJAPPA ROAD)",
+      "swift_code": "VIJBINBBCBT"
+    }
+  ],
+  "meta": {
+    "title": "Coimbatore में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Coimbatore, India. Subset of hi-bank. Source city string preserved verbatim as \"COIMBATORE\". शामिल हैं 49 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Coimbatore में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Coimbatore में बैंक — SWIFT/BIC कोड — 49 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 49 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

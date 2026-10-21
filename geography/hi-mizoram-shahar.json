@@ -1,0 +1,1466 @@
+{
+  "id": "hi-mizoram-shahar",
+  "name": "मिज़ोरम के शहर (Mizoram Cities)",
+  "title": "मिज़ोरम के शहर (Mizoram Cities)",
+  "description": "मिज़ोरम राज्य के 140 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 140 cities and towns in Mizoram, India, with population and geographic coordinates.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 140,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_lower",
+      "label": "Name Lower",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_hi",
+      "label": "State Hi",
+      "type": "string"
+    },
+    {
+      "key": "region_code",
+      "label": "Region Code",
+      "type": "number"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aijal",
+      "name_lower": "aijal",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.724444,
+      "longitude": 92.7175
+    },
+    {
+      "name": "Ainak",
+      "name_lower": "ainak",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.383333,
+      "longitude": 93.15
+    },
+    {
+      "name": "Aizal",
+      "name_lower": "aizal",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.724444,
+      "longitude": 92.7175
+    },
+    {
+      "name": "Aizawl",
+      "name_lower": "aizawl",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 265353,
+      "latitude": 23.724444,
+      "longitude": 92.7175
+    },
+    {
+      "name": "Aizwal",
+      "name_lower": "aizwal",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.724444,
+      "longitude": 92.7175
+    },
+    {
+      "name": "Baktawng",
+      "name_lower": "baktawng",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.533333,
+      "longitude": 92.833333
+    },
+    {
+      "name": "Bokmaituk",
+      "name_lower": "bokmaituk",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.15,
+      "longitude": 92.7
+    },
+    {
+      "name": "Bualpui",
+      "name_lower": "bualpui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.1,
+      "longitude": 92.6
+    },
+    {
+      "name": "Buarpui",
+      "name_lower": "buarpui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.266667,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Bukhmai Tuak",
+      "name_lower": "bukhmai tuak",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.15,
+      "longitude": 92.7
+    },
+    {
+      "name": "Bukpui",
+      "name_lower": "bukpui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.35,
+      "longitude": 92.833333
+    },
+    {
+      "name": "Bungtlang",
+      "name_lower": "bungtlang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.333333,
+      "longitude": 92.766667
+    },
+    {
+      "name": "Chaltlang",
+      "name_lower": "chaltlang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.75,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Chhimluang",
+      "name_lower": "chhimluang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.4,
+      "longitude": 92.85
+    },
+    {
+      "name": "Chiahpui",
+      "name_lower": "chiahpui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.033333,
+      "longitude": 93.2
+    },
+    {
+      "name": "Darlawn",
+      "name_lower": "darlawn",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 3962,
+      "latitude": 24.016667,
+      "longitude": 92.9
+    },
+    {
+      "name": "Darzo",
+      "name_lower": "darzo",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.833333,
+      "longitude": 92.95
+    },
+    {
+      "name": "Demagiri",
+      "name_lower": "demagiri",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.916667,
+      "longitude": 92.466667
+    },
+    {
+      "name": "Durtlang",
+      "name_lower": "durtlang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.783333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Farkawn",
+      "name_lower": "farkawn",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.066667,
+      "longitude": 93.3
+    },
+    {
+      "name": "Harina",
+      "name_lower": "harina",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.2,
+      "longitude": 92.35
+    },
+    {
+      "name": "Hmangzawl",
+      "name_lower": "hmangzawl",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Hmawngzawl",
+      "name_lower": "hmawngzawl",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Hmundo",
+      "name_lower": "hmundo",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.116667,
+      "longitude": 92.4
+    },
+    {
+      "name": "Hmunpui",
+      "name_lower": "hmunpui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.85,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Hmuntha",
+      "name_lower": "hmuntha",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.483333,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Hnahlan",
+      "name_lower": "hnahlan",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.683333,
+      "longitude": 93.383333
+    },
+    {
+      "name": "Holongchari",
+      "name_lower": "holongchari",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.033333,
+      "longitude": 92.483333
+    },
+    {
+      "name": "Hruizam",
+      "name_lower": "hruizam",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.016667,
+      "longitude": 92.55
+    },
+    {
+      "name": "Hualtu",
+      "name_lower": "hualtu",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.516667,
+      "longitude": 92.9
+    },
+    {
+      "name": "Kaisi",
+      "name_lower": "kaisi",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.25,
+      "longitude": 92.95
+    },
+    {
+      "name": "Kajaichari",
+      "name_lower": "kajaichari",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.783333,
+      "longitude": 92.5
+    },
+    {
+      "name": "Kaladan",
+      "name_lower": "kaladan",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.45,
+      "longitude": 92.916667
+    },
+    {
+      "name": "Kanghmun",
+      "name_lower": "kanghmun",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.566667,
+      "longitude": 92.583333
+    },
+    {
+      "name": "Kawihruilian",
+      "name_lower": "kawihruilian",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.25,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Kawlkulh",
+      "name_lower": "kawlkulh",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.616667,
+      "longitude": 93.083333
+    },
+    {
+      "name": "Keitumkawn",
+      "name_lower": "keitumkawn",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.233333,
+      "longitude": 92.916667
+    },
+    {
+      "name": "Kelkang",
+      "name_lower": "kelkang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.383333,
+      "longitude": 93.3
+    },
+    {
+      "name": "Kelsih",
+      "name_lower": "kelsih",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.616667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Khawbung",
+      "name_lower": "khawbung",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.166667,
+      "longitude": 93.233333
+    },
+    {
+      "name": "Khawdungsei",
+      "name_lower": "khawdungsei",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.966667,
+      "longitude": 93.216667
+    },
+    {
+      "name": "Khawhai",
+      "name_lower": "khawhai",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 2537,
+      "latitude": 23.366667,
+      "longitude": 93.116667
+    },
+    {
+      "name": "Khawlek",
+      "name_lower": "khawlek",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.35,
+      "longitude": 92.633333
+    },
+    {
+      "name": "Khawruhlian",
+      "name_lower": "khawruhlian",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.866667,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Khawthlir",
+      "name_lower": "khawthlir",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.633333,
+      "longitude": 93
+    },
+    {
+      "name": "Khuangleng",
+      "name_lower": "khuangleng",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.3,
+      "longitude": 93.283333
+    },
+    {
+      "name": "Kolosib",
+      "name_lower": "kolosib",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.233333,
+      "longitude": 92.7
+    },
+    {
+      "name": "Kongtal",
+      "name_lower": "kongtal",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.966667,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Konzhar",
+      "name_lower": "konzhar",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.15,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Laisawrai",
+      "name_lower": "laisawrai",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.266667,
+      "longitude": 92.466667
+    },
+    {
+      "name": "Laisawral",
+      "name_lower": "laisawral",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.266667,
+      "longitude": 92.466667
+    },
+    {
+      "name": "Laki",
+      "name_lower": "laki",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.133333,
+      "longitude": 93.016667
+    },
+    {
+      "name": "Lallen",
+      "name_lower": "lallen",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.616667,
+      "longitude": 92.466667
+    },
+    {
+      "name": "Lamsuaka",
+      "name_lower": "lamsuaka",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.25,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Lamzawl",
+      "name_lower": "lamzawl",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.816667,
+      "longitude": 93.2
+    },
+    {
+      "name": "Lawngtlai",
+      "name_lower": "lawngtlai",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.533333,
+      "longitude": 92.9
+    },
+    {
+      "name": "Leite",
+      "name_lower": "leite",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.916667,
+      "longitude": 92.9
+    },
+    {
+      "name": "Lobo",
+      "name_lower": "lobo",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.483333,
+      "longitude": 93.116667
+    },
+    {
+      "name": "Longdaw",
+      "name_lower": "longdaw",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.266667,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Lungchem",
+      "name_lower": "lungchem",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.133333,
+      "longitude": 92.616667
+    },
+    {
+      "name": "Lungdar",
+      "name_lower": "lungdar",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.616667,
+      "longitude": 92.6
+    },
+    {
+      "name": "Lungleh",
+      "name_lower": "lungleh",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.883333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Lunglei",
+      "name_lower": "lunglei",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 52734,
+      "latitude": 22.883333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Lungliah",
+      "name_lower": "lungliah",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.883333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Lungpho",
+      "name_lower": "lungpho",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.383333,
+      "longitude": 93.016667
+    },
+    {
+      "name": "Lungphunlian",
+      "name_lower": "lungphunlian",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.75,
+      "longitude": 93.3
+    },
+    {
+      "name": "Lungsen",
+      "name_lower": "lungsen",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.9,
+      "longitude": 92.583333
+    },
+    {
+      "name": "Lungtian",
+      "name_lower": "lungtian",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.716667,
+      "longitude": 92.966667
+    },
+    {
+      "name": "Mamit",
+      "name_lower": "mamit",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 6104,
+      "latitude": 23.933333,
+      "longitude": 92.483333
+    },
+    {
+      "name": "Mualbu Kawnpui",
+      "name_lower": "mualbu kawnpui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.333333,
+      "longitude": 92.7
+    },
+    {
+      "name": "Mualthuam",
+      "name_lower": "mualthuam",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.1,
+      "longitude": 92.75
+    },
+    {
+      "name": "Mualvum",
+      "name_lower": "mualvum",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.033333,
+      "longitude": 92.7
+    },
+    {
+      "name": "Mullianpui",
+      "name_lower": "mullianpui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.683333,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Murlen",
+      "name_lower": "murlen",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.65,
+      "longitude": 93.283333
+    },
+    {
+      "name": "Neihbawi",
+      "name_lower": "neihbawi",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.833333,
+      "longitude": 92.75
+    },
+    {
+      "name": "Neihdawn",
+      "name_lower": "neihdawn",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.5,
+      "longitude": 93.266667
+    },
+    {
+      "name": "Ngur",
+      "name_lower": "ngur",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.533333,
+      "longitude": 93.366667
+    },
+    {
+      "name": "Nisapui",
+      "name_lower": "nisapui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.933333,
+      "longitude": 92.766667
+    },
+    {
+      "name": "North Vanlaiphai",
+      "name_lower": "north vanlaiphai",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 3476,
+      "latitude": 23.133333,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Paikhai",
+      "name_lower": "paikhai",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.633333,
+      "longitude": 92.75
+    },
+    {
+      "name": "Pangzawl",
+      "name_lower": "pangzawl",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.1,
+      "longitude": 92.883333
+    },
+    {
+      "name": "Phaileng",
+      "name_lower": "phaileng",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.7,
+      "longitude": 92.483333
+    },
+    {
+      "name": "Phuaibnang",
+      "name_lower": "phuaibnang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.95,
+      "longitude": 93.116667
+    },
+    {
+      "name": "Phuaibuang",
+      "name_lower": "phuaibuang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.95,
+      "longitude": 93.116667
+    },
+    {
+      "name": "Phuldungsei",
+      "name_lower": "phuldungsei",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.466667,
+      "longitude": 92.416667
+    },
+    {
+      "name": "Phullen",
+      "name_lower": "phullen",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.833333,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Pukzing",
+      "name_lower": "pukzing",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.35,
+      "longitude": 92.433333
+    },
+    {
+      "name": "Ralvawng",
+      "name_lower": "ralvawng",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.933333,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Ramlaitui",
+      "name_lower": "ramlaitui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.183333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Ruallalung",
+      "name_lower": "ruallalung",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.65,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Sabual",
+      "name_lower": "sabual",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.45,
+      "longitude": 92.583333
+    },
+    {
+      "name": "Saichal",
+      "name_lower": "saichal",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.733333,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Saiebal",
+      "name_lower": "saiebal",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.733333,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Saiha",
+      "name_lower": "saiha",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 22657,
+      "latitude": 22.483333,
+      "longitude": 92.966667
+    },
+    {
+      "name": "Sairang",
+      "name_lower": "sairang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 5760,
+      "latitude": 23.8,
+      "longitude": 92.666667
+    },
+    {
+      "name": "Sairep",
+      "name_lower": "sairep",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.816667,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Saitlaw",
+      "name_lower": "saitlaw",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.966667,
+      "longitude": 92.583333
+    },
+    {
+      "name": "Saitual",
+      "name_lower": "saitual",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.966667,
+      "longitude": 92.583333
+    },
+    {
+      "name": "Saizawh",
+      "name_lower": "saizawh",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.366667,
+      "longitude": 92.833333
+    },
+    {
+      "name": "Sangau",
+      "name_lower": "sangau",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.733333,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Saza",
+      "name_lower": "saza",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.983333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Seling",
+      "name_lower": "seling",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.733333,
+      "longitude": 92.85
+    },
+    {
+      "name": "Sentlang",
+      "name_lower": "sentlang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.883333,
+      "longitude": 92.733333
+    },
+    {
+      "name": "Senvon",
+      "name_lower": "senvon",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.15,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Serchhip",
+      "name_lower": "serchhip",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 20246,
+      "latitude": 23.3,
+      "longitude": 92.833333
+    },
+    {
+      "name": "Serhmun",
+      "name_lower": "serhmun",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.75,
+      "longitude": 92.366667
+    },
+    {
+      "name": "Serkawr",
+      "name_lower": "serkawr",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.366667,
+      "longitude": 92.983333
+    },
+    {
+      "name": "Sesawng",
+      "name_lower": "sesawng",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.733333,
+      "longitude": 92.85
+    },
+    {
+      "name": "Shermun",
+      "name_lower": "shermun",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.333333,
+      "longitude": 92.6
+    },
+    {
+      "name": "Sialsuk",
+      "name_lower": "sialsuk",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.4,
+      "longitude": 92.75
+    },
+    {
+      "name": "Sibutalung",
+      "name_lower": "sibutalung",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.583333,
+      "longitude": 92.7
+    },
+    {
+      "name": "Suangpuilawn",
+      "name_lower": "suangpuilawn",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.95,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Tawipui",
+      "name_lower": "tawipui",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.7,
+      "longitude": 92.85
+    },
+    {
+      "name": "Tawitaw",
+      "name_lower": "tawitaw",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.966667,
+      "longitude": 92.716667
+    },
+    {
+      "name": "Tawkzawl",
+      "name_lower": "tawkzawl",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.883333,
+      "longitude": 92.833333
+    },
+    {
+      "name": "Tawngkalawng",
+      "name_lower": "tawngkalawng",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.183333,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Teidukhan",
+      "name_lower": "teidukhan",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.35,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Thenhlum",
+      "name_lower": "thenhlum",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.216667,
+      "longitude": 92.566667
+    },
+    {
+      "name": "Thenzawl",
+      "name_lower": "thenzawl",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": 5964,
+      "latitude": 23.316667,
+      "longitude": 92.75
+    },
+    {
+      "name": "Thiak",
+      "name_lower": "thiak",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.483333,
+      "longitude": 92.7
+    },
+    {
+      "name": "Thingfal",
+      "name_lower": "thingfal",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.616667,
+      "longitude": 92.866667
+    },
+    {
+      "name": "Thingsai",
+      "name_lower": "thingsai",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.933333,
+      "longitude": 93.1
+    },
+    {
+      "name": "Thingsat",
+      "name_lower": "thingsat",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 24.2,
+      "longitude": 92.933333
+    },
+    {
+      "name": "Tualbung",
+      "name_lower": "tualbung",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.75,
+      "longitude": 92.95
+    },
+    {
+      "name": "Tuichong",
+      "name_lower": "tuichong",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.916667,
+      "longitude": 92.516667
+    },
+    {
+      "name": "Tuidang",
+      "name_lower": "tuidang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.266667,
+      "longitude": 92.816667
+    },
+    {
+      "name": "Tuipang",
+      "name_lower": "tuipang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.316667,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Tuisen",
+      "name_lower": "tuisen",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.533333,
+      "longitude": 93.166667
+    },
+    {
+      "name": "Uiphum",
+      "name_lower": "uiphum",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.5,
+      "longitude": 92.6
+    },
+    {
+      "name": "Vancheng",
+      "name_lower": "vancheng",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.433333,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Vanlaiphai",
+      "name_lower": "vanlaiphai",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.133333,
+      "longitude": 93.066667
+    },
+    {
+      "name": "Vapar",
+      "name_lower": "vapar",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.616667,
+      "longitude": 93.333333
+    },
+    {
+      "name": "Vawmbuk",
+      "name_lower": "vawmbuk",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.583333,
+      "longitude": 93.083333
+    },
+    {
+      "name": "Vawnbuk",
+      "name_lower": "vawnbuk",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.583333,
+      "longitude": 93.083333
+    },
+    {
+      "name": "Zawngin",
+      "name_lower": "zawngin",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.9,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Zawngling",
+      "name_lower": "zawngling",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.266667,
+      "longitude": 93.033333
+    },
+    {
+      "name": "Zemabawk",
+      "name_lower": "zemabawk",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.75,
+      "longitude": 92.75
+    },
+    {
+      "name": "Zobawk",
+      "name_lower": "zobawk",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 22.866667,
+      "longitude": 92.833333
+    },
+    {
+      "name": "Zotlang",
+      "name_lower": "zotlang",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.833333,
+      "longitude": 92.483333
+    },
+    {
+      "name": "Zuchhip",
+      "name_lower": "zuchhip",
+      "state": "Mizoram",
+      "state_hi": "मिज़ोरम",
+      "region_code": "31",
+      "population": "",
+      "latitude": 23.466667,
+      "longitude": 93.15
+    }
+  ],
+  "meta": {
+    "title": "मिज़ोरम के शहर (Mizoram Cities) - मुफ़्त डाउनलोड",
+    "description": "मिज़ोरम राज्य के 140 शहरों और कस्बों की सूची, जनसंख्या और भौगोलिक निर्देशांक सहित। List of 140 cities and towns in Mizoram, India, with population and geographic coordinates. शामिल हैं 140 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "मिज़ोरम के शहर (Mizoram Cities) | ListBase",
+    "seo_description": "डाउनलोड मिज़ोरम के शहर (Mizoram Cities) — 140 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 140 रिकॉर्ड / 8 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

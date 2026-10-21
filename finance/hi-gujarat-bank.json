@@ -1,0 +1,156 @@
+{
+  "id": "hi-gujarat-bank",
+  "name": "Gujarat में बैंक — SWIFT/BIC कोड",
+  "title": "Gujarat में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Gujarat, India. Subset of hi-bank. Source city string preserved verbatim as \"GUJARAT\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 311,
+      "bank": "AXIS BANK LIMITED",
+      "city": "GUJARAT",
+      "branch": "(MEHSANA -130)",
+      "swift_code": "AXISINBBA40"
+    },
+    {
+      "id": 668,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "GUJARAT",
+      "branch": "(VALLABH VIDYANAGAR BRANCH)",
+      "swift_code": "UTIBINB1038"
+    },
+    {
+      "id": 779,
+      "bank": "BANK OF BARODA",
+      "city": "GUJARAT",
+      "branch": "(BULSAR (MAIN) BRANCH)",
+      "swift_code": "BARBINBBBUL"
+    },
+    {
+      "id": 1521,
+      "bank": "CORPORATION BANK",
+      "city": "GUJARAT",
+      "branch": "(BHUJ BRANCH)",
+      "swift_code": "CORPINBB466"
+    },
+    {
+      "id": 1522,
+      "bank": "CORPORATION BANK",
+      "city": "GUJARAT",
+      "branch": "(CAMBAY BRANCH)",
+      "swift_code": "CORPINBB321"
+    },
+    {
+      "id": 1523,
+      "bank": "CORPORATION BANK",
+      "city": "GUJARAT",
+      "branch": "(GANDHIDHAM BRANCH)",
+      "swift_code": "CORPINBB467"
+    },
+    {
+      "id": 1524,
+      "bank": "CORPORATION BANK",
+      "city": "GUJARAT",
+      "branch": "(GONDAL BRANCH)",
+      "swift_code": "CORPINBB326"
+    },
+    {
+      "id": 1525,
+      "bank": "CORPORATION BANK",
+      "city": "GUJARAT",
+      "branch": "(JAMNAGAR BRANCH)",
+      "swift_code": "CORPINBB262"
+    },
+    {
+      "id": 1526,
+      "bank": "CORPORATION BANK",
+      "city": "GUJARAT",
+      "branch": "(NADIAD BRANCH)",
+      "swift_code": "CORPINBB267"
+    },
+    {
+      "id": 1527,
+      "bank": "CORPORATION BANK",
+      "city": "GUJARAT",
+      "branch": "(NAVASARI BRANCH)",
+      "swift_code": "CORPINBB322"
+    },
+    {
+      "id": 1528,
+      "bank": "CORPORATION BANK",
+      "city": "GUJARAT",
+      "branch": "(PORBANDAR BRANCH)",
+      "swift_code": "CORPINBB260"
+    },
+    {
+      "id": 1529,
+      "bank": "CORPORATION BANK",
+      "city": "GUJARAT",
+      "branch": "(VALLABH VIDYANAGAR)",
+      "swift_code": "CORPINBB465"
+    },
+    {
+      "id": 1651,
+      "bank": "DENA BANK",
+      "city": "GUJARAT",
+      "branch": "(SIDHPUR BRANCH)",
+      "swift_code": "BKDNINBBSID"
+    },
+    {
+      "id": 1758,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "GUJARAT",
+      "branch": "(GUJARAT INTERNATIONAL FINANCE TEC CITY)",
+      "swift_code": "FDRLINBBGFT"
+    },
+    {
+      "id": 2284,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "GUJARAT",
+      "branch": "(SURAT GUJARAT)",
+      "swift_code": "JAKAINBBSUT"
+    }
+  ],
+  "meta": {
+    "title": "Gujarat में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Gujarat, India. Subset of hi-bank. Source city string preserved verbatim as \"GUJARAT\". शामिल हैं 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Gujarat में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Gujarat में बैंक — SWIFT/BIC कोड — 15 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 15 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

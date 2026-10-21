@@ -1,0 +1,1318 @@
+{
+  "id": "hi-kolkata-calcutta-bank",
+  "name": "Kolkata (Calcutta) में बैंक — SWIFT/BIC कोड",
+  "title": "Kolkata (Calcutta) में बैंक — SWIFT/BIC कोड",
+  "description": "SWIFT/BIC codes for banks and financial institutions located in Kolkata (Calcutta), India. Subset of hi-bank. Source city string preserved verbatim as \"KOLKATA (CALCUTTA)\".",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 181,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 31,
+      "bank": "ALLAHABAD BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA MAIN BRANCH)",
+      "swift_code": "ALLAINBBCLM"
+    },
+    {
+      "id": 32,
+      "bank": "ALLAHABAD BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "ALLAINBBCIF"
+    },
+    {
+      "id": 33,
+      "bank": "ALLAHABAD BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INTERNATIONAL BRANCH, CALCUTTA)",
+      "swift_code": "ALLAINBBCAL"
+    },
+    {
+      "id": 34,
+      "bank": "ALLAHABAD BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(PARK STREET BRANCH)",
+      "swift_code": "ALLAINBBCPS"
+    },
+    {
+      "id": 35,
+      "bank": "ALLAHABAD BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(R.P.C.,KOLKATA )",
+      "swift_code": "ALLAINBBRPK"
+    },
+    {
+      "id": 36,
+      "bank": "ALLAHABAD BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SMALL SCALE INDUSTRIAL FINANCE BRANCH (SSIFB))",
+      "swift_code": "ALLAINBBSSI"
+    },
+    {
+      "id": 37,
+      "bank": "ALLAHABAD BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(STEPHEN HOUSE)",
+      "swift_code": "ALLAINBBSTP"
+    },
+    {
+      "id": 69,
+      "bank": "ANAND RATHI AND CO",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "ANRAINB1"
+    },
+    {
+      "id": 99,
+      "bank": "ANDHRA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA MAIN BRANCH - EZRA STREET)",
+      "swift_code": "ANDBINBBCAL"
+    },
+    {
+      "id": 100,
+      "bank": "ANDHRA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CHOWRINGHEE BRANCH)",
+      "swift_code": "ANDBINBBCHO"
+    },
+    {
+      "id": 395,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BAGUIATI, KOLKATA (WB) : 026)",
+      "swift_code": "AXISINBB026"
+    },
+    {
+      "id": 396,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BBD BAGH-1138 BRANCH)",
+      "swift_code": "AXISINBBA11"
+    },
+    {
+      "id": 397,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BEHALA, KOLKATA (WB) : 034)",
+      "swift_code": "AXISINBB034"
+    },
+    {
+      "id": 398,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BRABOURNE ROAD CAL WB)",
+      "swift_code": "AXISINBBA73"
+    },
+    {
+      "id": 399,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BURRABAZAR)",
+      "swift_code": "AXISINBB277"
+    },
+    {
+      "id": 400,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CENTRAL AVENUE, KOLKATA (WB))",
+      "swift_code": "AXISINBB870"
+    },
+    {
+      "id": 401,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CIT ROAD, KOLKATA)",
+      "swift_code": "AXISINBB161"
+    },
+    {
+      "id": 402,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CORPORATE BANKING - KOLKATTA)",
+      "swift_code": "AXISINBBA00"
+    },
+    {
+      "id": 403,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(DALHOUSIE SQUARE BRANCH)",
+      "swift_code": "AXISINBB153"
+    },
+    {
+      "id": 404,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(DUNLOP)",
+      "swift_code": "AXISINBB236"
+    },
+    {
+      "id": 405,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(GANESHCHANDRA AVE, KOLKATA)",
+      "swift_code": "AXISINBB836"
+    },
+    {
+      "id": 406,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(GOLPARK BRANCH)",
+      "swift_code": "AXISINBB011"
+    },
+    {
+      "id": 407,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(HABRA (WB) : 238)",
+      "swift_code": "AXISINBB238"
+    },
+    {
+      "id": 408,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KANKURGACHI, KOLKATA)",
+      "swift_code": "AXISINBB017"
+    },
+    {
+      "id": 409,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA MAIN BRANCH)",
+      "swift_code": "AXISINBB005"
+    },
+    {
+      "id": 410,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(LAKETOWN)",
+      "swift_code": "AXISINBB191"
+    },
+    {
+      "id": 411,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(NEW ALIPORE, KOLKATA (WB)-351)",
+      "swift_code": "AXISINBB351"
+    },
+    {
+      "id": 412,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(PRINCE ANWARSHAH ROAD)",
+      "swift_code": "AXISINBB255"
+    },
+    {
+      "id": 413,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(RASHBEHARI AVENUE, KOLKATA (WB))",
+      "swift_code": "AXISINBB253"
+    },
+    {
+      "id": 414,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SALT LAKE, KOLKATA (WB))",
+      "swift_code": "AXISINBB025"
+    },
+    {
+      "id": 415,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SALTLAKE ELECTRONIC BRANCH)",
+      "swift_code": "AXISINBB319"
+    },
+    {
+      "id": 416,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SARAT BOSE ROAD, KOLKATA WB)",
+      "swift_code": "AXISINBB411"
+    },
+    {
+      "id": 417,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SHYAMBAZAR)",
+      "swift_code": "AXISINBB084"
+    },
+    {
+      "id": 418,
+      "bank": "AXIS BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(TOLLYGUNGE, KOLKATA (WB))",
+      "swift_code": "AXISINBB045"
+    },
+    {
+      "id": 682,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA BRANCH)",
+      "swift_code": "UTIBINB1005"
+    },
+    {
+      "id": 683,
+      "bank": "AXIS BANK LTD(FORMERLY UTI BANK LTD)",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(DALHOUSIE SQUARE BRANCH)",
+      "swift_code": "UTIBINB1153"
+    },
+    {
+      "id": 734,
+      "bank": "BANDHAN BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "BNDNINCC"
+    },
+    {
+      "id": 808,
+      "bank": "BANK OF BARODA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CAMAC STREET BRANCH)",
+      "swift_code": "BARBINBBCMS"
+    },
+    {
+      "id": 809,
+      "bank": "BANK OF BARODA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CORPORATE FINANCIAL SERVICES BRANCH KOLKATA.)",
+      "swift_code": "BARBINBBCFK"
+    },
+    {
+      "id": 810,
+      "bank": "BANK OF BARODA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INTERNATIONAL BUSINESS BRANCH)",
+      "swift_code": "BARBINBBIBB"
+    },
+    {
+      "id": 811,
+      "bank": "BANK OF BARODA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(MID-CORPORATE BRANCH KOLKATA)",
+      "swift_code": "BARBINBBMCK"
+    },
+    {
+      "id": 989,
+      "bank": "BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA LARGE CORPORATE BRANCH)",
+      "swift_code": "BKIDINBBCCB"
+    },
+    {
+      "id": 990,
+      "bank": "BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA MID CORP BRANCH)",
+      "swift_code": "BKIDINBBCOS"
+    },
+    {
+      "id": 991,
+      "bank": "BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA OVERSEAS)",
+      "swift_code": "BKIDINBBKOV"
+    },
+    {
+      "id": 992,
+      "bank": "BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA SME BRANCH)",
+      "swift_code": "BKIDINBBCSM"
+    },
+    {
+      "id": 1134,
+      "bank": "BANK OF MAHARASHTRA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(NS ROAD BRANCH, CALCUTTA)",
+      "swift_code": "MAHBINBBCAL"
+    },
+    {
+      "id": 1179,
+      "bank": "BATLIVALA AND KARANI SECURITIES INDIA PRIVATE LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "BKSEINB1"
+    },
+    {
+      "id": 1192,
+      "bank": "BNP PARIBAS INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA BRANCH)",
+      "swift_code": "BNPAINBBCAL"
+    },
+    {
+      "id": 1205,
+      "bank": "C. MACKERTICH LTD",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "MACKINC1"
+    },
+    {
+      "id": 1279,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA BRABOURNE ROAD BRANCH)",
+      "swift_code": "CNRBINBBCDB"
+    },
+    {
+      "id": 1280,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA CANNING STREET BRANCH)",
+      "swift_code": "CNRBINBBCDC"
+    },
+    {
+      "id": 1281,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA FOREIGN DEPARTMENT)",
+      "swift_code": "CNRBINBBCFD"
+    },
+    {
+      "id": 1282,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA L C ROAD)",
+      "swift_code": "CNRBINBBCLR"
+    },
+    {
+      "id": 1283,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA N S ROAD)",
+      "swift_code": "CNRBINBBCNS"
+    },
+    {
+      "id": 1284,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA OVERSEAS BRANCH)",
+      "swift_code": "CNRBINBBCOB"
+    },
+    {
+      "id": 1285,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA PRINCEP STREET BRANCH)",
+      "swift_code": "CNRBINBBCDP"
+    },
+    {
+      "id": 1286,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATTA CANNING STREET)",
+      "swift_code": "CNRBINBBCSK"
+    },
+    {
+      "id": 1287,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATTA CHOWRINGHEE)",
+      "swift_code": "CNRBINBBCCW"
+    },
+    {
+      "id": 1288,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(MCB KOLKATA)",
+      "swift_code": "CNRBINBBMKK"
+    },
+    {
+      "id": 1289,
+      "bank": "CANARA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(PRIME CORPORATE BRANCH)",
+      "swift_code": "CNRBINBBCBK"
+    },
+    {
+      "id": 1395,
+      "bank": "CD EQUISEARCH PVT LTD",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "EQSVINB1CAL"
+    },
+    {
+      "id": 1430,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA MAIN OFFICE)",
+      "swift_code": "CBININBBCAL"
+    },
+    {
+      "id": 1431,
+      "bank": "CENTRAL BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CAMAC STREET, KOLKATA)",
+      "swift_code": "CBININBBCAM"
+    },
+    {
+      "id": 1477,
+      "bank": "CITIBANK N.A.",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INTERNATIONAL BUSINESS AND FINANCE)",
+      "swift_code": "CITIINBXIBC"
+    },
+    {
+      "id": 1546,
+      "bank": "CORPORATION BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(DMT CALCUTTA BRANCH)",
+      "swift_code": "CORPINBB152"
+    },
+    {
+      "id": 1547,
+      "bank": "CORPORATION BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA CORPORATE BANKING BRANCH)",
+      "swift_code": "CORPINBBCBB"
+    },
+    {
+      "id": 1548,
+      "bank": "CORPORATION BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "CORPINBB052"
+    },
+    {
+      "id": 1629,
+      "bank": "DALMIA SECURITIES PRIVATE LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "DSPIINC1"
+    },
+    {
+      "id": 1634,
+      "bank": "DCB BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SHAKESPEARE SARANI BR.)",
+      "swift_code": "DCBLINBB023"
+    },
+    {
+      "id": 1659,
+      "bank": "DENA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BRABOURNE ROAD BRANCH)",
+      "swift_code": "BKDNINBBCAL"
+    },
+    {
+      "id": 1660,
+      "bank": "DENA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CORPORATE BUSINESS BRANCH , KOLKATA)",
+      "swift_code": "BKDNINBBCBK"
+    },
+    {
+      "id": 1661,
+      "bank": "DENA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(PARK STREET BRANCH)",
+      "swift_code": "BKDNINBBPST"
+    },
+    {
+      "id": 1692,
+      "bank": "DEUTSCHE BANK AG",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA BRANCH)",
+      "swift_code": "DEUTINBBCAL"
+    },
+    {
+      "id": 1770,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BALLYGUNGE)",
+      "swift_code": "FDRLINBBCAE"
+    },
+    {
+      "id": 1771,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BURRABAZAR BRANCH)",
+      "swift_code": "FDRLINBBCAB"
+    },
+    {
+      "id": 1772,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(C.R. AVENUE BRANCH)",
+      "swift_code": "FDRLINBBCAA"
+    },
+    {
+      "id": 1773,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CLIVE ROW CALCUTTA BRANCH)",
+      "swift_code": "FDRLINBBCAC"
+    },
+    {
+      "id": 1774,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATTA TANGRA BRANCH)",
+      "swift_code": "FDRLINBBCAL"
+    },
+    {
+      "id": 1775,
+      "bank": "FEDERAL BANK LIMITED, THE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "FDRLINBBCAJ"
+    },
+    {
+      "id": 1844,
+      "bank": "HDFC BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA - BHAVANIPUR BRANCH)",
+      "swift_code": "HDFCINBBBHP"
+    },
+    {
+      "id": 1845,
+      "bank": "HDFC BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATTA BRANCH)",
+      "swift_code": "HDFCINBBCAL"
+    },
+    {
+      "id": 1878,
+      "bank": "ICICI BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "ICICINBB006"
+    },
+    {
+      "id": 1936,
+      "bank": "IDBI BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BRABOURNE ROAD, KOLKATA)",
+      "swift_code": "IBKLINBB060"
+    },
+    {
+      "id": 1937,
+      "bank": "IDBI BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA BRANCH)",
+      "swift_code": "IBKLINBB012"
+    },
+    {
+      "id": 1938,
+      "bank": "IDBI BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(MAIN CORPORATE BRANCH, KOLKATA)",
+      "swift_code": "IBKLINBB135"
+    },
+    {
+      "id": 1939,
+      "bank": "IDBI BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SALT LAKE, KOLKATA)",
+      "swift_code": "IBKLINBB184"
+    },
+    {
+      "id": 2045,
+      "bank": "INDIAN BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA MAIN BRANCH)",
+      "swift_code": "IDIBINBBCAL"
+    },
+    {
+      "id": 2046,
+      "bank": "INDIAN BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(STRAND ROAD BRANCH)",
+      "swift_code": "IDIBINBBSTR"
+    },
+    {
+      "id": 2150,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(AUTHORISED DEALER)",
+      "swift_code": "IOBAINBB893"
+    },
+    {
+      "id": 2151,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BALLYGUNGE)",
+      "swift_code": "IOBAINBB013"
+    },
+    {
+      "id": 2152,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INDIA EXCHANGE PLACE, KOLKATA)",
+      "swift_code": "IOBAINBB015"
+    },
+    {
+      "id": 2153,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INTERNATIONAL BUSINESS BRANCH)",
+      "swift_code": "IOBAINBB585"
+    },
+    {
+      "id": 2154,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SPECIALISED MID CORPORATE BRANCH, KOLKATTA)",
+      "swift_code": "IOBAINBBQ24"
+    },
+    {
+      "id": 2155,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SPECIALIZED LARGE CORPORATE BRANCH, KOLKATTA)",
+      "swift_code": "IOBAINBBT87"
+    },
+    {
+      "id": 2156,
+      "bank": "INDIAN OVERSEAS BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(STRAND ROAD)",
+      "swift_code": "IOBAINBB675"
+    },
+    {
+      "id": 2240,
+      "bank": "INDUSIND BANK LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA, PARK STREET)",
+      "swift_code": "INDBINBBCAP"
+    },
+    {
+      "id": 2292,
+      "bank": "JAMMU AND KASHMIR BANK LTD",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA BRANCH)",
+      "swift_code": "JAKAINBBCAL"
+    },
+    {
+      "id": 2356,
+      "bank": "KARNATAKA BANK LTD.",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA BRANCH)",
+      "swift_code": "KARBINBBCAL"
+    },
+    {
+      "id": 2379,
+      "bank": "KB CAPITAL MARKETS PVT LTD",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "CAMVINC1"
+    },
+    {
+      "id": 2382,
+      "bank": "KHANDELWAL BROTHERS LTD",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "KHBRINC1"
+    },
+    {
+      "id": 2496,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BRANCH OFFICE STRAND ROAD CALCUTTA)",
+      "swift_code": "ORBCINBBSTC"
+    },
+    {
+      "id": 2497,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(GARIAHAT 1069)",
+      "swift_code": "ORBCINBBGAR"
+    },
+    {
+      "id": 2498,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(OVERSEAS CALCUTTA BRANCH)",
+      "swift_code": "ORBCINBBCAL"
+    },
+    {
+      "id": 2499,
+      "bank": "ORIENTAL BANK OF COMMERCE",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(PARK STREET, KOLKATA)",
+      "swift_code": "ORBCINBBPST"
+    },
+    {
+      "id": 2576,
+      "bank": "PUNJAB AND SIND BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(IBD CALCUTTA)",
+      "swift_code": "PSIBINBB009"
+    },
+    {
+      "id": 2702,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BARA BAZAR KOLKATA)",
+      "swift_code": "PUNBINBBKBB"
+    },
+    {
+      "id": 2703,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BRABOURNE ROAD BRANCH)",
+      "swift_code": "PUNBINBBCBR"
+    },
+    {
+      "id": 2704,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(C.R. AVENUE BRANCH)",
+      "swift_code": "PUNBINBBCCH"
+    },
+    {
+      "id": 2705,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA, BRBB ROAD BRANCH)",
+      "swift_code": "PUNBINBBCCS"
+    },
+    {
+      "id": 2706,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(FOREIGN EXCHANGE OFFICE)",
+      "swift_code": "PUNBINBBCFE"
+    },
+    {
+      "id": 2707,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INTERNATIONAL BANKING BRANCH)",
+      "swift_code": "PUNBINBBDCA"
+    },
+    {
+      "id": 2708,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(LYONS RANGE)",
+      "swift_code": "PUNBINBBKLR"
+    },
+    {
+      "id": 2709,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(NEW MARKET BRANCH)",
+      "swift_code": "PUNBINBBCLN"
+    },
+    {
+      "id": 2710,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(PARK STREET BRANCH)",
+      "swift_code": "PUNBINBBCPS"
+    },
+    {
+      "id": 2711,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SALT LAKE KOLKATA)",
+      "swift_code": "PUNBINBBKSL"
+    },
+    {
+      "id": 2712,
+      "bank": "PUNJAB NATIONAL BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SHAKESPEARE SARANI KOLKATA)",
+      "swift_code": "PUNBINBBKSS"
+    },
+    {
+      "id": 2842,
+      "bank": "SHARAD AGARWAL BROKING SERVICES PVT LTD",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "SHGAINB1"
+    },
+    {
+      "id": 2847,
+      "bank": "SHRIRAM INSIGHT SHARE BROKERS LTD.",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "SIHBINC1"
+    },
+    {
+      "id": 2854,
+      "bank": "SMIFS SECURITIES LTD.",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "SMSEINC1"
+    },
+    {
+      "id": 2858,
+      "bank": "SONALI BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "BSONINCC"
+    },
+    {
+      "id": 2863,
+      "bank": "STANDARD CHARTERED BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "SCBLINBBCAL"
+    },
+    {
+      "id": 3283,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BALLYGUNGE, CALCUTTA)",
+      "swift_code": "SBININBB328"
+    },
+    {
+      "id": 3284,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BANGALORE CIRCLE)",
+      "swift_code": "SBININBBM20"
+    },
+    {
+      "id": 3285,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA AIRPORT,CALCUTTA)",
+      "swift_code": "SBININBB490"
+    },
+    {
+      "id": 3286,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA MAIN BR.)",
+      "swift_code": "SBININBB340"
+    },
+    {
+      "id": 3287,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CHANDIGARH CIRCLE)",
+      "swift_code": "SBININBBP37"
+    },
+    {
+      "id": 3288,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CHOWRINGHEE BRANCH)",
+      "swift_code": "SBININBB140"
+    },
+    {
+      "id": 3289,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SBININBB108"
+    },
+    {
+      "id": 3290,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(COMMERCIAL BRANCH, BALLYGUNGE)",
+      "swift_code": "SBININBB330"
+    },
+    {
+      "id": 3291,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(COMMERCIAL BRANCH, JEEVAN DEEP)",
+      "swift_code": "SBININBB184"
+    },
+    {
+      "id": 3292,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(COMMERCIAL BRANCH, SALT LAKE)",
+      "swift_code": "SBININBB334"
+    },
+    {
+      "id": 3293,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CORPORATE ACCOUNTS GROUP BRANCH)",
+      "swift_code": "SBININBB175"
+    },
+    {
+      "id": 3294,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(FOREIGN DEPARTMENT)",
+      "swift_code": "SBININBBFXD"
+    },
+    {
+      "id": 3295,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(HYDERABAD CIRCLE)",
+      "swift_code": "SBININBBH68"
+    },
+    {
+      "id": 3296,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "SBININBB139"
+    },
+    {
+      "id": 3297,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBH20"
+    },
+    {
+      "id": 3298,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBJ01"
+    },
+    {
+      "id": 3299,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBJ28"
+    },
+    {
+      "id": 3300,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA CIRCLE)",
+      "swift_code": "SBININBBJ46"
+    },
+    {
+      "id": 3301,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(MUMBAI CIRCLE)",
+      "swift_code": "SBININBBJ32"
+    },
+    {
+      "id": 3302,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(N.S. ROAD,CALCUTTA)",
+      "swift_code": "SBININBB495"
+    },
+    {
+      "id": 3303,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBH21"
+    },
+    {
+      "id": 3304,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(NEW DELHI CIRCLE)",
+      "swift_code": "SBININBBM21"
+    },
+    {
+      "id": 3305,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(NRI BRANCH)",
+      "swift_code": "SBININBB138"
+    },
+    {
+      "id": 3306,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(NRI KALYANI BRANCH)",
+      "swift_code": "SBININBB812"
+    },
+    {
+      "id": 3307,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "SBININBB106"
+    },
+    {
+      "id": 3308,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SHYAMBAZAR,CALCUTTA)",
+      "swift_code": "SBININBB492"
+    },
+    {
+      "id": 3309,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SME EXIM BRANCH, KOLKATA)",
+      "swift_code": "SBININBB815"
+    },
+    {
+      "id": 3310,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SME N.S. ROAD)",
+      "swift_code": "SBININBB830"
+    },
+    {
+      "id": 3311,
+      "bank": "STATE BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(TFCPC KOLKATA)",
+      "swift_code": "SBININBB608"
+    },
+    {
+      "id": 3773,
+      "bank": "SYNDICATE BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BARA BAZAR BRANCH)",
+      "swift_code": "SYNBINBB173"
+    },
+    {
+      "id": 3774,
+      "bank": "SYNDICATE BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CAMAC STREET BRANCH)",
+      "swift_code": "SYNBINBB092"
+    },
+    {
+      "id": 3775,
+      "bank": "SYNDICATE BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CIRCUS AVENUE BRANCH)",
+      "swift_code": "SYNBINBB176"
+    },
+    {
+      "id": 3776,
+      "bank": "SYNDICATE BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(FXPC BRANCH)",
+      "swift_code": "SYNBINBB120"
+    },
+    {
+      "id": 3777,
+      "bank": "SYNDICATE BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(LARGE CORPORATE BRANCH KOLKATA)",
+      "swift_code": "SYNBINBBL69"
+    },
+    {
+      "id": 3778,
+      "bank": "SYNDICATE BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(N.S. ROAD BRANCH)",
+      "swift_code": "SYNBINBB005"
+    },
+    {
+      "id": 3779,
+      "bank": "SYNDICATE BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SALT LAKE CITY BRANCH)",
+      "swift_code": "SYNBINBB388"
+    },
+    {
+      "id": 3780,
+      "bank": "SYNDICATE BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SYNDICATE BANK MCB KOLKATA)",
+      "swift_code": "SYNBINBBAU0"
+    },
+    {
+      "id": 3859,
+      "bank": "THE CALCUTTA STOCK EXCHANGE ASSOCIATION LIMITED",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "XCALINC1"
+    },
+    {
+      "id": 3917,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(GANESH CHANDRA AVENUE, KOLKATA BRANCH)",
+      "swift_code": "SOININ55129"
+    },
+    {
+      "id": 3918,
+      "bank": "THE SOUTH INDIAN BANK LTD",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA CORPORATE)",
+      "swift_code": "SOININ55728"
+    },
+    {
+      "id": 3991,
+      "bank": "UCO BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BIDHANNAGAR)",
+      "swift_code": "UCBAINBBBID"
+    },
+    {
+      "id": 3992,
+      "bank": "UCO BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INDIA EXCHANGE PLACE RETAIL)",
+      "swift_code": "UCBAINBB344"
+    },
+    {
+      "id": 3993,
+      "bank": "UCO BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INDIA EXCHANGE PLACE)",
+      "swift_code": "UCBAINBB136"
+    },
+    {
+      "id": 3994,
+      "bank": "UCO BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "UCBAINBB132"
+    },
+    {
+      "id": 3995,
+      "bank": "UCO BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INTERANTIONAL BANKING BRANCH)",
+      "swift_code": "UCBAINBB102"
+    },
+    {
+      "id": 3996,
+      "bank": "UCO BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(KOLKATA MAIN)",
+      "swift_code": "UCBAINBB134"
+    },
+    {
+      "id": 4073,
+      "bank": "UNION BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(INDUSTRIAL FINANCE BRANCH)",
+      "swift_code": "UBININBBIKL"
+    },
+    {
+      "id": 4074,
+      "bank": "UNION BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(OVERSEAS BRANCH, CALCUTTA)",
+      "swift_code": "UBININBBOCL"
+    },
+    {
+      "id": 4152,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(ANANDPUR BRANCH)",
+      "swift_code": "UTBIINBBADP"
+    },
+    {
+      "id": 4153,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BONGAON)",
+      "swift_code": "UTBIINBBBNN"
+    },
+    {
+      "id": 4154,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CALCUTTA)",
+      "swift_code": "UTBIINBBCAL"
+    },
+    {
+      "id": 4155,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(CORPORATE FINANCE BRANCH)",
+      "swift_code": "UTBIINBBCFK"
+    },
+    {
+      "id": 4156,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(OVERSEAS (KOLKATA))",
+      "swift_code": "UTBIINBBOBC"
+    },
+    {
+      "id": 4157,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(PARK STREET )",
+      "swift_code": "UTBIINBBPKS"
+    },
+    {
+      "id": 4158,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(SALT LAKE BRANCH)",
+      "swift_code": "UTBIINBBSLK"
+    },
+    {
+      "id": 4159,
+      "bank": "UNITED BANK OF INDIA",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "UTBIINBBOVE"
+    },
+    {
+      "id": 4197,
+      "bank": "VCK SHARE AND STOCK BROKING SERVICES LTD.",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "",
+      "swift_code": "VCKSINC1"
+    },
+    {
+      "id": 4218,
+      "bank": "VIJAYA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(BRABOURNE ROAD BRANCH)",
+      "swift_code": "VIJBINBBBRC"
+    },
+    {
+      "id": 4219,
+      "bank": "VIJAYA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(N.S. ROAD BRANCH)",
+      "swift_code": "VIJBINBBNSC"
+    },
+    {
+      "id": 4220,
+      "bank": "VIJAYA BANK",
+      "city": "KOLKATA (CALCUTTA)",
+      "branch": "(OVERSEAS BRANCH)",
+      "swift_code": "VIJBINBBOSC"
+    }
+  ],
+  "meta": {
+    "title": "Kolkata (Calcutta) में बैंक — SWIFT/BIC कोड - मुफ़्त डाउनलोड",
+    "description": "SWIFT/BIC codes for banks and financial institutions located in Kolkata (Calcutta), India. Subset of hi-bank. Source city string preserved verbatim as \"KOLKATA (CALCUTTA)\". शामिल हैं 181 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Kolkata (Calcutta) में बैंक — SWIFT/BIC कोड | ListBase",
+    "seo_description": "डाउनलोड Kolkata (Calcutta) में बैंक — SWIFT/BIC कोड — 181 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 181 रिकॉर्ड / 5 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

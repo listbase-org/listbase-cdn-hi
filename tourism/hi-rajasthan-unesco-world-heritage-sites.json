@@ -1,0 +1,160 @@
+{
+  "id": "hi-rajasthan-unesco-world-heritage-sites",
+  "name": "Rajasthan के यूनेस्को विश्व धरोहर स्थल (Rajasthan UNESCO World Heritage Sites)",
+  "title": "Rajasthan के यूनेस्को विश्व धरोहर स्थल (Rajasthan UNESCO World Heritage Sites)",
+  "description": "UNESCO World Heritage Sites located in Rajasthan, India (4 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"Rajasthan\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11).",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    },
+    {
+      "key": "image_url",
+      "label": "Image Url",
+      "type": "string"
+    },
+    {
+      "key": "wiki_url",
+      "label": "Wiki Url",
+      "type": "string"
+    },
+    {
+      "key": "asi_ticket_url",
+      "label": "Asi Ticket Url",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_slug",
+      "label": "Country Slug",
+      "type": "string"
+    },
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 21,
+      "name": "Keoladeo National Park",
+      "name_slug": "keoladeo-national-park",
+      "state": "Rajasthan",
+      "state_slug": "rajasthan",
+      "latitude": 27.1594,
+      "longitude": 77.528,
+      "description": "A famous avifauna sanctuary that hosts thousands of birds, especially during winter. Also known as Bharatpur Bird Sanctuary.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Keoladeo_National_Park.jpg/800px-Keoladeo_National_Park.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Keoladeo_National_Park",
+      "asi_ticket_url": "https://rajasthanwildlife.in/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 27,
+      "name": "Jantar Mantar, Jaipur",
+      "name_slug": "jantar-mantar-jaipur",
+      "state": "Rajasthan",
+      "state_slug": "rajasthan",
+      "latitude": 26.9246,
+      "longitude": 75.8245,
+      "description": "An astronomical observation site built by Maharaja Jai Singh II. Features the world's largest stone sundial.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jaipur_03-2016_13_Jantar_Mantar.jpg/800px-Jaipur_03-2016_13_Jantar_Mantar.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jantar_Mantar,_Jaipur",
+      "asi_ticket_url": "https://asi.payumoney.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 29,
+      "name": "Hill Forts of Rajasthan",
+      "name_slug": "hill-forts-of-rajasthan",
+      "state": "Rajasthan",
+      "state_slug": "rajasthan",
+      "latitude": 26.9869,
+      "longitude": 73.7269,
+      "description": "A serial nomination of six majestic forts in Rajasthan including Amber Fort, Chittorgarh, Gagron Fort, Jaisalmer Fort, Kumbhalgarh, and Ranthambore.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Amer_Fort_-_Jaipur.jpg/800px-Amer_Fort_-_Jaipur.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Hill_Forts_of_Rajasthan",
+      "asi_ticket_url": "https://asi.payumoney.com/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    },
+    {
+      "id": 37,
+      "name": "Jaipur City",
+      "name_slug": "jaipur-city",
+      "state": "Rajasthan",
+      "state_slug": "rajasthan",
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "description": "The Pink City of Jaipur, founded in 1727. Known for its unique urban planning and architectural harmony.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/800px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg",
+      "wiki_url": "https://en.wikipedia.org/wiki/Jaipur",
+      "asi_ticket_url": "https://tourism.rajasthan.gov.in/",
+      "country": "India",
+      "country_slug": "india",
+      "source": "Kushwahaabhay/UNESCO-Site-Finder@630b22c"
+    }
+  ],
+  "meta": {
+    "title": "Rajasthan के यूनेस्को विश्व धरोहर स्थल (Rajasthan UNESCO World Heritage Sites) - मुफ़्त डाउनलोड",
+    "description": "UNESCO World Heritage Sites located in Rajasthan, India (4 sites). Subset of the national `hi-unesco-world-heritage-sites` flagship; filter applied: state == \"Rajasthan\". Sourced from Kushwahaabhay/UNESCO-Site-Finder (MIT, 2025-11). शामिल हैं 4 रिकॉर्ड. Excel, CSV, PDF प्रारूप में डाउनलोड करें.",
+    "seo_title": "Rajasthan के यूनेस्को विश्व धरोहर स्थल (Rajasthan UNESCO World Heritage Sites) | ListBase",
+    "seo_description": "डाउनलोड Rajasthan के यूनेस्को विश्व धरोहर स्थल (Rajasthan UNESCO World Heritage Sites) — 4 रिकॉर्ड. Excel, CSV, PDF प्रारूप में उपलब्ध.",
+    "key_takeaways": [
+      "शामिल हैं 4 रिकॉर्ड / 14 फ़ील्ड",
+      "Excel, CSV और PDF प्रारूप में मुफ़्त डाउनलोड",
+      "डेटा स्रोत: open data"
+    ]
+  }
+}

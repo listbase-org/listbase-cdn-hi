@@ -1,0 +1,174 @@
+{
+  "id": "hi-hindustani-rag",
+  "name": "हिन्दुस्तानी संगीत के राग",
+  "title": "हिन्दुस्तानी संगीत के राग",
+  "description": "हिन्दुस्तानी शास्त्रीय संगीत के चयनित रागों की द्विभाषी संदर्भ सूची। वर्गीकरण स्रोत में उपलब्ध कथनों पर आधारित है; यह सभी रागों की पूर्ण सूची नहीं है।",
+  "category": "music",
+  "source": "https://www.wikidata.org/",
+  "source_url": "https://www.wikidata.org/",
+  "source_license": "CC0-1.0",
+  "source_license_url": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+  "retrieved": "2026-10-22",
+  "localization": "Hindi names curated editorially; English descriptions and linked facts extracted from Wikidata. Missing source claims remain empty.",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "नाम",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "अंग्रेज़ी नाम",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "स्रोत का अंग्रेज़ी विवरण",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "वर्गीकरण",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "स्रोत लिंक",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "भैरव",
+      "name_en": "Bhairav",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q2321739"
+    },
+    {
+      "name": "भीमपलासी",
+      "name_en": "Bhimpalasi",
+      "description_en": "Hindustani classical raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q45564"
+    },
+    {
+      "name": "भूपाली",
+      "name_en": "Bhoopali",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q46954"
+    },
+    {
+      "name": "बिहाग",
+      "name_en": "Bihag",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q4907048"
+    },
+    {
+      "name": "दरबारी कान्हड़ा",
+      "name_en": "Darbari Kanhada",
+      "description_en": "Janya raga of Carnatic music, also used in Hindustani classical music",
+      "classification": "जन्य राग",
+      "source_url": "https://www.wikidata.org/wiki/Q15681261"
+    },
+    {
+      "name": "देश",
+      "name_en": "Desh",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q12434145"
+    },
+    {
+      "name": "दुर्गा",
+      "name_en": "Durga",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q5316371"
+    },
+    {
+      "name": "हमीर",
+      "name_en": "Hameer",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q5644481"
+    },
+    {
+      "name": "काफ़ी",
+      "name_en": "Kafi (raga)",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q2560197"
+    },
+    {
+      "name": "केदार",
+      "name_en": "Kedar",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q12420571"
+    },
+    {
+      "name": "खमाज",
+      "name_en": "Khamaj",
+      "description_en": "Hindustani classical raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q6399897"
+    },
+    {
+      "name": "मालकौंस",
+      "name_en": "Malkauns",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q7377646"
+    },
+    {
+      "name": "मुल्तानी",
+      "name_en": "Multani",
+      "description_en": "Hindustani classical raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q6934367"
+    },
+    {
+      "name": "पूरिया",
+      "name_en": "Puriya",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q7261299"
+    },
+    {
+      "name": "पूरिया धनाश्री",
+      "name_en": "Puriya Dhanashree",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q7261302"
+    },
+    {
+      "name": "तोड़ी",
+      "name_en": "Todi",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q7812775"
+    },
+    {
+      "name": "यमन",
+      "name_en": "Yaman",
+      "description_en": "Hindustani raga",
+      "classification": "राग",
+      "source_url": "https://www.wikidata.org/wiki/Q8047871"
+    }
+  ],
+  "meta": {
+    "title": "हिन्दुस्तानी संगीत के राग - निःशुल्क डाउनलोड",
+    "description": "हिन्दुस्तानी शास्त्रीय संगीत के चयनित रागों की द्विभाषी संदर्भ सूची। वर्गीकरण स्रोत में उपलब्ध कथनों पर आधारित है; यह सभी रागों की पूर्ण सूची नहीं है। कुल 17 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
+    "seo_title": "हिन्दुस्तानी संगीत के राग | ListBase",
+    "seo_description": "डाउनलोड करें हिन्दुस्तानी संगीत के राग — 17 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
+    "key_takeaways": [
+      "कुल 17 रिकॉर्ड / 5 कॉलम",
+      "Excel और CSV में निःशुल्क डाउनलोड उपलब्ध",
+      "डेटा का स्रोत: https://www.wikidata.org/"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-22T03:45:40.092Z",
-  "total_datasets": 411,
-  "total_records": 2008902,
+  "generated": "2026-10-22T03:45:41.690Z",
+  "total_datasets": 412,
+  "total_records": 2008919,
   "categories": [
     {
       "id": "culture",
@@ -34,6 +34,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "music",
       "dataset_count": 1
     },
     {
@@ -5739,6 +5743,32 @@
         "xlsx": {
           "name": "hi-lipiyan_HI.xlsx",
           "size": 11111
+        }
+      }
+    },
+    {
+      "id": "hi-hindustani-rag",
+      "name": "हिन्दुस्तानी संगीत के राग",
+      "category": "music",
+      "record_count": 17,
+      "columns": [
+        "name",
+        "name_en",
+        "description_en",
+        "classification",
+        "source_url"
+      ],
+      "source": "https://www.wikidata.org/",
+      "updated": "2026-10",
+      "size": 6795,
+      "files": {
+        "csv": {
+          "name": "hi-hindustani-rag_HI.csv",
+          "size": 2035
+        },
+        "xlsx": {
+          "name": "hi-hindustani-rag_HI.xlsx",
+          "size": 7731
         }
       }
     },

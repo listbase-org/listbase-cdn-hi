@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-22T03:27:55.114Z",
-  "total_datasets": 410,
-  "total_records": 2008889,
+  "generated": "2026-10-22T03:45:40.092Z",
+  "total_datasets": 411,
+  "total_records": 2008902,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -3785,6 +3785,33 @@
         "xlsx": {
           "name": "hi-bharatiya-vyanjan_HI.xlsx",
           "size": 64619
+        }
+      }
+    },
+    {
+      "id": "hi-kshetriya-pakshailiyan",
+      "name": "भारत की क्षेत्रीय पाकशैलियाँ",
+      "category": "food",
+      "record_count": 13,
+      "columns": [
+        "name",
+        "name_en",
+        "description_en",
+        "classification",
+        "culture",
+        "source_url"
+      ],
+      "source": "https://www.wikidata.org/",
+      "updated": "2026-10",
+      "size": 8713,
+      "files": {
+        "csv": {
+          "name": "hi-kshetriya-pakshailiyan_HI.csv",
+          "size": 4317
+        },
+        "xlsx": {
+          "name": "hi-kshetriya-pakshailiyan_HI.xlsx",
+          "size": 8013
         }
       }
     },

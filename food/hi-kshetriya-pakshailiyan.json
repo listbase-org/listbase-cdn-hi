@@ -1,0 +1,164 @@
+{
+  "id": "hi-kshetriya-pakshailiyan",
+  "name": "भारत की क्षेत्रीय पाकशैलियाँ",
+  "title": "भारत की क्षेत्रीय पाकशैलियाँ",
+  "description": "भारत की चयनित क्षेत्रीय पाकशैलियों की संदर्भ सूची; यह व्यंजनों या पकाने की विधियों का संग्रह नहीं है।",
+  "category": "food",
+  "source": "https://www.wikidata.org/",
+  "source_url": "https://www.wikidata.org/",
+  "source_license": "CC0-1.0",
+  "source_license_url": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+  "retrieved": "2026-10-22",
+  "localization": "Hindi names curated editorially; English descriptions and linked facts extracted from Wikidata. Missing source claims remain empty.",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "नाम",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "अंग्रेज़ी नाम",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "स्रोत का अंग्रेज़ी विवरण",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "वर्गीकरण",
+      "type": "string"
+    },
+    {
+      "key": "culture",
+      "label": "संबंधित संस्कृति",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "स्रोत लिंक",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "असमिया पाकशैली",
+      "name_en": "Assamese cuisine",
+      "description_en": "northeast Indian cuisine",
+      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
+      "culture": "असमिया संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q3595895"
+    },
+    {
+      "name": "अवधी पाकशैली",
+      "name_en": "Awadhi cuisine",
+      "description_en": "culinary traditions of Awadh",
+      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
+      "culture": "",
+      "source_url": "https://www.wikidata.org/wiki/Q41928"
+    },
+    {
+      "name": "बंगाली पाकशैली",
+      "name_en": "Bengali cuisine",
+      "description_en": "cuisine from the region of Bengal",
+      "classification": "क्षेत्रीय पाकशैली; दक्षिण एशियाई व्यंजन",
+      "culture": "बंगाल की संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q1572982"
+    },
+    {
+      "name": "भोजपुरी पाकशैली",
+      "name_en": "Bhojpuri cuisine",
+      "description_en": "culinary traditions of Bhojpur region of India",
+      "classification": "समुदाय की पाकशैली; भारतीय-आर्य पाकशैली",
+      "culture": "भोजपुरी संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q4901911"
+    },
+    {
+      "name": "बिहारी पाकशैली",
+      "name_en": "Bihari cuisine",
+      "description_en": "culinary tradition",
+      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
+      "culture": "बिहार की संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q42015"
+    },
+    {
+      "name": "गोवा की पाकशैली",
+      "name_en": "Goan cuisine",
+      "description_en": "cuisine from Goa, India, influenced by Portuguese colonial rule",
+      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
+      "culture": "गोवा की संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q2025907"
+    },
+    {
+      "name": "गुजराती पाकशैली",
+      "name_en": "Gujarati cuisine",
+      "description_en": "cuisine of Gujarat, India",
+      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
+      "culture": "गुजरात की संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q2732159"
+    },
+    {
+      "name": "कर्नाटक की पाकशैली",
+      "name_en": "Karnataka cuisine",
+      "description_en": "cuisine from the state of Karnataka",
+      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
+      "culture": "कर्नाटक की संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q5192776"
+    },
+    {
+      "name": "कश्मीरी पाकशैली",
+      "name_en": "Kashmiri cuisine",
+      "description_en": "traditional food dishes from India's Kashmir Valley",
+      "classification": "क्षेत्रीय पाकशैली; एशियाई भोजन",
+      "culture": "कश्मीर की संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q2152857"
+    },
+    {
+      "name": "महाराष्ट्रीय पाकशैली",
+      "name_en": "Maharashtrian cuisine",
+      "description_en": "cuisine of the Marathi people from the state of Maharashtra in India",
+      "classification": "समुदाय की पाकशैली; क्षेत्रीय पाकशैली; भारतीय खाना; भारतीय-आर्य पाकशैली",
+      "culture": "महाराष्ट्र की संस्कृति; भारतीय-आर्य संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q7601803"
+    },
+    {
+      "name": "पंजाबी पाकशैली",
+      "name_en": "Punjabi cuisine",
+      "description_en": "food from the Punjab region of India and Pakistan",
+      "classification": "क्षेत्रीय पाकशैली; समुदाय की पाकशैली; दक्षिण एशियाई व्यंजन; भारतीय-आर्य पाकशैली",
+      "culture": "पंजाबी संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q2090705"
+    },
+    {
+      "name": "राजस्थानी पाकशैली",
+      "name_en": "Rajasthani cuisine",
+      "description_en": "marwadi, mewadi and barmeri cuisine",
+      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
+      "culture": "राजस्थान की संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q3595467"
+    },
+    {
+      "name": "तमिल पाकशैली",
+      "name_en": "Tamil cuisine",
+      "description_en": "tamilian cuisine",
+      "classification": "समुदाय की पाकशैली; मानव पाकशैली",
+      "culture": "तमिल संस्कृति",
+      "source_url": "https://www.wikidata.org/wiki/Q3007006"
+    }
+  ],
+  "meta": {
+    "title": "भारत की क्षेत्रीय पाकशैलियाँ - निःशुल्क डाउनलोड",
+    "description": "भारत की चयनित क्षेत्रीय पाकशैलियों की संदर्भ सूची; यह व्यंजनों या पकाने की विधियों का संग्रह नहीं है। कुल 13 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
+    "seo_title": "भारत की क्षेत्रीय पाकशैलियाँ | ListBase",
+    "seo_description": "डाउनलोड करें भारत की क्षेत्रीय पाकशैलियाँ — 13 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
+    "key_takeaways": [
+      "कुल 13 रिकॉर्ड / 6 कॉलम",
+      "Excel और CSV में निःशुल्क डाउनलोड उपलब्ध",
+      "डेटा का स्रोत: https://www.wikidata.org/"
+    ]
+  }
+}

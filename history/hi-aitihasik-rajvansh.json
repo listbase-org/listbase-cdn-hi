@@ -1,0 +1,172 @@
+{
+  "id": "hi-aitihasik-rajvansh",
+  "name": "भारतीय उपमहाद्वीप के ऐतिहासिक राजवंश",
+  "title": "भारतीय उपमहाद्वीप के ऐतिहासिक राजवंश",
+  "description": "भारतीय उपमहाद्वीप के चयनित ऐतिहासिक राजवंशों और साम्राज्यों की संदर्भ सूची, जिसमें स्रोत में उपलब्ध राजधानियाँ दी गई हैं। राजधानियाँ अलग-अलग काल की हो सकती हैं; ऐतिहासिक क्षेत्र आधुनिक भारत की सीमाओं तक सीमित नहीं हैं।",
+  "category": "history",
+  "source": "https://www.wikidata.org/",
+  "source_url": "https://www.wikidata.org/",
+  "source_license": "CC0-1.0",
+  "source_license_url": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+  "retrieved": "2026-10-22",
+  "localization": "Hindi names curated editorially; English descriptions and linked facts extracted from Wikidata. Missing source claims remain empty.",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "नाम",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "अंग्रेज़ी नाम",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "स्रोत का अंग्रेज़ी विवरण",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "स्रोत में दर्ज राजधानियाँ",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "वर्गीकरण",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "स्रोत लिंक",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "चेर राजवंश",
+      "name_en": "Chera dynasty",
+      "description_en": "one of the three major kingdoms of ancient south India. Ruled over parts of present-day states of Kerala and Tamil Nadu in south India",
+      "capital": "करूर",
+      "classification": "राजवंश; ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q877155"
+    },
+    {
+      "name": "चोल राजवंश",
+      "name_en": "Chola dynasty",
+      "description_en": "dynasty of southern India",
+      "capital": "पूहार, मयिलाडुतुरै",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q151148"
+    },
+    {
+      "name": "गुप्त साम्राज्य",
+      "name_en": "Gupta Empire",
+      "description_en": "ancient Indian empire (c. 3rd century CE–575 CE)",
+      "capital": "पाटलीपुत्र",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q11774"
+    },
+    {
+      "name": "कुषाण साम्राज्य",
+      "name_en": "Kushan Empire",
+      "description_en": "empire in Central and South Asia (30–375 AD)",
+      "capital": "बगराम",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q25979"
+    },
+    {
+      "name": "मराठा साम्राज्य",
+      "name_en": "Maratha Empire",
+      "description_en": "1674–1818 empire in the Indian subcontinent",
+      "capital": "रायगढ़",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q83618"
+    },
+    {
+      "name": "मौर्य साम्राज्य",
+      "name_en": "Maurya empire",
+      "description_en": "ancient Indian empire (322–184 BCE)",
+      "capital": "पाटलीपुत्र; पटना",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q62943"
+    },
+    {
+      "name": "मुग़ल साम्राज्य",
+      "name_en": "Mughal Empire",
+      "description_en": "great Turkic descent empire ruling India (1526–1857)",
+      "capital": "आगरा; फ़तेहपुर सीकरी; पुरानी दिल्ली; लाहौर; दिल्ली",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q33296"
+    },
+    {
+      "name": "पाल साम्राज्य",
+      "name_en": "Pala Empire",
+      "description_en": "kingdom In North India",
+      "capital": "पाटलीपुत्र",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q668412"
+    },
+    {
+      "name": "पल्लव राजवंश",
+      "name_en": "Pallava dynasty",
+      "description_en": "Indian dynasty between the 3rd and 9th centuries CE",
+      "capital": "कांचिपुरम",
+      "classification": "ऐतिहासिक देश; राजवंश; ऐतिहासिक काल",
+      "source_url": "https://www.wikidata.org/wiki/Q466803"
+    },
+    {
+      "name": "पांड्य राजवंश",
+      "name_en": "Pandya dynasty",
+      "description_en": "ancient Tamil dynasty of south India",
+      "capital": "मदुरई",
+      "classification": "राजवंश; ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q844910"
+    },
+    {
+      "name": "सातवाहन राजवंश",
+      "name_en": "Satavahana dynasty",
+      "description_en": "Indian dynasty (2nd century BCE–Early 3rd century CE)",
+      "capital": "अमरावति",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q5257"
+    },
+    {
+      "name": "सेन राजवंश",
+      "name_en": "Sena dynasty",
+      "description_en": "sena Empire",
+      "capital": "नवद्वीप",
+      "classification": "राजवंश; ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q2428714"
+    },
+    {
+      "name": "शुंग साम्राज्य",
+      "name_en": "Shunga Empire",
+      "description_en": "Indian empire (184 BCE-75 BCE)",
+      "capital": "पाटलीपुत्र",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q651377"
+    },
+    {
+      "name": "विजयनगर साम्राज्य",
+      "name_en": "Vijayanagara Empire",
+      "description_en": "Hindu kingdom in Southern India (14th-17th century)",
+      "capital": "विजयनगर; पेनुकोंडा; चंद्रगिरि; वेल्लोर",
+      "classification": "ऐतिहासिक देश",
+      "source_url": "https://www.wikidata.org/wiki/Q167639"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय उपमहाद्वीप के ऐतिहासिक राजवंश - निःशुल्क डाउनलोड",
+    "description": "भारतीय उपमहाद्वीप के चयनित ऐतिहासिक राजवंशों और साम्राज्यों की संदर्भ सूची, जिसमें स्रोत में उपलब्ध राजधानियाँ दी गई हैं। राजधानियाँ अलग-अलग काल की हो सकती हैं; ऐतिहासिक क्षेत्र आधुनिक भारत की सीमाओं तक सीमित नहीं हैं। कुल 14 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
+    "seo_title": "भारतीय उपमहाद्वीप के ऐतिहासिक राजवंश | ListBase",
+    "seo_description": "डाउनलोड करें भारतीय उपमहाद्वीप के ऐतिहासिक राजवंश — 14 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
+    "key_takeaways": [
+      "कुल 14 रिकॉर्ड / 6 कॉलम",
+      "Excel और CSV में निःशुल्क डाउनलोड उपलब्ध",
+      "डेटा का स्रोत: https://www.wikidata.org/"
+    ]
+  }
+}

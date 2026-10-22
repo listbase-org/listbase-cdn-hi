@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-22T04:12:23.164Z",
+  "generated": "2026-10-22T04:12:24.598Z",
   "total_datasets": 415,
-  "total_records": 2009031,
+  "total_records": 2009022,
   "categories": [
     {
       "id": "agriculture",
@@ -92,28 +92,25 @@
   "datasets": [
     {
       "id": "hi-bharatiya-govansh-naslen",
-      "name": "भारत से संबद्ध गोवंश नस्लें",
+      "name": "भारत की प्रमुख गोवंश नस्लें: हिन्दी स्रोत",
       "category": "agriculture",
-      "record_count": 18,
+      "record_count": 9,
       "columns": [
         "name",
-        "name_en",
-        "description_en",
-        "origin",
-        "classification",
+        "description",
         "source_url"
       ],
-      "source": "https://www.wikidata.org/",
+      "source": "https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A4%BE%E0%A4%AF",
       "updated": "2026-10",
-      "size": 8106,
+      "size": 9928,
       "files": {
         "csv": {
           "name": "hi-bharatiya-govansh-naslen_HI.csv",
-          "size": 2783
+          "size": 5890
         },
         "xlsx": {
           "name": "hi-bharatiya-govansh-naslen_HI.xlsx",
-          "size": 7900
+          "size": 8036
         }
       }
     },

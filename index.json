@@ -1,6 +1,6 @@
 {
   "lang": "hi",
-  "generated": "2026-10-22T03:45:45.974Z",
+  "generated": "2026-10-22T04:12:20.215Z",
   "total_datasets": 415,
   "total_records": 2008962,
   "categories": [
@@ -3833,28 +3833,25 @@
     },
     {
       "id": "hi-kshetriya-pakshailiyan",
-      "name": "भारत की क्षेत्रीय पाकशैलियाँ",
+      "name": "भारत का क्षेत्रीय खानपान",
       "category": "food",
       "record_count": 13,
       "columns": [
         "name",
-        "name_en",
-        "description_en",
-        "classification",
-        "culture",
+        "dishes",
         "source_url"
       ],
-      "source": "https://www.wikidata.org/",
+      "source": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE",
       "updated": "2026-10",
-      "size": 8713,
+      "size": 10014,
       "files": {
         "csv": {
           "name": "hi-kshetriya-pakshailiyan_HI.csv",
-          "size": 4317
+          "size": 5756
         },
         "xlsx": {
           "name": "hi-kshetriya-pakshailiyan_HI.xlsx",
-          "size": 8013
+          "size": 8315
         }
       }
     },

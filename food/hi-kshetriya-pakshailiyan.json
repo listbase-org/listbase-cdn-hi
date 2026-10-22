@@ -1,15 +1,16 @@
 {
   "id": "hi-kshetriya-pakshailiyan",
-  "name": "भारत की क्षेत्रीय पाकशैलियाँ",
-  "title": "भारत की क्षेत्रीय पाकशैलियाँ",
-  "description": "भारत की चयनित क्षेत्रीय पाकशैलियों की संदर्भ सूची; यह व्यंजनों या पकाने की विधियों का संग्रह नहीं है।",
+  "name": "भारत का क्षेत्रीय खानपान",
+  "title": "भारत का क्षेत्रीय खानपान",
+  "description": "हिन्दी विकिपीडिया के पारम्परिक क्षेत्रीय खानपान अनुभाग से क्षेत्र और उनके व्यंजनों की सूची। मूल नाम यथावत रखे गए हैं; यह पकाने की विधियों का संग्रह नहीं है।",
   "category": "food",
-  "source": "https://www.wikidata.org/",
-  "source_url": "https://www.wikidata.org/",
-  "source_license": "CC0-1.0",
-  "source_license_url": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+  "source": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE",
+  "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "हिन्दी विकिपीडिया के योगदानकर्ता; प्रत्येक पंक्ति में मूल स्रोत का लिंक उपलब्ध है।",
   "retrieved": "2026-10-22",
-  "localization": "Hindi names curated editorially; English descriptions and linked facts extracted from Wikidata. Missing source claims remain empty.",
+  "localization": "मूल हिन्दी स्रोत के नाम और विवरण यथावत; कोई पंक्ति अनूदित नहीं। HTML, संदर्भ चिह्न और अतिरिक्त रिक्त स्थान हटाए गए हैं; सूचियाँ समतल की गई हैं।",
   "updated": "2026-10",
   "record_count": 13,
   "columns": [
@@ -19,23 +20,8 @@
       "type": "string"
     },
     {
-      "key": "name_en",
-      "label": "अंग्रेज़ी नाम",
-      "type": "string"
-    },
-    {
-      "key": "description_en",
-      "label": "स्रोत का अंग्रेज़ी विवरण",
-      "type": "string"
-    },
-    {
-      "key": "classification",
-      "label": "वर्गीकरण",
-      "type": "string"
-    },
-    {
-      "key": "culture",
-      "label": "संबंधित संस्कृति",
+      "key": "dishes",
+      "label": "स्रोत में दिए व्यंजन",
       "type": "string"
     },
     {
@@ -46,119 +32,80 @@
   ],
   "rows": [
     {
-      "name": "असमिया पाकशैली",
-      "name_en": "Assamese cuisine",
-      "description_en": "northeast Indian cuisine",
-      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
-      "culture": "असमिया संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q3595895"
+      "name": "कश्मीरी",
+      "dishes": "यखनी; कश्मीरी पुलाव; गुश्तावा",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%95%E0%A4%B6%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%B0%E0%A5%80"
     },
     {
-      "name": "अवधी पाकशैली",
-      "name_en": "Awadhi cuisine",
-      "description_en": "culinary traditions of Awadh",
-      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
-      "culture": "",
-      "source_url": "https://www.wikidata.org/wiki/Q41928"
+      "name": "डोगरी",
+      "dishes": "राजमा चावल; काशीफल का अम्बल; दाल मद्धरा; रौंगी मद्धरा; औहरिया आलू; टिम्बरू चटनी; कलाड़ी कुल्चा; सरियाँ का साग; रेढ़ू ढोडा; खमीरे-भट्ठोरू; कत्तरैड़ आसरा; कसरोड़; गुच्छी पुलाव; घ्यूर; गुलरा; पत्त्रोड़ू",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%A1%E0%A5%8B%E0%A4%97%E0%A4%B0%E0%A5%80"
     },
     {
-      "name": "बंगाली पाकशैली",
-      "name_en": "Bengali cuisine",
-      "description_en": "cuisine from the region of Bengal",
-      "classification": "क्षेत्रीय पाकशैली; दक्षिण एशियाई व्यंजन",
-      "culture": "बंगाल की संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q1572982"
+      "name": "पंजाबी",
+      "dishes": "तंदूरी चिकन; सरसों का साग; मक्खदाल नी; छोले भटूरे",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%AA%E0%A4%82%E0%A4%9C%E0%A4%BE%E0%A4%AC%E0%A5%80"
     },
     {
-      "name": "भोजपुरी पाकशैली",
-      "name_en": "Bhojpuri cuisine",
-      "description_en": "culinary traditions of Bhojpur region of India",
-      "classification": "समुदाय की पाकशैली; भारतीय-आर्य पाकशैली",
-      "culture": "भोजपुरी संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q4901911"
+      "name": "अवधी खाना",
+      "dishes": "दम पुख्त; बिरयानी; काकोरी कबाब; शामी कबाब; मलाई गिलौरी",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%85%E0%A4%B5%E0%A4%A7%E0%A5%80_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE"
     },
     {
-      "name": "बिहारी पाकशैली",
-      "name_en": "Bihari cuisine",
-      "description_en": "culinary tradition",
-      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
-      "culture": "बिहार की संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q42015"
+      "name": "राजस्थानी",
+      "dishes": "दाल बाटी; चूरमा; लापसी; घेवर; कैर की सब्जी; कड़ी; मावा कचौरी; गट्टे की सब्जी; हल्दी की सब्जी; मंगोड़ी और पिथोड़ी की सब्जी; मूंग दाल, आटे और सिंगोड़े का हलवा; गुंद के लड्डू; पंचमेल सब्जी; सांगरी की सब्जी; कुमटिया की सब्जी",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A5%80"
     },
     {
-      "name": "गोवा की पाकशैली",
-      "name_en": "Goan cuisine",
-      "description_en": "cuisine from Goa, India, influenced by Portuguese colonial rule",
-      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
-      "culture": "गोवा की संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q2025907"
+      "name": "गुजराती",
+      "dishes": "ढोकला; खांडवी; लापसी; बाफला; थेपला; भाखरी; श्रीखण्ड; खमण; उधिया; फाफडा; गोटा",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%97%E0%A5%81%E0%A4%9C%E0%A4%B0%E0%A4%BE%E0%A4%A4%E0%A5%80"
     },
     {
-      "name": "गुजराती पाकशैली",
-      "name_en": "Gujarati cuisine",
-      "description_en": "cuisine of Gujarat, India",
-      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
-      "culture": "गुजरात की संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q2732159"
+      "name": "महाराष्ट्री",
+      "dishes": "वड़ा पाव; श्रीखंड; भेलपूरी; पुरण पोळी; झुणका भाकर; गुर्जर वाल भाजी; गुर्जरोयनी वरण बट्टी; गुर्जरी सफेद कढ़ी; गुर्जरी वाल ना दाना अनं वांगु; गुर्जरी तोर ना दाना अनं वांगु; गुर्जरी वांगा नी घोटेल भाजी; गुर्जरी सग्गा वांगा; गुर्जरी पातोडे नी भाजी; गुर्जर दराबा ना लाडू",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80"
     },
     {
-      "name": "कर्नाटक की पाकशैली",
-      "name_en": "Karnataka cuisine",
-      "description_en": "cuisine from the state of Karnataka",
-      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
-      "culture": "कर्नाटक की संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q5192776"
+      "name": "कोंकणी/गोआनी",
+      "dishes": "धनसाक; विंडालू",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%95%E0%A5%8B%E0%A4%82%E0%A4%95%E0%A4%A3%E0%A5%80/%E0%A4%97%E0%A5%8B%E0%A4%86%E0%A4%A8%E0%A5%80"
     },
     {
-      "name": "कश्मीरी पाकशैली",
-      "name_en": "Kashmiri cuisine",
-      "description_en": "traditional food dishes from India's Kashmir Valley",
-      "classification": "क्षेत्रीय पाकशैली; एशियाई भोजन",
-      "culture": "कश्मीर की संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q2152857"
+      "name": "केरल",
+      "dishes": "अप्पम; अवियल; फिश मोली",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%95%E0%A5%87%E0%A4%B0%E0%A4%B2"
     },
     {
-      "name": "महाराष्ट्रीय पाकशैली",
-      "name_en": "Maharashtrian cuisine",
-      "description_en": "cuisine of the Marathi people from the state of Maharashtra in India",
-      "classification": "समुदाय की पाकशैली; क्षेत्रीय पाकशैली; भारतीय खाना; भारतीय-आर्य पाकशैली",
-      "culture": "महाराष्ट्र की संस्कृति; भारतीय-आर्य संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q7601803"
+      "name": "दक्षिण भारतीय",
+      "dishes": "इडली; सांभर; मैसूर पाक",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%A6%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BF%E0%A4%A3_%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF"
     },
     {
-      "name": "पंजाबी पाकशैली",
-      "name_en": "Punjabi cuisine",
-      "description_en": "food from the Punjab region of India and Pakistan",
-      "classification": "क्षेत्रीय पाकशैली; समुदाय की पाकशैली; दक्षिण एशियाई व्यंजन; भारतीय-आर्य पाकशैली",
-      "culture": "पंजाबी संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q2090705"
+      "name": "हैदराबादी",
+      "dishes": "हैदराबादी बिरयानी; हलीम; दाल गोश्त",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%B9%E0%A5%88%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%A6%E0%A5%80"
     },
     {
-      "name": "राजस्थानी पाकशैली",
-      "name_en": "Rajasthani cuisine",
-      "description_en": "marwadi, mewadi and barmeri cuisine",
-      "classification": "भारतीय क्षेत्रीय पाकशैली; भारतीय खाना",
-      "culture": "राजस्थान की संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q3595467"
+      "name": "पूर्वी",
+      "dishes": "भाप्पा इलिश; माछ झोल; रॉसोगुल्ला; संदेश (मिठाई)",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%80"
     },
     {
-      "name": "तमिल पाकशैली",
-      "name_en": "Tamil cuisine",
-      "description_en": "tamilian cuisine",
-      "classification": "समुदाय की पाकशैली; मानव पाकशैली",
-      "culture": "तमिल संस्कृति",
-      "source_url": "https://www.wikidata.org/wiki/Q3007006"
+      "name": "पूर्वोत्तर",
+      "dishes": "मोमो; थुपका; फिश टेंगा",
+      "source_url": "https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE#%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0"
     }
   ],
   "meta": {
-    "title": "भारत की क्षेत्रीय पाकशैलियाँ - निःशुल्क डाउनलोड",
-    "description": "भारत की चयनित क्षेत्रीय पाकशैलियों की संदर्भ सूची; यह व्यंजनों या पकाने की विधियों का संग्रह नहीं है। कुल 13 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
-    "seo_title": "भारत की क्षेत्रीय पाकशैलियाँ | ListBase",
-    "seo_description": "डाउनलोड करें भारत की क्षेत्रीय पाकशैलियाँ — 13 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
+    "title": "भारत का क्षेत्रीय खानपान - निःशुल्क डाउनलोड",
+    "description": "हिन्दी विकिपीडिया के पारम्परिक क्षेत्रीय खानपान अनुभाग से क्षेत्र और उनके व्यंजनों की सूची। मूल नाम यथावत रखे गए हैं; यह पकाने की विधियों का संग्रह नहीं है। कुल 13 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
+    "seo_title": "भारत का क्षेत्रीय खानपान | ListBase",
+    "seo_description": "डाउनलोड करें भारत का क्षेत्रीय खानपान — 13 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
     "key_takeaways": [
-      "कुल 13 रिकॉर्ड / 6 कॉलम",
+      "कुल 13 रिकॉर्ड / 3 कॉलम",
       "Excel और CSV में निःशुल्क डाउनलोड उपलब्ध",
-      "डेटा का स्रोत: https://www.wikidata.org/"
+      "डेटा का स्रोत: https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE"
     ]
   }
 }

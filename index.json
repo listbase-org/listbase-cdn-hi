@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-22T03:45:44.526Z",
-  "total_datasets": 414,
-  "total_records": 2008951,
+  "generated": "2026-10-22T03:45:45.974Z",
+  "total_datasets": 415,
+  "total_records": 2008962,
   "categories": [
     {
       "id": "agriculture",
@@ -42,6 +42,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "law",
       "dataset_count": 1
     },
     {
@@ -5805,6 +5809,33 @@
         "xlsx": {
           "name": "hi-lipiyan_HI.xlsx",
           "size": 11111
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-adhiniyam-sandarbh",
+      "name": "भारतीय अधिनियमों की संदर्भ सूची",
+      "category": "law",
+      "record_count": 11,
+      "columns": [
+        "name",
+        "name_en",
+        "description_en",
+        "jurisdiction",
+        "classification",
+        "source_url"
+      ],
+      "source": "https://www.wikidata.org/",
+      "updated": "2026-10",
+      "size": 8098,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-adhiniyam-sandarbh_HI.csv",
+          "size": 3440
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-adhiniyam-sandarbh_HI.xlsx",
+          "size": 7943
         }
       }
     },

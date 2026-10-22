@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-22T04:12:21.734Z",
+  "generated": "2026-10-22T04:12:23.164Z",
   "total_datasets": 415,
-  "total_records": 2008970,
+  "total_records": 2009031,
   "categories": [
     {
       "id": "agriculture",
@@ -5760,28 +5760,25 @@
     },
     {
       "id": "hi-aitihasik-rajvansh",
-      "name": "भारतीय उपमहाद्वीप के ऐतिहासिक राजवंश",
+      "name": "भारत से संबद्ध ऐतिहासिक राजवंश",
       "category": "history",
-      "record_count": 14,
+      "record_count": 75,
       "columns": [
         "name",
-        "name_en",
-        "description_en",
-        "capital",
-        "classification",
+        "description",
         "source_url"
       ],
-      "source": "https://www.wikidata.org/",
+      "source": "https://hi.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80%3A%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%B5%E0%A4%82%E0%A4%B6",
       "updated": "2026-10",
-      "size": 8791,
+      "size": 97299,
       "files": {
         "csv": {
           "name": "hi-aitihasik-rajvansh_HI.csv",
-          "size": 3530
+          "size": 88380
         },
         "xlsx": {
           "name": "hi-aitihasik-rajvansh_HI.xlsx",
-          "size": 8213
+          "size": 26092
         }
       }
     },

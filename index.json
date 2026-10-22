@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-21T03:53:31.338Z",
-  "total_datasets": 409,
-  "total_records": 2008389,
+  "generated": "2026-10-22T03:27:55.114Z",
+  "total_datasets": 410,
+  "total_records": 2008889,
   "categories": [
     {
       "id": "culture",
@@ -19,6 +19,10 @@
     {
       "id": "finance",
       "dataset_count": 118
+    },
+    {
+      "id": "food",
+      "dataset_count": 1
     },
     {
       "id": "geography",
@@ -3752,6 +3756,35 @@
         "xlsx": {
           "name": "hi-west-bengal-ifsc-shakhayen_HI.xlsx",
           "size": 552867
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-vyanjan",
+      "name": "भारतीय व्यंजन — Indian Food Recipes",
+      "category": "food",
+      "record_count": 500,
+      "columns": [
+        "name_en",
+        "name_hi",
+        "cuisine",
+        "course",
+        "diet",
+        "prep_min",
+        "cook_min",
+        "servings"
+      ],
+      "source": "https://github.com/nileshely/Indian-Food",
+      "updated": "2026-10",
+      "size": 222646,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-vyanjan_HI.csv",
+          "size": 145721
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-vyanjan_HI.xlsx",
+          "size": 64619
         }
       }
     },

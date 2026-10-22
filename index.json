@@ -1,9 +1,13 @@
 {
   "lang": "hi",
-  "generated": "2026-10-22T03:45:43.067Z",
-  "total_datasets": 413,
-  "total_records": 2008933,
+  "generated": "2026-10-22T03:45:44.526Z",
+  "total_datasets": 414,
+  "total_records": 2008951,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 1
@@ -82,6 +86,33 @@
     }
   ],
   "datasets": [
+    {
+      "id": "hi-bharatiya-govansh-naslen",
+      "name": "भारत से संबद्ध गोवंश नस्लें",
+      "category": "agriculture",
+      "record_count": 18,
+      "columns": [
+        "name",
+        "name_en",
+        "description_en",
+        "origin",
+        "classification",
+        "source_url"
+      ],
+      "source": "https://www.wikidata.org/",
+      "updated": "2026-10",
+      "size": 8106,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-govansh-naslen_HI.csv",
+          "size": 2783
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-govansh-naslen_HI.xlsx",
+          "size": 7900
+        }
+      }
+    },
     {
       "id": "hi-sangrahalay",
       "name": "भारत में संग्रहालय (Museums in India)",

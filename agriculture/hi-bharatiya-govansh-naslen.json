@@ -1,0 +1,204 @@
+{
+  "id": "hi-bharatiya-govansh-naslen",
+  "name": "भारत से संबद्ध गोवंश नस्लें",
+  "title": "भारत से संबद्ध गोवंश नस्लें",
+  "description": "भारत से संबद्ध चयनित गोवंश नस्लों की द्विभाषी संदर्भ सूची। कुछ नस्लों का मूल क्षेत्र वर्तमान भारत और पड़ोसी देशों में साझा है; यह आधिकारिक नस्ल पंजी नहीं है।",
+  "category": "agriculture",
+  "source": "https://www.wikidata.org/",
+  "source_url": "https://www.wikidata.org/",
+  "source_license": "CC0-1.0",
+  "source_license_url": "https://www.wikidata.org/wiki/Wikidata:Licensing",
+  "retrieved": "2026-10-22",
+  "localization": "Hindi names curated editorially; English descriptions and linked facts extracted from Wikidata. Missing source claims remain empty.",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "नाम",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "अंग्रेज़ी नाम",
+      "type": "string"
+    },
+    {
+      "key": "description_en",
+      "label": "स्रोत का अंग्रेज़ी विवरण",
+      "type": "string"
+    },
+    {
+      "key": "origin",
+      "label": "स्रोत में दर्ज मूल देश",
+      "type": "string"
+    },
+    {
+      "key": "classification",
+      "label": "वर्गीकरण",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "स्रोत लिंक",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "अमृत महल",
+      "name_en": "Amrit Mahal",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q2400505"
+    },
+    {
+      "name": "बरगुर",
+      "name_en": "Bargur",
+      "description_en": "native cattle breed of India",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल; ज़ेबू",
+      "source_url": "https://www.wikidata.org/wiki/Q15719566"
+    },
+    {
+      "name": "डांगी",
+      "name_en": "Dangi cattle",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q24906377"
+    },
+    {
+      "name": "देवनी",
+      "name_en": "Deoni",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q5260027"
+    },
+    {
+      "name": "हल्लीकर",
+      "name_en": "Hallikar",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q19899007"
+    },
+    {
+      "name": "हरियाणा",
+      "name_en": "Hariana cattle",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल; ज़ेबू",
+      "source_url": "https://www.wikidata.org/wiki/Q3127441"
+    },
+    {
+      "name": "कांगायम",
+      "name_en": "Kangeyam cattle",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q6362633"
+    },
+    {
+      "name": "कांकरेज",
+      "name_en": "Kankrej",
+      "description_en": "breed of Zebu cattle",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q15975682"
+    },
+    {
+      "name": "खिल्लारी",
+      "name_en": "Khillari cattle",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q15717747"
+    },
+    {
+      "name": "मालवी",
+      "name_en": "Malvi",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q15721164"
+    },
+    {
+      "name": "ओंगोल",
+      "name_en": "Ongole Cattle",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q7093853"
+    },
+    {
+      "name": "पुंगनूर",
+      "name_en": "Punganur Cow",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q7260145"
+    },
+    {
+      "name": "राठी",
+      "name_en": "Rathi cattle",
+      "description_en": "cattle breed",
+      "origin": "",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q20968423"
+    },
+    {
+      "name": "लाल कंधारी",
+      "name_en": "Red Kandhari cattle",
+      "description_en": "cattle breed",
+      "origin": "भारत",
+      "classification": "गोवंश नस्ल; ज़ेबू",
+      "source_url": "https://www.wikidata.org/wiki/Q24906375"
+    },
+    {
+      "name": "साहीवाल",
+      "name_en": "Sahiwal cattle",
+      "description_en": "cattle breed",
+      "origin": "",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q2218813"
+    },
+    {
+      "name": "थारपारकर",
+      "name_en": "Tharparkar",
+      "description_en": "cattle breed from Pakistan",
+      "origin": "",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q257477"
+    },
+    {
+      "name": "उम्बलाचेरी",
+      "name_en": "Umblachery cattle",
+      "description_en": "cattle breed",
+      "origin": "",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q22023036"
+    },
+    {
+      "name": "वेचूर",
+      "name_en": "Vechur cow",
+      "description_en": "cattle breed",
+      "origin": "",
+      "classification": "गोवंश नस्ल",
+      "source_url": "https://www.wikidata.org/wiki/Q640489"
+    }
+  ],
+  "meta": {
+    "title": "भारत से संबद्ध गोवंश नस्लें - निःशुल्क डाउनलोड",
+    "description": "भारत से संबद्ध चयनित गोवंश नस्लों की द्विभाषी संदर्भ सूची। कुछ नस्लों का मूल क्षेत्र वर्तमान भारत और पड़ोसी देशों में साझा है; यह आधिकारिक नस्ल पंजी नहीं है। कुल 18 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
+    "seo_title": "भारत से संबद्ध गोवंश नस्लें | ListBase",
+    "seo_description": "डाउनलोड करें भारत से संबद्ध गोवंश नस्लें — 18 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
+    "key_takeaways": [
+      "कुल 18 रिकॉर्ड / 6 कॉलम",
+      "Excel और CSV में निःशुल्क डाउनलोड उपलब्ध",
+      "डेटा का स्रोत: https://www.wikidata.org/"
+    ]
+  }
+}

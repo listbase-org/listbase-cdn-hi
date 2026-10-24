@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-24T00:03:14.989Z",
-  "total_datasets": 416,
-  "total_records": 2009117,
+  "generated": "2026-10-24T00:03:18.701Z",
+  "total_datasets": 417,
+  "total_records": 2009125,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -139,6 +139,30 @@
         "xlsx": {
           "name": "hi-sangrahalay_HI.xlsx",
           "size": 19059
+        }
+      }
+    },
+    {
+      "id": "hi-shastriya-nritya-shailiyan",
+      "name": "भारतीय शास्त्रीय नृत्य शैलियाँ",
+      "category": "culture",
+      "record_count": 8,
+      "columns": [
+        "name",
+        "description",
+        "source_url"
+      ],
+      "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6140670",
+      "updated": "2026-10",
+      "size": 17811,
+      "files": {
+        "csv": {
+          "name": "hi-shastriya-nritya-shailiyan_HI.csv",
+          "size": 14036
+        },
+        "xlsx": {
+          "name": "hi-shastriya-nritya-shailiyan_HI.xlsx",
+          "size": 10047
         }
       }
     },

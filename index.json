@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-22T04:12:26.175Z",
-  "total_datasets": 415,
-  "total_records": 2009059,
+  "generated": "2026-10-24T00:03:14.989Z",
+  "total_datasets": 416,
+  "total_records": 2009117,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -199,6 +199,36 @@
         "xlsx": {
           "name": "hi-vishwavidyalaya_HI.xlsx",
           "size": 34646
+        }
+      }
+    },
+    {
+      "id": "hi-bagh-abhayaranya-suchi",
+      "name": "भारत के बाघ अभयारण्य और क्षेत्रफल",
+      "category": "environment",
+      "record_count": 58,
+      "columns": [
+        "name",
+        "established",
+        "included",
+        "state",
+        "tiger_population_2022",
+        "core_area_km2",
+        "buffer_area_km2",
+        "total_area_km2",
+        "source_url"
+      ],
+      "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%AC%E0%A4%BE%E0%A4%98_%E0%A4%85%E0%A4%AD%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A5%8D%E0%A4%AF&oldid=6551148",
+      "updated": "2026-10",
+      "size": 37433,
+      "files": {
+        "csv": {
+          "name": "hi-bagh-abhayaranya-suchi_HI.csv",
+          "size": 21038
+        },
+        "xlsx": {
+          "name": "hi-bagh-abhayaranya-suchi_HI.xlsx",
+          "size": 11495
         }
       }
     },

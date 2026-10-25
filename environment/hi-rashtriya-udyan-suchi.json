@@ -1,0 +1,901 @@
+{
+  "id": "hi-rashtriya-udyan-suchi",
+  "name": "भारत के राष्ट्रीय उद्यान: हिन्दी स्रोत सूची",
+  "title": "भारत के राष्ट्रीय उद्यान: हिन्दी स्रोत सूची",
+  "description": "हिन्दी विकिपीडिया की तालिकाओं से राष्ट्रीय उद्यान, स्थापना वर्ष, ज़िला, राज्य और क्षेत्रफल। पुराने स्थान नाम और अनुपलब्ध मान स्रोत के अनुसार हैं; यह वर्तमान आधिकारिक गणना नहीं है।",
+  "category": "environment",
+  "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341",
+  "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "hi.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-25",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "established",
+      "label": "established",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "district",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "state",
+      "type": "string"
+    },
+    {
+      "key": "area_km2",
+      "label": "area_km2",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "established": "१९८२",
+      "name": "नन्दा देवी राष्ट्रीय उद्यान",
+      "district": "चमोली , पिथौरागढ़",
+      "state": "उत्तराखंड",
+      "area_km2": "५८६०.६९",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८१",
+      "name": "हेमिस राष्ट्रीय उद्यान",
+      "district": "लेह",
+      "state": "जम्मू और कश्मीर",
+      "area_km2": "४१००",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८०",
+      "name": "मरुस्थल राष्ट्रीय उद्यान",
+      "district": "जैसलमेर",
+      "state": "राजस्थान",
+      "area_km2": "३१६२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८३",
+      "name": "नमदाफा राष्ट्रीय उद्यान",
+      "district": "चांगलांग",
+      "state": "अरुणाचल प्रदेश",
+      "area_km2": "१९८५.२३",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८१",
+      "name": "संजय राष्ट्रीय उद्यान",
+      "district": "सिधी",
+      "state": "मध्य प्रदेश",
+      "area_km2": "१४७१.१३",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७७",
+      "name": "कंचनजंगा राष्ट्रीय उद्यान",
+      "district": "चुंगथांग",
+      "state": "सिक्किम",
+      "area_km2": "१७८४",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८९",
+      "name": "गंगोत्री राष्ट्रीय उद्यान",
+      "district": "गंगोत्री",
+      "state": "उत्तराखंड",
+      "area_km2": "१५५२.७३",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८४",
+      "name": "सुन्दरबन राष्ट्रीय उद्यान",
+      "district": "सुन्दरबन",
+      "state": "पश्चिम बंगाल",
+      "area_km2": "१३३०.१",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८१",
+      "name": "इन्द्रावती राष्ट्रीय उद्यान",
+      "district": "बीजापुर",
+      "state": "छत्तीसगढ़",
+      "area_km2": "१२५८.३७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९५५",
+      "name": "कान्हा राष्ट्रीय उद्यान",
+      "district": "मंडला",
+      "state": "मध्य प्रदेश",
+      "area_km2": "१९४५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८३",
+      "name": "राजाजी राष्ट्रीय उद्यान",
+      "district": "हरिद्वार",
+      "state": "उत्तराखंड",
+      "area_km2": "८२०.४२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८४",
+      "name": "ग्रेट हिमालयन राष्ट्रीय उद्यान",
+      "district": "कुल्लू",
+      "state": "हिमाचल प्रदेश",
+      "area_km2": "७५४.४",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८७",
+      "name": "पिन घाटी राष्ट्रीय उद्यान",
+      "district": "स्पीति",
+      "state": "हिमाचल प्रदेश",
+      "area_km2": "६७५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८८",
+      "name": "नागरहोल राष्ट्रीय उद्यान या राजीव गांधी राष्ट्रीय उद्यान",
+      "district": "कोडगु",
+      "state": "कर्नाटक",
+      "area_km2": "६४३.३९",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८७",
+      "name": "कुद्रेमुख राष्ट्रीय उद्यान",
+      "district": "चिकमगलूर",
+      "state": "कर्नाटक",
+      "area_km2": "६००.३२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८१",
+      "name": "सतपुरा राष्ट्रीय उद्यान",
+      "district": "पचमढ़ी",
+      "state": "मध्य प्रदेश",
+      "area_km2": "५८५.१७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७५",
+      "name": "पेंच राष्ट्रीय उद्यान",
+      "district": "सिवनी",
+      "state": "मध्य प्रदेश",
+      "area_km2": "२९२.८५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७५",
+      "name": "पेंच राष्ट्रीय उद्यान",
+      "district": "नागपुर",
+      "state": "महाराष्ट्र",
+      "area_km2": "२५७.२६",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७३",
+      "name": "पन्ना राष्ट्रीय उद्यान",
+      "district": "पन्ना",
+      "state": "मध्य प्रदेश",
+      "area_km2": "५४२.६७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९३६",
+      "name": "जिम कॉर्बेट राष्ट्रीय उद्यान",
+      "district": "रामनगर",
+      "state": "उत्तराखंड",
+      "area_km2": "५२०.८२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९०",
+      "name": "मानस राष्ट्रीय उद्यान",
+      "district": "बारपेटा रोड",
+      "state": "असम",
+      "area_km2": "५००",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७७",
+      "name": "दुधवा राष्ट्रीय उद्यान",
+      "district": "पीलीभीत",
+      "state": "उत्तर प्रदेश",
+      "area_km2": "४९०.२९",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८६",
+      "name": "मोलिंग राष्ट्रीय उद्यान",
+      "district": "उपरी सियांग जिला , पूर्व सियांग जिला",
+      "state": "अरुणाचल प्रदेश",
+      "area_km2": "४८३",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९०",
+      "name": "गोविन्द पशु विहार",
+      "district": "उत्तरकाशी",
+      "state": "उत्तराखंड",
+      "area_km2": "४७२.०८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७४",
+      "name": "काज़ीरंगा राष्ट्रीय उद्यान",
+      "district": "गोलाघाट , नागांव",
+      "state": "असम",
+      "area_km2": "४७१.७१",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८२",
+      "name": "बांधवगढ़ राष्ट्रीय उद्यान",
+      "district": "उमरिया",
+      "state": "मध्य प्रदेश",
+      "area_km2": "४४८.८५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९२",
+      "name": "कैम्पबॅल बे राष्ट्रीय उद्यान",
+      "district": "कैम्पबॅल बे",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "area_km2": "426.23",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८१",
+      "name": "किश्तवार राष्ट्रीय उद्यान",
+      "district": "किश्तवार",
+      "state": "जम्मू और कश्मीर",
+      "area_km2": "४००",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८०",
+      "name": "रणथंभोर राष्ट्रीय उद्यान",
+      "district": "सवाई माधोपुर",
+      "state": "राजस्थान",
+      "area_km2": "३९२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९५९",
+      "name": "माधव राष्ट्रीय उद्यान",
+      "district": "शिवपुरी",
+      "state": "मध्य प्रदेश",
+      "area_km2": "३७५.२२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८७",
+      "name": "गुगामल राष्ट्रीय उद्यान",
+      "district": "अमरावती",
+      "state": "महाराष्ट्र",
+      "area_km2": "३६१.२८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८९",
+      "name": "श्री वेंकटेश्वर राष्ट्रीय उद्यान",
+      "district": "चित्तूर , कुडप्पा",
+      "state": "आंध्र प्रदेश",
+      "area_km2": "३५३.६२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८२",
+      "name": "पेरियार राष्ट्रीय उद्यान",
+      "district": "इड्डुक्की , पत्तनम्तिट्टा",
+      "state": "केरल",
+      "area_km2": "३५०",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९९",
+      "name": "दिबरू-साइखोवा राष्ट्रीय उद्यान",
+      "district": "तिनसुकिया",
+      "state": "असम",
+      "area_km2": "३४०",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८९",
+      "name": "वाल्मीकि राष्ट्रीय उद्यान",
+      "district": "चंपारण",
+      "state": "बिहार",
+      "area_km2": "३३५.६५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९६०",
+      "name": "माउंट आबू वन्यजीव अभयारण्य",
+      "district": "माउंट आबू",
+      "state": "राजस्थान",
+      "area_km2": "२८८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८३",
+      "name": "महात्मा गांधी समुद्री राष्ट्रीय उद्यान",
+      "district": "अण्डमान द्वीपसमूह",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "area_km2": "२८१.५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८२",
+      "name": "सरिस्का राष्ट्रीय उद्यान",
+      "district": "अलवर",
+      "state": "राजस्थान",
+      "area_km2": "२७३.८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७५",
+      "name": "गीर राष्ट्रीय उद्यान",
+      "district": "जूनागढ़",
+      "state": "गुजरात",
+      "area_km2": "२५८.७१",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९६",
+      "name": "रानी झांसी समुद्री राष्ट्रीय उद्यान",
+      "district": "",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "area_km2": "२५६.१४",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८७",
+      "name": "अंशी राष्ट्रीय उद्यान",
+      "district": "उत्तर कन्नड़",
+      "state": "कर्नाटक",
+      "area_km2": "२५०",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८६",
+      "name": "बेतला राष्ट्रीय उद्यान",
+      "district": "छोटा नागपुर पठार",
+      "state": "झाड़खंड",
+      "area_km2": "२३१.६७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८६",
+      "name": "बलफकरम राष्ट्रीय उद्यान",
+      "district": "बलफकरम",
+      "state": "मेघालय",
+      "area_km2": "२२०",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९३",
+      "name": "न्टंकी राष्ट्रीय उद्यान",
+      "district": "पेरेन",
+      "state": "नागालैंड",
+      "area_km2": "२०२.०२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८२",
+      "name": "कांगेर घाटी राष्ट्रीय उद्यान",
+      "district": "जगदलपुर",
+      "state": "छत्तीसगढ़",
+      "area_km2": "२००",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९१",
+      "name": "मुर्लेन राष्ट्रीय उद्यान",
+      "district": "चम्फाई",
+      "state": "मिज़ोरम",
+      "area_km2": "२००",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७८",
+      "name": "नमेरी राष्ट्रीय उद्यान",
+      "district": "शोणितपुर",
+      "state": "असम",
+      "area_km2": "२००",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८०",
+      "name": "समुद्री राष्ट्रीय उद्यान, कच्छ की खाड़ी",
+      "district": "कच्छ",
+      "state": "गुजरात",
+      "area_km2": "१६२.८९",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८८",
+      "name": "भीतरकनिका राष्ट्रीय उद्यान",
+      "district": "केन्द्रापड़ा",
+      "state": "उड़ीसा",
+      "area_km2": "१४५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८१",
+      "name": "दाचीगाम राष्ट्रीय उद्यान",
+      "district": "श्रीनगर",
+      "state": "जम्मू और कश्मीर",
+      "area_km2": "१४१",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७५",
+      "name": "नवेगाँव राष्ट्रीय उद्यान",
+      "district": "विदर्भ",
+      "state": "महाराष्ट्र",
+      "area_km2": "१३३.८८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९२",
+      "name": "बुक्सा राष्ट्रीय उद्यान",
+      "district": "अलीपुर द्वार",
+      "state": "पश्चिम बंगाल",
+      "area_km2": "११७.१",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८९",
+      "name": "इन्दिरा गांधी राष्ट्रीय उद्यान",
+      "district": "अन्नामलाइ",
+      "state": "तमिल नाडु",
+      "area_km2": "१०८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९५५",
+      "name": "ताडोबा राष्ट्रीय उद्यान",
+      "district": "चन्द्रपुर",
+      "state": "महाराष्ट्र",
+      "area_km2": "११६.५४",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९२",
+      "name": "गैलेथिआ राष्ट्रीय उद्यान",
+      "district": "निकोबार",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "area_km2": "११०",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७८",
+      "name": "मोल्लेम राष्ट्रीय उद्यान",
+      "district": "संगेम",
+      "state": "गोवा",
+      "area_km2": "१०७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७४",
+      "name": "बनेरघाटा राष्ट्रीय उद्यान",
+      "district": "बंगलुरु",
+      "state": "कर्नाटक",
+      "area_km2": "१०४.२७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९०",
+      "name": "मुदुमलाइ राष्ट्रीय उद्यान",
+      "district": "नीलगिरि",
+      "state": "तमिल नाडु",
+      "area_km2": "१०३.२४",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२००३",
+      "name": "कालेसर राष्ट्रीय उद्यान",
+      "district": "यमुनानगर",
+      "state": "हरयाणा",
+      "area_km2": "१००.८८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७८",
+      "name": "एराविकुलम राष्ट्रीय उद्यान",
+      "district": "इड्डुक्कि",
+      "state": "केरल",
+      "area_km2": "९७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८४",
+      "name": "साइलेंट वैली राष्ट्रीय उद्यान",
+      "district": "पलक्कड",
+      "state": "केरल",
+      "area_km2": "८९.५२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८६",
+      "name": "न्योरा घाटी राष्ट्रीय उद्यान",
+      "district": "कालिम्पोंग",
+      "state": "पश्चिम बंगाल",
+      "area_km2": "८८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८२",
+      "name": "फूलों की घाटी राष्ट्रीय उद्यान",
+      "district": "चमोली",
+      "state": "उत्तराखंड",
+      "area_km2": "८७.५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८३",
+      "name": "संजय गांधी राष्ट्रीय उद्यान",
+      "district": "मुंबई",
+      "state": "महाराष्ट्र",
+      "area_km2": "८६.९६",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९४",
+      "name": "गोरुमारा राष्ट्रीय उद्यान",
+      "district": "मालबाज़ार",
+      "state": "पश्चिम बंगाल",
+      "area_km2": "७९.४५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९९",
+      "name": "ओरांग राष्ट्रीय उद्यान",
+      "district": "दारांग , शोणितपुर",
+      "state": "असम",
+      "area_km2": "७८.८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८६",
+      "name": "सिंगालीला राष्ट्रीय उद्यान",
+      "district": "दार्जिलिंग",
+      "state": "पश्चिम बंगाल",
+      "area_km2": "७८.६",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९०",
+      "name": "मुकुर्थी राष्ट्रीय उद्यान",
+      "district": "ऊटी",
+      "state": "तमिल नाडु",
+      "area_km2": "७८.४६",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९७",
+      "name": "फौंगपुइ राष्ट्रीय उद्यान",
+      "district": "फौंगपुइ",
+      "state": "मिज़ोरम",
+      "area_km2": "५०",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८६",
+      "name": "नोकरेक राष्ट्रीय उद्यान",
+      "district": "पश्चिम गारो हिल्स",
+      "state": "मेघालय",
+      "area_km2": "४७.४८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८७",
+      "name": "माउन्ट हैरियट राष्ट्रीय उद्यान",
+      "district": "फ़रारगंज तहसील",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "area_km2": "४६.६२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७७",
+      "name": "केयबुल लामजाओ राष्ट्रीय उद्यान",
+      "district": "बिष्णुपुर",
+      "state": "मणिपुर",
+      "area_km2": "४०",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७६",
+      "name": "कृष्ण मृग राष्ट्रीय उद्यान",
+      "district": "वेलवदार",
+      "state": "गुजरात",
+      "area_km2": "३४.०८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८७",
+      "name": "सैडल पीक राष्ट्रीय उद्यान",
+      "district": "",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "area_km2": "३२.५४",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८१",
+      "name": "केवलादेव राष्ट्रीय उद्यान",
+      "district": "भरतपुर",
+      "state": "राजस्थान",
+      "area_km2": "२८.७३",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७९",
+      "name": "वंसदा राष्ट्रीय उद्यान",
+      "district": "नवसारी",
+      "state": "गुजरात",
+      "area_km2": "२३.९९",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९४",
+      "name": "महावीर हरिण वनस्थली राष्ट्रीय उद्यान",
+      "district": "वनस्थली",
+      "state": "आंध्र प्रदेश",
+      "area_km2": "१४.५९",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२००३",
+      "name": "मथिकेत्तन शोला राष्ट्रीय उद्यान",
+      "district": "इड्डुक्कि",
+      "state": "केरल",
+      "area_km2": "१२.८२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९२",
+      "name": "सलीम अली राष्ट्रीय उद्यान",
+      "district": "श्रीनगर",
+      "state": "जम्मू और कश्मीर",
+      "area_km2": "९.०७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८६",
+      "name": "समुद्री राष्ट्रीय उद्यान, मन्नार की खाड़ी",
+      "district": "मन्नार की खाड़ी",
+      "state": "तमिल नाडु",
+      "area_km2": "६.२३",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७९",
+      "name": "वन विहार राष्ट्रीय उद्यान",
+      "district": "भोपाल",
+      "state": "मध्य प्रदेश",
+      "area_km2": "४.४५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९४",
+      "name": "मृगवनी राष्ट्रीय उद्यान",
+      "district": "चिलकुर",
+      "state": "आंध्र प्रदेश",
+      "area_km2": "३.६",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९७६",
+      "name": "गुइंडी राष्ट्रीय उद्यान",
+      "district": "चेन्नई",
+      "state": "तमिल नाडु",
+      "area_km2": "२.८२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८९",
+      "name": "सुलतानपुर राष्ट्रीय उद्यान",
+      "district": "सुलतानपुर",
+      "state": "हरयाणा",
+      "area_km2": "१.४३",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९९४",
+      "name": "कासु ब्रह्मानन्द रेड्डी राष्ट्रीय उद्यान",
+      "district": "जुबली हिल्स",
+      "state": "आंध्र प्रदेश",
+      "area_km2": "१.४२",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८७",
+      "name": "मिडल बटन आयलैंड राष्ट्रीय उद्यान",
+      "district": "",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "area_km2": "०.६४",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८७",
+      "name": "नौर्थ बटन आयलैंड राष्ट्रीय उद्यान",
+      "district": "",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "area_km2": "०.४४",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८२",
+      "name": "सिरोई राष्ट्रीय उद्यान",
+      "district": "",
+      "state": "मणिपुर",
+      "area_km2": "०.४१",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८३",
+      "name": "जीवाश्म राष्ट्रीय उद्यान",
+      "district": "मंडला",
+      "state": "मध्य प्रदेश",
+      "area_km2": "०.२७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९८७",
+      "name": "साउथ बटन आयलैंड राष्ट्रीय उद्यान",
+      "district": "",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "area_km2": "०.०३",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०१२",
+      "name": "जलदापाड़ा राष्ट्रीय उद्यान",
+      "district": "अलीपुर द्वार",
+      "state": "पश्चिम बंगाल",
+      "area_km2": "२६१.५१",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२००४",
+      "name": "चांदोली राष्ट्रीय उद्यान",
+      "district": "सांगली",
+      "state": "महाराष्ट्र",
+      "area_km2": "३१६.६७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "अघोषित",
+      "name": "पलानी पर्वत राष्ट्रीय उद्यान",
+      "district": "डिंडिगुल",
+      "state": "तमिल नाडु",
+      "area_km2": "७३६.८७",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "१९५४",
+      "name": "हज़ारीबाग राष्ट्रीय उद्यान",
+      "district": "हज़ारीबाग",
+      "state": "झारखण्ड",
+      "area_km2": "१८६ .२५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२००४",
+      "name": "दर्राह राष्ट्रीय उद्यान",
+      "district": "कोटा",
+      "state": "राजस्थान",
+      "area_km2": "२५०",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२००८",
+      "name": "पापीकोंडा राष्ट्रीय उद्यान",
+      "district": "पूर्वी गोदावरी, पश्चिम गोदावरी, खम्मम",
+      "state": "आंध्र प्रदेश",
+      "area_km2": "१०१२.८६",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०१०",
+      "name": "इंद्राकिला राष्ट्रीय उद्यान",
+      "district": "कुल्लू",
+      "state": "हिमाचल प्रदेश",
+      "area_km2": "१०४",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०१०",
+      "name": "खिरगंगा राष्ट्रीय उद्यान",
+      "district": "कुल्लू",
+      "state": "हिमाचल प्रदेश",
+      "area_km2": "७१०",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०१०",
+      "name": "सिंबलबाड़ा राष्ट्रीय उद्यान",
+      "district": "सिरमौर",
+      "state": "हिमाचल प्रदेश",
+      "area_km2": "२७.८८",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०११",
+      "name": "डायनासोर जीवाश्म उद्यान",
+      "district": "धार",
+      "state": "मध्य प्रदेश",
+      "area_km2": "०.८९",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०१२",
+      "name": "जलदापारा राष्ट्रीय उद्यान",
+      "district": "अलीपुरद्वार",
+      "state": "पश्चिम बंगाल",
+      "area_km2": "२१६.५१",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०१८",
+      "name": "पालपुर कुनो राष्ट्रीय उद्यान",
+      "district": "श्योपुर, मुरैना",
+      "state": "मध्य प्रदेश",
+      "area_km2": "७४८.७६",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०२१",
+      "name": "देहिंग पटकाई राष्ट्रीय उद्यान",
+      "district": "डिब्रूगढ़, तिनसुकिया",
+      "state": "असम",
+      "area_km2": "२३४.२६",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०२१",
+      "name": "रायमोना राष्ट्रीय उद्यान",
+      "district": "कोकराझार",
+      "state": "असम",
+      "area_km2": "२७३.५५",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    },
+    {
+      "established": "२०२५",
+      "name": "सिखना ज्हुवलाओ राष्ट्रीय उद्यान",
+      "district": "काचिन",
+      "state": "असम",
+      "area_km2": "अभी उपलब्ध नहीं",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    }
+  ],
+  "meta": {
+    "title": "भारत के राष्ट्रीय उद्यान: हिन्दी स्रोत सूची - निःशुल्क डाउनलोड",
+    "description": "हिन्दी विकिपीडिया की तालिकाओं से राष्ट्रीय उद्यान, स्थापना वर्ष, ज़िला, राज्य और क्षेत्रफल। पुराने स्थान नाम और अनुपलब्ध मान स्रोत के अनुसार हैं; यह वर्तमान आधिकारिक गणना नहीं है। कुल 105 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
+    "seo_title": "भारत के राष्ट्रीय उद्यान: हिन्दी स्रोत सूची | ListBase",
+    "seo_description": "डाउनलोड करें भारत के राष्ट्रीय उद्यान: हिन्दी स्रोत सूची — 105 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
+    "key_takeaways": [
+      "कुल 105 रिकॉर्ड / 6 कॉलम",
+      "Excel और CSV में निःशुल्क डाउनलोड उपलब्ध",
+      "डेटा का स्रोत: https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341"
+    ]
+  }
+}

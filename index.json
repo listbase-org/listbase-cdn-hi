@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-25T14:10:18.070Z",
-  "total_datasets": 419,
-  "total_records": 2009369,
+  "generated": "2026-10-25T14:10:24.602Z",
+  "total_datasets": 420,
+  "total_records": 2009474,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -448,6 +448,33 @@
         "xlsx": {
           "name": "hi-rajya-pashu_HI.xlsx",
           "size": 10491
+        }
+      }
+    },
+    {
+      "id": "hi-rashtriya-udyan-suchi",
+      "name": "भारत के राष्ट्रीय उद्यान: हिन्दी स्रोत सूची",
+      "category": "environment",
+      "record_count": 105,
+      "columns": [
+        "established",
+        "name",
+        "district",
+        "state",
+        "area_km2",
+        "source_url"
+      ],
+      "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8&oldid=6555341",
+      "updated": "2026-10",
+      "size": 61206,
+      "files": {
+        "csv": {
+          "name": "hi-rashtriya-udyan-suchi_HI.csv",
+          "size": 44173
+        },
+        "xlsx": {
+          "name": "hi-rashtriya-udyan-suchi_HI.xlsx",
+          "size": 12990
         }
       }
     },

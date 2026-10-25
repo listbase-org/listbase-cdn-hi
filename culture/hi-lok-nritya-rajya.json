@@ -1,0 +1,1156 @@
+{
+  "id": "hi-lok-nritya-rajya",
+  "name": "राज्यवार भारतीय लोक नृत्य",
+  "title": "राज्यवार भारतीय लोक नृत्य",
+  "description": "हिन्दी विकिपीडिया की राज्यवार सूची में दिए लोक नृत्य। मूल नाम और क्षेत्र बनाए रखे गए हैं; स्रोत में दोहराई समान प्रविष्टियाँ एक बार रखी गई हैं।",
+  "category": "culture",
+  "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873",
+  "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "hi.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-25",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 222,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "group",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "मुखौटा",
+      "group": "अरुणाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "युद्ध नृत्य",
+      "group": "अरुणाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बिहु",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सत्रिया",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बागुरंबा",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कली गोपाल",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "खेल गोपाल",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "राखल",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बिहुआ",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "नटपूजा",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चोंगली",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चौंगवी",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "नागा नृत्य",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "अंकियानाट",
+      "group": "असम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "मरदाला",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कुम्भी",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "घंटामर्दाला छड़ी नृत्य",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बात कम्भा",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "वीधी",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "मधुरी",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "ओट्टन तुल्लू",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कालीयट्टम",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कुडीयट्टम",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "भद्रकालि",
+      "group": "आंध्र प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "रास लीला",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "नौंटंकी",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "थाली",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जै",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जैता",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जांगर",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चापरी",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "करन",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कजरी",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चारकूला",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कथक",
+      "group": "उत्तर प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "झूला",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "झोड़ा-चांचरी",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कुमांयू",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पांडव नृत्य",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "छोलिया नृत्य",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "हुड़का बौल",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सरायकेला छऊ",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "मर्दानी",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बाराव",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "घोरा-नाच",
+      "group": "उत्तराखंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "छऊ",
+      "group": "ओड़िशा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पैका",
+      "group": "ओड़िशा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सवारी",
+      "group": "ओड़िशा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पुगनाट",
+      "group": "ओड़िशा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "धूमरा",
+      "group": "ओड़िशा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जदूर",
+      "group": "ओड़िशा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "मुदारी",
+      "group": "ओड़िशा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गरूड़ वाहन",
+      "group": "ओड़िशा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "ओडिसी",
+      "group": "ओड़िशा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "यक्षगान",
+      "group": "कर्नाटक",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कुनीता",
+      "group": "कर्नाटक",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "वीरगास्से",
+      "group": "कर्नाटक",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "भूतकोला",
+      "group": "कर्नाटक",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कर्गा",
+      "group": "कर्नाटक",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गणपति भजन",
+      "group": "गुजरात",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "डांडिया रास",
+      "group": "गुजरात",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गरबा",
+      "group": "गुजरात",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पणिहारी नृत्य",
+      "group": "गुजरात",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "लास्य",
+      "group": "गुजरात",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "टिप्पानी",
+      "group": "गुजरात",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "अकोलिया",
+      "group": "गुजरात",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "भवई",
+      "group": "गुजरात",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "दकनी",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "खोल झगोर",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "मांडी",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कोली",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "तरंगमेल",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "फुगड़ी",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "रोमट",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कुड़वी",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "टोनिमेल",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "मूसल",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "धालो",
+      "group": "गोवा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "करमा",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "राउत नाच",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गेड़ी",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पंथी नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सुआ नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "डंडा नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "ककसार नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "डोमकच नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सरहुल नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "परघोनी नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "हुलकी नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बिलमा नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "फाग नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "दशहरा नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पंडवानी नृत्य",
+      "group": "छत्तीसगढ़",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "राउफ",
+      "group": "जम्मू कश्मीर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "भदजास",
+      "group": "जम्मू कश्मीर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "हिकात",
+      "group": "जम्मू कश्मीर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "झुमइर",
+      "group": "झारखण्ड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "डमकच",
+      "group": "झारखण्ड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "करमा",
+      "group": "झारखण्ड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "छऊ नृत्य",
+      "group": "झारखण्ड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "फिरकल",
+      "group": "झारखण्ड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सरहुल",
+      "group": "झारखण्ड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कुम्भी",
+      "group": "तमिलनाडु",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कावड़ी",
+      "group": "तमिलनाडु",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कडागम",
+      "group": "तमिलनाडु",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कोलाट्टम",
+      "group": "तमिलनाडु",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पित्रल",
+      "group": "तमिलनाडु",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कोआट्टम",
+      "group": "तमिलनाडु",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "भारतनाट्यम",
+      "group": "तमिलनाडु",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जल्लीकट्टू",
+      "group": "तमिलनाडु",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चोंग नोगकेम",
+      "group": "नागालैंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चिंता",
+      "group": "नागालैंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कजरम",
+      "group": "नागालैंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "युद्धनृत्य",
+      "group": "नागालैंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "खैवालिंम",
+      "group": "नागालैंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "नूरालिप",
+      "group": "नागालैंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कुर्सी नागा",
+      "group": "नागालैंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चुमिके",
+      "group": "नागालैंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "दोहाई",
+      "group": "नागालैंड",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "वैगा",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जदूर",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जाया",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जट-जाटिन",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "माधी",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "मूका",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "लुझरी",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "विदायत",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कीर्तनिया",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पंवरिया",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जातरा",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सोहराई",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बिदेशिया",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "घुमकड़िया",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "करमा",
+      "group": "बिहार",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सांग",
+      "group": "हरियाणा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "धमाल",
+      "group": "हरियाणा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "लूर",
+      "group": "हरियाणा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "फाग",
+      "group": "हरियाणा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "डाफ(डफ)",
+      "group": "हरियाणा",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सांगला",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चम्बा",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "डांगी",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "डंडा",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "नाव",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "डफ",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "धमान",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "थाली",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जद्धा",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "छरवा",
+      "group": "हिमाचल प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चोंग",
+      "group": "मणिपुर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "महारास",
+      "group": "मणिपुर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "नटराज",
+      "group": "मणिपुर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "लाई हरोबा",
+      "group": "मणिपुर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "संखाल",
+      "group": "मणिपुर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "वसंत रास",
+      "group": "मणिपुर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "थाग्टा",
+      "group": "मणिपुर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पुगवालोग",
+      "group": "मणिपुर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कीतत्वम्",
+      "group": "मणिपुर",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "रीना",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चौत",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "दिवारी",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "नवरानी",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गोन्यो",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सुआ",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "भगोरिया",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "करमों",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पाली",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "डागला छेरिया",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "हूल्को मंदिरी",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सैला",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बिल्धा",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "टपाडी",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गोडा",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "राई नृत्य",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "नौरता नृत्य",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बधाई नृत्य",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "अहिरावण लोक नृत्य",
+      "group": "मध्य प्रदेश",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "मोनी",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बोहदा",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "लेजम",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "लावनी",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "दहिकला",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "तमाशा",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गणेश चतुर्थी",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कौली",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गफा",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "ललिता",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "मौरीधा",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पॉवाड़ा",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "नकटा",
+      "group": "महाराष्ट्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चेरोकान",
+      "group": "मिजोरम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पारखुपिला",
+      "group": "मिजोरम",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बागला लाहो",
+      "group": "मेघालय",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "भांगड़ा",
+      "group": "पंजाब",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गिद्धा",
+      "group": "पंजाब",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "धामन",
+      "group": "पंजाब",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कीकली",
+      "group": "पंजाब",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सिम्मी",
+      "group": "पंजाब",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गिद्ध",
+      "group": "पंजाब",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "घूमर नृत्य",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कालबेलिया नृत्य",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "तेरहताली",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चरी नृत्य",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कठपुतली नृत्य",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "सूइसिनी",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चकरी नृत्य",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "धापाल",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "जिंदाद",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "पूगर",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "बगरिया",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "ख्याल",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "शकरिया",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गोयिका",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "लीला",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "झूलनलीला",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "कामड़",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "चंग",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "फुदी",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गीदड़",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गैर पणिहारी",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "गणगौर",
+      "group": "राजस्थान",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    },
+    {
+      "name": "परिचाकाली",
+      "group": "लक्षद्वीप",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    }
+  ],
+  "meta": {
+    "title": "राज्यवार भारतीय लोक नृत्य - निःशुल्क डाउनलोड",
+    "description": "हिन्दी विकिपीडिया की राज्यवार सूची में दिए लोक नृत्य। मूल नाम और क्षेत्र बनाए रखे गए हैं; स्रोत में दोहराई समान प्रविष्टियाँ एक बार रखी गई हैं। कुल 222 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
+    "seo_title": "राज्यवार भारतीय लोक नृत्य | ListBase",
+    "seo_description": "डाउनलोड करें राज्यवार भारतीय लोक नृत्य — 222 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
+    "key_takeaways": [
+      "कुल 222 रिकॉर्ड / 3 कॉलम",
+      "Excel और CSV में निःशुल्क डाउनलोड उपलब्ध",
+      "डेटा का स्रोत: https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%B2%E0%A5%8B%E0%A4%95_%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF&oldid=6509873"
+    ]
+  }
+}

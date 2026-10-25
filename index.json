@@ -1,12 +1,12 @@
 {
   "lang": "hi",
-  "generated": "2026-10-24T00:03:18.701Z",
-  "total_datasets": 417,
-  "total_records": 2009125,
+  "generated": "2026-10-25T14:10:15.621Z",
+  "total_datasets": 418,
+  "total_records": 2009147,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -111,6 +111,30 @@
         "xlsx": {
           "name": "hi-bharatiya-govansh-naslen_HI.xlsx",
           "size": 8036
+        }
+      }
+    },
+    {
+      "id": "hi-rabi-kharif-faslen",
+      "name": "रबी और खरीफ की फसलों के उदाहरण",
+      "category": "agriculture",
+      "record_count": 22,
+      "columns": [
+        "name",
+        "source_url",
+        "season"
+      ],
+      "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%B0%E0%A4%AC%E0%A5%80_%E0%A4%95%E0%A5%80_%E0%A4%AB%E0%A4%BC%E0%A4%B8%E0%A4%B2&oldid=6241619",
+      "updated": "2026-10",
+      "size": 9235,
+      "files": {
+        "csv": {
+          "name": "hi-rabi-kharif-faslen_HI.csv",
+          "size": 4756
+        },
+        "xlsx": {
+          "name": "hi-rabi-kharif-faslen_HI.xlsx",
+          "size": 7438
         }
       }
     },

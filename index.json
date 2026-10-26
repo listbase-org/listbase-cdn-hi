@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-26T02:56:40.829Z",
-  "total_datasets": 421,
-  "total_records": 2009523,
+  "generated": "2026-10-26T02:57:09.820Z",
+  "total_datasets": 422,
+  "total_records": 2009571,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -5929,6 +5929,32 @@
         "xlsx": {
           "name": "hi-aitihasik-rajvansh_HI.xlsx",
           "size": 26092
+        }
+      }
+    },
+    {
+      "id": "hi-governor-general-viceroy",
+      "name": "भारत के गवर्नर-जनरल और वायसराय",
+      "category": "history",
+      "record_count": 48,
+      "columns": [
+        "name",
+        "term_start",
+        "term_end",
+        "office_group",
+        "source_url"
+      ],
+      "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909",
+      "updated": "2026-10",
+      "size": 31585,
+      "files": {
+        "csv": {
+          "name": "hi-governor-general-viceroy_HI.csv",
+          "size": 22460
+        },
+        "xlsx": {
+          "name": "hi-governor-general-viceroy_HI.xlsx",
+          "size": 9216
         }
       }
     },

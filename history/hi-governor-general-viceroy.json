@@ -1,0 +1,392 @@
+{
+  "id": "hi-governor-general-viceroy",
+  "name": "भारत के गवर्नर-जनरल और वायसराय",
+  "title": "भारत के गवर्नर-जनरल और वायसराय",
+  "description": "हिन्दी विकिपीडिया की बंगाल, ब्रिटिश भारत और भारतीय संघ से संबंधित तालिकाओं में दिए अधिकारी व कार्यकाल। ऐतिहासिक समूह, अलग कार्यकाल और तिथियाँ स्रोत के अनुसार रखी गई हैं।",
+  "category": "history",
+  "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909",
+  "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "hi.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-26",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "term_start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "term_end",
+      "type": "string"
+    },
+    {
+      "key": "office_group",
+      "label": "office_group",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "वॉरेन हेस्टिंग्स",
+      "term_start": "20 अक्टूबर 1772",
+      "term_end": "1 फ़रवरी 1785",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर जॉन मैकफर्सन (कार्यकारी)",
+      "term_start": "1 फ़रवरी 1785",
+      "term_end": "12 सितंबर 1786",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "कॉर्नवॉलिस",
+      "term_start": "12 सितंबर 1786",
+      "term_end": "28 अक्टूबर 1793",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर जॉन शोर",
+      "term_start": "28 अक्टूबर 1793",
+      "term_end": "मार्च 1798.",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर अलर्ड क्लार्क (कार्यकारी)",
+      "term_start": "मार्च 1798",
+      "term_end": "18 मई 1798",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ मॉर्निंगटन वैलेस्ली",
+      "term_start": "18 मई 1798",
+      "term_end": "30 जुलाई 1805",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "कॉर्नवॉलिस",
+      "term_start": "30 जुलाई 1805",
+      "term_end": "5 अक्टूबर 1805",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर जॉर्ज बारलो, बीटी (कार्यकारी)",
+      "term_start": "10 अक्टूबर 1805",
+      "term_end": "31 जुलाई 1807",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "मिंटो",
+      "term_start": "31 जुलाई 1807",
+      "term_end": "4 अक्टूबर 1813",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ koira",
+      "term_start": "4 अक्टूबर 1813",
+      "term_end": "9 जनवरी 1823",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "जॉन ऐडम्स (कार्यकारी)",
+      "term_start": "9 जनवरी 1823",
+      "term_end": "1 अगस्त 1823",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "लॉर्ड एम्हर्स्ट",
+      "term_start": "1 अगस्त 1823",
+      "term_end": "13 मार्च 1828",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "विलियम बटर्वर्थ बेले (कार्यकारी)",
+      "term_start": "13 मार्च 1828",
+      "term_end": "4 जुलाई 1828",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "विलियम बेन्टिक",
+      "term_start": "4 जुलाई 1828",
+      "term_end": "1833",
+      "office_group": "फोर्ट विलियम प्रेसीडेंसी के गवर्नर (बंगाल), 1773-1833",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "विलियम बेन्टिक",
+      "term_start": "1833",
+      "term_end": "20 मार्च 1835",
+      "office_group": "भारत के गवर्नर जनरल (1833 - 1858)",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर चार्ल्स मेटकाल्फे, बीटी (कार्यकारी)",
+      "term_start": "20 मार्च 1835",
+      "term_end": "4 मार्च 1836",
+      "office_group": "भारत के गवर्नर जनरल (1833 - 1858)",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "लॉर्ड ऑकलैंड",
+      "term_start": "4 मार्च 1836",
+      "term_end": "28 फ़रवरी 1842",
+      "office_group": "भारत के गवर्नर जनरल (1833 - 1858)",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "लॉर्ड ऐलनबरो",
+      "term_start": "28 फ़रवरी 1842",
+      "term_end": "June 1844",
+      "office_group": "भारत के गवर्नर जनरल (1833 - 1858)",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "विलियम विबरफोर्स बर्ड (कार्यकारी)",
+      "term_start": "June 1844",
+      "term_end": "23 जुलाई 1844",
+      "office_group": "भारत के गवर्नर जनरल (1833 - 1858)",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर हैनरी हार्डिंग",
+      "term_start": "23 जुलाई 1844",
+      "term_end": "12 जनवरी 1848",
+      "office_group": "भारत के गवर्नर जनरल (1833 - 1858)",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ डलहौजी",
+      "term_start": "12 जनवरी 1848",
+      "term_end": "28 फ़रवरी 1856",
+      "office_group": "भारत के गवर्नर जनरल (1833 - 1858)",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द विस्काउंट कैनिंग",
+      "term_start": "28 फ़रवरी 1856",
+      "term_end": "1 नवम्बर 1858",
+      "office_group": "भारत के गवर्नर जनरल (1833 - 1858)",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द विस्काउंट कैनिंग",
+      "term_start": "1 नवम्बर 1858",
+      "term_end": "21 मार्च 1862",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ एल्गिन",
+      "term_start": "21 मार्च 1862",
+      "term_end": "20 नवम्बर 1863",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर रॉबर्ट नैपियर (कार्यकारी)",
+      "term_start": "21 नवम्बर 1863",
+      "term_end": "2 दिसम्बर 1863",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर विलियम डैनिसन (कार्यकारी)",
+      "term_start": "2 दिसम्बर 1863",
+      "term_end": "12 जनवरी 1864",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर जॉन लॉरेंस , बीटी",
+      "term_start": "12 जनवरी 1864",
+      "term_end": "12 जनवरी 1869",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ मेयो",
+      "term_start": "12 जनवरी 1869",
+      "term_end": "8 फ़रवरी 1872",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "सर जॉन स्ट्रैचे (कार्यकारी)",
+      "term_start": "9 फ़रवरी 1872",
+      "term_end": "23 फ़रवरी 1872",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "लॉर्ड नैपियर (कार्यकारी)",
+      "term_start": "24 फ़रवरी 1872",
+      "term_end": "3 मई 1872",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "लॉर्ड नॉर्थब्रूक",
+      "term_start": "3 मई 1872",
+      "term_end": "12 अप्रैल 1876",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "लॉर्ड लिटन",
+      "term_start": "12 अप्रैल 1876",
+      "term_end": "8 जून 1880",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द मार्कस ऑफ रिपन",
+      "term_start": "8 जून 1880",
+      "term_end": "13 दिसम्बर 1884",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ डफरिन",
+      "term_start": "13 दिसम्बर 1884",
+      "term_end": "10 दिसम्बर 1888",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द मार्कस ऑफ लैंसडाउन",
+      "term_start": "10 दिसम्बर 1888",
+      "term_end": "11 अक्टूबर 1894",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ एल्गिन",
+      "term_start": "11 अक्टूबर 1894",
+      "term_end": "6 जनवरी 1899",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द कर्जन ऑफ केडलस्टोन",
+      "term_start": "6 जनवरी 1899",
+      "term_end": "18 नवम्बर 1905",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ मिंटो",
+      "term_start": "18 नवम्बर 1905",
+      "term_end": "23 नवम्बर 1910",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द हार्डिंग ऑफ पेनशर्ट्स",
+      "term_start": "23 नवम्बर 1910",
+      "term_end": "4 अप्रैल 1916",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "लॉर्ड चेम्स्फोर्ड",
+      "term_start": "4 अप्रैल 1916",
+      "term_end": "2 अप्रैल 1921",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ रीडिंग",
+      "term_start": "2 अप्रैल 1921",
+      "term_end": "3 अप्रैल 1926",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "लॉर्ड इर्विन",
+      "term_start": "3 अप्रैल 1926",
+      "term_end": "18 अप्रैल 1931",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द अर्ल ऑफ विलिंगडन",
+      "term_start": "18 अप्रैल 1931",
+      "term_end": "18 अप्रैल 1936",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द मार्कस ऑफ लिनलिथगो",
+      "term_start": "18 अप्रैल 1936",
+      "term_end": "1 अक्टूबर 1943",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "द विकांट वेवल",
+      "term_start": "1 अक्टूबर 1943",
+      "term_end": "21 फ़रवरी 1947",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "बर्मा के विकांट माउंटबेटन",
+      "term_start": "21 फ़रवरी 1947",
+      "term_end": "15 अगस्त 1947",
+      "office_group": "भारत के वायसराय, 1858-1947",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "लुईस माउंटबेटन",
+      "term_start": "15 अगस्त 1947",
+      "term_end": "21 जून 1948",
+      "office_group": "भारतीय संघ के गवर्नर-जनरल, 1947-1950",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    },
+    {
+      "name": "श्री सी. राजगोपालाचारी",
+      "term_start": "21 जून 1948",
+      "term_end": "26 जनवरी 1950",
+      "office_group": "भारतीय संघ के गवर्नर-जनरल, 1947-1950",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    }
+  ],
+  "meta": {
+    "title": "भारत के गवर्नर-जनरल और वायसराय - निःशुल्क डाउनलोड",
+    "description": "हिन्दी विकिपीडिया की बंगाल, ब्रिटिश भारत और भारतीय संघ से संबंधित तालिकाओं में दिए अधिकारी व कार्यकाल। ऐतिहासिक समूह, अलग कार्यकाल और तिथियाँ स्रोत के अनुसार रखी गई हैं। कुल 48 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
+    "seo_title": "भारत के गवर्नर-जनरल और वायसराय | ListBase",
+    "seo_description": "डाउनलोड करें भारत के गवर्नर-जनरल और वायसराय — 48 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
+    "key_takeaways": [
+      "कुल 48 रिकॉर्ड / 5 कॉलम",
+      "Excel और CSV में निःशुल्क डाउनलोड उपलब्ध",
+      "डेटा का स्रोत: https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4_%E0%A4%95%E0%A5%87_%E0%A4%97%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B0_%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6631909"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-25T14:10:24.602Z",
-  "total_datasets": 420,
-  "total_records": 2009474,
+  "generated": "2026-10-26T02:56:40.829Z",
+  "total_datasets": 421,
+  "total_records": 2009523,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -3925,6 +3925,30 @@
         "xlsx": {
           "name": "hi-west-bengal-ifsc-shakhayen_HI.xlsx",
           "size": 552867
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-masale-suchi",
+      "name": "भारतीय मसालों की वर्णानुक्रम सूची",
+      "category": "food",
+      "record_count": 49,
+      "columns": [
+        "name",
+        "group",
+        "source_url"
+      ],
+      "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045",
+      "updated": "2026-10",
+      "size": 19922,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-masale-suchi_HI.csv",
+          "size": 13236
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-masale-suchi_HI.xlsx",
+          "size": 8126
         }
       }
     },

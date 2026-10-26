@@ -1,0 +1,291 @@
+{
+  "id": "hi-bharatiya-masale-suchi",
+  "name": "भारतीय मसालों की वर्णानुक्रम सूची",
+  "title": "भारतीय मसालों की वर्णानुक्रम सूची",
+  "description": "हिन्दी विकिपीडिया की वर्णानुक्रम सूचियों में दिए मसाले और खाद्य सामग्री। मूल नाम और स्रोत की अक्षर श्रेणियाँ रखी गई हैं; मिश्रित मसालों को भी स्रोत के अनुसार शामिल किया गया है।",
+  "category": "food",
+  "source": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045",
+  "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "hi.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-26",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "group",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "अजवायन",
+      "group": "अ-ज्ञ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "अमचूर",
+      "group": "अ-ज्ञ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "अंबाकड़ी",
+      "group": "अ-ज्ञ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "अजीनोमोटो",
+      "group": "अ-ज्ञ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "अदरक",
+      "group": "अ-ज्ञ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "अनारदाना",
+      "group": "अ-ज्ञ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "इमली",
+      "group": "अ-ज्ञ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "इलायची बड़ी",
+      "group": "अ-ज्ञ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "इलायची छोटी",
+      "group": "अ-ज्ञ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "करीपत्ता",
+      "group": "क-ख-ग-घ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "कसूरी मेथी",
+      "group": "क-ख-ग-घ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "काली मिर्च",
+      "group": "क-ख-ग-घ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "कलौंजी",
+      "group": "क-ख-ग-घ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "केसर",
+      "group": "क-ख-ग-घ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "खसखस",
+      "group": "क-ख-ग-घ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "गरम मसाला",
+      "group": "क-ख-ग-घ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "गोल मिर्च",
+      "group": "क-ख-ग-घ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "चीनी",
+      "group": "च-छ-ज-झ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "चाय की पत्ती",
+      "group": "च-छ-ज-झ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "चाट मसाला",
+      "group": "च-छ-ज-झ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "जीरा",
+      "group": "च-छ-ज-झ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "जावित्री",
+      "group": "च-छ-ज-झ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "जायफल",
+      "group": "च-छ-ज-झ",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "तेल",
+      "group": "त-थ-द-ध-न",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "तिल",
+      "group": "त-थ-द-ध-न",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "दालचीनी",
+      "group": "त-थ-द-ध-न",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "धनिया",
+      "group": "त-थ-द-ध-न",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "नमक समुद्री सफ़ेद",
+      "group": "त-थ-द-ध-न",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "नमक काला",
+      "group": "त-थ-द-ध-न",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "नमक सेंधा",
+      "group": "त-थ-द-ध-न",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "नारियल",
+      "group": "त-थ-द-ध-न",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "तेजपात",
+      "group": "त-थ-द-ध-न",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "पुदीना",
+      "group": "प-फ-ब-भ-म",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "फूलमखाने",
+      "group": "प-फ-ब-भ-म",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "मिर्च लाल",
+      "group": "प-फ-ब-भ-म",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "मिर्च हरी",
+      "group": "प-फ-ब-भ-म",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "मिर्च सफ़ेद",
+      "group": "प-फ-ब-भ-म",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "मिर्च काली",
+      "group": "प-फ-ब-भ-म",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "मेथीदाना",
+      "group": "प-फ-ब-भ-म",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "बधानफुल",
+      "group": "प-फ-ब-भ-म",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "पोस्ता दाना",
+      "group": "प-फ-ब-भ-म",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "राई",
+      "group": "य-र-ल-व",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "लौंग",
+      "group": "य-र-ल-व",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "सोंठ",
+      "group": "श-स-ह-क्ष-त्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "सौंफ",
+      "group": "श-स-ह-क्ष-त्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "शाहजीरा",
+      "group": "श-स-ह-क्ष-त्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "हल्दी",
+      "group": "श-स-ह-क्ष-त्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "हरड़",
+      "group": "श-स-ह-क्ष-त्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    },
+    {
+      "name": "हींग",
+      "group": "श-स-ह-क्ष-त्र",
+      "source_url": "https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय मसालों की वर्णानुक्रम सूची - निःशुल्क डाउनलोड",
+    "description": "हिन्दी विकिपीडिया की वर्णानुक्रम सूचियों में दिए मसाले और खाद्य सामग्री। मूल नाम और स्रोत की अक्षर श्रेणियाँ रखी गई हैं; मिश्रित मसालों को भी स्रोत के अनुसार शामिल किया गया है। कुल 49 रिकॉर्ड. Excel और CSV प्रारूपों में डाउनलोड करें.",
+    "seo_title": "भारतीय मसालों की वर्णानुक्रम सूची | ListBase",
+    "seo_description": "डाउनलोड करें भारतीय मसालों की वर्णानुक्रम सूची — 49 रिकॉर्ड. Excel और CSV प्रारूपों में उपलब्ध.",
+    "key_takeaways": [
+      "कुल 49 रिकॉर्ड / 3 कॉलम",
+      "Excel और CSV में निःशुल्क डाउनलोड उपलब्ध",
+      "डेटा का स्रोत: https://hi.wikipedia.org/w/index.php?title=%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF_%E0%A4%AE%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80&oldid=6420045"
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "id": "hi-rajya-shishu-linganupat",
+  "name": "शिशु लिंगानुपात के आधार पर भारत के राज्य",
+  "title": "शिशु लिंगानुपात के आधार पर भारत के राज्य",
+  "description": "शिशु लिंगानुपात के आधार पर भारत के राज्य — बाल लिंगानुपात (जनगणना 2011 और 2001, प्रति 1000 पुरुषों पर महिलाएँ)।",
+  "category": "society",
+  "source": "https://hi.wikipedia.org/wiki/लिंगानुपात_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/लिंगानुपात_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "number"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "linganupat_2011",
+      "label": "Linganupat 2011",
+      "type": "number"
+    },
+    {
+      "key": "linganupat_2001",
+      "label": "Linganupat 2001",
+      "type": "number"
+    },
+    {
+      "key": "badlav",
+      "label": "Badlav",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "1",
+      "rajya": "केरल",
+      "linganupat_2011": 964,
+      "linganupat_2001": 960,
+      "badlav": "+4"
+    },
+    {
+      "kram": "2",
+      "rajya": "पौण्डिचेरी",
+      "linganupat_2011": 967,
+      "linganupat_2001": 967,
+      "badlav": "±0"
+    },
+    {
+      "kram": "3",
+      "rajya": "तमिल नाडु",
+      "linganupat_2011": 943,
+      "linganupat_2001": 942,
+      "badlav": "+1"
+    },
+    {
+      "kram": "4",
+      "rajya": "आन्ध्र प्रदेश",
+      "linganupat_2011": 939,
+      "linganupat_2001": 961,
+      "badlav": "-22"
+    },
+    {
+      "kram": "5",
+      "rajya": "छत्तीसगढ़",
+      "linganupat_2011": 969,
+      "linganupat_2001": 975,
+      "badlav": "-6"
+    },
+    {
+      "kram": "6",
+      "rajya": "मणिपुर",
+      "linganupat_2011": 936,
+      "linganupat_2001": 957,
+      "badlav": "-21"
+    },
+    {
+      "kram": "7",
+      "rajya": "मेघालय",
+      "linganupat_2011": 970,
+      "linganupat_2001": 973,
+      "badlav": "-3"
+    },
+    {
+      "kram": "8",
+      "rajya": "उड़ीसा",
+      "linganupat_2011": 941,
+      "linganupat_2001": 953,
+      "badlav": "-12"
+    },
+    {
+      "kram": "9",
+      "rajya": "मिज़ोरम",
+      "linganupat_2011": 970,
+      "linganupat_2001": 964,
+      "badlav": "+6"
+    },
+    {
+      "kram": "10",
+      "rajya": "हिमाचल प्रदेश",
+      "linganupat_2011": 909,
+      "linganupat_2001": 896,
+      "badlav": "+13"
+    },
+    {
+      "kram": "11",
+      "rajya": "कर्णाटक",
+      "linganupat_2011": 948,
+      "linganupat_2001": 946,
+      "badlav": "+2"
+    },
+    {
+      "kram": "12",
+      "rajya": "गोवा",
+      "linganupat_2011": 942,
+      "linganupat_2001": 938,
+      "badlav": "+4"
+    },
+    {
+      "kram": "13",
+      "rajya": "उत्तराखण्ड",
+      "linganupat_2011": 890,
+      "linganupat_2001": 908,
+      "badlav": "-18"
+    },
+    {
+      "kram": "14",
+      "rajya": "त्रिपुरा",
+      "linganupat_2011": 957,
+      "linganupat_2001": 966,
+      "badlav": "-9"
+    },
+    {
+      "kram": "15",
+      "rajya": "असम",
+      "linganupat_2011": 962,
+      "linganupat_2001": 965,
+      "badlav": "-3"
+    },
+    {
+      "kram": "16",
+      "rajya": "लक्षद्वीप",
+      "linganupat_2011": 911,
+      "linganupat_2001": 959,
+      "badlav": "- 48"
+    },
+    {
+      "kram": "17",
+      "rajya": "झारखण्ड",
+      "linganupat_2011": 948,
+      "linganupat_2001": 965,
+      "badlav": "-17"
+    },
+    {
+      "kram": "18",
+      "rajya": "पश्चिम बंगाल",
+      "linganupat_2011": 956,
+      "linganupat_2001": 960,
+      "badlav": "-4"
+    },
+    {
+      "kram": "19",
+      "rajya": "नागालैण्ड",
+      "linganupat_2011": 943,
+      "linganupat_2001": 964,
+      "badlav": "-21"
+    },
+    {
+      "kram": "20",
+      "rajya": "मध्य प्रदेश",
+      "linganupat_2011": 918,
+      "linganupat_2001": 932,
+      "badlav": "-14"
+    },
+    {
+      "kram": "21",
+      "rajya": "राजस्थान",
+      "linganupat_2011": 888,
+      "linganupat_2001": 909,
+      "badlav": "-21"
+    },
+    {
+      "kram": "22",
+      "rajya": "महाराष्ट्र",
+      "linganupat_2011": 894,
+      "linganupat_2001": 913,
+      "badlav": "-19"
+    },
+    {
+      "kram": "23",
+      "rajya": "अरुणाचल प्रदेश",
+      "linganupat_2011": 972,
+      "linganupat_2001": 964,
+      "badlav": "+8"
+    },
+    {
+      "kram": "24",
+      "rajya": "गुजरात",
+      "linganupat_2011": 890,
+      "linganupat_2001": 883,
+      "badlav": "+7"
+    },
+    {
+      "kram": "25",
+      "rajya": "बिहार",
+      "linganupat_2011": 937,
+      "linganupat_2001": 942,
+      "badlav": "-7"
+    },
+    {
+      "kram": "26",
+      "rajya": "उत्तर प्रदेश",
+      "linganupat_2011": 902,
+      "linganupat_2001": 916,
+      "badlav": "-14"
+    },
+    {
+      "kram": "27",
+      "rajya": "पंजाब",
+      "linganupat_2011": 846,
+      "linganupat_2001": 798,
+      "badlav": "+48"
+    },
+    {
+      "kram": "28",
+      "rajya": "सिक्किम",
+      "linganupat_2011": 957,
+      "linganupat_2001": 963,
+      "badlav": "-6"
+    },
+    {
+      "kram": "29",
+      "rajya": "जम्मू और कश्मीर",
+      "linganupat_2011": 862,
+      "linganupat_2001": 941,
+      "badlav": "-79"
+    },
+    {
+      "kram": "30",
+      "rajya": "अण्डमान और निकोबार द्वीपसमूह",
+      "linganupat_2011": 968,
+      "linganupat_2001": 957,
+      "badlav": "+11"
+    },
+    {
+      "kram": "31",
+      "rajya": "हरियाणा",
+      "linganupat_2011": 834,
+      "linganupat_2001": 819,
+      "badlav": "+15"
+    },
+    {
+      "kram": "32",
+      "rajya": "दिल्ली",
+      "linganupat_2011": 871,
+      "linganupat_2001": 868,
+      "badlav": "+3"
+    },
+    {
+      "kram": "33",
+      "rajya": "चण्डीगढ़",
+      "linganupat_2011": 880,
+      "linganupat_2001": 845,
+      "badlav": "+35"
+    },
+    {
+      "kram": "34",
+      "rajya": "दादर और नागर हवेली",
+      "linganupat_2011": 926,
+      "linganupat_2001": 979,
+      "badlav": "-53"
+    },
+    {
+      "kram": "35",
+      "rajya": "दमन और दीव",
+      "linganupat_2011": 904,
+      "linganupat_2001": 926,
+      "badlav": "-22"
+    },
+    {
+      "kram": "*",
+      "rajya": "कुल औसत",
+      "linganupat_2011": 919,
+      "linganupat_2001": 927,
+      "badlav": "-8"
+    }
+  ],
+  "meta": {
+    "title": "शिशु लिंगानुपात के आधार पर भारत के राज्य - Free Download",
+    "description": "शिशु लिंगानुपात के आधार पर भारत के राज्य — बाल लिंगानुपात (जनगणना 2011 और 2001, प्रति 1000 पुरुषों पर महिलाएँ)। Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "शिशु लिंगानुपात के आधार पर भारत के राज्य | ListBase",
+    "seo_description": "Download शिशु लिंगानुपात के आधार पर भारत के राज्य — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/लिंगानुपात_के_आधार_पर_भारत_के_राज्यों_की_सूची"
+    ]
+  }
+}

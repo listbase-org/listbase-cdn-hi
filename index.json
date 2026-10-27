@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:33:00.177Z",
-  "total_datasets": 443,
-  "total_records": 2010494,
+  "generated": "2026-10-27T02:33:02.825Z",
+  "total_datasets": 444,
+  "total_records": 2010530,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -10351,6 +10351,32 @@
         "xlsx": {
           "name": "hi-rajya-manav-vikas-suchkank_HI.xlsx",
           "size": 9023
+        }
+      }
+    },
+    {
+      "id": "hi-rajya-shishu-linganupat",
+      "name": "शिशु लिंगानुपात के आधार पर भारत के राज्य",
+      "category": "society",
+      "record_count": 36,
+      "columns": [
+        "kram",
+        "rajya",
+        "linganupat_2011",
+        "linganupat_2001",
+        "badlav"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/लिंगानुपात_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+      "updated": "2026-10",
+      "size": 8357,
+      "files": {
+        "csv": {
+          "name": "hi-rajya-shishu-linganupat_HI.csv",
+          "size": 1924
+        },
+        "xlsx": {
+          "name": "hi-rajya-shishu-linganupat_HI.xlsx",
+          "size": 8383
         }
       }
     },

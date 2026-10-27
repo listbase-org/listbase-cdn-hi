@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:43.430Z",
-  "total_datasets": 436,
-  "total_records": 2010244,
+  "generated": "2026-10-27T02:32:45.775Z",
+  "total_datasets": 437,
+  "total_records": 2010277,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -340,6 +340,31 @@
         "xlsx": {
           "name": "hi-bharatiya-kampaniyan_HI.xlsx",
           "size": 7950
+        }
+      }
+    },
+    {
+      "id": "hi-rajya-arthvyavastha-gdp",
+      "name": "अर्थव्यवस्था के आधार पर भारत के राज्य और संघ क्षेत्र",
+      "category": "economy",
+      "record_count": 33,
+      "columns": [
+        "kram",
+        "rajya",
+        "sakal_gharelu_utpad",
+        "samtulya_desh"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/अर्थव्यवस्था_के_आधार_पर_भारत_के_राज्य_और_संघ_क्षेत्र",
+      "updated": "2026-10",
+      "size": 10794,
+      "files": {
+        "csv": {
+          "name": "hi-rajya-arthvyavastha-gdp_HI.csv",
+          "size": 4772
+        },
+        "xlsx": {
+          "name": "hi-rajya-arthvyavastha-gdp_HI.xlsx",
+          "size": 8645
         }
       }
     },

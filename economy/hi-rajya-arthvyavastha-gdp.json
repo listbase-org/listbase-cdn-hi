@@ -1,0 +1,244 @@
+{
+  "id": "hi-rajya-arthvyavastha-gdp",
+  "name": "अर्थव्यवस्था के आधार पर भारत के राज्य और संघ क्षेत्र",
+  "title": "अर्थव्यवस्था के आधार पर भारत के राज्य और संघ क्षेत्र",
+  "description": "भारत के राज्यों और केंद्र शासित प्रदेशों की नाममात्र सकल राज्य घरेलू उत्पाद (₹ लाख करोड़) के अनुसार सूची, समतुल्य देशों के साथ।",
+  "category": "economy",
+  "source": "https://hi.wikipedia.org/wiki/अर्थव्यवस्था_के_आधार_पर_भारत_के_राज्य_और_संघ_क्षेत्र",
+  "source_url": "https://hi.wikipedia.org/wiki/अर्थव्यवस्था_के_आधार_पर_भारत_के_राज्य_और_संघ_क्षेत्र",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "number"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "sakal_gharelu_utpad",
+      "label": "Sakal Gharelu Utpad",
+      "type": "string"
+    },
+    {
+      "key": "samtulya_desh",
+      "label": "Samtulya Desh",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "1",
+      "rajya": "महाराष्ट्र",
+      "sakal_gharelu_utpad": "₹32.24 लाख करोड़ (US$430 बिलियन)",
+      "samtulya_desh": "नॉर्वे US$445,507"
+    },
+    {
+      "kram": "2",
+      "rajya": "तमिलनाडु",
+      "sakal_gharelu_utpad": "₹22.44 लाख करोड़ (US$297 बिलियन)",
+      "samtulya_desh": "फ़िनलैंड US$300,484"
+    },
+    {
+      "kram": "3",
+      "rajya": "उत्तर प्रदेश",
+      "sakal_gharelu_utpad": "₹17.05 लाख करोड़ (240 अरब अमेरिकी डॉलर)",
+      "samtulya_desh": "न्यूज़ीलैंड यूएस$ 243,332"
+    },
+    {
+      "kram": "4",
+      "rajya": "गुजरात",
+      "sakal_gharelu_utpad": "₹16.48 लाख करोड़ (US$230 बिलियन)",
+      "samtulya_desh": "पेरू US$ 225,918"
+    },
+    {
+      "kram": "5",
+      "rajya": "कर्नाटक",
+      "sakal_gharelu_utpad": "₹16.29 लाख करोड़ (US$228 बिलियन)",
+      "samtulya_desh": "पेरू US$ 225,918"
+    },
+    {
+      "kram": "6",
+      "rajya": "पश्चिम बंगाल",
+      "sakal_gharelu_utpad": "₹13.54 लाख करोड़ (US$181 बिलियन)",
+      "samtulya_desh": "कजाकिस्तान यूएस$ 187,836"
+    },
+    {
+      "kram": "7",
+      "rajya": "राजस्थान Rajasthan",
+      "sakal_gharelu_utpad": "₹10.21 लाख करोड़ (US$140 बिलियन)",
+      "samtulya_desh": "अल्जीरिया US$151,459"
+    },
+    {
+      "kram": "8",
+      "rajya": "आंध्र प्रदेश",
+      "sakal_gharelu_utpad": "₹ 10.19 लाख करोड़ (US$140 बिलियन)",
+      "samtulya_desh": "कुवैत यूएस$136,197"
+    },
+    {
+      "kram": "9",
+      "rajya": "केरल",
+      "sakal_gharelu_utpad": "₹ 9.78 लाख करोड़ (US$130 बिलियन)",
+      "samtulya_desh": "कुवैत यूएस$136,197"
+    },
+    {
+      "kram": "10",
+      "rajya": "तेलंगाना",
+      "sakal_gharelu_utpad": "₹9.78 लाख करोड़ (US$130 बिलियन)",
+      "samtulya_desh": "कुवैत यूएस$136,197"
+    },
+    {
+      "kram": "1 1",
+      "rajya": "मध्य प्रदेश",
+      "sakal_gharelu_utpad": "₹ 9.17 लाख करोड़ (US$120 बिलियन)",
+      "samtulya_desh": "कुवैत यूएस$136,197"
+    },
+    {
+      "kram": "12",
+      "rajya": "दिल्ली",
+      "sakal_gharelu_utpad": "₹ 7.98 लाख करोड़ (US$110 बिलियन)",
+      "samtulya_desh": "केन्या यूएस$ 106,041"
+    },
+    {
+      "kram": "13",
+      "rajya": "हरयाणा",
+      "sakal_gharelu_utpad": "₹ 7.65 लाख करोड़ (US$100 बिलियन)",
+      "samtulya_desh": "केन्या यूएस$ 106,041"
+    },
+    {
+      "kram": "14",
+      "rajya": "बिहार",
+      "sakal_gharelu_utpad": "₹ 7.57 लाख करोड़ (US$100 बिलियन)",
+      "samtulya_desh": "केन्या यूएस$ 106,041"
+    },
+    {
+      "kram": "15",
+      "rajya": "पंजाब",
+      "sakal_gharelu_utpad": "₹ 5.41 लाख करोड़ (72 अरब अमेरिकी डॉलर)",
+      "samtulya_desh": "म्यांमार यूएस $ 76,195"
+    },
+    {
+      "kram": "16",
+      "rajya": "उड़ीसा",
+      "sakal_gharelu_utpad": "₹ 5.09 लाख करोड़ (US$68 बिलियन)",
+      "samtulya_desh": "आइवरी कोस्ट US$ 70,991"
+    },
+    {
+      "kram": "17",
+      "rajya": "असम",
+      "sakal_gharelu_utpad": "₹ 4.09 लाख करोड़ (US$54 बिलियन)",
+      "samtulya_desh": "क्रोएशिया US$ 55,967"
+    },
+    {
+      "kram": "18",
+      "rajya": "छत्तीसगढ",
+      "sakal_gharelu_utpad": "₹ 3.50 लाख करोड़ (US$46 बिलियन)",
+      "samtulya_desh": "क्रोएशिया US$ 55,967"
+    },
+    {
+      "kram": "19",
+      "rajya": "झारखंड",
+      "sakal_gharelu_utpad": "₹ 3.29 लाख करोड़ (US$44 बिलियन)",
+      "samtulya_desh": "जॉर्डन यूएस$44,979"
+    },
+    {
+      "kram": "20",
+      "rajya": "उत्तराखंड",
+      "sakal_gharelu_utpad": "₹ 2.53 लाख करोड़ (US$34 बिलियन)",
+      "samtulya_desh": "सूडान यूएस$ 35,827"
+    },
+    {
+      "kram": "21",
+      "rajya": "जम्मू और कश्मीर",
+      "sakal_gharelu_utpad": "₹ 1.76 लाख करोड़ (23 अरब अमेरिकी डॉलर)",
+      "samtulya_desh": "यमन US$25,095"
+    },
+    {
+      "kram": "22",
+      "rajya": "हिमाचल प्रदेश",
+      "sakal_gharelu_utpad": "₹ 1.56 लाख करोड़ (21 अरब अमेरिकी डॉलर)",
+      "samtulya_desh": "त्रिनिदाद और टोबैगो US$22,161"
+    },
+    {
+      "kram": "23",
+      "rajya": "गोवा",
+      "sakal_gharelu_utpad": "₹ 0.815 लाख करोड़ (US$11 बिलियन)",
+      "samtulya_desh": "नामीबिया US$11,381"
+    },
+    {
+      "kram": "24",
+      "rajya": "त्रिपुरा",
+      "sakal_gharelu_utpad": "₹ 0.597 लाख करोड़ (US$7.9 बिलियन)",
+      "samtulya_desh": "कोसोवो यूएस$8,810"
+    },
+    {
+      "kram": "25",
+      "rajya": "चंडीगढ़",
+      "sakal_gharelu_utpad": "₹ 0.421 लाख करोड़ (US$5.6 बिलियन)",
+      "samtulya_desh": "मोंटेनेग्रो यूएस$ 5,651"
+    },
+    {
+      "kram": "26",
+      "rajya": "पुदुचेरी",
+      "sakal_gharelu_utpad": "₹ 0.380 लाख करोड़ (US$5.0 बिलियन)",
+      "samtulya_desh": "मोंटेनेग्रो यूएस$ 5,651"
+    },
+    {
+      "kram": "27",
+      "rajya": "मेघालय",
+      "sakal_gharelu_utpad": "₹ 0.348 लाख करोड़ (US$4.6 बिलियन)",
+      "samtulya_desh": "बारबाडोस यूएस$4,628"
+    },
+    {
+      "kram": "28",
+      "rajya": "सिक्किम",
+      "sakal_gharelu_utpad": "₹ 0.325 लाख करोड़ (US$4.3 बिलियन)",
+      "samtulya_desh": "बारबाडोस यूएस$4,628"
+    },
+    {
+      "kram": "29",
+      "rajya": "नगालैंड",
+      "sakal_gharelu_utpad": "₹ 0.319 लाख करोड़ (US$4.2 बिलियन)",
+      "samtulya_desh": "बारबाडोस यूएस$4,628"
+    },
+    {
+      "kram": "30",
+      "rajya": "मणिपुर",
+      "sakal_gharelu_utpad": "₹ 0.318 लाख करोड़ (US$4.2 बिलियन)",
+      "samtulya_desh": "बारबाडोस यूएस$4,628"
+    },
+    {
+      "kram": "31",
+      "rajya": "अरुणाचल प्रदेश",
+      "sakal_gharelu_utpad": "₹ 0.273 लाख करोड़ (US$3.6 बिलियन)",
+      "samtulya_desh": "जिबूती यूएस$ 3,663"
+    },
+    {
+      "kram": "32",
+      "rajya": "मिजोरम",
+      "sakal_gharelu_utpad": "₹ 0.265 लाख करोड़ (US$3.5 बिलियन)",
+      "samtulya_desh": "जिबूती यूएस$ 3,663"
+    },
+    {
+      "kram": "33",
+      "rajya": "अंडमान व नोकोबार द्वीप समूह",
+      "sakal_gharelu_utpad": "₹ 0.088 लाख करोड़ (US$1.2 बिलियन)",
+      "samtulya_desh": "कोमोरोस US$ 1,309"
+    }
+  ],
+  "meta": {
+    "title": "अर्थव्यवस्था के आधार पर भारत के राज्य और संघ क्षेत्र - Free Download",
+    "description": "भारत के राज्यों और केंद्र शासित प्रदेशों की नाममात्र सकल राज्य घरेलू उत्पाद (₹ लाख करोड़) के अनुसार सूची, समतुल्य देशों के साथ। Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "अर्थव्यवस्था के आधार पर भारत के राज्य और संघ क्षेत्र | ListBase",
+    "seo_description": "Download अर्थव्यवस्था के आधार पर भारत के राज्य और संघ क्षेत्र — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/अर्थव्यवस्था_के_आधार_पर_भारत_के_राज्य_और_संघ_क्षेत्र"
+    ]
+  }
+}

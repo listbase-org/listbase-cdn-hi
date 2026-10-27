@@ -1,0 +1,224 @@
+{
+  "id": "hi-rajyavar-chawal-utpadan",
+  "name": "राज्यवार चावल उत्पादन",
+  "title": "राज्यवार चावल उत्पादन",
+  "description": "भारत के प्रमुख चावल उत्पादक राज्य — 2014-15 का उत्पादन (मिलियन टन), देश में हिस्सा, औसत उत्पादन और 2015-16 का अनुमान।",
+  "category": "agriculture",
+  "source": "https://hi.wikipedia.org/wiki/भारत_में_चावल_का_उत्पादन",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_में_चावल_का_उत्पादन",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "rank_2014_15",
+      "label": "Rank 2014 15",
+      "type": "string"
+    },
+    {
+      "key": "utpadan_2014_15_million_ton",
+      "label": "Utpadan 2014 15 Million Ton",
+      "type": "number"
+    },
+    {
+      "key": "desh_ka_pratishat",
+      "label": "Desh Ka Pratishat",
+      "type": "number"
+    },
+    {
+      "key": "ausat_utpadan_2010_15",
+      "label": "Ausat Utpadan 2010 15",
+      "type": "number"
+    },
+    {
+      "key": "anuman_2015_16",
+      "label": "Anuman 2015 16",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rajya": "भारत",
+      "rank_2014_15": "-",
+      "utpadan_2014_15_million_ton": 103.73,
+      "desh_ka_pratishat": 100,
+      "ausat_utpadan_2010_15": 105.48,
+      "anuman_2015_16": 103.61
+    },
+    {
+      "rajya": "पश्चिम बंगाल",
+      "rank_2014_15": "1",
+      "utpadan_2014_15_million_ton": 14.68,
+      "desh_ka_pratishat": 13.9,
+      "ausat_utpadan_2010_15": 14.54,
+      "anuman_2015_16": 16.1
+    },
+    {
+      "rajya": "उत्तर प्रदेश",
+      "rank_2014_15": "2",
+      "utpadan_2014_15_million_ton": 12.17,
+      "desh_ka_pratishat": 11.5,
+      "ausat_utpadan_2010_15": 13.45,
+      "anuman_2015_16": 12.51
+    },
+    {
+      "rajya": "पंजाब",
+      "rank_2014_15": "3",
+      "utpadan_2014_15_million_ton": 11.11,
+      "desh_ka_pratishat": 10.5,
+      "ausat_utpadan_2010_15": 11.03,
+      "anuman_2015_16": 11.64
+    },
+    {
+      "rajya": "ओडीशा",
+      "rank_2014_15": "4",
+      "utpadan_2014_15_million_ton": 8.3,
+      "desh_ka_pratishat": 7.9,
+      "ausat_utpadan_2010_15": 7.17,
+      "anuman_2015_16": 5.8
+    },
+    {
+      "rajya": "आंध्रप्रदेश",
+      "rank_2014_15": "5",
+      "utpadan_2014_15_million_ton": 7.23,
+      "desh_ka_pratishat": 6.9,
+      "ausat_utpadan_2010_15": 7.34,
+      "anuman_2015_16": 6.94
+    },
+    {
+      "rajya": "बिहार",
+      "rank_2014_15": "6",
+      "utpadan_2014_15_million_ton": 6.36,
+      "desh_ka_pratishat": 6,
+      "ausat_utpadan_2010_15": 5.93,
+      "anuman_2015_16": 6.11
+    },
+    {
+      "rajya": "छत्तीसगढ़",
+      "rank_2014_15": "7",
+      "utpadan_2014_15_million_ton": 6.32,
+      "desh_ka_pratishat": 6,
+      "ausat_utpadan_2010_15": 6.37,
+      "anuman_2015_16": 6.29
+    },
+    {
+      "rajya": "तामिलनाडु",
+      "rank_2014_15": "8",
+      "utpadan_2014_15_million_ton": 5.73,
+      "desh_ka_pratishat": 5.4,
+      "ausat_utpadan_2010_15": 5.68,
+      "anuman_2015_16": 5.72
+    },
+    {
+      "rajya": "आसाम",
+      "rank_2014_15": "9",
+      "utpadan_2014_15_million_ton": 5.22,
+      "desh_ka_pratishat": 4.9,
+      "ausat_utpadan_2010_15": 4.91,
+      "anuman_2015_16": 5.12
+    },
+    {
+      "rajya": "तेलंगाना",
+      "rank_2014_15": "10",
+      "utpadan_2014_15_million_ton": 4.44,
+      "desh_ka_pratishat": 4.2,
+      "ausat_utpadan_2010_15": 5.31,
+      "anuman_2015_16": 4.19
+    },
+    {
+      "rajya": "हरियाणा",
+      "rank_2014_15": "11",
+      "utpadan_2014_15_million_ton": 4.01,
+      "desh_ka_pratishat": 3.8,
+      "ausat_utpadan_2010_15": 3.84,
+      "anuman_2015_16": 4.18
+    },
+    {
+      "rajya": "मध्य प्रदेश",
+      "rank_2014_15": "12",
+      "utpadan_2014_15_million_ton": 3.63,
+      "desh_ka_pratishat": 3.4,
+      "ausat_utpadan_2010_15": 2.65,
+      "anuman_2015_16": 3.49
+    },
+    {
+      "rajya": "महाराष्ट्र",
+      "rank_2014_15": "15",
+      "utpadan_2014_15_million_ton": 2.95,
+      "desh_ka_pratishat": 2.8,
+      "ausat_utpadan_2010_15": 2.93,
+      "anuman_2015_16": 2.61
+    },
+    {
+      "rajya": "गुजरात",
+      "rank_2014_15": "16",
+      "utpadan_2014_15_million_ton": 1.83,
+      "desh_ka_pratishat": 1.7,
+      "ausat_utpadan_2010_15": 1.66,
+      "anuman_2015_16": 1.56
+    },
+    {
+      "rajya": "उत्तराखंड",
+      "rank_2014_15": "17",
+      "utpadan_2014_15_million_ton": 0.6,
+      "desh_ka_pratishat": 0.6,
+      "ausat_utpadan_2010_15": 0.58,
+      "anuman_2015_16": 0.63
+    },
+    {
+      "rajya": "केरल",
+      "rank_2014_15": "18",
+      "utpadan_2014_15_million_ton": 0.56,
+      "desh_ka_pratishat": 0.5,
+      "ausat_utpadan_2010_15": 0.53,
+      "anuman_2015_16": 0.7
+    },
+    {
+      "rajya": "जम्मू और कश्मीर",
+      "rank_2014_15": "19",
+      "utpadan_2014_15_million_ton": 0.52,
+      "desh_ka_pratishat": 0.5,
+      "ausat_utpadan_2010_15": 0.6,
+      "anuman_2015_16": 0.42
+    },
+    {
+      "rajya": "राजस्थान",
+      "rank_2014_15": "20",
+      "utpadan_2014_15_million_ton": 0.37,
+      "desh_ka_pratishat": 0.4,
+      "ausat_utpadan_2010_15": 0.28,
+      "anuman_2015_16": 0.35
+    },
+    {
+      "rajya": "हिमाचल प्रदेश",
+      "rank_2014_15": "21",
+      "utpadan_2014_15_million_ton": 0.13,
+      "desh_ka_pratishat": 0.1,
+      "ausat_utpadan_2010_15": 0.13,
+      "anuman_2015_16": 0.1
+    },
+    {
+      "rajya": "अन्य",
+      "rank_2014_15": "-",
+      "utpadan_2014_15_million_ton": 2.44,
+      "desh_ka_pratishat": 2.3,
+      "ausat_utpadan_2010_15": 2.37,
+      "anuman_2015_16": 2.31
+    }
+  ],
+  "meta": {
+    "title": "राज्यवार चावल उत्पादन - Free Download",
+    "description": "भारत के प्रमुख चावल उत्पादक राज्य — 2014-15 का उत्पादन (मिलियन टन), देश में हिस्सा, औसत उत्पादन और 2015-16 का अनुमान। Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "राज्यवार चावल उत्पादन | ListBase",
+    "seo_description": "Download राज्यवार चावल उत्पादन — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_में_चावल_का_उत्पादन"
+    ]
+  }
+}

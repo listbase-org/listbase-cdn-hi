@@ -1,12 +1,12 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:33:02.825Z",
-  "total_datasets": 444,
-  "total_records": 2010530,
+  "generated": "2026-10-27T02:33:05.739Z",
+  "total_datasets": 445,
+  "total_records": 2010551,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -172,6 +172,33 @@
         "xlsx": {
           "name": "hi-rabi-kharif-faslen_HI.xlsx",
           "size": 7438
+        }
+      }
+    },
+    {
+      "id": "hi-rajyavar-chawal-utpadan",
+      "name": "राज्यवार चावल उत्पादन",
+      "category": "agriculture",
+      "record_count": 21,
+      "columns": [
+        "rajya",
+        "rank_2014_15",
+        "utpadan_2014_15_million_ton",
+        "desh_ka_pratishat",
+        "ausat_utpadan_2010_15",
+        "anuman_2015_16"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_में_चावल_का_उत्पादन",
+      "updated": "2026-10",
+      "size": 7123,
+      "files": {
+        "csv": {
+          "name": "hi-rajyavar-chawal-utpadan_HI.csv",
+          "size": 1348
+        },
+        "xlsx": {
+          "name": "hi-rajyavar-chawal-utpadan_HI.xlsx",
+          "size": 7822
         }
       }
     },

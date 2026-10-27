@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:33.357Z",
-  "total_datasets": 432,
-  "total_records": 2010030,
+  "generated": "2026-10-27T02:32:35.708Z",
+  "total_datasets": 433,
+  "total_records": 2010070,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -9995,6 +9995,29 @@
         "xlsx": {
           "name": "hi-bharatiya-ganitagya_HI.xlsx",
           "size": 8836
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-vaigyanik",
+      "name": "भारतीय वैज्ञानिकों की सूची",
+      "category": "science",
+      "record_count": 40,
+      "columns": [
+        "vaigyanik",
+        "kaal"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_वैज्ञानिकों_की_सूची",
+      "updated": "2026-10",
+      "size": 8885,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-vaigyanik_HI.csv",
+          "size": 5212
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-vaigyanik_HI.xlsx",
+          "size": 8101
         }
       }
     },

@@ -1,0 +1,538 @@
+{
+  "id": "hi-bharat-ke-mukhya-nyayadhish",
+  "name": "भारत के मुख्य न्यायाधीश",
+  "title": "भारत के मुख्य न्यायाधीश",
+  "description": "भारत के सर्वोच्च न्यायालय के सभी मुख्य न्यायाधीश — कार्यकाल, कुल अवधि (दिन), मूल उच्च न्यायालय और नियुक्त करने वाले राष्ट्रपति।",
+  "category": "law",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_मुख्य_न्यायाधीश",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_मुख्य_न्यायाधीश",
+  "updated": "2026-10",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "karyakal_arambh",
+      "label": "Karyakal Arambh",
+      "type": "string"
+    },
+    {
+      "key": "karyakal_ant",
+      "label": "Karyakal Ant",
+      "type": "string"
+    },
+    {
+      "key": "kul_avadhi_din",
+      "label": "Kul Avadhi Din",
+      "type": "number"
+    },
+    {
+      "key": "nyayalay",
+      "label": "Nyayalay",
+      "type": "string"
+    },
+    {
+      "key": "niyukti",
+      "label": "Niyukti",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "1",
+      "naam": "एच जे कनिया",
+      "karyakal_arambh": "26 जनवरी 1950",
+      "karyakal_ant": "6 नवम्बर 1951",
+      "kul_avadhi_din": 649,
+      "nyayalay": "मुंबई उच्च न्यायालय",
+      "niyukti": "राजेंद्र प्रसाद"
+    },
+    {
+      "kram": "2",
+      "naam": "एम पी शास्त्री",
+      "karyakal_arambh": "7 नवम्बर 1951",
+      "karyakal_ant": "3 जनवरी 1954",
+      "kul_avadhi_din": 788,
+      "nyayalay": "मद्रास उच्च न्यायालय",
+      "niyukti": "राजेंद्र प्रसाद"
+    },
+    {
+      "kram": "3",
+      "naam": "मेहरचंद महाजन",
+      "karyakal_arambh": "4 जनवरी 1954",
+      "karyakal_ant": "22 दिसम्बर 1954",
+      "kul_avadhi_din": 352,
+      "nyayalay": "पूर्वी पंजाब उच्च न्यायालय",
+      "niyukti": "राजेंद्र प्रसाद"
+    },
+    {
+      "kram": "4",
+      "naam": "बी के मुखरीजा",
+      "karyakal_arambh": "23 दिसम्बर 1954",
+      "karyakal_ant": "31 जनवरी 1956",
+      "kul_avadhi_din": 404,
+      "nyayalay": "कोलकाता उच्च न्यायालय",
+      "niyukti": "राजेंद्र प्रसाद"
+    },
+    {
+      "kram": "5",
+      "naam": "एस आर दास",
+      "karyakal_arambh": "1 फ़रवरी 1956",
+      "karyakal_ant": "30 सितम्बर 1959",
+      "kul_avadhi_din": 1337,
+      "nyayalay": "कोलकाता उच्च न्यायालय",
+      "niyukti": "राजेंद्र प्रसाद"
+    },
+    {
+      "kram": "6",
+      "naam": "बी पी सिन्हा",
+      "karyakal_arambh": "1 अक्टूबर 1959",
+      "karyakal_ant": "31 जनवरी 1964",
+      "kul_avadhi_din": 1583,
+      "nyayalay": "पटना उच्च न्यायालय",
+      "niyukti": "राजेंद्र प्रसाद"
+    },
+    {
+      "kram": "7",
+      "naam": "पी बी गजेंद्रगडकर",
+      "karyakal_arambh": "1 फ़रवरी 1964",
+      "karyakal_ant": "15 मार्च 1966",
+      "kul_avadhi_din": 773,
+      "nyayalay": "मुंबई उच्च न्यायालय",
+      "niyukti": "एस राधाकृष्णन"
+    },
+    {
+      "kram": "8",
+      "naam": "ए के सरकार",
+      "karyakal_arambh": "16 मार्च 1966",
+      "karyakal_ant": "29 जून 1966",
+      "kul_avadhi_din": 105,
+      "nyayalay": "कोलकाता उच्च न्यायालय",
+      "niyukti": "एस राधाकृष्णन"
+    },
+    {
+      "kram": "9",
+      "naam": "के एस राव",
+      "karyakal_arambh": "30 जून 1966",
+      "karyakal_ant": "11 अप्रैल 1967",
+      "kul_avadhi_din": 285,
+      "nyayalay": "मद्रास उच्च न्यायालय",
+      "niyukti": "एस राधाकृष्णन"
+    },
+    {
+      "kram": "10",
+      "naam": "के एन वान्चू",
+      "karyakal_arambh": "12 अप्रैल 1967",
+      "karyakal_ant": "24 फ़रवरी 1968",
+      "kul_avadhi_din": 318,
+      "nyayalay": "इलाहाबाद उच्च न्यायालय",
+      "niyukti": "एस राधाकृष्णन"
+    },
+    {
+      "kram": "11",
+      "naam": "एम हिदायतुल्ला",
+      "karyakal_arambh": "25 फ़रवरी 1968",
+      "karyakal_ant": "16 दिसम्बर 1970",
+      "kul_avadhi_din": 1025,
+      "nyayalay": "मुंबई उच्च न्यायालय",
+      "niyukti": "ज़ाकिर हुसैन"
+    },
+    {
+      "kram": "12",
+      "naam": "जे सी शाह",
+      "karyakal_arambh": "17 दिसम्बर 1970",
+      "karyakal_ant": "21 जनवरी 1971",
+      "kul_avadhi_din": 35,
+      "nyayalay": "मुंबई उच्च न्यायालय",
+      "niyukti": "वी वी गिरी"
+    },
+    {
+      "kram": "13",
+      "naam": "एस एम सिकरी",
+      "karyakal_arambh": "22 जनवरी 1971",
+      "karyakal_ant": "25 अप्रैल 1973",
+      "kul_avadhi_din": 824,
+      "nyayalay": "लाहौर उच्च न्यायालय",
+      "niyukti": "वी वी गिरी"
+    },
+    {
+      "kram": "14",
+      "naam": "ए एन रे",
+      "karyakal_arambh": "26 अप्रैल 1973",
+      "karyakal_ant": "27 जनवरी 1977",
+      "kul_avadhi_din": 1372,
+      "nyayalay": "कोलकाता उच्च न्यायालय",
+      "niyukti": "वी वी गिरी"
+    },
+    {
+      "kram": "15",
+      "naam": "मिर्जा हमीदुल्ला बेग",
+      "karyakal_arambh": "28 जनवरी 1977",
+      "karyakal_ant": "21 फ़रवरी 1978",
+      "kul_avadhi_din": 389,
+      "nyayalay": "इलाहाबाद उच्च न्यायालय",
+      "niyukti": "फखरुद्दीन अली अहमद"
+    },
+    {
+      "kram": "16",
+      "naam": "वाई वी चंद्रचूड़",
+      "karyakal_arambh": "22 फ़रवरी 1978",
+      "karyakal_ant": "11 जुलाई 1985",
+      "kul_avadhi_din": 2696,
+      "nyayalay": "मुंबई उच्च न्यायालय",
+      "niyukti": "नीलम संजीव रेड्डी"
+    },
+    {
+      "kram": "17",
+      "naam": "पी एन भगवती",
+      "karyakal_arambh": "12 जुलाई 1985",
+      "karyakal_ant": "20 दिसम्बर 1986",
+      "kul_avadhi_din": 526,
+      "nyayalay": "गुजरात उच्च न्यायालय",
+      "niyukti": "ज़ैल सिंह"
+    },
+    {
+      "kram": "18",
+      "naam": "आर एस पाठक",
+      "karyakal_arambh": "21 दिसम्बर 1986",
+      "karyakal_ant": "18 जून 1989",
+      "kul_avadhi_din": 940,
+      "nyayalay": "इलाहाबाद उच्च न्यायालय",
+      "niyukti": "ज़ैल सिंह"
+    },
+    {
+      "kram": "19",
+      "naam": "ई एस वेंकटरमैय्या",
+      "karyakal_arambh": "19 जून 1989",
+      "karyakal_ant": "17 दिसम्बर 1989",
+      "kul_avadhi_din": 181,
+      "nyayalay": "कर्नाटक उच्च न्यायालय",
+      "niyukti": "रामास्वामी वेंकटरमण"
+    },
+    {
+      "kram": "20",
+      "naam": "एस मुखर्जी",
+      "karyakal_arambh": "18 दिसम्बर 1989",
+      "karyakal_ant": "25 सितम्बर 1990",
+      "kul_avadhi_din": 281,
+      "nyayalay": "कोलकाता उच्च न्यायालय",
+      "niyukti": "रामास्वामी वेंकटरमण"
+    },
+    {
+      "kram": "21",
+      "naam": "रंगनाथ मिश्र",
+      "karyakal_arambh": "26 सितम्बर 1990",
+      "karyakal_ant": "24 नवम्बर 1991",
+      "kul_avadhi_din": 424,
+      "nyayalay": "उड़ीसा उच्च न्यायालय",
+      "niyukti": "रामास्वामी वेंकटरमण"
+    },
+    {
+      "kram": "22",
+      "naam": "के एन सिंह (न्यायाधीश)",
+      "karyakal_arambh": "25 नवम्बर 1991",
+      "karyakal_ant": "12 दिसम्बर 1991",
+      "kul_avadhi_din": 17,
+      "nyayalay": "इलाहाबाद उच्च न्यायालय",
+      "niyukti": "रामास्वामी वेंकटरमण"
+    },
+    {
+      "kram": "23",
+      "naam": "एम एच कनिया",
+      "karyakal_arambh": "13 दिसम्बर 1991",
+      "karyakal_ant": "17 नवम्बर 1992",
+      "kul_avadhi_din": 340,
+      "nyayalay": "मुंबई उच्च न्यायालय",
+      "niyukti": "रामास्वामी वेंकटरमण"
+    },
+    {
+      "kram": "24",
+      "naam": "एल एम शर्मा",
+      "karyakal_arambh": "18 नवम्बर 1992",
+      "karyakal_ant": "11 फ़रवरी 1993",
+      "kul_avadhi_din": 85,
+      "nyayalay": "पटना उच्च न्यायालय",
+      "niyukti": "शंकर दयाल शर्मा"
+    },
+    {
+      "kram": "25",
+      "naam": "एम एन वेंकटचेलैय्या",
+      "karyakal_arambh": "12 फ़रवरी 1993",
+      "karyakal_ant": "24 अक्टूबर 1994",
+      "kul_avadhi_din": 619,
+      "nyayalay": "कर्नाटक उच्च न्यायालय",
+      "niyukti": "शंकर दयाल शर्मा"
+    },
+    {
+      "kram": "26",
+      "naam": "ए एम अहमदी",
+      "karyakal_arambh": "25 अक्टूबर 1994",
+      "karyakal_ant": "24 मार्च 1997",
+      "kul_avadhi_din": 881,
+      "nyayalay": "गुजरात उच्च न्यायालय",
+      "niyukti": "शंकर दयाल शर्मा"
+    },
+    {
+      "kram": "27",
+      "naam": "जे एस वर्मा",
+      "karyakal_arambh": "25 मार्च 1997",
+      "karyakal_ant": "17 जनवरी 1998",
+      "kul_avadhi_din": 298,
+      "nyayalay": "मध्य प्रदेश उच्च न्यायालय",
+      "niyukti": "शंकर दयाल शर्मा"
+    },
+    {
+      "kram": "28",
+      "naam": "एम एम पुंछी",
+      "karyakal_arambh": "18 जनवरी 1998",
+      "karyakal_ant": "9 अक्टूबर 1998",
+      "kul_avadhi_din": 264,
+      "nyayalay": "पंजाब और हरियाणा उच्च न्यायालय",
+      "niyukti": "के आर नारायणन"
+    },
+    {
+      "kram": "29",
+      "naam": "ए एस आनंद",
+      "karyakal_arambh": "10 अक्टूबर 1998",
+      "karyakal_ant": "11 जनवरी 2001",
+      "kul_avadhi_din": 824,
+      "nyayalay": "जम्मू और कश्मीर उच्च न्यायालय",
+      "niyukti": "के आर नारायणन"
+    },
+    {
+      "kram": "30",
+      "naam": "एस पी भरुचा",
+      "karyakal_arambh": "11 जनवरी 2001",
+      "karyakal_ant": "6 मई 2002",
+      "kul_avadhi_din": 480,
+      "nyayalay": "मुंबई उच्च न्यायालय",
+      "niyukti": "के आर नारायणन"
+    },
+    {
+      "kram": "31",
+      "naam": "बी एन कृपाल",
+      "karyakal_arambh": "6 मई 2002",
+      "karyakal_ant": "8 नवम्बर 2002",
+      "kul_avadhi_din": 186,
+      "nyayalay": "दिल्ली उच्च न्यायालय",
+      "niyukti": "के आर नारायणन"
+    },
+    {
+      "kram": "32",
+      "naam": "जी बी पटनायक",
+      "karyakal_arambh": "8 नवम्बर 2002",
+      "karyakal_ant": "19 दिसम्बर 2002",
+      "kul_avadhi_din": 41,
+      "nyayalay": "उड़ीसा उच्च न्यायालय",
+      "niyukti": "ऐ पी जे अब्दुल कलाम"
+    },
+    {
+      "kram": "33",
+      "naam": "वी एन खरे",
+      "karyakal_arambh": "19 दिसम्बर 2002",
+      "karyakal_ant": "2 मई 2004",
+      "kul_avadhi_din": 500,
+      "nyayalay": "इलाहाबाद उच्च न्यायालय",
+      "niyukti": "ऐ पी जे अब्दुल कलाम"
+    },
+    {
+      "kram": "34",
+      "naam": "राजेन्द्र बाबू",
+      "karyakal_arambh": "2 मई 2004",
+      "karyakal_ant": "1 जून 2004",
+      "kul_avadhi_din": 30,
+      "nyayalay": "कर्नाटक उच्च न्यायालय",
+      "niyukti": "ऐ पी जे अब्दुल कलाम"
+    },
+    {
+      "kram": "35",
+      "naam": "आर सी लहोटी",
+      "karyakal_arambh": "1 जून 2004",
+      "karyakal_ant": "1 नवम्बर 2005",
+      "kul_avadhi_din": 518,
+      "nyayalay": "मध्य प्रदेश उच्च न्यायालय",
+      "niyukti": "ऐ पी जे अब्दुल कलाम"
+    },
+    {
+      "kram": "36",
+      "naam": "वाई के सभरवाल",
+      "karyakal_arambh": "1 नवम्बर 2005",
+      "karyakal_ant": "13 जनवरी 2007",
+      "kul_avadhi_din": 438,
+      "nyayalay": "दिल्ली उच्च न्यायालय",
+      "niyukti": "ऐ पी जे अब्दुल कलाम"
+    },
+    {
+      "kram": "37",
+      "naam": "के. जी. बालकृष्णन",
+      "karyakal_arambh": "13 जनवरी 2007",
+      "karyakal_ant": "11 मई 2010",
+      "kul_avadhi_din": 1214,
+      "nyayalay": "केरल उच्च न्यायालय",
+      "niyukti": "ऐ पी जे अब्दुल कलाम"
+    },
+    {
+      "kram": "38",
+      "naam": "एस एच कापड़िया",
+      "karyakal_arambh": "12 मई 2010",
+      "karyakal_ant": "28 सितम्बर 2012",
+      "kul_avadhi_din": 870,
+      "nyayalay": "मुंबई उच्च न्यायालय",
+      "niyukti": "प्रतिभा पाटिल"
+    },
+    {
+      "kram": "39",
+      "naam": "अल्तमास कबीर",
+      "karyakal_arambh": "29 सितम्बर 2012",
+      "karyakal_ant": "18 जुलाई 2013",
+      "kul_avadhi_din": 292,
+      "nyayalay": "कोलकाता उच्च न्यायालय",
+      "niyukti": "प्रणब मुखर्जी"
+    },
+    {
+      "kram": "40",
+      "naam": "पी सतशिवम",
+      "karyakal_arambh": "19 जुलाई 2013",
+      "karyakal_ant": "26 अप्रैल 2014",
+      "kul_avadhi_din": 281,
+      "nyayalay": "मद्रास उच्च न्यायालय",
+      "niyukti": "प्रणब मुखर्जी"
+    },
+    {
+      "kram": "41",
+      "naam": "राजेन्द्र मल लोढ़ा",
+      "karyakal_arambh": "26 अप्रैल 2014",
+      "karyakal_ant": "27 सितम्बर 2014",
+      "kul_avadhi_din": 154,
+      "nyayalay": "राजस्थान उच्च न्यायालय",
+      "niyukti": "प्रणब मुखर्जी"
+    },
+    {
+      "kram": "42",
+      "naam": "एच एल दत्तु",
+      "karyakal_arambh": "28 सितम्बर 2014",
+      "karyakal_ant": "2 दिसम्बर 2015",
+      "kul_avadhi_din": 430,
+      "nyayalay": "केरल उच्च न्यायालय व छत्तीसगढ़ उच्च न्यायालय",
+      "niyukti": "प्रणब मुखर्जी"
+    },
+    {
+      "kram": "43",
+      "naam": "टी एस ठाकुर",
+      "karyakal_arambh": "3 दिसम्बर 2015",
+      "karyakal_ant": "3 जनवरी 2017",
+      "kul_avadhi_din": 397,
+      "nyayalay": "पंजाब और हरियाणा उच्च न्यायालय और दिल्ली उच्च न्यायालय",
+      "niyukti": "प्रणब मुखर्जी"
+    },
+    {
+      "kram": "44",
+      "naam": "जगदीश सिंह खेहर",
+      "karyakal_arambh": "4 जनवरी 2017",
+      "karyakal_ant": "27 अगस्त 2017",
+      "kul_avadhi_din": 235,
+      "nyayalay": "पंजाब, हरियाणा, उत्तराखंड, कर्नाटक एवं उच्च न्यायालय",
+      "niyukti": "प्रणब मुखर्जी"
+    },
+    {
+      "kram": "45",
+      "naam": "दीपक मिश्रा",
+      "karyakal_arambh": "28 अगस्त 2017",
+      "karyakal_ant": "2 अक्टूबर 2018",
+      "kul_avadhi_din": 400,
+      "nyayalay": "दिल्ली, पटना, उड़ीसा उच्च न्यायालय",
+      "niyukti": "राम नाथ कोविन्द"
+    },
+    {
+      "kram": "46",
+      "naam": "रंजन गोगोई",
+      "karyakal_arambh": "3 अक्टूबर 2018",
+      "karyakal_ant": "17 नवम्बर 2019",
+      "kul_avadhi_din": 410,
+      "nyayalay": "पंजाब, हरियाणा, गुवाहाटी उच्च न्यायालय",
+      "niyukti": "राम नाथ कोविन्द"
+    },
+    {
+      "kram": "47",
+      "naam": "शरद अरविंद बोबडे",
+      "karyakal_arambh": "18 नवम्बर 2019",
+      "karyakal_ant": "23 अप्रैल 2021",
+      "kul_avadhi_din": 522,
+      "nyayalay": "मुंबई, मध्य प्रदेश उच्च न्यायालय",
+      "niyukti": "राम नाथ कोविन्द"
+    },
+    {
+      "kram": "48",
+      "naam": "एन वी रमण",
+      "karyakal_arambh": "24 अप्रैल 2021",
+      "karyakal_ant": "26 अगस्त 2022",
+      "kul_avadhi_din": 489,
+      "nyayalay": "आंध्र प्रदेश, दिल्ली उच्च न्यायालय",
+      "niyukti": "राम नाथ कोविन्द"
+    },
+    {
+      "kram": "49",
+      "naam": "उदय यू ललित",
+      "karyakal_arambh": "27 अगस्त 2022",
+      "karyakal_ant": "8 नवम्बर 2022",
+      "kul_avadhi_din": 73,
+      "nyayalay": "भारतीय विधिज्ञ परिषद",
+      "niyukti": "द्रौपदी मुर्मू"
+    },
+    {
+      "kram": "50",
+      "naam": "धनञ्जय यशवंत चंद्रचूड़",
+      "karyakal_arambh": "9 नवम्बर 2022",
+      "karyakal_ant": "10 नवम्बर 2024",
+      "kul_avadhi_din": 732,
+      "nyayalay": "बॉम्बे उच्च न्यायालय, इलाहाबाद उच्च न्यायालय",
+      "niyukti": "द्रौपदी मुर्मू"
+    },
+    {
+      "kram": "51",
+      "naam": "संजीव खन्ना",
+      "karyakal_arambh": "11 नवम्बर 2024",
+      "karyakal_ant": "13 मई 2025",
+      "kul_avadhi_din": 183,
+      "nyayalay": "दिल्ली उच्च न्यायालय",
+      "niyukti": "द्रौपदी मुर्मू"
+    },
+    {
+      "kram": "52",
+      "naam": "भूषण रामकृष्ण गवई",
+      "karyakal_arambh": "14 मई 2025",
+      "karyakal_ant": "23 नवम्बर 2025",
+      "kul_avadhi_din": 193,
+      "nyayalay": "बॉम्बे उच्च न्यायालय",
+      "niyukti": "द्रौपदी मुर्मू"
+    },
+    {
+      "kram": "53",
+      "naam": "सूर्यकांत",
+      "karyakal_arambh": "24 नवम्बर 2025",
+      "karyakal_ant": "पदस्थ",
+      "kul_avadhi_din": 337,
+      "nyayalay": "पंजाब और हरियाणा",
+      "niyukti": "द्रौपदी मुर्मू"
+    }
+  ],
+  "meta": {
+    "title": "भारत के मुख्य न्यायाधीश - Free Download",
+    "description": "भारत के सर्वोच्च न्यायालय के सभी मुख्य न्यायाधीश — कार्यकाल, कुल अवधि (दिन), मूल उच्च न्यायालय और नियुक्त करने वाले राष्ट्रपति। Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के मुख्य न्यायाधीश | ListBase",
+    "seo_description": "Download भारत के मुख्य न्यायाधीश — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_मुख्य_न्यायाधीश"
+    ]
+  }
+}

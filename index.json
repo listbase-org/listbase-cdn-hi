@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:10.699Z",
-  "total_datasets": 423,
-  "total_records": 2009621,
+  "generated": "2026-10-27T02:32:13.335Z",
+  "total_datasets": 424,
+  "total_records": 2009674,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -6004,6 +6004,34 @@
         "xlsx": {
           "name": "hi-lipiyan_HI.xlsx",
           "size": 11111
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-mukhya-nyayadhish",
+      "name": "भारत के मुख्य न्यायाधीश",
+      "category": "law",
+      "record_count": 53,
+      "columns": [
+        "kram",
+        "naam",
+        "karyakal_arambh",
+        "karyakal_ant",
+        "kul_avadhi_din",
+        "nyayalay",
+        "niyukti"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_मुख्य_न्यायाधीश",
+      "updated": "2026-10",
+      "size": 21949,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-mukhya-nyayadhish_HI.csv",
+          "size": 11491
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-mukhya-nyayadhish_HI.xlsx",
+          "size": 10584
         }
       }
     },

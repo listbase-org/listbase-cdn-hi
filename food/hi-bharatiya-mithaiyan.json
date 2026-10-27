@@ -1,0 +1,196 @@
+{
+  "id": "hi-bharatiya-mithaiyan",
+  "name": "भारतीय मिठाइयों की सूची",
+  "title": "भारतीय मिठाइयों की सूची",
+  "description": "भारतीय मिठाइयाँ, उनकी मुख्य सामग्री और श्रेणी।",
+  "category": "food",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_मिठाइयों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_मिठाइयों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "mukhya_samagri",
+      "label": "Mukhya Samagri",
+      "type": "string"
+    },
+    {
+      "key": "shreni",
+      "label": "Shreni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naam": "अरिस पीठा",
+      "mukhya_samagri": "चावल का आटा, गुड़",
+      "shreni": "तली हुई, गुड़ की मिठाई"
+    },
+    {
+      "naam": "सेब का हलवा",
+      "mukhya_samagri": "सेब, दूध, घी",
+      "shreni": "हलवा"
+    },
+    {
+      "naam": "बालूशाही",
+      "mukhya_samagri": "मैदा आटा, दही, तेल, चीनी",
+      "shreni": "चासनी की मिठाई"
+    },
+    {
+      "naam": "बूंदी",
+      "mukhya_samagri": "चने का आटा (बेसन), घी, चीनी",
+      "shreni": "चासनी की मिठाई"
+    },
+    {
+      "naam": "गाजर का हलवा",
+      "mukhya_samagri": "गाजर, दूध, चीनी, घी, काजू और किशमिश",
+      "shreni": "हलवा"
+    },
+    {
+      "naam": "घेवर",
+      "mukhya_samagri": "आटा, घी, केवड़ा, दूध, शुद्ध मक्खन, चीनी, बादाम, पिस्ता, केसर, हरी इलायची",
+      "shreni": "तली हुई, चासनी की मिठाई"
+    },
+    {
+      "naam": "गुलाब जामुन",
+      "mukhya_samagri": "दूध के मावा की गेंद बनाकर उन्हें तला जाता है और फिर चासनी में डाल दिया जाता है, चासनी को गुलाब या शहद से स्वाद दिया जाता है।",
+      "shreni": "तली हुई, चासनी की मिठाई"
+    },
+    {
+      "naam": "इमरती",
+      "mukhya_samagri": "चासनी, मसूर का आटा",
+      "shreni": "तली हुई, चासनी की मिठाई"
+    },
+    {
+      "naam": "जलेबी",
+      "mukhya_samagri": "गूंथे हुये आटे को वृत्ताकार रूप में तला जाता है और बाद में चासनी में डुबोया जाता है, सामान्यतः दूध, चाय, दही या लस्सी के साथ खायी जाती है।",
+      "shreni": "तली हुई, चासनी की मिठाई"
+    },
+    {
+      "naam": "काजू कतली",
+      "mukhya_samagri": "काजू, इलायची और चीनी के साथ घी",
+      "shreni": "बर्फ़ी"
+    },
+    {
+      "naam": "कलाकंद",
+      "mukhya_samagri": "दूध, पनीर",
+      "shreni": "बर्फ़ी"
+    },
+    {
+      "naam": "खीर",
+      "mukhya_samagri": "दूध, चावल, चीनी और सुखे फलों को साथ में उबालकर बनाया गया व्यंजन",
+      "shreni": "पुडिंग"
+    },
+    {
+      "naam": "खीरमोहन",
+      "mukhya_samagri": "छेना, चीनी, सूजी, जल",
+      "shreni": "चासनी की मिठाई"
+    },
+    {
+      "naam": "क़ुल्फ़ी",
+      "mukhya_samagri": "दूध और चीनी से मिलकर बनाई हुई आइसक्रीम, जिसमें आम, केसर या इलायची जैसे विभिन्न तरह के स्वाद जोड़े जाते हैं।",
+      "shreni": "आइसक्रीम"
+    },
+    {
+      "naam": "लड्डू",
+      "mukhya_samagri": "चने का आटा (बेसन), घी, चीनी.",
+      "shreni": "लड्डू"
+    },
+    {
+      "naam": "लस्सी",
+      "mukhya_samagri": "दही, दूध, कुछ सुखे फल और आम भी मिलाया जा सकता है।",
+      "shreni": "दही पेय"
+    },
+    {
+      "naam": "मोतीचूर के लड्डू",
+      "mukhya_samagri": "चने का आटा, चीनी",
+      "shreni": "लड्डू"
+    },
+    {
+      "naam": "मालपुआ",
+      "mukhya_samagri": "गेहूँ या चावल का आटा।",
+      "shreni": "तली हुई, चासनी की मिठाई"
+    },
+    {
+      "naam": "नानख़टाई",
+      "mukhya_samagri": "परिष्कृत आटा, बेसन, घी, बुरा चीनी, दही हरे इलायची दानों के साथ।",
+      "shreni": "सेंका हुआ"
+    },
+    {
+      "naam": "पेठा",
+      "mukhya_samagri": "पका हुआ सफेद कद्दू, चीनी, नींबू, फिटकरी पाउडर",
+      "shreni": "चासनी की मिठाई"
+    },
+    {
+      "naam": "फिरणी",
+      "mukhya_samagri": "चावल, चीनी, सुखे फलों के टुकड़े",
+      "shreni": "पुडिंग"
+    },
+    {
+      "naam": "रबड़ी",
+      "mukhya_samagri": "उबला हुआ गाढ़ा दूध, चीनी, मसाले और सुखे फलों के टुकड़े।",
+      "shreni": "पुडिंग"
+    },
+    {
+      "naam": "सूजी का हलवा",
+      "mukhya_samagri": "सूजी, घी, सुखे फलों के टुकड़े, दूध।",
+      "shreni": "पुडिंग"
+    },
+    {
+      "naam": "सिंगोरी",
+      "mukhya_samagri": "खोया, नारियल, मोलू पत्ता।",
+      "shreni": "दूध की मिठाई"
+    },
+    {
+      "naam": "सोहन हलवा",
+      "mukhya_samagri": "मक्के का आटा, घी, सुखे फल।",
+      "shreni": "हलवा"
+    },
+    {
+      "naam": "सोहन पापड़ी, पतीसा",
+      "mukhya_samagri": "बेसन",
+      "shreni": "बर्फ़ी"
+    },
+    {
+      "naam": "बर्फी",
+      "mukhya_samagri": "दूध का पाउडर",
+      "shreni": "बर्फी"
+    },
+    {
+      "naam": "हलवा",
+      "mukhya_samagri": "मक्का का आटा",
+      "shreni": "उबला हुआ"
+    },
+    {
+      "naam": "खीर",
+      "mukhya_samagri": "दूध, वर्मिसैल्ली, चीनी, सुखे फलों के टुकड़े",
+      "shreni": "दूध की मिठाई, देश के दक्षिणी भाग में इसे पायसम् कहते हैं।"
+    },
+    {
+      "naam": "लड्डू",
+      "mukhya_samagri": "दूध, आटा",
+      "shreni": "लड्डू"
+    },
+    {
+      "naam": "पेड़ा",
+      "mukhya_samagri": "दुध (खोया), चीनी, केसर",
+      "shreni": "दूध की मिठाई"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय मिठाइयों की सूची - Free Download",
+    "description": "भारतीय मिठाइयाँ, उनकी मुख्य सामग्री और श्रेणी। Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय मिठाइयों की सूची | ListBase",
+    "seo_description": "Download भारतीय मिठाइयों की सूची — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_मिठाइयों_की_सूची"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:48.195Z",
-  "total_datasets": 438,
-  "total_records": 2010312,
+  "generated": "2026-10-27T02:32:50.528Z",
+  "total_datasets": 439,
+  "total_records": 2010347,
   "categories": [
     {
       "id": "agriculture",
@@ -71,6 +71,10 @@
     {
       "id": "science",
       "dataset_count": 5
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -10209,6 +10213,36 @@
         "xlsx": {
           "name": "hi-rajya-vriksh_HI.xlsx",
           "size": 10087
+        }
+      }
+    },
+    {
+      "id": "hi-rajya-jansankhya-2001",
+      "name": "जनसंख्या के अनुसार भारत के राज्य और केंद्र शासित प्रदेश (जनगणना 2001)",
+      "category": "society",
+      "record_count": 35,
+      "columns": [
+        "shreni",
+        "rajya",
+        "jansankhya",
+        "pratishat",
+        "gramin",
+        "shahari",
+        "kshetrafal_km2",
+        "ghanatv_km2",
+        "linganupat"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_राज्यों_और_केंद्र_शासित_प्रदेशों_की_सूची_जनसंख्या_अनुसार",
+      "updated": "2026-10",
+      "size": 13060,
+      "files": {
+        "csv": {
+          "name": "hi-rajya-jansankhya-2001_HI.csv",
+          "size": 3439
+        },
+        "xlsx": {
+          "name": "hi-rajya-jansankhya-2001_HI.xlsx",
+          "size": 9473
         }
       }
     },

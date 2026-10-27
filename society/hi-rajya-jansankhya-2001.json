@@ -1,0 +1,456 @@
+{
+  "id": "hi-rajya-jansankhya-2001",
+  "name": "जनसंख्या के अनुसार भारत के राज्य और केंद्र शासित प्रदेश (जनगणना 2001)",
+  "title": "जनसंख्या के अनुसार भारत के राज्य और केंद्र शासित प्रदेश (जनगणना 2001)",
+  "description": "भारत के राज्यों और केंद्र शासित प्रदेशों की जनसंख्या, ग्रामीण/शहरी जनसंख्या, क्षेत्रफल, घनत्व और लिंगानुपात (जनगणना 2001 के आँकड़े)।",
+  "category": "society",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_राज्यों_और_केंद्र_शासित_प्रदेशों_की_सूची_जनसंख्या_अनुसार",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_राज्यों_और_केंद्र_शासित_प्रदेशों_की_सूची_जनसंख्या_अनुसार",
+  "updated": "2026-10",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "shreni",
+      "label": "Shreni",
+      "type": "number"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "jansankhya",
+      "label": "Jansankhya",
+      "type": "number"
+    },
+    {
+      "key": "pratishat",
+      "label": "Pratishat",
+      "type": "number"
+    },
+    {
+      "key": "gramin",
+      "label": "Gramin",
+      "type": "number"
+    },
+    {
+      "key": "shahari",
+      "label": "Shahari",
+      "type": "number"
+    },
+    {
+      "key": "kshetrafal_km2",
+      "label": "Kshetrafal Km2",
+      "type": "number"
+    },
+    {
+      "key": "ghanatv_km2",
+      "label": "Ghanatv Km2",
+      "type": "number"
+    },
+    {
+      "key": "linganupat",
+      "label": "Linganupat",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "shreni": "1",
+      "rajya": "उत्तर प्रदेश",
+      "jansankhya": 166197921,
+      "pratishat": 16.16,
+      "gramin": 131658339,
+      "shahari": 34539582,
+      "kshetrafal_km2": 240928,
+      "ghanatv_km2": 690,
+      "linganupat": 898
+    },
+    {
+      "shreni": "2",
+      "rajya": "महाराष्ट्र",
+      "jansankhya": 96878627,
+      "pratishat": 9.42,
+      "gramin": 55777647,
+      "shahari": 41100980,
+      "kshetrafal_km2": 307713,
+      "ghanatv_km2": 315,
+      "linganupat": 922
+    },
+    {
+      "shreni": "3",
+      "rajya": "बिहार",
+      "jansankhya": 82998509,
+      "pratishat": 8.07,
+      "gramin": 74316709,
+      "shahari": 8681800,
+      "kshetrafal_km2": 94163,
+      "ghanatv_km2": 881,
+      "linganupat": 919
+    },
+    {
+      "shreni": "4",
+      "rajya": "पश्चिम बंगाल",
+      "jansankhya": 80176197,
+      "pratishat": 7.79,
+      "gramin": 57748946,
+      "shahari": 22427251,
+      "kshetrafal_km2": 88752,
+      "ghanatv_km2": 903,
+      "linganupat": 934
+    },
+    {
+      "shreni": "5 & 28",
+      "rajya": "आंध्रप्रदेश तेलंगाना",
+      "jansankhya": 76210007,
+      "pratishat": 7.41,
+      "gramin": 55401067,
+      "shahari": 20808940,
+      "kshetrafal_km2": 275045,
+      "ghanatv_km2": 277,
+      "linganupat": 978
+    },
+    {
+      "shreni": "6",
+      "rajya": "तमिल नाडु",
+      "jansankhya": 62405679,
+      "pratishat": 6.07,
+      "gramin": 34921681,
+      "shahari": 27483998,
+      "kshetrafal_km2": 130058,
+      "ghanatv_km2": 480,
+      "linganupat": 987
+    },
+    {
+      "shreni": "7",
+      "rajya": "मध्य प्रदेश",
+      "jansankhya": 72626809,
+      "pratishat": 5.87,
+      "gramin": 44380878,
+      "shahari": 15967145,
+      "kshetrafal_km2": 308245,
+      "ghanatv_km2": 196,
+      "linganupat": 919
+    },
+    {
+      "shreni": "8",
+      "rajya": "राजस्थान",
+      "jansankhya": 56507188,
+      "pratishat": 5.49,
+      "gramin": 43292813,
+      "shahari": 13214375,
+      "kshetrafal_km2": 342239,
+      "ghanatv_km2": 165,
+      "linganupat": 921
+    },
+    {
+      "shreni": "9",
+      "rajya": "कर्नाटक",
+      "jansankhya": 52850562,
+      "pratishat": 5.14,
+      "gramin": 34889033,
+      "shahari": 17961529,
+      "kshetrafal_km2": 191791,
+      "ghanatv_km2": 276,
+      "linganupat": 965
+    },
+    {
+      "shreni": "10",
+      "rajya": "गुजरात",
+      "jansankhya": 50671017,
+      "pratishat": 4.93,
+      "gramin": 31740767,
+      "shahari": 18930250,
+      "kshetrafal_km2": 196024,
+      "ghanatv_km2": 258,
+      "linganupat": 920
+    },
+    {
+      "shreni": "11",
+      "rajya": "ओडिशा",
+      "jansankhya": 36804660,
+      "pratishat": 3.58,
+      "gramin": 31287422,
+      "shahari": 5517238,
+      "kshetrafal_km2": 155707,
+      "ghanatv_km2": 236,
+      "linganupat": 972
+    },
+    {
+      "shreni": "12",
+      "rajya": "केरल",
+      "jansankhya": 31841374,
+      "pratishat": 3.1,
+      "gramin": 23574449,
+      "shahari": 8266925,
+      "kshetrafal_km2": 38863,
+      "ghanatv_km2": 819,
+      "linganupat": 1058
+    },
+    {
+      "shreni": "13",
+      "rajya": "झारखण्ड",
+      "jansankhya": 26945829,
+      "pratishat": 2.62,
+      "gramin": 20952088,
+      "shahari": 5993741,
+      "kshetrafal_km2": 79714,
+      "ghanatv_km2": 338,
+      "linganupat": 941
+    },
+    {
+      "shreni": "14",
+      "rajya": "असम",
+      "jansankhya": 26655528,
+      "pratishat": 2.59,
+      "gramin": 23216288,
+      "shahari": 3439240,
+      "kshetrafal_km2": 78438,
+      "ghanatv_km2": 340,
+      "linganupat": 935
+    },
+    {
+      "shreni": "15",
+      "rajya": "पंजाब",
+      "jansankhya": 24358999,
+      "pratishat": 2.37,
+      "gramin": 16096488,
+      "shahari": 8262511,
+      "kshetrafal_km2": 50362,
+      "ghanatv_km2": 484,
+      "linganupat": 876
+    },
+    {
+      "shreni": "16",
+      "rajya": "हरियाणा",
+      "jansankhya": 21144564,
+      "pratishat": 2.06,
+      "gramin": 15029260,
+      "shahari": 6115304,
+      "kshetrafal_km2": 44212,
+      "ghanatv_km2": 478,
+      "linganupat": 861
+    },
+    {
+      "shreni": "17",
+      "rajya": "छत्तीसगढ़",
+      "jansankhya": 20833803,
+      "pratishat": 2.03,
+      "gramin": 16648056,
+      "shahari": 4185747,
+      "kshetrafal_km2": 135191,
+      "ghanatv_km2": 154,
+      "linganupat": 989
+    },
+    {
+      "shreni": "UT1",
+      "rajya": "राष्ट्रीय राजधानी क्षेत्र दिल्ली",
+      "jansankhya": 13850507,
+      "pratishat": 1.35,
+      "gramin": 944727,
+      "shahari": 12905780,
+      "kshetrafal_km2": 1483,
+      "ghanatv_km2": 9340,
+      "linganupat": 821
+    },
+    {
+      "shreni": "UT7 & 8",
+      "rajya": "जम्मू और कश्मीर एवं लद्दाख",
+      "jansankhya": 10143700,
+      "pratishat": 0.99,
+      "gramin": 7627062,
+      "shahari": 2516638,
+      "kshetrafal_km2": 222236,
+      "ghanatv_km2": 46,
+      "linganupat": 892
+    },
+    {
+      "shreni": "18",
+      "rajya": "उत्तराखण्ड",
+      "jansankhya": 8489349,
+      "pratishat": 0.83,
+      "gramin": 6310275,
+      "shahari": 2179074,
+      "kshetrafal_km2": 53483,
+      "ghanatv_km2": 159,
+      "linganupat": 962
+    },
+    {
+      "shreni": "19",
+      "rajya": "हिमाचल प्रदेश",
+      "jansankhya": 6077900,
+      "pratishat": 0.59,
+      "gramin": 5482319,
+      "shahari": 595581,
+      "kshetrafal_km2": 55673,
+      "ghanatv_km2": 109,
+      "linganupat": 968
+    },
+    {
+      "shreni": "20",
+      "rajya": "त्रिपुरा",
+      "jansankhya": 3199203,
+      "pratishat": 0.31,
+      "gramin": 2653453,
+      "shahari": 545750,
+      "kshetrafal_km2": 10486,
+      "ghanatv_km2": 305,
+      "linganupat": 948
+    },
+    {
+      "shreni": "21",
+      "rajya": "मेघालय",
+      "jansankhya": 2318822,
+      "pratishat": 0.23,
+      "gramin": 1864711,
+      "shahari": 454111,
+      "kshetrafal_km2": 22429,
+      "ghanatv_km2": 103,
+      "linganupat": 972
+    },
+    {
+      "shreni": "22",
+      "rajya": "मणिपुर",
+      "jansankhya": 2166788,
+      "pratishat": 0.21,
+      "gramin": 1590820,
+      "shahari": 575968,
+      "kshetrafal_km2": 22327,
+      "ghanatv_km2": 97,
+      "linganupat": 974
+    },
+    {
+      "shreni": "23",
+      "rajya": "नागालैण्ड",
+      "jansankhya": 1990036,
+      "pratishat": 0.19,
+      "gramin": 1647249,
+      "shahari": 342787,
+      "kshetrafal_km2": 16579,
+      "ghanatv_km2": 120,
+      "linganupat": 900
+    },
+    {
+      "shreni": "24",
+      "rajya": "गोवा",
+      "jansankhya": 1347668,
+      "pratishat": 0.13,
+      "gramin": 677091,
+      "shahari": 670577,
+      "kshetrafal_km2": 3702,
+      "ghanatv_km2": 364,
+      "linganupat": 961
+    },
+    {
+      "shreni": "25",
+      "rajya": "अरुणाचल प्रदेश",
+      "jansankhya": 1097968,
+      "pratishat": 0.11,
+      "gramin": 870087,
+      "shahari": 227881,
+      "kshetrafal_km2": 83743,
+      "ghanatv_km2": 13,
+      "linganupat": 893
+    },
+    {
+      "shreni": "UT2",
+      "rajya": "पुदुचेरी",
+      "jansankhya": 974345,
+      "pratishat": 0.09,
+      "gramin": 325726,
+      "shahari": 648619,
+      "kshetrafal_km2": 479,
+      "ghanatv_km2": 2034,
+      "linganupat": 1001
+    },
+    {
+      "shreni": "UT3",
+      "rajya": "चण्डीगढ़",
+      "jansankhya": 900635,
+      "pratishat": 0.09,
+      "gramin": 92120,
+      "shahari": 808515,
+      "kshetrafal_km2": 114,
+      "ghanatv_km2": 7900,
+      "linganupat": 777
+    },
+    {
+      "shreni": "26",
+      "rajya": "मिज़ोरम",
+      "jansankhya": 888573,
+      "pratishat": 0.09,
+      "gramin": 447567,
+      "shahari": 441006,
+      "kshetrafal_km2": 21081,
+      "ghanatv_km2": 42,
+      "linganupat": 935
+    },
+    {
+      "shreni": "27",
+      "rajya": "सिक्किम",
+      "jansankhya": 540851,
+      "pratishat": 0.05,
+      "gramin": 480981,
+      "shahari": 59870,
+      "kshetrafal_km2": 7096,
+      "ghanatv_km2": 76,
+      "linganupat": 875
+    },
+    {
+      "shreni": "UT4",
+      "rajya": "अण्डमान और निकोबार द्वीपसमूह",
+      "jansankhya": 356152,
+      "pratishat": 0.03,
+      "gramin": 239954,
+      "shahari": 116198,
+      "kshetrafal_km2": 8249,
+      "ghanatv_km2": 43,
+      "linganupat": 846
+    },
+    {
+      "shreni": "UT5",
+      "rajya": "दादरा और नगर हवेली",
+      "jansankhya": 220490,
+      "pratishat": 0.02,
+      "gramin": 170027,
+      "shahari": 50463,
+      "kshetrafal_km2": 491,
+      "ghanatv_km2": 449,
+      "linganupat": 812
+    },
+    {
+      "shreni": "UT5",
+      "rajya": "दमन और दीव",
+      "jansankhya": 158204,
+      "pratishat": 0.02,
+      "gramin": 100856,
+      "shahari": 57348,
+      "kshetrafal_km2": 112,
+      "ghanatv_km2": 1413,
+      "linganupat": 710
+    },
+    {
+      "shreni": "UT7",
+      "rajya": "लक्षद्वीप",
+      "jansankhya": 60650,
+      "pratishat": 0.01,
+      "gramin": 33683,
+      "shahari": 26967,
+      "kshetrafal_km2": 32,
+      "ghanatv_km2": 1895,
+      "linganupat": 948
+    }
+  ],
+  "meta": {
+    "title": "जनसंख्या के अनुसार भारत के राज्य और केंद्र शासित प्रदेश (जनगणना 2001) - Free Download",
+    "description": "भारत के राज्यों और केंद्र शासित प्रदेशों की जनसंख्या, ग्रामीण/शहरी जनसंख्या, क्षेत्रफल, घनत्व और लिंगानुपात (जनगणना 2001 के आँकड़े)। Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "जनसंख्या के अनुसार भारत के राज्य और केंद्र शासित प्रदेश (जनगणना 2001) | ListBase",
+    "seo_description": "Download जनसंख्या के अनुसार भारत के राज्य और केंद्र शासित प्रदेश (जनगणना 2001) — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_राज्यों_और_केंद्र_शासित_प्रदेशों_की_सूची_जनसंख्या_अनुसार"
+    ]
+  }
+}

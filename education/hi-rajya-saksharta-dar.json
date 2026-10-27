@@ -1,0 +1,394 @@
+{
+  "id": "hi-rajya-saksharta-dar",
+  "name": "साक्षरता दर के आधार पर भारत के राज्य",
+  "title": "साक्षरता दर के आधार पर भारत के राज्य",
+  "description": "भारत के राज्यों और केंद्र शासित प्रदेशों की साक्षरता दर (जनगणना 2011 और 2001), पुरुष और महिला साक्षरता सहित।",
+  "category": "education",
+  "source": "https://hi.wikipedia.org/wiki/साक्षरता_दर_के_आधार_पर_भारत_के_राज्य",
+  "source_url": "https://hi.wikipedia.org/wiki/साक्षरता_दर_के_आधार_पर_भारत_के_राज्य",
+  "updated": "2026-10",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "sthan",
+      "label": "Sthan",
+      "type": "number"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "saksharta_2011",
+      "label": "Saksharta 2011",
+      "type": "number"
+    },
+    {
+      "key": "purush_saksharta_2011",
+      "label": "Purush Saksharta 2011",
+      "type": "number"
+    },
+    {
+      "key": "mahila_saksharta_2011",
+      "label": "Mahila Saksharta 2011",
+      "type": "number"
+    },
+    {
+      "key": "saksharta_2001",
+      "label": "Saksharta 2001",
+      "type": "number"
+    },
+    {
+      "key": "dashakiya_antar",
+      "label": "Dashakiya Antar",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sthan": "1",
+      "rajya": "केरल",
+      "saksharta_2011": 93.91,
+      "purush_saksharta_2011": 96.02,
+      "mahila_saksharta_2011": 91.98,
+      "saksharta_2001": 90.86,
+      "dashakiya_antar": 3.05
+    },
+    {
+      "sthan": "2",
+      "rajya": "लक्षद्वीप",
+      "saksharta_2011": 92.28,
+      "purush_saksharta_2011": 96.11,
+      "mahila_saksharta_2011": 88.25,
+      "saksharta_2001": 86.66,
+      "dashakiya_antar": 5.62
+    },
+    {
+      "sthan": "3",
+      "rajya": "मिजोरम",
+      "saksharta_2011": 91.58,
+      "purush_saksharta_2011": 93.72,
+      "mahila_saksharta_2011": 89.4,
+      "saksharta_2001": 88.8,
+      "dashakiya_antar": 2.78
+    },
+    {
+      "sthan": "4",
+      "rajya": "त्रिपुरा",
+      "saksharta_2011": 87.75,
+      "purush_saksharta_2011": 92.18,
+      "mahila_saksharta_2011": 83.15,
+      "saksharta_2001": 73.19,
+      "dashakiya_antar": 14.56
+    },
+    {
+      "sthan": "5",
+      "rajya": "गोवा",
+      "saksharta_2011": 87.4,
+      "purush_saksharta_2011": 92.81,
+      "mahila_saksharta_2011": 81.84,
+      "saksharta_2001": 82.01,
+      "dashakiya_antar": 5.39
+    },
+    {
+      "sthan": "6",
+      "rajya": "दमन और दीव",
+      "saksharta_2011": 87.07,
+      "purush_saksharta_2011": 91.48,
+      "mahila_saksharta_2011": 79.59,
+      "saksharta_2001": 78.18,
+      "dashakiya_antar": 8.89
+    },
+    {
+      "sthan": "7",
+      "rajya": "पुडुचेरी",
+      "saksharta_2011": 86.55,
+      "purush_saksharta_2011": 92.12,
+      "mahila_saksharta_2011": 81.22,
+      "saksharta_2001": 81.24,
+      "dashakiya_antar": 5.31
+    },
+    {
+      "sthan": "8",
+      "rajya": "चण्डीगढ़",
+      "saksharta_2011": 86.43,
+      "purush_saksharta_2011": 90.54,
+      "mahila_saksharta_2011": 81.38,
+      "saksharta_2001": 81.94,
+      "dashakiya_antar": 4.49
+    },
+    {
+      "sthan": "9",
+      "rajya": "दिल्ली",
+      "saksharta_2011": 86.34,
+      "purush_saksharta_2011": 91.03,
+      "mahila_saksharta_2011": 80.93,
+      "saksharta_2001": 81.67,
+      "dashakiya_antar": 4.67
+    },
+    {
+      "sthan": "10",
+      "rajya": "अंडमान और निकोबार द्वीपसमूह",
+      "saksharta_2011": 86.27,
+      "purush_saksharta_2011": 90.11,
+      "mahila_saksharta_2011": 81.84,
+      "saksharta_2001": 81.3,
+      "dashakiya_antar": 4.97
+    },
+    {
+      "sthan": "11",
+      "rajya": "हिमाचल प्रदेश",
+      "saksharta_2011": 83.78,
+      "purush_saksharta_2011": 90.83,
+      "mahila_saksharta_2011": 76.6,
+      "saksharta_2001": 76.48,
+      "dashakiya_antar": 7.3
+    },
+    {
+      "sthan": "12",
+      "rajya": "महाराष्ट्र",
+      "saksharta_2011": 82.91,
+      "purush_saksharta_2011": 89.82,
+      "mahila_saksharta_2011": 75.48,
+      "saksharta_2001": 76.88,
+      "dashakiya_antar": 6.03
+    },
+    {
+      "sthan": "13",
+      "rajya": "सिक्किम",
+      "saksharta_2011": 82.2,
+      "purush_saksharta_2011": 87.29,
+      "mahila_saksharta_2011": 76.43,
+      "saksharta_2001": 68.81,
+      "dashakiya_antar": 13.39
+    },
+    {
+      "sthan": "14",
+      "rajya": "तमिलनाडु",
+      "saksharta_2011": 80.33,
+      "purush_saksharta_2011": 86.81,
+      "mahila_saksharta_2011": 73.86,
+      "saksharta_2001": 73.45,
+      "dashakiya_antar": 6.88
+    },
+    {
+      "sthan": "15",
+      "rajya": "नागालैंड",
+      "saksharta_2011": 80.11,
+      "purush_saksharta_2011": 83.29,
+      "mahila_saksharta_2011": 76.89,
+      "saksharta_2001": 66.59,
+      "dashakiya_antar": 13.52
+    },
+    {
+      "sthan": "16",
+      "rajya": "मणिपुर",
+      "saksharta_2011": 79.85,
+      "purush_saksharta_2011": 86.49,
+      "mahila_saksharta_2011": 73.17,
+      "saksharta_2001": 69.93,
+      "dashakiya_antar": 9.92
+    },
+    {
+      "sthan": "18",
+      "rajya": "गुजरात",
+      "saksharta_2011": 79.31,
+      "purush_saksharta_2011": 87.23,
+      "mahila_saksharta_2011": 70.73,
+      "saksharta_2001": 69.14,
+      "dashakiya_antar": 10.17
+    },
+    {
+      "sthan": "17",
+      "rajya": "उत्तराखंड",
+      "saksharta_2011": 78.82,
+      "purush_saksharta_2011": 87.4,
+      "mahila_saksharta_2011": 70.01,
+      "saksharta_2001": 71.62,
+      "dashakiya_antar": 8.01
+    },
+    {
+      "sthan": "19",
+      "rajya": "दादरा और नगर हवेली",
+      "saksharta_2011": 77.65,
+      "purush_saksharta_2011": 86.46,
+      "mahila_saksharta_2011": 65.93,
+      "saksharta_2001": 57.63,
+      "dashakiya_antar": 20.02
+    },
+    {
+      "sthan": "20",
+      "rajya": "पश्चिम बंगाल",
+      "saksharta_2011": 77.08,
+      "purush_saksharta_2011": 82.67,
+      "mahila_saksharta_2011": 71.16,
+      "saksharta_2001": 68.64,
+      "dashakiya_antar": 8.44
+    },
+    {
+      "sthan": "21",
+      "rajya": "पंजाब",
+      "saksharta_2011": 76.68,
+      "purush_saksharta_2011": 81.48,
+      "mahila_saksharta_2011": 71.34,
+      "saksharta_2001": 69.65,
+      "dashakiya_antar": 7.03
+    },
+    {
+      "sthan": "22",
+      "rajya": "हरियाणा",
+      "saksharta_2011": 76.64,
+      "purush_saksharta_2011": 85.38,
+      "mahila_saksharta_2011": 66.77,
+      "saksharta_2001": 67.91,
+      "dashakiya_antar": 8.73
+    },
+    {
+      "sthan": "23",
+      "rajya": "कर्नाटक",
+      "saksharta_2011": 75.6,
+      "purush_saksharta_2011": 82.85,
+      "mahila_saksharta_2011": 68.13,
+      "saksharta_2001": 66.64,
+      "dashakiya_antar": 8.96
+    },
+    {
+      "sthan": "24",
+      "rajya": "मेघालय",
+      "saksharta_2011": 75.48,
+      "purush_saksharta_2011": 77.17,
+      "mahila_saksharta_2011": 73.78,
+      "saksharta_2001": 62.56,
+      "dashakiya_antar": 12.92
+    },
+    {
+      "sthan": "",
+      "rajya": "भारत",
+      "saksharta_2011": 74.04,
+      "purush_saksharta_2011": 82.14,
+      "mahila_saksharta_2011": 65.46,
+      "saksharta_2001": 64.83,
+      "dashakiya_antar": 9.21
+    },
+    {
+      "sthan": "25",
+      "rajya": "ओडिशा",
+      "saksharta_2011": 73.45,
+      "purush_saksharta_2011": 82.4,
+      "mahila_saksharta_2011": 64.36,
+      "saksharta_2001": 63.08,
+      "dashakiya_antar": 10.37
+    },
+    {
+      "sthan": "26",
+      "rajya": "असम",
+      "saksharta_2011": 73.18,
+      "purush_saksharta_2011": 78.81,
+      "mahila_saksharta_2011": 67.27,
+      "saksharta_2001": 63.25,
+      "dashakiya_antar": 9.93
+    },
+    {
+      "sthan": "27",
+      "rajya": "छत्तीसगढ़",
+      "saksharta_2011": 71.04,
+      "purush_saksharta_2011": 81.45,
+      "mahila_saksharta_2011": 60.59,
+      "saksharta_2001": 64.66,
+      "dashakiya_antar": 6.38
+    },
+    {
+      "sthan": "28",
+      "rajya": "मध्य प्रदेश",
+      "saksharta_2011": 70.63,
+      "purush_saksharta_2011": 80.53,
+      "mahila_saksharta_2011": 60.02,
+      "saksharta_2001": 63.74,
+      "dashakiya_antar": 6.89
+    },
+    {
+      "sthan": "29",
+      "rajya": "उत्तर प्रदेश",
+      "saksharta_2011": 69.72,
+      "purush_saksharta_2011": 79.24,
+      "mahila_saksharta_2011": 59.26,
+      "saksharta_2001": 56.27,
+      "dashakiya_antar": 13.45
+    },
+    {
+      "sthan": "30",
+      "rajya": "जम्मू और कश्मीर",
+      "saksharta_2011": 68.74,
+      "purush_saksharta_2011": 78.26,
+      "mahila_saksharta_2011": 58.01,
+      "saksharta_2001": 55.52,
+      "dashakiya_antar": 13.22
+    },
+    {
+      "sthan": "31",
+      "rajya": "झारखंड",
+      "saksharta_2011": 67.63,
+      "purush_saksharta_2011": 78.45,
+      "mahila_saksharta_2011": 56.21,
+      "saksharta_2001": 53.56,
+      "dashakiya_antar": 14.07
+    },
+    {
+      "sthan": "32",
+      "rajya": "आंध्र प्रदेश",
+      "saksharta_2011": 67.4,
+      "purush_saksharta_2011": 75.56,
+      "mahila_saksharta_2011": 59.74,
+      "saksharta_2001": "",
+      "dashakiya_antar": ""
+    },
+    {
+      "sthan": "33",
+      "rajya": "राजस्थान",
+      "saksharta_2011": 67.06,
+      "purush_saksharta_2011": 80.51,
+      "mahila_saksharta_2011": 52.66,
+      "saksharta_2001": 60.41,
+      "dashakiya_antar": 6.65
+    },
+    {
+      "sthan": "34",
+      "rajya": "अरूणाचल प्रदेश",
+      "saksharta_2011": 66.95,
+      "purush_saksharta_2011": 73.69,
+      "mahila_saksharta_2011": 59.57,
+      "saksharta_2001": 54.34,
+      "dashakiya_antar": 12.61
+    },
+    {
+      "sthan": "35",
+      "rajya": "तेलंगाना",
+      "saksharta_2011": 66.5,
+      "purush_saksharta_2011": "",
+      "mahila_saksharta_2011": "",
+      "saksharta_2001": "",
+      "dashakiya_antar": ""
+    },
+    {
+      "sthan": "36",
+      "rajya": "बिहार",
+      "saksharta_2011": 63.82,
+      "purush_saksharta_2011": 73.39,
+      "mahila_saksharta_2011": 53.33,
+      "saksharta_2001": 47,
+      "dashakiya_antar": 16.82
+    }
+  ],
+  "meta": {
+    "title": "साक्षरता दर के आधार पर भारत के राज्य - Free Download",
+    "description": "भारत के राज्यों और केंद्र शासित प्रदेशों की साक्षरता दर (जनगणना 2011 और 2001), पुरुष और महिला साक्षरता सहित। Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "साक्षरता दर के आधार पर भारत के राज्य | ListBase",
+    "seo_description": "Download साक्षरता दर के आधार पर भारत के राज्य — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/साक्षरता_दर_के_आधार_पर_भारत_के_राज्य"
+    ]
+  }
+}

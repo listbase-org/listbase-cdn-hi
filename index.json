@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:57.849Z",
-  "total_datasets": 442,
-  "total_records": 2010457,
+  "generated": "2026-10-27T02:33:00.177Z",
+  "total_datasets": 443,
+  "total_records": 2010494,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -400,6 +400,34 @@
         "xlsx": {
           "name": "hi-aicte-sansthayen_HI.xlsx",
           "size": 2144904
+        }
+      }
+    },
+    {
+      "id": "hi-rajya-saksharta-dar",
+      "name": "साक्षरता दर के आधार पर भारत के राज्य",
+      "category": "education",
+      "record_count": 37,
+      "columns": [
+        "sthan",
+        "rajya",
+        "saksharta_2011",
+        "purush_saksharta_2011",
+        "mahila_saksharta_2011",
+        "saksharta_2001",
+        "dashakiya_antar"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/साक्षरता_दर_के_आधार_पर_भारत_के_राज्य",
+      "updated": "2026-10",
+      "size": 11803,
+      "files": {
+        "csv": {
+          "name": "hi-rajya-saksharta-dar_HI.csv",
+          "size": 2755
+        },
+        "xlsx": {
+          "name": "hi-rajya-saksharta-dar_HI.xlsx",
+          "size": 8909
         }
       }
     },

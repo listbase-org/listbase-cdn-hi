@@ -1,0 +1,156 @@
+{
+  "id": "hi-bharat-ke-uprashtrapati",
+  "name": "भारत के उपराष्ट्रपतियों की सूची",
+  "title": "भारत के उपराष्ट्रपतियों की सूची",
+  "description": "भारत के सभी उपराष्ट्रपतियों की सूची — पदग्रहण, पदमुक्ति और तत्कालीन राष्ट्रपति सहित।",
+  "category": "politics",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_उपराष्ट्रपतियों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_उपराष्ट्रपतियों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "string"
+    },
+    {
+      "key": "uprashtrapati",
+      "label": "Uprashtrapati",
+      "type": "string"
+    },
+    {
+      "key": "padgrahan",
+      "label": "Padgrahan",
+      "type": "string"
+    },
+    {
+      "key": "padmukti",
+      "label": "Padmukti",
+      "type": "string"
+    },
+    {
+      "key": "rashtrapati",
+      "label": "Rashtrapati",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "१",
+      "uprashtrapati": "सर्वपल्ली राधाकृष्णन",
+      "padgrahan": "१३ मई १९५२",
+      "padmukti": "१४ मई १९५७",
+      "rashtrapati": "राजेन्द्र प्रसाद"
+    },
+    {
+      "kram": "२",
+      "uprashtrapati": "जाकिर हुसैन",
+      "padgrahan": "१३ मई १९६२",
+      "padmukti": "१२ मई १९६७",
+      "rashtrapati": "सर्वपल्ली राधाकृष्णन"
+    },
+    {
+      "kram": "३",
+      "uprashtrapati": "वी वी गिरी",
+      "padgrahan": "१३ मई १९६७",
+      "padmukti": "३ मई १९६९",
+      "rashtrapati": "जाकिर हुसैन"
+    },
+    {
+      "kram": "४",
+      "uprashtrapati": "गोपाल स्वरूप पाठक",
+      "padgrahan": "३१ अगस्त १९६९",
+      "padmukti": "३० अगस्त १९७४",
+      "rashtrapati": "वी वी गिरी फ़ख़रुद्दीन अली अहमद"
+    },
+    {
+      "kram": "५",
+      "uprashtrapati": "बी डी जत्ती",
+      "padgrahan": "३१ अगस्त १९७४",
+      "padmukti": "३० अगस्त १९७९",
+      "rashtrapati": "फ़ख़रुद्दीन अली अहमद नीलम संजीव रेड्डी"
+    },
+    {
+      "kram": "६",
+      "uprashtrapati": "मोहम्मद हिदायतुल्ला",
+      "padgrahan": "३१ अगस्त १९७९",
+      "padmukti": "३० अगस्त १९८४",
+      "rashtrapati": "नीलम संजीव रेड्डी ज्ञानी जैल सिंह"
+    },
+    {
+      "kram": "७",
+      "uprashtrapati": "रामस्वामी वेंकटरमण",
+      "padgrahan": "३१ अगस्त १९८४",
+      "padmukti": "२७ जुलाई १९८७",
+      "rashtrapati": "ज्ञानी जैल सिंह"
+    },
+    {
+      "kram": "८",
+      "uprashtrapati": "शंकर दयाल शर्मा",
+      "padgrahan": "३ सितम्बर १९८७",
+      "padmukti": "२४ जुलाई १९९२",
+      "rashtrapati": "रामस्वामी वेंकटरमण"
+    },
+    {
+      "kram": "९",
+      "uprashtrapati": "के आर नारायणन",
+      "padgrahan": "२१ अगस्त १९९२",
+      "padmukti": "२४ जुलाई १९९७",
+      "rashtrapati": "शंकर दयाल शर्मा"
+    },
+    {
+      "kram": "१०",
+      "uprashtrapati": "कृष्ण कान्त †",
+      "padgrahan": "२१ अगस्त १९९७",
+      "padmukti": "२७ जुलाई २००२",
+      "rashtrapati": "के आर नारायणन एपीजे अब्दुल कलाम"
+    },
+    {
+      "kram": "११",
+      "uprashtrapati": "भैरोंसिंह शेखावत",
+      "padgrahan": "१९ अगस्त २००२",
+      "padmukti": "२१ जुलाई २००७",
+      "rashtrapati": "एपीजे अब्दुल कलाम"
+    },
+    {
+      "kram": "१२",
+      "uprashtrapati": "मोहम्मद हामिद अंसारी",
+      "padgrahan": "११ अगस्त २००७",
+      "padmukti": "१९ जुलाई २०१७",
+      "rashtrapati": "प्रतिभा पाटिल प्रणब मुखर्जी राम नाथ कोविन्द"
+    },
+    {
+      "kram": "१३",
+      "uprashtrapati": "वेंकैया नायडू",
+      "padgrahan": "८ अगस्त २०१७",
+      "padmukti": "१० अगस्त २०२२",
+      "rashtrapati": ""
+    },
+    {
+      "kram": "१४",
+      "uprashtrapati": "जगदीप धनखड़",
+      "padgrahan": "११ अगस्त २०२२",
+      "padmukti": "२१ जुलाई २०२५",
+      "rashtrapati": ""
+    },
+    {
+      "kram": "२५",
+      "uprashtrapati": "सी.पी. राधाकृष्णन",
+      "padgrahan": "१२ सितम्बर २०२५",
+      "padmukti": "- वर्तमान -",
+      "rashtrapati": ""
+    }
+  ],
+  "meta": {
+    "title": "भारत के उपराष्ट्रपतियों की सूची - Free Download",
+    "description": "भारत के सभी उपराष्ट्रपतियों की सूची — पदग्रहण, पदमुक्ति और तत्कालीन राष्ट्रपति सहित। Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के उपराष्ट्रपतियों की सूची | ListBase",
+    "seo_description": "Download भारत के उपराष्ट्रपतियों की सूची — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_उपराष्ट्रपतियों_की_सूची"
+    ]
+  }
+}

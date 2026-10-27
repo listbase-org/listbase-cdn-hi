@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:18.534Z",
-  "total_datasets": 426,
-  "total_records": 2009761,
+  "generated": "2026-10-27T02:32:20.936Z",
+  "total_datasets": 427,
+  "total_records": 2009776,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 34
+      "dataset_count": 35
     },
     {
       "id": "reference",
@@ -6232,6 +6232,32 @@
         "xlsx": {
           "name": "hi-bharat-ke-rashtrapati_HI.xlsx",
           "size": 9751
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-uprashtrapati",
+      "name": "भारत के उपराष्ट्रपतियों की सूची",
+      "category": "politics",
+      "record_count": 15,
+      "columns": [
+        "kram",
+        "uprashtrapati",
+        "padgrahan",
+        "padmukti",
+        "rashtrapati"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_उपराष्ट्रपतियों_की_सूची",
+      "updated": "2026-10",
+      "size": 6696,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-uprashtrapati_HI.csv",
+          "size": 2755
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-uprashtrapati_HI.xlsx",
+          "size": 7842
         }
       }
     },

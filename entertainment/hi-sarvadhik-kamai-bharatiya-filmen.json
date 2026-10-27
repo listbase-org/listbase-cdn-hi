@@ -1,0 +1,616 @@
+{
+  "id": "hi-sarvadhik-kamai-bharatiya-filmen",
+  "name": "सर्वाधिक कमाई करने वाली भारतीय फ़िल्में",
+  "title": "सर्वाधिक कमाई करने वाली भारतीय फ़िल्में",
+  "description": "दुनिया भर में सर्वाधिक कमाई करने वाली भारतीय फ़िल्मों की सूची — वर्ष, निर्देशक, स्टूडियो, भाषा और सकल कमाई।",
+  "category": "entertainment",
+  "source": "https://hi.wikipedia.org/wiki/सर्वाधिक_कमाई_करने_वाली_भारतीय_फिल्मों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/सर्वाधिक_कमाई_करने_वाली_भारतीय_फिल्मों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "pad",
+      "label": "Pad",
+      "type": "number"
+    },
+    {
+      "key": "shikhar",
+      "label": "Shikhar",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "saal",
+      "label": "Saal",
+      "type": "number"
+    },
+    {
+      "key": "nirdeshak",
+      "label": "Nirdeshak",
+      "type": "string"
+    },
+    {
+      "key": "studio",
+      "label": "Studio",
+      "type": "string"
+    },
+    {
+      "key": "prathamik_bhasha",
+      "label": "Prathamik Bhasha",
+      "type": "string"
+    },
+    {
+      "key": "duniya_bhar_sakal_kamai",
+      "label": "Duniya Bhar Sakal Kamai",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pad": "1",
+      "shikhar": "1",
+      "film": "दंगल",
+      "saal": "2016",
+      "nirdeshak": "नितेश तिवारी",
+      "studio": "आमिर खान प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 2,024 करोड़ (US $ 311 मिलियन)"
+    },
+    {
+      "pad": "2",
+      "shikhar": "2",
+      "film": "बाहुबली 2: द कन्क्लूजन",
+      "saal": "2017",
+      "nirdeshak": "एसएस राजामौली",
+      "studio": "अर्का मीडिया वर्क्स यूटीवी मोशन पिक्चर्स वॉल्ट डिज्नी स्टूडियोज इंडिया",
+      "prathamik_bhasha": "तेलुगु",
+      "duniya_bhar_sakal_kamai": "₹ 1810 करोड़ (US $ 278 मिलियन)"
+    },
+    {
+      "pad": "3",
+      "shikhar": "3",
+      "film": "आरआरआर *",
+      "saal": "2022",
+      "nirdeshak": "एसएस राजामौली",
+      "studio": "डीवीवी मनोरंजन",
+      "prathamik_bhasha": "तेलुगू",
+      "duniya_bhar_sakal_kamai": "₹ 1,258 करोड़ (US $ 161 मिलियन)"
+    },
+    {
+      "pad": "4",
+      "shikhar": "3",
+      "film": "केजीएफ: अध्याय 2 *",
+      "saal": "2022",
+      "nirdeshak": "प्रशांत नील",
+      "studio": "होम्बले फिल्म्स",
+      "prathamik_bhasha": "कन्नड़",
+      "duniya_bhar_sakal_kamai": "₹ 1,230 करोड़ (US $ 164 मिलियन)"
+    },
+    {
+      "pad": "5",
+      "shikhar": "2",
+      "film": "जवान",
+      "saal": "2023",
+      "nirdeshak": "एटली",
+      "studio": "",
+      "prathamik_bhasha": "हिंदी",
+      "duniya_bhar_sakal_kamai": "₹1,148.53 करोड (US$123 मिलियन)"
+    },
+    {
+      "pad": "5",
+      "shikhar": "5",
+      "film": "पठान",
+      "saal": "2023",
+      "nirdeshak": "सिद्धार्थ आनंद",
+      "studio": "यश राज फिल्म्स",
+      "prathamik_bhasha": "हिंदी",
+      "duniya_bhar_sakal_kamai": "₹1,047.64 करोड़ (US$131 मिलियन)"
+    },
+    {
+      "pad": "6",
+      "shikhar": "3",
+      "film": "बजरंगी भाईजान",
+      "saal": "2015",
+      "nirdeshak": "कबीर खान",
+      "studio": "सलमान खान फिल्म्स कबीर खान फिल्म्स इरोज इंटरनेशनल",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 969.06 करोड़ (US $ 151.06 मिलियन)"
+    },
+    {
+      "pad": "7",
+      "shikhar": "3",
+      "film": "सीक्रेट सुपरस्टार",
+      "saal": "2017",
+      "nirdeshak": "अद्वैत चंदन",
+      "studio": "आमिर खान प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹966.86 करोड़ (US $ 149 मिलियन)"
+    },
+    {
+      "pad": "8",
+      "shikhar": "1",
+      "film": "पी के",
+      "saal": "2014",
+      "nirdeshak": "राजकुमार हिरानी",
+      "studio": "विनोद चोपड़ा फिल्म्स राजकुमार हिरानी फिल्म्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 854 करोड़ (US $ 139.93 मिलियन)"
+    },
+    {
+      "pad": "9",
+      "shikhar": "5",
+      "film": "2.0",
+      "saal": "2018",
+      "nirdeshak": "एस.शंकर",
+      "studio": "लाइका प्रोडक्शंस",
+      "prathamik_bhasha": "तामिल",
+      "duniya_bhar_sakal_kamai": "₹ 655.81 करोड़ (US $ 82 मिलियन)"
+    },
+    {
+      "pad": "10",
+      "shikhar": "4",
+      "film": "सुलतान",
+      "saal": "2016",
+      "nirdeshak": "अली अब्बास ज़फ़री",
+      "studio": "यश राज फिल्म्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹623.33 करोड़ (US $ 93 मिलियन)"
+    },
+    {
+      "pad": "11",
+      "shikhar": "2",
+      "film": "बाहुबली: द बिगिनिंग",
+      "saal": "2015",
+      "nirdeshak": "एसएस राजामौली",
+      "studio": "अर्का मीडिया वर्क्स",
+      "prathamik_bhasha": "तेलुगु तमिल",
+      "duniya_bhar_sakal_kamai": "₹600-650 करोड़ (US $ 101 मिलियन)"
+    },
+    {
+      "pad": "12",
+      "shikhar": "8",
+      "film": "संजू",
+      "saal": "2018",
+      "nirdeshak": "राजकुमार हिरानी",
+      "studio": "राजकुमार हिरानी फिल्म्स विनोद चोपड़ा फिल्म्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹586.85 करोड़ (US $ 85.81 मिलियन)"
+    },
+    {
+      "pad": "13",
+      "shikhar": "7",
+      "film": "पद्मावत",
+      "saal": "2018",
+      "nirdeshak": "संजय लीला भंसाली",
+      "studio": "भंसाली प्रोडक्शंस वायकॉम 18 मोशन पिक्चर्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹585 करोड़ (US $ 86 मिलियन)"
+    },
+    {
+      "pad": "14",
+      "shikhar": "8",
+      "film": "टाइगर ज़िंदा है",
+      "saal": "2017",
+      "nirdeshak": "अली अब्बास ज़फ़री",
+      "studio": "यश राज फिल्म्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹565 करोड़ (US $ 87.32 मिलियन)"
+    },
+    {
+      "pad": "15",
+      "shikhar": "1",
+      "film": "धूम 3",
+      "saal": "2013",
+      "nirdeshak": "विजय कृष्ण आचार्य",
+      "studio": "यश राज फिल्म्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹556 करोड़ (US $ 101 मिलियन)"
+    },
+    {
+      "pad": "16",
+      "shikhar": "15",
+      "film": "पोन्नियिन सेल्वन: I",
+      "saal": "2022",
+      "nirdeshak": "मणिरत्नम",
+      "studio": "लाइका प्रोडक्शंस",
+      "prathamik_bhasha": "तमिल",
+      "duniya_bhar_sakal_kamai": "₹495.50 करोड़ (US$62 मिलियन)"
+    },
+    {
+      "pad": "17",
+      "shikhar": "10",
+      "film": "वाॅर",
+      "saal": "2019",
+      "nirdeshak": "सिद्धार्थ आनंद",
+      "studio": "यश राज फिल्म्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 475.5 करोड़ (US $ 69 मिलियन)"
+    },
+    {
+      "pad": "18",
+      "shikhar": "1",
+      "film": "3 ईडियट्स",
+      "saal": "2009",
+      "nirdeshak": "राजकुमार हिरानी",
+      "studio": "विनोद चोपड़ा फिल्म्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹460 करोड़ (US $ 95 मिलियन)"
+    },
+    {
+      "pad": "19",
+      "shikhar": "14",
+      "film": "अंधाधुद",
+      "saal": "2018",
+      "nirdeshak": "श्रीराम राघवन",
+      "studio": "वायकॉम 18 मोशन पिक्चर्स",
+      "prathamik_bhasha": "हिंदी",
+      "duniya_bhar_sakal_kamai": "₹456.89 करोड़ (US$64.88 मिलियन)"
+    },
+    {
+      "pad": "20",
+      "shikhar": "6",
+      "film": "प्रेम रतन धन पायो",
+      "saal": "2015",
+      "nirdeshak": "सूरज आर बड़जात्या",
+      "studio": "फॉक्स स्टार स्टूडियोज राजश्री प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 432 करोड़ (US $ 67 मिलियन)"
+    },
+    {
+      "pad": "21",
+      "shikhar": "2",
+      "film": "चेन्नई एक्सप्रेस",
+      "saal": "2013",
+      "nirdeshak": "रोहित शेट्टी",
+      "studio": "रेड चिलीज एंटरटेनमेंट",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 423 करोड़ (US$72.19 मिलियन)"
+    },
+    {
+      "pad": "22",
+      "shikhar": "13",
+      "film": "साहो",
+      "saal": "2019",
+      "nirdeshak": "सुजीत",
+      "studio": "यूवी क्रिएशंस टी-सीरीज",
+      "prathamik_bhasha": "हिंदी तमिल तेलुगु",
+      "duniya_bhar_sakal_kamai": "₹ 419 करोड़ (US $ 59.5 मिलियन)"
+    },
+    {
+      "pad": "23",
+      "shikhar": "20",
+      "film": "तान्हाजी",
+      "saal": "2020",
+      "nirdeshak": "ओम राउत",
+      "studio": "अजय देवगन एफफिल्म्स टी-सीरीज",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 407 करोड़ (US $ 57 मिलियन)"
+    },
+    {
+      "pad": "24",
+      "shikhar": "4",
+      "film": "किक",
+      "saal": "2014",
+      "nirdeshak": "साजिद नाडियाडवाला",
+      "studio": "नाडियाडवाला पोता",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 402 करोड़ (US$66 मिलियन)"
+    },
+    {
+      "pad": "25",
+      "shikhar": "17",
+      "film": "सिम्बा",
+      "saal": "2018",
+      "nirdeshak": "रोहित शेट्टी",
+      "studio": "रिलायंस एंटरटेनमेंट धर्मा प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹400 करोड़ (US$58 मिलियन)"
+    },
+    {
+      "pad": "26",
+      "shikhar": "8",
+      "film": "कृष 3",
+      "saal": "2013",
+      "nirdeshak": "राकेश रोशन",
+      "studio": "फिल्मक्राफ्ट प्रोडक्शंस प्रा। लिमिटेड",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹398 करोड़ (US $ 68 मिलियन)"
+    },
+    {
+      "pad": "26",
+      "shikhar": "23",
+      "film": "पुष्पा: द राइज",
+      "saal": "2021",
+      "nirdeshak": "सुकुमार:",
+      "studio": "Mythri Movie Makers Muttamsetty Media",
+      "prathamik_bhasha": "तेलुगू",
+      "duniya_bhar_sakal_kamai": "₹ 398 करोड़ (US $ 53 मिलियन)"
+    },
+    {
+      "pad": "27",
+      "shikhar": "9",
+      "film": "नववर्ष की शुभकामनाएं (हैप्पी न्यू ईयर)",
+      "saal": "2014",
+      "nirdeshak": "फराह खान",
+      "studio": "रेड चिलीज एंटरटेनमेंट",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹397 करोड़ (US $ 66 मिलियन)"
+    },
+    {
+      "pad": "28",
+      "shikhar": "21",
+      "film": "कबीर सिंह",
+      "saal": "2019",
+      "nirdeshak": "संदीप वांगा",
+      "studio": "सिने1 स्टूडियोज टी-सीरीज",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹379 करोड़ (US$54 मिलियन)"
+    },
+    {
+      "pad": "29",
+      "shikhar": "10",
+      "film": "दिलवाले",
+      "saal": "2015",
+      "nirdeshak": "रोहित शेट्टी",
+      "studio": "रेड चिलीज एंटरटेनमेंट रोहित शेट्टी प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 376.85 (US $ 68 मिलियन)"
+    },
+    {
+      "pad": "30",
+      "shikhar": "11",
+      "film": "बाजीराव मस्तानी",
+      "saal": "2015",
+      "nirdeshak": "संजय लीला भंसाली",
+      "studio": "भंसाली प्रोडक्शंस इरोज इंटरनेशनल",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 358 करोड़ (US$55.81 मिलियन)"
+    },
+    {
+      "pad": "31",
+      "shikhar": "26",
+      "film": "उरी: द सर्जिकल स्ट्राइक",
+      "saal": "2019",
+      "nirdeshak": "आदित्य धर",
+      "studio": "आरएसवीपी मूवीज",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 357.06 करोड़ (US$48.57 मिलियन)"
+    },
+    {
+      "pad": "32",
+      "shikhar": "32",
+      "film": "द कश्मीर फ़ाइल्स",
+      "saal": "2022",
+      "nirdeshak": "विवेक अग्निहोत्री",
+      "studio": "ज़ी स्टूडियोज अभिषेक अग्रवाल आर्ट्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 353.16 करोड़ (US$45 मिलियन)"
+    },
+    {
+      "pad": "33",
+      "shikhar": "5",
+      "film": "बैंग बैंग !",
+      "saal": "2014",
+      "nirdeshak": "सिद्धार्थ आनंद",
+      "studio": "फॉक्स स्टार स्टूडियोज",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 352.4 करोड़ (US$53 मिलियन)"
+    },
+    {
+      "pad": "34",
+      "shikhar": "22",
+      "film": "ठग्स ऑफ हिंदोस्तान",
+      "saal": "2018",
+      "nirdeshak": "विजय कृष्ण आचार्य",
+      "studio": "यश राज फिल्म्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 335 करोड़ (US$48.98 मिलियन)"
+    },
+    {
+      "pad": "35",
+      "shikhar": "2",
+      "film": "एक था टाइगर",
+      "saal": "2012",
+      "nirdeshak": "कबीर खान",
+      "studio": "यश राज फिल्म्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 334.39 करोड़ (US$62.58 मिलियन)"
+    },
+    {
+      "pad": "36",
+      "shikhar": "31",
+      "film": "भारत",
+      "saal": "2019",
+      "nirdeshak": "अली अब्बास ज़फ़र",
+      "studio": "रील लाइफ प्रोडक्शंस सलमान खान फिल्म्स टी-सीरीज",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 325.58 करोड़ (US$46.23 मिलियन)"
+    },
+    {
+      "pad": "37",
+      "shikhar": "19",
+      "film": "हिंदी माध्यम",
+      "saal": "2017",
+      "nirdeshak": "साकेत चौधरी",
+      "studio": "टी-सीरीज़",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 323.3 करोड़ (US$47.27 मिलियन)"
+    },
+    {
+      "pad": "38",
+      "shikhar": "2",
+      "film": "रोबोट",
+      "saal": "2010",
+      "nirdeshak": "एस. शंकर",
+      "studio": "सूर्य चित्र अल्लिराजा सुभास्करन",
+      "prathamik_bhasha": "तामिल",
+      "duniya_bhar_sakal_kamai": "₹ 322 ​करोड़ (US $ 72 मिलियन)"
+    },
+    {
+      "pad": "38",
+      "shikhar": "30",
+      "film": "दरबार",
+      "saal": "2020",
+      "nirdeshak": "ए आर मुरुगदोस",
+      "studio": "ए. राजा सुभास्करन",
+      "prathamik_bhasha": "तामिल",
+      "duniya_bhar_sakal_kamai": "₹ 322 ​करोड़ (US $ 46 मिलियन)"
+    },
+    {
+      "pad": "39",
+      "shikhar": "4",
+      "film": "ये जवानी है दीवानी",
+      "saal": "2013",
+      "nirdeshak": "अयान मुखर्जी",
+      "studio": "धर्मा प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 319.6 करोड़ (US$54.54 मिलियन)"
+    },
+    {
+      "pad": "40",
+      "shikhar": "36",
+      "film": "गुड न्यूज",
+      "saal": "2019",
+      "nirdeshak": "राज मेहता",
+      "studio": "ज़ी स्टूडियोज धर्मा प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 318.57 करोड़ (US$45.24 मिलियन)"
+    },
+    {
+      "pad": "41",
+      "shikhar": "24",
+      "film": "शौचालय: एक प्रेम कथा",
+      "saal": "2017",
+      "nirdeshak": "श्री नारायण सिंह",
+      "studio": "वायकॉम 18 मोशन पिक्चर्स",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 311.5 करोड़ (US$47.83 मिलियन)"
+    },
+    {
+      "pad": "42",
+      "shikhar": "21",
+      "film": "गोलमाल अगेन",
+      "saal": "2017",
+      "nirdeshak": "रोहित शेट्टी",
+      "studio": "रोहित शेट्टी प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 311.05 करोड़ (US$47.76 मिलियन)"
+    },
+    {
+      "pad": "43",
+      "shikhar": "38",
+      "film": "मास्टर",
+      "saal": "2021",
+      "nirdeshak": "लोकेश कनगराज",
+      "studio": "एस जेवियर ब्रिटो",
+      "prathamik_bhasha": "तामिल",
+      "duniya_bhar_sakal_kamai": "₹ 309 करोड़ (US $ 43.43 मिलियन)"
+    },
+    {
+      "pad": "43",
+      "shikhar": "20",
+      "film": "रईस",
+      "saal": "2017",
+      "nirdeshak": "राहुल ढोलकिया",
+      "studio": "रेड चिलीज एंटरटेनमेंट",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 309 करोड़ (US$47.43 मिलियन)"
+    },
+    {
+      "pad": "44",
+      "shikhar": "33",
+      "film": "रेस 3",
+      "saal": "2018",
+      "nirdeshak": "रेमो डिसूजा",
+      "studio": "सलमान खान फिल्म्स टिप्स इंडस्ट्रीज",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 305.16 करोड़ (US$44.62 मिलियन)"
+    },
+    {
+      "pad": "45",
+      "shikhar": "30",
+      "film": "बिगिल",
+      "saal": "2019",
+      "nirdeshak": "एटली",
+      "studio": "एजीएस एंटरटेनमेंट",
+      "prathamik_bhasha": "तामिल",
+      "duniya_bhar_sakal_kamai": "₹ 304 करोड़ (US $ 45 मिलियन)"
+    },
+    {
+      "pad": "46",
+      "shikhar": "41",
+      "film": "सूर्यवंशी",
+      "saal": "2021",
+      "nirdeshak": "रोहित शेट्टी",
+      "studio": "रिलायंस एंटरटेनमेंट धर्मा प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 294.17 करोड़ (US$39 मिलियन)"
+    },
+    {
+      "pad": "46",
+      "shikhar": "35",
+      "film": "पेट्टा",
+      "saal": "2019",
+      "nirdeshak": "कार्तिक सुब्बाराजी",
+      "studio": "कलानिधि मारन",
+      "prathamik_bhasha": "तामिल हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 294.17 करोड़ (US $ 40 मिलियन)"
+    },
+    {
+      "pad": "47",
+      "shikhar": "40",
+      "film": "मिशन मंगल",
+      "saal": "2019",
+      "nirdeshak": "जगन शक्ति",
+      "studio": "केप ऑफ गुड फिल्म्स फॉक्स स्टार स्टूडियोज",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 290.59 करोड़ (US$41.27 मिलियन)"
+    },
+    {
+      "pad": "48",
+      "shikhar": "36",
+      "film": "हाउसफुल 4",
+      "saal": "2019",
+      "nirdeshak": "साजिद खान फरहाद सामजिक",
+      "studio": "नाडियाडवाला ग्रैंडसन एंटरटेनमेंट फॉक्स स्टार स्टूडियोज",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 280.27 करोड़ (US$39.8 मिलियन)"
+    },
+    {
+      "pad": "49",
+      "shikhar": "4",
+      "film": "दबंग 2",
+      "saal": "2012",
+      "nirdeshak": "अरबाज खान",
+      "studio": "अरबाज खान प्रोडक्शंस",
+      "prathamik_bhasha": "हिन्दी",
+      "duniya_bhar_sakal_kamai": "₹ 265 करोड़ (US$49.59 मिलियन)"
+    },
+    {
+      "pad": "50",
+      "shikhar": "46",
+      "film": "आला वैकुंठपुरमुलु",
+      "saal": "2020",
+      "nirdeshak": "त्रिविक्रम श्रीनिवास",
+      "studio": "हारिका और हसीन क्रिएशन्स गीता आर्ट्स",
+      "prathamik_bhasha": "तेलुगू",
+      "duniya_bhar_sakal_kamai": "₹ 262 करोड़ (US $ 35 मिलियन)"
+    }
+  ],
+  "meta": {
+    "title": "सर्वाधिक कमाई करने वाली भारतीय फ़िल्में - Free Download",
+    "description": "दुनिया भर में सर्वाधिक कमाई करने वाली भारतीय फ़िल्मों की सूची — वर्ष, निर्देशक, स्टूडियो, भाषा और सकल कमाई। Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "सर्वाधिक कमाई करने वाली भारतीय फ़िल्में | ListBase",
+    "seo_description": "Download सर्वाधिक कमाई करने वाली भारतीय फ़िल्में — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/सर्वाधिक_कमाई_करने_वाली_भारतीय_फिल्मों_की_सूची"
+    ]
+  }
+}

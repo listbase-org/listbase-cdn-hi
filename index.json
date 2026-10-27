@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:35.708Z",
-  "total_datasets": 433,
-  "total_records": 2010070,
+  "generated": "2026-10-27T02:32:38.301Z",
+  "total_datasets": 434,
+  "total_records": 2010123,
   "categories": [
     {
       "id": "agriculture",
@@ -19,6 +19,10 @@
     {
       "id": "education",
       "dataset_count": 2
+    },
+    {
+      "id": "entertainment",
+      "dataset_count": 1
     },
     {
       "id": "environment",
@@ -371,6 +375,32 @@
         "xlsx": {
           "name": "hi-vishwavidyalaya_HI.xlsx",
           "size": 34646
+        }
+      }
+    },
+    {
+      "id": "hi-dadasaheb-phalke-puraskar",
+      "name": "दादासाहेब फाल्के पुरस्कार विजेता",
+      "category": "entertainment",
+      "record_count": 53,
+      "columns": [
+        "samaroh",
+        "varsh",
+        "vijeta",
+        "karyakshetra",
+        "film_industry"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/दादासाहेब_फाल्के_पुरस्कार",
+      "updated": "2026-10",
+      "size": 15502,
+      "files": {
+        "csv": {
+          "name": "hi-dadasaheb-phalke-puraskar_HI.csv",
+          "size": 7279
+        },
+        "xlsx": {
+          "name": "hi-dadasaheb-phalke-puraskar_HI.xlsx",
+          "size": 9497
         }
       }
     },

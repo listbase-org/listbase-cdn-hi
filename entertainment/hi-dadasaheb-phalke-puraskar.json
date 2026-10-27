@@ -1,0 +1,422 @@
+{
+  "id": "hi-dadasaheb-phalke-puraskar",
+  "name": "दादासाहेब फाल्के पुरस्कार विजेता",
+  "title": "दादासाहेब फाल्के पुरस्कार विजेता",
+  "description": "भारतीय सिनेमा के सर्वोच्च सम्मान दादासाहेब फाल्के पुरस्कार के विजेता — वर्ष, कार्यक्षेत्र और फ़िल्म इंडस्ट्री।",
+  "category": "entertainment",
+  "source": "https://hi.wikipedia.org/wiki/दादासाहेब_फाल्के_पुरस्कार",
+  "source_url": "https://hi.wikipedia.org/wiki/दादासाहेब_फाल्के_पुरस्कार",
+  "updated": "2026-10",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "samaroh",
+      "label": "Samaroh",
+      "type": "string"
+    },
+    {
+      "key": "varsh",
+      "label": "Varsh",
+      "type": "string"
+    },
+    {
+      "key": "vijeta",
+      "label": "Vijeta",
+      "type": "string"
+    },
+    {
+      "key": "karyakshetra",
+      "label": "Karyakshetra",
+      "type": "string"
+    },
+    {
+      "key": "film_industry",
+      "label": "Film Industry",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "samaroh": "१७ वाँ",
+      "varsh": "१९६९",
+      "vijeta": "देविका रानी",
+      "karyakshetra": "अभिनेत्री",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "१८ वाँ",
+      "varsh": "१९७०",
+      "vijeta": "बी॰ एन॰ सरकार",
+      "karyakshetra": "निर्माता",
+      "film_industry": "बंगाली"
+    },
+    {
+      "samaroh": "१९ वाँ",
+      "varsh": "१९७१",
+      "vijeta": "पृथ्वीराज कपूर (मरणोंपरांत)",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "२० वाँ",
+      "varsh": "१९७२",
+      "vijeta": "पंकज मलिक",
+      "karyakshetra": "संगीतकार",
+      "film_industry": "• बंगाली • हिन्दी"
+    },
+    {
+      "samaroh": "२१ वाँ",
+      "varsh": "१९७३",
+      "vijeta": "रूबी मेयर्स (सुलोचना)",
+      "karyakshetra": "अभिनेत्री",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "२२ वाँ",
+      "varsh": "१९७४",
+      "vijeta": "बोम्मिरेड्डी नरसिम्हा रेड्डी",
+      "karyakshetra": "निर्देशक",
+      "film_industry": "तेलगु"
+    },
+    {
+      "samaroh": "२३ वाँ",
+      "varsh": "१९७५",
+      "vijeta": "धीरेन्द्रनाथ गांगुली",
+      "karyakshetra": "अभिनेता, निर्देशक",
+      "film_industry": "बंगाली"
+    },
+    {
+      "samaroh": "२४ वाँ",
+      "varsh": "१९७६",
+      "vijeta": "कानन देवी",
+      "karyakshetra": "अभिनेत्री",
+      "film_industry": "बंगाली"
+    },
+    {
+      "samaroh": "२५ वाँ",
+      "varsh": "१९७७",
+      "vijeta": "नितिन बोस",
+      "karyakshetra": "छायाकार, निर्देशक, लेखक",
+      "film_industry": "• बंगाली • हिन्दी"
+    },
+    {
+      "samaroh": "२६ वाँ",
+      "varsh": "१९७८",
+      "vijeta": "रायचन्द बोराल",
+      "karyakshetra": "संगीतकार, निर्देशक",
+      "film_industry": "• बंगाली • हिन्दी"
+    },
+    {
+      "samaroh": "२७ वाँ",
+      "varsh": "१९७९",
+      "vijeta": "सोहराब मोदी",
+      "karyakshetra": "अभिनेता, निर्देशक, निर्माता",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "२८ वाँ",
+      "varsh": "१९८०",
+      "vijeta": "पैडी जयराज",
+      "karyakshetra": "अभिनेता, निर्देशक",
+      "film_industry": "• हिन्दी • तेलगु"
+    },
+    {
+      "samaroh": "२९ वाँ",
+      "varsh": "१९८१",
+      "vijeta": "नौशाद अली",
+      "karyakshetra": "संगीतकार",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "३० वाँ",
+      "varsh": "१९८२",
+      "vijeta": "एल॰ वी॰ प्रसाद",
+      "karyakshetra": "अभिनेता, निर्माता, निर्देशक",
+      "film_industry": "• तेलगु • तमिल • हिन्दी"
+    },
+    {
+      "samaroh": "३१ वाँ",
+      "varsh": "१९८३",
+      "vijeta": "दुर्गा खोटे",
+      "karyakshetra": "अभिनेत्री",
+      "film_industry": "• हिन्दी • मराठी"
+    },
+    {
+      "samaroh": "३२ वाँ",
+      "varsh": "१९८४",
+      "vijeta": "सत्यजीत रे",
+      "karyakshetra": "निर्देशक",
+      "film_industry": "बंगाली"
+    },
+    {
+      "samaroh": "३३ वाँ",
+      "varsh": "१९८५",
+      "vijeta": "वी शांताराम",
+      "karyakshetra": "अभिनेता, निर्माता, निर्देशक",
+      "film_industry": "• हिन्दी • मराठी"
+    },
+    {
+      "samaroh": "३४ वाँ",
+      "varsh": "१९८६",
+      "vijeta": "बी॰ नागि रेड्डी",
+      "karyakshetra": "निर्माता",
+      "film_industry": "तेलगु"
+    },
+    {
+      "samaroh": "३५ वाँ",
+      "varsh": "१९८७",
+      "vijeta": "राज कपूर",
+      "karyakshetra": "अभिनेता, निर्देशक",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "३६ वाँ",
+      "varsh": "१९८८",
+      "vijeta": "अशोक कुमार",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "३७ वाँ",
+      "varsh": "१९८९",
+      "vijeta": "लता मंगेशकर",
+      "karyakshetra": "पार्श्वगायिका",
+      "film_industry": "• हिन्दी • मराठी"
+    },
+    {
+      "samaroh": "३८ वाँ",
+      "varsh": "१९९०",
+      "vijeta": "अक्किनेनी नागेश्वर राव",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "तेलगु"
+    },
+    {
+      "samaroh": "३९ वाँ",
+      "varsh": "१९९१",
+      "vijeta": "भालजी पेंढारकर",
+      "karyakshetra": "निर्देशक, निर्माता, लेखक",
+      "film_industry": "मराठी"
+    },
+    {
+      "samaroh": "४० वाँ",
+      "varsh": "१९९२",
+      "vijeta": "भूपेन हजारिका",
+      "karyakshetra": "पार्श्वगायक",
+      "film_industry": "आसामी"
+    },
+    {
+      "samaroh": "४१ वाँ",
+      "varsh": "१९९३",
+      "vijeta": "मजरुह सुल्तानपुरी",
+      "karyakshetra": "गीतकार",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "४२ वाँ",
+      "varsh": "१९९४",
+      "vijeta": "दिलीप कुमार",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "४३ वाँ",
+      "varsh": "१९९५",
+      "vijeta": "डॉ॰ राजकुमार",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "कन्नड़"
+    },
+    {
+      "samaroh": "४४ वाँ",
+      "varsh": "१९९६",
+      "vijeta": "शिवाजी गणेशन",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "तमिल"
+    },
+    {
+      "samaroh": "४५ वाँ",
+      "varsh": "१९९७",
+      "vijeta": "कवि प्रदीप",
+      "karyakshetra": "गीतकार",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "४६ वाँ",
+      "varsh": "१९९८",
+      "vijeta": "बलदेव राज चोपड़ा",
+      "karyakshetra": "निर्माता, निर्देशक",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "४७ वाँ",
+      "varsh": "१९९९",
+      "vijeta": "हृषिकेश मुखर्जी",
+      "karyakshetra": "निर्देशक",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "४८ वाँ",
+      "varsh": "२०००",
+      "vijeta": "आशा भोंसले",
+      "karyakshetra": "पार्श्वगायिका",
+      "film_industry": "• हिन्दी • मराठी"
+    },
+    {
+      "samaroh": "४९ वाँ",
+      "varsh": "२००१",
+      "vijeta": "यश चोपड़ा",
+      "karyakshetra": "निर्माता, निर्देशक",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "५० वाँ",
+      "varsh": "२००२",
+      "vijeta": "देव आनंद",
+      "karyakshetra": "अभिनेता, निर्माता, निर्देशक",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "५१ वाँ",
+      "varsh": "२००३",
+      "vijeta": "मृणाल सेन",
+      "karyakshetra": "निर्देशक",
+      "film_industry": "बंगाली"
+    },
+    {
+      "samaroh": "५२ वाँ",
+      "varsh": "२००४",
+      "vijeta": "अदूर गोपालकृष्णन",
+      "karyakshetra": "निर्देशक",
+      "film_industry": "मलयाली"
+    },
+    {
+      "samaroh": "५३ वाँ",
+      "varsh": "२००५",
+      "vijeta": "श्याम बेनेगल",
+      "karyakshetra": "निर्देशक",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "५४ वाँ",
+      "varsh": "२००६",
+      "vijeta": "तपन सिन्हा",
+      "karyakshetra": "निर्देशक",
+      "film_industry": "• बंगाली • हिन्दी"
+    },
+    {
+      "samaroh": "५५ वाँ",
+      "varsh": "२००७",
+      "vijeta": "मन्ना डे",
+      "karyakshetra": "गायक",
+      "film_industry": "• बंगाली • हिन्दी"
+    },
+    {
+      "samaroh": "५६ वाँ",
+      "varsh": "२००८",
+      "vijeta": "वी के मूर्ती",
+      "karyakshetra": "छायाकार",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "५७ वाँ",
+      "varsh": "२००९",
+      "vijeta": "डी रामानायडू",
+      "karyakshetra": "निर्माता, निर्देशक",
+      "film_industry": "तेलगु"
+    },
+    {
+      "samaroh": "५८ वाँ",
+      "varsh": "२०१०",
+      "vijeta": "के बालाचंदर",
+      "karyakshetra": "निर्देशक",
+      "film_industry": "• तमिल • तेलगु"
+    },
+    {
+      "samaroh": "५९ वाँ",
+      "varsh": "२०११",
+      "vijeta": "सौमित्र चटर्जी",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "बंगाली"
+    },
+    {
+      "samaroh": "६० वाँ",
+      "varsh": "२०१२",
+      "vijeta": "प्राण",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "६१ वाँ",
+      "varsh": "२०१३",
+      "vijeta": "गुलजार",
+      "karyakshetra": "गीतकार",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "६२ वाँ",
+      "varsh": "२०१४",
+      "vijeta": "शशि कपूर",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "६३वाँ",
+      "varsh": "२०१५",
+      "vijeta": "मनोज कुमार",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "६४वाँ",
+      "varsh": "२०१६",
+      "vijeta": "कसीनथुनी विश्वनाथ",
+      "karyakshetra": "निर्देशक",
+      "film_industry": "तेलगु"
+    },
+    {
+      "samaroh": "६५वाँ",
+      "varsh": "२०१७",
+      "vijeta": "विनोद खन्ना",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "६६वाँ",
+      "varsh": "२०१९",
+      "vijeta": "अमिताभ बच्चन",
+      "karyakshetra": "अभिनेता",
+      "film_industry": "हिन्दी"
+    },
+    {
+      "samaroh": "६७वाँ",
+      "varsh": "२०२०",
+      "vijeta": "केजंग डी थोंगडोक",
+      "karyakshetra": "फिल्म निर्माता",
+      "film_industry": "अरूणाचल प्रदेश"
+    },
+    {
+      "samaroh": "६८वा 53 वा",
+      "varsh": "२०२१ 2020",
+      "vijeta": "रजनीकांत आशा पारेख",
+      "karyakshetra": "अभिनेता, निर्माता और पटकथा लेखक अभिनेत्री",
+      "film_industry": "तमिलनाडु"
+    },
+    {
+      "samaroh": "६९वीं",
+      "varsh": "२०२०",
+      "vijeta": "आशा पारेख",
+      "karyakshetra": "अभिनेत्री",
+      "film_industry": "हिंदी"
+    }
+  ],
+  "meta": {
+    "title": "दादासाहेब फाल्के पुरस्कार विजेता - Free Download",
+    "description": "भारतीय सिनेमा के सर्वोच्च सम्मान दादासाहेब फाल्के पुरस्कार के विजेता — वर्ष, कार्यक्षेत्र और फ़िल्म इंडस्ट्री। Contains 53 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "दादासाहेब फाल्के पुरस्कार विजेता | ListBase",
+    "seo_description": "Download दादासाहेब फाल्के पुरस्कार विजेता — 53 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 53 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/दादासाहेब_फाल्के_पुरस्कार"
+    ]
+  }
+}

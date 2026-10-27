@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:20.936Z",
-  "total_datasets": 427,
-  "total_records": 2009776,
+  "generated": "2026-10-27T02:32:23.342Z",
+  "total_datasets": 428,
+  "total_records": 2009829,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -183,6 +183,30 @@
         "xlsx": {
           "name": "hi-bharat-ke-tyohar_HI.xlsx",
           "size": 8823
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ratna-vijeta",
+      "name": "भारत रत्न पुरस्कार विजेता",
+      "category": "culture",
+      "record_count": 53,
+      "columns": [
+        "varsh",
+        "vijeta",
+        "tippani"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_रत्न_पुरस्कार_विजेताओं_की_सूची",
+      "updated": "2026-10",
+      "size": 29811,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ratna-vijeta_HI.csv",
+          "size": 24471
+        },
+        "xlsx": {
+          "name": "hi-bharat-ratna-vijeta_HI.xlsx",
+          "size": 12949
         }
       }
     },

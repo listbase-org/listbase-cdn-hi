@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:33:10.756Z",
-  "total_datasets": 447,
-  "total_records": 2010677,
+  "generated": "2026-10-27T02:33:13.127Z",
+  "total_datasets": 448,
+  "total_records": 2010708,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 35
+      "dataset_count": 36
     },
     {
       "id": "reference",
@@ -7544,6 +7544,31 @@
         "xlsx": {
           "name": "hi-uttarakhand-vidhan-sabha-elections_HI.xlsx",
           "size": 144310
+        }
+      }
+    },
+    {
+      "id": "hi-vartaman-mukhyamantri",
+      "name": "भारतीय राज्यों के वर्तमान मुख्यमंत्री",
+      "category": "politics",
+      "record_count": 31,
+      "columns": [
+        "rajya",
+        "naam",
+        "pad_grahan",
+        "dal"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_राज्यों_के_वर्तमान_मुख्यमंत्रियों_की_सूची",
+      "updated": "2026-10",
+      "size": 10551,
+      "files": {
+        "csv": {
+          "name": "hi-vartaman-mukhyamantri_HI.csv",
+          "size": 5687
+        },
+        "xlsx": {
+          "name": "hi-vartaman-mukhyamantri_HI.xlsx",
+          "size": 8781
         }
       }
     },

@@ -1,0 +1,574 @@
+{
+  "id": "hi-isro-videshi-upgrah",
+  "name": "भारत द्वारा प्रक्षेपित विदेशी उपग्रह",
+  "title": "भारत द्वारा प्रक्षेपित विदेशी उपग्रह",
+  "description": "इसरो द्वारा प्रक्षेपित विदेशी उपग्रहों की सूची — देश, प्रक्षेपण तिथि, द्रव्यमान और प्रक्षेपण यान।",
+  "category": "science",
+  "source": "https://hi.wikipedia.org/wiki/भारत_द्वारा_प्रक्षेपित_विदेशी_उपग्रहों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_द्वारा_प्रक्षेपित_विदेशी_उपग्रहों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "number"
+    },
+    {
+      "key": "upgrah",
+      "label": "Upgrah",
+      "type": "string"
+    },
+    {
+      "key": "desh",
+      "label": "Desh",
+      "type": "string"
+    },
+    {
+      "key": "launch_tithi",
+      "label": "Launch Tithi",
+      "type": "string"
+    },
+    {
+      "key": "dravyaman",
+      "label": "Dravyaman",
+      "type": "string"
+    },
+    {
+      "key": "launch_vahan",
+      "label": "Launch Vahan",
+      "type": "string"
+    },
+    {
+      "key": "anya_jankari",
+      "label": "Anya Jankari",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "1",
+      "upgrah": "DLR-TUBSAT",
+      "desh": "जर्मनी",
+      "launch_tithi": "26 अप्रैल 1999",
+      "dravyaman": "45 kग्राम (99 पौंड)",
+      "launch_vahan": "पीएसएलवी-C2",
+      "anya_jankari": "विदेशी उपग्रह के साथ इसरो का पहला कमर्शियल सैटेलाइट लॉन्च। भारत का ओशियनसैट-1 भी लॉन्च किया गया। पीएसएलवी का यह कुल मिलाकर तीसरा अभियान था।"
+    },
+    {
+      "kram": "2",
+      "upgrah": "KITSAT-3",
+      "desh": "दक्षिण कोरिया",
+      "launch_tithi": "26 अप्रैल 1999",
+      "dravyaman": "110 kग्राम (240 पौंड)",
+      "launch_vahan": "पीएसएलवी-C2",
+      "anya_jankari": "विदेशी उपग्रह के साथ इसरो का पहला कमर्शियल सैटेलाइट लॉन्च। भारत का ओशियनसैट-1 भी लॉन्च किया गया। पीएसएलवी का यह कुल मिलाकर तीसरा अभियान था।"
+    },
+    {
+      "kram": "3",
+      "upgrah": "BIRD",
+      "desh": "जर्मनी",
+      "launch_tithi": "22 अक्टूबर 2001",
+      "dravyaman": "92 kग्राम (203 पौंड)",
+      "launch_vahan": "पीएसएलवी -C3",
+      "anya_jankari": "इसरो को दूसरा कमर्शियल लॉन्च"
+    },
+    {
+      "kram": "4",
+      "upgrah": "PROBA",
+      "desh": "बेल्जियम",
+      "launch_tithi": "22 अक्टूबर 2001",
+      "dravyaman": "94 kग्राम (207 पौंड)",
+      "launch_vahan": "पीएसएलवी -C3",
+      "anya_jankari": "इसरो को दूसरा कमर्शियल लॉन्च"
+    },
+    {
+      "kram": "5",
+      "upgrah": "Lapan-TUBsat",
+      "desh": "इंडोनेशिया",
+      "launch_tithi": "10 जनवरी 2007",
+      "dravyaman": "56 kग्राम (123 पौंड)",
+      "launch_vahan": "पीएसएलवी-C7",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "6",
+      "upgrah": "Pehuensat-1",
+      "desh": "अर्जेंटीना",
+      "launch_tithi": "10 जनवरी 2007",
+      "dravyaman": "6 kग्राम (13 पौंड)",
+      "launch_vahan": "पीएसएलवी-C7",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "7",
+      "upgrah": "AGILE",
+      "desh": "इटली",
+      "launch_tithi": "23 अप्रैल 2007",
+      "dravyaman": "352 kग्राम (776 पौंड)",
+      "launch_vahan": "पीएसएलवी-C8",
+      "anya_jankari": "पीएसएलवी की 11वीं उड़ान"
+    },
+    {
+      "kram": "8",
+      "upgrah": "TecSAR",
+      "desh": "इजराइल",
+      "launch_tithi": "21 January 2008",
+      "dravyaman": "295 kग्राम (650 पौंड)",
+      "launch_vahan": "पीएसएलवी-C10",
+      "anya_jankari": "पीएसएलवी की 12वीं उड़ान"
+    },
+    {
+      "kram": "9",
+      "upgrah": "CAN-X2",
+      "desh": "कनाडा",
+      "launch_tithi": "28 अप्रैल 2008",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C9",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "10",
+      "upgrah": "CUTE-1.7",
+      "desh": "जापान",
+      "launch_tithi": "28 अप्रैल 2008",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C9",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "11",
+      "upgrah": "Delfi-C3",
+      "desh": "नीदरलैंड",
+      "launch_tithi": "28 अप्रैल 2008",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C9",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "12",
+      "upgrah": "AAUSAT-II",
+      "desh": "डेनमार्क",
+      "launch_tithi": "28 अप्रैल 2008",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C9",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "13",
+      "upgrah": "COMPASS-1",
+      "desh": "जर्मनी",
+      "launch_tithi": "28 अप्रैल 2008",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C9",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "14",
+      "upgrah": "SEEDS-2",
+      "desh": "जापान",
+      "launch_tithi": "28 अप्रैल 2008",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C9",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "15",
+      "upgrah": "NLS-5",
+      "desh": "कनाडा",
+      "launch_tithi": "28 अप्रैल 2008",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C9",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "16",
+      "upgrah": "Rubin-8",
+      "desh": "जर्मनी",
+      "launch_tithi": "28 अप्रैल 2008",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C9",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "17",
+      "upgrah": "UWE-2",
+      "desh": "Germany",
+      "launch_tithi": "23 सितंबर 2009",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C14",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "18",
+      "upgrah": "BeeSat-1",
+      "desh": "Germany",
+      "launch_tithi": "23 सितंबर 2009",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C14",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "19",
+      "upgrah": "ITUpSAT1",
+      "desh": "Turkey",
+      "launch_tithi": "23 सितंबर 2009",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C14",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "20",
+      "upgrah": "SwissCube-1",
+      "desh": "Switzerland",
+      "launch_tithi": "23 सितंबर 2009",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C14",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "21",
+      "upgrah": "RUBIN-9.1",
+      "desh": "Germany",
+      "launch_tithi": "23 सितंबर 2009",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C14",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "22",
+      "upgrah": "RUBIN-9.2",
+      "desh": "Germany",
+      "launch_tithi": "23 सितंबर 2009",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C14",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "23",
+      "upgrah": "ALSAT-2A",
+      "desh": "Algeria",
+      "launch_tithi": "12 July 2010",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C15",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "24",
+      "upgrah": "NLS-6.1 AISSAT-1",
+      "desh": "Canada",
+      "launch_tithi": "12 July 2010",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C15",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "25",
+      "upgrah": "NLS-6.2 TISAT-1",
+      "desh": "Switzerland",
+      "launch_tithi": "12 July 2010",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C15",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "26",
+      "upgrah": "VESSELSAT-1",
+      "desh": "Luxembourg",
+      "launch_tithi": "12 January 2011",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C18",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "27",
+      "upgrah": "X-SAT",
+      "desh": "Singapore",
+      "launch_tithi": "20 April 2011",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C16",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "28",
+      "upgrah": "SPOT-6",
+      "desh": "France",
+      "launch_tithi": "9 September 2012",
+      "dravyaman": "712 kग्राम (1,570 पौंड)",
+      "launch_vahan": "पीएसएलवी-C21",
+      "anya_jankari": "PSLV's 22nd flight."
+    },
+    {
+      "kram": "29",
+      "upgrah": "PROITERES",
+      "desh": "Japan",
+      "launch_tithi": "9 September 2012",
+      "dravyaman": "15 kग्राम (33 पौंड)",
+      "launch_vahan": "पीएसएलवी-C21",
+      "anya_jankari": "PSLV's 22nd flight."
+    },
+    {
+      "kram": "30",
+      "upgrah": "SAPPHIRE",
+      "desh": "Canada",
+      "launch_tithi": "25 February 2013",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C20",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "31",
+      "upgrah": "NEOSSAT",
+      "desh": "Canada",
+      "launch_tithi": "25 February 2013",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C20",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "32",
+      "upgrah": "NLS 8.1",
+      "desh": "Austria",
+      "launch_tithi": "25 February 2013",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C20",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "33",
+      "upgrah": "NLS 8.2",
+      "desh": "Austria",
+      "launch_tithi": "25 February 2013",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C20",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "34",
+      "upgrah": "NLS 8.3",
+      "desh": "Denmark",
+      "launch_tithi": "25 February 2013",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C20",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "35",
+      "upgrah": "STRAND-1",
+      "desh": "United Kingdom",
+      "launch_tithi": "25 February 2013",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C20",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "36",
+      "upgrah": "SPOT-7",
+      "desh": "France",
+      "launch_tithi": "30 June 2014",
+      "dravyaman": "714 kग्राम (1,574 पौंड)",
+      "launch_vahan": "पीएसएलवी-C23",
+      "anya_jankari": "PSLV's 10th flight in 'core-alone' configuration (i.e. without the use of solid strap-on motors)."
+    },
+    {
+      "kram": "37",
+      "upgrah": "AISAT",
+      "desh": "जर्मनी",
+      "launch_tithi": "30 June 2014",
+      "dravyaman": "14 kग्राम (31 पौंड)",
+      "launch_vahan": "पीएसएलवी-C23",
+      "anya_jankari": "PSLV's 10th flight in 'core-alone' configuration (i.e. without the use of solid strap-on motors)."
+    },
+    {
+      "kram": "38",
+      "upgrah": "NLS 7.1",
+      "desh": "कनाडा",
+      "launch_tithi": "30 June 2014",
+      "dravyaman": "15 kग्राम (33 पौंड)",
+      "launch_vahan": "पीएसएलवी-C23",
+      "anya_jankari": "PSLV's 10th flight in 'core-alone' configuration (i.e. without the use of solid strap-on motors)."
+    },
+    {
+      "kram": "39",
+      "upgrah": "NLS 7.2",
+      "desh": "कनाडा",
+      "launch_tithi": "30 June 2014",
+      "dravyaman": "7 kग्राम (15 पौंड)",
+      "launch_vahan": "पीएसएलवी-C23",
+      "anya_jankari": "PSLV's 10th flight in 'core-alone' configuration (i.e. without the use of solid strap-on motors)."
+    },
+    {
+      "kram": "40",
+      "upgrah": "VELOX-1",
+      "desh": "सिंगापुर",
+      "launch_tithi": "30 June 2014",
+      "dravyaman": "7 kग्राम (15 पौंड)",
+      "launch_vahan": "पीएसएलवी-C23",
+      "anya_jankari": "PSLV's 10th flight in 'core-alone' configuration (i.e. without the use of solid strap-on motors)."
+    },
+    {
+      "kram": "41",
+      "upgrah": "DMC3-1",
+      "desh": "यूनाइटेड किंगडम",
+      "launch_tithi": "10 July 2015",
+      "dravyaman": "7 kग्राम (15 पौंड)",
+      "launch_vahan": "पीएसएलवी-C28",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "42",
+      "upgrah": "DMC3-2",
+      "desh": "यूनाइटेड किंगडम",
+      "launch_tithi": "10 July 2015",
+      "dravyaman": "7 kग्राम (15 पौंड)",
+      "launch_vahan": "पीएसएलवी-C28",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "43",
+      "upgrah": "DMC3-3",
+      "desh": "यूनाइटेड किंगडम",
+      "launch_tithi": "10 July 2015",
+      "dravyaman": "447 kग्राम (985 पौंड)",
+      "launch_vahan": "पीएसएलवी-C28",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "44",
+      "upgrah": "CBNT-1",
+      "desh": "यूनाइटेड किंगडम",
+      "launch_tithi": "10 July 2015",
+      "dravyaman": "7 kग्राम (15 पौंड)",
+      "launch_vahan": "पीएसएलवी-C28",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "45",
+      "upgrah": "De-OrbitSail",
+      "desh": "यूनाइटेड किंगडम",
+      "launch_tithi": "10 July 2015",
+      "dravyaman": "7 kग्राम (15 पौंड)",
+      "launch_vahan": "पीएसएलवी-C28",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "46",
+      "upgrah": "LAPAN-A2",
+      "desh": "इंडोनेशिया",
+      "launch_tithi": "28 September 2015",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C30",
+      "anya_jankari": "American commercial satellites were launched on an Indian rocket for the first time. Astrosat, India's first dedicated astronomy satellite, was also launched on this flight."
+    },
+    {
+      "kram": "47",
+      "upgrah": "NLS-14 (Ev9)",
+      "desh": "कनाडा",
+      "launch_tithi": "28 September 2015",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C30",
+      "anya_jankari": "American commercial satellites were launched on an Indian rocket for the first time. Astrosat, India's first dedicated astronomy satellite, was also launched on this flight."
+    },
+    {
+      "kram": "48",
+      "upgrah": "Lemur-2-Peter",
+      "desh": "संयुक्त राज्य अमेरिका",
+      "launch_tithi": "28 September 2015",
+      "dravyaman": "4 kग्राम (8.8 पौंड)",
+      "launch_vahan": "पीएसएलवी-C30",
+      "anya_jankari": "American commercial satellites were launched on an Indian rocket for the first time. Astrosat, India's first dedicated astronomy satellite, was also launched on this flight."
+    },
+    {
+      "kram": "49",
+      "upgrah": "Lemur-2-Jeroen",
+      "desh": "संयुक्त राज्य अमेरिका",
+      "launch_tithi": "28 September 2015",
+      "dravyaman": "4 kग्राम (8.8 पौंड)",
+      "launch_vahan": "पीएसएलवी-C30",
+      "anya_jankari": "American commercial satellites were launched on an Indian rocket for the first time. Astrosat, India's first dedicated astronomy satellite, was also launched on this flight."
+    },
+    {
+      "kram": "50",
+      "upgrah": "Lemur-2-Joel",
+      "desh": "संयुक्त राज्य अमेरिका",
+      "launch_tithi": "28 September 2015",
+      "dravyaman": "4 kग्राम (8.8 पौंड)",
+      "launch_vahan": "पीएसएलवी-C30",
+      "anya_jankari": "American commercial satellites were launched on an Indian rocket for the first time. Astrosat, India's first dedicated astronomy satellite, was also launched on this flight."
+    },
+    {
+      "kram": "51",
+      "upgrah": "Lemur-2-Chris",
+      "desh": "संयुक्त राज्य अमेरिका",
+      "launch_tithi": "28 September 2015",
+      "dravyaman": "4 kग्राम (8.8 पौंड)",
+      "launch_vahan": "पीएसएलवी-C30",
+      "anya_jankari": "American commercial satellites were launched on an Indian rocket for the first time. Astrosat, India's first dedicated astronomy satellite, was also launched on this flight."
+    },
+    {
+      "kram": "52",
+      "upgrah": "TeLEOS 1",
+      "desh": "सिंगापुर",
+      "launch_tithi": "16 December 2015",
+      "dravyaman": "400 kग्राम (880 पौंड)",
+      "launch_vahan": "पीएसएलवी-C29",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "53",
+      "upgrah": "VELOX-C1",
+      "desh": "सिंगापुर",
+      "launch_tithi": "16 December 2015",
+      "dravyaman": "123 kग्राम (271 पौंड)",
+      "launch_vahan": "पीएसएलवी-C29",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "54",
+      "upgrah": "VELOX-II",
+      "desh": "सिंगापुर",
+      "launch_tithi": "16 December 2015",
+      "dravyaman": "13 kग्राम (29 पौंड)",
+      "launch_vahan": "पीएसएलवी-C29",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "55",
+      "upgrah": "Athenoxat-1",
+      "desh": "सिंगापुर",
+      "launch_tithi": "16 December 2015",
+      "dravyaman": "",
+      "launch_vahan": "पीएसएलवी-C29",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "56",
+      "upgrah": "Kent Ridge 1 (KR 1)",
+      "desh": "सिंगापुर",
+      "launch_tithi": "16 December 2015",
+      "dravyaman": "78 kग्राम (172 पौंड)",
+      "launch_vahan": "पीएसएलवी-C29",
+      "anya_jankari": ""
+    },
+    {
+      "kram": "57",
+      "upgrah": "Galassia",
+      "desh": "सिंगापुर",
+      "launch_tithi": "16 December 2015",
+      "dravyaman": "3.4 kग्राम (7.5 पौंड)",
+      "launch_vahan": "पीएसएलवी-C29",
+      "anya_jankari": ""
+    }
+  ],
+  "meta": {
+    "title": "भारत द्वारा प्रक्षेपित विदेशी उपग्रह - Free Download",
+    "description": "इसरो द्वारा प्रक्षेपित विदेशी उपग्रहों की सूची — देश, प्रक्षेपण तिथि, द्रव्यमान और प्रक्षेपण यान। Contains 57 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत द्वारा प्रक्षेपित विदेशी उपग्रह | ListBase",
+    "seo_description": "Download भारत द्वारा प्रक्षेपित विदेशी उपग्रह — 57 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 57 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_द्वारा_प्रक्षेपित_विदेशी_उपग्रहों_की_सूची"
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "id": "hi-bharat-chawal-utpadan-varshvar",
+  "name": "भारत में चावल उत्पादन (वर्षवार)",
+  "title": "भारत में चावल उत्पादन (वर्षवार)",
+  "description": "1950-51 से भारत में चावल की खेती का क्षेत्रफल (मिलियन हेक्टेयर), उत्पादन (मिलियन टन) और उपज (किग्रा/हेक्टेयर)।",
+  "category": "agriculture",
+  "source": "https://hi.wikipedia.org/wiki/भारत_में_चावल_का_उत्पादन",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_में_चावल_का_उत्पादन",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "varsh",
+      "label": "Varsh",
+      "type": "string"
+    },
+    {
+      "key": "kshetrafal_million_hectare",
+      "label": "Kshetrafal Million Hectare",
+      "type": "number"
+    },
+    {
+      "key": "utpadan_million_ton",
+      "label": "Utpadan Million Ton",
+      "type": "number"
+    },
+    {
+      "key": "upaj_kg_hectare",
+      "label": "Upaj Kg Hectare",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "varsh": "1950-51",
+      "kshetrafal_million_hectare": 30.81,
+      "utpadan_million_ton": 20.58,
+      "upaj_kg_hectare": 668
+    },
+    {
+      "varsh": "1951-52",
+      "kshetrafal_million_hectare": 29.83,
+      "utpadan_million_ton": 21.3,
+      "upaj_kg_hectare": 714
+    },
+    {
+      "varsh": "1952-53",
+      "kshetrafal_million_hectare": 29.97,
+      "utpadan_million_ton": 22.9,
+      "upaj_kg_hectare": 764
+    },
+    {
+      "varsh": "1953-54",
+      "kshetrafal_million_hectare": 31.29,
+      "utpadan_million_ton": 28.21,
+      "upaj_kg_hectare": 902
+    },
+    {
+      "varsh": "1954-55",
+      "kshetrafal_million_hectare": 30.77,
+      "utpadan_million_ton": 25.22,
+      "upaj_kg_hectare": 820
+    },
+    {
+      "varsh": "1955-56",
+      "kshetrafal_million_hectare": 31.52,
+      "utpadan_million_ton": 27.56,
+      "upaj_kg_hectare": 874
+    },
+    {
+      "varsh": "1956-57",
+      "kshetrafal_million_hectare": 32.28,
+      "utpadan_million_ton": 29.04,
+      "upaj_kg_hectare": 900
+    },
+    {
+      "varsh": "1957-58",
+      "kshetrafal_million_hectare": 32.3,
+      "utpadan_million_ton": 25.53,
+      "upaj_kg_hectare": 790
+    },
+    {
+      "varsh": "1958-59",
+      "kshetrafal_million_hectare": 33.17,
+      "utpadan_million_ton": 30.85,
+      "upaj_kg_hectare": 930
+    },
+    {
+      "varsh": "1959-60",
+      "kshetrafal_million_hectare": 33.82,
+      "utpadan_million_ton": 31.68,
+      "upaj_kg_hectare": 937
+    },
+    {
+      "varsh": "1960-61",
+      "kshetrafal_million_hectare": 34.13,
+      "utpadan_million_ton": 34.58,
+      "upaj_kg_hectare": 1013
+    },
+    {
+      "varsh": "1961-62",
+      "kshetrafal_million_hectare": 34.69,
+      "utpadan_million_ton": 35.66,
+      "upaj_kg_hectare": 1028
+    },
+    {
+      "varsh": "1962-63",
+      "kshetrafal_million_hectare": 35.69,
+      "utpadan_million_ton": 33.21,
+      "upaj_kg_hectare": 931
+    },
+    {
+      "varsh": "1963-64",
+      "kshetrafal_million_hectare": 35.81,
+      "utpadan_million_ton": 37,
+      "upaj_kg_hectare": 1033
+    },
+    {
+      "varsh": "1964-65",
+      "kshetrafal_million_hectare": 36.46,
+      "utpadan_million_ton": 39.31,
+      "upaj_kg_hectare": 1078
+    },
+    {
+      "varsh": "1965-66",
+      "kshetrafal_million_hectare": 35.47,
+      "utpadan_million_ton": 30.59,
+      "upaj_kg_hectare": 862
+    },
+    {
+      "varsh": "1966-67",
+      "kshetrafal_million_hectare": 35.25,
+      "utpadan_million_ton": 30.44,
+      "upaj_kg_hectare": 863
+    },
+    {
+      "varsh": "1967-68",
+      "kshetrafal_million_hectare": 36.44,
+      "utpadan_million_ton": 37.61,
+      "upaj_kg_hectare": 1032
+    },
+    {
+      "varsh": "1968-69",
+      "kshetrafal_million_hectare": 36.97,
+      "utpadan_million_ton": 39.76,
+      "upaj_kg_hectare": 1076
+    },
+    {
+      "varsh": "1969-70",
+      "kshetrafal_million_hectare": 37.68,
+      "utpadan_million_ton": 40.43,
+      "upaj_kg_hectare": 1073
+    },
+    {
+      "varsh": "1970-71",
+      "kshetrafal_million_hectare": 37.59,
+      "utpadan_million_ton": 42.22,
+      "upaj_kg_hectare": 1123
+    },
+    {
+      "varsh": "1971-72",
+      "kshetrafal_million_hectare": 37.76,
+      "utpadan_million_ton": 43.07,
+      "upaj_kg_hectare": 1141
+    },
+    {
+      "varsh": "1972-73",
+      "kshetrafal_million_hectare": 36.69,
+      "utpadan_million_ton": 39.24,
+      "upaj_kg_hectare": 1070
+    },
+    {
+      "varsh": "1973-74",
+      "kshetrafal_million_hectare": 38.29,
+      "utpadan_million_ton": 44.05,
+      "upaj_kg_hectare": 1151
+    },
+    {
+      "varsh": "1974-75",
+      "kshetrafal_million_hectare": 37.89,
+      "utpadan_million_ton": 39.58,
+      "upaj_kg_hectare": 1045
+    },
+    {
+      "varsh": "1975-76",
+      "kshetrafal_million_hectare": 39.48,
+      "utpadan_million_ton": 48.74,
+      "upaj_kg_hectare": 1235
+    },
+    {
+      "varsh": "1976-77",
+      "kshetrafal_million_hectare": 38.51,
+      "utpadan_million_ton": 41.92,
+      "upaj_kg_hectare": 1088
+    },
+    {
+      "varsh": "1977-78",
+      "kshetrafal_million_hectare": 40.28,
+      "utpadan_million_ton": 52.67,
+      "upaj_kg_hectare": 1308
+    },
+    {
+      "varsh": "1978-79",
+      "kshetrafal_million_hectare": 40.48,
+      "utpadan_million_ton": 53.77,
+      "upaj_kg_hectare": 1328
+    },
+    {
+      "varsh": "1979-80",
+      "kshetrafal_million_hectare": 39.42,
+      "utpadan_million_ton": 42.33,
+      "upaj_kg_hectare": 1074
+    },
+    {
+      "varsh": "1980-81",
+      "kshetrafal_million_hectare": 40.15,
+      "utpadan_million_ton": 53.63,
+      "upaj_kg_hectare": 1336
+    },
+    {
+      "varsh": "1981-82",
+      "kshetrafal_million_hectare": 40.71,
+      "utpadan_million_ton": 53.25,
+      "upaj_kg_hectare": 1308
+    },
+    {
+      "varsh": "1982-83",
+      "kshetrafal_million_hectare": 38.26,
+      "utpadan_million_ton": 47.12,
+      "upaj_kg_hectare": 1231
+    },
+    {
+      "varsh": "1983-84",
+      "kshetrafal_million_hectare": 41.24,
+      "utpadan_million_ton": 60.1,
+      "upaj_kg_hectare": 1457
+    },
+    {
+      "varsh": "1984-85",
+      "kshetrafal_million_hectare": 41.16,
+      "utpadan_million_ton": 58.34,
+      "upaj_kg_hectare": 1417
+    },
+    {
+      "varsh": "1985-86",
+      "kshetrafal_million_hectare": 41.14,
+      "utpadan_million_ton": 63.83,
+      "upaj_kg_hectare": 1552
+    },
+    {
+      "varsh": "1986-87",
+      "kshetrafal_million_hectare": 41.17,
+      "utpadan_million_ton": 60.56,
+      "upaj_kg_hectare": 1471
+    },
+    {
+      "varsh": "1987-88",
+      "kshetrafal_million_hectare": 38.81,
+      "utpadan_million_ton": 56.86,
+      "upaj_kg_hectare": 1465
+    },
+    {
+      "varsh": "1988-89",
+      "kshetrafal_million_hectare": 41.73,
+      "utpadan_million_ton": 70.49,
+      "upaj_kg_hectare": 1689
+    },
+    {
+      "varsh": "1989-90",
+      "kshetrafal_million_hectare": 42.17,
+      "utpadan_million_ton": 73.57,
+      "upaj_kg_hectare": 1745
+    },
+    {
+      "varsh": "1990-91",
+      "kshetrafal_million_hectare": 42.69,
+      "utpadan_million_ton": 74.29,
+      "upaj_kg_hectare": 1740
+    },
+    {
+      "varsh": "1991-92",
+      "kshetrafal_million_hectare": 42.65,
+      "utpadan_million_ton": 74.68,
+      "upaj_kg_hectare": 1751
+    },
+    {
+      "varsh": "1992-93",
+      "kshetrafal_million_hectare": 41.78,
+      "utpadan_million_ton": 72.86,
+      "upaj_kg_hectare": 1744
+    },
+    {
+      "varsh": "1993-94",
+      "kshetrafal_million_hectare": 42.54,
+      "utpadan_million_ton": 80.3,
+      "upaj_kg_hectare": 1888
+    },
+    {
+      "varsh": "1994-95",
+      "kshetrafal_million_hectare": 42.81,
+      "utpadan_million_ton": 81.81,
+      "upaj_kg_hectare": 1911
+    },
+    {
+      "varsh": "1995-96",
+      "kshetrafal_million_hectare": 42.84,
+      "utpadan_million_ton": 76.98,
+      "upaj_kg_hectare": 1797
+    },
+    {
+      "varsh": "1996-97",
+      "kshetrafal_million_hectare": 43.43,
+      "utpadan_million_ton": 81.74,
+      "upaj_kg_hectare": 1882
+    },
+    {
+      "varsh": "1997-98",
+      "kshetrafal_million_hectare": 43.45,
+      "utpadan_million_ton": 82.53,
+      "upaj_kg_hectare": 1900
+    },
+    {
+      "varsh": "1998-99",
+      "kshetrafal_million_hectare": 44.8,
+      "utpadan_million_ton": 86.03,
+      "upaj_kg_hectare": 1920
+    },
+    {
+      "varsh": "1999-00",
+      "kshetrafal_million_hectare": 44.97,
+      "utpadan_million_ton": 89.48,
+      "upaj_kg_hectare": 1990
+    }
+  ],
+  "meta": {
+    "title": "भारत में चावल उत्पादन (वर्षवार) - Free Download",
+    "description": "1950-51 से भारत में चावल की खेती का क्षेत्रफल (मिलियन हेक्टेयर), उत्पादन (मिलियन टन) और उपज (किग्रा/हेक्टेयर)। Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत में चावल उत्पादन (वर्षवार) | ListBase",
+    "seo_description": "Download भारत में चावल उत्पादन (वर्षवार) — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_में_चावल_का_उत्पादन"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:25.637Z",
-  "total_datasets": 429,
-  "total_records": 2009885,
+  "generated": "2026-10-27T02:32:28.231Z",
+  "total_datasets": 430,
+  "total_records": 2009917,
   "categories": [
     {
       "id": "agriculture",
@@ -11,6 +11,10 @@
     {
       "id": "culture",
       "dataset_count": 5
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -283,6 +287,30 @@
         "xlsx": {
           "name": "hi-shastriya-nritya-shailiyan_HI.xlsx",
           "size": 10047
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-kampaniyan",
+      "name": "भारतीय कंपनियों की सूची",
+      "category": "economy",
+      "record_count": 32,
+      "columns": [
+        "kampani",
+        "mukhyalay",
+        "rajasv_billion_usd"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_कंपनियों_की_सूची",
+      "updated": "2026-10",
+      "size": 6922,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-kampaniyan_HI.csv",
+          "size": 2610
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-kampaniyan_HI.xlsx",
+          "size": 7950
         }
       }
     },

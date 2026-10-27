@@ -1,0 +1,201 @@
+{
+  "id": "hi-bharatiya-kampaniyan",
+  "name": "भारतीय कंपनियों की सूची",
+  "title": "भारतीय कंपनियों की सूची",
+  "description": "प्रमुख भारतीय कंपनियाँ, उनके मुख्यालय और राजस्व (बिलियन अमरीकी डॉलर)।",
+  "category": "economy",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_कंपनियों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_कंपनियों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "kampani",
+      "label": "Kampani",
+      "type": "string"
+    },
+    {
+      "key": "mukhyalay",
+      "label": "Mukhyalay",
+      "type": "string"
+    },
+    {
+      "key": "rajasv_billion_usd",
+      "label": "Rajasv Billion Usd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kampani": "इंडियन ऑयल कारपोरेशन",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 53.77
+    },
+    {
+      "kampani": "टाटा समूह",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 28.9
+    },
+    {
+      "kampani": "रिलायंस इंडस्ट्रीज",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 28.34
+    },
+    {
+      "kampani": "आदित्य बिड़ला समूह",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 24.12
+    },
+    {
+      "kampani": "हिंदुस्तान पेट्रोलियम",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 18.1
+    },
+    {
+      "kampani": "भारत पेट्रोलियम",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 17.6
+    },
+    {
+      "kampani": "तेल एवं प्राकृतिक गैस निगम",
+      "mukhyalay": "देहरादून",
+      "rajasv_billion_usd": 16.6
+    },
+    {
+      "kampani": "भारतीय स्टेट बैंक",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 13.77
+    },
+    {
+      "kampani": "सहारा इंडिया परिवार",
+      "mukhyalay": "लखनऊ",
+      "rajasv_billion_usd": 10.87
+    },
+    {
+      "kampani": "भारतीय इस्पात प्राधिकरण",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 6.42
+    },
+    {
+      "kampani": "राष्ट्रीय जलविद्युत निगम",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 6.06
+    },
+    {
+      "kampani": "एस्सार समूह",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 5.83
+    },
+    {
+      "kampani": "आईसीआईसीआई बैंक",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 5.79
+    },
+    {
+      "kampani": "लार्सन ऐंड टुब्रो",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 5.31
+    },
+    {
+      "kampani": "हिंदुस्तान कम्प्यूटर लिमिटेड",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 4.83
+    },
+    {
+      "kampani": "आईटीसी लिमिटेड",
+      "mukhyalay": "कोलकाता",
+      "rajasv_billion_usd": 4.75
+    },
+    {
+      "kampani": "भारती इंटरप्राइजेज",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 4.65
+    },
+    {
+      "kampani": "महिन्द्रा ऐंड महिन्द्रा लिमिटेड",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 4.57
+    },
+    {
+      "kampani": "रिलायंस कम्युनिकेशंस",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 4.49
+    },
+    {
+      "kampani": "जिंदल स्टील",
+      "mukhyalay": "हिसार",
+      "rajasv_billion_usd": 4.38
+    },
+    {
+      "kampani": "भारतीय गैस प्राधिकरण लिमिटेड",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 4.21
+    },
+    {
+      "kampani": "वीडियोकॉन",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 4.13
+    },
+    {
+      "kampani": "वेदांत रिसोर्सेज",
+      "mukhyalay": "दिल्ली/ लंदन",
+      "rajasv_billion_usd": 3.71
+    },
+    {
+      "kampani": "विप्रो",
+      "mukhyalay": "बैंगलोर",
+      "rajasv_billion_usd": 3.47
+    },
+    {
+      "kampani": "भारत हेवी इलेक्ट्रिकल्स लिमिटेड",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 3.43
+    },
+    {
+      "kampani": "इन्फोसिस",
+      "mukhyalay": "बैंगलोर",
+      "rajasv_billion_usd": 3.14
+    },
+    {
+      "kampani": "इन्फोसीक साफ्टवेयर सिस्टम्स",
+      "mukhyalay": "लखनऊ",
+      "rajasv_billion_usd": ""
+    },
+    {
+      "kampani": "हीरो होंडा",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 2.87
+    },
+    {
+      "kampani": "पंजाब नेशनल बैंक",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 2.63
+    },
+    {
+      "kampani": "मारूति सुजुकी",
+      "mukhyalay": "दिल्ली",
+      "rajasv_billion_usd": 2.51
+    },
+    {
+      "kampani": "केनरा बैंक",
+      "mukhyalay": "बैंगलोर",
+      "rajasv_billion_usd": 2.29
+    },
+    {
+      "kampani": "बैंक ऑफ बड़ौदा",
+      "mukhyalay": "मुंबई",
+      "rajasv_billion_usd": 2.07
+    }
+  ],
+  "meta": {
+    "title": "भारतीय कंपनियों की सूची - Free Download",
+    "description": "प्रमुख भारतीय कंपनियाँ, उनके मुख्यालय और राजस्व (बिलियन अमरीकी डॉलर)। Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय कंपनियों की सूची | ListBase",
+    "seo_description": "Download भारतीय कंपनियों की सूची — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_कंपनियों_की_सूची"
+    ]
+  }
+}

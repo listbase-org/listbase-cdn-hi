@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:23.342Z",
-  "total_datasets": 428,
-  "total_records": 2009829,
+  "generated": "2026-10-27T02:32:25.637Z",
+  "total_datasets": 429,
+  "total_records": 2009885,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -9896,6 +9896,30 @@
         "xlsx": {
           "name": "hi-west-bengal-jile_HI.xlsx",
           "size": 8403
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-ganitagya",
+      "name": "भारतीय गणितज्ञों की सूची",
+      "category": "science",
+      "record_count": 56,
+      "columns": [
+        "ganitagya",
+        "vivaran",
+        "kaal"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_गणितज्ञों_की_सूची",
+      "updated": "2026-10",
+      "size": 11186,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-ganitagya_HI.csv",
+          "size": 5741
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-ganitagya_HI.xlsx",
+          "size": 8836
         }
       }
     },

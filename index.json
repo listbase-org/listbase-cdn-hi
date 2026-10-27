@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:38.301Z",
-  "total_datasets": 434,
-  "total_records": 2010123,
+  "generated": "2026-10-27T02:32:40.905Z",
+  "total_datasets": 435,
+  "total_records": 2010187,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "economy",
@@ -215,6 +215,31 @@
         "xlsx": {
           "name": "hi-bharat-ratna-vijeta_HI.xlsx",
           "size": 12949
+        }
+      }
+    },
+    {
+      "id": "hi-gyanpith-puraskar",
+      "name": "ज्ञानपीठ पुरस्कार विजेता",
+      "category": "culture",
+      "record_count": 64,
+      "columns": [
+        "varsh",
+        "naam",
+        "kriti",
+        "bhasha"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/ज्ञानपीठ_पुरस्कार",
+      "updated": "2026-10",
+      "size": 13200,
+      "files": {
+        "csv": {
+          "name": "hi-gyanpith-puraskar_HI.csv",
+          "size": 6379
+        },
+        "xlsx": {
+          "name": "hi-gyanpith-puraskar_HI.xlsx",
+          "size": 9734
         }
       }
     },

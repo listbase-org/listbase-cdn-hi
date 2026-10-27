@@ -1,0 +1,226 @@
+{
+  "id": "hi-rajya-jeevan-pratyasha",
+  "name": "जीवन प्रत्याशा के आधार पर भारत के राज्य",
+  "title": "जीवन प्रत्याशा के आधार पर भारत के राज्य",
+  "description": "भारत के राज्यों में जन्म के समय जीवन प्रत्याशा (वर्ष)।",
+  "category": "health",
+  "source": "https://hi.wikipedia.org/wiki/जीवन_प्रत्याशा_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/जीवन_प्रत्याशा_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "sthan",
+      "label": "Sthan",
+      "type": "number"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "jeevan_pratyasha",
+      "label": "Jeevan Pratyasha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sthan": "1",
+      "rajya": "केरल",
+      "jeevan_pratyasha": 78.04
+    },
+    {
+      "sthan": "2",
+      "rajya": "पुदुचेरी",
+      "jeevan_pratyasha": 77.59
+    },
+    {
+      "sthan": "3",
+      "rajya": "गोवा",
+      "jeevan_pratyasha": 77.07
+    },
+    {
+      "sthan": "4",
+      "rajya": "जम्मू और कश्मीर",
+      "jeevan_pratyasha": 76.26
+    },
+    {
+      "sthan": "5",
+      "rajya": "अरुणाचल प्रदेश",
+      "jeevan_pratyasha": 76.15
+    },
+    {
+      "sthan": "6",
+      "rajya": "अंडमान व नोकोबार द्वीप समूह",
+      "jeevan_pratyasha": 75.74
+    },
+    {
+      "sthan": "7",
+      "rajya": "दमन और दीव",
+      "jeevan_pratyasha": 75.72
+    },
+    {
+      "sthan": "8",
+      "rajya": "सिक्किम",
+      "jeevan_pratyasha": 75.57
+    },
+    {
+      "sthan": "9",
+      "rajya": "तमिलनाडु",
+      "jeevan_pratyasha": 74.98
+    },
+    {
+      "sthan": "10",
+      "rajya": "चंडीगढ़",
+      "jeevan_pratyasha": 74.69
+    },
+    {
+      "sthan": "11",
+      "rajya": "महाराष्ट्र",
+      "jeevan_pratyasha": 74.53
+    },
+    {
+      "sthan": "12",
+      "rajya": "मणिपुर",
+      "jeevan_pratyasha": 74.36
+    },
+    {
+      "sthan": "13",
+      "rajya": "कर्नाटक",
+      "jeevan_pratyasha": 74.27
+    },
+    {
+      "sthan": "14",
+      "rajya": "लक्षद्वीप",
+      "jeevan_pratyasha": 74.27
+    },
+    {
+      "sthan": "15",
+      "rajya": "मिजोरम",
+      "jeevan_pratyasha": 74.21
+    },
+    {
+      "sthan": "16",
+      "rajya": "नगालैंड",
+      "jeevan_pratyasha": 74.13
+    },
+    {
+      "sthan": "17",
+      "rajya": "हिमाचल प्रदेश",
+      "jeevan_pratyasha": 74.11
+    },
+    {
+      "sthan": "18",
+      "rajya": "पश्चिम बंगाल",
+      "jeevan_pratyasha": 74.09
+    },
+    {
+      "sthan": "19",
+      "rajya": "नई दिल्ली",
+      "jeevan_pratyasha": 73.77
+    },
+    {
+      "sthan": "20",
+      "rajya": "तेलंगाना",
+      "jeevan_pratyasha": 73.67
+    },
+    {
+      "sthan": "21",
+      "rajya": "दादरा और नगर हवेली",
+      "jeevan_pratyasha": 73.12
+    },
+    {
+      "sthan": "22",
+      "rajya": "पंजाब",
+      "jeevan_pratyasha": 72.91
+    },
+    {
+      "sthan": "23",
+      "rajya": "गुजरात",
+      "jeevan_pratyasha": 72.74
+    },
+    {
+      "sthan": "24",
+      "rajya": "असम",
+      "jeevan_pratyasha": 72.72
+    },
+    {
+      "sthan": "25",
+      "rajya": "मेघालय",
+      "jeevan_pratyasha": 72.63
+    },
+    {
+      "sthan": "26",
+      "rajya": "आंध्र प्रदेश",
+      "jeevan_pratyasha": 72.48
+    },
+    {
+      "sthan": "27",
+      "rajya": "राजस्थान",
+      "jeevan_pratyasha": 72.38
+    },
+    {
+      "sthan": "28",
+      "rajya": "हरियाणा",
+      "jeevan_pratyasha": 72.31
+    },
+    {
+      "sthan": "-",
+      "rajya": "भारत",
+      "jeevan_pratyasha": 72
+    },
+    {
+      "sthan": "29",
+      "rajya": "उत्तराखंड",
+      "jeevan_pratyasha": 71.98
+    },
+    {
+      "sthan": "30",
+      "rajya": "ओडिशा",
+      "jeevan_pratyasha": 71.79
+    },
+    {
+      "sthan": "31",
+      "rajya": "छत्तीसगढ़",
+      "jeevan_pratyasha": 71.35
+    },
+    {
+      "sthan": "32",
+      "rajya": "त्रिपुरा",
+      "jeevan_pratyasha": 71.15
+    },
+    {
+      "sthan": "33",
+      "rajya": "झारखंड",
+      "jeevan_pratyasha": 71.04
+    },
+    {
+      "sthan": "34",
+      "rajya": "मध्य प्रदेश",
+      "jeevan_pratyasha": 70.64
+    },
+    {
+      "sthan": "35",
+      "rajya": "बिहार",
+      "jeevan_pratyasha": 69.78
+    },
+    {
+      "sthan": "36",
+      "rajya": "उत्तर प्रदेश",
+      "jeevan_pratyasha": 69.57
+    }
+  ],
+  "meta": {
+    "title": "जीवन प्रत्याशा के आधार पर भारत के राज्य - Free Download",
+    "description": "भारत के राज्यों में जन्म के समय जीवन प्रत्याशा (वर्ष)। Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "जीवन प्रत्याशा के आधार पर भारत के राज्य | ListBase",
+    "seo_description": "Download जीवन प्रत्याशा के आधार पर भारत के राज्य — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/जीवन_प्रत्याशा_के_आधार_पर_भारत_के_राज्यों_की_सूची"
+    ]
+  }
+}

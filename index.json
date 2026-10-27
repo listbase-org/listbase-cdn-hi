@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:33:05.739Z",
-  "total_datasets": 445,
-  "total_records": 2010551,
+  "generated": "2026-10-27T02:33:08.232Z",
+  "total_datasets": 446,
+  "total_records": 2010622,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "economy",
@@ -295,6 +295,31 @@
         "xlsx": {
           "name": "hi-lok-nritya-rajya_HI.xlsx",
           "size": 12007
+        }
+      }
+    },
+    {
+      "id": "hi-sahitya-akademi-puraskar-hindi",
+      "name": "साहित्य अकादमी पुरस्कार (हिन्दी)",
+      "category": "culture",
+      "record_count": 71,
+      "columns": [
+        "varsh",
+        "lekhak",
+        "kriti",
+        "shaili"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/साहित्य_अकादमी_पुरस्कार_हिन्दी",
+      "updated": "2026-10",
+      "size": 16017,
+      "files": {
+        "csv": {
+          "name": "hi-sahitya-akademi-puraskar-hindi_HI.csv",
+          "size": 8352
+        },
+        "xlsx": {
+          "name": "hi-sahitya-akademi-puraskar-hindi_HI.xlsx",
+          "size": 10548
         }
       }
     },

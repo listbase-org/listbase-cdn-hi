@@ -1,0 +1,364 @@
+{
+  "id": "hi-bharatiya-vadya-yantra",
+  "name": "भारतीय वाद्य यंत्र",
+  "title": "भारतीय वाद्य यंत्र",
+  "description": "भारतीय वाद्य यंत्रों की सूची — तारयुक्त, वायु, ताल (अवनद्ध) और घन वाद्य श्रेणियों के अनुसार।",
+  "category": "music",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_वाद्य_यंत्र",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_वाद्य_यंत्र",
+  "updated": "2026-10",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "vadya_yantra",
+      "label": "Vadya Yantra",
+      "type": "string"
+    },
+    {
+      "key": "shreni",
+      "label": "Shreni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vadya_yantra": "बुलबुल तरंग",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "दोतार, या दोतारा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "एकतारा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "गोपीचन्द या गोपीयन्त्र या खमक",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "गोट्टुवाद्यम् या चित्रवीणा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "सन्तूर",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "सरोद",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "सितार",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "सुरबहार",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "सुरशृंगार",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "Swarabat",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "स्वरमण्डल",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "तम्बूरा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "तुम्बी",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "टुनटुन",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "मगादि वीणा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "मोहन वीणा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "नकुल वीणा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "नन्दनी",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "रूद्र वीणा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "सरस्वती वीणा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "विचित्र वीणा",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "मयूरी वीणा या Taus",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "रावणहठ",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "लोक सारंगी",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "शास्त्रीय सारंगी",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "तार शहनाई",
+      "shreni": "तारयुक्त वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "शहनाई",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "सुन्दरी",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "बाँसुरी",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "वेणु (कर्नाटक की वाँसुरी)",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "पुंगी या बीन",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "नादस्वरम्",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "मशक",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "Titti",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "श्रुति उपांग",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "Gogona",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "Morsing",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "श्रुति बाक्स",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "हारमोनियम",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "एक्कालम",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "कोम्बु",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "Ramsinga",
+      "shreni": "वायु से बजने वाले वाद्ययंत्र"
+    },
+    {
+      "vadya_yantra": "Daff, duff, daf or duf - medium or large frame drum without jingles, of Persian origin",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Dimdi or dimri - small frame drum without jingles",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Kanjira - small frame drum with one jingle",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Kansi - small without jingles",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Patayani thappu - medium frame drum played with hands",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Chenda",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "ढोल्लु",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Dhak",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "ढोल",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "ढोली",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Idakka",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Thavil",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "उदुकै",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Chande",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Nagara - pair of kettledrums",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Pambai - unit of two cylindrical drums",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Parai thappu - medium frame drum played with two sticks",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Sambal",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Stick daff or stick duff - daff in a stand played with sticks",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Tamak'",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Tasha - type of kettledrum",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Urumee",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "चिमटा - fire tong with brass jingles",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Chengila",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Elathalam",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Geger - brass vessel",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "घटम और मटकम (Earthenware pot drum)",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "घुंगरू",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Khartal or Chiplya",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "मंजीरा या झांझ या ताल",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Nut - clay pot",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "शंकरजंग - lithophone",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "Thattukazhi mannai",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "जल तरंग, पानी के साथ सिरेमिक कटोरे",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "काँच तरंग, एक का प्रकार ग्लास हार्प",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "काष्ठ तरंग, एक का प्रकार जेलोफोन",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "लोह तरंग,धातु प्लेटों का एक सेट",
+      "shreni": "Percussion instruments"
+    },
+    {
+      "vadya_yantra": "एलेक्ट्रॉनिक तानपुरा",
+      "shreni": "एलेक्ट्रानिक"
+    },
+    {
+      "vadya_yantra": "तालमीटर",
+      "shreni": "एलेक्ट्रानिक"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय वाद्य यंत्र - Free Download",
+    "description": "भारतीय वाद्य यंत्रों की सूची — तारयुक्त, वायु, ताल (अवनद्ध) और घन वाद्य श्रेणियों के अनुसार। Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय वाद्य यंत्र | ListBase",
+    "seo_description": "Download भारतीय वाद्य यंत्र — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_वाद्य_यंत्र"
+    ]
+  }
+}

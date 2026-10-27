@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:32:45.775Z",
-  "total_datasets": 437,
-  "total_records": 2010277,
+  "generated": "2026-10-27T02:32:48.195Z",
+  "total_datasets": 438,
+  "total_records": 2010312,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -6183,6 +6183,31 @@
         "xlsx": {
           "name": "hi-lipiyan_HI.xlsx",
           "size": 11111
+        }
+      }
+    },
+    {
+      "id": "hi-rajya-hindi-bhashi",
+      "name": "हिन्दी भाषियों की संख्या के आधार पर भारत के राज्य",
+      "category": "language",
+      "record_count": 35,
+      "columns": [
+        "sthan",
+        "rajya",
+        "hindi_bhashi_sankhya",
+        "hindi_bhashi_pratishat"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/हिन्दी_भाषियों_की_संख्या_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+      "updated": "2026-10",
+      "size": 8028,
+      "files": {
+        "csv": {
+          "name": "hi-rajya-hindi-bhashi_HI.csv",
+          "size": 1852
+        },
+        "xlsx": {
+          "name": "hi-rajya-hindi-bhashi_HI.xlsx",
+          "size": 8103
         }
       }
     },

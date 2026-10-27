@@ -1,0 +1,256 @@
+{
+  "id": "hi-rajya-hindi-bhashi",
+  "name": "हिन्दी भाषियों की संख्या के आधार पर भारत के राज्य",
+  "title": "हिन्दी भाषियों की संख्या के आधार पर भारत के राज्य",
+  "description": "भारत के राज्यों और केंद्र शासित प्रदेशों में हिन्दी भाषियों की संख्या और प्रतिशत।",
+  "category": "language",
+  "source": "https://hi.wikipedia.org/wiki/हिन्दी_भाषियों_की_संख्या_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/हिन्दी_भाषियों_की_संख्या_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "sthan",
+      "label": "Sthan",
+      "type": "number"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "hindi_bhashi_sankhya",
+      "label": "Hindi Bhashi Sankhya",
+      "type": "number"
+    },
+    {
+      "key": "hindi_bhashi_pratishat",
+      "label": "Hindi Bhashi Pratishat",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sthan": 1,
+      "rajya": "उत्तर प्रदेश",
+      "hindi_bhashi_sankhya": 151770131,
+      "hindi_bhashi_pratishat": 91.4
+    },
+    {
+      "sthan": 2,
+      "rajya": "बिहार",
+      "hindi_bhashi_sankhya": 60635284,
+      "hindi_bhashi_pratishat": 73.16
+    },
+    {
+      "sthan": 3,
+      "rajya": "मध्य प्रदेश",
+      "hindi_bhashi_sankhya": 52658687,
+      "hindi_bhashi_pratishat": 87.2
+    },
+    {
+      "sthan": 4,
+      "rajya": "राजस्थान",
+      "hindi_bhashi_sankhya": 51407216,
+      "hindi_bhashi_pratishat": 91.03
+    },
+    {
+      "sthan": 5,
+      "rajya": "हरियाणा",
+      "hindi_bhashi_sankhya": 18460843,
+      "hindi_bhashi_pratishat": 87.56
+    },
+    {
+      "sthan": 6,
+      "rajya": "छत्तीसगढ़",
+      "hindi_bhashi_sankhya": 17210481,
+      "hindi_bhashi_pratishat": 82.76
+    },
+    {
+      "sthan": 7,
+      "rajya": "झारखण्ड",
+      "hindi_bhashi_sankhya": 15510587,
+      "hindi_bhashi_pratishat": 57.64
+    },
+    {
+      "sthan": 8,
+      "rajya": "दिल्ली",
+      "hindi_bhashi_sankhya": 11210843,
+      "hindi_bhashi_pratishat": 81.34
+    },
+    {
+      "sthan": 9,
+      "rajya": "महाराष्ट्र",
+      "hindi_bhashi_sankhya": 10681641,
+      "hindi_bhashi_pratishat": 11.04
+    },
+    {
+      "sthan": 10,
+      "rajya": "उत्तराखण्ड",
+      "hindi_bhashi_sankhya": 7466413,
+      "hindi_bhashi_pratishat": 88.05
+    },
+    {
+      "sthan": 11,
+      "rajya": "पश्चिम बंगाल",
+      "hindi_bhashi_sankhya": 5747099,
+      "hindi_bhashi_pratishat": 7.16
+    },
+    {
+      "sthan": 12,
+      "rajya": "हिमाचल प्रदेश",
+      "hindi_bhashi_sankhya": 5409758,
+      "hindi_bhashi_pratishat": 89.02
+    },
+    {
+      "sthan": 13,
+      "rajya": "आंध्र प्रदेश",
+      "hindi_bhashi_sankhya": 2464194,
+      "hindi_bhashi_pratishat": 3.25
+    },
+    {
+      "sthan": 14,
+      "rajya": "गुजरात",
+      "hindi_bhashi_sankhya": 2388814,
+      "hindi_bhashi_pratishat": 4.72
+    },
+    {
+      "sthan": 15,
+      "rajya": "जम्मू और कश्मीर",
+      "hindi_bhashi_sankhya": 1870264,
+      "hindi_bhashi_pratishat": 18.57
+    },
+    {
+      "sthan": 16,
+      "rajya": "पंजाब",
+      "hindi_bhashi_sankhya": 1851128,
+      "hindi_bhashi_pratishat": 7.62
+    },
+    {
+      "sthan": 17,
+      "rajya": "असम",
+      "hindi_bhashi_sankhya": 1569662,
+      "hindi_bhashi_pratishat": 5.89
+    },
+    {
+      "sthan": 18,
+      "rajya": "कर्णाटक",
+      "hindi_bhashi_sankhya": 1344877,
+      "hindi_bhashi_pratishat": 2.55
+    },
+    {
+      "sthan": 19,
+      "rajya": "उडी़सा",
+      "hindi_bhashi_sankhya": 1043243,
+      "hindi_bhashi_pratishat": 2.84
+    },
+    {
+      "sthan": 20,
+      "rajya": "चण्डीगढ़",
+      "hindi_bhashi_sankhya": 608218,
+      "hindi_bhashi_pratishat": 67.51
+    },
+    {
+      "sthan": 21,
+      "rajya": "तमिल नाडु",
+      "hindi_bhashi_sankhya": 189474,
+      "hindi_bhashi_pratishat": 0.31
+    },
+    {
+      "sthan": 22,
+      "rajya": "अरुणाचल प्रदेश",
+      "hindi_bhashi_sankhya": 81186,
+      "hindi_bhashi_pratishat": 7.44
+    },
+    {
+      "sthan": 23,
+      "rajya": "गोआ",
+      "hindi_bhashi_sankhya": 76775,
+      "hindi_bhashi_pratishat": 5.71
+    },
+    {
+      "sthan": 24,
+      "rajya": "अण्डमान एवं निकोबार द्वीपसमूह",
+      "hindi_bhashi_sankhya": 64933,
+      "hindi_bhashi_pratishat": 18.23
+    },
+    {
+      "sthan": 25,
+      "rajya": "नागालैण्ड",
+      "hindi_bhashi_sankhya": 56981,
+      "hindi_bhashi_pratishat": 2.87
+    },
+    {
+      "sthan": 26,
+      "rajya": "त्रिपुरा",
+      "hindi_bhashi_sankhya": 53691,
+      "hindi_bhashi_pratishat": 1.68
+    },
+    {
+      "sthan": 27,
+      "rajya": "मेघालय",
+      "hindi_bhashi_sankhya": 50055,
+      "hindi_bhashi_pratishat": 2.17
+    },
+    {
+      "sthan": 28,
+      "rajya": "सिक्किम",
+      "hindi_bhashi_sankhya": 36072,
+      "hindi_bhashi_pratishat": 6.67
+    },
+    {
+      "sthan": 29,
+      "rajya": "दादर और नागर हवेली",
+      "hindi_bhashi_sankhya": 33237,
+      "hindi_bhashi_pratishat": 15.08
+    },
+    {
+      "sthan": 30,
+      "rajya": "दमन और दीव",
+      "hindi_bhashi_sankhya": 30754,
+      "hindi_bhashi_pratishat": 19.46
+    },
+    {
+      "sthan": 31,
+      "rajya": "केरल",
+      "hindi_bhashi_sankhya": 26386,
+      "hindi_bhashi_pratishat": 0.08
+    },
+    {
+      "sthan": 32,
+      "rajya": "मणिपुर",
+      "hindi_bhashi_sankhya": 24720,
+      "hindi_bhashi_pratishat": 1.03
+    },
+    {
+      "sthan": 33,
+      "rajya": "मिज़ोरम",
+      "hindi_bhashi_sankhya": 10530,
+      "hindi_bhashi_pratishat": 1.18
+    },
+    {
+      "sthan": 34,
+      "rajya": "पाण्डिचेरी",
+      "hindi_bhashi_sankhya": 4357,
+      "hindi_bhashi_pratishat": 0.45
+    },
+    {
+      "sthan": 35,
+      "rajya": "लक्षद्वीप",
+      "hindi_bhashi_sankhya": 108,
+      "hindi_bhashi_pratishat": 0.18
+    }
+  ],
+  "meta": {
+    "title": "हिन्दी भाषियों की संख्या के आधार पर भारत के राज्य - Free Download",
+    "description": "भारत के राज्यों और केंद्र शासित प्रदेशों में हिन्दी भाषियों की संख्या और प्रतिशत। Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "हिन्दी भाषियों की संख्या के आधार पर भारत के राज्य | ListBase",
+    "seo_description": "Download हिन्दी भाषियों की संख्या के आधार पर भारत के राज्य — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/हिन्दी_भाषियों_की_संख्या_के_आधार_पर_भारत_के_राज्यों_की_सूची"
+    ]
+  }
+}

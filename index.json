@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-27T02:33:13.127Z",
-  "total_datasets": 448,
-  "total_records": 2010708,
+  "generated": "2026-10-28T02:25:41.414Z",
+  "total_datasets": 449,
+  "total_records": 2010932,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -10483,6 +10483,37 @@
         "xlsx": {
           "name": "hi-rajya-shishu-linganupat_HI.xlsx",
           "size": 8383
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ekdivasiya-cricket-khiladi",
+      "name": "भारत के एकदिवसीय क्रिकेट खिलाड़ियों की सूची",
+      "category": "sports",
+      "record_count": 224,
+      "columns": [
+        "cap",
+        "name",
+        "years",
+        "matches",
+        "runs",
+        "highest_score",
+        "batting_average",
+        "wickets",
+        "catches",
+        "era"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_एकदिवसीय_क्रिकेट_खिलाड़ियों_की_सूची",
+      "updated": "2026-10",
+      "size": 66681,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ekdivasiya-cricket-khiladi_HI.csv",
+          "size": 23165
+        },
+        "xlsx": {
+          "name": "hi-bharat-ekdivasiya-cricket-khiladi_HI.xlsx",
+          "size": 21672
         }
       }
     },

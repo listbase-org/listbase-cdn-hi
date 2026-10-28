@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-28T02:25:46.211Z",
-  "total_datasets": 451,
-  "total_records": 2011356,
+  "generated": "2026-10-28T02:25:48.736Z",
+  "total_datasets": 452,
+  "total_records": 2011483,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -6319,6 +6319,30 @@
         "xlsx": {
           "name": "hi-governor-general-viceroy_HI.xlsx",
           "size": 9216
+        }
+      }
+    },
+    {
+      "id": "hi-hind-arya-bhashayen",
+      "name": "हिन्द-आर्य भाषाओं की सूची",
+      "category": "language",
+      "record_count": 127,
+      "columns": [
+        "language",
+        "group",
+        "region"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/हिन्द-आर्य_भाषाओं_की_सूची",
+      "updated": "2026-10",
+      "size": 27524,
+      "files": {
+        "csv": {
+          "name": "hi-hind-arya-bhashayen_HI.csv",
+          "size": 17585
+        },
+        "xlsx": {
+          "name": "hi-hind-arya-bhashayen_HI.xlsx",
+          "size": 10231
         }
       }
     },

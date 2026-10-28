@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-28T02:25:43.992Z",
-  "total_datasets": 450,
-  "total_records": 2011207,
+  "generated": "2026-10-28T02:25:46.211Z",
+  "total_datasets": 451,
+  "total_records": 2011356,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -6270,6 +6270,29 @@
         "xlsx": {
           "name": "hi-aitihasik-rajvansh_HI.xlsx",
           "size": 26092
+        }
+      }
+    },
+    {
+      "id": "hi-british-bharat-riyasaten",
+      "name": "ब्रिटिशकालीन भारत की रियासतें (1947)",
+      "category": "history",
+      "record_count": 149,
+      "columns": [
+        "princely_state",
+        "agency"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/ब्रिटिशकालीन_भारत_के_रियासतों_की_सूची",
+      "updated": "2026-10",
+      "size": 30099,
+      "files": {
+        "csv": {
+          "name": "hi-british-bharat-riyasaten_HI.csv",
+          "size": 20013
+        },
+        "xlsx": {
+          "name": "hi-british-bharat-riyasaten_HI.xlsx",
+          "size": 9671
         }
       }
     },

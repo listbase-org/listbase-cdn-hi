@@ -1,0 +1,1627 @@
+{
+  "id": "hi-hindi-television-channel",
+  "name": "हिंदी टेलीविजन चैनलों की सूची",
+  "title": "हिंदी टेलीविजन चैनलों की सूची",
+  "description": "हिंदी भाषा के टेलीविजन चैनलों की श्रेणीवार सूची — शुरुआत का वर्ष, स्वामी और सक्रिय/बंद स्थिति सहित।",
+  "category": "entertainment",
+  "source": "https://hi.wikipedia.org/wiki/हिंदी_टेलीविजन_चैनलों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/हिंदी_टेलीविजन_चैनलों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 174,
+  "columns": [
+    {
+      "key": "channel",
+      "label": "Channel",
+      "type": "string"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "number"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "channel": "डीडी नेशनल",
+      "genre": "सरकारी चैनल",
+      "status": "सक्रिय",
+      "launched": "1959",
+      "closed": "",
+      "owner": "दूरदर्शन, प्रसार भारती",
+      "notes": ""
+    },
+    {
+      "channel": "डीडी भारती",
+      "genre": "सरकारी चैनल",
+      "status": "सक्रिय",
+      "launched": "2002",
+      "closed": "",
+      "owner": "दूरदर्शन, प्रसार भारती",
+      "notes": ""
+    },
+    {
+      "channel": "संसद टीवी 1",
+      "genre": "सरकारी चैनल",
+      "status": "सक्रिय",
+      "launched": "2021",
+      "closed": "",
+      "owner": "भारत सरकार",
+      "notes": ""
+    },
+    {
+      "channel": "संसद टीवी 2",
+      "genre": "सरकारी चैनल",
+      "status": "सक्रिय",
+      "launched": "2021",
+      "closed": "",
+      "owner": "भारत सरकार",
+      "notes": ""
+    },
+    {
+      "channel": "डीडी मेट्रो",
+      "genre": "सरकारी चैनल",
+      "status": "बंद",
+      "launched": "1984",
+      "closed": "2003",
+      "owner": "दूरदर्शन, प्रसार भारती",
+      "notes": ""
+    },
+    {
+      "channel": "डीडी रेट्रो",
+      "genre": "सरकारी चैनल",
+      "status": "बंद",
+      "launched": "2020",
+      "closed": "2023",
+      "owner": "दूरदर्शन, प्रसार भारती",
+      "notes": ""
+    },
+    {
+      "channel": "लोकसभा टीवी",
+      "genre": "सरकारी चैनल",
+      "status": "बंद",
+      "launched": "1989",
+      "closed": "2021",
+      "owner": "लोकसभा",
+      "notes": ""
+    },
+    {
+      "channel": "राज्य सभा टीवी",
+      "genre": "सरकारी चैनल",
+      "status": "बंद",
+      "launched": "2002",
+      "closed": "2021",
+      "owner": "भारतीय संसद",
+      "notes": ""
+    },
+    {
+      "channel": "स्टार प्लस",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "1992",
+      "closed": "",
+      "owner": "जियोस्टार",
+      "notes": ""
+    },
+    {
+      "channel": "स्टार भारत",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2017",
+      "closed": "",
+      "owner": "जियोस्टार",
+      "notes": ""
+    },
+    {
+      "channel": "स्टार उत्सव",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2004",
+      "closed": "",
+      "owner": "जियोस्टार",
+      "notes": ""
+    },
+    {
+      "channel": "कलर्स टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2008",
+      "closed": "",
+      "owner": "जियोस्टार",
+      "notes": ""
+    },
+    {
+      "channel": "कलर्स रिश्ते",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2013",
+      "closed": "",
+      "owner": "जियोस्टार",
+      "notes": ""
+    },
+    {
+      "channel": "ज़ी टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "1992",
+      "closed": "",
+      "owner": "ज़ी एंटरटेनमेंट एंटरप्राइजेज",
+      "notes": ""
+    },
+    {
+      "channel": "& टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2015",
+      "closed": "",
+      "owner": "ज़ी एंटरटेनमेंट एंटरप्राइजेज",
+      "notes": ""
+    },
+    {
+      "channel": "अनमोल टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2013",
+      "closed": "",
+      "owner": "ज़ी एंटरटेनमेंट एंटरप्राइजेज",
+      "notes": ""
+    },
+    {
+      "channel": "बिग मैजिक",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2011",
+      "closed": "",
+      "owner": "ज़ी एंटरटेनमेंट एंटरप्राइजेज",
+      "notes": ""
+    },
+    {
+      "channel": "सोनी एंटरटेनमेंट टेलीविजन",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "1995",
+      "closed": "",
+      "owner": "कल्वर मैक्स एंटरटेनमेंट",
+      "notes": ""
+    },
+    {
+      "channel": "सोनी सब",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "1999",
+      "closed": "",
+      "owner": "कल्वर मैक्स एंटरटेनमेंट",
+      "notes": ""
+    },
+    {
+      "channel": "सोनी पल",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2014",
+      "closed": "",
+      "owner": "कल्वर मैक्स एंटरटेनमेंट",
+      "notes": ""
+    },
+    {
+      "channel": "दंगल",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2009",
+      "closed": "",
+      "owner": "एंटर10 टेलीविजन नेटवर्क",
+      "notes": ""
+    },
+    {
+      "channel": "दंगल 2",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2022",
+      "closed": "",
+      "owner": "एंटर10 टेलीविजन नेटवर्क",
+      "notes": ""
+    },
+    {
+      "channel": "शेमारू टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2020",
+      "closed": "",
+      "owner": "शेमारू एंटरटेनमेंट",
+      "notes": ""
+    },
+    {
+      "channel": "शेमारू उमंग",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2022",
+      "closed": "",
+      "owner": "शेमारू एंटरटेनमेंट",
+      "notes": ""
+    },
+    {
+      "channel": "इशारा टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2021",
+      "closed": "",
+      "owner": "आईएन10 मीडिया",
+      "notes": ""
+    },
+    {
+      "channel": "नज़ारा टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2023",
+      "closed": "",
+      "owner": "आईएन10 मीडिया",
+      "notes": ""
+    },
+    {
+      "channel": "मनोरंजन ग्रैंड",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2019",
+      "closed": "",
+      "owner": "मनोरंजन टीवी ग्रुप लिमिटेड",
+      "notes": ""
+    },
+    {
+      "channel": "सन नियो",
+      "genre": "सामान्य मनोरंजन",
+      "status": "सक्रिय",
+      "launched": "2024",
+      "closed": "",
+      "owner": "सन टीवी नेटवर्क",
+      "notes": ""
+    },
+    {
+      "channel": "मेट्रो गोल्ड",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2000",
+      "closed": "2001",
+      "owner": "दूरदर्शन एवं नाइन नेटवर्क",
+      "notes": ""
+    },
+    {
+      "channel": "बी4यू टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2000",
+      "closed": "2001",
+      "owner": "बी4यू",
+      "notes": ""
+    },
+    {
+      "channel": "सहारा वन",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2000",
+      "closed": "2015",
+      "owner": "सहारा वन मीडिया एंड एंटरटेनमेंट लिमिटेड",
+      "notes": ""
+    },
+    {
+      "channel": "स्टार वन",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2004",
+      "closed": "2011",
+      "owner": "जियोस्टार",
+      "notes": ""
+    },
+    {
+      "channel": "ज़ी स्माइल",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2004",
+      "closed": "2016",
+      "owner": "ज़ी एंटरटेनमेंट एंटरप्राइजेज",
+      "notes": ""
+    },
+    {
+      "channel": "9एक्स",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2007",
+      "closed": "2015",
+      "owner": "ज़ी एंटरटेनमेंट एंटरप्राइजेज",
+      "notes": ""
+    },
+    {
+      "channel": "ज़ी नेक्स्ट",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2007",
+      "closed": "2008",
+      "owner": "ज़ी एंटरटेनमेंट एंटरप्राइजेज",
+      "notes": ""
+    },
+    {
+      "channel": "इमेजिन टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2008",
+      "closed": "2012",
+      "owner": "वार्नर ब्रदर्स डिस्कवरी इंडिया",
+      "notes": ""
+    },
+    {
+      "channel": "फिरंगी टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2008",
+      "closed": "2021",
+      "owner": "सहारा वन मीडिया एंड एंटरटेनमेंट लिमिटेड",
+      "notes": ""
+    },
+    {
+      "channel": "रियल टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2009",
+      "closed": "2010",
+      "owner": "वार्नर ब्रदर्स डिस्कवरी इंडिया",
+      "notes": ""
+    },
+    {
+      "channel": "लाइफ ओके",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2011",
+      "closed": "2017",
+      "owner": "जियोस्टार",
+      "notes": ""
+    },
+    {
+      "channel": "ज़िंदगी टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2014",
+      "closed": "2017",
+      "owner": "ज़ी एंटरटेनमेंट एंटरप्राइजेज",
+      "notes": ""
+    },
+    {
+      "channel": "जीत प्राइम",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2018",
+      "closed": "2020",
+      "owner": "वार्नर ब्रदर्स डिस्कवरी इंडिया",
+      "notes": ""
+    },
+    {
+      "channel": "आजाद टीवी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2021",
+      "closed": "2022",
+      "owner": "बिगिनन मीडिया",
+      "notes": ""
+    },
+    {
+      "channel": "अतरंगी",
+      "genre": "सामान्य मनोरंजन",
+      "status": "बंद",
+      "launched": "2022",
+      "closed": "2024",
+      "owner": "विभु अग्रवाल",
+      "notes": ""
+    },
+    {
+      "channel": "बिंदास",
+      "genre": "युवा चैनल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "यूटीवी सॉफ्टवेयर कम्युनिकेशन का चैनल"
+    },
+    {
+      "channel": "फिरंगी",
+      "genre": "युवा चैनल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "सहारा फिरंगी"
+    },
+    {
+      "channel": "चैनल [वी]",
+      "genre": "युवा चैनल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "स्टार टीवी का युवा चैनल"
+    },
+    {
+      "channel": "एमटीवी इंडिया",
+      "genre": "युवा चैनल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "वायाकॉम 18 का युवा चैनल"
+    },
+    {
+      "channel": "ज़ी सिनेमा",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "1995",
+      "closed": "",
+      "owner": "ज़ी मनोरंजन उद्योग",
+      "notes": ""
+    },
+    {
+      "channel": "ज़ी क्लासिक",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2005",
+      "closed": "",
+      "owner": "ज़ी मनोरंजन उद्योग",
+      "notes": ""
+    },
+    {
+      "channel": "ज़ी एक्शन",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2006",
+      "closed": "",
+      "owner": "ज़ी मनोरंजन उद्योग",
+      "notes": ""
+    },
+    {
+      "channel": "&पिक्चर्स",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2013",
+      "closed": "",
+      "owner": "ज़ी मनोरंजन उद्योग",
+      "notes": ""
+    },
+    {
+      "channel": "ज़ी अनमोल सिनेमा",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2016",
+      "closed": "",
+      "owner": "ज़ी मनोरंजन उद्योग",
+      "notes": ""
+    },
+    {
+      "channel": "ज़ी बॉलीवुड",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2018",
+      "closed": "",
+      "owner": "ज़ी मनोरंजन उद्योग",
+      "notes": ""
+    },
+    {
+      "channel": "&एक्सप्लोर एचडी",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2019",
+      "closed": "",
+      "owner": "ज़ी मनोरंजन उद्योग",
+      "notes": ""
+    },
+    {
+      "channel": "अनमोल सिनेमा 2",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2024",
+      "closed": "",
+      "owner": "ज़ी मनोरंजन उद्योग",
+      "notes": ""
+    },
+    {
+      "channel": "सोनी मैक्स",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "1999",
+      "closed": "",
+      "owner": "कल्वर मैक्स एंटरटेनमेंट",
+      "notes": ""
+    },
+    {
+      "channel": "सोनी मैक्स 2",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2014",
+      "closed": "",
+      "owner": "कल्वर मैक्स एंटरटेनमेंट",
+      "notes": ""
+    },
+    {
+      "channel": "सोनी वाह",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2016",
+      "closed": "",
+      "owner": "कल्वर मैक्स एंटरटेनमेंट",
+      "notes": ""
+    },
+    {
+      "channel": "सोनी मैक्स 1",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2025",
+      "closed": "",
+      "owner": "कल्वर मैक्स एंटरटेनमेंट",
+      "notes": ""
+    },
+    {
+      "channel": "स्टार गोल्ड",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "1999",
+      "closed": "",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "उत्सव मूवीज़",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "31 अक्टूबर 2025",
+      "closed": "",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "स्टार गोल्ड सेलेक्ट",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2017",
+      "closed": "",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "स्टार गोल्ड 2",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2020",
+      "closed": "",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "स्टार गोल्ड रोमांस",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2023",
+      "closed": "",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "स्टार गोल्ड थ्रिल्स",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2023",
+      "closed": "",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "कलर्स सिनेप्लेक्स",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2016",
+      "closed": "",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "कलर्स सिनेप्लेक्स बॉलीवुड",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2021",
+      "closed": "",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "कलर्स सिनेप्लेक्स सुपरहिट्स",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2022",
+      "closed": "",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "बी4यू मूवीज",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "1999",
+      "closed": "",
+      "owner": "बी4यू",
+      "notes": ""
+    },
+    {
+      "channel": "बी4यू कड़क",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2019",
+      "closed": "",
+      "owner": "बी4यू",
+      "notes": ""
+    },
+    {
+      "channel": "फिल्मी",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2006",
+      "closed": "",
+      "owner": "सहारा वन मीडिया एंड एंटरटेनमेंट लिमिटेड",
+      "notes": ""
+    },
+    {
+      "channel": "मनोरंजन टीवी",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2010",
+      "closed": "",
+      "owner": "मनोरंजन टीवी ग्रुप लिमिटेड",
+      "notes": ""
+    },
+    {
+      "channel": "मनोरंजन प्राइम",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2022",
+      "closed": "",
+      "owner": "मनोरंजन टीवी ग्रुप लिमिटेड",
+      "notes": ""
+    },
+    {
+      "channel": "वाॅव सिनेमा वन",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2015",
+      "closed": "",
+      "owner": "सिनेमै 24X7 प्रा.लि.",
+      "notes": ""
+    },
+    {
+      "channel": "बीफ्लिक्स मूवीज",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2016",
+      "closed": "",
+      "owner": "पेन स्टूडियोज",
+      "notes": ""
+    },
+    {
+      "channel": "ऑल टाइम मूवीज",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2024",
+      "closed": "",
+      "owner": "पेन स्टूडियोज",
+      "notes": ""
+    },
+    {
+      "channel": "गोल्डमाइंस",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2020",
+      "closed": "",
+      "owner": "गोल्डमाइंस टेलीफिल्म्स",
+      "notes": ""
+    },
+    {
+      "channel": "गोल्डमाइंस बॉलीवुड",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2022",
+      "closed": "",
+      "owner": "गोल्डमाइंस टेलीफिल्म्स",
+      "notes": ""
+    },
+    {
+      "channel": "गोल्डमाइंस मूवीज",
+      "genre": "चलचित्र",
+      "status": "सक्रिय",
+      "launched": "2023",
+      "closed": "",
+      "owner": "गोल्डमाइंस टेलीफिल्म्स",
+      "notes": ""
+    },
+    {
+      "channel": "ज़ी प्रीमियर",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2006",
+      "closed": "2015",
+      "owner": "ज़ी मनोरंजन उद्योग",
+      "notes": ""
+    },
+    {
+      "channel": "एंटर10",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2006",
+      "closed": "2024",
+      "owner": "एंटर10 टेलीविजन नेटवर्क",
+      "notes": ""
+    },
+    {
+      "channel": "बिंदास मूवीज",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2007",
+      "closed": "2010",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "यूटीवी मूवीज",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2008",
+      "closed": "2023",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "यूटीवी एक्शन",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2010",
+      "closed": "2023",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "मूवीज ओके",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2012",
+      "closed": "2020",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "यूटीवी एचडी",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2018",
+      "closed": "2023",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "रिश्ते सिनेप्लेक्स",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2016",
+      "closed": "2022",
+      "owner": "स्टार (डिज़्नी+)",
+      "notes": ""
+    },
+    {
+      "channel": "सिनेमा टीवी इंडिया",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2012",
+      "closed": "2024",
+      "owner": "सिनेमै 24X7 प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "वा मूवीज",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2016",
+      "closed": "2018",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "महामूवी",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2014",
+      "closed": "2025",
+      "owner": "डीवी मीडिया एंड एंटरटेनमेंट प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "आशीर्वाद क्लासिक",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2013",
+      "closed": "2015",
+      "owner": "बी4यू",
+      "notes": ""
+    },
+    {
+      "channel": "मूवी हाउस",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2015",
+      "closed": "2019",
+      "owner": "बी4यू",
+      "notes": ""
+    },
+    {
+      "channel": "धमाका मूवीज बी4यू",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2022",
+      "closed": "2024",
+      "owner": "बी4यू",
+      "notes": ""
+    },
+    {
+      "channel": "हाउसफुल मूवीज",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2015",
+      "closed": "2021",
+      "owner": "स्वामी फिल्म्स एंटरटेनमेंट प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "हाउसफुल एक्शन",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2015",
+      "closed": "2020",
+      "owner": "स्वामी फिल्म्स एंटरटेनमेंट प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "हाउसफुल मॉल्टीप्लेक्स",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2015",
+      "closed": "2018",
+      "owner": "स्वामी फिल्म्स एंटरटेनमेंट प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "मूवी प्लस",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2019",
+      "closed": "2025",
+      "owner": "स्वामी फिल्म्स एंटरटेनमेंट प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "बॉक्स सिनेमा",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2019",
+      "closed": "2022",
+      "owner": "बॉक्स सिनेमा सर्विसेज प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "आरटी मूवीज",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2015",
+      "closed": "2018",
+      "owner": "रॉयल टेलीविजन प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "सूर्या भोजपुरी",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2018",
+      "closed": "2021",
+      "owner": "सूर्या सागर एंटरटेनमेंट प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "अब्ज़ी कूल",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2014",
+      "closed": "2024",
+      "owner": "स्काईस्टार एंटरटेनमेंट प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "एब्ज़ी कूल",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2014",
+      "closed": "2019",
+      "owner": "स्काईस्टार एंटरटेनमेंट प्रा. लि.",
+      "notes": ""
+    },
+    {
+      "channel": "धिंचाक",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2020",
+      "closed": "2022",
+      "owner": "गोल्डमाइंस टेलीफिल्म्स",
+      "notes": ""
+    },
+    {
+      "channel": "धिंचाक 2",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2021",
+      "closed": "2023",
+      "owner": "गोल्डमाइंस टेलीफिल्म्स",
+      "notes": ""
+    },
+    {
+      "channel": "धिंचाक (रीलॉन्च)",
+      "genre": "चलचित्र",
+      "status": "बंद",
+      "launched": "2023",
+      "closed": "2024",
+      "owner": "गोल्डमाइंस टेलीफिल्म्स",
+      "notes": ""
+    },
+    {
+      "channel": "9 एक्स एम",
+      "genre": "संगीत",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "9 एक्स जलवा",
+      "genre": "संगीत",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "9 एक्स टशन",
+      "genre": "संगीत",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "बी फॉर यू म्यूज़िक",
+      "genre": "संगीत",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "ईटीसी",
+      "genre": "संगीत",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "लेमन",
+      "genre": "संगीत",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "म्युजिक इंडिया",
+      "genre": "संगीत",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "जिंग",
+      "genre": "संगीत",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "मस्ती",
+      "genre": "संगीत",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "हिन्दी ख़बर",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "हिन्दी समाचार चैनल"
+    },
+    {
+      "channel": "सुदर्शन न्यूज़",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "भारतीय जनता पार्टी का समर्थक चैनल"
+    },
+    {
+      "channel": "PB LIVE NEWS",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "निजी क्षेत्र में देश का हिंदी समाचार चैनल"
+    },
+    {
+      "channel": "आज तक",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "निजी क्षेत्र में देश का सबसे पुराना हिंदी समाचार चैनल। टाइम रेटिंग में हमेशा सबसे ऊपर।"
+    },
+    {
+      "channel": "ईटीवी",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "देश का सबसे बड़ा नेटवर्क वाला क्षेत्रीय चैनल समूह। बारह चैनलों के माध्यम से प्रसारण।"
+    },
+    {
+      "channel": "डीडी न्यूज़",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "सबसे पुराना सरकारी समाचार चैनल"
+    },
+    {
+      "channel": "न्यूज़18 इंडिया",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "टीवी 18 समूह का हिंदी समाचार चैनल।"
+    },
+    {
+      "channel": "खोज इंडिया",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "इंडिया टीवी",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "हिंदी समाचार चैनल"
+    },
+    {
+      "channel": "लाइव इंडिया",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "एनडीटीवी इंडिया",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "एनडीटीवी का हिंदी समाचार चैनल।"
+    },
+    {
+      "channel": "न्यूज़ 24",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "PB LIVE न्यूज़",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "GROUP OF PARNIKA BUSINESS CONSULTANCY SERVICES PVT.LTD"
+    },
+    {
+      "channel": "सहारा समय",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "सहारा परिवार द्वारा संचालित हिंदी न्यूज चैनल"
+    },
+    {
+      "channel": "एबीपी न्यूज़",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "एबीपी ग्रुप का हिंदी समाचार चैनल"
+    },
+    {
+      "channel": "जी न्यूज",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "जी समूह का हिंदी समाचार चैनल"
+    },
+    {
+      "channel": "वॉयस ऑफ इंडिया",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "आजाद न्यूज",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "इंडिया न्यूज़",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "इण्डिया नाउ 7",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "7इण्डिया ग्रुप का हिंदी समाचार चैनल"
+    },
+    {
+      "channel": "जैन टीवी",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "पी7 न्यूज",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "एस 1",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "तेज़ टीवी",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "टीवी टुडे नेटवर्क का हिस्सा"
+    },
+    {
+      "channel": "न्यूज़ नेशन",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "सुदर्शन न्यूज़",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "सुदर्शन टेलीविजन लि. का भाग; राष्ट्रवादी ख़बरों को प्रमुखता से दिखाता है।"
+    },
+    {
+      "channel": "जन टीवी",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "हिन्दी समाचार चैनल"
+    },
+    {
+      "channel": "सीएनईबी",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "ई 24",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "लहरें",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "जूम",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "बॉलीवुड गपशप और समाचार"
+    },
+    {
+      "channel": "बिज न्यूज",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "सीएनबीसी आवाज़",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "एनडीटीवी प्रोफिट",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "ज़ी बिजनेस",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "राज्यसभा",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "भारतीय राजनीति से जुड़ी खबरें और संसद की कार्यवाही"
+    },
+    {
+      "channel": "लोकसभा",
+      "genre": "समाचार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "भारतीय राजनीति से जुड़ी खबरें और संसद की कार्यवाही"
+    },
+    {
+      "channel": "केयर वर्ल्ड",
+      "genre": "स्वास्थ्य और बाजार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "होम शॉप 18",
+      "genre": "स्वास्थ्य और बाजार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "शक्ति टीवी",
+      "genre": "स्वास्थ्य और बाजार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "टीवी24",
+      "genre": "स्वास्थ्य और बाजार",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "डीडी स्पोर्ट्स",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "दूरदर्शन द्वारा संचालित निःशुल्क प्रसारित चैनल"
+    },
+    {
+      "channel": "स्टार स्पोर्ट्स 1",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "स्टार टीवी द्वारा संचालित, पूर्व नाम - स्टार स्पोर्ट्स"
+    },
+    {
+      "channel": "स्टार स्पोर्ट्स 2",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "स्टार टीवी द्वारा संचालित"
+    },
+    {
+      "channel": "स्टार स्पोर्ट्स 3",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "स्टार टीवी द्वारा संचालित, पूर्व नाम - स्टार क्रिकेट"
+    },
+    {
+      "channel": "स्टार स्पोर्ट्स 4",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "स्टार टीवी द्वारा संचालित, पूर्व नाम - ईएसपीएन इंडिया"
+    },
+    {
+      "channel": "टेन स्पोर्ट्स",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "ज़ी समूह की शाखा ताज टेलीविजन द्वारा संचालित"
+    },
+    {
+      "channel": "टेन क्रिकेट",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "ज़ी समूह की शाखा ताज टेलीविजन द्वारा संचालित"
+    },
+    {
+      "channel": "टेन गोल्फ",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "ज़ी समूह की शाखा ताज टेलीविजन द्वारा संचालित"
+    },
+    {
+      "channel": "नियो प्राईम",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "पूर्व नाम - नियो क्रिकेट"
+    },
+    {
+      "channel": "नियो स्पोर्ट्स",
+      "genre": "खेल",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "आस्था",
+      "genre": "धार्मिक",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "एक पुराना धार्मिक चैनल"
+    },
+    {
+      "channel": "सुभारती टीवी",
+      "genre": "धार्मिक",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "स्वामी विवेकानन्द सुभारती विश्वविद्यालय मेरठ, द्वारा संचालित धार्मिक चैनल"
+    },
+    {
+      "channel": "श्रद्धा टीवी",
+      "genre": "धार्मिक",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "एमएच वन समूह का धार्मिक चैनल"
+    },
+    {
+      "channel": "ओम टेलीवीज़न",
+      "genre": "धार्मिक",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "हिन्दी धार्मिक चैनल"
+    },
+    {
+      "channel": "प्रज्ञा टीवी",
+      "genre": "धार्मिक",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "साधना टीवी",
+      "genre": "धार्मिक",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "एक लोकप्रिय धार्मिक चैनल"
+    },
+    {
+      "channel": "संस्कार टीवी",
+      "genre": "धार्मिक",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": ""
+    },
+    {
+      "channel": "सतसंग टीवी",
+      "genre": "धार्मिक",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "भारतीय धार्मिक चैनल"
+    },
+    {
+      "channel": "ज़ी जागरण",
+      "genre": "धार्मिक",
+      "status": "सक्रिय",
+      "launched": "",
+      "closed": "",
+      "owner": "",
+      "notes": "ज़ी समूह का धार्मिक चैनल"
+    }
+  ],
+  "meta": {
+    "title": "हिंदी टेलीविजन चैनलों की सूची - Free Download",
+    "description": "हिंदी भाषा के टेलीविजन चैनलों की श्रेणीवार सूची — शुरुआत का वर्ष, स्वामी और सक्रिय/बंद स्थिति सहित। Contains 174 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "हिंदी टेलीविजन चैनलों की सूची | ListBase",
+    "seo_description": "Download हिंदी टेलीविजन चैनलों की सूची — 174 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 174 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/हिंदी_टेलीविजन_चैनलों_की_सूची"
+    ]
+  }
+}

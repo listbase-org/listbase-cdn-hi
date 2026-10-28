@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-28T02:25:48.736Z",
-  "total_datasets": 452,
-  "total_records": 2011483,
+  "generated": "2026-10-28T02:25:51.392Z",
+  "total_datasets": 453,
+  "total_records": 2011657,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -535,6 +535,34 @@
         "xlsx": {
           "name": "hi-dadasaheb-phalke-puraskar_HI.xlsx",
           "size": 9497
+        }
+      }
+    },
+    {
+      "id": "hi-hindi-television-channel",
+      "name": "हिंदी टेलीविजन चैनलों की सूची",
+      "category": "entertainment",
+      "record_count": 174,
+      "columns": [
+        "channel",
+        "genre",
+        "status",
+        "launched",
+        "closed",
+        "owner",
+        "notes"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/हिंदी_टेलीविजन_चैनलों_की_सूची",
+      "updated": "2026-10",
+      "size": 51349,
+      "files": {
+        "csv": {
+          "name": "hi-hindi-television-channel_HI.csv",
+          "size": 26127
+        },
+        "xlsx": {
+          "name": "hi-hindi-television-channel_HI.xlsx",
+          "size": 14398
         }
       }
     },

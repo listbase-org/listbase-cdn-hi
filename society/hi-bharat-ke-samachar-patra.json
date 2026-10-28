@@ -1,0 +1,1136 @@
+{
+  "id": "hi-bharat-ke-samachar-patra",
+  "name": "भारत में प्रकाशित समाचार पत्रों की सूची",
+  "title": "भारत में प्रकाशित समाचार पत्रों की सूची",
+  "description": "भारत में प्रकाशित होने वाले समाचार पत्रों की भाषावार सूची।",
+  "category": "society",
+  "source": "https://hi.wikipedia.org/wiki/भारत_में_प्रकाशित_होने_वाले_समाचार_पत्रों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_में_प्रकाशित_होने_वाले_समाचार_पत्रों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 275,
+  "columns": [
+    {
+      "key": "newspaper",
+      "label": "Newspaper",
+      "type": "string"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "newspaper": "आजिर दैनिक बातरि",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "आमार असम",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "दैनिक अग्रदूत",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "दैनिक जनमभूमि",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "दैनिक जनसाधारण",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "दैनिक असम",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "असमीया प्रतिदिन",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "असमीया खबर",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "नियमीया बार्ता",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "एदिनर संबाद",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "गण अधिकार",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "निउज थार्टि",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "सादिन (साप्ताहिक)",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "असम बानी (साप्ताहिक)",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "अग्रदूत (अर्ध साप्ताहिक)",
+      "language": "असमीया भाषा"
+    },
+    {
+      "newspaper": "आजकाल",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "आनंद बाजार पत्रिका",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "वर्तमान",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "दैनिक जुगशंख",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "दैनिक सामयिक प्रसंग",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "दैनिक सोनार कछार",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "सेंचुरी संबाद",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "गणशक्ति",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "संवाद प्रतिदिन",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "इकदिन",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "उत्तरबंग संबाद",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "प्रतिदिन",
+      "language": "बांग्ला भाषा"
+    },
+    {
+      "newspaper": "अकिला दैनिक",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "बांबे समाचार",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "दिव्य भास्कर",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "गुजरात समाचार",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "जय हिंद",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "संभव समाचार पत्र",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "संदेश",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "देश प्रदेश नी आजकल",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "नोबात",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "फुलचाब",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "कच्छमित्र",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "(वावड)",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "(कच्छ दर्शन)",
+      "language": "गुजराती"
+    },
+    {
+      "newspaper": "नवभारत टाइम्स",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "दैनिक जागरण",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "हिन्दुस्तान",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "दैनिक भास्कर",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "अमर उजाला",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "मिशन जयहिन्द",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "राष्ट्रीय सहारा",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "राहत टाइम्स",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "लोकमत समाचार",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "डेली न्यूज़",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "दैनिक दबंग दुनिया",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "राष्ट्रीय स्वरुप",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "हिन्द सागर",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "आज",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "पायनियर",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "स्वतन्त्र चेतना",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "जन सन्देश",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "वायस ऑफ़ लखनऊ",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "स्वतन्त्र भारत",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "संजीवनी टुडे",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "अमर भारती",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "वॉइस ऑफ ट्रेंड",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "दलित मंच",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "हेराल्ड यंग लीडर",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "मेट्रो हेराल्ड",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "दैनिक पूर्वोदय",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "दो बजे दोपहर",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "हरिभूमि",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "हिन्दी मिलाप",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "जनसत्ता",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "मुम्बई दैनिक संध्या",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "कैरियर प्वाइण्ट साप्ताहिक",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "नई दुनिया",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "पूर्वांचल प्रहरी",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "पंजाब केसरी",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "प्रभात खबर",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "प्रात:काल",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "संकल्प सन्देश",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "राजस्थान पत्रिका",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "झारखण्ड जागरण",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "रांची एक्सप्रेस",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "साप्ताहिक हिंदुस्तान",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "सेण्टीनेल",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "विदर्भ चन्दिका",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "व्यापार",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "राज एक्सप्रेस",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "यूनाइटेड भारत",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "संकल्प सन्देश साप्ताहिक",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "चम्बल सुर्खी",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "संख्या पहल",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "अनुगामिनी",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "पत्रिका",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "गाण्डीव",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "उजाला दैनिक",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "सन्मार्ग",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "रोज़ की खबर",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "जनमुख",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "जनता सहकार",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "जनवाणी",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "स्टार समाचार",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "दीपशील भारत",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "साप्ताहिक राष्ट्र चंडिका",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "उन्मूलन संवाद",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "एक्सपर्ट टाइम्स",
+      "language": "घटती घटना"
+    },
+    {
+      "newspaper": "कन्नड़ प्रभा",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "जनतावाणी",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "जनता माध्यम",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "हसनवाणी",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "प्रजावाणी",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "क्रांति कन्नड़ डेली",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "संजीवनी",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "संयुक्त कर्नाटक",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "तरंग",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "उदयवाणी",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "उषाकिरण",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "विजय कर्नाटक",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "वार्ता भारती",
+      "language": "कन्नड़"
+    },
+    {
+      "newspaper": "कोशुर अखबार",
+      "language": "कश्मीरी"
+    },
+    {
+      "newspaper": "सोन मीरास",
+      "language": "कश्मीरी"
+    },
+    {
+      "newspaper": "जनरल",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "अश्वमेधम",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "चंद्रिका",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "दीपिका",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "देशाभिमानी",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "जनयुगम",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "जन्मभूमि",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "केरल कौमुदी",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "केरल कौमुदी फ्लैश",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "कलाकौमुदी",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "माध्यमम",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "मलयाला मनोरमा",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "मंगलम",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "मातृभूमि",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "पुण्यभूमि",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "तेजस",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "सिराज",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "वर्तमानम",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "वीक्षानम",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "मेट्रो वार्ता",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "कौमुदी प्लस इंटरनेट न्यूजपेपर",
+      "language": "मलयालम"
+    },
+    {
+      "newspaper": "चिंग ताम",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "हुयेन लांपाओ",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "इंफाल फ्री प्रेस",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "कांग्लापाओ",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "कांग्लीपाक्की मैरा",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "लांबुंग",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "मन्नाबा",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "मातामगी याकैरोल",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "मीयाम",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "नहरोल्गी थौडांग",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "निंगताम लांपाओ",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "पाओनिलखोल",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "पोकनाफाम",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "प्रजातंत्र",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "पुंशी",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "सानालैबाक",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "सांगै एक्सप्रेस",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "तोकंगा",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "थौडौंग वाथोक",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "ईस्टर्न पोस्ट",
+      "language": "मणिपुरी"
+    },
+    {
+      "newspaper": "ऐक्य",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "केसरी",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "देशदूत",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "देशोन्नती",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "गोवा टाइम्स",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "गोमांतक",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "गोवादूत",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "लोकमत",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "लोकसत्ता",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "कोंकण दर्शन",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "कोंकण वार्ता",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "महानगर",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "महाराष्ट्र टाइम्स",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "मुंबई चौफेर",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "मुंबई सन्ध्या",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "नवकाल",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "नवप्रभा",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "पुढारी",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "रत्नागिरी टाइम्स",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "सामना",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "सकाल",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "सनातन प्रभात",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "संचार",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "संध्याकाल",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "संध्यानंद",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "सम्राट",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "तरुण भारत",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "झुंजार नेता",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "महाविदर्भ",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "पुण्यनगरी",
+      "language": "मराठी"
+    },
+    {
+      "newspaper": "वांग्लैनी",
+      "language": "मिजो"
+    },
+    {
+      "newspaper": "हिमगिरी",
+      "language": "नेपाली"
+    },
+    {
+      "newspaper": "सुंचारी",
+      "language": "नेपाली"
+    },
+    {
+      "newspaper": "हिमाली दर्पण",
+      "language": "नेपाली"
+    },
+    {
+      "newspaper": "समय दैनिक",
+      "language": "नेपाली"
+    },
+    {
+      "newspaper": "हिमाली बेला",
+      "language": "नेपाली"
+    },
+    {
+      "newspaper": "हाम्रो प्रजाशक्ति",
+      "language": "नेपाली"
+    },
+    {
+      "newspaper": "स्वर्णभूमि",
+      "language": "नेपाली"
+    },
+    {
+      "newspaper": "धरित्री",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "द समाज",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "ओड़िया संवाद",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "द प्रजातंत्र",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "द समय",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "प्रगतिवादी",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "अमा राजधानी",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "अनुपम भारत",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "ओड़िया भास्कर",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "ईस्वर",
+      "language": "ओड़िया"
+    },
+    {
+      "newspaper": "देश विदेश टाइम्स",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "डेली अजित",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "पंजाब एक्सप्रेस (नया)",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "सांझ सवेरा",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "जग वाणी",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "एनकाउंटर",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "अमर उजाला",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "शेर-ए-पंजाब",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "देश सेवक",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "नवन जमाना",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "पंजाबी ट्रिब्यून",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "आज दी आवाज",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "चार दी कला",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "अकाली पत्रिका",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "रोजाना स्पोकमैन",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "पंजाब न्यूज टाइम्स",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "आजाद सोच",
+      "language": "पंजाबी"
+    },
+    {
+      "newspaper": "आनन्द विकटन",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "कदिरावन",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "कालइ कदिर",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "कुमारी मुरासु",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "कुमुदम",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "जनसक्ति",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "तमिल सुदर",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "तमिऴ मुरसु",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "थिनासेधी",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "थेकादिर",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "दिनकरन",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "दिनत्तन्दी",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "दिनमलर",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "दिनसुदर",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "दिऩ बूमि",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "दिऩत्तूदु",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "दिऩमणि",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "नमदु एमजीआर",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "मणि छुद्र",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "मदुरैमणि",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "मालइ मुरसु",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "मालै मलर",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "विडुतलइ",
+      "language": "तमिल भाषा"
+    },
+    {
+      "newspaper": "आंध्रभूमि",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "आंध्रज्योति",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "आंध्रप्रभा",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "ईनाडु",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "प्रजाशक्ति",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "वार्ता",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "हैदराबाद मिरर",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "रक्षण",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "उद्यम सूर्य",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "साक्षी (समाचारपत्र)",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "अक्षरम",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "जमीनराओत सबसे पुराना समाचारपत्र (80वां साल)",
+      "language": "तेलुगु"
+    },
+    {
+      "newspaper": "तिब्बत टाइम्स",
+      "language": "तिब्बती"
+    },
+    {
+      "newspaper": "ऐतमाद",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "रेहनुमा-ए-दक्कन",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "द इन्कलाब",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "मुंशिफ डेली",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "सियासत",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "पिंडार",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "एक कौम",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "द मुसलमान",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "जमानत",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "उर्दू सहारा",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "डेली सहाफत",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "हमारा समाज",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "उर्दू टाइम्स",
+      "language": "उर्दू"
+    },
+    {
+      "newspaper": "प्रभंजन संकेत",
+      "language": "उर्दू"
+    }
+  ],
+  "meta": {
+    "title": "भारत में प्रकाशित समाचार पत्रों की सूची - Free Download",
+    "description": "भारत में प्रकाशित होने वाले समाचार पत्रों की भाषावार सूची। Contains 275 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत में प्रकाशित समाचार पत्रों की सूची | ListBase",
+    "seo_description": "Download भारत में प्रकाशित समाचार पत्रों की सूची — 275 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 275 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_में_प्रकाशित_होने_वाले_समाचार_पत्रों_की_सूची"
+    ]
+  }
+}

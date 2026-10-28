@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-28T02:25:41.414Z",
-  "total_datasets": 449,
-  "total_records": 2010932,
+  "generated": "2026-10-28T02:25:43.992Z",
+  "total_datasets": 450,
+  "total_records": 2011207,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -10371,6 +10371,29 @@
         "xlsx": {
           "name": "hi-rajya-vriksh_HI.xlsx",
           "size": 10087
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-samachar-patra",
+      "name": "भारत में प्रकाशित समाचार पत्रों की सूची",
+      "category": "society",
+      "record_count": 275,
+      "columns": [
+        "newspaper",
+        "language"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_में_प्रकाशित_होने_वाले_समाचार_पत्रों_की_सूची",
+      "updated": "2026-10",
+      "size": 32039,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-samachar-patra_HI.csv",
+          "size": 15886
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-samachar-patra_HI.xlsx",
+          "size": 12467
         }
       }
     },

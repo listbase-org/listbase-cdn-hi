@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-29T02:16:04.037Z",
-  "total_datasets": 455,
-  "total_records": 2011724,
+  "generated": "2026-10-29T02:16:06.296Z",
+  "total_datasets": 456,
+  "total_records": 2011744,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -477,6 +477,33 @@
         "xlsx": {
           "name": "hi-aicte-sansthayen_HI.xlsx",
           "size": 2144904
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-prabandhan-sansthan",
+      "name": "भारतीय प्रबंधन संस्थानों (IIM) की सूची",
+      "category": "education",
+      "record_count": 20,
+      "columns": [
+        "kram",
+        "naam",
+        "sthapana",
+        "sthan",
+        "rajya",
+        "website"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_प्रबन्धन_संस्थान",
+      "updated": "2026-10",
+      "size": 8073,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-prabandhan-sansthan_HI.csv",
+          "size": 3553
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-prabandhan-sansthan_HI.xlsx",
+          "size": 8083
         }
       }
     },

@@ -1,0 +1,216 @@
+{
+  "id": "hi-bharatiya-prabandhan-sansthan",
+  "name": "भारतीय प्रबंधन संस्थानों (IIM) की सूची",
+  "title": "भारतीय प्रबंधन संस्थानों (IIM) की सूची",
+  "description": "भारत के भारतीय प्रबंधन संस्थानों (आईआईएम) की सूची, स्थापना वर्ष, स्थान और राज्य सहित।",
+  "category": "education",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_प्रबन्धन_संस्थान",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_प्रबन्धन_संस्थान",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sthapana",
+      "label": "Sthapana",
+      "type": "string"
+    },
+    {
+      "key": "sthan",
+      "label": "Sthan",
+      "type": "string"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "1",
+      "naam": "भारतीय प्रबंधन संस्थान, कोलकाता",
+      "sthapana": "१९६१",
+      "sthan": "कोलकाता",
+      "rajya": "पश्चिम बंगाल",
+      "website": "iimcal.ac.in"
+    },
+    {
+      "kram": "2",
+      "naam": "भारतीय प्रबंधन संस्थान, अहमदाबाद",
+      "sthapana": "१९६१",
+      "sthan": "अहमदाबाद",
+      "rajya": "गुजरात",
+      "website": "iima.ac.in"
+    },
+    {
+      "kram": "3",
+      "naam": "भारतीय प्रबंधन संस्थान, बंगलौर",
+      "sthapana": "१९७३",
+      "sthan": "बंगलौर",
+      "rajya": "कर्नाटक",
+      "website": "iimb.ac.in"
+    },
+    {
+      "kram": "4",
+      "naam": "भारतीय प्रबंधन संस्थान, लखनऊ",
+      "sthapana": "१९८४",
+      "sthan": "लखनऊ",
+      "rajya": "उत्तर प्रदेश",
+      "website": "iiml.ac.in"
+    },
+    {
+      "kram": "5",
+      "naam": "भारतीय प्रबंधन संस्थान, कोज़ीकोड",
+      "sthapana": "१९९६",
+      "sthan": "कोज़ीकोड",
+      "rajya": "केरल",
+      "website": "iimk.ac.in"
+    },
+    {
+      "kram": "6",
+      "naam": "भारतीय प्रबंधन संस्थान, इंदौर",
+      "sthapana": "१९९६",
+      "sthan": "इंदौर",
+      "rajya": "मध्य प्रदेश",
+      "website": "iimidr.ac.in"
+    },
+    {
+      "kram": "7",
+      "naam": "भारतीय प्रबंधन संस्थान, शिलांग",
+      "sthapana": "२००७",
+      "sthan": "शिलांग",
+      "rajya": "मेघालय",
+      "website": "iimshillong.ac.in"
+    },
+    {
+      "kram": "8",
+      "naam": "भारतीय प्रबंधन संस्थान, रोहतक",
+      "sthapana": "२०१०",
+      "sthan": "रोहतक",
+      "rajya": "हरियाणा",
+      "website": "iimrohtak.ac.in"
+    },
+    {
+      "kram": "9",
+      "naam": "भारतीय प्रबंधन संस्थान, रांची",
+      "sthapana": "२०१०",
+      "sthan": "रांची",
+      "rajya": "झारखण्ड",
+      "website": "iimranchi.ac.in"
+    },
+    {
+      "kram": "10",
+      "naam": "भारतीय प्रबंधन संस्थान, रायपुर",
+      "sthapana": "२०१०",
+      "sthan": "रायपुर",
+      "rajya": "छत्तीसगढ़",
+      "website": "iimraipur.ac.in"
+    },
+    {
+      "kram": "11",
+      "naam": "भारतीय प्रबंधन संस्थान, तिरुचिरापल्ली",
+      "sthapana": "२०११",
+      "sthan": "तिरुचिरापल्ली",
+      "rajya": "तमिल नाडु",
+      "website": "iimtrichy.ac.in"
+    },
+    {
+      "kram": "12",
+      "naam": "भारतीय प्रबंधन संस्थान, काशीपुर",
+      "sthapana": "२०११",
+      "sthan": "काशीपुर",
+      "rajya": "उत्तराखंड",
+      "website": "iimkashipur.ac.in"
+    },
+    {
+      "kram": "13",
+      "naam": "भारतीय प्रबंधन संस्थान, उदयपुर",
+      "sthapana": "२०११",
+      "sthan": "उदयपुर",
+      "rajya": "राजस्थान",
+      "website": "iimu.ac.in"
+    },
+    {
+      "kram": "14",
+      "naam": "भारतीय प्रबंधन संस्थान, नागपुर",
+      "sthapana": "२०१५",
+      "sthan": "नागपुर",
+      "rajya": "महाराष्ट्र",
+      "website": "iimnagpur.ac.in"
+    },
+    {
+      "kram": "15",
+      "naam": "भारतीय प्रबंधन संस्थान, विशाखापत्तनम",
+      "sthapana": "२०१५",
+      "sthan": "विशाखापत्तनम",
+      "rajya": "आंध्र प्रदेश",
+      "website": "iimv.ac.in"
+    },
+    {
+      "kram": "16",
+      "naam": "भारतीय प्रबंधन संस्थान, बोध गया",
+      "sthapana": "२०१५",
+      "sthan": "बोध गया",
+      "rajya": "बिहार",
+      "website": "iimbg.ac.in"
+    },
+    {
+      "kram": "17",
+      "naam": "भारतीय प्रबंधन संस्थान, अमृतसर",
+      "sthapana": "२०१५",
+      "sthan": "अमृतसर",
+      "rajya": "पंजाब",
+      "website": "iimamritsar.ac.in"
+    },
+    {
+      "kram": "18",
+      "naam": "भारतीय प्रबंधन संस्थान, सम्भलपुर",
+      "sthapana": "२०१५",
+      "sthan": "सम्बलपुर",
+      "rajya": "ओडिशा",
+      "website": "iimsambalpur.ac.in"
+    },
+    {
+      "kram": "19",
+      "naam": "भारतीय प्रबंधन संस्थान, सिरमौर",
+      "sthapana": "२०१५",
+      "sthan": "सिरमौर",
+      "rajya": "हिमाचल प्रदेश",
+      "website": "iimsirmaur.ac.in"
+    },
+    {
+      "kram": "20",
+      "naam": "भारतीय प्रबंधन संस्थान, जम्मू",
+      "sthapana": "२०१६",
+      "sthan": "जम्मू",
+      "rajya": "जम्मू एवं कश्मीर",
+      "website": "iiml .ac .in /jammu"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय प्रबंधन संस्थानों (IIM) की सूची - Free Download",
+    "description": "भारत के भारतीय प्रबंधन संस्थानों (आईआईएम) की सूची, स्थापना वर्ष, स्थान और राज्य सहित। Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय प्रबंधन संस्थानों (IIM) की सूची | ListBase",
+    "seo_description": "Download भारतीय प्रबंधन संस्थानों (IIM) की सूची — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_प्रबन्धन_संस्थान"
+    ]
+  }
+}

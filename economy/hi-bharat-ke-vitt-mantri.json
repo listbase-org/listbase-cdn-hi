@@ -1,0 +1,298 @@
+{
+  "id": "hi-bharat-ke-vitt-mantri",
+  "name": "भारत के वित्त मंत्रियों की सूची",
+  "title": "भारत के वित्त मंत्रियों की सूची",
+  "description": "स्वतंत्रता से अब तक भारत के वित्त मंत्रियों की सूची, कार्यकाल और शिक्षा सहित।",
+  "category": "economy",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_वित्त_मंत्री",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_वित्त_मंत्री",
+  "updated": "2026-10",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "number"
+    },
+    {
+      "key": "vitt_mantri",
+      "label": "Vitt Mantri",
+      "type": "string"
+    },
+    {
+      "key": "karyakal",
+      "label": "Karyakal",
+      "type": "string"
+    },
+    {
+      "key": "shiksha",
+      "label": "Shiksha",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "1",
+      "vitt_mantri": "आर के शनमुखम चेट्टी",
+      "karyakal": "१९४७-१९४९",
+      "shiksha": "मद्रास विश्वविद्यालय"
+    },
+    {
+      "kram": "2",
+      "vitt_mantri": "जॉन मथाई",
+      "karyakal": "१९४९-१९५१",
+      "shiksha": "मद्रास क्रिश्चयन कालेज"
+    },
+    {
+      "kram": "3",
+      "vitt_mantri": "चिंतामनराव देशमुख",
+      "karyakal": "१९५१-१९५७",
+      "shiksha": "जीसस कॉलेज, कैम्ब्रिज"
+    },
+    {
+      "kram": "4",
+      "vitt_mantri": "टी टी कृष्णामचारी",
+      "karyakal": "१९५७-१९५८",
+      "shiksha": "मद्रास विश्वविद्यालय"
+    },
+    {
+      "kram": "5",
+      "vitt_mantri": "जवाहरलाल नेहरू",
+      "karyakal": "१९५८-१९५९",
+      "shiksha": "ट्रिनिटी महाविद्यालय, कैम्ब्रिज ; मिड्ल टेंपल"
+    },
+    {
+      "kram": "6",
+      "vitt_mantri": "मोरारजी देसाई",
+      "karyakal": "१९५९-१९६४",
+      "shiksha": "विल्सन कॉलेज, मुंबई"
+    },
+    {
+      "kram": "(4)",
+      "vitt_mantri": "टी टी कृष्णामचारी",
+      "karyakal": "१९६४-१९६७",
+      "shiksha": "मद्रास विश्वविद्यालय"
+    },
+    {
+      "kram": "7",
+      "vitt_mantri": "सचिन्द्र चौधरी",
+      "karyakal": "१९६६-१९६७",
+      "shiksha": ""
+    },
+    {
+      "kram": "(6)",
+      "vitt_mantri": "मोरारजी देसाई",
+      "karyakal": "१९६७-१९७०",
+      "shiksha": "विल्सन कॉलेज, मुंबई"
+    },
+    {
+      "kram": "7",
+      "vitt_mantri": "इंदिरा गांधी",
+      "karyakal": "१9७०-१९७१",
+      "shiksha": "विश्वभारती विश्वविद्यालय ; आक्सफोर्ड विश्वविद्यालय"
+    },
+    {
+      "kram": "8",
+      "vitt_mantri": "यशवंतराव चव्हाण",
+      "karyakal": "१९७१-१९७५",
+      "shiksha": "पुणे विश्वविद्यालय"
+    },
+    {
+      "kram": "9",
+      "vitt_mantri": "सी सुब्रमण्यम",
+      "karyakal": "१९७५-१९७७",
+      "shiksha": "मद्रास विश्वविद्यालय"
+    },
+    {
+      "kram": "(6)",
+      "vitt_mantri": "मोरारजी देसाई",
+      "karyakal": "१९७७-१९७७",
+      "shiksha": "विल्सन कॉलेज, मुंबई"
+    },
+    {
+      "kram": "11",
+      "vitt_mantri": "हरिभाई एम. पटेल",
+      "karyakal": "१९७७-१९७९",
+      "shiksha": ""
+    },
+    {
+      "kram": "10",
+      "vitt_mantri": "चौधरी चरण सिंह",
+      "karyakal": "१९७९-१९७९",
+      "shiksha": "मेरठ विश्वविद्यालय"
+    },
+    {
+      "kram": "(6)",
+      "vitt_mantri": "मोरारजी देसाई",
+      "karyakal": "१९७९-१९७९",
+      "shiksha": ""
+    },
+    {
+      "kram": "13",
+      "vitt_mantri": "हेमवती नंदन बहुगुणा",
+      "karyakal": "१९७९-१९७९",
+      "shiksha": ""
+    },
+    {
+      "kram": "10",
+      "vitt_mantri": "चौधरी चरण सिंह",
+      "karyakal": "१९७९-१९८०",
+      "shiksha": ""
+    },
+    {
+      "kram": "11",
+      "vitt_mantri": "रामास्वामी वेंकटरमण",
+      "karyakal": "१९८०-१९८२",
+      "shiksha": "मद्रास विश्वविद्यालय"
+    },
+    {
+      "kram": "12",
+      "vitt_mantri": "प्रणव मुखर्जी",
+      "karyakal": "१९८२-१९८५",
+      "shiksha": "कोलकाता विश्वविद्यालय"
+    },
+    {
+      "kram": "13",
+      "vitt_mantri": "विश्वनाथ प्रताप सिंह",
+      "karyakal": "१९८५-१९८७",
+      "shiksha": "इलाहाबाद विश्वविद्यालय ; पुणे विश्वविद्यालय"
+    },
+    {
+      "kram": "15",
+      "vitt_mantri": "राजीव गांधी",
+      "karyakal": "१९८७-१९८७",
+      "shiksha": ""
+    },
+    {
+      "kram": "18",
+      "vitt_mantri": "एन. डी. तिवारी",
+      "karyakal": "१९८७-१९८८",
+      "shiksha": ""
+    },
+    {
+      "kram": "14",
+      "vitt_mantri": "शंकरराव चव्हाण",
+      "karyakal": "१९८७-१९८९",
+      "shiksha": "मद्रास विश्वविद्यालय ; उस्मानिया विश्वविद्यालय"
+    },
+    {
+      "kram": "15",
+      "vitt_mantri": "मधु दंडवते",
+      "karyakal": "१९८९-१९९०",
+      "shiksha": ""
+    },
+    {
+      "kram": "16",
+      "vitt_mantri": "यशवंत सिन्हा",
+      "karyakal": "१९९०-१९९१",
+      "shiksha": "पटना विश्वविद्यालय"
+    },
+    {
+      "kram": "17",
+      "vitt_mantri": "मनमोहन सिंह",
+      "karyakal": "१९९१-१९९६",
+      "shiksha": "पंजाब विश्वविद्यालय ; सेंट जॉन्स महाविद्यालय, कैम्ब्रिज ; न्यूफील्ड महाविद्यालय, ऑक्सफोर्ड"
+    },
+    {
+      "kram": "23",
+      "vitt_mantri": "जसवंत सिंह",
+      "karyakal": "१९९६-१९९६",
+      "shiksha": ""
+    },
+    {
+      "kram": "18",
+      "vitt_mantri": "पी चिदंबरम",
+      "karyakal": "१९९६-१९९८",
+      "shiksha": "मद्रास विश्वविद्यालय ; हार्वड बिजनस स्कूल , कैम्ब्रिज"
+    },
+    {
+      "kram": "24",
+      "vitt_mantri": "आई. के. गुजराल",
+      "karyakal": "१९९७-१९९७",
+      "shiksha": ""
+    },
+    {
+      "kram": "(16)",
+      "vitt_mantri": "यशवंत सिन्हा",
+      "karyakal": "१९९८-२००२",
+      "shiksha": "पटना विश्वविद्यालय"
+    },
+    {
+      "kram": "19",
+      "vitt_mantri": "जसवंत सिंह",
+      "karyakal": "२००२-२००४",
+      "shiksha": "नेशनल डिफेंस अकादमी (भारत)"
+    },
+    {
+      "kram": "(18)",
+      "vitt_mantri": "पी चिदंबरम",
+      "karyakal": "मई २००४ - नवंबर २००८",
+      "shiksha": "मद्रास विश्वविद्यालय ; हार्वड बिजनस स्कूल , कैम्ब्रिज"
+    },
+    {
+      "kram": "(17)",
+      "vitt_mantri": "मनमोहन सिंह",
+      "karyakal": "दिसंबर २००८ - जनवरी २००९",
+      "shiksha": "पंजाब विश्वविद्यालय ; सेंट जॉन्स महाविद्यालय, कैम्ब्रिज ; न्यूफील्ड महाविद्यालय, ऑक्सफोर्ड"
+    },
+    {
+      "kram": "(12)",
+      "vitt_mantri": "प्रणव मुखर्जी",
+      "karyakal": "फरवरी २००९ -२०१२",
+      "shiksha": "कोलकाता विश्वविद्यालय"
+    },
+    {
+      "kram": "(18)",
+      "vitt_mantri": "पी चिदंबरम",
+      "karyakal": "२०१२ -२०१४",
+      "shiksha": "मद्रास विश्वविद्यालय ; हार्वड बिजनस स्कूल , कैम्ब्रिज"
+    },
+    {
+      "kram": "26",
+      "vitt_mantri": "अरुण जेटली",
+      "karyakal": "२६ मई २०१४ - १४ मई २०१८",
+      "shiksha": ""
+    },
+    {
+      "kram": "21",
+      "vitt_mantri": "पीयूष गोयल",
+      "karyakal": "१४मई २०१८-२२ अगस्त२०१८",
+      "shiksha": ""
+    },
+    {
+      "kram": "(26)",
+      "vitt_mantri": "अरुण जेटली",
+      "karyakal": "२३अगस्त २०१८-२३ जनवरी २०१९",
+      "shiksha": ""
+    },
+    {
+      "kram": "(27)",
+      "vitt_mantri": "पीयूष गोयल",
+      "karyakal": "२३ जनवरी २०१९-१५ फरवरी २०१९",
+      "shiksha": ""
+    },
+    {
+      "kram": "(26)",
+      "vitt_mantri": "अरुण जेटली",
+      "karyakal": "फरबरी २०१९- मई २०१९",
+      "shiksha": ""
+    },
+    {
+      "kram": "22",
+      "vitt_mantri": "निर्मला सीतारमण",
+      "karyakal": "३० मई २०१९ -",
+      "shiksha": ""
+    }
+  ],
+  "meta": {
+    "title": "भारत के वित्त मंत्रियों की सूची - Free Download",
+    "description": "स्वतंत्रता से अब तक भारत के वित्त मंत्रियों की सूची, कार्यकाल और शिक्षा सहित। Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के वित्त मंत्रियों की सूची | ListBase",
+    "seo_description": "Download भारत के वित्त मंत्रियों की सूची — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_वित्त_मंत्री"
+    ]
+  }
+}

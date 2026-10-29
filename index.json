@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-29T02:16:01.504Z",
-  "total_datasets": 454,
-  "total_records": 2011682,
+  "generated": "2026-10-29T02:16:04.037Z",
+  "total_datasets": 455,
+  "total_records": 2011724,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -372,6 +372,31 @@
         "xlsx": {
           "name": "hi-shastriya-nritya-shailiyan_HI.xlsx",
           "size": 10047
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-vitt-mantri",
+      "name": "भारत के वित्त मंत्रियों की सूची",
+      "category": "economy",
+      "record_count": 42,
+      "columns": [
+        "kram",
+        "vitt_mantri",
+        "karyakal",
+        "shiksha"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_वित्त_मंत्री",
+      "updated": "2026-10",
+      "size": 11496,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-vitt-mantri_HI.csv",
+          "size": 5859
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-vitt-mantri_HI.xlsx",
+          "size": 8809
         }
       }
     },

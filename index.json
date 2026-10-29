@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-29T02:16:11.356Z",
-  "total_datasets": 458,
-  "total_records": 2011788,
+  "generated": "2026-10-29T02:16:13.630Z",
+  "total_datasets": 459,
+  "total_records": 2011814,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -446,6 +446,32 @@
         "xlsx": {
           "name": "hi-rajya-arthvyavastha-gdp_HI.xlsx",
           "size": 8645
+        }
+      }
+    },
+    {
+      "id": "hi-rbi-governor",
+      "name": "भारतीय रिज़र्व बैंक के गवर्नरों की सूची",
+      "category": "economy",
+      "record_count": 26,
+      "columns": [
+        "kram",
+        "governor",
+        "karyakal",
+        "karyakal_avadhi",
+        "tippani"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_रिज़र्व_बैंक_के_गवर्नरों_की_सूची",
+      "updated": "2026-10",
+      "size": 21521,
+      "files": {
+        "csv": {
+          "name": "hi-rbi-governor_HI.csv",
+          "size": 16273
+        },
+        "xlsx": {
+          "name": "hi-rbi-governor_HI.xlsx",
+          "size": 10172
         }
       }
     },

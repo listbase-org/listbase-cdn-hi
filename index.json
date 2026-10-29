@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-29T02:16:06.296Z",
-  "total_datasets": 456,
-  "total_records": 2011744,
+  "generated": "2026-10-29T02:16:08.774Z",
+  "total_datasets": 457,
+  "total_records": 2011767,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -504,6 +504,32 @@
         "xlsx": {
           "name": "hi-bharatiya-prabandhan-sansthan_HI.xlsx",
           "size": 8083
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-praudyogiki-sansthan",
+      "name": "भारतीय प्रौद्योगिकी संस्थानों (IIT) की सूची",
+      "category": "education",
+      "record_count": 23,
+      "columns": [
+        "kram",
+        "naam",
+        "prachalit_naam",
+        "sthapit",
+        "sansthapit"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_प्रौद्योगिकी_संस्थान",
+      "updated": "2026-10",
+      "size": 8689,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-praudyogiki-sansthan_HI.csv",
+          "size": 3854
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-praudyogiki-sansthan_HI.xlsx",
+          "size": 7955
         }
       }
     },

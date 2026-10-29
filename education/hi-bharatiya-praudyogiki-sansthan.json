@@ -1,0 +1,212 @@
+{
+  "id": "hi-bharatiya-praudyogiki-sansthan",
+  "name": "भारतीय प्रौद्योगिकी संस्थानों (IIT) की सूची",
+  "title": "भारतीय प्रौद्योगिकी संस्थानों (IIT) की सूची",
+  "description": "भारत के सभी भारतीय प्रौद्योगिकी संस्थानों (आईआईटी) की सूची, प्रचलित नाम और स्थापना वर्ष सहित।",
+  "category": "education",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_प्रौद्योगिकी_संस्थान",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_प्रौद्योगिकी_संस्थान",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "prachalit_naam",
+      "label": "Prachalit Naam",
+      "type": "string"
+    },
+    {
+      "key": "sthapit",
+      "label": "Sthapit",
+      "type": "number"
+    },
+    {
+      "key": "sansthapit",
+      "label": "Sansthapit",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "1",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान खड़गपुर",
+      "prachalit_naam": "भाप्रौसंख / IITKGP",
+      "sthapit": "1951",
+      "sansthapit": "1951"
+    },
+    {
+      "kram": "2",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान मुंबई",
+      "prachalit_naam": "भाप्रौसंमु / IITB",
+      "sthapit": "1958",
+      "sansthapit": "1958"
+    },
+    {
+      "kram": "3",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान कानपुर",
+      "prachalit_naam": "भाप्रौसंक / IITK",
+      "sthapit": "1959",
+      "sansthapit": "1959"
+    },
+    {
+      "kram": "4",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान मद्रास",
+      "prachalit_naam": "भाप्रौसंम / IITM",
+      "sthapit": "1959",
+      "sansthapit": "1959"
+    },
+    {
+      "kram": "5",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान दिल्ली",
+      "prachalit_naam": "भाप्रौसंदि / IITD",
+      "sthapit": "1961",
+      "sansthapit": "1963"
+    },
+    {
+      "kram": "6",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान गुवाहाटी",
+      "prachalit_naam": "भाप्रौसंगु / IITG",
+      "sthapit": "1994",
+      "sansthapit": "1994"
+    },
+    {
+      "kram": "7",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान रुड़की",
+      "prachalit_naam": "भाप्रौसंरु / IITR",
+      "sthapit": "1847",
+      "sansthapit": "2001"
+    },
+    {
+      "kram": "8",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान रोपड़",
+      "prachalit_naam": "भाप्रौसंरो / IITRPR",
+      "sthapit": "2008",
+      "sansthapit": "2008"
+    },
+    {
+      "kram": "9",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान भुवनेश्वर",
+      "prachalit_naam": "भाप्रौसंभू / IITBBS",
+      "sthapit": "2008",
+      "sansthapit": "2008"
+    },
+    {
+      "kram": "10",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान गांधीनगर",
+      "prachalit_naam": "भाप्रौसंगा / IITGN",
+      "sthapit": "2008",
+      "sansthapit": "2008"
+    },
+    {
+      "kram": "11",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान हैदराबाद",
+      "prachalit_naam": "भाप्रौसंहै / IITH",
+      "sthapit": "2008",
+      "sansthapit": "2008"
+    },
+    {
+      "kram": "12",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान जोधपुर",
+      "prachalit_naam": "भाप्रौसंजो / IITJ",
+      "sthapit": "2008",
+      "sansthapit": "2008"
+    },
+    {
+      "kram": "13",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान पटना",
+      "prachalit_naam": "भाप्रौसंप / IITP",
+      "sthapit": "2008",
+      "sansthapit": "2008"
+    },
+    {
+      "kram": "14",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान इंदौर",
+      "prachalit_naam": "भाप्रौसंइ / IITI",
+      "sthapit": "2009",
+      "sansthapit": "2009"
+    },
+    {
+      "kram": "15",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान मण्डी",
+      "prachalit_naam": "भाप्रौसंस्म / IITMandi",
+      "sthapit": "2009",
+      "sansthapit": "2009"
+    },
+    {
+      "kram": "16",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान (काशी हिन्दू विश्वविद्यालय) वाराणसी",
+      "prachalit_naam": "भाप्रौसं(बहिवि) / IIT(BHU)",
+      "sthapit": "1919",
+      "sansthapit": "2012"
+    },
+    {
+      "kram": "17",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान पलक्कड़",
+      "prachalit_naam": "भाप्रौसंस्प / IITPKD",
+      "sthapit": "2015",
+      "sansthapit": "2015"
+    },
+    {
+      "kram": "18",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान तिरुपति",
+      "prachalit_naam": "भाप्रौसंति / IITTP",
+      "sthapit": "2015",
+      "sansthapit": "2015"
+    },
+    {
+      "kram": "19",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान(भारतीय खनि विद्यापीठ) धनबाद",
+      "prachalit_naam": "भाप्रौसं(भाखवि) / IIT(ISM)",
+      "sthapit": "1926",
+      "sansthapit": "2016"
+    },
+    {
+      "kram": "20",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान भिलाई",
+      "prachalit_naam": "भाप्रौसंभि / IITBh",
+      "sthapit": "2016",
+      "sansthapit": "2016"
+    },
+    {
+      "kram": "21",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान गोवा",
+      "prachalit_naam": "भाप्रौसंगो / IITGoa",
+      "sthapit": "2008",
+      "sansthapit": "2008"
+    },
+    {
+      "kram": "22",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान जम्मू",
+      "prachalit_naam": "भाप्रौसंज / IITJM",
+      "sthapit": "2016",
+      "sansthapit": "2016"
+    },
+    {
+      "kram": "२३",
+      "naam": "भारतीय प्रौद्योगिकी संस्थान धरवाड",
+      "prachalit_naam": "भाप्रौसंज / IITDH",
+      "sthapit": "2016",
+      "sansthapit": "2016"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय प्रौद्योगिकी संस्थानों (IIT) की सूची - Free Download",
+    "description": "भारत के सभी भारतीय प्रौद्योगिकी संस्थानों (आईआईटी) की सूची, प्रचलित नाम और स्थापना वर्ष सहित। Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय प्रौद्योगिकी संस्थानों (IIT) की सूची | ListBase",
+    "seo_description": "Download भारतीय प्रौद्योगिकी संस्थानों (IIT) की सूची — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_प्रौद्योगिकी_संस्थान"
+    ]
+  }
+}

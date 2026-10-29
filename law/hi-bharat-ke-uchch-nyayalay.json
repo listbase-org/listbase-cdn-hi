@@ -1,0 +1,346 @@
+{
+  "id": "hi-bharat-ke-uchch-nyayalay",
+  "name": "भारत के उच्च न्यायालयों की सूची",
+  "title": "भारत के उच्च न्यायालयों की सूची",
+  "description": "भारत के सभी उच्च न्यायालयों की सूची, स्थापना तिथि, न्यायक्षेत्र, प्रमुख पीठ, न्यायाधीशों की संख्या और मुख्य न्यायाधीश सहित।",
+  "category": "law",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_उच्च_न्यायालयों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_उच्च_न्यायालयों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "string"
+    },
+    {
+      "key": "nyayalay",
+      "label": "Nyayalay",
+      "type": "string"
+    },
+    {
+      "key": "sthapana",
+      "label": "Sthapana",
+      "type": "string"
+    },
+    {
+      "key": "sthapana_adhiniyam",
+      "label": "Sthapana Adhiniyam",
+      "type": "string"
+    },
+    {
+      "key": "nyayakshetra",
+      "label": "Nyayakshetra",
+      "type": "string"
+    },
+    {
+      "key": "pramukh_peeth",
+      "label": "Pramukh Peeth",
+      "type": "string"
+    },
+    {
+      "key": "anya_peeth",
+      "label": "Anya Peeth",
+      "type": "string"
+    },
+    {
+      "key": "nyayadhish_kul_sankhya",
+      "label": "Nyayadhish Kul Sankhya",
+      "type": "string"
+    },
+    {
+      "key": "mukhya_nyayadhish",
+      "label": "Mukhya Nyayadhish",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "१",
+      "nyayalay": "इलाहाबाद उच्च न्यायालय",
+      "sthapana": "17 मार्च 1866",
+      "sthapana_adhiniyam": "भारतीय उच्च न्यायालय अधिनियम १८६१",
+      "nyayakshetra": "उत्तर प्रदेश",
+      "pramukh_peeth": "प्रयागराज",
+      "anya_peeth": "लखनऊ",
+      "nyayadhish_kul_sankhya": "१६०",
+      "mukhya_nyayadhish": "अरुण भंसाली"
+    },
+    {
+      "kram": "२",
+      "nyayalay": "आन्ध्र प्रदेश उच्च न्यायालय",
+      "sthapana": "1 जनवरी 2019",
+      "sthapana_adhiniyam": "आन्ध्र प्रदेश पुनर्गठन अधिनियम, २०१४",
+      "nyayakshetra": "आन्ध्र प्रदेश",
+      "pramukh_peeth": "अमरावती",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "३७",
+      "mukhya_nyayadhish": "लिसा गिल"
+    },
+    {
+      "kram": "३",
+      "nyayalay": "बॉम्बे उच्च न्यायालय",
+      "sthapana": "14 अगस्त 1862",
+      "sthapana_adhiniyam": "भारतीय उच्च न्यायालय अधिनियम १८६१",
+      "nyayakshetra": "गोवा , दादरा और नगर हवेली एवं दमन और दीव , महाराष्ट्र",
+      "pramukh_peeth": "मुम्बई",
+      "anya_peeth": "छत्रपति संभाजीनगर , नागपुर , पणजी कोल्हापुर",
+      "nyayadhish_kul_sankhya": "९४",
+      "mukhya_nyayadhish": "महेश चंद्र त्रिपाठी"
+    },
+    {
+      "kram": "४",
+      "nyayalay": "कलकत्ता उच्च न्यायालय",
+      "sthapana": "1 जुलाई 1862",
+      "sthapana_adhiniyam": "भारतीय उच्च न्यायालय अधिनियम १८६१",
+      "nyayakshetra": "अंडमान और निकोबार द्वीपसमूह , पश्चिम बंगाल",
+      "pramukh_peeth": "कोलकाता",
+      "anya_peeth": "पोर्ट ब्लेयर जलपाईगुड़ी",
+      "nyayadhish_kul_sankhya": "७२",
+      "mukhya_nyayadhish": "रवींद्र विट्ठलराव घुगे"
+    },
+    {
+      "kram": "५",
+      "nyayalay": "छत्तीसगढ़ उच्च न्यायालय",
+      "sthapana": "1 नवंबर 2000",
+      "sthapana_adhiniyam": "मध्य प्रदेश पुनर्गठन अधिनियम, 2000",
+      "nyayakshetra": "छत्तीसगढ़",
+      "pramukh_peeth": "बिलासपुर",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "२२",
+      "mukhya_nyayadhish": "कृष्ण राम मोहपात्रा"
+    },
+    {
+      "kram": "६",
+      "nyayalay": "दिल्ली उच्च न्यायालय",
+      "sthapana": "31 अक्टूबर 1966",
+      "sthapana_adhiniyam": "दिल्ली उच्च न्यायालय अधिनियम, १९६६",
+      "nyayakshetra": "दिल्ली",
+      "pramukh_peeth": "नई दिल्ली",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "६०",
+      "mukhya_nyayadhish": "देवेंद्र कुमार उपाध्याय"
+    },
+    {
+      "kram": "७",
+      "nyayalay": "गुवाहाटी उच्च न्यायालय",
+      "sthapana": "1 मार्च 1948",
+      "sthapana_adhiniyam": "भारत सरकार अधिनियम, १९३५",
+      "nyayakshetra": "अरुणाचल प्रदेश , असम , मिजोरम , नागालैंड",
+      "pramukh_peeth": "गुवाहाटी",
+      "anya_peeth": "अइज़ोल , ईटानगर , कोहिमा",
+      "nyayadhish_kul_sankhya": "३०",
+      "mukhya_nyayadhish": "आशुतोष कुमार"
+    },
+    {
+      "kram": "८",
+      "nyayalay": "गुजरात उच्च न्यायालय",
+      "sthapana": "1 मई 1960",
+      "sthapana_adhiniyam": "बॉम्बे पुनर्गठन अधिनियम, १९६०",
+      "nyayakshetra": "गुजरात",
+      "pramukh_peeth": "अहमदाबाद",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "५२",
+      "mukhya_nyayadhish": "सुनीता अग्रवाल"
+    },
+    {
+      "kram": "९",
+      "nyayalay": "हिमाचल प्रदेश उच्च न्यायालय",
+      "sthapana": "25 जनवरी 1971",
+      "sthapana_adhiniyam": "हिमाचल प्रदेश राज्य अधिनियम, १९७०",
+      "nyayakshetra": "हिमाचल प्रदेश",
+      "pramukh_peeth": "शिमला",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "१७",
+      "mukhya_nyayadhish": "गुरमीत सिंह संधावालिया ( सूची )"
+    },
+    {
+      "kram": "१०",
+      "nyayalay": "जम्मू और कश्मीर और लद्दाख उच्च न्यायालय",
+      "sthapana": "26 मार्च 1928",
+      "sthapana_adhiniyam": "जम्मू और कश्मीर के तत्कालीन महाराजा द्वारा जारी पत्र, जम्मू और कश्मीर पुनर्गठन अधिनियम, 2019",
+      "nyayakshetra": "जम्मू और कश्मीर , लद्दाख़",
+      "pramukh_peeth": "श्रीनगर / जम्मू",
+      "anya_peeth": "लद्दाख़",
+      "nyayadhish_kul_sankhya": "२५",
+      "mukhya_nyayadhish": "पुष्पेंद्र सिंह भाटी"
+    },
+    {
+      "kram": "११",
+      "nyayalay": "झारखण्ड उच्च न्यायालय",
+      "sthapana": "15 नवंबर 2000",
+      "sthapana_adhiniyam": "बिहार पुनर्गठन अधिनियम, 2000",
+      "nyayakshetra": "झारखंड",
+      "pramukh_peeth": "राँची",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "२५",
+      "mukhya_nyayadhish": "महेश शरदचंद्र सोनक"
+    },
+    {
+      "kram": "१२",
+      "nyayalay": "कर्नाटक उच्च न्यायालय",
+      "sthapana": "1884",
+      "sthapana_adhiniyam": "मैसूर उच्च न्यायालय अधिनियम, १८८४",
+      "nyayakshetra": "कर्नाटक",
+      "pramukh_peeth": "बेंगलुरु",
+      "anya_peeth": "धारवाड़ , कलबुर्गी",
+      "nyayadhish_kul_sankhya": "६२",
+      "mukhya_nyayadhish": "विभु बखरू"
+    },
+    {
+      "kram": "१३",
+      "nyayalay": "केरल उच्च न्यायालय",
+      "sthapana": "1 नवंबर 1956",
+      "sthapana_adhiniyam": "राज्य पुनर्गठन अधिनियम १९५६",
+      "nyayakshetra": "केरल , लक्षद्वीप",
+      "pramukh_peeth": "कोच्चि",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "४७",
+      "mukhya_nyayadhish": "सौमेन सेन"
+    },
+    {
+      "kram": "१४",
+      "nyayalay": "मध्य प्रदेश उच्च न्यायालय",
+      "sthapana": "2 जनवरी 1936",
+      "sthapana_adhiniyam": "भारत सरकार अधिनियम, १९३५",
+      "nyayakshetra": "मध्य प्रदेश",
+      "pramukh_peeth": "जबलपुर",
+      "anya_peeth": "ग्वालियर , इन्दौर",
+      "nyayadhish_kul_sankhya": "५३",
+      "mukhya_nyayadhish": "अल्पेश यशवंत कोगजे"
+    },
+    {
+      "kram": "१५",
+      "nyayalay": "मद्रास उच्च न्यायालय",
+      "sthapana": "26 जून 1862",
+      "sthapana_adhiniyam": "भारतीय उच्च न्यायालय अधिनियम १८६१",
+      "nyayakshetra": "पुडुचेरी , तमिलनाडु",
+      "pramukh_peeth": "चेन्नई",
+      "anya_peeth": "मदुरई",
+      "nyayadhish_kul_sankhya": "७५",
+      "mukhya_nyayadhish": "सुश्रुत अरविंद धर्माधिकारी"
+    },
+    {
+      "kram": "१६",
+      "nyayalay": "मणिपुर उच्च न्यायालय",
+      "sthapana": "25 मार्च 2013",
+      "sthapana_adhiniyam": "पूर्वोत्तर क्षेत्र (पुनर्गठन) एवं अन्य संबंधित विधियाँ (संशोधन) अधिनियम, २०१२",
+      "nyayakshetra": "मणिपुर",
+      "pramukh_peeth": "इम्फाल",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "५",
+      "mukhya_nyayadhish": "एम. सुंदर"
+    },
+    {
+      "kram": "१७",
+      "nyayalay": "मेघालय उच्च न्यायालय",
+      "sthapana": "23 मार्च 2013",
+      "sthapana_adhiniyam": "पूर्वोत्तर क्षेत्र (पुनर्गठन) एवं अन्य संबंधित विधियाँ (संशोधन) अधिनियम, २०१२",
+      "nyayakshetra": "मेघालय",
+      "pramukh_peeth": "शिलांग",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "४",
+      "mukhya_nyayadhish": "रेवती मोहिते देरे"
+    },
+    {
+      "kram": "१८",
+      "nyayalay": "उड़ीसा उच्च न्यायालय",
+      "sthapana": "3 अप्रैल 1948",
+      "sthapana_adhiniyam": "उड़ीसा उच्च न्यायालय अध्यादेश, १९४८",
+      "nyayakshetra": "उड़ीसा",
+      "pramukh_peeth": "कटक",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "३३",
+      "mukhya_nyayadhish": "हरीश टंडन"
+    },
+    {
+      "kram": "१९",
+      "nyayalay": "पटना उच्च न्यायालय",
+      "sthapana": "2 सितंबर 1916",
+      "sthapana_adhiniyam": "तत्कालीन ब्रिटिश क्राउन द्वारा जारी लेटर्स पेटेंट",
+      "nyayakshetra": "बिहार",
+      "pramukh_peeth": "पटना",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "५३",
+      "mukhya_nyayadhish": "वी. कामेश्वर राव"
+    },
+    {
+      "kram": "२०",
+      "nyayalay": "पंजाब और हरियाणा उच्च न्यायालय",
+      "sthapana": "15 अगस्त 1947",
+      "sthapana_adhiniyam": "पंजाब उच्च न्यायालय अध्यादेश, १९४७",
+      "nyayakshetra": "चंडीगढ़ , हरियाणा , पंजाब",
+      "pramukh_peeth": "चण्डीगढ़",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "८५",
+      "mukhya_nyayadhish": "अश्वनी कुमार मिश्रा"
+    },
+    {
+      "kram": "२१",
+      "nyayalay": "राजस्थान उच्च न्यायालय",
+      "sthapana": "21 जून 1949",
+      "sthapana_adhiniyam": "राजस्थान उच्च न्यायालय अध्यादेश, १९४९",
+      "nyayakshetra": "राजस्थान",
+      "pramukh_peeth": "जोधपुर",
+      "anya_peeth": "जयपुर",
+      "nyayadhish_kul_sankhya": "५०",
+      "mukhya_nyayadhish": "संजय कुमार अग्रवाल"
+    },
+    {
+      "kram": "२२",
+      "nyayalay": "सिक्किम उच्च न्यायालय",
+      "sthapana": "16 मई 1975",
+      "sthapana_adhiniyam": "भारतीय संविधान का ३६वां संशोधन",
+      "nyayakshetra": "सिक्किम",
+      "pramukh_peeth": "गंगटोक",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "३",
+      "mukhya_nyayadhish": "मुहम्मद मुस्ताक आयुमंतकथ"
+    },
+    {
+      "kram": "२३",
+      "nyayalay": "तेलंगाना उच्च न्यायालय",
+      "sthapana": "1 जनवरी 2019",
+      "sthapana_adhiniyam": "आन्ध्र प्रदेश पुनर्गठन अधिनियम, २०१४",
+      "nyayakshetra": "तेलंगाना",
+      "pramukh_peeth": "हैदराबाद",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "४२",
+      "mukhya_nyayadhish": "अपरेश कुमार सिंह"
+    },
+    {
+      "kram": "२४",
+      "nyayalay": "त्रिपुरा उच्च न्यायालय",
+      "sthapana": "26 मार्च 2013",
+      "sthapana_adhiniyam": "पूर्वोत्तर क्षेत्र (पुनर्गठन) एवं अन्य संबंधित विधियाँ (संशोधन) अधिनियम, २०१२",
+      "nyayakshetra": "त्रिपुरा",
+      "pramukh_peeth": "अगरतला",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "५",
+      "mukhya_nyayadhish": "ममीदन्ना सत्यरत्न रामचंद्र राव"
+    },
+    {
+      "kram": "२५",
+      "nyayalay": "उत्तराखण्ड उच्च न्यायालय",
+      "sthapana": "9 नवंबर 2000",
+      "sthapana_adhiniyam": "उत्तर प्रदेश पुनर्गठन अधिनियम, 2000",
+      "nyayakshetra": "उत्तराखण्ड",
+      "pramukh_peeth": "नैनीताल",
+      "anya_peeth": "—",
+      "nyayadhish_kul_sankhya": "११",
+      "mukhya_nyayadhish": "मनोज कुमार गुप्ता ( सूची )"
+    }
+  ],
+  "meta": {
+    "title": "भारत के उच्च न्यायालयों की सूची - Free Download",
+    "description": "भारत के सभी उच्च न्यायालयों की सूची, स्थापना तिथि, न्यायक्षेत्र, प्रमुख पीठ, न्यायाधीशों की संख्या और मुख्य न्यायाधीश सहित। Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के उच्च न्यायालयों की सूची | ListBase",
+    "seo_description": "Download भारत के उच्च न्यायालयों की सूची — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_उच्च_न्यायालयों_की_सूची"
+    ]
+  }
+}

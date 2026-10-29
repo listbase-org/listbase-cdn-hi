@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-28T02:25:51.392Z",
-  "total_datasets": 453,
-  "total_records": 2011657,
+  "generated": "2026-10-29T02:16:01.504Z",
+  "total_datasets": 454,
+  "total_records": 2011682,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -6448,6 +6448,36 @@
         "xlsx": {
           "name": "hi-bharat-ke-mukhya-nyayadhish_HI.xlsx",
           "size": 10584
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-uchch-nyayalay",
+      "name": "भारत के उच्च न्यायालयों की सूची",
+      "category": "law",
+      "record_count": 25,
+      "columns": [
+        "kram",
+        "nyayalay",
+        "sthapana",
+        "sthapana_adhiniyam",
+        "nyayakshetra",
+        "pramukh_peeth",
+        "anya_peeth",
+        "nyayadhish_kul_sankhya",
+        "mukhya_nyayadhish"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_उच्च_न्यायालयों_की_सूची",
+      "updated": "2026-10",
+      "size": 17413,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-uchch-nyayalay_HI.csv",
+          "size": 9056
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-uchch-nyayalay_HI.xlsx",
+          "size": 9927
         }
       }
     },

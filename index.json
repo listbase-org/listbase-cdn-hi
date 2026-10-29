@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-29T02:16:08.774Z",
-  "total_datasets": 457,
-  "total_records": 2011767,
+  "generated": "2026-10-29T02:16:11.356Z",
+  "total_datasets": 458,
+  "total_records": 2011788,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -6425,6 +6425,33 @@
         "xlsx": {
           "name": "hi-governor-general-viceroy_HI.xlsx",
           "size": 9216
+        }
+      }
+    },
+    {
+      "id": "hi-mughal-shasak",
+      "name": "मुग़ल शासकों की सूची",
+      "category": "history",
+      "record_count": 21,
+      "columns": [
+        "naam",
+        "janm_naam",
+        "janm",
+        "rajyakal",
+        "mrityu",
+        "tippaniyan"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/मुग़ल_शासकों_की_सूची",
+      "updated": "2026-10",
+      "size": 12139,
+      "files": {
+        "csv": {
+          "name": "hi-mughal-shasak_HI.csv",
+          "size": 7539
+        },
+        "xlsx": {
+          "name": "hi-mughal-shasak_HI.xlsx",
+          "size": 9461
         }
       }
     },

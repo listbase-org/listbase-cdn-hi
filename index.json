@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-29T02:16:13.630Z",
-  "total_datasets": 459,
-  "total_records": 2011814,
+  "generated": "2026-10-30T02:48:53.078Z",
+  "total_datasets": 460,
+  "total_records": 2012053,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -6633,6 +6633,33 @@
         "xlsx": {
           "name": "hi-bharatiya-adhiniyam-sandarbh_HI.xlsx",
           "size": 22213
+        }
+      }
+    },
+    {
+      "id": "hi-arijit-singh-ke-geet",
+      "name": "अरिजीत सिंह के गाये गीतों की सूची",
+      "category": "music",
+      "record_count": 239,
+      "columns": [
+        "varsh",
+        "film",
+        "geet",
+        "sangeetkar",
+        "geetkar",
+        "sah_gayak"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/अरिजीत_सिंह_के_गाये_गीतों_की_सूची",
+      "updated": "2026-10",
+      "size": 71961,
+      "files": {
+        "csv": {
+          "name": "hi-arijit-singh-ke-geet_HI.csv",
+          "size": 42002
+        },
+        "xlsx": {
+          "name": "hi-arijit-singh-ke-geet_HI.xlsx",
+          "size": 19558
         }
       }
     },

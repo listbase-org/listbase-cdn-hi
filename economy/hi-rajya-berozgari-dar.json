@@ -1,0 +1,254 @@
+{
+  "id": "hi-rajya-berozgari-dar",
+  "name": "बेरोज़गारी दर के आधार पर भारत के राज्य (2015-16)",
+  "title": "बेरोज़गारी दर के आधार पर भारत के राज्य (2015-16)",
+  "description": "2015-16 में भारत के राज्यों और केंद्र शासित प्रदेशों की बेरोज़गारी दर (प्रति 1000), कुल, शहरी और ग्रामीण।",
+  "category": "economy",
+  "source": "https://hi.wikipedia.org/wiki/बेरोज़गारी_की_दर_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/बेरोज़गारी_की_दर_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "berozgari_dar_kul",
+      "label": "Berozgari Dar Kul",
+      "type": "number"
+    },
+    {
+      "key": "berozgari_dar_shahri",
+      "label": "Berozgari Dar Shahri",
+      "type": "number"
+    },
+    {
+      "key": "berozgari_dar_gramin",
+      "label": "Berozgari Dar Gramin",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "rajya": "गुजरात",
+      "berozgari_dar_kul": 10,
+      "berozgari_dar_shahri": 15,
+      "berozgari_dar_gramin": 7
+    },
+    {
+      "rank": 2,
+      "rajya": "कर्नाटक",
+      "berozgari_dar_kul": 15,
+      "berozgari_dar_shahri": 19,
+      "berozgari_dar_gramin": 13
+    },
+    {
+      "rank": 3,
+      "rajya": "छत्तीसगढ़",
+      "berozgari_dar_kul": 19,
+      "berozgari_dar_shahri": 68,
+      "berozgari_dar_gramin": 11
+    },
+    {
+      "rank": 4,
+      "rajya": "महाराष्ट्र",
+      "berozgari_dar_kul": 21,
+      "berozgari_dar_shahri": 23,
+      "berozgari_dar_gramin": 20
+    },
+    {
+      "rank": 5,
+      "rajya": "तेलंगाना",
+      "berozgari_dar_kul": 28,
+      "berozgari_dar_shahri": 62,
+      "berozgari_dar_gramin": 13
+    },
+    {
+      "rank": 6,
+      "rajya": "मिजोरम",
+      "berozgari_dar_kul": 30,
+      "berozgari_dar_shahri": 49,
+      "berozgari_dar_gramin": 15
+    },
+    {
+      "rank": 7,
+      "rajya": "आंध्र प्रदेश",
+      "berozgari_dar_kul": 39,
+      "berozgari_dar_shahri": 44,
+      "berozgari_dar_gramin": 38
+    },
+    {
+      "rank": 8,
+      "rajya": "तमिलनाडु",
+      "berozgari_dar_kul": 42,
+      "berozgari_dar_shahri": 36,
+      "berozgari_dar_gramin": 45
+    },
+    {
+      "rank": 9,
+      "rajya": "मध्य प्रदेश",
+      "berozgari_dar_kul": 43,
+      "berozgari_dar_shahri": 40,
+      "berozgari_dar_gramin": 44
+    },
+    {
+      "rank": 10,
+      "rajya": "हरियाणा",
+      "berozgari_dar_kul": 47,
+      "berozgari_dar_shahri": 57,
+      "berozgari_dar_gramin": 43
+    },
+    {
+      "rank": 11,
+      "rajya": "मेघालय",
+      "berozgari_dar_kul": 48,
+      "berozgari_dar_shahri": 134,
+      "berozgari_dar_gramin": 28
+    },
+    {
+      "rank": 12,
+      "rajya": "पश्चिम बंगाल",
+      "berozgari_dar_kul": 49,
+      "berozgari_dar_shahri": 56,
+      "berozgari_dar_gramin": 47
+    },
+    {
+      "rank": 13,
+      "rajya": "ओडिशा",
+      "berozgari_dar_kul": 50,
+      "berozgari_dar_shahri": 47,
+      "berozgari_dar_gramin": 51
+    },
+    {
+      "rank": 14,
+      "rajya": "मणिपुर",
+      "berozgari_dar_kul": 57,
+      "berozgari_dar_shahri": 70,
+      "berozgari_dar_gramin": 49
+    },
+    {
+      "rank": 15,
+      "rajya": "बिहार",
+      "berozgari_dar_kul": 60,
+      "berozgari_dar_shahri": 74,
+      "berozgari_dar_gramin": 59
+    },
+    {
+      "rank": 15,
+      "rajya": "पंजाब",
+      "berozgari_dar_kul": 60,
+      "berozgari_dar_shahri": 62,
+      "berozgari_dar_gramin": 59
+    },
+    {
+      "rank": 16,
+      "rajya": "गोवा",
+      "berozgari_dar_kul": 61,
+      "berozgari_dar_shahri": 101,
+      "berozgari_dar_gramin": 55
+    },
+    {
+      "rank": 18,
+      "rajya": "उत्तराखंड",
+      "berozgari_dar_kul": 70,
+      "berozgari_dar_shahri": 32,
+      "berozgari_dar_gramin": 81
+    },
+    {
+      "rank": 19,
+      "rajya": "राजस्थान",
+      "berozgari_dar_kul": 71,
+      "berozgari_dar_shahri": 43,
+      "berozgari_dar_gramin": 77
+    },
+    {
+      "rank": 20,
+      "rajya": "जम्मू और कश्मीर",
+      "berozgari_dar_kul": 72,
+      "berozgari_dar_shahri": 36,
+      "berozgari_dar_gramin": 83
+    },
+    {
+      "rank": 21,
+      "rajya": "उत्तर प्रदेश",
+      "berozgari_dar_kul": 74,
+      "berozgari_dar_shahri": 67,
+      "berozgari_dar_gramin": 76
+    },
+    {
+      "rank": 22,
+      "rajya": "झारखंड",
+      "berozgari_dar_kul": 77,
+      "berozgari_dar_shahri": 94,
+      "berozgari_dar_gramin": 73
+    },
+    {
+      "rank": 23,
+      "rajya": "नागालैंड",
+      "berozgari_dar_kul": 85,
+      "berozgari_dar_shahri": 141,
+      "berozgari_dar_gramin": 69
+    },
+    {
+      "rank": 24,
+      "rajya": "अरुणाचल प्रदेश",
+      "berozgari_dar_kul": 89,
+      "berozgari_dar_shahri": 52,
+      "berozgari_dar_gramin": 93
+    },
+    {
+      "rank": 25,
+      "rajya": "असम",
+      "berozgari_dar_kul": 96,
+      "berozgari_dar_shahri": 58,
+      "berozgari_dar_gramin": 150
+    },
+    {
+      "rank": 26,
+      "rajya": "हिमाचल प्रदेश",
+      "berozgari_dar_kul": 106,
+      "berozgari_dar_shahri": 23,
+      "berozgari_dar_gramin": 117
+    },
+    {
+      "rank": 27,
+      "rajya": "केरल",
+      "berozgari_dar_kul": 125,
+      "berozgari_dar_shahri": 126,
+      "berozgari_dar_gramin": 125
+    },
+    {
+      "rank": 28,
+      "rajya": "सिक्किम",
+      "berozgari_dar_kul": 181,
+      "berozgari_dar_shahri": 168,
+      "berozgari_dar_gramin": 184
+    },
+    {
+      "rank": 29,
+      "rajya": "त्रिपुरा",
+      "berozgari_dar_kul": 197,
+      "berozgari_dar_shahri": 172,
+      "berozgari_dar_gramin": 203
+    }
+  ],
+  "meta": {
+    "title": "बेरोज़गारी दर के आधार पर भारत के राज्य (2015-16) - Free Download",
+    "description": "2015-16 में भारत के राज्यों और केंद्र शासित प्रदेशों की बेरोज़गारी दर (प्रति 1000), कुल, शहरी और ग्रामीण। Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "बेरोज़गारी दर के आधार पर भारत के राज्य (2015-16) | ListBase",
+    "seo_description": "Download बेरोज़गारी दर के आधार पर भारत के राज्य (2015-16) — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/बेरोज़गारी_की_दर_के_आधार_पर_भारत_के_राज्यों_की_सूची"
+    ]
+  }
+}

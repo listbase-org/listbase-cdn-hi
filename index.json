@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-30T02:49:01.087Z",
-  "total_datasets": 461,
-  "total_records": 2012082,
+  "generated": "2026-10-30T02:49:08.646Z",
+  "total_datasets": 462,
+  "total_records": 2012119,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -6659,6 +6659,38 @@
         "xlsx": {
           "name": "hi-bharatiya-adhiniyam-sandarbh_HI.xlsx",
           "size": 22213
+        }
+      }
+    },
+    {
+      "id": "hi-rajya-apradh-dar",
+      "name": "अपराध दर के आधार पर भारत के राज्य",
+      "category": "law",
+      "record_count": 37,
+      "columns": [
+        "rajya",
+        "hinsak_apradh",
+        "hatya",
+        "balatkar",
+        "apharan",
+        "bachchon_ke_prati_apradh",
+        "jabran_vasuli",
+        "dakaiti",
+        "hit_and_run",
+        "nashile_padarth_taskari",
+        "avaidh_hathiyar"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/अपराध_दर_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+      "updated": "2026-10",
+      "size": 15456,
+      "files": {
+        "csv": {
+          "name": "hi-rajya-apradh-dar_HI.csv",
+          "size": 3472
+        },
+        "xlsx": {
+          "name": "hi-rajya-apradh-dar_HI.xlsx",
+          "size": 9377
         }
       }
     },

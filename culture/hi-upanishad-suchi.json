@@ -1,0 +1,694 @@
+{
+  "id": "hi-upanishad-suchi",
+  "name": "उपनिषदों की सूची",
+  "title": "उपनिषदों की सूची",
+  "description": "108 उपनिषदों की सूची, उनके वर्ग (मुख्य, सामान्य, संन्यास, शाक्त, वैष्णव, शैव, योग) और सम्बन्धित वेद सहित।",
+  "category": "culture",
+  "source": "https://hi.wikipedia.org/wiki/उपनिषद्_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/उपनिषद्_सूची",
+  "updated": "2026-10",
+  "record_count": 108,
+  "columns": [
+    {
+      "key": "kramank",
+      "label": "Kramank",
+      "type": "number"
+    },
+    {
+      "key": "upanishad",
+      "label": "Upanishad",
+      "type": "string"
+    },
+    {
+      "key": "varg",
+      "label": "Varg",
+      "type": "string"
+    },
+    {
+      "key": "sambandhit_ved",
+      "label": "Sambandhit Ved",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kramank": 1,
+      "upanishad": "ईशा उपनिषद् ईशावास्य उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 2,
+      "upanishad": "केन उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 3,
+      "upanishad": "कठ उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 4,
+      "upanishad": "प्रश्न उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 5,
+      "upanishad": "मुण्डक उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 6,
+      "upanishad": "माण्डुक्य उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 7,
+      "upanishad": "तैत्तिरीय उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 8,
+      "upanishad": "ऐतरेय उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 9,
+      "upanishad": "छान्दोग्य उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 10,
+      "upanishad": "बृहदारण्यक उपनिषद्",
+      "varg": "मुख्य",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 11,
+      "upanishad": "ब्रह्म उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 12,
+      "upanishad": "कैवल्य उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 13,
+      "upanishad": "जाबाल उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 14,
+      "upanishad": "श्वेताश्वतर उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 15,
+      "upanishad": "हंस उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 16,
+      "upanishad": "आरुणेय उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 17,
+      "upanishad": "गर्भ उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 18,
+      "upanishad": "नारायण उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 19,
+      "upanishad": "परमहंस उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 20,
+      "upanishad": "ब्रह्म-बिन्दु-उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 21,
+      "upanishad": "अमृत-नाद उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 22,
+      "upanishad": "अथर्व-शिर उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 23,
+      "upanishad": "अथर्व-शिख उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 24,
+      "upanishad": "मैत्रायणि उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 25,
+      "upanishad": "कौषीतकि उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 26,
+      "upanishad": "बृहज्जाबाल उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 27,
+      "upanishad": "नृसिंहतापनी उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 28,
+      "upanishad": "कालाग्निरुद्र उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 29,
+      "upanishad": "मैत्रेयि उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 30,
+      "upanishad": "सुबाल उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 31,
+      "upanishad": "क्षुरिक उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 32,
+      "upanishad": "मान्त्रिक उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 33,
+      "upanishad": "सर्व-सार उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 34,
+      "upanishad": "निरालम्ब उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 35,
+      "upanishad": "शुक-रहस्य उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 36,
+      "upanishad": "वज्रसूचि उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 37,
+      "upanishad": "तेजो-बिन्दु उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 38,
+      "upanishad": "नाद-बिन्दु उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 39,
+      "upanishad": "ध्यानबिन्दु उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 40,
+      "upanishad": "ब्रह्मविद्या उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 41,
+      "upanishad": "योगतत्त्व उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 42,
+      "upanishad": "आत्मबोध उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 43,
+      "upanishad": "परिव्रात् उपनिषद् (नारदपरिव्राजक)",
+      "varg": "संन्यास",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 44,
+      "upanishad": "त्रिषिखि उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 45,
+      "upanishad": "सीता उपनिषद्",
+      "varg": "शाक्त",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 46,
+      "upanishad": "योगचूडामणि उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 47,
+      "upanishad": "निर्वाण उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 48,
+      "upanishad": "मण्डलब्राह्मण उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 49,
+      "upanishad": "दक्षिणामूर्ति उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 50,
+      "upanishad": "शरभ उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 51,
+      "upanishad": "स्कन्द उपनिषद् (त्रिपाद्विभूति)",
+      "varg": "सामान्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 52,
+      "upanishad": "महानारायण उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 53,
+      "upanishad": "अद्वयतारक उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 54,
+      "upanishad": "रामरहस्य उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 55,
+      "upanishad": "रामतापणि उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 56,
+      "upanishad": "वासुदेव उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 57,
+      "upanishad": "मुद्गल उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 58,
+      "upanishad": "शाण्डिल्य उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 59,
+      "upanishad": "पैंगल उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 60,
+      "upanishad": "भिक्षुक उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 61,
+      "upanishad": "महत् उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 62,
+      "upanishad": "शारीरक उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 63,
+      "upanishad": "योगशिखा उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 64,
+      "upanishad": "तुरीयातीत उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 65,
+      "upanishad": "संन्यास उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 66,
+      "upanishad": "परमहंस-परिव्राजक उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 67,
+      "upanishad": "अक्षमालिक उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 68,
+      "upanishad": "अव्यक्त उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 69,
+      "upanishad": "एकाक्षर उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 70,
+      "upanishad": "अन्नपूर्ण उपनिषद्",
+      "varg": "शाक्त",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 71,
+      "upanishad": "सूर्य उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 72,
+      "upanishad": "अक्षि उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 73,
+      "upanishad": "अध्यात्मा उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 74,
+      "upanishad": "कुण्डिक उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 75,
+      "upanishad": "सावित्रि उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 76,
+      "upanishad": "आत्मा उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 77,
+      "upanishad": "पाशुपत उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 78,
+      "upanishad": "परब्रह्म उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 79,
+      "upanishad": "अवधूत उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 80,
+      "upanishad": "त्रिपुरातपनि उपनिषद्",
+      "varg": "शाक्त",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 81,
+      "upanishad": "देवि उपनिषद्",
+      "varg": "शाक्त",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 82,
+      "upanishad": "त्रिपुर उपनिषद्",
+      "varg": "शाक्त",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 83,
+      "upanishad": "कठरुद्र उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 84,
+      "upanishad": "भावन उपनिषद्",
+      "varg": "शाक्त",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 85,
+      "upanishad": "रुद्र-हृदय उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 86,
+      "upanishad": "योग-कुण्डलिनि उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 87,
+      "upanishad": "भस्म उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 88,
+      "upanishad": "रुद्राक्ष उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 89,
+      "upanishad": "गणपति उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 90,
+      "upanishad": "जाबालदर्शन उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 91,
+      "upanishad": "तारसार उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 92,
+      "upanishad": "महावाक्य उपनिषद्",
+      "varg": "योग",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 93,
+      "upanishad": "पञ्च-ब्रह्म उपनिषद्",
+      "varg": "शैव",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 94,
+      "upanishad": "प्राणाग्नि-होत्र उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 95,
+      "upanishad": "गोपाल-तपणि उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 96,
+      "upanishad": "कृष्ण उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 97,
+      "upanishad": "याज्ञवल्क्य उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 98,
+      "upanishad": "वराह उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 99,
+      "upanishad": "शात्यायनि उपनिषद्",
+      "varg": "संन्यास",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    },
+    {
+      "kramank": 100,
+      "upanishad": "हयग्रीव उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 101,
+      "upanishad": "दत्तात्रेय उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 102,
+      "upanishad": "गारुड उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "अथर्ववेद"
+    },
+    {
+      "kramank": 103,
+      "upanishad": "कलि-सण्टारण उपनिषद्",
+      "varg": "वैष्णव",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 104,
+      "upanishad": "जाबाल उपनिषद् (सामवेद)",
+      "varg": "शैव",
+      "sambandhit_ved": "सामवेद"
+    },
+    {
+      "kramank": 105,
+      "upanishad": "सौभाग्य उपनिषद्",
+      "varg": "शाक्त",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 106,
+      "upanishad": "सरस्वती-रहस्य उपनिषद्",
+      "varg": "शाक्त",
+      "sambandhit_ved": "कृष्ण यजुर्वेद"
+    },
+    {
+      "kramank": 107,
+      "upanishad": "बह्वृच उपनिषद्",
+      "varg": "शाक्त",
+      "sambandhit_ved": "ऋग्वेद"
+    },
+    {
+      "kramank": 108,
+      "upanishad": "मुक्तिक उपनिषद्",
+      "varg": "सामान्य",
+      "sambandhit_ved": "शुक्ल यजुर्वेद"
+    }
+  ],
+  "meta": {
+    "title": "उपनिषदों की सूची - Free Download",
+    "description": "108 उपनिषदों की सूची, उनके वर्ग (मुख्य, सामान्य, संन्यास, शाक्त, वैष्णव, शैव, योग) और सम्बन्धित वेद सहित। Contains 108 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "उपनिषदों की सूची | ListBase",
+    "seo_description": "Download उपनिषदों की सूची — 108 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 108 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/उपनिषद्_सूची"
+    ]
+  }
+}

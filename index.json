@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-02T02:27:43.727Z",
-  "total_datasets": 471,
-  "total_records": 2013006,
+  "generated": "2026-11-02T02:27:50.722Z",
+  "total_datasets": 472,
+  "total_records": 2013018,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -6703,6 +6703,34 @@
         "xlsx": {
           "name": "hi-rajya-hindi-bhashi_HI.xlsx",
           "size": 8103
+        }
+      }
+    },
+    {
+      "id": "hi-vishwa-hindi-sammelan",
+      "name": "विश्व हिंदी सम्मेलनों की सूची",
+      "category": "language",
+      "record_count": 12,
+      "columns": [
+        "sammelan",
+        "avadhi",
+        "sthan",
+        "udghatan",
+        "pratibhagi_desh",
+        "pratinidhi_sankhya",
+        "vishay"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/विश्व_हिंदी_सम्मेलनों_की_सूची",
+      "updated": "2026-11",
+      "size": 6946,
+      "files": {
+        "csv": {
+          "name": "hi-vishwa-hindi-sammelan_HI.csv",
+          "size": 2520
+        },
+        "xlsx": {
+          "name": "hi-vishwa-hindi-sammelan_HI.xlsx",
+          "size": 8004
         }
       }
     },

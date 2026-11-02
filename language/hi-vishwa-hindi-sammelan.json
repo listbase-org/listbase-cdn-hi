@@ -1,0 +1,169 @@
+{
+  "id": "hi-vishwa-hindi-sammelan",
+  "name": "विश्व हिंदी सम्मेलनों की सूची",
+  "title": "विश्व हिंदी सम्मेलनों की सूची",
+  "description": "1975 से अब तक आयोजित विश्व हिंदी सम्मेलनों की सूची – अवधि, स्थान, उद्घाटनकर्ता, प्रतिभागी देशों व प्रतिनिधियों की संख्या और विषय सहित।",
+  "category": "language",
+  "source": "https://hi.wikipedia.org/wiki/विश्व_हिंदी_सम्मेलनों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/विश्व_हिंदी_सम्मेलनों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "sammelan",
+      "label": "Sammelan",
+      "type": "string"
+    },
+    {
+      "key": "avadhi",
+      "label": "Avadhi",
+      "type": "string"
+    },
+    {
+      "key": "sthan",
+      "label": "Sthan",
+      "type": "string"
+    },
+    {
+      "key": "udghatan",
+      "label": "Udghatan",
+      "type": "string"
+    },
+    {
+      "key": "pratibhagi_desh",
+      "label": "Pratibhagi Desh",
+      "type": "number"
+    },
+    {
+      "key": "pratinidhi_sankhya",
+      "label": "Pratinidhi Sankhya",
+      "type": "number"
+    },
+    {
+      "key": "vishay",
+      "label": "Vishay",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sammelan": "पहला सम्मेलन",
+      "avadhi": "10-14जनवरी 1975",
+      "sthan": "नागपुर(महाराष्ट्र),भारत",
+      "udghatan": "इंदिरा गांधी,प्रधान मंत्री,भारत",
+      "pratibhagi_desh": 30,
+      "pratinidhi_sankhya": 122,
+      "vishay": ""
+    },
+    {
+      "sammelan": "दूसरा सम्मेलन",
+      "avadhi": "28-30 अगस्त 1976",
+      "sthan": "पोर्ट लुइस, मॉरीशस",
+      "udghatan": "",
+      "pratibhagi_desh": 17,
+      "pratinidhi_sankhya": 181,
+      "vishay": ""
+    },
+    {
+      "sammelan": "तीसरा सम्मेलन",
+      "avadhi": "28-30 अक्टूबर 1983",
+      "sthan": "नई दिल्ली,भारत",
+      "udghatan": "",
+      "pratibhagi_desh": 30,
+      "pratinidhi_sankhya": 260,
+      "vishay": ""
+    },
+    {
+      "sammelan": "चौथा सम्मेलन",
+      "avadhi": "02-04 दिसंबर 1993",
+      "sthan": "पोर्ट लुई, मॉरिशस",
+      "udghatan": "श्री म्युक्तेश्चर चुनी",
+      "pratibhagi_desh": 10,
+      "pratinidhi_sankhya": 203,
+      "vishay": ""
+    },
+    {
+      "sammelan": "पांचवाँ सम्मेलन",
+      "avadhi": "04-08 अप्रैल 1996",
+      "sthan": "पोर्ट ऑफ़ स्पेन,त्रिनिदाद और टुबैगो",
+      "udghatan": "",
+      "pratibhagi_desh": 10,
+      "pratinidhi_sankhya": 201,
+      "vishay": "प्रवासी भारतीय और हिंदी"
+    },
+    {
+      "sammelan": "छठा सम्मेलन",
+      "avadhi": "14-18 सितम्बर 1999",
+      "sthan": "लंदन,यू के",
+      "udghatan": "",
+      "pratibhagi_desh": 21,
+      "pratinidhi_sankhya": 700,
+      "vishay": ""
+    },
+    {
+      "sammelan": "सातवां हिंदी सम्मेलन",
+      "avadhi": "06-09 जून 2003",
+      "sthan": "पारामारिबो, सूरीनाम",
+      "udghatan": "",
+      "pratibhagi_desh": 16,
+      "pratinidhi_sankhya": 500,
+      "vishay": "विश्व हिंदी: नई शताब्दी की चुनौतियाँ"
+    },
+    {
+      "sammelan": "आठवां सम्मेलन",
+      "avadhi": "13-16 जुलाई 2007",
+      "sthan": "न्यू यॉर्क,यू एस ए",
+      "udghatan": "",
+      "pratibhagi_desh": 20,
+      "pratinidhi_sankhya": 800,
+      "vishay": "विश्व मंच पर हिंदी"
+    },
+    {
+      "sammelan": "नवां सम्मेलन",
+      "avadhi": "22-24 सितम्बर 2012",
+      "sthan": "जोहानसबर्ग,दक्षिणी अफ्रीका",
+      "udghatan": "",
+      "pratibhagi_desh": 30,
+      "pratinidhi_sankhya": 200,
+      "vishay": ""
+    },
+    {
+      "sammelan": "दसवां सम्मलेन",
+      "avadhi": "10-12 सितम्बर 2015",
+      "sthan": "भोपाल, भारत",
+      "udghatan": "नरेंद्र मोदी, प्रधान मंत्री, भारत",
+      "pratibhagi_desh": 50,
+      "pratinidhi_sankhya": 2000,
+      "vishay": "हिंदी जगत: विस्तार एवं संभावनाऍं"
+    },
+    {
+      "sammelan": "ग्यारहवां सम्मलेन",
+      "avadhi": "18-20 अगस्त 2018",
+      "sthan": "पोर्ट लुई, मॉरीशस",
+      "udghatan": "",
+      "pratibhagi_desh": "",
+      "pratinidhi_sankhya": "",
+      "vishay": "वैश्विक हिंदी और भारतीय संस्कृति"
+    },
+    {
+      "sammelan": "बारहवाँ सम्मेलन",
+      "avadhi": "15-17 फरवरी 2023",
+      "sthan": "नाड़ी (फिजी)",
+      "udghatan": "",
+      "pratibhagi_desh": "",
+      "pratinidhi_sankhya": "",
+      "vishay": "हिन्दी पारम्परिक ज्ञान से कृत्रिम मेधा तक।"
+    }
+  ],
+  "meta": {
+    "title": "विश्व हिंदी सम्मेलनों की सूची - Free Download",
+    "description": "1975 से अब तक आयोजित विश्व हिंदी सम्मेलनों की सूची – अवधि, स्थान, उद्घाटनकर्ता, प्रतिभागी देशों व प्रतिनिधियों की संख्या और विषय सहित। Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "विश्व हिंदी सम्मेलनों की सूची | ListBase",
+    "seo_description": "Download विश्व हिंदी सम्मेलनों की सूची — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/विश्व_हिंदी_सम्मेलनों_की_सूची"
+    ]
+  }
+}

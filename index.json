@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-10-30T02:49:17.082Z",
-  "total_datasets": 463,
-  "total_records": 2012227,
+  "generated": "2026-11-02T02:26:52.933Z",
+  "total_datasets": 464,
+  "total_records": 2012765,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -554,6 +554,33 @@
         "xlsx": {
           "name": "hi-aicte-sansthayen_HI.xlsx",
           "size": 2144904
+        }
+      }
+    },
+    {
+      "id": "hi-ayurvigyan-mahavidyalaya",
+      "name": "भारत के आयुर्विज्ञान (मेडिकल) महाविद्यालयों की सूची",
+      "category": "education",
+      "record_count": 538,
+      "columns": [
+        "naam",
+        "sthan",
+        "rajya",
+        "sthapana",
+        "vishwavidyalaya",
+        "vittaposhan_swamitva"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_आयुर्विज्ञान_महाविद्यालयों_की_सूची",
+      "updated": "2026-11",
+      "size": 235172,
+      "files": {
+        "csv": {
+          "name": "hi-ayurvigyan-mahavidyalaya_HI.csv",
+          "size": 160571
+        },
+        "xlsx": {
+          "name": "hi-ayurvigyan-mahavidyalaya_HI.xlsx",
+          "size": 32360
         }
       }
     },

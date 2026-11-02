@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-02T02:27:29.991Z",
-  "total_datasets": 469,
-  "total_records": 2012882,
+  "generated": "2026-11-02T02:27:36.378Z",
+  "total_datasets": 470,
+  "total_records": 2012988,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -6792,6 +6792,32 @@
         "xlsx": {
           "name": "hi-rajya-apradh-dar_HI.xlsx",
           "size": 9377
+        }
+      }
+    },
+    {
+      "id": "hi-samvidhan-sanshodhan",
+      "name": "भारतीय संविधान के संशोधनों की सूची",
+      "category": "law",
+      "record_count": 106,
+      "columns": [
+        "kramank",
+        "sanshodhan",
+        "lagu_hone_ki_tithi",
+        "uddeshya",
+        "pradhanmantri"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_संविधान_के_संशोधनों_की_सूची",
+      "updated": "2026-11",
+      "size": 74577,
+      "files": {
+        "csv": {
+          "name": "hi-samvidhan-sanshodhan_HI.csv",
+          "size": 59207
+        },
+        "xlsx": {
+          "name": "hi-samvidhan-sanshodhan_HI.xlsx",
+          "size": 19375
         }
       }
     },

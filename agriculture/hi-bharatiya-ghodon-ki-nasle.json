@@ -1,0 +1,61 @@
+{
+  "id": "hi-bharatiya-ghodon-ki-nasle",
+  "name": "भारतीय घोड़ों की नस्लें",
+  "title": "भारतीय घोड़ों की नस्लें",
+  "description": "भारत की देशी घोड़ा नस्लों की सूची, जैसे मारवाड़ी, काठियावाड़ी, स्पिती और मणिपुरी टट्टू।",
+  "category": "agriculture",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_घोड़ों_की_नस्लों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_घोड़ों_की_नस्लों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "nasl",
+      "label": "Nasl",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nasl": "भूटिया"
+    },
+    {
+      "nasl": "चुम्मरती"
+    },
+    {
+      "nasl": "दक्कनी"
+    },
+    {
+      "nasl": "काठियावाड़ी"
+    },
+    {
+      "nasl": "मणिपुरी टट्टू"
+    },
+    {
+      "nasl": "मारवाड़ी"
+    },
+    {
+      "nasl": "सिकांग"
+    },
+    {
+      "nasl": "स्पिती"
+    },
+    {
+      "nasl": "ज़ानिस्करी"
+    },
+    {
+      "nasl": "सिंधी"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय घोड़ों की नस्लें - Free Download",
+    "description": "भारत की देशी घोड़ा नस्लों की सूची, जैसे मारवाड़ी, काठियावाड़ी, स्पिती और मणिपुरी टट्टू। Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय घोड़ों की नस्लें | ListBase",
+    "seo_description": "Download भारतीय घोड़ों की नस्लें — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 1 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_घोड़ों_की_नस्लों_की_सूची"
+    ]
+  }
+}

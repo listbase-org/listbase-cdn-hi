@@ -1,12 +1,12 @@
 {
   "lang": "hi",
-  "generated": "2026-11-02T02:27:00.733Z",
-  "total_datasets": 465,
-  "total_records": 2012773,
+  "generated": "2026-11-02T02:27:07.918Z",
+  "total_datasets": 466,
+  "total_records": 2012783,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -124,6 +124,28 @@
         "xlsx": {
           "name": "hi-bharat-chawal-utpadan-varshvar_HI.xlsx",
           "size": 8301
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-ghodon-ki-nasle",
+      "name": "भारतीय घोड़ों की नस्लें",
+      "category": "agriculture",
+      "record_count": 10,
+      "columns": [
+        "nasl"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_घोड़ों_की_नस्लों_की_सूची",
+      "updated": "2026-11",
+      "size": 2383,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-ghodon-ki-nasle_HI.csv",
+          "size": 274
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-ghodon-ki-nasle_HI.xlsx",
+          "size": 6861
         }
       }
     },

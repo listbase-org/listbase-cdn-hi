@@ -1,0 +1,154 @@
+{
+  "id": "hi-sanskrit-vishwavidyalaya",
+  "name": "भारत के संस्कृत विश्वविद्यालयों की सूची",
+  "title": "भारत के संस्कृत विश्वविद्यालयों की सूची",
+  "description": "भारत में स्थित संस्कृत विश्वविद्यालयों की सूची – स्थापना वर्ष और स्थान सहित।",
+  "category": "education",
+  "source": "https://hi.wikipedia.org/wiki/भारत_स्थित_संस्कृत_विश्वविद्यालयों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_स्थित_संस्कृत_विश्वविद्यालयों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "string"
+    },
+    {
+      "key": "sthapana_varsh",
+      "label": "Sthapana Varsh",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sthan",
+      "label": "Sthan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "१",
+      "sthapana_varsh": "१७९१",
+      "naam": "सम्पूर्णानन्द संस्कृत विश्वविद्यालय",
+      "sthan": "वाराणसी"
+    },
+    {
+      "kram": "२",
+      "sthapana_varsh": "१९६१",
+      "naam": "कामेश्वर सिंह दरभंगा संस्कृत विश्वविद्यालय",
+      "sthan": "दरभंगा"
+    },
+    {
+      "kram": "३",
+      "sthapana_varsh": "१९६२",
+      "naam": "राष्ट्रीय संस्कृत विद्यापीठ, तिरुपति",
+      "sthan": "तिरुपति"
+    },
+    {
+      "kram": "४",
+      "sthapana_varsh": "१९६२",
+      "naam": "श्री लाल बहादुर शास्त्री राष्ट्रीय संस्कृत विद्यापीठ",
+      "sthan": "नयी दिल्ली"
+    },
+    {
+      "kram": "५",
+      "sthapana_varsh": "१९७०",
+      "naam": "राष्ट्रीय संस्कृत संस्थान, नई दिल्ली",
+      "sthan": "नयी दिल्ली"
+    },
+    {
+      "kram": "६",
+      "sthapana_varsh": "१९८१",
+      "naam": "श्री जगन्नाथ संस्कृत विश्वविद्यालय",
+      "sthan": "पुरी"
+    },
+    {
+      "kram": "७",
+      "sthapana_varsh": "१९९३",
+      "naam": "श्री शंकराचार्य संस्कृत विश्वविद्यालय",
+      "sthan": "कालडी"
+    },
+    {
+      "kram": "८",
+      "sthapana_varsh": "१९९७",
+      "naam": "कविकुलगुरु कालिदास संस्कृत विश्वविद्यालय",
+      "sthan": "रामटेक"
+    },
+    {
+      "kram": "९",
+      "sthapana_varsh": "१९९८",
+      "naam": "लोकमान्य संस्कृत विश्वविद्यालय, येवला",
+      "sthan": "येवला (महाराष्ट्र)"
+    },
+    {
+      "kram": "१०",
+      "sthapana_varsh": "२००१",
+      "naam": "जगद्गुरु रामानन्दाचार्य राजस्थान संस्कृत विश्वविद्यालय",
+      "sthan": "जयपुर"
+    },
+    {
+      "kram": "११",
+      "sthapana_varsh": "२००५",
+      "naam": "श्री सोमनाथ संस्कृत विश्वविद्यालय",
+      "sthan": "वेरावल"
+    },
+    {
+      "kram": "१२",
+      "sthapana_varsh": "२००५",
+      "naam": "उत्तराखण्ड संस्कृत विश्वविद्यालय",
+      "sthan": "हरिद्वार"
+    },
+    {
+      "kram": "१३",
+      "sthapana_varsh": "२००६",
+      "naam": "श्री वेंकटेश्वर वैदिक विश्वविद्यालय",
+      "sthan": "तिरुपति"
+    },
+    {
+      "kram": "१४",
+      "sthapana_varsh": "२००८",
+      "naam": "महर्षि पाणिनि संस्कृत एवं वैदिक विश्वविद्यालय",
+      "sthan": "उज्जैन"
+    },
+    {
+      "kram": "१५",
+      "sthapana_varsh": "२०११",
+      "naam": "कर्नाटक संस्कृत विश्वविद्यालय",
+      "sthan": "बंगलुरु"
+    },
+    {
+      "kram": "१६",
+      "sthapana_varsh": "२०११",
+      "naam": "कुमार भास्कर वर्मा संस्कृत एवं पुरातन अध्ययन विश्वविद्यालय",
+      "sthan": "नलबाड़ी"
+    },
+    {
+      "kram": "१७",
+      "sthapana_varsh": "२०१५",
+      "naam": "श्रीराम संस्कृत महाविद्यालय (प्रा. श्री. अतुल तरटे सर)",
+      "sthan": "नासिक"
+    },
+    {
+      "kram": "१८",
+      "sthapana_varsh": "२०१८",
+      "naam": "महर्षि वाल्मीकि संस्कृत विश्वविद्यालय",
+      "sthan": "मुंदड़ी, (कैथल), हरियाणा"
+    }
+  ],
+  "meta": {
+    "title": "भारत के संस्कृत विश्वविद्यालयों की सूची - Free Download",
+    "description": "भारत में स्थित संस्कृत विश्वविद्यालयों की सूची – स्थापना वर्ष और स्थान सहित। Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के संस्कृत विश्वविद्यालयों की सूची | ListBase",
+    "seo_description": "Download भारत के संस्कृत विश्वविद्यालयों की सूची — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_स्थित_संस्कृत_विश्वविद्यालयों_की_सूची"
+    ]
+  }
+}

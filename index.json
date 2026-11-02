@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-02T02:27:36.378Z",
-  "total_datasets": 470,
-  "total_records": 2012988,
+  "generated": "2026-11-02T02:27:43.727Z",
+  "total_datasets": 471,
+  "total_records": 2013006,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -684,6 +684,31 @@
         "xlsx": {
           "name": "hi-rajya-saksharta-dar_HI.xlsx",
           "size": 8909
+        }
+      }
+    },
+    {
+      "id": "hi-sanskrit-vishwavidyalaya",
+      "name": "भारत के संस्कृत विश्वविद्यालयों की सूची",
+      "category": "education",
+      "record_count": 18,
+      "columns": [
+        "kram",
+        "sthapana_varsh",
+        "naam",
+        "sthan"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_स्थित_संस्कृत_विश्वविद्यालयों_की_सूची",
+      "updated": "2026-11",
+      "size": 6835,
+      "files": {
+        "csv": {
+          "name": "hi-sanskrit-vishwavidyalaya_HI.csv",
+          "size": 3006
+        },
+        "xlsx": {
+          "name": "hi-sanskrit-vishwavidyalaya_HI.xlsx",
+          "size": 7840
         }
       }
     },

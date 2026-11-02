@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-02T02:27:14.938Z",
-  "total_datasets": 467,
-  "total_records": 2012814,
+  "generated": "2026-11-02T02:27:22.111Z",
+  "total_datasets": 468,
+  "total_records": 2012843,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "time",
@@ -11161,6 +11161,30 @@
         "xlsx": {
           "name": "hi-uefa-champions-league-muqable_HI.xlsx",
           "size": 146509
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-missile",
+      "name": "भारतीय मिसाइलों की सूची",
+      "category": "tech",
+      "record_count": 29,
+      "columns": [
+        "naam",
+        "shreni",
+        "vivaran"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_मिसाइलों_की_सूची",
+      "updated": "2026-11",
+      "size": 20798,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-missile_HI.csv",
+          "size": 16983
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-missile_HI.xlsx",
+          "size": 9744
         }
       }
     },

@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-02T02:27:07.918Z",
-  "total_datasets": 466,
-  "total_records": 2012783,
+  "generated": "2026-11-02T02:27:14.938Z",
+  "total_datasets": 467,
+  "total_records": 2012814,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -10685,6 +10685,28 @@
         "xlsx": {
           "name": "hi-bharatiya-ganitagya_HI.xlsx",
           "size": 8836
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-khagoliya-granth",
+      "name": "भारतीय खगोलीय ग्रंथों की सूची",
+      "category": "science",
+      "record_count": 31,
+      "columns": [
+        "granth"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_खगोलीय_ग्रंथों_की_सूची",
+      "updated": "2026-11",
+      "size": 4469,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-khagoliya-granth_HI.csv",
+          "size": 1440
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-khagoliya-granth_HI.xlsx",
+          "size": 7395
         }
       }
     },

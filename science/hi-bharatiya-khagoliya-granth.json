@@ -1,0 +1,124 @@
+{
+  "id": "hi-bharatiya-khagoliya-granth",
+  "name": "भारतीय खगोलीय ग्रंथों की सूची",
+  "title": "भारतीय खगोलीय ग्रंथों की सूची",
+  "description": "प्राचीन और मध्यकालीन भारतीय खगोलशास्त्र (ज्योतिष) के प्रमुख ग्रंथों की सूची, जैसे आर्यभटीय, सूर्य सिद्धांत और सिद्धान्तशिरोमणि।",
+  "category": "science",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_खगोलीय_ग्रंथों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_खगोलीय_ग्रंथों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "granth",
+      "label": "Granth",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "granth": "वेदांग ज्योतिष"
+    },
+    {
+      "granth": "आर्यभटीय"
+    },
+    {
+      "granth": "ब्राह्मस्फुटसिद्धान्त"
+    },
+    {
+      "granth": "पंचसिद्धान्तिका"
+    },
+    {
+      "granth": "महाभास्करीय"
+    },
+    {
+      "granth": "लघुभास्करीय"
+    },
+    {
+      "granth": "आर्यभटीयभाष्य"
+    },
+    {
+      "granth": "शिष्यधीवृद्धिद"
+    },
+    {
+      "granth": "सिद्धांततिलक"
+    },
+    {
+      "granth": "सिद्धान्तशिरोमणि"
+    },
+    {
+      "granth": "करणकुतूहल"
+    },
+    {
+      "granth": "सिद्धांतशेखर"
+    },
+    {
+      "granth": "यंत्रराज"
+    },
+    {
+      "granth": "ज्योतिर्मीमांसा"
+    },
+    {
+      "granth": "स्फुटनिर्णय"
+    },
+    {
+      "granth": "करणोत्तम"
+    },
+    {
+      "granth": "उपरागक्रियाक्रम"
+    },
+    {
+      "granth": "शिष्यधीवृद्धिदतन्त्र"
+    },
+    {
+      "granth": "बृहद-संहिता"
+    },
+    {
+      "granth": "ग्रहण-माला"
+    },
+    {
+      "granth": "लीलावती"
+    },
+    {
+      "granth": "शतपथ ब्राह्मण"
+    },
+    {
+      "granth": "सूर्य सिद्धांत"
+    },
+    {
+      "granth": "मकरंदसारिणी"
+    },
+    {
+      "granth": "महादेवी (ज्योतिषशास्त्र का ग्रन्थ)"
+    },
+    {
+      "granth": "राजमर्गांक (ज्योतिषशास्त्र का ग्रन्थ)"
+    },
+    {
+      "granth": "जगद्भूभूषण"
+    },
+    {
+      "granth": "ग्रहचरनिबन्धन एवं अप्राप्त ग्रन्थ महामार्गनिबन्धन"
+    },
+    {
+      "granth": "तंत्रसंग्रह"
+    },
+    {
+      "granth": "करणपद्धति"
+    },
+    {
+      "granth": "वेण्वारोह"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय खगोलीय ग्रंथों की सूची - Free Download",
+    "description": "प्राचीन और मध्यकालीन भारतीय खगोलशास्त्र (ज्योतिष) के प्रमुख ग्रंथों की सूची, जैसे आर्यभटीय, सूर्य सिद्धांत और सिद्धान्तशिरोमणि। Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय खगोलीय ग्रंथों की सूची | ListBase",
+    "seo_description": "Download भारतीय खगोलीय ग्रंथों की सूची — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 1 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_खगोलीय_ग्रंथों_की_सूची"
+    ]
+  }
+}

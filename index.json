@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-02T02:26:52.933Z",
-  "total_datasets": 464,
-  "total_records": 2012765,
+  "generated": "2026-11-02T02:27:00.733Z",
+  "total_datasets": 465,
+  "total_records": 2012773,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -10611,6 +10611,34 @@
         "xlsx": {
           "name": "hi-west-bengal-jile_HI.xlsx",
           "size": 8403
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-jwalamukhi",
+      "name": "भारत के ज्वालामुखियों की सूची",
+      "category": "science",
+      "record_count": 8,
+      "columns": [
+        "naam",
+        "uunchai_m",
+        "uunchai_ft",
+        "nirdeshank",
+        "rajya",
+        "antim_visphot",
+        "prakar"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_में_ज्वालामुखियों_की_सूची",
+      "updated": "2026-11",
+      "size": 5413,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-jwalamukhi_HI.csv",
+          "size": 1869
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-jwalamukhi_HI.xlsx",
+          "size": 7622
         }
       }
     },

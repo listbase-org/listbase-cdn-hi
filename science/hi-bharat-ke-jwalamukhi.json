@@ -1,0 +1,133 @@
+{
+  "id": "hi-bharat-ke-jwalamukhi",
+  "name": "भारत के ज्वालामुखियों की सूची",
+  "title": "भारत के ज्वालामुखियों की सूची",
+  "description": "भारत में स्थित ज्वालामुखियों की सूची – ऊँचाई, निर्देशांक, राज्य, अंतिम विस्फोट और प्रकार सहित।",
+  "category": "science",
+  "source": "https://hi.wikipedia.org/wiki/भारत_में_ज्वालामुखियों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_में_ज्वालामुखियों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "uunchai_m",
+      "label": "Uunchai M",
+      "type": "number"
+    },
+    {
+      "key": "uunchai_ft",
+      "label": "Uunchai Ft",
+      "type": "number"
+    },
+    {
+      "key": "nirdeshank",
+      "label": "Nirdeshank",
+      "type": "string"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "antim_visphot",
+      "label": "Antim Visphot",
+      "type": "number"
+    },
+    {
+      "key": "prakar",
+      "label": "Prakar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naam": "बैरेन द्वीप",
+      "uunchai_m": 354,
+      "uunchai_ft": 1161,
+      "nirdeshank": "12.278°N 93.858°E",
+      "rajya": "अण्डमान और निकोबार द्वीपसमूह",
+      "antim_visphot": "2025",
+      "prakar": "स्ट्रैटोवोल्केनो, सक्रिय"
+    },
+    {
+      "naam": "नारकोंडम द्वीप",
+      "uunchai_m": 710,
+      "uunchai_ft": 2329,
+      "nirdeshank": "13.43°N 94.28°E",
+      "rajya": "अण्डमान और निकोबार द्वीपसमूह",
+      "antim_visphot": "1681",
+      "prakar": "स्ट्रैटोवोल्केनो, सुप्त"
+    },
+    {
+      "naam": "दक्कन का पठार",
+      "uunchai_m": 1500,
+      "uunchai_ft": 4920,
+      "nirdeshank": "18.51°N 73.43°E",
+      "rajya": "आंध्र प्रदेश, कर्नाटक, महाराष्ट्र, तेलंगाना",
+      "antim_visphot": "25 मिलियन वर्ष पूर्व",
+      "prakar": "कैल्डेरा, विलुप्त"
+    },
+    {
+      "naam": "बाराटांग द्वीप",
+      "uunchai_m": 532,
+      "uunchai_ft": 1745,
+      "nirdeshank": "12.07°N 92.47°E",
+      "rajya": "अण्डमान और निकोबार द्वीपसमूह",
+      "antim_visphot": "2003 से सक्रिय",
+      "prakar": "कीचड़ ज्वालामुखी, सक्रिय"
+    },
+    {
+      "naam": "धिनोधर पहाड़ियाँ",
+      "uunchai_m": 386,
+      "uunchai_ft": 1266.4,
+      "nirdeshank": "23.45°N 69.34°E",
+      "rajya": "गुजरात",
+      "antim_visphot": "500 मिलियन वर्ष पूर्व",
+      "prakar": "विलुप्त"
+    },
+    {
+      "naam": "धोसी पहाड़ी",
+      "uunchai_m": 740,
+      "uunchai_ft": 2427,
+      "nirdeshank": "28.06°N 76.03°E",
+      "rajya": "हरियाणा",
+      "antim_visphot": "750 मिलियन वर्ष पूर्व",
+      "prakar": "विलुप्त"
+    },
+    {
+      "naam": "तोशाम पहाड़ियाँ",
+      "uunchai_m": 207,
+      "uunchai_ft": 679,
+      "nirdeshank": "28.88°N 75.92°E",
+      "rajya": "हरियाणा",
+      "antim_visphot": "732 मिलियन वर्ष पूर्व",
+      "prakar": "विलुप्त"
+    },
+    {
+      "naam": "लोकटक झील",
+      "uunchai_m": 768,
+      "uunchai_ft": 2519.04,
+      "nirdeshank": "24.45°N 93.47°E",
+      "rajya": "मणिपुर",
+      "antim_visphot": "100 मिलियन वर्ष पूर्व",
+      "prakar": "सुपरवोल्केनिक कैल्डेरा, स्थिति अज्ञात"
+    }
+  ],
+  "meta": {
+    "title": "भारत के ज्वालामुखियों की सूची - Free Download",
+    "description": "भारत में स्थित ज्वालामुखियों की सूची – ऊँचाई, निर्देशांक, राज्य, अंतिम विस्फोट और प्रकार सहित। Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के ज्वालामुखियों की सूची | ListBase",
+    "seo_description": "Download भारत के ज्वालामुखियों की सूची — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_में_ज्वालामुखियों_की_सूची"
+    ]
+  }
+}

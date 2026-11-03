@@ -1,0 +1,135 @@
+{
+  "id": "hi-rashtriya-film-puraskar-sarvashreshth-film",
+  "name": "राष्ट्रीय फ़िल्म पुरस्कार – सर्वश्रेष्ठ फ़िल्म",
+  "title": "राष्ट्रीय फ़िल्म पुरस्कार – सर्वश्रेष्ठ फ़िल्म",
+  "description": "सर्वश्रेष्ठ फ़ीचर फ़िल्म का राष्ट्रीय फ़िल्म पुरस्कार जीतने वाली भारतीय फ़िल्में, उनकी भाषा, निर्माता और निर्देशक।",
+  "category": "entertainment",
+  "source": "https://hi.wikipedia.org/wiki/राष्ट्रीय_फ़िल्म_पुरस्कार_-_सर्वश्रेष्ठ_फ़िल्म",
+  "source_url": "https://hi.wikipedia.org/wiki/राष्ट्रीय_फ़िल्म_पुरस्कार_-_सर्वश्रेष्ठ_फ़िल्म",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "varsh",
+      "label": "Varsh",
+      "type": "string"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "bhasha",
+      "label": "Bhasha",
+      "type": "string"
+    },
+    {
+      "key": "nirmata",
+      "label": "Nirmata",
+      "type": "string"
+    },
+    {
+      "key": "nirdeshak",
+      "label": "Nirdeshak",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "varsh": "१९५३",
+      "film": "श्यामची आई",
+      "bhasha": "मराठी",
+      "nirmata": "प्रल्हाद केशव अत्रे",
+      "nirdeshak": "प्रल्हाद केशव अत्रे"
+    },
+    {
+      "varsh": "१९५७",
+      "film": "मिर्ज़ा गालिब",
+      "bhasha": "हिन्दी",
+      "nirmata": "सोहराब मोदी",
+      "nirdeshak": "सोहराब मोदी"
+    },
+    {
+      "varsh": "१९५८",
+      "film": "सागर संगमेय",
+      "bhasha": "बंगाली",
+      "nirmata": "",
+      "nirdeshak": ""
+    },
+    {
+      "varsh": "२०११",
+      "film": "देऊल",
+      "bhasha": "मराठी",
+      "nirmata": "अभिजीत घोलप",
+      "nirdeshak": "उमेश विनायक कुलकर्णी"
+    },
+    {
+      "varsh": "२०११",
+      "film": "ब्यारी",
+      "bhasha": "ब्यारी",
+      "nirmata": "अल्ताफ़ हुसेन",
+      "nirdeshak": "सुविरन"
+    },
+    {
+      "varsh": "२०१२",
+      "film": "पान सिंह तोमर",
+      "bhasha": "हिन्दी",
+      "nirmata": "",
+      "nirdeshak": "तिग्मांशु धूलिया"
+    },
+    {
+      "varsh": "२०१३",
+      "film": "शिप ऑफ थीसियस",
+      "bhasha": "अंग्रेज़ी हिन्दी",
+      "nirmata": "",
+      "nirdeshak": "आनंद गांधी"
+    },
+    {
+      "varsh": "२०१४",
+      "film": "कोर्ट",
+      "bhasha": "मराठी गुजराती अंग्रेज़ी हिन्दी",
+      "nirmata": "",
+      "nirdeshak": "चैतन्य ताम्हणे"
+    },
+    {
+      "varsh": "२०१५",
+      "film": "बाहुबली: द बिगनिंग",
+      "bhasha": "तेलुगू",
+      "nirmata": "शोबू यर्लागद्दा अर्का मिडीया वर्क्स",
+      "nirdeshak": "एस॰एस॰ राजामौली"
+    },
+    {
+      "varsh": "२०१६",
+      "film": "कासव",
+      "bhasha": "मराठी",
+      "nirmata": "सुमित्रा भावे सुनील सुकथनकर मोहन आगाशे",
+      "nirdeshak": "सुमित्रा भावे सुनील सुकथनकर"
+    },
+    {
+      "varsh": "२०१७",
+      "film": "विलेज रॉकस्टार्स",
+      "bhasha": "असमिया",
+      "nirmata": "रीमा दास",
+      "nirdeshak": "रीमा दास"
+    },
+    {
+      "varsh": "२०१८",
+      "film": "हेल्लारो",
+      "bhasha": "गुजराती",
+      "nirmata": "सारथि प्रोडक्शन",
+      "nirdeshak": "अभिषेक शाह"
+    }
+  ],
+  "meta": {
+    "title": "राष्ट्रीय फ़िल्म पुरस्कार – सर्वश्रेष्ठ फ़िल्म - Free Download",
+    "description": "सर्वश्रेष्ठ फ़ीचर फ़िल्म का राष्ट्रीय फ़िल्म पुरस्कार जीतने वाली भारतीय फ़िल्में, उनकी भाषा, निर्माता और निर्देशक। Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "राष्ट्रीय फ़िल्म पुरस्कार – सर्वश्रेष्ठ फ़िल्म | ListBase",
+    "seo_description": "Download राष्ट्रीय फ़िल्म पुरस्कार – सर्वश्रेष्ठ फ़िल्म — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/राष्ट्रीय_फ़िल्म_पुरस्कार_-_सर्वश्रेष्ठ_फ़िल्म"
+    ]
+  }
+}

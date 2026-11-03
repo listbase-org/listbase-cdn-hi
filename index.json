@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-03T02:17:10.582Z",
-  "total_datasets": 473,
-  "total_records": 2013107,
+  "generated": "2026-11-03T02:17:17.079Z",
+  "total_datasets": 474,
+  "total_records": 2013352,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -6947,6 +6947,32 @@
         "xlsx": {
           "name": "hi-bharatiya-vadya-yantra_HI.xlsx",
           "size": 8796
+        }
+      }
+    },
+    {
+      "id": "hi-filmfare-parshva-gayak-puraskar",
+      "name": "फ़िल्मफ़ेयर सर्वश्रेष्ठ पार्श्व गायक पुरस्कार विजेता और नामांकित",
+      "category": "music",
+      "record_count": 245,
+      "columns": [
+        "varsh",
+        "gayak",
+        "geet",
+        "film",
+        "parinam"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_पार्श्व_गायक_पुरस्कार",
+      "updated": "2026-11",
+      "size": 57912,
+      "files": {
+        "csv": {
+          "name": "hi-filmfare-parshva-gayak-puraskar_HI.csv",
+          "size": 32953
+        },
+        "xlsx": {
+          "name": "hi-filmfare-parshva-gayak-puraskar_HI.xlsx",
+          "size": 17475
         }
       }
     },

@@ -1,0 +1,674 @@
+{
+  "id": "hi-congress-adhyaksh",
+  "name": "भारतीय राष्ट्रीय कांग्रेस के अध्यक्षों की सूची",
+  "title": "भारतीय राष्ट्रीय कांग्रेस के अध्यक्षों की सूची",
+  "description": "1885 से अब तक भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष, उनका जीवनकाल, अध्यक्षता का वर्ष और अधिवेशन का स्थान।",
+  "category": "history",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_राष्ट्रीय_कांग्रेस_के_अध्यक्षों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_राष्ट्रीय_कांग्रेस_के_अध्यक्षों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "string"
+    },
+    {
+      "key": "adhyaksh",
+      "label": "Adhyaksh",
+      "type": "string"
+    },
+    {
+      "key": "jeevankal",
+      "label": "Jeevankal",
+      "type": "string"
+    },
+    {
+      "key": "adhyakshpad_varsh",
+      "label": "Adhyakshpad Varsh",
+      "type": "string"
+    },
+    {
+      "key": "sammelan_sthan",
+      "label": "Sammelan Sthan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "१",
+      "adhyaksh": "उमेश चन्द्र बनर्जी",
+      "jeevankal": "२९ दिसंबर १८४४ - २१ जूलाई १९०६",
+      "adhyakshpad_varsh": "१८८५",
+      "sammelan_sthan": "बम्बई"
+    },
+    {
+      "kram": "२",
+      "adhyaksh": "दादा भाई नौरोजी",
+      "jeevankal": "४ सितंबर १८२५ - ३० जून १९१७",
+      "adhyakshpad_varsh": "१८८६",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "३",
+      "adhyaksh": "बदरुद्दीन तैयबजी",
+      "jeevankal": "१० अक्टूबर १८४४ - १९ अगस्त १९०६",
+      "adhyakshpad_varsh": "१८८७",
+      "sammelan_sthan": "मद्रास"
+    },
+    {
+      "kram": "४",
+      "adhyaksh": "जॉर्ज यूल",
+      "jeevankal": "१७ अप्रैल १८२९ - २६ मार्च १८९२",
+      "adhyakshpad_varsh": "१८८८",
+      "sammelan_sthan": "इलाहबाद"
+    },
+    {
+      "kram": "५",
+      "adhyaksh": "विलियम वेडरबर्न",
+      "jeevankal": "२५ मार्च १८३८ - २५ जनवरी १९१८",
+      "adhyakshpad_varsh": "१८८९",
+      "sammelan_sthan": "बम्बई"
+    },
+    {
+      "kram": "६",
+      "adhyaksh": "फिरोज़शाह मेहता",
+      "jeevankal": "४ अगस्त १८४५ - ५ नवंबर १९१५",
+      "adhyakshpad_varsh": "१८९०",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "७",
+      "adhyaksh": "आनंदचार्ल्लू",
+      "jeevankal": "५ अगस्त १८४३ – ४ जनवरी १९०८",
+      "adhyakshpad_varsh": "१८९१",
+      "sammelan_sthan": "नागपुर"
+    },
+    {
+      "kram": "८",
+      "adhyaksh": "उमेश चन्द्र बनर्जी",
+      "jeevankal": "२९ दिसंबर १८४४ – २१ जूलाई १९०६",
+      "adhyakshpad_varsh": "१८९२",
+      "sammelan_sthan": "इलाहबाद"
+    },
+    {
+      "kram": "९",
+      "adhyaksh": "दादा भाई नौरोजी",
+      "jeevankal": "४ सितंबर १८२५ - ३० जून १९१७",
+      "adhyakshpad_varsh": "१८९३",
+      "sammelan_sthan": "लाहौर"
+    },
+    {
+      "kram": "१०",
+      "adhyaksh": "अल्फ्रेड वेब",
+      "jeevankal": "१० जून १८३४ - ३० जूलाई १९०८",
+      "adhyakshpad_varsh": "१८९४",
+      "sammelan_sthan": "मद्रास"
+    },
+    {
+      "kram": "११",
+      "adhyaksh": "सुरेंद्रनाथ बैनर्जी",
+      "jeevankal": "१० नवंबर १८४८ - ६ अगस्त १९२५",
+      "adhyakshpad_varsh": "१८९५",
+      "sammelan_sthan": "पूना"
+    },
+    {
+      "kram": "१२",
+      "adhyaksh": "रहिमतुल्ला सायानी",
+      "jeevankal": "५ अप्रैल १८४७ – ६ जून १९०२",
+      "adhyakshpad_varsh": "१८९६",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "१३",
+      "adhyaksh": "सी शंकरन नायर",
+      "jeevankal": "११ जूलाई १८५७ - २४ अप्रैल १९३४",
+      "adhyakshpad_varsh": "१८९७",
+      "sammelan_sthan": "अमरावती"
+    },
+    {
+      "kram": "१४",
+      "adhyaksh": "आनन्दमोहन बोस",
+      "jeevankal": "२३ सितंबर १८४७ - २० अगस्त १९०६",
+      "adhyakshpad_varsh": "१८९८",
+      "sammelan_sthan": "मद्रास"
+    },
+    {
+      "kram": "१५",
+      "adhyaksh": "रमेशचन्द्र दत्त",
+      "jeevankal": "१३ अगस्त १८४८ – ३० नवंबर १९०९",
+      "adhyakshpad_varsh": "१८९९",
+      "sammelan_sthan": "लखनऊ"
+    },
+    {
+      "kram": "१६",
+      "adhyaksh": "नारायण गणेश चंदावरकर",
+      "jeevankal": "२ दिसंबर १८५५ - ४ म‌ई १९२३",
+      "adhyakshpad_varsh": "१९००",
+      "sammelan_sthan": "लाहौर"
+    },
+    {
+      "kram": "१७",
+      "adhyaksh": "दिनशा वाचा",
+      "jeevankal": "२ अगस्त १८४४ - १८ फरवरी १९३६",
+      "adhyakshpad_varsh": "१९०१",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "१८",
+      "adhyaksh": "सुरेंद्रनाथ बैनर्जी",
+      "jeevankal": "१० नवंबर १८४८ - ६ अगस्त १९२५",
+      "adhyakshpad_varsh": "१९०२",
+      "sammelan_sthan": "अहमदाबाद"
+    },
+    {
+      "kram": "१९",
+      "adhyaksh": "लालमोहन घोश",
+      "jeevankal": "१८४९ - १८ अक्टूबर १९०९",
+      "adhyakshpad_varsh": "१९०३",
+      "sammelan_sthan": "मद्रास"
+    },
+    {
+      "kram": "२०",
+      "adhyaksh": "हेनरी कॉटन",
+      "jeevankal": "१३ सितंबर १८४५ - २२ अक्टूबर १९१५",
+      "adhyakshpad_varsh": "१९०४",
+      "sammelan_sthan": "बम्बई"
+    },
+    {
+      "kram": "२१",
+      "adhyaksh": "गोपाल कृष्ण गोखले",
+      "jeevankal": "९ म‌ई १८६६ - १९ फरवरी १९१५",
+      "adhyakshpad_varsh": "१९०५",
+      "sammelan_sthan": "बनारस"
+    },
+    {
+      "kram": "२२",
+      "adhyaksh": "दादा भाई नौरोजी",
+      "jeevankal": "४ सितंबर १८२५ – ३० जून १९१७",
+      "adhyakshpad_varsh": "१९०६",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "२३",
+      "adhyaksh": "रास बिहारी घोष",
+      "jeevankal": "२३ दिसंबर १८४५ – २८ फरवरी १९२१",
+      "adhyakshpad_varsh": "१९०७",
+      "sammelan_sthan": "सूरत"
+    },
+    {
+      "kram": "२४",
+      "adhyaksh": "रास बिहारी घोष",
+      "jeevankal": "२३ दिसंबर १८४५ – २८ फरवरी १९२१",
+      "adhyakshpad_varsh": "१९०८",
+      "sammelan_sthan": "मद्रास"
+    },
+    {
+      "kram": "२५",
+      "adhyaksh": "मदनमोहन मालवीय",
+      "jeevankal": "२५ दिसंबर १८६१ – १२ नवंबर १९४६",
+      "adhyakshpad_varsh": "१९०९",
+      "sammelan_sthan": "लाहौर"
+    },
+    {
+      "kram": "२६",
+      "adhyaksh": "विलियम वेडरबर्न",
+      "jeevankal": "२५ मार्च १८३८ - २५ जनवरी १९१८",
+      "adhyakshpad_varsh": "१९१०",
+      "sammelan_sthan": "इलाहबाद"
+    },
+    {
+      "kram": "२७",
+      "adhyaksh": "बिशन नारायण दर",
+      "jeevankal": "१८६४ - १९ नवंबर १९१६",
+      "adhyakshpad_varsh": "१९११",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "२८",
+      "adhyaksh": "रघुनाथ नरसिंह मुधोलकर",
+      "jeevankal": "१६ म‌ई १८५७ - १३ जनवरी १९२१",
+      "adhyakshpad_varsh": "१९१२",
+      "sammelan_sthan": "बाँकीपोर"
+    },
+    {
+      "kram": "२९",
+      "adhyaksh": "नवाब सैयद मुहम्मद बहादुर",
+      "jeevankal": "१८६७ – १२ फरवरी १९१९",
+      "adhyakshpad_varsh": "१९१३",
+      "sammelan_sthan": "कराची"
+    },
+    {
+      "kram": "३०",
+      "adhyaksh": "भूपेन्द्रनाथ बोस",
+      "jeevankal": "१३ जनवरी १८५९ - १३ सितंबर १९२४",
+      "adhyakshpad_varsh": "१९१४",
+      "sammelan_sthan": "मद्रास"
+    },
+    {
+      "kram": "३१",
+      "adhyaksh": "सत्येन्द्र प्रसन्न सिन्हा",
+      "jeevankal": "२४ मार्च १८६३ - ४ मार्च १९२८",
+      "adhyakshpad_varsh": "१९१५",
+      "sammelan_sthan": "बम्बई"
+    },
+    {
+      "kram": "३२",
+      "adhyaksh": "अम्बिकाचरण मजुमदार",
+      "jeevankal": "१८५० - १९ मार्च १९२२",
+      "adhyakshpad_varsh": "१९१६",
+      "sammelan_sthan": "लखनऊ"
+    },
+    {
+      "kram": "३३",
+      "adhyaksh": "एनी बेसेन्ट",
+      "jeevankal": "१ अक्टूबर १८४७ – २० सितंबर १९३३",
+      "adhyakshpad_varsh": "१९१७",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "३४",
+      "adhyaksh": "मदनमोहन मालवीय",
+      "jeevankal": "२५ दिसंबर १८६१ – १२ नवंबर १९४६",
+      "adhyakshpad_varsh": "१९१८",
+      "sammelan_sthan": "दिल्ली"
+    },
+    {
+      "kram": "३५",
+      "adhyaksh": "सैयद हसन इमाम",
+      "jeevankal": "३१ अगस्त १८७१ – १९ अप्रैल १९३३",
+      "adhyakshpad_varsh": "१९१८",
+      "sammelan_sthan": "बम्बई (विशेष सत्र)"
+    },
+    {
+      "kram": "३६",
+      "adhyaksh": "मोतीलाल नेहरू",
+      "jeevankal": "६ म‌ई १८६१ – ६ फरवरी १९३१",
+      "adhyakshpad_varsh": "१९१९",
+      "sammelan_sthan": "अमृतसर"
+    },
+    {
+      "kram": "३७",
+      "adhyaksh": "लाला लाजपत राय",
+      "jeevankal": "२८ जनवरी १८६५ – १७ नवंबर १९२८",
+      "adhyakshpad_varsh": "१९२०",
+      "sammelan_sthan": "कलकत्ता (विशेष सत्र)"
+    },
+    {
+      "kram": "३८",
+      "adhyaksh": "विजयराघवाचार्य",
+      "jeevankal": "१८ जून १८५२ – १९ अप्रैल १९४४",
+      "adhyakshpad_varsh": "१९२०",
+      "sammelan_sthan": "नागपुर"
+    },
+    {
+      "kram": "३९",
+      "adhyaksh": "चित्तरंजन दास (अध्यक्ष) हकीम अजमल ख़ान (कार्यवाहक अध्यक्ष)",
+      "jeevankal": "११ फरवरी १८६८ - २९ दिसंबर १९२७ (ख़ान)",
+      "adhyakshpad_varsh": "१९२१",
+      "sammelan_sthan": "अहमदाबाद"
+    },
+    {
+      "kram": "४०",
+      "adhyaksh": "चित्तरंजन दास",
+      "jeevankal": "५ नवंबर १८७० - १६ जून १९२५",
+      "adhyakshpad_varsh": "१९२२",
+      "sammelan_sthan": "गया"
+    },
+    {
+      "kram": "४१",
+      "adhyaksh": "मोहम्मद अली जौहर",
+      "jeevankal": "१० दिसंबर १८७८ – ४ जनवरी १९३१",
+      "adhyakshpad_varsh": "१९२३",
+      "sammelan_sthan": "काकीनाड़ा"
+    },
+    {
+      "kram": "४२",
+      "adhyaksh": "अबुल कलाम आज़ाद",
+      "jeevankal": "११ नवंबर १८८८ – २२ फरवरी १९५८",
+      "adhyakshpad_varsh": "१९२३",
+      "sammelan_sthan": "दिल्ली (विशेष सत्र)"
+    },
+    {
+      "kram": "४३",
+      "adhyaksh": "महात्मा गांधी",
+      "jeevankal": "२ अक्टूबर १८६९ – ३० जनवरी १९४८",
+      "adhyakshpad_varsh": "१९२४",
+      "sammelan_sthan": "बेलगाँव"
+    },
+    {
+      "kram": "४४",
+      "adhyaksh": "सरोजिनी नायडू",
+      "jeevankal": "१३ फरवरी १८७९ – २ मार्च १९४९",
+      "adhyakshpad_varsh": "१९२५",
+      "sammelan_sthan": "कानपुर"
+    },
+    {
+      "kram": "४५",
+      "adhyaksh": "एस श्रीनिवास आयंगर",
+      "jeevankal": "११ सितंबर १८७४ – १९ म‌ई १९४१",
+      "adhyakshpad_varsh": "१९२६",
+      "sammelan_sthan": "गुवाहाटी"
+    },
+    {
+      "kram": "४६",
+      "adhyaksh": "मुख्तार अहमद अंसारी",
+      "jeevankal": "२५ दिसंबर १८८० – १० म‌ई १९३६",
+      "adhyakshpad_varsh": "१९२७",
+      "sammelan_sthan": "मद्रास"
+    },
+    {
+      "kram": "४७",
+      "adhyaksh": "मोतीलाल नेहरू",
+      "jeevankal": "६ म‌ई १८६१ – ६ फरवरी १९३१",
+      "adhyakshpad_varsh": "१९२८",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "४८",
+      "adhyaksh": "जवाहरलाल नेहरू",
+      "jeevankal": "१४ नवंबर १८८९ - २७ म‌ई १९६४",
+      "adhyakshpad_varsh": "१९२९, १९३०",
+      "sammelan_sthan": "लाहौर"
+    },
+    {
+      "kram": "४९",
+      "adhyaksh": "वल्लभ भाई पटेल",
+      "jeevankal": "३१ अक्टूबर १८७५ – १५ दिसंबर १९५०",
+      "adhyakshpad_varsh": "१९३१",
+      "sammelan_sthan": "कराची"
+    },
+    {
+      "kram": "५०",
+      "adhyaksh": "मदनमोहन मालवीय",
+      "jeevankal": "२५ दिसंबर १८६१ – १२ नवंबर १९४६",
+      "adhyakshpad_varsh": "१९३२",
+      "sammelan_sthan": "दिल्ली"
+    },
+    {
+      "kram": "५१",
+      "adhyaksh": "नेली सेनगुप्त",
+      "jeevankal": "१२ जनवरी १८८४ - २३ अक्टूबर १९७३",
+      "adhyakshpad_varsh": "१९३३",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "५२",
+      "adhyaksh": "राजेन्द्र प्रसाद",
+      "jeevankal": "३ दिसंबर १८८४ – २८ फरवरी १९६३",
+      "adhyakshpad_varsh": "१९३४, १९३५",
+      "sammelan_sthan": "बम्बई"
+    },
+    {
+      "kram": "५३",
+      "adhyaksh": "जवाहरलाल नेहरू",
+      "jeevankal": "१४ नवंबर १८८९ - २७ म‌ई १९६४",
+      "adhyakshpad_varsh": "१९३६",
+      "sammelan_sthan": "लखनऊ"
+    },
+    {
+      "kram": "५४",
+      "adhyaksh": "जवाहरलाल नेहरू",
+      "jeevankal": "१४ नवंबर १८८९ - २७ म‌ई १९६४",
+      "adhyakshpad_varsh": "१९३७",
+      "sammelan_sthan": "फैजपुर"
+    },
+    {
+      "kram": "५५",
+      "adhyaksh": "सुभाष चन्द्र बोस",
+      "jeevankal": "२३ जनवरी १८९७ – १८ अगस्त १९४५",
+      "adhyakshpad_varsh": "१९३८",
+      "sammelan_sthan": "हरिपुरा"
+    },
+    {
+      "kram": "५६",
+      "adhyaksh": "सुभाष चन्द्र बोस (इस्तीफा दिया) राजेन्द्र प्रसाद (सम्मेलन के बाद)",
+      "jeevankal": "२३ जनवरी १८९७ – १८ अगस्त १९४५ (बोस)",
+      "adhyakshpad_varsh": "१९३९",
+      "sammelan_sthan": "जबलपुर"
+    },
+    {
+      "kram": "५७",
+      "adhyaksh": "अबुल कलाम आज़ाद",
+      "jeevankal": "११ नवंबर १८८८ – २२ फरवरी १९५८",
+      "adhyakshpad_varsh": "१९४०-४६",
+      "sammelan_sthan": "रामगढ़ छावनी"
+    },
+    {
+      "kram": "५८",
+      "adhyaksh": "आचार्य कृपलानी",
+      "jeevankal": "११ नवंबर १८८८ – १९ मार्च १९८२",
+      "adhyakshpad_varsh": "१९४७",
+      "sammelan_sthan": "मेरठ"
+    },
+    {
+      "kram": "५९",
+      "adhyaksh": "पट्टाभि सीतारमैया",
+      "jeevankal": "२४ दिसंबर १८८० – १७ दिसंबर १९५९",
+      "adhyakshpad_varsh": "१९४८, १९४९",
+      "sammelan_sthan": "जयपुर"
+    },
+    {
+      "kram": "६०",
+      "adhyaksh": "पुरुषोत्तम दास टंडन",
+      "jeevankal": "१ अगस्त १८८२ - १ जूलाई १९६१",
+      "adhyakshpad_varsh": "१९५०",
+      "sammelan_sthan": "नासिक"
+    },
+    {
+      "kram": "६१",
+      "adhyaksh": "जवाहरलाल नेहरू",
+      "jeevankal": "१४ नवंबर १८८९ - २७ म‌ई १९६४",
+      "adhyakshpad_varsh": "१९५१, १९५२",
+      "sammelan_sthan": "दिल्ली"
+    },
+    {
+      "kram": "६२",
+      "adhyaksh": "जवाहरलाल नेहरू",
+      "jeevankal": "१४ नवंबर १८८९ - २७ म‌ई १९६४",
+      "adhyakshpad_varsh": "१९५३",
+      "sammelan_sthan": "हैदराबाद"
+    },
+    {
+      "kram": "६३",
+      "adhyaksh": "जवाहरलाल नेहरू",
+      "jeevankal": "१४ नवंबर १८८९ - २७ म‌ई १९६४",
+      "adhyakshpad_varsh": "१९५४",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "६४",
+      "adhyaksh": "उच्छंगराय नवलशंकर ढेबर",
+      "jeevankal": "२१ सितंबर १९०५ - ११ मार्च १९७७",
+      "adhyakshpad_varsh": "१९५५",
+      "sammelan_sthan": "अवादी"
+    },
+    {
+      "kram": "६५",
+      "adhyaksh": "उच्छंगराय नवलशंकर ढेबर",
+      "jeevankal": "२१ सितंबर १९०५ - ११ मार्च १९७७",
+      "adhyakshpad_varsh": "१९५६",
+      "sammelan_sthan": "अमृतसर"
+    },
+    {
+      "kram": "६६",
+      "adhyaksh": "उच्छंगराय नवलशंकर ढेबर",
+      "jeevankal": "२१ सितंबर १९०५ - ११ मार्च १९७७",
+      "adhyakshpad_varsh": "१९५७",
+      "sammelan_sthan": "इन्दौर"
+    },
+    {
+      "kram": "६७",
+      "adhyaksh": "उच्छंगराय नवलशंकर ढेबर",
+      "jeevankal": "२१ सितंबर १९०५ - ११ मार्च १९७७",
+      "adhyakshpad_varsh": "१९५८",
+      "sammelan_sthan": "गुवाहाटी"
+    },
+    {
+      "kram": "६८",
+      "adhyaksh": "उच्छंगराय नवलशंकर ढेबर",
+      "jeevankal": "२१ सितंबर १९०५ - ११ मार्च १९७७",
+      "adhyakshpad_varsh": "१९५९",
+      "sammelan_sthan": "नागपुर"
+    },
+    {
+      "kram": "६९",
+      "adhyaksh": "इन्दिरा गांधी",
+      "jeevankal": "१९ नवंबर १९१७ – ३१ अक्टूबर १९८४",
+      "adhyakshpad_varsh": "१९५९",
+      "sammelan_sthan": "दिल्ली (विशेष सत्र)"
+    },
+    {
+      "kram": "७०",
+      "adhyaksh": "नीलम संजीव रेड्डी",
+      "jeevankal": "१९ म‌ई १९१३ – १ जून १९९६",
+      "adhyakshpad_varsh": "१९६०",
+      "sammelan_sthan": "बैंगलूरू"
+    },
+    {
+      "kram": "७१",
+      "adhyaksh": "नीलम संजीव रेड्डी",
+      "jeevankal": "१९ म‌ई १९१३ – १ जून १९९६",
+      "adhyakshpad_varsh": "१९६१",
+      "sammelan_sthan": "भावनगर"
+    },
+    {
+      "kram": "७२",
+      "adhyaksh": "नीलम संजीव रेड्डी",
+      "jeevankal": "१९ म‌ई १९१३ – १ जून १९९६",
+      "adhyakshpad_varsh": "१९६२, १९६३",
+      "sammelan_sthan": "पटना"
+    },
+    {
+      "kram": "७३",
+      "adhyaksh": "के. कामराज",
+      "jeevankal": "१५ जूलाई १९०३ - २ अक्टूबर १९७५",
+      "adhyakshpad_varsh": "१९६४",
+      "sammelan_sthan": "भुवनेश्वर"
+    },
+    {
+      "kram": "७४",
+      "adhyaksh": "के. कामराज",
+      "jeevankal": "१५ जूलाई १९०३ - २ अक्टूबर १९७५",
+      "adhyakshpad_varsh": "१९६५",
+      "sammelan_sthan": "दुर्गापुर"
+    },
+    {
+      "kram": "७५",
+      "adhyaksh": "के. कामराज",
+      "jeevankal": "१५ जूलाई १९०३ - २ अक्टूबर १९७५",
+      "adhyakshpad_varsh": "१९६६, १९६७",
+      "sammelan_sthan": "जयपुर"
+    },
+    {
+      "kram": "७६",
+      "adhyaksh": "एस निजलिंगप्पा",
+      "jeevankal": "१० दिसंबर १९०२ - ९ अगस्त २०००",
+      "adhyakshpad_varsh": "१९६८",
+      "sammelan_sthan": "हैदराबाद"
+    },
+    {
+      "kram": "७७",
+      "adhyaksh": "एस निजलिंगप्पा",
+      "jeevankal": "१० दिसंबर १९०२ - ९ अगस्त २०००",
+      "adhyakshpad_varsh": "१९६९",
+      "sammelan_sthan": "फरीदाबाद"
+    },
+    {
+      "kram": "७८",
+      "adhyaksh": "जगजीवन राम",
+      "jeevankal": "५ अप्रैल १९०८ – ६ जूलाई १९८६",
+      "adhyakshpad_varsh": "१९७०, १९७१",
+      "sammelan_sthan": "बम्बई"
+    },
+    {
+      "kram": "७९",
+      "adhyaksh": "शंकरदयाल शर्मा",
+      "jeevankal": "१९ अगस्त १९१८ – २६ दिसंबर १९९९",
+      "adhyakshpad_varsh": "१९७२-७४",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "८०",
+      "adhyaksh": "देव कांत बरुआ",
+      "jeevankal": "२२ फरवरी १९१४ – २८ जनवरी १९९६",
+      "adhyakshpad_varsh": "१९७५-७७",
+      "sammelan_sthan": "चण्डीगढ़"
+    },
+    {
+      "kram": "८१",
+      "adhyaksh": "इन्दिरा गांधी",
+      "jeevankal": "१९ नवंबर १९१७ – ३१ अक्टूबर १९८४",
+      "adhyakshpad_varsh": "१९७८-८३",
+      "sammelan_sthan": "दिल्ली"
+    },
+    {
+      "kram": "८२",
+      "adhyaksh": "इन्दिरा गांधी",
+      "jeevankal": "१९ नवंबर १९१७ – ३१ अक्टूबर १९८४",
+      "adhyakshpad_varsh": "१९८३, १९८४",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "८३",
+      "adhyaksh": "राजीव गांधी",
+      "jeevankal": "२० अगस्त १९४४ – २१ म‌ई १९९१",
+      "adhyakshpad_varsh": "१९८५-९१",
+      "sammelan_sthan": "बम्बई"
+    },
+    {
+      "kram": "८४",
+      "adhyaksh": "पी॰ वी॰ नरसिम्हा राव",
+      "jeevankal": "२८ जून १९२१ – २३ दिसंबर २००४",
+      "adhyakshpad_varsh": "१९९२-९६",
+      "sammelan_sthan": "तिरुपति"
+    },
+    {
+      "kram": "८५",
+      "adhyaksh": "सीताराम केसरी",
+      "jeevankal": "१५ नवंबर १९१९ – २४ अक्टूबर २०००",
+      "adhyakshpad_varsh": "१९९६-९८",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "८६",
+      "adhyaksh": "सोनिया गांधी",
+      "jeevankal": "९ दिसंबर १९४६",
+      "adhyakshpad_varsh": "१९९८-२०१७",
+      "sammelan_sthan": "कलकत्ता"
+    },
+    {
+      "kram": "८७",
+      "adhyaksh": "राहुल गांधी",
+      "jeevankal": "१९ जून १९७०",
+      "adhyakshpad_varsh": "२०१७-२०१९",
+      "sammelan_sthan": "दिल्ली"
+    },
+    {
+      "kram": "८८",
+      "adhyaksh": "सोनिया गांधी",
+      "jeevankal": "९ दिसंबर १९४६",
+      "adhyakshpad_varsh": "२०१९-२०२२",
+      "sammelan_sthan": "जयपुर"
+    },
+    {
+      "kram": "८९",
+      "adhyaksh": "मल्लिकार्जुन खड़गे",
+      "jeevankal": "२१ जुलाई १९४२",
+      "adhyakshpad_varsh": "२०२२-वर्तमान",
+      "sammelan_sthan": "नई दिल्ली"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय राष्ट्रीय कांग्रेस के अध्यक्षों की सूची - Free Download",
+    "description": "1885 से अब तक भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष, उनका जीवनकाल, अध्यक्षता का वर्ष और अधिवेशन का स्थान। Contains 89 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय राष्ट्रीय कांग्रेस के अध्यक्षों की सूची | ListBase",
+    "seo_description": "Download भारतीय राष्ट्रीय कांग्रेस के अध्यक्षों की सूची — 89 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 89 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_राष्ट्रीय_कांग्रेस_के_अध्यक्षों_की_सूची"
+    ]
+  }
+}

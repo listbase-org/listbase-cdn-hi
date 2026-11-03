@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-02T02:27:50.722Z",
-  "total_datasets": 472,
-  "total_records": 2013018,
+  "generated": "2026-11-03T02:17:10.582Z",
+  "total_datasets": 473,
+  "total_records": 2013107,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -6577,6 +6577,32 @@
         "xlsx": {
           "name": "hi-british-bharat-riyasaten_HI.xlsx",
           "size": 9671
+        }
+      }
+    },
+    {
+      "id": "hi-congress-adhyaksh",
+      "name": "भारतीय राष्ट्रीय कांग्रेस के अध्यक्षों की सूची",
+      "category": "history",
+      "record_count": 89,
+      "columns": [
+        "kram",
+        "adhyaksh",
+        "jeevankal",
+        "adhyakshpad_varsh",
+        "sammelan_sthan"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_राष्ट्रीय_कांग्रेस_के_अध्यक्षों_की_सूची",
+      "updated": "2026-11",
+      "size": 28535,
+      "files": {
+        "csv": {
+          "name": "hi-congress-adhyaksh_HI.csv",
+          "size": 15275
+        },
+        "xlsx": {
+          "name": "hi-congress-adhyaksh_HI.xlsx",
+          "size": 11801
         }
       }
     },

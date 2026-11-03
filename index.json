@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-03T02:17:23.989Z",
-  "total_datasets": 475,
-  "total_records": 2013585,
+  "generated": "2026-11-03T02:17:31.620Z",
+  "total_datasets": 476,
+  "total_records": 2013640,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -6704,6 +6704,32 @@
         "xlsx": {
           "name": "hi-lipiyan_HI.xlsx",
           "size": 11111
+        }
+      }
+    },
+    {
+      "id": "hi-matribhasha-vakta-janganana-2001",
+      "name": "भारत में मातृभाषाएँ: वक्ताओं की संख्या (जनगणना 2001)",
+      "category": "language",
+      "record_count": 55,
+      "columns": [
+        "rank",
+        "matribhasha",
+        "vakta_2001",
+        "pratishat_2001",
+        "bhasha_mein_shamil"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_में_स्थानीय_वक्ताओं_की_संख्यानुसार_भाषाओं_की_सूची",
+      "updated": "2026-11",
+      "size": 12560,
+      "files": {
+        "csv": {
+          "name": "hi-matribhasha-vakta-janganana-2001_HI.csv",
+          "size": 3172
+        },
+        "xlsx": {
+          "name": "hi-matribhasha-vakta-janganana-2001_HI.xlsx",
+          "size": 8954
         }
       }
     },

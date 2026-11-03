@@ -1,0 +1,436 @@
+{
+  "id": "hi-matribhasha-vakta-janganana-2001",
+  "name": "भारत में मातृभाषाएँ: वक्ताओं की संख्या (जनगणना 2001)",
+  "title": "भारत में मातृभाषाएँ: वक्ताओं की संख्या (जनगणना 2001)",
+  "description": "जनगणना 2001 के अनुसार भारत की प्रमुख मातृभाषाएँ, उनके बोलने वालों की संख्या, कुल जनसंख्या में प्रतिशत और जिस भाषा में वे शामिल हैं।",
+  "category": "language",
+  "source": "https://hi.wikipedia.org/wiki/भारत_में_स्थानीय_वक्ताओं_की_संख्यानुसार_भाषाओं_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_में_स्थानीय_वक्ताओं_की_संख्यानुसार_भाषाओं_की_सूची",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "matribhasha",
+      "label": "Matribhasha",
+      "type": "string"
+    },
+    {
+      "key": "vakta_2001",
+      "label": "Vakta 2001",
+      "type": "number"
+    },
+    {
+      "key": "pratishat_2001",
+      "label": "Pratishat 2001",
+      "type": "number"
+    },
+    {
+      "key": "bhasha_mein_shamil",
+      "label": "Bhasha Mein Shamil",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "matribhasha": "हिंदी",
+      "vakta_2001": 257919635,
+      "pratishat_2001": 25.071,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 2,
+      "matribhasha": "बंगाली",
+      "vakta_2001": 82462437,
+      "pratishat_2001": 8.016,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 3,
+      "matribhasha": "तेलुगू",
+      "vakta_2001": 73817148,
+      "pratishat_2001": 7.176,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 4,
+      "matribhasha": "मराठी",
+      "vakta_2001": 71701478,
+      "pratishat_2001": 6.97,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 5,
+      "matribhasha": "तमिल",
+      "vakta_2001": 60655813,
+      "pratishat_2001": 5.896,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 6,
+      "matribhasha": "उर्दू",
+      "vakta_2001": 51533954,
+      "pratishat_2001": 5.009,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 7,
+      "matribhasha": "गुजराती",
+      "vakta_2001": 45715654,
+      "pratishat_2001": 4.444,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 8,
+      "matribhasha": "कन्नड़",
+      "vakta_2001": 37742232,
+      "pratishat_2001": 3.669,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 9,
+      "matribhasha": "भोजपुरी",
+      "vakta_2001": 33099497,
+      "pratishat_2001": 3.217,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 10,
+      "matribhasha": "मलयालम",
+      "vakta_2001": 33015420,
+      "pratishat_2001": 3.209,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 11,
+      "matribhasha": "ओड़िया",
+      "vakta_2001": 32110482,
+      "pratishat_2001": 3.121,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 12,
+      "matribhasha": "पंजाबी",
+      "vakta_2001": 28152794,
+      "pratishat_2001": 2.737,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 13,
+      "matribhasha": "राजस्थानी",
+      "vakta_2001": 18355613,
+      "pratishat_2001": 1.784,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 14,
+      "matribhasha": "मागधी /मगही",
+      "vakta_2001": 13978565,
+      "pratishat_2001": 1.359,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 15,
+      "matribhasha": "छत्तीसगढ़ी",
+      "vakta_2001": 13260186,
+      "pratishat_2001": 1.289,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 16,
+      "matribhasha": "असमी",
+      "vakta_2001": 12778735,
+      "pratishat_2001": 1.242,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 17,
+      "matribhasha": "मैथिली",
+      "vakta_2001": 12178673,
+      "pratishat_2001": 1.184,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 18,
+      "matribhasha": "हरयाणवी",
+      "vakta_2001": 7997192,
+      "pratishat_2001": 0.777,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 19,
+      "matribhasha": "मारवाड़ी",
+      "vakta_2001": 7936183,
+      "pratishat_2001": 0.771,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 20,
+      "matribhasha": "संथाली",
+      "vakta_2001": 5943679,
+      "pratishat_2001": 0.578,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 21,
+      "matribhasha": "मालवी",
+      "vakta_2001": 5565167,
+      "pratishat_2001": 0.541,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 22,
+      "matribhasha": "कश्मीरी",
+      "vakta_2001": 5362349,
+      "pratishat_2001": 0.521,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 23,
+      "matribhasha": "मेवाड़ी",
+      "vakta_2001": 5091697,
+      "pratishat_2001": 0.495,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 24,
+      "matribhasha": "खोरठा/ खोटा",
+      "vakta_2001": 4725927,
+      "pratishat_2001": 0.459,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 25,
+      "matribhasha": "भीली",
+      "vakta_2001": 3313481,
+      "pratishat_2001": 0.322,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 26,
+      "matribhasha": "बुन्देली",
+      "vakta_2001": 3072147,
+      "pratishat_2001": 0.299,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 27,
+      "matribhasha": "नेपाली",
+      "vakta_2001": 2867922,
+      "pratishat_2001": 0.279,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 28,
+      "matribhasha": "बघेली",
+      "vakta_2001": 2865011,
+      "pratishat_2001": 0.278,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 29,
+      "matribhasha": "पहाड़ी",
+      "vakta_2001": 2832825,
+      "pratishat_2001": 0.275,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 30,
+      "matribhasha": "लम्बादी",
+      "vakta_2001": 2707562,
+      "pratishat_2001": 0.263,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 31,
+      "matribhasha": "अवधी",
+      "vakta_2001": 2529308,
+      "pratishat_2001": 0.246,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 32,
+      "matribhasha": "वागडी",
+      "vakta_2001": 2510811,
+      "pratishat_2001": 0.244,
+      "bhasha_mein_shamil": "भीली"
+    },
+    {
+      "rank": 33,
+      "matribhasha": "गोंडी",
+      "vakta_2001": 2505247,
+      "pratishat_2001": 0.244,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 34,
+      "matribhasha": "हरौती",
+      "vakta_2001": 2462867,
+      "pratishat_2001": 0.239,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 35,
+      "matribhasha": "कोंकणी",
+      "vakta_2001": 2420140,
+      "pratishat_2001": 0.235,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 36,
+      "matribhasha": "डोगरी",
+      "vakta_2001": 2282547,
+      "pratishat_2001": 0.222,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 37,
+      "matribhasha": "गढ़वाली",
+      "vakta_2001": 2267314,
+      "pratishat_2001": 0.22,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 38,
+      "matribhasha": "निमाड़ी",
+      "vakta_2001": 2148146,
+      "pratishat_2001": 0.209,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 39,
+      "matribhasha": "सादरी",
+      "vakta_2001": 2044776,
+      "pratishat_2001": 0.199,
+      "bhasha_mein_shamil": "हिन्दी"
+    },
+    {
+      "rank": 40,
+      "matribhasha": "कुमाउनी",
+      "vakta_2001": 2003783,
+      "pratishat_2001": 0.195,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 41,
+      "matribhasha": "धुन्दारी",
+      "vakta_2001": 1871130,
+      "pratishat_2001": 0.182,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 42,
+      "matribhasha": "अहिरानी",
+      "vakta_2001": 1865813,
+      "pratishat_2001": 0.181,
+      "bhasha_mein_shamil": "खानदेशी"
+    },
+    {
+      "rank": 43,
+      "matribhasha": "कुरुख /ओरण",
+      "vakta_2001": 1737044,
+      "pratishat_2001": 0.169,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 44,
+      "matribhasha": "तुलू भाषा",
+      "vakta_2001": 1720422,
+      "pratishat_2001": 0.167,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 45,
+      "matribhasha": "सिन्धी",
+      "vakta_2001": 1694061,
+      "pratishat_2001": 0.165,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 46,
+      "matribhasha": "हो",
+      "vakta_2001": 1657987,
+      "pratishat_2001": 0.163,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 47,
+      "matribhasha": "मणिपुरी",
+      "vakta_2001": 1466497,
+      "pratishat_2001": 0.143,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 48,
+      "matribhasha": "सुरगजिया",
+      "vakta_2001": 1458533,
+      "pratishat_2001": 0.142,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 49,
+      "matribhasha": "बागरी",
+      "vakta_2001": 1434123,
+      "pratishat_2001": 0.139,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 50,
+      "matribhasha": "बोडो",
+      "vakta_2001": 1330775,
+      "pratishat_2001": 0.129,
+      "bhasha_mein_shamil": ""
+    },
+    {
+      "rank": 51,
+      "matribhasha": "बंजारी",
+      "vakta_2001": 1259821,
+      "pratishat_2001": 0.122,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 52,
+      "matribhasha": "नागपुरिया",
+      "vakta_2001": 1242586,
+      "pratishat_2001": 0.121,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 53,
+      "matribhasha": "सुरजापूरी",
+      "vakta_2001": 1217019,
+      "pratishat_2001": 0.118,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 54,
+      "matribhasha": "कांगड़ी",
+      "vakta_2001": 1122843,
+      "pratishat_2001": 0.109,
+      "bhasha_mein_shamil": "हिंदी"
+    },
+    {
+      "rank": 55,
+      "matribhasha": "मुंदारी",
+      "vakta_2001": 1046951,
+      "pratishat_2001": 0.102,
+      "bhasha_mein_shamil": ""
+    }
+  ],
+  "meta": {
+    "title": "भारत में मातृभाषाएँ: वक्ताओं की संख्या (जनगणना 2001) - Free Download",
+    "description": "जनगणना 2001 के अनुसार भारत की प्रमुख मातृभाषाएँ, उनके बोलने वालों की संख्या, कुल जनसंख्या में प्रतिशत और जिस भाषा में वे शामिल हैं। Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत में मातृभाषाएँ: वक्ताओं की संख्या (जनगणना 2001) | ListBase",
+    "seo_description": "Download भारत में मातृभाषाएँ: वक्ताओं की संख्या (जनगणना 2001) — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_में_स्थानीय_वक्ताओं_की_संख्यानुसार_भाषाओं_की_सूची"
+    ]
+  }
+}

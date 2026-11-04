@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-04T02:24:20.146Z",
-  "total_datasets": 479,
-  "total_records": 2013731,
+  "generated": "2026-11-04T02:24:26.902Z",
+  "total_datasets": 480,
+  "total_records": 2013747,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -6861,6 +6861,30 @@
         "xlsx": {
           "name": "hi-vishwa-hindi-sammelan_HI.xlsx",
           "size": 8004
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-mahanyayavadi",
+      "name": "भारत के महान्यायवादियों की सूची",
+      "category": "law",
+      "record_count": 16,
+      "columns": [
+        "kramank",
+        "naam",
+        "karyakal"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/महान्यायवादी_(भारत)",
+      "updated": "2026-11",
+      "size": 4532,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-mahanyayavadi_HI.csv",
+          "size": 1526
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-mahanyayavadi_HI.xlsx",
+          "size": 7482
         }
       }
     },

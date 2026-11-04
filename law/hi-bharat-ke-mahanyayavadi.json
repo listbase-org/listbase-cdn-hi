@@ -1,0 +1,121 @@
+{
+  "id": "hi-bharat-ke-mahanyayavadi",
+  "name": "भारत के महान्यायवादियों की सूची",
+  "title": "भारत के महान्यायवादियों की सूची",
+  "description": "भारत के महान्यायवादी (अटॉर्नी जनरल) पद पर रहे व्यक्तियों की क्रमवार सूची और उनका कार्यकाल।",
+  "category": "law",
+  "source": "https://hi.wikipedia.org/wiki/महान्यायवादी_(भारत)",
+  "source_url": "https://hi.wikipedia.org/wiki/महान्यायवादी_(भारत)",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "kramank",
+      "label": "Kramank",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "karyakal",
+      "label": "Karyakal",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kramank": 1,
+      "naam": "एम सी सीतलवाड़",
+      "karyakal": "28 जनवरी 1950 – 1 मार्च 1963"
+    },
+    {
+      "kramank": 2,
+      "naam": "सी.के. दफ्तरी",
+      "karyakal": "2 मार्च 1963 – 30 अक्टूबर 1968"
+    },
+    {
+      "kramank": 3,
+      "naam": "निरेन डे",
+      "karyakal": "1 नवंबर 1968 – 31 मार्च 1977"
+    },
+    {
+      "kramank": 4,
+      "naam": "एस वी गुप्ते",
+      "karyakal": "1 अप्रैल 1977 – 8 अगस्त 1979"
+    },
+    {
+      "kramank": 5,
+      "naam": "एल.एन. सिन्हा",
+      "karyakal": "9 अगस्त 1979 – 8 अगस्त 1983"
+    },
+    {
+      "kramank": 6,
+      "naam": "के परासरण",
+      "karyakal": "9 अगस्त 1983 – 8 दिसंबर 1989"
+    },
+    {
+      "kramank": 7,
+      "naam": "सोली सोराबजी",
+      "karyakal": "9 दिसंबर 1989 – 2 दिसंबर 1990"
+    },
+    {
+      "kramank": 8,
+      "naam": "जी रामास्वामी",
+      "karyakal": "3 दिसंबर 1990 – 23 नवंबर 1992"
+    },
+    {
+      "kramank": 9,
+      "naam": "मिलन के. बनर्जी",
+      "karyakal": "21 नवंबर 1992 – 8 जुलाई 1996"
+    },
+    {
+      "kramank": 10,
+      "naam": "अशोक देसाई",
+      "karyakal": "9 जुलाई 1996 – 6 अप्रैल 1998"
+    },
+    {
+      "kramank": 11,
+      "naam": "सोली सोराबजी",
+      "karyakal": "7 अप्रैल 1998 – 4 जून 2004"
+    },
+    {
+      "kramank": 12,
+      "naam": "मिलन के. बनर्जी",
+      "karyakal": "5 जून 2004 – 7 जून 2009"
+    },
+    {
+      "kramank": 13,
+      "naam": "गुलाम एस्सजी वाहनवति",
+      "karyakal": "8 जून 2009 – 11 जून 2014"
+    },
+    {
+      "kramank": 14,
+      "naam": "मुकुल रोहतगी",
+      "karyakal": "12 जून 2014 – 30 जून 2017"
+    },
+    {
+      "kramank": 15,
+      "naam": "के.के. वेणुगोपाल",
+      "karyakal": "30 जून 2017 से 30 सितम्बर 2022"
+    },
+    {
+      "kramank": 16,
+      "naam": "आर. वेंकटरमणी",
+      "karyakal": "1 अक्टूबर 2022 से"
+    }
+  ],
+  "meta": {
+    "title": "भारत के महान्यायवादियों की सूची - Free Download",
+    "description": "भारत के महान्यायवादी (अटॉर्नी जनरल) पद पर रहे व्यक्तियों की क्रमवार सूची और उनका कार्यकाल। Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के महान्यायवादियों की सूची | ListBase",
+    "seo_description": "Download भारत के महान्यायवादियों की सूची — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/महान्यायवादी_(भारत)"
+    ]
+  }
+}

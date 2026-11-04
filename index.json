@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-04T02:24:41.824Z",
-  "total_datasets": 482,
-  "total_records": 2013770,
+  "generated": "2026-11-04T02:24:49.634Z",
+  "total_datasets": 483,
+  "total_records": 2013796,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 36
+      "dataset_count": 37
     },
     {
       "id": "reference",
@@ -7957,6 +7957,31 @@
         "xlsx": {
           "name": "hi-mizoram-vidhan-sabha-elections_HI.xlsx",
           "size": 101620
+        }
+      }
+    },
+    {
+      "id": "hi-mukhya-chunav-ayukt",
+      "name": "भारत के मुख्य चुनाव आयुक्तों की सूची",
+      "category": "politics",
+      "record_count": 26,
+      "columns": [
+        "kramank",
+        "naam",
+        "karyakal_aarambh",
+        "karyakal_samapti"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/मुख्य_चुनाव_आयुक्त_(भारत)",
+      "updated": "2026-11",
+      "size": 7473,
+      "files": {
+        "csv": {
+          "name": "hi-mukhya-chunav-ayukt_HI.csv",
+          "size": 2638
+        },
+        "xlsx": {
+          "name": "hi-mukhya-chunav-ayukt_HI.xlsx",
+          "size": 8090
         }
       }
     },

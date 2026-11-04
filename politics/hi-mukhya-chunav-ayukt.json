@@ -1,0 +1,202 @@
+{
+  "id": "hi-mukhya-chunav-ayukt",
+  "name": "भारत के मुख्य चुनाव आयुक्तों की सूची",
+  "title": "भारत के मुख्य चुनाव आयुक्तों की सूची",
+  "description": "भारत निर्वाचन आयोग के मुख्य चुनाव आयुक्तों की कालक्रमानुसार सूची, सुकुमार सेन (1950) से वर्तमान तक, कार्यकाल सहित।",
+  "category": "politics",
+  "source": "https://hi.wikipedia.org/wiki/मुख्य_चुनाव_आयुक्त_(भारत)",
+  "source_url": "https://hi.wikipedia.org/wiki/मुख्य_चुनाव_आयुक्त_(भारत)",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "kramank",
+      "label": "Kramank",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "karyakal_aarambh",
+      "label": "Karyakal Aarambh",
+      "type": "string"
+    },
+    {
+      "key": "karyakal_samapti",
+      "label": "Karyakal Samapti",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kramank": 1,
+      "naam": "सुकुमार सेन",
+      "karyakal_aarambh": "२१ मार्च १९५०",
+      "karyakal_samapti": "१९ दिसम्बर १९५८"
+    },
+    {
+      "kramank": 2,
+      "naam": "के. वी. के. सुंदरम",
+      "karyakal_aarambh": "२० दिसम्बर १९५८",
+      "karyakal_samapti": "३० सितंबर १९६७"
+    },
+    {
+      "kramank": 3,
+      "naam": "एस. पी. सेन वर्मा",
+      "karyakal_aarambh": "१ अक्टूबर १९६७",
+      "karyakal_samapti": "३० सितंबर १९७२"
+    },
+    {
+      "kramank": 4,
+      "naam": "डॉ॰ नगेन्द्र सिँह",
+      "karyakal_aarambh": "1 अक्टूबर 1972",
+      "karyakal_samapti": "6 फ़रवरी 1973"
+    },
+    {
+      "kramank": 5,
+      "naam": "टी. स्वामीनाथन",
+      "karyakal_aarambh": "7 फ़रवरी 1973",
+      "karyakal_samapti": "17 जून 1977"
+    },
+    {
+      "kramank": 6,
+      "naam": "एस. एल. शकधर:",
+      "karyakal_aarambh": "18 जून 1977",
+      "karyakal_samapti": "17 जून 1982"
+    },
+    {
+      "kramank": 7,
+      "naam": "आर. के. त्रिवेदी",
+      "karyakal_aarambh": "18 जून 1982",
+      "karyakal_samapti": "31 दिसम्बर 1985"
+    },
+    {
+      "kramank": 8,
+      "naam": "आर. वी. एस शास्त्री",
+      "karyakal_aarambh": "1 जनवरी 1986",
+      "karyakal_samapti": "25 नवम्बर 1990"
+    },
+    {
+      "kramank": 9,
+      "naam": "वी. एस. रमादेवी",
+      "karyakal_aarambh": "26 नवम्बर 1990",
+      "karyakal_samapti": "11 दिसम्बर 1990"
+    },
+    {
+      "kramank": 10,
+      "naam": "टी. एन. शेषन",
+      "karyakal_aarambh": "12 दिसम्बर 1990",
+      "karyakal_samapti": "11 दिसम्बर 1996"
+    },
+    {
+      "kramank": 11,
+      "naam": "एम. एस. गिल",
+      "karyakal_aarambh": "12 दिसम्बर 1996",
+      "karyakal_samapti": "13 जून 2001"
+    },
+    {
+      "kramank": 12,
+      "naam": "जे. एम. लिंगदोह",
+      "karyakal_aarambh": "14 जून 2001",
+      "karyakal_samapti": "7 फ़रवरी 2004"
+    },
+    {
+      "kramank": 13,
+      "naam": "टी. एस. कृष्णमूर्ति",
+      "karyakal_aarambh": "8 फ़रवरी 2004",
+      "karyakal_samapti": "15 मई 2005"
+    },
+    {
+      "kramank": 14,
+      "naam": "बी. बी. टंडन",
+      "karyakal_aarambh": "16 मई 2005",
+      "karyakal_samapti": "28 जून 2006"
+    },
+    {
+      "kramank": 15,
+      "naam": "एन गोपालस्वामी",
+      "karyakal_aarambh": "29 जून 2006",
+      "karyakal_samapti": "20 अप्रैल 2009"
+    },
+    {
+      "kramank": 16,
+      "naam": "नवीन चावला",
+      "karyakal_aarambh": "21 अप्रैल 2009",
+      "karyakal_samapti": "29 जुलाई 2010"
+    },
+    {
+      "kramank": 17,
+      "naam": "शाहबुद्दीन याकूब कुरैशी",
+      "karyakal_aarambh": "30 जुलाई 2010",
+      "karyakal_samapti": "10 जून 2012"
+    },
+    {
+      "kramank": 18,
+      "naam": "वी. एस. संपत",
+      "karyakal_aarambh": "11 जून 2012",
+      "karyakal_samapti": "15 जनवरी 2015"
+    },
+    {
+      "kramank": 19,
+      "naam": "एच॰ एस॰ ब्रह्मा",
+      "karyakal_aarambh": "16 जनवरी 2015",
+      "karyakal_samapti": "18 अप्रैल 2015"
+    },
+    {
+      "kramank": 20,
+      "naam": "नसीम जैदी",
+      "karyakal_aarambh": "19 अप्रैल 2015",
+      "karyakal_samapti": "5 जुलाई 2017"
+    },
+    {
+      "kramank": 21,
+      "naam": "अचल कुमार ज्योति",
+      "karyakal_aarambh": "6 जुलाई 2017",
+      "karyakal_samapti": "22 जनवरी 2018"
+    },
+    {
+      "kramank": 22,
+      "naam": "ओम प्रकाश रावत",
+      "karyakal_aarambh": "23 जनवरी 2018",
+      "karyakal_samapti": "1 दिसम्बर 2018"
+    },
+    {
+      "kramank": 23,
+      "naam": "सुनील अरोड़ा",
+      "karyakal_aarambh": "2 दिसंबर 2018",
+      "karyakal_samapti": "12 अप्रैल 2021"
+    },
+    {
+      "kramank": 24,
+      "naam": "सुशील चंद्रा",
+      "karyakal_aarambh": "13 अप्रैल 2021",
+      "karyakal_samapti": "14 मई 2022"
+    },
+    {
+      "kramank": 25,
+      "naam": "राजीव कुमार",
+      "karyakal_aarambh": "15 मई 2022",
+      "karyakal_samapti": "17 फरवरी 2025"
+    },
+    {
+      "kramank": 26,
+      "naam": "ज्ञानेश कुमार",
+      "karyakal_aarambh": "19 फरवरी 2025",
+      "karyakal_samapti": "वर्तमान"
+    }
+  ],
+  "meta": {
+    "title": "भारत के मुख्य चुनाव आयुक्तों की सूची - Free Download",
+    "description": "भारत निर्वाचन आयोग के मुख्य चुनाव आयुक्तों की कालक्रमानुसार सूची, सुकुमार सेन (1950) से वर्तमान तक, कार्यकाल सहित। Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के मुख्य चुनाव आयुक्तों की सूची | ListBase",
+    "seo_description": "Download भारत के मुख्य चुनाव आयुक्तों की सूची — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/मुख्य_चुनाव_आयुक्त_(भारत)"
+    ]
+  }
+}

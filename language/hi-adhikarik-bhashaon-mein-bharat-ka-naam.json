@@ -1,0 +1,198 @@
+{
+  "id": "hi-adhikarik-bhashaon-mein-bharat-ka-naam",
+  "name": "भारत की आधिकारिक भाषाओं में भारत गणराज्य का नाम",
+  "title": "भारत की आधिकारिक भाषाओं में भारत गणराज्य का नाम",
+  "description": "भारत की आधिकारिक भाषाओं (आठवीं अनुसूची और अंग्रेज़ी) में \"भारत गणराज्य\" का दीर्घ और संक्षिप्त नाम, मूल लिपि में और देवनागरी लिप्यंतरण सहित।",
+  "category": "language",
+  "source": "https://hi.wikipedia.org/wiki/भारत_की_आधिकारिक_भाषाओं_में_भारत_गणराज्य_के_नाम",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_की_आधिकारिक_भाषाओं_में_भारत_गणराज्य_के_नाम",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "bhasha",
+      "label": "Bhasha",
+      "type": "string"
+    },
+    {
+      "key": "dirgh_naam",
+      "label": "Dirgh Naam",
+      "type": "string"
+    },
+    {
+      "key": "dirgh_naam_lipyantaran",
+      "label": "Dirgh Naam Lipyantaran",
+      "type": "string"
+    },
+    {
+      "key": "sankshipt_naam",
+      "label": "Sankshipt Naam",
+      "type": "string"
+    },
+    {
+      "key": "sankshipt_naam_lipyantaran",
+      "label": "Sankshipt Naam Lipyantaran",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bhasha": "असमिया",
+      "dirgh_naam": "ভাৰত গণৰাজ্য",
+      "dirgh_naam_lipyantaran": "भारत गणराज्य",
+      "sankshipt_naam": "ভাৰত",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "ओड़िया",
+      "dirgh_naam": "ଭାରତ ଗଣରାଜ୍ଯ",
+      "dirgh_naam_lipyantaran": "भारत गणराज्य",
+      "sankshipt_naam": "ଭାରତ",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "उर्दू",
+      "dirgh_naam": "جمہوریہ بھارت",
+      "dirgh_naam_lipyantaran": "जमहूरिया भारत",
+      "sankshipt_naam": "بھارت",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "कन्नड़",
+      "dirgh_naam": "ಭಾರತ ಗಣರಾಜ್ಯ",
+      "dirgh_naam_lipyantaran": "भारत गणराज्य",
+      "sankshipt_naam": "ಭಾರತ",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "कश्मीरी",
+      "dirgh_naam": "جۆمہوٗرِیَہ ہِندوستان",
+      "dirgh_naam_lipyantaran": "जोमहूरिया हिंदोस्तान",
+      "sankshipt_naam": "ہِندوستان",
+      "sankshipt_naam_lipyantaran": "हिंदोस्तान"
+    },
+    {
+      "bhasha": "कोंकणी",
+      "dirgh_naam": "भारत गणराज्य",
+      "dirgh_naam_lipyantaran": "भारत गणराज्य",
+      "sankshipt_naam": "भारत",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "गुजराती",
+      "dirgh_naam": "ભારતીય પ્રજાસત્તાક",
+      "dirgh_naam_lipyantaran": "भारतीय प्रजासत्ताक",
+      "sankshipt_naam": "ભારત",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "तमिल",
+      "dirgh_naam": "இந்தியக் குடியரசு",
+      "dirgh_naam_lipyantaran": "इन्तियक् कुटियरसु",
+      "sankshipt_naam": "இந்தியா",
+      "sankshipt_naam_lipyantaran": "इन्तिया"
+    },
+    {
+      "bhasha": "तेलुगू",
+      "dirgh_naam": "భారత గణతంత్ర రాజ్యము",
+      "dirgh_naam_lipyantaran": "भारत गणतन्त्र राज्यामू",
+      "sankshipt_naam": "భారతం",
+      "sankshipt_naam_lipyantaran": "भारतम"
+    },
+    {
+      "bhasha": "नेपाली",
+      "dirgh_naam": "भारत गणराज्य",
+      "dirgh_naam_lipyantaran": "भारत गणराज्य",
+      "sankshipt_naam": "भारत",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "पंजाबी",
+      "dirgh_naam": "ਭਾਰਤ ਗਣਤੰਤਰ",
+      "dirgh_naam_lipyantaran": "[भारत गन्तन्तर] त्रुटि: {{Transliteration}}: transliteration text not Latin script (pos 1: भ) (सहायता)",
+      "sankshipt_naam": "ਭਾਰਤ",
+      "sankshipt_naam_lipyantaran": "[भारत] त्रुटि: {{Transliteration}}: transliteration text not Latin script (pos 1: भ) (सहायता)"
+    },
+    {
+      "bhasha": "बंगाली",
+      "dirgh_naam": "ভারতীয় প্রজাতন্ত্র",
+      "dirgh_naam_lipyantaran": "भारतीय प्रजातन्त्र",
+      "sankshipt_naam": "ভারত",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "भोजपुरी",
+      "dirgh_naam": "भारत गणराज्य",
+      "dirgh_naam_lipyantaran": "भारत गणराज्य",
+      "sankshipt_naam": "भारत",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "मणिपुरी",
+      "dirgh_naam": "ভারত গণরাজ্য",
+      "dirgh_naam_lipyantaran": "भारत गणराज्य",
+      "sankshipt_naam": "ভারত",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "मराठी",
+      "dirgh_naam": "भारतीय प्रजासत्ताक",
+      "dirgh_naam_lipyantaran": "भारतीय प्रजासत्ताक",
+      "sankshipt_naam": "भारत",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "मलयालम",
+      "dirgh_naam": "ഭാരത മഹാരാജ്യം",
+      "dirgh_naam_lipyantaran": "भारत महाराज्यम्",
+      "sankshipt_naam": "ഭാരതം, ഇന്ത്യ",
+      "sankshipt_naam_lipyantaran": "भारतम, इन्त्या"
+    },
+    {
+      "bhasha": "संथाली",
+      "dirgh_naam": "ᱥᱤᱧᱚᱛ ᱨᱮᱱᱟᱜ ᱟᱹᱯᱱᱟᱹᱛ",
+      "dirgh_naam_lipyantaran": "सिञोत रेनाग आपनात",
+      "sankshipt_naam": "ᱥᱤᱧᱚᱛ",
+      "sankshipt_naam_lipyantaran": "सिञोत"
+    },
+    {
+      "bhasha": "संस्कृत",
+      "dirgh_naam": "भारत गणराज्यम्",
+      "dirgh_naam_lipyantaran": "भारत गणराज्यम्",
+      "sankshipt_naam": "भारतम्",
+      "sankshipt_naam_lipyantaran": "भारतम"
+    },
+    {
+      "bhasha": "सिंधी",
+      "dirgh_naam": "भारत गणराज्य, جمھوريا ڀارت",
+      "dirgh_naam_lipyantaran": "भारत गणराज्य, जमहूरिया भारत",
+      "sankshipt_naam": "भारत, ڀارت",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "हिन्दी",
+      "dirgh_naam": "भारत गणराज्य",
+      "dirgh_naam_lipyantaran": "भारत गणराज्य",
+      "sankshipt_naam": "भारत",
+      "sankshipt_naam_lipyantaran": "भारत"
+    },
+    {
+      "bhasha": "अंग्रेज़ी",
+      "dirgh_naam": "Republic of India",
+      "dirgh_naam_lipyantaran": "रिपब्लिक ऑव़ इंडिया",
+      "sankshipt_naam": "India",
+      "sankshipt_naam_lipyantaran": "इंडिया"
+    }
+  ],
+  "meta": {
+    "title": "भारत की आधिकारिक भाषाओं में भारत गणराज्य का नाम - Free Download",
+    "description": "भारत की आधिकारिक भाषाओं (आठवीं अनुसूची और अंग्रेज़ी) में \"भारत गणराज्य\" का दीर्घ और संक्षिप्त नाम, मूल लिपि में और देवनागरी लिप्यंतरण सहित। Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत की आधिकारिक भाषाओं में भारत गणराज्य का नाम | ListBase",
+    "seo_description": "Download भारत की आधिकारिक भाषाओं में भारत गणराज्य का नाम — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_की_आधिकारिक_भाषाओं_में_भारत_गणराज्य_के_नाम"
+    ]
+  }
+}

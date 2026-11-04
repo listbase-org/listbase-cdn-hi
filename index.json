@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-04T02:24:34.266Z",
-  "total_datasets": 481,
-  "total_records": 2013761,
+  "generated": "2026-11-04T02:24:41.824Z",
+  "total_datasets": 482,
+  "total_records": 2013770,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -6704,6 +6704,29 @@
         "xlsx": {
           "name": "hi-gupt-rajvansh-ke-shasak_HI.xlsx",
           "size": 7193
+        }
+      }
+    },
+    {
+      "id": "hi-maratha-peshwa",
+      "name": "मराठा साम्राज्य के पेशवाओं की सूची",
+      "category": "history",
+      "record_count": 9,
+      "columns": [
+        "peshwa",
+        "kaal"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/पेशवा",
+      "updated": "2026-11",
+      "size": 3215,
+      "files": {
+        "csv": {
+          "name": "hi-maratha-peshwa_HI.csv",
+          "size": 813
+        },
+        "xlsx": {
+          "name": "hi-maratha-peshwa_HI.xlsx",
+          "size": 7053
         }
       }
     },

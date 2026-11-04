@@ -1,0 +1,72 @@
+{
+  "id": "hi-maratha-peshwa",
+  "name": "मराठा साम्राज्य के पेशवाओं की सूची",
+  "title": "मराठा साम्राज्य के पेशवाओं की सूची",
+  "description": "मराठा साम्राज्य के पेशवाओं (प्रधानमंत्रियों) की क्रमवार सूची, बालाजी विश्वनाथ से दूसरे बाजीराव तक, उनके कार्यकाल सहित।",
+  "category": "history",
+  "source": "https://hi.wikipedia.org/wiki/पेशवा",
+  "source_url": "https://hi.wikipedia.org/wiki/पेशवा",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "peshwa",
+      "label": "Peshwa",
+      "type": "string"
+    },
+    {
+      "key": "kaal",
+      "label": "Kaal",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "peshwa": "बालाजी विश्वनाथ पेशवा",
+      "kaal": "1714-1720"
+    },
+    {
+      "peshwa": "प्रथम बाजीराव पेशवा",
+      "kaal": "1720-1740"
+    },
+    {
+      "peshwa": "बालाजी बाजीराव पेशवा ऊर्फ नानासाहेब पेशवा",
+      "kaal": "1740-1761"
+    },
+    {
+      "peshwa": "माधवराव बल्लाल पेशवा ऊर्फ थोरले माधवराव पेशवा",
+      "kaal": "1761-1772"
+    },
+    {
+      "peshwa": "नारायणराव पेशवा",
+      "kaal": "1772-1774"
+    },
+    {
+      "peshwa": "रघुनाथराव पेशवा",
+      "kaal": "अल्पकाल"
+    },
+    {
+      "peshwa": "सवाई माधवराव पेशवा",
+      "kaal": "1774-1795"
+    },
+    {
+      "peshwa": "दूसरे बाजीराव पेशवा",
+      "kaal": "1796-1818"
+    },
+    {
+      "peshwa": "दूसरे नानासाहेब पेशवा",
+      "kaal": "सिंहासन पर नहीं बैठ पाए"
+    }
+  ],
+  "meta": {
+    "title": "मराठा साम्राज्य के पेशवाओं की सूची - Free Download",
+    "description": "मराठा साम्राज्य के पेशवाओं (प्रधानमंत्रियों) की क्रमवार सूची, बालाजी विश्वनाथ से दूसरे बाजीराव तक, उनके कार्यकाल सहित। Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "मराठा साम्राज्य के पेशवाओं की सूची | ListBase",
+    "seo_description": "Download मराठा साम्राज्य के पेशवाओं की सूची — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/पेशवा"
+    ]
+  }
+}

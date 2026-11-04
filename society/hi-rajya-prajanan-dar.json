@@ -1,0 +1,186 @@
+{
+  "id": "hi-rajya-prajanan-dar",
+  "name": "प्रजनन दर के आधार पर भारत के राज्य",
+  "title": "प्रजनन दर के आधार पर भारत के राज्य",
+  "description": "भारत के राज्यों की कुल प्रजनन दर (प्रति महिला बच्चों की औसत संख्या) के अनुसार क्रमबद्ध सूची।",
+  "category": "society",
+  "source": "https://hi.wikipedia.org/wiki/प्रजनन_दर_के_आधार_पर_भारत_के_राज्य",
+  "source_url": "https://hi.wikipedia.org/wiki/प्रजनन_दर_के_आधार_पर_भारत_के_राज्य",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "sthan",
+      "label": "Sthan",
+      "type": "number"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "prajanan_dar",
+      "label": "Prajanan Dar",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sthan": 1,
+      "rajya": "आंध्र प्रदेश",
+      "prajanan_dar": 1.8
+    },
+    {
+      "sthan": 1,
+      "rajya": "गोआ",
+      "prajanan_dar": 1.8
+    },
+    {
+      "sthan": 1,
+      "rajya": "तमिल नाडु",
+      "prajanan_dar": 1.8
+    },
+    {
+      "sthan": 4,
+      "rajya": "केरल",
+      "prajanan_dar": 1.9
+    },
+    {
+      "sthan": 4,
+      "rajya": "हिमाचल प्रदेश",
+      "prajanan_dar": 1.9
+    },
+    {
+      "sthan": 6,
+      "rajya": "पंजाब",
+      "prajanan_dar": 2
+    },
+    {
+      "sthan": 6,
+      "rajya": "सिक्किम",
+      "prajanan_dar": 2
+    },
+    {
+      "sthan": 8,
+      "rajya": "कर्णाटक",
+      "prajanan_dar": 2.1
+    },
+    {
+      "sthan": 8,
+      "rajya": "महाराष्ट्र",
+      "prajanan_dar": 2.1
+    },
+    {
+      "sthan": 10,
+      "rajya": "पश्चिम बंगाल",
+      "prajanan_dar": 2.3
+    },
+    {
+      "sthan": 11,
+      "rajya": "असम",
+      "prajanan_dar": 2.4
+    },
+    {
+      "sthan": 11,
+      "rajya": "उडी़सा",
+      "prajanan_dar": 2.4
+    },
+    {
+      "sthan": 11,
+      "rajya": "गुजरात",
+      "prajanan_dar": 2.4
+    },
+    {
+      "sthan": 11,
+      "rajya": "जम्मू और कश्मीर",
+      "prajanan_dar": 2.4
+    },
+    {
+      "sthan": 11,
+      "rajya": "त्रिपुरा",
+      "prajanan_dar": 2.4
+    },
+    {
+      "sthan": 16,
+      "rajya": "उत्तराखंड",
+      "prajanan_dar": 2.6
+    },
+    {
+      "sthan": 16,
+      "rajya": "छत्तीसगढ़",
+      "prajanan_dar": 2.6
+    },
+    {
+      "sthan": "-",
+      "rajya": "पूर्ण भारत",
+      "prajanan_dar": 2.7
+    },
+    {
+      "sthan": 18,
+      "rajya": "हरियाणा",
+      "prajanan_dar": 2.7
+    },
+    {
+      "sthan": 19,
+      "rajya": "मणिपुर",
+      "prajanan_dar": 2.8
+    },
+    {
+      "sthan": 20,
+      "rajya": "मिज़ोरम",
+      "prajanan_dar": 2.9
+    },
+    {
+      "sthan": 21,
+      "rajya": "अरुणाचल प्रदेश",
+      "prajanan_dar": 3
+    },
+    {
+      "sthan": 22,
+      "rajya": "मध्य प्रदेश",
+      "prajanan_dar": 3.1
+    },
+    {
+      "sthan": 23,
+      "rajya": "राजस्थान",
+      "prajanan_dar": 2
+    },
+    {
+      "sthan": 24,
+      "rajya": "झारखंड",
+      "prajanan_dar": 3.3
+    },
+    {
+      "sthan": 25,
+      "rajya": "नागालैंड",
+      "prajanan_dar": 3.7
+    },
+    {
+      "sthan": 26,
+      "rajya": "उत्तर प्रदेश",
+      "prajanan_dar": 3.8
+    },
+    {
+      "sthan": 27,
+      "rajya": "मेघालय",
+      "prajanan_dar": 3.8
+    },
+    {
+      "sthan": 28,
+      "rajya": "बिहार",
+      "prajanan_dar": 4
+    }
+  ],
+  "meta": {
+    "title": "प्रजनन दर के आधार पर भारत के राज्य - Free Download",
+    "description": "भारत के राज्यों की कुल प्रजनन दर (प्रति महिला बच्चों की औसत संख्या) के अनुसार क्रमबद्ध सूची। Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "प्रजनन दर के आधार पर भारत के राज्य | ListBase",
+    "seo_description": "Download प्रजनन दर के आधार पर भारत के राज्य — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/प्रजनन_दर_के_आधार_पर_भारत_के_राज्य"
+    ]
+  }
+}

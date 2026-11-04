@@ -1,0 +1,92 @@
+{
+  "id": "hi-gupt-rajvansh-ke-shasak",
+  "name": "गुप्त राजवंश के शासक",
+  "title": "गुप्त राजवंश के शासक",
+  "description": "गुप्त साम्राज्य के शासकों (महाराजाधिराज) की सूची, श्रीगुप्त से विष्णुगुप्त तक, उनके शासनकाल (ईस्वी) सहित।",
+  "category": "history",
+  "source": "https://hi.wikipedia.org/wiki/गुप्त_राजवंश",
+  "source_url": "https://hi.wikipedia.org/wiki/गुप्त_राजवंश",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "shasak",
+      "label": "Shasak",
+      "type": "string"
+    },
+    {
+      "key": "shasan_kaal",
+      "label": "Shasan Kaal",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "shasak": "श्रीगुप्त प्रथम",
+      "shasan_kaal": "ल. तीसरी शताब्दी के उत्तरार्ध में"
+    },
+    {
+      "shasak": "घटोत्कच",
+      "shasan_kaal": "280/290–319 ईस्वी"
+    },
+    {
+      "shasak": "चन्द्रगुप्त प्रथम",
+      "shasan_kaal": "319–335 ईस्वी"
+    },
+    {
+      "shasak": "समुद्रगुप्त",
+      "shasan_kaal": "335–375 ईस्वी"
+    },
+    {
+      "shasak": "रामगुप्त",
+      "shasan_kaal": "375 ईस्वी"
+    },
+    {
+      "shasak": "चन्द्रगुप्त विक्रमादित्य",
+      "shasan_kaal": "375–415 ईस्वी"
+    },
+    {
+      "shasak": "कुमारगुप्त प्रथम",
+      "shasan_kaal": "415–455 ईस्वी"
+    },
+    {
+      "shasak": "स्कन्दगुप्त",
+      "shasan_kaal": "455–467 ईस्वी"
+    },
+    {
+      "shasak": "पुरुगुप्त",
+      "shasan_kaal": "467–473 ईस्वी"
+    },
+    {
+      "shasak": "कुमारगुप्त द्वितीय",
+      "shasan_kaal": "473–476 ईस्वी"
+    },
+    {
+      "shasak": "बुद्धगुप्त",
+      "shasan_kaal": "476–495 ईस्वी"
+    },
+    {
+      "shasak": "नरसिंहगुप्त बालादित्य",
+      "shasan_kaal": "495–530 ईस्वी"
+    },
+    {
+      "shasak": "कुमारगुप्त तृतीय",
+      "shasan_kaal": "530–540 ईस्वी"
+    },
+    {
+      "shasak": "विष्णुगुप्त",
+      "shasan_kaal": "540–550 ईस्वी"
+    }
+  ],
+  "meta": {
+    "title": "गुप्त राजवंश के शासक - Free Download",
+    "description": "गुप्त साम्राज्य के शासकों (महाराजाधिराज) की सूची, श्रीगुप्त से विष्णुगुप्त तक, उनके शासनकाल (ईस्वी) सहित। Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "गुप्त राजवंश के शासक | ListBase",
+    "seo_description": "Download गुप्त राजवंश के शासक — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/गुप्त_राजवंश"
+    ]
+  }
+}

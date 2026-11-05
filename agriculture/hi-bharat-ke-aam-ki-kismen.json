@@ -1,0 +1,121 @@
+{
+  "id": "hi-bharat-ke-aam-ki-kismen",
+  "name": "भारत के आम की प्रजातियाँ",
+  "title": "भारत के आम की प्रजातियाँ",
+  "description": "भारत में उगाई जाने वाली आम की प्रजातियों (किस्मों) की सूची, उनके मूल/उत्पादक क्षेत्र और टिप्पणी सहित।",
+  "category": "agriculture",
+  "source": "https://hi.wikipedia.org/wiki/आम_की_प्रजातियाँ",
+  "source_url": "https://hi.wikipedia.org/wiki/आम_की_प्रजातियाँ",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "mool_utpadak_kshetra",
+      "label": "Mool Utpadak Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "tippani",
+      "label": "Tippani",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naam": "Alampur Baneshan",
+      "mool_utpadak_kshetra": "भारत, United States",
+      "tippani": ""
+    },
+    {
+      "naam": "अलफांसो",
+      "mool_utpadak_kshetra": "भारत, पाकिस्तान, Ecuador, मिस्र, सुडान, युनाइटेड स्टेट्स",
+      "tippani": "\"आमों का राजा\", रेशेदार गूदे वाला अत्यन्त मीठा आम, विटामिन ए और विटामिन सी से भरपूर, मुख्यतः महाराष्ट्र के देवगढ़ और रत्नागिति जिलों में पैदा होता है। यह फरवरी से मई के अन्त तक मिलता है।"
+    },
+    {
+      "naam": "आम्रपाली (आम)",
+      "mool_utpadak_kshetra": "भारत",
+      "tippani": ""
+    },
+    {
+      "naam": "Banganapalli",
+      "mool_utpadak_kshetra": "भारत",
+      "tippani": "The largest volume mango cultivar in the world, this medium-large fruit ripens to a golden-yellow exterior and a straw-yellow to golden-yellow interior. Very juicy, slightly tangy with little or no fibre and a creamy texture. It originates from the erstwhile princely state of Banganapalle, in present-day Andhra Pradesh, India."
+    },
+    {
+      "naam": "Bombay",
+      "mool_utpadak_kshetra": "भारत, Nepal, United States",
+      "tippani": ""
+    },
+    {
+      "naam": "Chok anan",
+      "mool_utpadak_kshetra": "Pakistan, Bangladesh, भारत, Thailand",
+      "tippani": ""
+    },
+    {
+      "naam": "दशहरी",
+      "mool_utpadak_kshetra": "भारत, Nepal, Pakistan",
+      "tippani": ""
+    },
+    {
+      "naam": "Fazli (mango)",
+      "mool_utpadak_kshetra": "Bangladesh, भारत",
+      "tippani": ""
+    },
+    {
+      "naam": "हिमसागर",
+      "mool_utpadak_kshetra": "Bangladesh, भारत",
+      "tippani": ""
+    },
+    {
+      "naam": "Lakshmanbhog",
+      "mool_utpadak_kshetra": "भारत",
+      "tippani": ""
+    },
+    {
+      "naam": "लंगड़ा आम",
+      "mool_utpadak_kshetra": "Bangladesh, Pakistan (Sindh), भारत,",
+      "tippani": ""
+    },
+    {
+      "naam": "Mallika",
+      "mool_utpadak_kshetra": "भारत, Nepal, United States",
+      "tippani": ""
+    },
+    {
+      "naam": "Mulgoba",
+      "mool_utpadak_kshetra": "भारत, United States",
+      "tippani": ""
+    },
+    {
+      "naam": "Neelam",
+      "mool_utpadak_kshetra": "भारत, Pakistan",
+      "tippani": ""
+    },
+    {
+      "naam": "Sammar Bahisht",
+      "mool_utpadak_kshetra": "Pakistan, भारत",
+      "tippani": ""
+    },
+    {
+      "naam": "Totapuri",
+      "mool_utpadak_kshetra": "भारत",
+      "tippani": ""
+    }
+  ],
+  "meta": {
+    "title": "भारत के आम की प्रजातियाँ - Free Download",
+    "description": "भारत में उगाई जाने वाली आम की प्रजातियों (किस्मों) की सूची, उनके मूल/उत्पादक क्षेत्र और टिप्पणी सहित। Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के आम की प्रजातियाँ | ListBase",
+    "seo_description": "Download भारत के आम की प्रजातियाँ — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/आम_की_प्रजातियाँ"
+    ]
+  }
+}

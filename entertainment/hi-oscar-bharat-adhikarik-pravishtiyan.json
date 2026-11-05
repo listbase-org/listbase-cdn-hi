@@ -1,0 +1,502 @@
+{
+  "id": "hi-oscar-bharat-adhikarik-pravishtiyan",
+  "name": "ऑस्कर के लिए भारत की आधिकारिक प्रविष्टियाँ",
+  "title": "ऑस्कर के लिए भारत की आधिकारिक प्रविष्टियाँ",
+  "description": "सर्वश्रेष्ठ विदेशी (अंतरराष्ट्रीय) भाषा फ़िल्म ऑस्कर के लिए भारत द्वारा भेजी गई आधिकारिक फ़िल्मों की सूची, भाषा, निर्देशक और परिणाम सहित।",
+  "category": "entertainment",
+  "source": "https://hi.wikipedia.org/wiki/ऑस्कर_के_लिए_भारत_की_आधिकारिक_प्रविष्टियों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/ऑस्कर_के_लिए_भारत_की_आधिकारिक_प्रविष्टियों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "varsh",
+      "label": "Varsh",
+      "type": "number"
+    },
+    {
+      "key": "samaroh",
+      "label": "Samaroh",
+      "type": "number"
+    },
+    {
+      "key": "angrezi_sheershak",
+      "label": "Angrezi Sheershak",
+      "type": "string"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "bhasha",
+      "label": "Bhasha",
+      "type": "string"
+    },
+    {
+      "key": "nirdeshak",
+      "label": "Nirdeshak",
+      "type": "string"
+    },
+    {
+      "key": "parinam",
+      "label": "Parinam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "varsh": 1957,
+      "samaroh": 30,
+      "angrezi_sheershak": "Mother India",
+      "film": "मदर इंडिया",
+      "bhasha": "हिंदी",
+      "nirdeshak": "महबूब ख़ान",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1958,
+      "samaroh": 31,
+      "angrezi_sheershak": "Madhumati",
+      "film": "मधुमती",
+      "bhasha": "हिंदी",
+      "nirdeshak": "बिमल राय",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1959,
+      "samaroh": 32,
+      "angrezi_sheershak": "The World of Apu",
+      "film": "अपुर संसार (অপুর সংসার)",
+      "bhasha": "बंगाली",
+      "nirdeshak": "सत्यजीत रे",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1962,
+      "samaroh": 35,
+      "angrezi_sheershak": "Sahib Bibi Aur Ghulam",
+      "film": "साहिब बीबी और ग़ुलाम",
+      "bhasha": "हिन्दुस्तानी",
+      "nirdeshak": "अबरार अलवी",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1963,
+      "samaroh": 36,
+      "angrezi_sheershak": "Metropolis",
+      "film": "महानगर (মহানগর)",
+      "bhasha": "बंगाली",
+      "nirdeshak": "सत्यजीत रे",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1965,
+      "samaroh": 38,
+      "angrezi_sheershak": "The Guide",
+      "film": "गाइड",
+      "bhasha": "हिंदी",
+      "nirdeshak": "विजय आनन्द",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1966,
+      "samaroh": 39,
+      "angrezi_sheershak": "Amrapali",
+      "film": "अम्रपल्ली",
+      "bhasha": "हिंदी",
+      "nirdeshak": "लेख टंडन",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1967,
+      "samaroh": 40,
+      "angrezi_sheershak": "The Last Letter",
+      "film": "आखरी ख़त",
+      "bhasha": "हिंदी",
+      "nirdeshak": "चेतन आनन्द",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1968,
+      "samaroh": 41,
+      "angrezi_sheershak": "Elder Sister",
+      "film": "मझली दीदी",
+      "bhasha": "हिंदी",
+      "nirdeshak": "ऋषिकेश मुखर्जी",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1969,
+      "samaroh": 42,
+      "angrezi_sheershak": "Deiva Magan",
+      "film": "देवा मगन (தெய்வ மகன்)",
+      "bhasha": "तमिल",
+      "nirdeshak": "ए‍.सी तिरुलोकचंदर",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1971,
+      "samaroh": 44,
+      "angrezi_sheershak": "Reshma Aur Shera",
+      "film": "रेशमा और शेरा",
+      "bhasha": "हिंदी",
+      "nirdeshak": "सुनील दत्त",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1972,
+      "samaroh": 45,
+      "angrezi_sheershak": "Uphaar",
+      "film": "उपहार",
+      "bhasha": "हिंदी",
+      "nirdeshak": "सुधेंदु रॉय",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1973,
+      "samaroh": 46,
+      "angrezi_sheershak": "Saudagar",
+      "film": "सौदागर",
+      "bhasha": "हिंदी",
+      "nirdeshak": "सुधेंदु रॉय",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1974,
+      "samaroh": 47,
+      "angrezi_sheershak": "Hot Winds",
+      "film": "गर्म हवा",
+      "bhasha": "उर्दू",
+      "nirdeshak": "मैसूर श्रीनिवास सथ्यू",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1977,
+      "samaroh": 50,
+      "angrezi_sheershak": "Manthan",
+      "film": "मंथन",
+      "bhasha": "हिंदी",
+      "nirdeshak": "श्याम बेनेगल",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1978,
+      "samaroh": 51,
+      "angrezi_sheershak": "The Chess Players",
+      "film": "शतरंज के खिलाड़ी",
+      "bhasha": "हिन्दुस्तानी",
+      "nirdeshak": "सत्यजीत रे",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1980,
+      "samaroh": 53,
+      "angrezi_sheershak": "Payal Ki Jhankaar",
+      "film": "पायल की झंकार",
+      "bhasha": "हिंदी",
+      "nirdeshak": "सत्येन बोस",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1984,
+      "samaroh": 57,
+      "angrezi_sheershak": "Saaransh",
+      "film": "सारांश",
+      "bhasha": "हिंदी",
+      "nirdeshak": "महेश भट्ट",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1985,
+      "samaroh": 58,
+      "angrezi_sheershak": "Saagar",
+      "film": "सागर",
+      "bhasha": "हिंदी",
+      "nirdeshak": "रमेश सिप्पी",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1986,
+      "samaroh": 59,
+      "angrezi_sheershak": "Swati Mutyam",
+      "film": "स्वाति मुत्यम् (స్వాతి ముత్యం)",
+      "bhasha": "तेलुगू",
+      "nirdeshak": "कसिनाधुनी विश्वनाथ",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1987,
+      "samaroh": 60,
+      "angrezi_sheershak": "Nayagan",
+      "film": "नायकन (நாயகன்)",
+      "bhasha": "तमिल",
+      "nirdeshak": "मणि रत्नम्",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1988,
+      "samaroh": 61,
+      "angrezi_sheershak": "Salaam Bombay",
+      "film": "सलाम बॉम्बे",
+      "bhasha": "हिंदी",
+      "nirdeshak": "मीरा नायर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1989,
+      "samaroh": 62,
+      "angrezi_sheershak": "Parinda",
+      "film": "परिंदा",
+      "bhasha": "हिंदी",
+      "nirdeshak": "विधु विनोद चोपड़ा",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1990,
+      "samaroh": 63,
+      "angrezi_sheershak": "Anjali",
+      "film": "अंजलि (அஞ்சலி)",
+      "bhasha": "तमिल",
+      "nirdeshak": "मणि रत्नम्",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1991,
+      "samaroh": 64,
+      "angrezi_sheershak": "Henna",
+      "film": "हिना",
+      "bhasha": "हिंदी उर्दू",
+      "nirdeshak": "रणधीर कपूर",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1992,
+      "samaroh": 65,
+      "angrezi_sheershak": "Thevar Magan",
+      "film": "थेवर मगन (தேவர் மகன்)",
+      "bhasha": "तमिल",
+      "nirdeshak": "भरतन",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1993,
+      "samaroh": 66,
+      "angrezi_sheershak": "Rudaali",
+      "film": "रुदाली",
+      "bhasha": "हिंदी",
+      "nirdeshak": "कल्पना लाज़मी",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1994,
+      "samaroh": 67,
+      "angrezi_sheershak": "Bandit Queen",
+      "film": "बैंडिट क्वीन",
+      "bhasha": "हिंदी",
+      "nirdeshak": "शेखर कपूर",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1995,
+      "samaroh": 68,
+      "angrezi_sheershak": "Kuruthipunal",
+      "film": "कुरुतिपुनल (குருதிப்புனல்)",
+      "bhasha": "तमिल",
+      "nirdeshak": "पी.सी श्रीराम",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1996,
+      "samaroh": 69,
+      "angrezi_sheershak": "Indian",
+      "film": "इंडियन (இந்தியன்)",
+      "bhasha": "तमिल",
+      "nirdeshak": "शंकर",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1997,
+      "samaroh": 70,
+      "angrezi_sheershak": "Guru",
+      "film": "गुरु (ഗുരു)",
+      "bhasha": "मलयालम",
+      "nirdeshak": "राजीव आँचल",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1998,
+      "samaroh": 71,
+      "angrezi_sheershak": "Jeans",
+      "film": "जीन्स (ஜீன்ஸ்)",
+      "bhasha": "तमिल",
+      "nirdeshak": "शंकर",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 1999,
+      "samaroh": 72,
+      "angrezi_sheershak": "Earth",
+      "film": "अर्थ",
+      "bhasha": "हिंदी",
+      "nirdeshak": "दीपा मेहता",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2000,
+      "samaroh": 73,
+      "angrezi_sheershak": "Hey Ram",
+      "film": "हे राम (ஹே ராம்)",
+      "bhasha": "तमिल हिंदी",
+      "nirdeshak": "कमल हासन",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2001,
+      "samaroh": 74,
+      "angrezi_sheershak": "Lagaan",
+      "film": "लगान",
+      "bhasha": "हिंदी",
+      "nirdeshak": "आशुतोष गोवरिकर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2002,
+      "samaroh": 75,
+      "angrezi_sheershak": "Devdas",
+      "film": "देवदास",
+      "bhasha": "हिंदी",
+      "nirdeshak": "संजय लीला भंसाली",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2004,
+      "samaroh": 77,
+      "angrezi_sheershak": "Shwaas",
+      "film": "श्‍वास (श्वास)",
+      "bhasha": "मराठी",
+      "nirdeshak": "संदीप सावंत",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2005,
+      "samaroh": 78,
+      "angrezi_sheershak": "Riddle",
+      "film": "पहेली",
+      "bhasha": "हिंदी",
+      "nirdeshak": "अमोल पालेकर",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2006,
+      "samaroh": 79,
+      "angrezi_sheershak": "Rang De Basanti",
+      "film": "रंग दे बसंती",
+      "bhasha": "हिंदी",
+      "nirdeshak": "राकेश ओमप्रकाश मेहरा",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2007,
+      "samaroh": 80,
+      "angrezi_sheershak": "Eklavya: The Royal Guard",
+      "film": "एकलव्य – दी रॉयल गार्ड",
+      "bhasha": "हिंदी",
+      "nirdeshak": "विधु विनोद चोपड़ा",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2008,
+      "samaroh": 81,
+      "angrezi_sheershak": "Taare Zameen Par",
+      "film": "तारे ज़मीन पर",
+      "bhasha": "हिंदी",
+      "nirdeshak": "आमिर ख़ान",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2009,
+      "samaroh": 82,
+      "angrezi_sheershak": "Harishchandra's Factory",
+      "film": "हरिश्‍चंद्र की फ़ैक्टरी (हरिश्‍चंद्राची फॅक्टरी)",
+      "bhasha": "मराठी",
+      "nirdeshak": "परेश मोकाशी",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2010,
+      "samaroh": 83,
+      "angrezi_sheershak": "Peepli Live",
+      "film": "पीपली लाइव",
+      "bhasha": "हिंदी",
+      "nirdeshak": "अनुषा रिज़वी",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2011,
+      "samaroh": 84,
+      "angrezi_sheershak": "Abu, Son of Adam",
+      "film": "आडामिन्टे माकन अबू (ആദാമിന്റെ മകൻ അബു)",
+      "bhasha": "मलयालम",
+      "nirdeshak": "सलीम अहमद",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2012,
+      "samaroh": 85,
+      "angrezi_sheershak": "Barfi!",
+      "film": "बर्फ़ी!",
+      "bhasha": "हिंदी",
+      "nirdeshak": "अनुराग बसु",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2013,
+      "samaroh": 86,
+      "angrezi_sheershak": "The Good Road",
+      "film": "दी गुड रोड (દી ગુડ રોડ)",
+      "bhasha": "गुजराती",
+      "nirdeshak": "ग्यान कोरिया",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2014,
+      "samaroh": 87,
+      "angrezi_sheershak": "Liar's Dice",
+      "film": "लायर्स डाइस",
+      "bhasha": "हिन्दी",
+      "nirdeshak": "गीतू मोहनदास",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2015,
+      "samaroh": 88,
+      "angrezi_sheershak": "Court",
+      "film": "कोर्ट",
+      "bhasha": "मराठी",
+      "nirdeshak": "चैतन्य ताम्हाणे",
+      "parinam": "नामित नहीं"
+    },
+    {
+      "varsh": 2016,
+      "samaroh": 89,
+      "angrezi_sheershak": "Interrogation",
+      "film": "विसरणै (விசாரணை)",
+      "bhasha": "तमिल",
+      "nirdeshak": "वेत्रिमारन",
+      "parinam": "नामित नहीं"
+    }
+  ],
+  "meta": {
+    "title": "ऑस्कर के लिए भारत की आधिकारिक प्रविष्टियाँ - Free Download",
+    "description": "सर्वश्रेष्ठ विदेशी (अंतरराष्ट्रीय) भाषा फ़िल्म ऑस्कर के लिए भारत द्वारा भेजी गई आधिकारिक फ़िल्मों की सूची, भाषा, निर्देशक और परिणाम सहित। Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "ऑस्कर के लिए भारत की आधिकारिक प्रविष्टियाँ | ListBase",
+    "seo_description": "Download ऑस्कर के लिए भारत की आधिकारिक प्रविष्टियाँ — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/ऑस्कर_के_लिए_भारत_की_आधिकारिक_प्रविष्टियों_की_सूची"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-05T02:16:06.684Z",
-  "total_datasets": 488,
-  "total_records": 2014169,
+  "generated": "2026-11-05T02:16:13.382Z",
+  "total_datasets": 489,
+  "total_records": 2014218,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -840,6 +840,34 @@
         "xlsx": {
           "name": "hi-hindi-television-channel_HI.xlsx",
           "size": 14398
+        }
+      }
+    },
+    {
+      "id": "hi-oscar-bharat-adhikarik-pravishtiyan",
+      "name": "ऑस्कर के लिए भारत की आधिकारिक प्रविष्टियाँ",
+      "category": "entertainment",
+      "record_count": 49,
+      "columns": [
+        "varsh",
+        "samaroh",
+        "angrezi_sheershak",
+        "film",
+        "bhasha",
+        "nirdeshak",
+        "parinam"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/ऑस्कर_के_लिए_भारत_की_आधिकारिक_प्रविष्टियों_की_सूची",
+      "updated": "2026-11",
+      "size": 17203,
+      "files": {
+        "csv": {
+          "name": "hi-oscar-bharat-adhikarik-pravishtiyan_HI.csv",
+          "size": 7351
+        },
+        "xlsx": {
+          "name": "hi-oscar-bharat-adhikarik-pravishtiyan_HI.xlsx",
+          "size": 10442
         }
       }
     },

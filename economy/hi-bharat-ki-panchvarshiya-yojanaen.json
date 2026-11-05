@@ -1,0 +1,116 @@
+{
+  "id": "hi-bharat-ki-panchvarshiya-yojanaen",
+  "name": "भारत की पंचवर्षीय योजनाएँ",
+  "title": "भारत की पंचवर्षीय योजनाएँ",
+  "description": "भारत की पंचवर्षीय योजनाओं (पहली से बारहवीं), योजनावकाश, रोलिंग प्लान और वार्षिक योजनाओं की अवधि सहित कालक्रमानुसार सूची।",
+  "category": "economy",
+  "source": "https://hi.wikipedia.org/wiki/भारत_की_पंचवर्षीय_योजनाएँ",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_की_पंचवर्षीय_योजनाएँ",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "yojana",
+      "label": "Yojana",
+      "type": "string"
+    },
+    {
+      "key": "aarambh_varsh",
+      "label": "Aarambh Varsh",
+      "type": "number"
+    },
+    {
+      "key": "samapti_varsh",
+      "label": "Samapti Varsh",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "yojana": "पहली योजना",
+      "aarambh_varsh": 1951,
+      "samapti_varsh": 1956
+    },
+    {
+      "yojana": "दूसरी योजना",
+      "aarambh_varsh": 1956,
+      "samapti_varsh": 1961
+    },
+    {
+      "yojana": "तीसरी योजना",
+      "aarambh_varsh": 1961,
+      "samapti_varsh": 1966
+    },
+    {
+      "yojana": "योजनावकाश",
+      "aarambh_varsh": 1966,
+      "samapti_varsh": 1969
+    },
+    {
+      "yojana": "चौथी योजना",
+      "aarambh_varsh": 1969,
+      "samapti_varsh": 1974
+    },
+    {
+      "yojana": "पांचवी योजना",
+      "aarambh_varsh": 1974,
+      "samapti_varsh": 1978
+    },
+    {
+      "yojana": "रोलिंग प्लान",
+      "aarambh_varsh": 1978,
+      "samapti_varsh": 1980
+    },
+    {
+      "yojana": "छठी योजना",
+      "aarambh_varsh": 1980,
+      "samapti_varsh": 1985
+    },
+    {
+      "yojana": "सातवीं योजना",
+      "aarambh_varsh": 1985,
+      "samapti_varsh": 1990
+    },
+    {
+      "yojana": "वार्षिक योजनाएँ",
+      "aarambh_varsh": 1990,
+      "samapti_varsh": 1992
+    },
+    {
+      "yojana": "आठवीं योजना",
+      "aarambh_varsh": 1992,
+      "samapti_varsh": 1997
+    },
+    {
+      "yojana": "नौवीं योजना",
+      "aarambh_varsh": 1997,
+      "samapti_varsh": 2002
+    },
+    {
+      "yojana": "दसवीं योजना",
+      "aarambh_varsh": 2002,
+      "samapti_varsh": 2007
+    },
+    {
+      "yojana": "ग्यारहवीं योजना",
+      "aarambh_varsh": 2007,
+      "samapti_varsh": 2012
+    },
+    {
+      "yojana": "बारहवीं योजना",
+      "aarambh_varsh": 2012,
+      "samapti_varsh": 2017
+    }
+  ],
+  "meta": {
+    "title": "भारत की पंचवर्षीय योजनाएँ - Free Download",
+    "description": "भारत की पंचवर्षीय योजनाओं (पहली से बारहवीं), योजनावकाश, रोलिंग प्लान और वार्षिक योजनाओं की अवधि सहित कालक्रमानुसार सूची। Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत की पंचवर्षीय योजनाएँ | ListBase",
+    "seo_description": "Download भारत की पंचवर्षीय योजनाएँ — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_की_पंचवर्षीय_योजनाएँ"
+    ]
+  }
+}

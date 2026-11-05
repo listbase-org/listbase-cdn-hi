@@ -1,0 +1,1983 @@
+{
+  "id": "hi-filmfare-sarvashreshth-sangeetkar-puraskar",
+  "name": "फ़िल्मफ़ेयर सर्वश्रेष्ठ संगीतकार पुरस्कार विजेता और नामांकित",
+  "title": "फ़िल्मफ़ेयर सर्वश्रेष्ठ संगीतकार पुरस्कार विजेता और नामांकित",
+  "description": "फ़िल्मफ़ेयर पुरस्कारों में सर्वश्रेष्ठ संगीतकार (संगीत निर्देशक) श्रेणी के विजेता और नामांकित संगीतकार, फ़िल्म और वर्ष सहित (1954 से)।",
+  "category": "music",
+  "source": "https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_संगीतकार_पुरस्कार",
+  "source_url": "https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_संगीतकार_पुरस्कार",
+  "updated": "2026-11",
+  "record_count": 276,
+  "columns": [
+    {
+      "key": "varsh",
+      "label": "Varsh",
+      "type": "number"
+    },
+    {
+      "key": "samaroh",
+      "label": "Samaroh",
+      "type": "string"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "sangeetkar",
+      "label": "Sangeetkar",
+      "type": "string"
+    },
+    {
+      "key": "parinam",
+      "label": "Parinam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "varsh": 1954,
+      "samaroh": "पहले",
+      "film": "बैजू बावरा",
+      "sangeetkar": "नौशाद गीत \"तू गंगा की मौज\" के लिए",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1955,
+      "samaroh": "दूसरे",
+      "film": "टैक्सी ड्राइवर",
+      "sangeetkar": "सचिन देव बर्मन गीत \"जाएँ तो जाएँ कहाँ\" के लिए",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1956,
+      "samaroh": "तीसरे",
+      "film": "नागिन",
+      "sangeetkar": "हेमंत कुमार",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1956,
+      "samaroh": "तीसरे",
+      "film": "आज़ाद",
+      "sangeetkar": "सी॰ रामचन्द्र",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1956,
+      "samaroh": "तीसरे",
+      "film": "उड़न खटोला",
+      "sangeetkar": "नौशाद",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1957,
+      "samaroh": "चौथे",
+      "film": "चोरी चोरी",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1957,
+      "samaroh": "चौथे",
+      "film": "सी॰ आई॰ डी॰",
+      "sangeetkar": "ओ॰ पी॰ नैय्यर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1958,
+      "samaroh": "पांचवें",
+      "film": "नया दौर",
+      "sangeetkar": "ओ॰ पी॰ नैय्यर",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1958,
+      "samaroh": "पांचवें",
+      "film": "आशा",
+      "sangeetkar": "सी॰ रामचन्द्र",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1959,
+      "samaroh": "छठे",
+      "film": "मधुमती",
+      "sangeetkar": "सलिल चौधरी",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1959,
+      "samaroh": "छठे",
+      "film": "फागुन",
+      "sangeetkar": "ओ॰ पी॰ नैय्यर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1959,
+      "samaroh": "छठे",
+      "film": "यहूदी",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1960,
+      "samaroh": "७वें",
+      "film": "अनाड़ी",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1960,
+      "samaroh": "७वें",
+      "film": "सुजाता",
+      "sangeetkar": "सचिन देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1960,
+      "samaroh": "७वें",
+      "film": "छोटी बहन",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1961,
+      "samaroh": "८वें",
+      "film": "दिल अपना और प्रीत पराई",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1961,
+      "samaroh": "८वें",
+      "film": "मुग़ल-ए-आज़म",
+      "sangeetkar": "नौशाद",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1961,
+      "samaroh": "८वें",
+      "film": "चौदहवीं का चाँद",
+      "sangeetkar": "रवि",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1962,
+      "samaroh": "९वें",
+      "film": "घराना",
+      "sangeetkar": "रवि",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1962,
+      "samaroh": "९वें",
+      "film": "गंगा जमना",
+      "sangeetkar": "नौशाद",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1962,
+      "samaroh": "९वें",
+      "film": "जिस देश में गंगा बहती है",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1963,
+      "samaroh": "१०वें",
+      "film": "प्रोफेसर",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1963,
+      "samaroh": "१०वें",
+      "film": "बीस साल बाद",
+      "sangeetkar": "हेमंत कुमार",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1963,
+      "samaroh": "१०वें",
+      "film": "अनपढ़",
+      "sangeetkar": "मदन मोहन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1964,
+      "samaroh": "११वें",
+      "film": "ताज महल",
+      "sangeetkar": "रोशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1964,
+      "samaroh": "११वें",
+      "film": "मेरे महबूब",
+      "sangeetkar": "नौशाद",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1964,
+      "samaroh": "११वें",
+      "film": "दिल एक मंदिर",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1965,
+      "samaroh": "१२वें",
+      "film": "दोस्ती",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1965,
+      "samaroh": "१२वें",
+      "film": "वो कौन थी",
+      "sangeetkar": "मदन मोहन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1965,
+      "samaroh": "१२वें",
+      "film": "संगम",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1966,
+      "samaroh": "१३वें",
+      "film": "खानदान",
+      "sangeetkar": "रवि",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1966,
+      "samaroh": "१३वें",
+      "film": "हिमालय की गोद में",
+      "sangeetkar": "कल्याणजी-आनंदजी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1966,
+      "samaroh": "१३वें",
+      "film": "आरज़ू",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1967,
+      "samaroh": "१४वें",
+      "film": "सूरज",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1967,
+      "samaroh": "१४वें",
+      "film": "दो बदन",
+      "sangeetkar": "रवि",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1967,
+      "samaroh": "१४वें",
+      "film": "गाइड",
+      "sangeetkar": "सचिन देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1968,
+      "samaroh": "१५वें",
+      "film": "मिलन",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1968,
+      "samaroh": "१५वें",
+      "film": "उपकार",
+      "sangeetkar": "कल्याणजी-आनंदजी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1968,
+      "samaroh": "१५वें",
+      "film": "हमराज़",
+      "sangeetkar": "रवि",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1969,
+      "samaroh": "१६वें",
+      "film": "ब्रह्मचारी",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1969,
+      "samaroh": "१६वें",
+      "film": "आँखें",
+      "sangeetkar": "रवि",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1969,
+      "samaroh": "१६वें",
+      "film": "दीवाना",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1970,
+      "samaroh": "१७वें",
+      "film": "जीने की राह",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1970,
+      "samaroh": "१७वें",
+      "film": "आराधना",
+      "sangeetkar": "सचिन देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1970,
+      "samaroh": "१७वें",
+      "film": "चंदा और बिजली",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1971,
+      "samaroh": "१८वें",
+      "film": "पहचान",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1971,
+      "samaroh": "१८वें",
+      "film": "दो रास्ते",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1971,
+      "samaroh": "१८वें",
+      "film": "तलाश",
+      "sangeetkar": "सचिन देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1972,
+      "samaroh": "१९वें",
+      "film": "मेरा नाम जोकर",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1972,
+      "samaroh": "१९वें",
+      "film": "कारवाँ",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1972,
+      "samaroh": "१९वें",
+      "film": "अंदाज़",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1973,
+      "samaroh": "२०वें",
+      "film": "बेईमान",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1973,
+      "samaroh": "२०वें",
+      "film": "पाकीज़ा",
+      "sangeetkar": "गुलाम मोहम्मद",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1973,
+      "samaroh": "२०वें",
+      "film": "शोर",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1974,
+      "samaroh": "२१वें",
+      "film": "अभिमान",
+      "sangeetkar": "सचिन देव बर्मन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1974,
+      "samaroh": "२१वें",
+      "film": "ज़ंजीर",
+      "sangeetkar": "कल्याणजी-आनंदजी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1974,
+      "samaroh": "२१वें",
+      "film": "बॉबी",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1974,
+      "samaroh": "२१वें",
+      "film": "दाग",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1974,
+      "samaroh": "२१वें",
+      "film": "यादों की बारात",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1975,
+      "samaroh": "२२वें",
+      "film": "कोरा कागज़",
+      "sangeetkar": "कल्याणजी-आनंदजी",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1975,
+      "samaroh": "२२वें",
+      "film": "रोटी कपड़ा और मकान",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1975,
+      "samaroh": "२२वें",
+      "film": "आप की कसम",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1975,
+      "samaroh": "२२वें",
+      "film": "प्रेम नगर",
+      "sangeetkar": "सचिन देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1975,
+      "samaroh": "२२वें",
+      "film": "रेशम की डोरी",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1976,
+      "samaroh": "२३वें",
+      "film": "जूली",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1976,
+      "samaroh": "२३वें",
+      "film": "दुल्हन",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1976,
+      "samaroh": "२३वें",
+      "film": "खेल खेल में",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1976,
+      "samaroh": "२३वें",
+      "film": "शोले",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1976,
+      "samaroh": "२३वें",
+      "film": "सन्यासी",
+      "sangeetkar": "शंकर-जयकिशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1977,
+      "samaroh": "२४वें",
+      "film": "कभी कभी",
+      "sangeetkar": "खय्याम",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1977,
+      "samaroh": "२४वें",
+      "film": "बैराग",
+      "sangeetkar": "कल्याणजी-आनंदजी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1977,
+      "samaroh": "२४वें",
+      "film": "मौसम",
+      "sangeetkar": "मदन मोहन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1977,
+      "samaroh": "२४वें",
+      "film": "महबूबा",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1977,
+      "samaroh": "२४वें",
+      "film": "चितचोर",
+      "sangeetkar": "रवीन्द्र जैन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1978,
+      "samaroh": "२५वें",
+      "film": "अमर अकबर एन्थोनी",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1978,
+      "samaroh": "२५वें",
+      "film": "आलाप",
+      "sangeetkar": "जयदेव",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1978,
+      "samaroh": "२५वें",
+      "film": "हम किसी से कम नहीं",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1978,
+      "samaroh": "२५वें",
+      "film": "किनारा",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1978,
+      "samaroh": "२५वें",
+      "film": "स्वामी",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1979,
+      "samaroh": "२६वें",
+      "film": "सत्यम शिवम सुन्दरम",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1979,
+      "samaroh": "२६वें",
+      "film": "डॉन",
+      "sangeetkar": "कल्याणजी-आनंदजी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1979,
+      "samaroh": "२६वें",
+      "film": "शालीमार",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1979,
+      "samaroh": "२६वें",
+      "film": "देस परदेस",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1979,
+      "samaroh": "२६वें",
+      "film": "अँखियों के झरोखे से",
+      "sangeetkar": "रवीन्द्र जैन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1980,
+      "samaroh": "२७वें",
+      "film": "सरगम",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1980,
+      "samaroh": "२७वें",
+      "film": "नूरी",
+      "sangeetkar": "खय्याम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1980,
+      "samaroh": "२७वें",
+      "film": "जानी दुश्मन",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1980,
+      "samaroh": "२७वें",
+      "film": "काला पत्थर",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1980,
+      "samaroh": "२७वें",
+      "film": "मिस्टर नटवरलाल",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1981,
+      "samaroh": "२८वें",
+      "film": "कर्ज़",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1981,
+      "samaroh": "२८वें",
+      "film": "कुर्बानी",
+      "sangeetkar": "कल्याणजी-आनंदजी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1981,
+      "samaroh": "२८वें",
+      "film": "थोड़ी सी बेवफाई",
+      "sangeetkar": "खय्याम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1981,
+      "samaroh": "२८वें",
+      "film": "शान",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1981,
+      "samaroh": "२८वें",
+      "film": "आशा",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1982,
+      "samaroh": "२९वें",
+      "film": "उमराव जान",
+      "sangeetkar": "खय्याम",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1982,
+      "samaroh": "२९वें",
+      "film": "अरमान",
+      "sangeetkar": "बप्पी लाहिड़ी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1982,
+      "samaroh": "२९वें",
+      "film": "एक दूजे के लिये",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1982,
+      "samaroh": "२९वें",
+      "film": "लव स्टोरी",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1982,
+      "samaroh": "२९वें",
+      "film": "सिलसिला",
+      "sangeetkar": "शिव-हरि",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1983,
+      "samaroh": "३०वें",
+      "film": "सनम तेरी कसम",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1983,
+      "samaroh": "३०वें",
+      "film": "नमक हलाल",
+      "sangeetkar": "बप्पी लाहिड़ी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1983,
+      "samaroh": "३०वें",
+      "film": "बाज़ार",
+      "sangeetkar": "खय्याम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1983,
+      "samaroh": "३०वें",
+      "film": "प्रेम रोग",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1983,
+      "samaroh": "३०वें",
+      "film": "निकाह",
+      "sangeetkar": "रवि",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1984,
+      "samaroh": "३१वें",
+      "film": "मासूम",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1984,
+      "samaroh": "३१वें",
+      "film": "रज़िया सुल्तान",
+      "sangeetkar": "खय्याम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1984,
+      "samaroh": "३१वें",
+      "film": "हीरो",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1984,
+      "samaroh": "३१वें",
+      "film": "बेताब",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1984,
+      "samaroh": "३१वें",
+      "film": "सौतन",
+      "sangeetkar": "उषा खन्ना",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1985,
+      "samaroh": "३२वें",
+      "film": "शराबी",
+      "sangeetkar": "बप्पी लाहिड़ी",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1985,
+      "samaroh": "३२वें",
+      "film": "सोनी महिवाल",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1985,
+      "samaroh": "३२वें",
+      "film": "कसम पैदा करने वाले की",
+      "sangeetkar": "बप्पी लाहिड़ी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1985,
+      "samaroh": "३२वें",
+      "film": "तोहफा",
+      "sangeetkar": "बप्पी लाहिड़ी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1985,
+      "samaroh": "३२वें",
+      "film": "जवानी",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1986,
+      "samaroh": "३३वें",
+      "film": "राम तेरी गंगा मैली",
+      "sangeetkar": "रवींद्र जैन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1986,
+      "samaroh": "३३वें",
+      "film": "मेरी जंग",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1986,
+      "samaroh": "३३वें",
+      "film": "प्यार झुकता नहीं",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1986,
+      "samaroh": "३३वें",
+      "film": "सुर संगम",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1986,
+      "samaroh": "३३वें",
+      "film": "सागर",
+      "sangeetkar": "राहुल देव बर्मन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1989,
+      "samaroh": "३४वें",
+      "film": "क़यामत से क़यामत तक",
+      "sangeetkar": "आनंद-मिलिंद",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1989,
+      "samaroh": "३४वें",
+      "film": "तेज़ाब",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1989,
+      "samaroh": "३४वें",
+      "film": "खून भरी माँग",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1990,
+      "samaroh": "३५वें",
+      "film": "मैंने प्यार किया",
+      "sangeetkar": "राम लक्ष्मण",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1990,
+      "samaroh": "३५वें",
+      "film": "त्रिदेव",
+      "sangeetkar": "विजू शाह",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1990,
+      "samaroh": "३५वें",
+      "film": "राम लखन",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1990,
+      "samaroh": "३५वें",
+      "film": "चांदनी",
+      "sangeetkar": "शिव-हरि",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1991,
+      "samaroh": "३६वें",
+      "film": "आशिकी",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1991,
+      "samaroh": "३६वें",
+      "film": "बाग़ी",
+      "sangeetkar": "आनंद-मिलिंद",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1991,
+      "samaroh": "३६वें",
+      "film": "दिल",
+      "sangeetkar": "आनंद-मिलिंद",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1991,
+      "samaroh": "३६वें",
+      "film": "आज का अर्जुन",
+      "sangeetkar": "बप्पी लाहिड़ी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1992,
+      "samaroh": "३७वें",
+      "film": "साजन",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1992,
+      "samaroh": "३७वें",
+      "film": "लेकिन",
+      "sangeetkar": "हृदयनाथ मंगेशकर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1992,
+      "samaroh": "३७वें",
+      "film": "सौदागर",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1992,
+      "samaroh": "३७वें",
+      "film": "फूल और काँटे",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1993,
+      "samaroh": "३८वें",
+      "film": "दीवाना",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1993,
+      "samaroh": "३८वें",
+      "film": "बेटा",
+      "sangeetkar": "आनंद-मिलिंद",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1993,
+      "samaroh": "३८वें",
+      "film": "जो जीता वही सिकंदर",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1994,
+      "samaroh": "३९वें",
+      "film": "बाज़ीगर",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1994,
+      "samaroh": "३९वें",
+      "film": "रुदाली",
+      "sangeetkar": "भूपेन हज़ारिका",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1994,
+      "samaroh": "३९वें",
+      "film": "खलनायक",
+      "sangeetkar": "लक्ष्मीकांत-प्यारेलाल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1994,
+      "samaroh": "३९वें",
+      "film": "हम हैं राही प्यार के",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1994,
+      "samaroh": "३९वें",
+      "film": "डर",
+      "sangeetkar": "शिव-हरि",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": "१९४२: अ लव स्टोरी",
+      "samaroh": "",
+      "film": "मैं खिलाड़ी तू अनाड़ी",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": "१९४२: अ लव स्टोरी",
+      "samaroh": "",
+      "film": "ये दिल्लगी",
+      "sangeetkar": "दिलीप सेन, समीर सेन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": "१९४२: अ लव स्टोरी",
+      "samaroh": "",
+      "film": "हम आपके हैं कौन",
+      "sangeetkar": "राम लक्ष्मण",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": "१९४२: अ लव स्टोरी",
+      "samaroh": "",
+      "film": "मोहरा",
+      "sangeetkar": "विजू शाह",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1996,
+      "samaroh": "४१वें",
+      "film": "रंगीला",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1996,
+      "samaroh": "४१वें",
+      "film": "अकेले हम अकेले तुम",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1996,
+      "samaroh": "४१वें",
+      "film": "दिलवाले दुल्हनिया ले जाएंगे",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1996,
+      "samaroh": "४१वें",
+      "film": "राजा",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1996,
+      "samaroh": "४१वें",
+      "film": "करन अर्जुन",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1997,
+      "samaroh": "४२वें",
+      "film": "राजा हिन्दुस्तानी",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1997,
+      "samaroh": "४२वें",
+      "film": "खामोशी",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1997,
+      "samaroh": "४२वें",
+      "film": "पापा कहते हैं",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1997,
+      "samaroh": "४२वें",
+      "film": "तेरे मेरे सपने",
+      "sangeetkar": "विजू शाह",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1997,
+      "samaroh": "४२वें",
+      "film": "माचिस",
+      "sangeetkar": "विशाल भारद्वाज",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1998,
+      "samaroh": "४३वें",
+      "film": "दिल तो पागल है",
+      "sangeetkar": "उत्तम सिंह",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1998,
+      "samaroh": "४३वें",
+      "film": "बॉर्डर",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1998,
+      "samaroh": "४३वें",
+      "film": "येस बॉस",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1998,
+      "samaroh": "४३वें",
+      "film": "परदेस",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1998,
+      "samaroh": "४३वें",
+      "film": "गुप्त",
+      "sangeetkar": "विजू शाह",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1999,
+      "samaroh": "४४वें",
+      "film": "दिल से",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 1999,
+      "samaroh": "४४वें",
+      "film": "सोल्जर",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1999,
+      "samaroh": "४४वें",
+      "film": "कुछ कुछ होता है",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1999,
+      "samaroh": "४४वें",
+      "film": "प्यार तो होना ही था",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 1999,
+      "samaroh": "४४वें",
+      "film": "बड़े मियाँ छोटे मियाँ",
+      "sangeetkar": "विजू शाह",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2000,
+      "samaroh": "४५वें",
+      "film": "ताल",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2000,
+      "samaroh": "४५वें",
+      "film": "बीवी नं॰ 1",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2000,
+      "samaroh": "४५वें",
+      "film": "हसीना मान जायेगी",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2000,
+      "samaroh": "४५वें",
+      "film": "हम दिल दे चुके सनम",
+      "sangeetkar": "इस्माइल दरबार",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2000,
+      "samaroh": "४५वें",
+      "film": "सरफ़रोश",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2001,
+      "samaroh": "४६वें",
+      "film": "कहो ना प्यार है",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2001,
+      "samaroh": "४६वें",
+      "film": "फिज़ा",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2001,
+      "samaroh": "४६वें",
+      "film": "जोश",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2001,
+      "samaroh": "४६वें",
+      "film": "रिफ्यूजी",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2001,
+      "samaroh": "४६वें",
+      "film": "मोहब्बतें",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2001,
+      "samaroh": "४६वें",
+      "film": "धड़कन",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2002,
+      "samaroh": "४७वें",
+      "film": "लगान",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2002,
+      "samaroh": "४७वें",
+      "film": "मुझे कुछ कहना है",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2002,
+      "samaroh": "४७वें",
+      "film": "कभी खुशी कभी ग़म",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2002,
+      "samaroh": "४७वें",
+      "film": "दिल चाहता है",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2002,
+      "samaroh": "४७वें",
+      "film": "ग़दर: एक प्रेम कथा",
+      "sangeetkar": "उत्तम सिंह",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2003,
+      "samaroh": "४८वें",
+      "film": "साथिया",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2003,
+      "samaroh": "४८वें",
+      "film": "काँटे",
+      "sangeetkar": "आनंद राज आनंद",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2003,
+      "samaroh": "४८वें",
+      "film": "हमराज़",
+      "sangeetkar": "हिमेश रेशमिया",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2003,
+      "samaroh": "४८वें",
+      "film": "देवदास",
+      "sangeetkar": "इस्माइल दरबार",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2003,
+      "samaroh": "४८वें",
+      "film": "राज़",
+      "sangeetkar": "नदीम श्रवण",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2004,
+      "samaroh": "४९वें",
+      "film": "कल हो ना हो",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2004,
+      "samaroh": "४९वें",
+      "film": "एल ओ सी कारगिल",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2004,
+      "samaroh": "४९वें",
+      "film": "तेरे नाम",
+      "sangeetkar": "हिमेश रेशमिया",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2004,
+      "samaroh": "४९वें",
+      "film": "चलते चलते",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2004,
+      "samaroh": "४९वें",
+      "film": "कोई मिल गया",
+      "sangeetkar": "राजेश रोशन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2005,
+      "samaroh": "५०वें",
+      "film": "मैं हूँ ना",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2005,
+      "samaroh": "५०वें",
+      "film": "स्वदेश",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2005,
+      "samaroh": "५०वें",
+      "film": "मर्डर",
+      "sangeetkar": "अनु मलिक",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2005,
+      "samaroh": "५०वें",
+      "film": "धूम",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2005,
+      "samaroh": "५०वें",
+      "film": "वीर-ज़ारा",
+      "sangeetkar": "मदन मोहन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2006,
+      "samaroh": "५१वें",
+      "film": "बंटी और बबली",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2006,
+      "samaroh": "५१वें",
+      "film": "लकी",
+      "sangeetkar": "अदनान सामी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2006,
+      "samaroh": "५१वें",
+      "film": "आशिक बनाया आपने",
+      "sangeetkar": "हिमेश रेशमिया",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2006,
+      "samaroh": "५१वें",
+      "film": "परिणीता",
+      "sangeetkar": "शान्तनु मोइत्रा",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2006,
+      "samaroh": "५१वें",
+      "film": "दस",
+      "sangeetkar": "विशाल-शेखर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2007,
+      "samaroh": "५२वें",
+      "film": "रंग दे बसंती",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2007,
+      "samaroh": "५२वें",
+      "film": "अक्सर",
+      "sangeetkar": "हिमेश रेशमिया",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2007,
+      "samaroh": "५२वें",
+      "film": "फना",
+      "sangeetkar": "जतिन-ललित",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2007,
+      "samaroh": "५२वें",
+      "film": "धूम 2",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2007,
+      "samaroh": "५२वें",
+      "film": "डॉन",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2007,
+      "samaroh": "५२वें",
+      "film": "कभी अलविदा ना कहना",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2008,
+      "samaroh": "५३वें",
+      "film": "गुरु",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2008,
+      "samaroh": "५३वें",
+      "film": "साँवरिया",
+      "sangeetkar": "मोंटी शर्मा",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2008,
+      "samaroh": "५३वें",
+      "film": "जब वी मेट",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2008,
+      "samaroh": "५३वें",
+      "film": "लाइफ़ इन अ मेट्रो",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2008,
+      "samaroh": "५३वें",
+      "film": "ओम शांति ओम",
+      "sangeetkar": "विशाल-शेखर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2009,
+      "samaroh": "५४वें",
+      "film": "जाने तू या जाने ना",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2009,
+      "samaroh": "५४वें",
+      "film": "गजनी",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2009,
+      "samaroh": "५४वें",
+      "film": "जोधा अकबर",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2009,
+      "samaroh": "५४वें",
+      "film": "रेस",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2009,
+      "samaroh": "५४वें",
+      "film": "रॉक ऑन",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2009,
+      "samaroh": "५४वें",
+      "film": "दोस्ताना",
+      "sangeetkar": "विशाल-शेखर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2010,
+      "samaroh": "५५वें",
+      "film": "दिल्ली ६",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2010,
+      "samaroh": "५५वें",
+      "film": "देव-डी",
+      "sangeetkar": "अमित त्रिवेदी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2010,
+      "samaroh": "५५वें",
+      "film": "अजब प्रेम की ग़ज़ब कहानी",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2010,
+      "samaroh": "५५वें",
+      "film": "लव आज कल",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2010,
+      "samaroh": "५५वें",
+      "film": "वेक अप सिड",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2010,
+      "samaroh": "५५वें",
+      "film": "कमीने",
+      "sangeetkar": "विशाल भारद्वाज",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2011,
+      "samaroh": "५६वें",
+      "film": "दबंग",
+      "sangeetkar": "साजिद-वाजिद, ललित पंडित",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2011,
+      "samaroh": "५६वें",
+      "film": "वन्स अपॉन ए टाईम इन मुम्बई",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2011,
+      "samaroh": "५६वें",
+      "film": "माय नेम इज़ ख़ान",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2011,
+      "samaroh": "५६वें",
+      "film": "अनजाना अनजानी",
+      "sangeetkar": "विशाल-शेखर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2011,
+      "samaroh": "५६वें",
+      "film": "आई हेट लव स्टोरी",
+      "sangeetkar": "विशाल-शेखर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2011,
+      "samaroh": "५६वें",
+      "film": "इश्किया",
+      "sangeetkar": "विशाल भारद्वाज",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2012,
+      "samaroh": "५७वें",
+      "film": "रॉकस्टार",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2012,
+      "samaroh": "५७वें",
+      "film": "देली बेली",
+      "sangeetkar": "राम सम्पत",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2012,
+      "samaroh": "५७वें",
+      "film": "ज़िन्दगी न मिलेगी दोबारा",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2012,
+      "samaroh": "५७वें",
+      "film": "मेरे ब्रदर की दुल्हन",
+      "sangeetkar": "सोहेल सेन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2012,
+      "samaroh": "५७वें",
+      "film": "रा.वन",
+      "sangeetkar": "विशाल-शेखर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2013,
+      "samaroh": "५८वें",
+      "film": "बर्फी!",
+      "sangeetkar": "प्रीतम",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2013,
+      "samaroh": "५८वें",
+      "film": "इशकज़ादे",
+      "sangeetkar": "अमित त्रिवेदी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2013,
+      "samaroh": "५८वें",
+      "film": "कॉकटेल",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2013,
+      "samaroh": "५८वें",
+      "film": "गैंग्स ऑफ़ वासीपुर",
+      "sangeetkar": "स्नेहा खानवलकर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2013,
+      "samaroh": "५८वें",
+      "film": "स्टुडेंट ऑफ़ द ईयर",
+      "sangeetkar": "विशाल-शेखर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2014,
+      "samaroh": "५९वें",
+      "film": "आशिकी २",
+      "sangeetkar": "अंकित तिवारी, मिथुन, जीत गांगुली",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2014,
+      "samaroh": "५९वें",
+      "film": "काय पो छे",
+      "sangeetkar": "अमित त्रिवेदी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2014,
+      "samaroh": "५९वें",
+      "film": "रांझणा",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2014,
+      "samaroh": "५९वें",
+      "film": "ये जवानी है दीवानी",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2014,
+      "samaroh": "५९वें",
+      "film": "गोलियों की रासलीला: राम-लीला",
+      "sangeetkar": "संजय लीला भंसाली",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2014,
+      "samaroh": "५९वें",
+      "film": "चेन्नई एक्सप्रेस",
+      "sangeetkar": "विशाल-शेखर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2015,
+      "samaroh": "६०वें",
+      "film": "२ स्टेट्स",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2015,
+      "samaroh": "६०वें",
+      "film": "क्वीन",
+      "sangeetkar": "अमित त्रिवेदी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2015,
+      "samaroh": "६०वें",
+      "film": "यारियां",
+      "sangeetkar": "प्रीतम, अनुपम अमोद, अर्को प्रभु मुखर्जी, यो यो हनी सिंह, मिथुन",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2015,
+      "samaroh": "६०वें",
+      "film": "किक",
+      "sangeetkar": "हिमेश रेशमिया, मीत ब्रोस, यो यो हनी सिंह",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2015,
+      "samaroh": "६०वें",
+      "film": "एक विलन",
+      "sangeetkar": "मिथुन, अंकित तिवारी, सोच",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2016,
+      "samaroh": "६१वें",
+      "film": "रॉय",
+      "sangeetkar": "अमाल मलिक, अंकित तिवारी, मीत ब्रोस",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2016,
+      "samaroh": "६१वें",
+      "film": "पीकू",
+      "sangeetkar": "अनुपम रॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2016,
+      "samaroh": "६१वें",
+      "film": "तमाशा",
+      "sangeetkar": "ए॰ आर॰ रहमान",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2016,
+      "samaroh": "६१वें",
+      "film": "दिलवाले",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2016,
+      "samaroh": "६१वें",
+      "film": "बाजीराव मस्तानी",
+      "sangeetkar": "संजय लीला भंसाली",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2016,
+      "samaroh": "६१वें",
+      "film": "दिल धड़कने दो",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2017,
+      "samaroh": "६२वें",
+      "film": "ऐ दिल है मुश्किल",
+      "sangeetkar": "प्रीतम",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2017,
+      "samaroh": "६२वें",
+      "film": "बागी",
+      "sangeetkar": "मीत ब्रोस, अमाल मलिक, मंज म्यूसिक, अंकित तिवारी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2017,
+      "samaroh": "६२वें",
+      "film": "उड़ता पंजाब",
+      "sangeetkar": "अमित त्रिवेदी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2017,
+      "samaroh": "६२वें",
+      "film": "कपूर एण्ड सन्स",
+      "sangeetkar": "अमाल मलिक, बादशाह, अर्को प्रभु मुखर्जी, तनिष्क बागची, बेनी दयाल, न्यूक्लेया",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2017,
+      "samaroh": "६२वें",
+      "film": "मिर्ज़िया",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2017,
+      "samaroh": "६२वें",
+      "film": "सुल्तान",
+      "sangeetkar": "विशाल-शेखर",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2018,
+      "samaroh": "६३वें",
+      "film": "जग्गा जासूस",
+      "sangeetkar": "प्रीतम",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2018,
+      "samaroh": "६३वें",
+      "film": "बद्रीनाथ की दुल्हनिया",
+      "sangeetkar": "अमाल मलिक, तनिष्क बागची, अखिल सचदेवा",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2018,
+      "samaroh": "६३वें",
+      "film": "बरेली की बर्फी",
+      "sangeetkar": "अर्को प्रभु मुखर्जी, तनिष्क बागची, समीरा कोप्पिकर, समीर उद्दीन, वायु",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2018,
+      "samaroh": "६३वें",
+      "film": "हाफ गर्लफ्रेंड",
+      "sangeetkar": "मिथुन, तनिष्क बागची, ऋषि रिच, फरहान सईद, राहुल मिश्रा, एमी मिश्रा",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2018,
+      "samaroh": "६३वें",
+      "film": "जब हैरी मेट सेजल",
+      "sangeetkar": "प्रीतम",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2018,
+      "samaroh": "६३वें",
+      "film": "सीक्रेट सुपरस्टार",
+      "sangeetkar": "अमित त्रिवेदी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2019,
+      "samaroh": "६४वें",
+      "film": "पद्मावत",
+      "sangeetkar": "संजय लीला भंसाली",
+      "parinam": "विजेता"
+    },
+    {
+      "varsh": 2019,
+      "samaroh": "६४वें",
+      "film": "धड़क",
+      "sangeetkar": "अजय-अतुल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2019,
+      "samaroh": "६४वें",
+      "film": "जीरो",
+      "sangeetkar": "अजय-अतुल",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2019,
+      "samaroh": "६४वें",
+      "film": "मनमर्जियां",
+      "sangeetkar": "अमित त्रिवेदी",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2019,
+      "samaroh": "६४वें",
+      "film": "राजी",
+      "sangeetkar": "शंकर-एहसान-लॉय",
+      "parinam": "नामांकित"
+    },
+    {
+      "varsh": 2019,
+      "samaroh": "६४वें",
+      "film": "सोनू के टीटू की स्वीटी",
+      "sangeetkar": "अमाल मलिक, रोचक कोहली, यो यो हनी सिंह, गुरु रंधावा, जैक नाइट, सौरव वल्ल्भ तथा रजत नागपाल",
+      "parinam": "नामांकित"
+    }
+  ],
+  "meta": {
+    "title": "फ़िल्मफ़ेयर सर्वश्रेष्ठ संगीतकार पुरस्कार विजेता और नामांकित - Free Download",
+    "description": "फ़िल्मफ़ेयर पुरस्कारों में सर्वश्रेष्ठ संगीतकार (संगीत निर्देशक) श्रेणी के विजेता और नामांकित संगीतकार, फ़िल्म और वर्ष सहित (1954 से)। Contains 276 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "फ़िल्मफ़ेयर सर्वश्रेष्ठ संगीतकार पुरस्कार विजेता और नामांकित | ListBase",
+    "seo_description": "Download फ़िल्मफ़ेयर सर्वश्रेष्ठ संगीतकार पुरस्कार विजेता और नामांकित — 276 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 276 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_संगीतकार_पुरस्कार"
+    ]
+  }
+}

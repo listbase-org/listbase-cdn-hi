@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-05T02:15:59.306Z",
-  "total_datasets": 487,
-  "total_records": 2013893,
+  "generated": "2026-11-05T02:16:06.684Z",
+  "total_datasets": 488,
+  "total_records": 2014169,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -7245,6 +7245,32 @@
         "xlsx": {
           "name": "hi-filmfare-parshva-gayika-puraskar_HI.xlsx",
           "size": 17300
+        }
+      }
+    },
+    {
+      "id": "hi-filmfare-sarvashreshth-sangeetkar-puraskar",
+      "name": "फ़िल्मफ़ेयर सर्वश्रेष्ठ संगीतकार पुरस्कार विजेता और नामांकित",
+      "category": "music",
+      "record_count": 276,
+      "columns": [
+        "varsh",
+        "samaroh",
+        "film",
+        "sangeetkar",
+        "parinam"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_संगीतकार_पुरस्कार",
+      "updated": "2026-11",
+      "size": 63198,
+      "files": {
+        "csv": {
+          "name": "hi-filmfare-sarvashreshth-sangeetkar-puraskar_HI.csv",
+          "size": 33118
+        },
+        "xlsx": {
+          "name": "hi-filmfare-sarvashreshth-sangeetkar-puraskar_HI.xlsx",
+          "size": 16777
         }
       }
     },

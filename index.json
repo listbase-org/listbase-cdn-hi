@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-09T02:37:50.698Z",
-  "total_datasets": 490,
-  "total_records": 2014576,
+  "generated": "2026-11-09T02:37:57.522Z",
+  "total_datasets": 491,
+  "total_records": 2014591,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -4656,6 +4656,29 @@
         "xlsx": {
           "name": "hi-west-bengal-ifsc-shakhayen_HI.xlsx",
           "size": 552867
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-chicken-pakwan",
+      "name": "भारतीय चिकन पकवान",
+      "category": "food",
+      "record_count": 15,
+      "columns": [
+        "naam",
+        "vivaran"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/श्रेणी:भारतीय_चिकन_पकवान",
+      "updated": "2026-11",
+      "size": 6909,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-chicken-pakwan_HI.csv",
+          "size": 4436
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-chicken-pakwan_HI.xlsx",
+          "size": 8026
         }
       }
     },

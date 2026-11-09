@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-05T02:16:13.382Z",
-  "total_datasets": 489,
-  "total_records": 2014218,
+  "generated": "2026-11-09T02:37:50.698Z",
+  "total_datasets": 490,
+  "total_records": 2014576,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "finance",
@@ -1006,6 +1006,32 @@
         "xlsx": {
           "name": "hi-bagh-abhayaranya-suchi_HI.xlsx",
           "size": 11495
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-vanyajeev-abhayaranya",
+      "name": "भारत के वन्यजीव अभयारण्य",
+      "category": "environment",
+      "record_count": 358,
+      "columns": [
+        "kram",
+        "sthapana_varsh",
+        "naam",
+        "rajya",
+        "kshetraphal_varg_km"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_अभयारण्य",
+      "updated": "2026-11",
+      "size": 70749,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-vanyajeev-abhayaranya_HI.csv",
+          "size": 30156
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-vanyajeev-abhayaranya_HI.xlsx",
+          "size": 20352
         }
       }
     },

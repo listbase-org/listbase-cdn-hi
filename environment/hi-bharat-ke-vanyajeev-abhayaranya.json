@@ -1,0 +1,2557 @@
+{
+  "id": "hi-bharat-ke-vanyajeev-abhayaranya",
+  "name": "भारत के वन्यजीव अभयारण्य",
+  "title": "भारत के वन्यजीव अभयारण्य",
+  "description": "भारत के वन्यजीव अभयारण्यों की सूची, स्थापना वर्ष, राज्य और क्षेत्रफल (वर्ग कि.मी.) सहित।",
+  "category": "environment",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_अभयारण्य",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_अभयारण्य",
+  "updated": "2026-11",
+  "record_count": 358,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "number"
+    },
+    {
+      "key": "sthapana_varsh",
+      "label": "Sthapana Varsh",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "kshetraphal_varg_km",
+      "label": "Kshetraphal Varg Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kram": 1,
+      "sthapana_varsh": 1979,
+      "naam": "ग्रेट इंडीयन बसटरड",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 8496.44
+    },
+    {
+      "kram": 2,
+      "sthapana_varsh": 1986,
+      "naam": "कच्छ रेगिस्तान",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 7506.22
+    },
+    {
+      "kram": 3,
+      "sthapana_varsh": 1973,
+      "naam": "जंगली गधा",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 4953.7
+    },
+    {
+      "kram": 4,
+      "sthapana_varsh": "",
+      "naam": "नेलपट्टू",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 4404
+    },
+    {
+      "kram": 5,
+      "sthapana_varsh": 1991,
+      "naam": "दिबांग घाटी",
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetraphal_varg_km": 4149
+    },
+    {
+      "kram": 6,
+      "sthapana_varsh": 1987,
+      "naam": "चांगथांग",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 4000
+    },
+    {
+      "kram": 7,
+      "sthapana_varsh": 1978,
+      "naam": "नागार्जुन सागर श्रीशैलम",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 3568
+    },
+    {
+      "kram": 8,
+      "sthapana_varsh": "",
+      "naam": "काराकोरम",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 1800
+    },
+    {
+      "kram": 9,
+      "sthapana_varsh": 1978,
+      "naam": "कैमुर",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 1342.22
+    },
+    {
+      "kram": 10,
+      "sthapana_varsh": "",
+      "naam": "गुंडलब्रह्मेश्वरम",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 1194
+    },
+    {
+      "kram": 11,
+      "sthapana_varsh": 1965,
+      "naam": "गिर",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 1153.42
+    },
+    {
+      "kram": 12,
+      "sthapana_varsh": 1975,
+      "naam": "नौरादेही",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 1034.52
+    },
+    {
+      "kram": 13,
+      "sthapana_varsh": 1972,
+      "naam": "केदारनाथ",
+      "rajya": "उत्तराखंड",
+      "kshetraphal_varg_km": 975.24
+    },
+    {
+      "kram": 14,
+      "sthapana_varsh": 1965,
+      "naam": "कावल",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 893
+    },
+    {
+      "kram": 15,
+      "sthapana_varsh": 1952,
+      "naam": "पाखल",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 879.3
+    },
+    {
+      "kram": 16,
+      "sthapana_varsh": 1977,
+      "naam": "पखुइ",
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetraphal_varg_km": 861.95
+    },
+    {
+      "kram": 17,
+      "sthapana_varsh": 1979,
+      "naam": "सिमलीपाल",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 845.7
+    },
+    {
+      "kram": 18,
+      "sthapana_varsh": "",
+      "naam": "दंडेली",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 834.16
+    },
+    {
+      "kram": 19,
+      "sthapana_varsh": 1953,
+      "naam": "एतुर्नगरम",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 803
+    },
+    {
+      "kram": 20,
+      "sthapana_varsh": 1987,
+      "naam": "लच्छीपोरा",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 800
+    },
+    {
+      "kram": 21,
+      "sthapana_varsh": 1976,
+      "naam": "सतकोसिया गॉर्ज",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 795.52
+    },
+    {
+      "kram": 22,
+      "sthapana_varsh": 1989,
+      "naam": "कामलांग",
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetraphal_varg_km": 783
+    },
+    {
+      "kram": 23,
+      "sthapana_varsh": 1976,
+      "naam": "पालामउ",
+      "rajya": "झारखंड",
+      "kshetraphal_varg_km": 767
+    },
+    {
+      "kram": 24,
+      "sthapana_varsh": 1981,
+      "naam": "नारायण सरोवर (चिंकारा)",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 765.79
+    },
+    {
+      "kram": 25,
+      "sthapana_varsh": 1976,
+      "naam": "रातापानी",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 688.79
+    },
+    {
+      "kram": 26,
+      "sthapana_varsh": 1976,
+      "naam": "भीमबंध",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 681.9
+    },
+    {
+      "kram": 27,
+      "sthapana_varsh": 1983,
+      "naam": "केलादेवी",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 676
+    },
+    {
+      "kram": 28,
+      "sthapana_varsh": 1963,
+      "naam": "कोल्लेरु",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 673
+    },
+    {
+      "kram": 29,
+      "sthapana_varsh": 1977,
+      "naam": "किन्नरासानि",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 655.41
+    },
+    {
+      "kram": 30,
+      "sthapana_varsh": 1962,
+      "naam": "सेचु तुआन नाला",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 655.32
+    },
+    {
+      "kram": 31,
+      "sthapana_varsh": 1979,
+      "naam": "राष्ट्रीय चंबल",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 635
+    },
+    {
+      "kram": 32,
+      "sthapana_varsh": "",
+      "naam": "रोल्लापड़ु",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 614
+    },
+    {
+      "kram": 33,
+      "sthapana_varsh": 1978,
+      "naam": "तमोर पिंगला",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 608.52
+    },
+    {
+      "kram": 34,
+      "sthapana_varsh": 1982,
+      "naam": "स्कूलपणेश्वर",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 607.7
+    },
+    {
+      "kram": 35,
+      "sthapana_varsh": 1988,
+      "naam": "सूनाबेमा",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 600
+    },
+    {
+      "kram": 36,
+      "sthapana_varsh": 1986,
+      "naam": "अस्कोट",
+      "rajya": "उत्तराखंड",
+      "kshetraphal_varg_km": 599.93
+    },
+    {
+      "kram": "36A",
+      "sthapana_varsh": 1985,
+      "naam": "मेलघाट",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 597.23
+    },
+    {
+      "kram": 37,
+      "sthapana_varsh": 1978,
+      "naam": "पापीकोंडा",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 590.68
+    },
+    {
+      "kram": 38,
+      "sthapana_varsh": 1971,
+      "naam": "कुंभलगढ़",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 578.26
+    },
+    {
+      "kram": 39,
+      "sthapana_varsh": "",
+      "naam": "मुंडनतुरइ",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": 567.38
+    },
+    {
+      "kram": 40,
+      "sthapana_varsh": 1974,
+      "naam": "सीतानदी",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 553.36
+    },
+    {
+      "kram": 41,
+      "sthapana_varsh": 1975,
+      "naam": "अचानकमार",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 551.55
+    },
+    {
+      "kram": 42,
+      "sthapana_varsh": 1989,
+      "naam": "बलराम-अंबाजी",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 542.08
+    },
+    {
+      "kram": 43,
+      "sthapana_varsh": 1987,
+      "naam": "बिलिगिरि रंगस्वामी मंदिर",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 539.52
+    },
+    {
+      "kram": 44,
+      "sthapana_varsh": 1977,
+      "naam": "बोरीघाटी अभयारण्य",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 518.25
+    },
+    {
+      "kram": 45,
+      "sthapana_varsh": 1981,
+      "naam": "घाटीगाँव",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 512
+    },
+    {
+      "kram": 46,
+      "sthapana_varsh": 1983,
+      "naam": "फुलवाड़ी",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 511.41
+    },
+    {
+      "kram": 47,
+      "sthapana_varsh": 1987,
+      "naam": "कावेरी",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 510.51
+    },
+    {
+      "kram": 48,
+      "sthapana_varsh": 1986,
+      "naam": "अंधरी",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 509.27
+    },
+    {
+      "kram": 49,
+      "sthapana_varsh": "",
+      "naam": "श्रीवेंकटेश्वर",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 506.94
+    },
+    {
+      "kram": 50,
+      "sthapana_varsh": 1982,
+      "naam": "काइमूर",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 500.75
+    },
+    {
+      "kram": 51,
+      "sthapana_varsh": 1985,
+      "naam": "डम्पा",
+      "rajya": "मिजोरम",
+      "kshetraphal_varg_km": 500
+    },
+    {
+      "kram": 52,
+      "sthapana_varsh": 1976,
+      "naam": "पुलिकाट",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 500
+    },
+    {
+      "kram": 53,
+      "sthapana_varsh": 1983,
+      "naam": "टोडगढ़ रावली",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 495.27
+    },
+    {
+      "kram": 54,
+      "sthapana_varsh": 1974,
+      "naam": "भद्रा",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 492.46
+    },
+    {
+      "kram": 55,
+      "sthapana_varsh": "",
+      "naam": "श्रीविल्लिपुतुर",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": 485.2
+    },
+    {
+      "kram": 56,
+      "sthapana_varsh": 1954,
+      "naam": "गोविंद पशु विहार",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 481.04
+    },
+    {
+      "kram": 57,
+      "sthapana_varsh": 1978,
+      "naam": "बागडोगरा",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 478.9
+    },
+    {
+      "kram": 58,
+      "sthapana_varsh": 1950,
+      "naam": "पेरियार",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 472
+    },
+    {
+      "kram": 59,
+      "sthapana_varsh": "",
+      "naam": "श्रीलंका मल्लेश्वर",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 464.42
+    },
+    {
+      "kram": 60,
+      "sthapana_varsh": 1977,
+      "naam": "पचमढ़ी",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 461.85
+    },
+    {
+      "kram": 61,
+      "sthapana_varsh": 1978,
+      "naam": "वाल्मीकीनगर",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 461.6
+    },
+    {
+      "kram": 62,
+      "sthapana_varsh": "",
+      "naam": "पुलिकाट",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": 461.02
+    },
+    {
+      "kram": 63,
+      "sthapana_varsh": 1987,
+      "naam": "सुहागबर्वा",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 428.2
+    },
+    {
+      "kram": 64,
+      "sthapana_varsh": 1987,
+      "naam": "ओवरा-अरु",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 425
+    },
+    {
+      "kram": 65,
+      "sthapana_varsh": 1985,
+      "naam": "कोयना",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 423.55
+    },
+    {
+      "kram": 66,
+      "sthapana_varsh": 1979,
+      "naam": "सीता माता",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 422.94
+    },
+    {
+      "kram": 67,
+      "sthapana_varsh": 1962,
+      "naam": "टुंडाह",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 419.48
+    },
+    {
+      "kram": 68,
+      "sthapana_varsh": 1974,
+      "naam": "शरावती घाटी",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 413.23
+    },
+    {
+      "kram": 69,
+      "sthapana_varsh": 1976,
+      "naam": "कटेरनियाघाट",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 400.09
+    },
+    {
+      "kram": 70,
+      "sthapana_varsh": 1981,
+      "naam": "कोटगढ़",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 399.05
+    },
+    {
+      "kram": 71,
+      "sthapana_varsh": 1974,
+      "naam": "शेट्टिहल्ली",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 395.6
+    },
+    {
+      "kram": 72,
+      "sthapana_varsh": 1928,
+      "naam": "मानस",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": 391
+    },
+    {
+      "kram": 73,
+      "sthapana_varsh": 1988,
+      "naam": "गुमटी",
+      "rajya": "त्रिपुरा",
+      "kshetraphal_varg_km": 389.54
+    },
+    {
+      "kram": 74,
+      "sthapana_varsh": 1958,
+      "naam": "राधागिरि",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 371.88
+    },
+    {
+      "kram": 75,
+      "sthapana_varsh": 1974,
+      "naam": "गाँधीसागर",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 368.62
+    },
+    {
+      "kram": 76,
+      "sthapana_varsh": 1975,
+      "naam": "संजय (डुबरी)",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 364.69
+    },
+    {
+      "kram": 77,
+      "sthapana_varsh": 1976,
+      "naam": "Singhalila",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": 362.4
+    },
+    {
+      "kram": 78,
+      "sthapana_varsh": 1986,
+      "naam": "कलसुबाई हरीशचंद्र",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 361.71
+    },
+    {
+      "kram": 79,
+      "sthapana_varsh": "",
+      "naam": "कौंडिन्य",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 357
+    },
+    {
+      "kram": 80,
+      "sthapana_varsh": 1982,
+      "naam": "रुपी भाभा",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 354.14
+    },
+    {
+      "kram": 81,
+      "sthapana_varsh": 1983,
+      "naam": "सरदारपुर फ्लोरिकन",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 348.12
+    },
+    {
+      "kram": 82,
+      "sthapana_varsh": 1985,
+      "naam": "देबरीगढ़",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 346.91
+    },
+    {
+      "kram": 83,
+      "sthapana_varsh": "",
+      "naam": "कुनो-पालपुर",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 345
+    },
+    {
+      "kram": 84,
+      "sthapana_varsh": 1981,
+      "naam": "पालपुर – कुनो वन्यजीवन अभयारण्य",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 344.68
+    },
+    {
+      "kram": 85,
+      "sthapana_varsh": 1973,
+      "naam": "वायनाड",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 344.44
+    },
+    {
+      "kram": 86,
+      "sthapana_varsh": 1986,
+      "naam": "जायकवाडी",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 341.05
+    },
+    {
+      "kram": 87,
+      "sthapana_varsh": 1978,
+      "naam": "समरसोत",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 340.35
+    },
+    {
+      "kram": 88,
+      "sthapana_varsh": 1962,
+      "naam": "कुग्टी",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 330
+    },
+    {
+      "kram": 89,
+      "sthapana_varsh": 1986,
+      "naam": "पेनगंगा",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 324.62
+    },
+    {
+      "kram": 90,
+      "sthapana_varsh": 1983,
+      "naam": "पोंग बांध अभयारण्य",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 322.7
+    },
+    {
+      "kram": 91,
+      "sthapana_varsh": "",
+      "naam": "मुदुमलाइ",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": 321.55
+    },
+    {
+      "kram": 92,
+      "sthapana_varsh": 1978,
+      "naam": "राष्ट्रीय चंबल",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 320
+    },
+    {
+      "kram": 93,
+      "sthapana_varsh": 1985,
+      "naam": "चंडोली",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 308.97
+    },
+    {
+      "kram": 94,
+      "sthapana_varsh": 1982,
+      "naam": "रामगढ़ बूंदी",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 307
+    },
+    {
+      "kram": 95,
+      "sthapana_varsh": 1988,
+      "naam": "बद्रमा",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 304.03
+    },
+    {
+      "kram": 96,
+      "sthapana_varsh": 1987,
+      "naam": "सोननंदी",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 301.18
+    },
+    {
+      "kram": 97,
+      "sthapana_varsh": 1982,
+      "naam": "जमवा रामगढ़",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 300
+    },
+    {
+      "kram": 98,
+      "sthapana_varsh": 1980,
+      "naam": "मैरीन (कच्छ की खाड़ी)",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 293.03
+    },
+    {
+      "kram": 99,
+      "sthapana_varsh": 1960,
+      "naam": "माउंट आबू",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 288.84
+    },
+    {
+      "kram": 100,
+      "sthapana_varsh": 1976,
+      "naam": "सिंघोरी (सिंधरी)",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 287.91
+    },
+    {
+      "kram": 101,
+      "sthapana_varsh": 1973,
+      "naam": "परंबीकुलम",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 285
+    },
+    {
+      "kram": 102,
+      "sthapana_varsh": 1980,
+      "naam": "मेहाओ",
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetraphal_varg_km": 281.5
+    },
+    {
+      "kram": 103,
+      "sthapana_varsh": 1983,
+      "naam": "राष्ट्रीय चम्बल",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 280
+    },
+    {
+      "kram": 104,
+      "sthapana_varsh": 1972,
+      "naam": "गोमरदाह",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 277.82
+    },
+    {
+      "kram": 105,
+      "sthapana_varsh": 1984,
+      "naam": "कुल्दीहा",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 272.75
+    },
+    {
+      "kram": 106,
+      "sthapana_varsh": 1955,
+      "naam": "दाराह",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 265.83
+    },
+    {
+      "kram": 107,
+      "sthapana_varsh": 1983,
+      "naam": "पामेद जंगली भैंसा",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 262
+    },
+    {
+      "kram": 108,
+      "sthapana_varsh": 1986,
+      "naam": "गौतल औतरामघाट",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 260.61
+    },
+    {
+      "kram": 109,
+      "sthapana_varsh": 1976,
+      "naam": "गौतम बुद्ध",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 259.48
+    },
+    {
+      "kram": 110,
+      "sthapana_varsh": 1986,
+      "naam": "बक्सा",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": 251.89
+    },
+    {
+      "kram": 111,
+      "sthapana_varsh": 1988,
+      "naam": "कांजी",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 250
+    },
+    {
+      "kram": 112,
+      "sthapana_varsh": 1983,
+      "naam": "उदंती जंगली भैंसा",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 247.59
+    },
+    {
+      "kram": 113,
+      "sthapana_varsh": 1974,
+      "naam": "मुकंबिका",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 247
+    },
+    {
+      "kram": 114,
+      "sthapana_varsh": 1983,
+      "naam": "पनपथ",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 245.84
+    },
+    {
+      "kram": 115,
+      "sthapana_varsh": 1976,
+      "naam": "बर्नवपरा",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 244.66
+    },
+    {
+      "kram": 116,
+      "sthapana_varsh": 1962,
+      "naam": "नर्गु",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 243.13
+    },
+    {
+      "kram": 117,
+      "sthapana_varsh": 1962,
+      "naam": "बांदली",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 239.47
+    },
+    {
+      "kram": 118,
+      "sthapana_varsh": 1978,
+      "naam": "कोरिंग",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 235.79
+    },
+    {
+      "kram": 119,
+      "sthapana_varsh": 1977,
+      "naam": "रानीपुर",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 230.31
+    },
+    {
+      "kram": 120,
+      "sthapana_varsh": 1983,
+      "naam": "भेंस्रोदगढ़",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 229.14
+    },
+    {
+      "kram": 121,
+      "sthapana_varsh": 1972,
+      "naam": "किशनपुर",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 227.12
+    },
+    {
+      "kram": 122,
+      "sthapana_varsh": "",
+      "naam": "कलक्कडु",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": 223.58
+    },
+    {
+      "kram": 123,
+      "sthapana_varsh": 1989,
+      "naam": "ईगलनेस्ट",
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetraphal_varg_km": 217
+    },
+    {
+      "kram": 124,
+      "sthapana_varsh": 1990,
+      "naam": "जलदपारा",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": 216.51
+    },
+    {
+      "kram": 125,
+      "sthapana_varsh": 1987,
+      "naam": "स्पाइक द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 211.7
+    },
+    {
+      "kram": 126,
+      "sthapana_varsh": 1978,
+      "naam": "लवलांग",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 211.03
+    },
+    {
+      "kram": 127,
+      "sthapana_varsh": 1985,
+      "naam": "नक्ती बांध",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 206.4
+    },
+    {
+      "kram": 128,
+      "sthapana_varsh": 1986,
+      "naam": "काबर",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 204
+    },
+    {
+      "kram": 129,
+      "sthapana_varsh": 1981,
+      "naam": "करेरा",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 202.21
+    },
+    {
+      "kram": 130,
+      "sthapana_varsh": 1975,
+      "naam": "इंटकी",
+      "rajya": "नागालैंड",
+      "kshetraphal_varg_km": 202.02
+    },
+    {
+      "kram": 131,
+      "sthapana_varsh": "",
+      "naam": "कृष्णा",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 194.81
+    },
+    {
+      "kram": 132,
+      "sthapana_varsh": 1976,
+      "naam": "डाल्मा",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 193.22
+    },
+    {
+      "kram": 133,
+      "sthapana_varsh": 1985,
+      "naam": "बरेठा",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 192.76
+    },
+    {
+      "kram": 134,
+      "sthapana_varsh": 1979,
+      "naam": "बर्दा",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 192.31
+    },
+    {
+      "kram": 135,
+      "sthapana_varsh": 1978,
+      "naam": "हदगढ़",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 191.06
+    },
+    {
+      "kram": 136,
+      "sthapana_varsh": 1978,
+      "naam": "डी’एरिंग स्मारक",
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetraphal_varg_km": 190
+    },
+    {
+      "kram": 137,
+      "sthapana_varsh": 1975,
+      "naam": "अबोहर",
+      "rajya": "पंजाब",
+      "kshetraphal_varg_km": 188.24
+    },
+    {
+      "kram": 138,
+      "sthapana_varsh": 1976,
+      "naam": "हजारीबाग",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 186.25
+    },
+    {
+      "kram": 139,
+      "sthapana_varsh": 1987,
+      "naam": "गुलमर्ग",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 186
+    },
+    {
+      "kram": 140,
+      "sthapana_varsh": 1985,
+      "naam": "लाखड़ी घाटी",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 185.87
+    },
+    {
+      "kram": 141,
+      "sthapana_varsh": 1989,
+      "naam": "यगोउपोपकी लोक्चाओ",
+      "rajya": "मणिपुर",
+      "kshetraphal_varg_km": 184.8
+    },
+    {
+      "kram": 142,
+      "sthapana_varsh": 1974,
+      "naam": "ब्रह्मगिरि",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 181.29
+    },
+    {
+      "kram": 143,
+      "sthapana_varsh": 1978,
+      "naam": "जस्सोर",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 180.66
+    },
+    {
+      "kram": 144,
+      "sthapana_varsh": 1985,
+      "naam": "कोडर्मा",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 177.95
+    },
+    {
+      "kram": 145,
+      "sthapana_varsh": 1969,
+      "naam": "यवाल",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 177.52
+    },
+    {
+      "kram": 146,
+      "sthapana_varsh": 1982,
+      "naam": "चंडक डम्पारा",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 175.79
+    },
+    {
+      "kram": 147,
+      "sthapana_varsh": 1934,
+      "naam": "सोनै रूपै",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": 175
+    },
+    {
+      "kram": 148,
+      "sthapana_varsh": 1987,
+      "naam": "तृष्णा",
+      "rajya": "त्रिपुरा",
+      "kshetraphal_varg_km": 170.56
+    },
+    {
+      "kram": 149,
+      "sthapana_varsh": 1981,
+      "naam": "बैसिपल्ली",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 168.35
+    },
+    {
+      "kram": 150,
+      "sthapana_varsh": 1990,
+      "naam": "पूर्णा",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 160.84
+    },
+    {
+      "kram": 151,
+      "sthapana_varsh": 1970,
+      "naam": "नागजिरा",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 152.81
+    },
+    {
+      "kram": 152,
+      "sthapana_varsh": 1991,
+      "naam": "न्गेंगपुइ",
+      "rajya": "मिजोरम",
+      "kshetraphal_varg_km": 150
+    },
+    {
+      "kram": 153,
+      "sthapana_varsh": 1967,
+      "naam": "भगवान महावीर",
+      "rajya": "गोआ",
+      "kshetraphal_varg_km": 148.52
+    },
+    {
+      "kram": 154,
+      "sthapana_varsh": 1992,
+      "naam": "कर्लापट",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 147.66
+    },
+    {
+      "kram": 155,
+      "sthapana_varsh": 1978,
+      "naam": "ईटानगर",
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetraphal_varg_km": 140.3
+    },
+    {
+      "kram": 156,
+      "sthapana_varsh": 1983,
+      "naam": "भैरमगढ़",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 138.95
+    },
+    {
+      "kram": 157,
+      "sthapana_varsh": 1985,
+      "naam": "नमेरी",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": 137.07
+    },
+    {
+      "kram": 158,
+      "sthapana_varsh": 1980,
+      "naam": "प्राणहित",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 136.02
+    },
+    {
+      "kram": 159,
+      "sthapana_varsh": 1986,
+      "naam": "चप्राल",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 134.78
+    },
+    {
+      "kram": 160,
+      "sthapana_varsh": 1985,
+      "naam": "इंटर्व्यू द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 133
+    },
+    {
+      "kram": 161,
+      "sthapana_varsh": 1985,
+      "naam": "भीमाशंकर",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 130.78
+    },
+    {
+      "kram": 162,
+      "sthapana_varsh": 1990,
+      "naam": "जम्बुघोड़ा",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 130.38
+    },
+    {
+      "kram": 163,
+      "sthapana_varsh": 1952,
+      "naam": "पोचरम",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 130
+    },
+    {
+      "kram": 164,
+      "sthapana_varsh": 1958,
+      "naam": "नेय्यर",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 128
+    },
+    {
+      "kram": 165,
+      "sthapana_varsh": 1976,
+      "naam": "मूर्ति वन्यजीवन",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": 127.22
+    },
+    {
+      "kram": 166,
+      "sthapana_varsh": 1958,
+      "naam": "पीचि वझानि",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 125
+    },
+    {
+      "kram": 167,
+      "sthapana_varsh": "",
+      "naam": "खेवनी",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 122.7
+    },
+    {
+      "kram": 168,
+      "sthapana_varsh": 1969,
+      "naam": "नल सरोवर",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 120.82
+    },
+    {
+      "kram": 169,
+      "sthapana_varsh": 1962,
+      "naam": "गोबिंद सागर एवं नैनादेवी",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 120.67
+    },
+    {
+      "kram": 170,
+      "sthapana_varsh": 1974,
+      "naam": "राणेबेन्नूर",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 119
+    },
+    {
+      "kram": 171,
+      "sthapana_varsh": 1982,
+      "naam": "खालसुनी",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 116
+    },
+    {
+      "kram": 172,
+      "sthapana_varsh": 1987,
+      "naam": "चौटाला",
+      "rajya": "हरयाणा",
+      "kshetraphal_varg_km": 113.96
+    },
+    {
+      "kram": 173,
+      "sthapana_varsh": 1983,
+      "naam": "फेनसैटेलाइट",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 110.24
+    },
+    {
+      "kram": 174,
+      "sthapana_varsh": 1976,
+      "naam": "छैल",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 110.04
+    },
+    {
+      "kram": 175,
+      "sthapana_varsh": 1987,
+      "naam": "हीरपोरा",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 110
+    },
+    {
+      "kram": 176,
+      "sthapana_varsh": "",
+      "naam": "सुंधा माता",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 107
+    },
+    {
+      "kram": 177,
+      "sthapana_varsh": 1949,
+      "naam": "गांगुल स्याहबेही",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 105.46
+    },
+    {
+      "kram": 178,
+      "sthapana_varsh": 1987,
+      "naam": "तालकावेरी",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 105
+    },
+    {
+      "kram": 179,
+      "sthapana_varsh": 1984,
+      "naam": "चिमोनी",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 105
+    },
+    {
+      "kram": 180,
+      "sthapana_varsh": 1968,
+      "naam": "भगवान महावीर",
+      "rajya": "गोआ",
+      "kshetraphal_varg_km": 105
+    },
+    {
+      "kram": 181,
+      "sthapana_varsh": 1975,
+      "naam": "बदनखोह",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 104.35
+    },
+    {
+      "kram": 182,
+      "sthapana_varsh": 1984,
+      "naam": "सवाई मानसिंह",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 103.25
+    },
+    {
+      "kram": 183,
+      "sthapana_varsh": 1987,
+      "naam": "पुष्पगिरि",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 102.59
+    },
+    {
+      "kram": 184,
+      "sthapana_varsh": 1984,
+      "naam": "शेंदुरुनि",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 100.32
+    },
+    {
+      "kram": 185,
+      "sthapana_varsh": 1986,
+      "naam": "नंदपुर मदमेश्वर",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 100.12
+    },
+    {
+      "kram": 186,
+      "sthapana_varsh": 1989,
+      "naam": "सेस्सा ऑर्किड",
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetraphal_varg_km": 100
+    },
+    {
+      "kram": 187,
+      "sthapana_varsh": 1980,
+      "naam": "जवाहर सागर",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 100
+    },
+    {
+      "kram": 188,
+      "sthapana_varsh": 1983,
+      "naam": "शेरगढ़",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 98.71
+    },
+    {
+      "kram": 189,
+      "sthapana_varsh": 1962,
+      "naam": "दर्लाघात",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 98.71
+    },
+    {
+      "kram": 190,
+      "sthapana_varsh": 1984,
+      "naam": "चिन्नार",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 90.44
+    },
+    {
+      "kram": 191,
+      "sthapana_varsh": 1974,
+      "naam": "सोमेश्वर",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 88.4
+    },
+    {
+      "kram": 192,
+      "sthapana_varsh": 1986,
+      "naam": "अनेर बांध",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 82.94
+    },
+    {
+      "kram": 193,
+      "sthapana_varsh": "",
+      "naam": "मुक्कुर्थी",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": 78.46
+    },
+    {
+      "kram": 194,
+      "sthapana_varsh": 1957,
+      "naam": "चंद्रप्रभा",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 78
+    },
+    {
+      "kram": 195,
+      "sthapana_varsh": 1976,
+      "naam": "इडुक्की",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 77
+    },
+    {
+      "kram": 196,
+      "sthapana_varsh": 1988,
+      "naam": "कतेपूर्ना",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 73.69
+    },
+    {
+      "kram": 197,
+      "sthapana_varsh": 1985,
+      "naam": "ओरांग",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": 72.6
+    },
+    {
+      "kram": 198,
+      "sthapana_varsh": 1984,
+      "naam": "बालुखंड कोणार्क",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 71.72
+    },
+    {
+      "kram": 199,
+      "sthapana_varsh": 1962,
+      "naam": "शिखरी देवी",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 71.19
+    },
+    {
+      "kram": 200,
+      "sthapana_varsh": 1979,
+      "naam": "लाओखोवा",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": 70.14
+    },
+    {
+      "kram": 201,
+      "sthapana_varsh": 1975,
+      "naam": "भितरकनिका",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 70
+    },
+    {
+      "kram": 202,
+      "sthapana_varsh": 1986,
+      "naam": "फंसाद",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 69.79
+    },
+    {
+      "kram": 203,
+      "sthapana_varsh": 1976,
+      "naam": "तीर्थन",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 68.25
+    },
+    {
+      "kram": 204,
+      "sthapana_varsh": 1976,
+      "naam": "महुआदौर",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 63.25
+    },
+    {
+      "kram": 205,
+      "sthapana_varsh": 1954,
+      "naam": "कनावार",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 61.57
+    },
+    {
+      "kram": 206,
+      "sthapana_varsh": 1970,
+      "naam": "बोर",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 61.1
+    },
+    {
+      "kram": 207,
+      "sthapana_varsh": 1955,
+      "naam": "वन विहार",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 59.93
+    },
+    {
+      "kram": 208,
+      "sthapana_varsh": 1974,
+      "naam": "नरसिंहगढ़",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 57.19
+    },
+    {
+      "kram": 209,
+      "sthapana_varsh": 1985,
+      "naam": "चुरधर",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 56.59
+    },
+    {
+      "kram": 210,
+      "sthapana_varsh": 1982,
+      "naam": "रतनमहल",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 55.65
+    },
+    {
+      "kram": 211,
+      "sthapana_varsh": 1991,
+      "naam": "काने",
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetraphal_varg_km": 55
+    },
+    {
+      "kram": 212,
+      "sthapana_varsh": 1984,
+      "naam": "अरलम",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 55
+    },
+    {
+      "kram": 213,
+      "sthapana_varsh": 1983,
+      "naam": "पेप्परा",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 53
+    },
+    {
+      "kram": 214,
+      "sthapana_varsh": 1956,
+      "naam": "जयसमंद",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 52
+    },
+    {
+      "kram": 215,
+      "sthapana_varsh": 1984,
+      "naam": "बारसे र्होडोडेंड्रॉन अभयारण्य",
+      "rajya": "सिक्किम",
+      "kshetraphal_varg_km": 51.76
+    },
+    {
+      "kram": 216,
+      "sthapana_varsh": 1984,
+      "naam": "फांबोंग ल्हो",
+      "rajya": "सिक्किम",
+      "kshetraphal_varg_km": 51.76
+    },
+    {
+      "kram": 217,
+      "sthapana_varsh": 1980,
+      "naam": "नाहरगढ़",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": 50
+    },
+    {
+      "kram": 218,
+      "sthapana_varsh": 1974,
+      "naam": "मेलकोत मंदिर",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 49.82
+    },
+    {
+      "kram": 219,
+      "sthapana_varsh": 1984,
+      "naam": "पारसनाथ",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 49.23
+    },
+    {
+      "kram": 220,
+      "sthapana_varsh": "",
+      "naam": "पाभा",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": 49
+    },
+    {
+      "kram": 221,
+      "sthapana_varsh": 1988,
+      "naam": "बिनसर",
+      "rajya": "उत्तराखंड",
+      "kshetraphal_varg_km": 45.59
+    },
+    {
+      "kram": 222,
+      "sthapana_varsh": 1981,
+      "naam": "केन घड़ियाल",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 45
+    },
+    {
+      "kram": 223,
+      "sthapana_varsh": 1982,
+      "naam": "हरिके सरोवर",
+      "rajya": "पंजाब",
+      "kshetraphal_varg_km": 43
+    },
+    {
+      "kram": 224,
+      "sthapana_varsh": 1981,
+      "naam": "सोन घड़ियाल",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 41.8
+    },
+    {
+      "kram": 225,
+      "sthapana_varsh": 1991,
+      "naam": "खौंगलंग",
+      "rajya": "मिजोरम",
+      "kshetraphal_varg_km": 41
+    },
+    {
+      "kram": 226,
+      "sthapana_varsh": 1989,
+      "naam": "डिपोर बील",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": 40
+    },
+    {
+      "kram": 227,
+      "sthapana_varsh": 1989,
+      "naam": "पनिया",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 39.63
+    },
+    {
+      "kram": 228,
+      "sthapana_varsh": 1981,
+      "naam": "सुरिनसर-मनसर",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 39.58
+    },
+    {
+      "kram": 229,
+      "sthapana_varsh": 1976,
+      "naam": "सेनचल",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": 38.88
+    },
+    {
+      "kram": 230,
+      "sthapana_varsh": 1987,
+      "naam": "पोबित्र वन्य जीवन अभयारण्य",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": 38.83
+    },
+    {
+      "kram": 231,
+      "sthapana_varsh": 1962,
+      "naam": "रक्षम चितकुल",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 38.27
+    },
+    {
+      "kram": 232,
+      "sthapana_varsh": 1976,
+      "naam": "लोठियान द्वीप",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": 38
+    },
+    {
+      "kram": 233,
+      "sthapana_varsh": 1962,
+      "naam": "नैना देवी",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 37.19
+    },
+    {
+      "kram": 234,
+      "sthapana_varsh": 1978,
+      "naam": "शिवराम",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 36.29
+    },
+    {
+      "kram": 235,
+      "sthapana_varsh": 1962,
+      "naam": "तालरा",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 36.16
+    },
+    {
+      "kram": 236,
+      "sthapana_varsh": 1978,
+      "naam": "राजगीर",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": 35.84
+    },
+    {
+      "kram": 237,
+      "sthapana_varsh": 1987,
+      "naam": "मैनाम",
+      "rajya": "सिक्किम",
+      "kshetraphal_varg_km": 35.34
+    },
+    {
+      "kram": 238,
+      "sthapana_varsh": 1981,
+      "naam": "नंदिनी",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 33.72
+    },
+    {
+      "kram": 239,
+      "sthapana_varsh": 1984,
+      "naam": "शिंगबा र्होडोडेंड्रॉन",
+      "rajya": "सिक्किम",
+      "kshetraphal_varg_km": 32.5
+    },
+    {
+      "kram": 240,
+      "sthapana_varsh": 1987,
+      "naam": "ओवेरा",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 32.37
+    },
+    {
+      "kram": 241,
+      "sthapana_varsh": 1962,
+      "naam": "माजाथाल",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 31.64
+    },
+    {
+      "kram": 242,
+      "sthapana_varsh": 1954,
+      "naam": "मनाली अभयारण्य",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 31.27
+    },
+    {
+      "kram": 243,
+      "sthapana_varsh": 1949,
+      "naam": "कालाटॉप एवं खजिहार",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 30.69
+    },
+    {
+      "kram": 244,
+      "sthapana_varsh": 1970,
+      "naam": "तांसा",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 30.41
+    },
+    {
+      "kram": 245,
+      "sthapana_varsh": 1974,
+      "naam": "नुगु",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 30.32
+    },
+    {
+      "kram": 246,
+      "sthapana_varsh": 1974,
+      "naam": "घटप्रभा",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 29.78
+    },
+    {
+      "kram": 247,
+      "sthapana_varsh": 1962,
+      "naam": "लिप्पा असरांग",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 29.53
+    },
+    {
+      "kram": 248,
+      "sthapana_varsh": 1987,
+      "naam": "लैंडफॉल द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 29.48
+    },
+    {
+      "kram": 249,
+      "sthapana_varsh": 1987,
+      "naam": "मालवन मैरीन",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 29.12
+    },
+    {
+      "kram": 250,
+      "sthapana_varsh": 1981,
+      "naam": "नोंगखायलम",
+      "rajya": "मेघालय",
+      "kshetraphal_varg_km": 29
+    },
+    {
+      "kram": 251,
+      "sthapana_varsh": 1962,
+      "naam": "दरांगघाटी",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 27.01
+    },
+    {
+      "kram": 252,
+      "sthapana_varsh": 1980,
+      "naam": "बरनाडी",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": 26.22
+    },
+    {
+      "kram": 253,
+      "sthapana_varsh": 1987,
+      "naam": "लिंबर",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 26
+    },
+    {
+      "kram": 254,
+      "sthapana_varsh": "",
+      "naam": "सुखना",
+      "rajya": "चंडीगढ़",
+      "kshetraphal_varg_km": 25.42
+    },
+    {
+      "kram": 255,
+      "sthapana_varsh": 1983,
+      "naam": "थट्टेकड बर्ड",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": 25
+    },
+    {
+      "kram": 256,
+      "sthapana_varsh": 1983,
+      "naam": "मगरमच्छ (लोहाबर्रैक)",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 22.21
+    },
+    {
+      "kram": 257,
+      "sthapana_varsh": 1986,
+      "naam": "हस्तिनापुर",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": 20.73
+    },
+    {
+      "kram": 258,
+      "sthapana_varsh": "",
+      "naam": "टोंगरी",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 20
+    },
+    {
+      "kram": 259,
+      "sthapana_varsh": 1978,
+      "naam": "मंजीरा",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": 20
+    },
+    {
+      "kram": 260,
+      "sthapana_varsh": 1987,
+      "naam": "सेपाहीजल",
+      "rajya": "त्रिपुरा",
+      "kshetraphal_varg_km": 18.53
+    },
+    {
+      "kram": 261,
+      "sthapana_varsh": 1954,
+      "naam": "खोखन",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 17.6
+    },
+    {
+      "kram": 262,
+      "sthapana_varsh": "",
+      "naam": "पॉइंट कैलिमेयर",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": 17.26
+    },
+    {
+      "kram": 263,
+      "sthapana_varsh": 1958,
+      "naam": "सिंबलबर",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 17.2
+    },
+    {
+      "kram": 264,
+      "sthapana_varsh": 1987,
+      "naam": "छिलका झील (नलबान)",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": 15.53
+    },
+    {
+      "kram": 265,
+      "sthapana_varsh": 1988,
+      "naam": "रामपुरा",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": 15.01
+    },
+    {
+      "kram": 266,
+      "sthapana_varsh": 1985,
+      "naam": "अरबिथिट्टु",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 13.5
+    },
+    {
+      "kram": 267,
+      "sthapana_varsh": "",
+      "naam": "इंदिरा प्रियदर्शिनी",
+      "rajya": "दिल्ली",
+      "kshetraphal_varg_km": 13.2
+    },
+    {
+      "kram": 268,
+      "sthapana_varsh": 1983,
+      "naam": "सैलान फ्लोरिकन",
+      "rajya": "मध्य प्रदेश",
+      "kshetraphal_varg_km": 12.96
+    },
+    {
+      "kram": 269,
+      "sthapana_varsh": 1981,
+      "naam": "रामनगर",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 12.9
+    },
+    {
+      "kram": 270,
+      "sthapana_varsh": 1954,
+      "naam": "कायस",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": 12.2
+    },
+    {
+      "kram": 271,
+      "sthapana_varsh": 1975,
+      "naam": "बीर शिकारगढ़",
+      "rajya": "हरियाणा",
+      "kshetraphal_varg_km": 10.93
+    },
+    {
+      "kram": 272,
+      "sthapana_varsh": 1985,
+      "naam": "सागरेश्वर",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": 10.87
+    },
+    {
+      "kram": 273,
+      "sthapana_varsh": 1987,
+      "naam": "डिफेंस द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 10.49
+    },
+    {
+      "kram": 274,
+      "sthapana_varsh": "",
+      "naam": "होकरसर",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 10
+    },
+    {
+      "kram": 275,
+      "sthapana_varsh": 1987,
+      "naam": "सिंक्यू द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 9.51
+    },
+    {
+      "kram": 276,
+      "sthapana_varsh": 1987,
+      "naam": "फ्लैट द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 9.36
+    },
+    {
+      "kram": 277,
+      "sthapana_varsh": 1987,
+      "naam": "बुचान द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 9.33
+    },
+    {
+      "kram": 278,
+      "sthapana_varsh": 1977,
+      "naam": "बैरन द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 8.1
+    },
+    {
+      "kram": 279,
+      "sthapana_varsh": 1987,
+      "naam": "कायड द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 8
+    },
+    {
+      "kram": 280,
+      "sthapana_varsh": 1972,
+      "naam": "बोंडला वन्य जीवन",
+      "rajya": "गोआ",
+      "kshetraphal_varg_km": 8
+    },
+    {
+      "kram": 281,
+      "sthapana_varsh": 1987,
+      "naam": "शीयर्मे द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 7.85
+    },
+    {
+      "kram": 282,
+      "sthapana_varsh": 1987,
+      "naam": "पगेट द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 7.36
+    },
+    {
+      "kram": 283,
+      "sthapana_varsh": 1985,
+      "naam": "तिलनचांग द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 6.83
+    },
+    {
+      "kram": 284,
+      "sthapana_varsh": 1977,
+      "naam": "नारकोंडम द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 6.81
+    },
+    {
+      "kram": 285,
+      "sthapana_varsh": 1987,
+      "naam": "वेस्ट द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 6.4
+    },
+    {
+      "kram": 286,
+      "sthapana_varsh": 1987,
+      "naam": "ईस्ट द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 6.11
+    },
+    {
+      "kram": 287,
+      "sthapana_varsh": 1976,
+      "naam": "हैलिडे द्वीप",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": 5.95
+    },
+    {
+      "kram": 288,
+      "sthapana_varsh": 1987,
+      "naam": "रांगेर द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 4.26
+    },
+    {
+      "kram": 289,
+      "sthapana_varsh": 1987,
+      "naam": "स्वैंप द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 4.09
+    },
+    {
+      "kram": 290,
+      "sthapana_varsh": 1987,
+      "naam": "ईस्ट (इंग्लिस) द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 3.55
+    },
+    {
+      "kram": 291,
+      "sthapana_varsh": 1977,
+      "naam": "नॉर्थ रीफ द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 3.48
+    },
+    {
+      "kram": 292,
+      "sthapana_varsh": 1987,
+      "naam": "बैनेट द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 3.46
+    },
+    {
+      "kram": 293,
+      "sthapana_varsh": 1987,
+      "naam": "तालबाइचा द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 3.21
+    },
+    {
+      "kram": 294,
+      "sthapana_varsh": 1987,
+      "naam": "पॉइंट द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 3.07
+    },
+    {
+      "kram": 295,
+      "sthapana_varsh": 1987,
+      "naam": "बालटाल",
+      "rajya": "जम्मू एवं कश्मीर",
+      "kshetraphal_varg_km": 3
+    },
+    {
+      "kram": 296,
+      "sthapana_varsh": 1987,
+      "naam": "बाँडोविले द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 2.55
+    },
+    {
+      "kram": 297,
+      "sthapana_varsh": 1987,
+      "naam": "टेबल (डेलगारनो) द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 2.29
+    },
+    {
+      "kram": 298,
+      "sthapana_varsh": 1985,
+      "naam": "बैटिमाल्वे द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 2.23
+    },
+    {
+      "kram": 299,
+      "sthapana_varsh": 1987,
+      "naam": "जेम्स द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 2.1
+    },
+    {
+      "kram": 300,
+      "sthapana_varsh": 1979,
+      "naam": "डॉ सलीम अली पक्षी अभयारण्य",
+      "rajya": "गोआ",
+      "kshetraphal_varg_km": 1.8
+    },
+    {
+      "kram": 301,
+      "sthapana_varsh": 1987,
+      "naam": "रीफ द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.74
+    },
+    {
+      "kram": 302,
+      "sthapana_varsh": 1987,
+      "naam": "टेबल (एक्सेलशियर) द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.69
+    },
+    {
+      "kram": 303,
+      "sthapana_varsh": 1977,
+      "naam": "साउथ सेंटिनल द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.61
+    },
+    {
+      "kram": 304,
+      "sthapana_varsh": 1987,
+      "naam": "सैंडी द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.58
+    },
+    {
+      "kram": 305,
+      "sthapana_varsh": 1987,
+      "naam": "रोपर द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.46
+    },
+    {
+      "kram": 306,
+      "sthapana_varsh": 1987,
+      "naam": "पिटमैन द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.37
+    },
+    {
+      "kram": 307,
+      "sthapana_varsh": 1987,
+      "naam": "साउथ ब्रदर द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.24
+    },
+    {
+      "kram": 308,
+      "sthapana_varsh": 1987,
+      "naam": "साउथ रीफ द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.17
+    },
+    {
+      "kram": 309,
+      "sthapana_varsh": 1987,
+      "naam": "ब्लफ द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.14
+    },
+    {
+      "kram": 310,
+      "sthapana_varsh": 1987,
+      "naam": "सर ह्यूज रोज़ द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.06
+    },
+    {
+      "kram": 311,
+      "sthapana_varsh": 1987,
+      "naam": "टेम्पल द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.04
+    },
+    {
+      "kram": 312,
+      "sthapana_varsh": 1987,
+      "naam": "रॉस द्वीप",
+      "rajya": "अंदमान निकोबार द्वीपसमूह",
+      "kshetraphal_varg_km": 1.01
+    },
+    {
+      "kram": 313,
+      "sthapana_varsh": "",
+      "naam": "रंगनथिट्टू",
+      "rajya": "कर्नाटक",
+      "kshetraphal_varg_km": 0.67
+    },
+    {
+      "kram": 314,
+      "sthapana_varsh": "",
+      "naam": "बीर मोतीबाग Motibagh",
+      "rajya": "पंजाब",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 315,
+      "sthapana_varsh": "",
+      "naam": "भागमार",
+      "rajya": "मेघालय",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 316,
+      "sthapana_varsh": "",
+      "naam": "ताल छप्पर",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 317,
+      "sthapana_varsh": "",
+      "naam": "रेणुका",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 318,
+      "sthapana_varsh": "",
+      "naam": "शिल्ली",
+      "rajya": "हिमाचल प्रदेश",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 319,
+      "sthapana_varsh": "",
+      "naam": "बीर बुन्नेरहेरी",
+      "rajya": "पंजाब",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 320,
+      "sthapana_varsh": "",
+      "naam": "बस्सी",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 321,
+      "sthapana_varsh": "",
+      "naam": "राष्ट्रीय घड़ियाल",
+      "rajya": "राजस्थान",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 322,
+      "sthapana_varsh": "",
+      "naam": "खिजाड़िया",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 323,
+      "sthapana_varsh": "",
+      "naam": "बीर गुरद्यालपुर",
+      "rajya": "पंजाब",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 324,
+      "sthapana_varsh": "",
+      "naam": "आसान ब्रैज बर्ड वॉचिंग",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 325,
+      "sthapana_varsh": "",
+      "naam": "चिल्ला",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 326,
+      "sthapana_varsh": "",
+      "naam": "महावीर स्वामी",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 327,
+      "sthapana_varsh": "",
+      "naam": "नवाबगंज",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 328,
+      "sthapana_varsh": "",
+      "naam": "समसपुर",
+      "rajya": "उत्तर प्रदेश",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 329,
+      "sthapana_varsh": "",
+      "naam": "ढकना कोलकाज़",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 330,
+      "sthapana_varsh": "",
+      "naam": "गांधारी",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 331,
+      "sthapana_varsh": "",
+      "naam": "वेनगंगा",
+      "rajya": "महाराष्ट्र",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 332,
+      "sthapana_varsh": "",
+      "naam": "धुमखल",
+      "rajya": "गुजरात",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 333,
+      "sthapana_varsh": "",
+      "naam": "उषाकोठी",
+      "rajya": "उड़ीसा",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 334,
+      "sthapana_varsh": "",
+      "naam": "चंद्रप्रभा",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 335,
+      "sthapana_varsh": "",
+      "naam": "तोपचांची",
+      "rajya": "बिहार",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 336,
+      "sthapana_varsh": "",
+      "naam": "बिबनुतिभूषन",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 337,
+      "sthapana_varsh": "",
+      "naam": "बेतुवादाहरी",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 338,
+      "sthapana_varsh": "",
+      "naam": "बल्लवपुर",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 339,
+      "sthapana_varsh": "",
+      "naam": "चंप्रमरी",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 340,
+      "sthapana_varsh": "",
+      "naam": "गोरुमारा",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 341,
+      "sthapana_varsh": "",
+      "naam": "जोरपोखरी",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 342,
+      "sthapana_varsh": "",
+      "naam": "महानंदा",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 343,
+      "sthapana_varsh": "",
+      "naam": "पमधन",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 344,
+      "sthapana_varsh": "",
+      "naam": "रमणबागान",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 345,
+      "sthapana_varsh": "",
+      "naam": "रायगंज",
+      "rajya": "पश्चिम बंगाल",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 346,
+      "sthapana_varsh": "",
+      "naam": "क्योंगसिया ऑल्पाइन",
+      "rajya": "सिक्किम",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 347,
+      "sthapana_varsh": "",
+      "naam": "गरमपानी",
+      "rajya": "आसाम",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 348,
+      "sthapana_varsh": "",
+      "naam": "सिजु",
+      "rajya": "मेघालय",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 349,
+      "sthapana_varsh": "",
+      "naam": "पुलेबात्ज़े",
+      "rajya": "नागालैंड",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 350,
+      "sthapana_varsh": "",
+      "naam": "फाकिम",
+      "rajya": "नागालैंड",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 351,
+      "sthapana_varsh": "",
+      "naam": "चरिलम",
+      "rajya": "त्रिपुरा",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 352,
+      "sthapana_varsh": "",
+      "naam": "लजमडुगु",
+      "rajya": "आंध्र प्रदेश",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 353,
+      "sthapana_varsh": "",
+      "naam": "करिकिली",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 354,
+      "sthapana_varsh": "",
+      "naam": "वेदांतांगल",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 355,
+      "sthapana_varsh": "",
+      "naam": "वेट्टंगुड़ी",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": ""
+    },
+    {
+      "kram": 356,
+      "sthapana_varsh": "",
+      "naam": "वल्लनाडु",
+      "rajya": "तमिल नाडु",
+      "kshetraphal_varg_km": 16.41
+    },
+    {
+      "kram": "कुल-543",
+      "sthapana_varsh": "",
+      "naam": "कुमारकोम",
+      "rajya": "केरल",
+      "kshetraphal_varg_km": ""
+    }
+  ],
+  "meta": {
+    "title": "भारत के वन्यजीव अभयारण्य - Free Download",
+    "description": "भारत के वन्यजीव अभयारण्यों की सूची, स्थापना वर्ष, राज्य और क्षेत्रफल (वर्ग कि.मी.) सहित। Contains 358 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के वन्यजीव अभयारण्य | ListBase",
+    "seo_description": "Download भारत के वन्यजीव अभयारण्य — 358 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 358 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_अभयारण्य"
+    ]
+  }
+}

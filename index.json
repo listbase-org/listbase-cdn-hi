@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-09T02:38:04.198Z",
-  "total_datasets": 492,
-  "total_records": 2014621,
+  "generated": "2026-11-09T02:38:10.028Z",
+  "total_datasets": 493,
+  "total_records": 2014639,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -4774,6 +4774,29 @@
         "xlsx": {
           "name": "hi-bharatiya-rasoi-bartan_HI.xlsx",
           "size": 7997
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-rotiyan",
+      "name": "भारतीय रोटियाँ और ब्रेड",
+      "category": "food",
+      "record_count": 18,
+      "columns": [
+        "naam",
+        "vivaran"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/श्रेणी:भारतीय_रोटियाँ",
+      "updated": "2026-11",
+      "size": 7774,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-rotiyan_HI.csv",
+          "size": 5008
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-rotiyan_HI.xlsx",
+          "size": 8115
         }
       }
     },

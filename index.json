@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-09T02:37:57.522Z",
-  "total_datasets": 491,
-  "total_records": 2014591,
+  "generated": "2026-11-09T02:38:04.198Z",
+  "total_datasets": 492,
+  "total_records": 2014621,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -4751,6 +4751,29 @@
         "xlsx": {
           "name": "hi-bharatiya-pey_HI.xlsx",
           "size": 7835
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-rasoi-bartan",
+      "name": "भारतीय रसोई के बर्तन",
+      "category": "food",
+      "record_count": 30,
+      "columns": [
+        "naam",
+        "vivaran"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/श्रेणी:भारतीय_खाना_बनाने_में_इस्तेमाल_होनेवाले_बर्तन",
+      "updated": "2026-11",
+      "size": 9242,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-rasoi-bartan_HI.csv",
+          "size": 5821
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-rasoi-bartan_HI.xlsx",
+          "size": 7997
         }
       }
     },

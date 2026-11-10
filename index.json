@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-10T02:39:44.484Z",
-  "total_datasets": 496,
-  "total_records": 2015043,
+  "generated": "2026-11-10T02:39:52.777Z",
+  "total_datasets": 497,
+  "total_records": 2015075,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -11778,6 +11778,33 @@
         "xlsx": {
           "name": "hi-bharatiya-rashtriya-football-team-pratidvandvi-record_HI.xlsx",
           "size": 10800
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-shatranj-khiladi-samman",
+      "name": "राष्ट्रीय सम्मान प्राप्त भारतीय शतरंज खिलाड़ी",
+      "category": "sports",
+      "record_count": 32,
+      "columns": [
+        "samman",
+        "naam",
+        "rajya",
+        "varsh",
+        "shirshak",
+        "ling"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_शतरंज_खिलाड़ियों_की_सूची",
+      "updated": "2026-11",
+      "size": 11402,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-shatranj-khiladi-samman_HI.csv",
+          "size": 5095
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-shatranj-khiladi-samman_HI.xlsx",
+          "size": 8237
         }
       }
     },

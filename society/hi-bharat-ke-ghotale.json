@@ -1,0 +1,120 @@
+{
+  "id": "hi-bharat-ke-ghotale",
+  "name": "भारत के प्रमुख घोटालों की सूची (वर्ष के अनुसार)",
+  "title": "भारत के प्रमुख घोटालों की सूची (वर्ष के अनुसार)",
+  "description": "स्वतंत्र भारत के प्रमुख राजनीतिक व आर्थिक घोटालों और काण्डों की वर्षवार सूची।",
+  "category": "society",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_घोटालों_की_सूची_(वर्ष_के_अनुसार)",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_घोटालों_की_सूची_(वर्ष_के_अनुसार)",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "varsh",
+      "label": "Varsh",
+      "type": "number"
+    },
+    {
+      "key": "ghotala",
+      "label": "Ghotala",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "varsh": 2011,
+      "ghotala": "हसन अलि खान घोटाला"
+    },
+    {
+      "varsh": 2011,
+      "ghotala": "दैवास एन्ट्रीक्स सौदा काण्ड"
+    },
+    {
+      "varsh": 2011,
+      "ghotala": "नकद पैसे से वोट काण्ड"
+    },
+    {
+      "varsh": 2010,
+      "ghotala": "२जी स्पेक्ट्रम घोटाला"
+    },
+    {
+      "varsh": 2010,
+      "ghotala": "आदर्श हाउसिंग सोसाइटी घोटाला"
+    },
+    {
+      "varsh": 2010,
+      "ghotala": "कॉमनवेल्थ खेल घोटाला"
+    },
+    {
+      "varsh": 2010,
+      "ghotala": "२०१० हाउसिंग लोन घोटाला मुम्बई"
+    },
+    {
+      "varsh": 2010,
+      "ghotala": "बेलेकेरी पोर्ट घोटाला"
+    },
+    {
+      "varsh": 2009,
+      "ghotala": "झारखण्ड चिकित्सालय धन काण्ड"
+    },
+    {
+      "varsh": 2009,
+      "ghotala": "चावल निर्यात घोटाला"
+    },
+    {
+      "varsh": 2009,
+      "ghotala": "ओडिया खदान घोटाला"
+    },
+    {
+      "varsh": 2009,
+      "ghotala": "मधु कोडा खदान घोटाला"
+    },
+    {
+      "varsh": 2008,
+      "ghotala": "हसन अली ख़ान टैक्स चोरी मामला"
+    },
+    {
+      "varsh": 2008,
+      "ghotala": "सत्यम घोटाला"
+    },
+    {
+      "varsh": 2003,
+      "ghotala": "ताज कॉरीडोर काण्ड"
+    },
+    {
+      "varsh": 2001,
+      "ghotala": "केतन पारेख सुरक्षा घोटाला"
+    },
+    {
+      "varsh": 1997,
+      "ghotala": "सुखराम टेलीकॉम घोटाला"
+    },
+    {
+      "varsh": 1997,
+      "ghotala": "एसएनली काण्ड"
+    },
+    {
+      "varsh": 1996,
+      "ghotala": "चारा घोटाला"
+    },
+    {
+      "varsh": 1992,
+      "ghotala": "बैंक सुरक्षा घोटाला"
+    },
+    {
+      "varsh": 1957,
+      "ghotala": "हरिदास मुंदड़ा घोटाला"
+    }
+  ],
+  "meta": {
+    "title": "भारत के प्रमुख घोटालों की सूची (वर्ष के अनुसार) - Free Download",
+    "description": "स्वतंत्र भारत के प्रमुख राजनीतिक व आर्थिक घोटालों और काण्डों की वर्षवार सूची। Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के प्रमुख घोटालों की सूची (वर्ष के अनुसार) | ListBase",
+    "seo_description": "Download भारत के प्रमुख घोटालों की सूची (वर्ष के अनुसार) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_घोटालों_की_सूची_(वर्ष_के_अनुसार)"
+    ]
+  }
+}

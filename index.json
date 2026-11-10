@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-09T02:38:10.028Z",
-  "total_datasets": 493,
-  "total_records": 2014639,
+  "generated": "2026-11-10T02:39:25.224Z",
+  "total_datasets": 494,
+  "total_records": 2014660,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -11420,6 +11420,29 @@
         "xlsx": {
           "name": "hi-rajya-vriksh_HI.xlsx",
           "size": 10087
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-ghotale",
+      "name": "भारत के प्रमुख घोटालों की सूची (वर्ष के अनुसार)",
+      "category": "society",
+      "record_count": 21,
+      "columns": [
+        "varsh",
+        "ghotala"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_घोटालों_की_सूची_(वर्ष_के_अनुसार)",
+      "updated": "2026-11",
+      "size": 4565,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-ghotale_HI.csv",
+          "size": 1434
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-ghotale_HI.xlsx",
+          "size": 7370
         }
       }
     },

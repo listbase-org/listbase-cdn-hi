@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-10T02:39:34.531Z",
-  "total_datasets": 495,
-  "total_records": 2014853,
+  "generated": "2026-11-10T02:39:44.484Z",
+  "total_datasets": 496,
+  "total_records": 2015043,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -6801,6 +6801,29 @@
         "xlsx": {
           "name": "hi-aitihasik-rajvansh_HI.xlsx",
           "size": 26092
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-durg-rajyavar",
+      "name": "भारत के दुर्गों (किलों) की राज्यवार सूची",
+      "category": "history",
+      "record_count": 190,
+      "columns": [
+        "durg",
+        "rajya"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_दुर्गों_की_सूची",
+      "updated": "2026-11",
+      "size": 23797,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-durg-rajyavar_HI.csv",
+          "size": 13622
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-durg-rajyavar_HI.xlsx",
+          "size": 11026
         }
       }
     },

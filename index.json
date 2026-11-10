@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-10T02:39:25.224Z",
-  "total_datasets": 494,
-  "total_records": 2014660,
+  "generated": "2026-11-10T02:39:34.531Z",
+  "total_datasets": 495,
+  "total_records": 2014853,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -6975,6 +6975,31 @@
         "xlsx": {
           "name": "hi-adhikarik-bhashaon-mein-bharat-ka-naam_HI.xlsx",
           "size": 8246
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-sankatgrast-bhashayen",
+      "name": "भारत में संकटग्रस्त भाषाओं की सूची",
+      "category": "language",
+      "record_count": 193,
+      "columns": [
+        "bhasha",
+        "sthiti",
+        "tippani",
+        "iso_639_3"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_में_संकटग्रस्त_भाषाओं_की_सूची",
+      "updated": "2026-11",
+      "size": 41488,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-sankatgrast-bhashayen_HI.csv",
+          "size": 23066
+        },
+        "xlsx": {
+          "name": "hi-bharat-sankatgrast-bhashayen_HI.xlsx",
+          "size": 12691
         }
       }
     },

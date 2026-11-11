@@ -1,0 +1,154 @@
+{
+  "id": "hi-lok-sabha-adhyaksh",
+  "name": "लोक सभा अध्यक्षों की सूची",
+  "title": "लोक सभा अध्यक्षों की सूची",
+  "description": "भारत की लोक सभा के अध्यक्षों (स्पीकर) की सूची, कार्यकाल की आरंभ और समाप्ति तिथि सहित।",
+  "category": "politics",
+  "source": "https://hi.wikipedia.org/wiki/लोकसभा_अध्यक्ष",
+  "source_url": "https://hi.wikipedia.org/wiki/लोकसभा_अध्यक्ष",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "गणेश वासुदेव मावलंकर",
+      "term_start": "15 मई 1952",
+      "term_end": "27 फ़रवरी 1956"
+    },
+    {
+      "no": 2,
+      "name": "अनन्त शयनम् अयंगार",
+      "term_start": "8 मार्च 1956",
+      "term_end": "16 अप्रॅल 1962"
+    },
+    {
+      "no": 3,
+      "name": "सरदार हुकम सिंह",
+      "term_start": "17 अप्रॅल 1962",
+      "term_end": "16 मार्च 1967"
+    },
+    {
+      "no": 4,
+      "name": "नीलम संजीव रेड्डी",
+      "term_start": "17 मार्च 1967",
+      "term_end": "19 जुलाई 1969"
+    },
+    {
+      "no": 5,
+      "name": "जी. एस. ढिल्‍लों",
+      "term_start": "8 अगस्त 1969",
+      "term_end": "1 दिसंबर 1975"
+    },
+    {
+      "no": 6,
+      "name": "बलि राम भगत",
+      "term_start": "15 जनवरी 1976",
+      "term_end": "25 मार्च 1977"
+    },
+    {
+      "no": 7,
+      "name": "नीलम संजीव रेड्डी",
+      "term_start": "26 मार्च 1977",
+      "term_end": "13 जुलाई 1977"
+    },
+    {
+      "no": 8,
+      "name": "के एस हेगड़े",
+      "term_start": "21 जुलाई 1977",
+      "term_end": "21 जनवरी 1980"
+    },
+    {
+      "no": 9,
+      "name": "बलराम जाखड़",
+      "term_start": "22 जनवरी 1980",
+      "term_end": "18 दिसंबर 1989"
+    },
+    {
+      "no": 10,
+      "name": "रवि राय",
+      "term_start": "19 दिसंबर 1989",
+      "term_end": "9 जुलाई 1991"
+    },
+    {
+      "no": 11,
+      "name": "शिवराज पाटिल",
+      "term_start": "10 जुलाई 1991",
+      "term_end": "22 मई 1996"
+    },
+    {
+      "no": 12,
+      "name": "पी. ए. संगमा",
+      "term_start": "25 मई 1996",
+      "term_end": "23 मार्च 1998"
+    },
+    {
+      "no": 13,
+      "name": "जी एम सी बालयोगी",
+      "term_start": "24 मार्च 1998",
+      "term_end": "3 मार्च 2002"
+    },
+    {
+      "no": 14,
+      "name": "मनोहर जोशी",
+      "term_start": "10 मई 2002",
+      "term_end": "2 जून 2004"
+    },
+    {
+      "no": 15,
+      "name": "सोमनाथ चटर्जी",
+      "term_start": "4 जून 2004",
+      "term_end": "30 मई 2009"
+    },
+    {
+      "no": 16,
+      "name": "मीरा कुमार",
+      "term_start": "4 जून 2009",
+      "term_end": "4 जून 2014"
+    },
+    {
+      "no": 17,
+      "name": "सुमित्रा महाजन",
+      "term_start": "6 जून 2014",
+      "term_end": "17 जून 2019"
+    },
+    {
+      "no": 18,
+      "name": "ओम बिरला",
+      "term_start": "19 जून 2019",
+      "term_end": "पदस्थ"
+    }
+  ],
+  "meta": {
+    "title": "लोक सभा अध्यक्षों की सूची - Free Download",
+    "description": "भारत की लोक सभा के अध्यक्षों (स्पीकर) की सूची, कार्यकाल की आरंभ और समाप्ति तिथि सहित। Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "लोक सभा अध्यक्षों की सूची | ListBase",
+    "seo_description": "Download लोक सभा अध्यक्षों की सूची — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/लोकसभा_अध्यक्ष"
+    ]
+  }
+}

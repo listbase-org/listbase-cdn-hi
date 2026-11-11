@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-10T02:39:52.777Z",
-  "total_datasets": 497,
-  "total_records": 2015075,
+  "generated": "2026-11-11T02:19:23.936Z",
+  "total_datasets": 498,
+  "total_records": 2015093,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 37
+      "dataset_count": 38
     },
     {
       "id": "reference",
@@ -7995,6 +7995,31 @@
         "xlsx": {
           "name": "hi-kerala-vidhan-sabha-elections_HI.xlsx",
           "size": 552504
+        }
+      }
+    },
+    {
+      "id": "hi-lok-sabha-adhyaksh",
+      "name": "लोक सभा अध्यक्षों की सूची",
+      "category": "politics",
+      "record_count": 18,
+      "columns": [
+        "no",
+        "name",
+        "term_start",
+        "term_end"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/लोकसभा_अध्यक्ष",
+      "updated": "2026-11",
+      "size": 5004,
+      "files": {
+        "csv": {
+          "name": "hi-lok-sabha-adhyaksh_HI.csv",
+          "size": 1673
+        },
+        "xlsx": {
+          "name": "hi-lok-sabha-adhyaksh_HI.xlsx",
+          "size": 7701
         }
       }
     },

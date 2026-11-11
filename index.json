@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-11T02:19:45.865Z",
-  "total_datasets": 499,
-  "total_records": 2015118,
+  "generated": "2026-11-11T02:19:54.853Z",
+  "total_datasets": 500,
+  "total_records": 2015125,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 38
+      "dataset_count": 39
     },
     {
       "id": "reference",
@@ -8577,6 +8577,37 @@
         "xlsx": {
           "name": "hi-tripura-vidhan-sabha-elections_HI.xlsx",
           "size": 145550
+        }
+      }
+    },
+    {
+      "id": "hi-up-pradhanmantri",
+      "name": "भारत के उप प्रधानमंत्रियों की सूची",
+      "category": "politics",
+      "record_count": 7,
+      "columns": [
+        "no",
+        "name",
+        "life",
+        "constituency",
+        "term_start",
+        "term_end",
+        "other_portfolios",
+        "party",
+        "government",
+        "prime_minister"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_उप_प्रधानमंत्री",
+      "updated": "2026-11",
+      "size": 6645,
+      "files": {
+        "csv": {
+          "name": "hi-up-pradhanmantri_HI.csv",
+          "size": 2521
+        },
+        "xlsx": {
+          "name": "hi-up-pradhanmantri_HI.xlsx",
+          "size": 7911
         }
       }
     },

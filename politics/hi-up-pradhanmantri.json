@@ -1,0 +1,160 @@
+{
+  "id": "hi-up-pradhanmantri",
+  "name": "भारत के उप प्रधानमंत्रियों की सूची",
+  "title": "भारत के उप प्रधानमंत्रियों की सूची",
+  "description": "भारत के उप प्रधानमंत्रियों की सूची: कार्यकाल, अन्य मंत्री पद, राजनीतिक दल, सरकार और प्रधानमंत्री सहित।",
+  "category": "politics",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_उप_प्रधानमंत्री",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_उप_प्रधानमंत्री",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "life",
+      "label": "Life",
+      "type": "string"
+    },
+    {
+      "key": "constituency",
+      "label": "Constituency",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "other_portfolios",
+      "label": "Other Portfolios",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    },
+    {
+      "key": "prime_minister",
+      "label": "Prime Minister",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "वल्लभ भाई पटेल",
+      "life": "1875–1950",
+      "constituency": "बॉम्बे (संविधान सभा)",
+      "term_start": "15 अगस्त 1947",
+      "term_end": "15 दिसंबर 1950",
+      "other_portfolios": "गृह एवं राज्य मंत्री सूचना एवं प्रसारण मंत्री (1947 – 1949)",
+      "party": "भारतीय राष्ट्रीय कांग्रेस",
+      "government": "नेहरू I",
+      "prime_minister": "जवाहरलाल नेहरू"
+    },
+    {
+      "no": 2,
+      "name": "मोरारजी देसाई",
+      "life": "1896–1995",
+      "constituency": "सूरत से सांसद",
+      "term_start": "13 मार्च 1967",
+      "term_end": "19 जुलाई 1969",
+      "other_portfolios": "वित्त मंत्री",
+      "party": "भारतीय राष्ट्रीय कांग्रेस",
+      "government": "इंदिरा I",
+      "prime_minister": "इन्दिरा गांधी"
+    },
+    {
+      "no": 3,
+      "name": "चौधरी चरण सिंह",
+      "life": "1902–1987",
+      "constituency": "बागपत से सांसद",
+      "term_start": "24 जनवरी 1979",
+      "term_end": "16 जुलाई 1979",
+      "other_portfolios": "वित्त मंत्री",
+      "party": "जनता पार्टी",
+      "government": "देसाई",
+      "prime_minister": "मोरारजी देसाई"
+    },
+    {
+      "no": 4,
+      "name": "जगजीवन राम",
+      "life": "1908–1986",
+      "constituency": "सासाराम से सांसद",
+      "term_start": "24 जनवरी 1979",
+      "term_end": "28 जुलाई 1979",
+      "other_portfolios": "रक्षा मंत्री",
+      "party": "जनता पार्टी",
+      "government": "देसाई",
+      "prime_minister": "मोरारजी देसाई"
+    },
+    {
+      "no": 5,
+      "name": "यशवंतराव चव्हाण",
+      "life": "1913–1984",
+      "constituency": "सतारा से सांसद",
+      "term_start": "28 जुलाई 1979",
+      "term_end": "14 जनवरी 1980",
+      "other_portfolios": "गृह मंत्री",
+      "party": "भारतीय राष्ट्रीय कांग्रेस (उर्स)",
+      "government": "चरण",
+      "prime_minister": "चौधरी चरण सिंह"
+    },
+    {
+      "no": 6,
+      "name": "देवी लाल",
+      "life": "1915–2001",
+      "constituency": "सीकर से सांसद",
+      "term_start": "2 दिसंबर 1989",
+      "term_end": "1 अगस्त 1990",
+      "other_portfolios": "कृषि मंत्री",
+      "party": "जनता दल",
+      "government": "सिंह",
+      "prime_minister": "विश्वनाथ प्रताप सिंह"
+    },
+    {
+      "no": 7,
+      "name": "लालकृष्ण आडवाणी",
+      "life": "1927–",
+      "constituency": "गांधीनगर से सांसद",
+      "term_start": "28 जून 2002",
+      "term_end": "22 मई 2004",
+      "other_portfolios": "गृह मंत्री कोयला एवं खनन मंत्री (2002) कार्मिक, लोक शिकायत और पेंशन मंत्री (2003 – 2004)",
+      "party": "भारतीय जनता पार्टी",
+      "government": "वाजपेयी III",
+      "prime_minister": "अटल बिहारी वाजपेयी"
+    }
+  ],
+  "meta": {
+    "title": "भारत के उप प्रधानमंत्रियों की सूची - Free Download",
+    "description": "भारत के उप प्रधानमंत्रियों की सूची: कार्यकाल, अन्य मंत्री पद, राजनीतिक दल, सरकार और प्रधानमंत्री सहित। Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के उप प्रधानमंत्रियों की सूची | ListBase",
+    "seo_description": "Download भारत के उप प्रधानमंत्रियों की सूची — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_उप_प्रधानमंत्री"
+    ]
+  }
+}

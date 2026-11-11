@@ -1,0 +1,316 @@
+{
+  "id": "hi-uchch-nyayalay-vartaman-mukhya-nyayadhish",
+  "name": "भारत के उच्च न्यायालयों के वर्तमान मुख्य न्यायाधीश",
+  "title": "भारत के उच्च न्यायालयों के वर्तमान मुख्य न्यायाधीश",
+  "description": "भारत के सभी उच्च न्यायालयों के वर्तमान मुख्य न्यायाधीशों की सूची: न्यायक्षेत्र, नियुक्ति तिथि, सेवानिवृत्ति तिथि और मूल उच्च न्यायालय।",
+  "category": "law",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_वर्तमान_मुख्य_न्यायाधीशों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_वर्तमान_मुख्य_न्यायाधीशों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "high_court",
+      "label": "High Court",
+      "type": "string"
+    },
+    {
+      "key": "jurisdiction",
+      "label": "Jurisdiction",
+      "type": "string"
+    },
+    {
+      "key": "chief_justice",
+      "label": "Chief Justice",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "appointed_cj",
+      "label": "Appointed Cj",
+      "type": "string"
+    },
+    {
+      "key": "retirement_date",
+      "label": "Retirement Date",
+      "type": "string"
+    },
+    {
+      "key": "parent_high_court",
+      "label": "Parent High Court",
+      "type": "string"
+    },
+    {
+      "key": "first_appointed_judge",
+      "label": "First Appointed Judge",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "high_court": "इलाहाबाद उच्च न्यायालय",
+      "jurisdiction": "उत्तर प्रदेश",
+      "chief_justice": "अरुण भंसाली",
+      "gender": "पुरुष",
+      "appointed_cj": "5 फ़रवरी 2024",
+      "retirement_date": "14 अक्टूबर 2029",
+      "parent_high_court": "राजस्थान",
+      "first_appointed_judge": "8 जनवरी 2013"
+    },
+    {
+      "high_court": "आन्ध्र प्रदेश उच्च न्यायालय",
+      "jurisdiction": "आन्ध्र प्रदेश",
+      "chief_justice": "लिसा गिल",
+      "gender": "महिला",
+      "appointed_cj": "25 अप्रैल 2026",
+      "retirement_date": "16 नवम्बर 2028",
+      "parent_high_court": "पंजाब और हरियाणा",
+      "first_appointed_judge": "31 मार्च 2014"
+    },
+    {
+      "high_court": "बॉम्बे उच्च न्यायालय",
+      "jurisdiction": "गोवा, दादरा और नगर हवेली, दमन और दीव, महाराष्ट्र",
+      "chief_justice": "महेश चंद्र त्रिपाठी",
+      "gender": "पुरुष",
+      "appointed_cj": "9 सितम्बर 2026",
+      "retirement_date": "20 जून 2028",
+      "parent_high_court": "इलाहाबाद",
+      "first_appointed_judge": "27 सितम्बर 2013"
+    },
+    {
+      "high_court": "कलकत्ता उच्च न्यायालय",
+      "jurisdiction": "अंडमान और निकोबार द्वीपसमूह, पश्चिम बंगाल",
+      "chief_justice": "रवींद्र विट्ठलराव घुगे",
+      "gender": "पुरुष",
+      "appointed_cj": "09 सितम्बर 2026",
+      "retirement_date": "8 जुलाई 2028",
+      "parent_high_court": "बॉम्बे",
+      "first_appointed_judge": "21 जून 2013"
+    },
+    {
+      "high_court": "छत्तीसगढ़ उच्च न्यायालय",
+      "jurisdiction": "छत्तीसगढ़",
+      "chief_justice": "कृष्ण राम मोहपात्रा",
+      "gender": "पुरुष",
+      "appointed_cj": "7 सितम्बर 2026",
+      "retirement_date": "17 अप्रैल 2027",
+      "parent_high_court": "उड़ीसा",
+      "first_appointed_judge": "17 अप्रैल 2015"
+    },
+    {
+      "high_court": "दिल्ली उच्च न्यायालय",
+      "jurisdiction": "राष्ट्रीय राजधानी क्षेत्र दिल्ली",
+      "chief_justice": "देवेंद्र कुमार उपाध्याय",
+      "gender": "पुरुष",
+      "appointed_cj": "29 जुलाई 2023 (3 वर्ष, 105 दिन) वर्तमान उच्च न्यायालय में नियुक्ति की तारीख 21 जनवरी 2025",
+      "retirement_date": "15 जून 2027",
+      "parent_high_court": "इलाहाबाद",
+      "first_appointed_judge": "21 नवम्बर 2011"
+    },
+    {
+      "high_court": "गुवाहाटी उच्च न्यायालय",
+      "jurisdiction": "अरुणाचल प्रदेश, असम, मिजोरम, नागालैंड",
+      "chief_justice": "आशुतोष कुमार",
+      "gender": "पुरुष",
+      "appointed_cj": "21 जुलाई 2025",
+      "retirement_date": "30 सितम्बर 2028",
+      "parent_high_court": "पटना",
+      "first_appointed_judge": "15 मई 2014"
+    },
+    {
+      "high_court": "गुजरात उच्च न्यायालय",
+      "jurisdiction": "गुजरात",
+      "chief_justice": "सुनीता अग्रवाल",
+      "gender": "महिला",
+      "appointed_cj": "23 जुलाई 2023",
+      "retirement_date": "29 अप्रैल 2028",
+      "parent_high_court": "इलाहाबाद",
+      "first_appointed_judge": "21 नवम्बर 2011"
+    },
+    {
+      "high_court": "हिमाचल प्रदेश उच्च न्यायालय (सूची)",
+      "jurisdiction": "हिमाचल प्रदेश",
+      "chief_justice": "गुरमीत सिंह संधावालिया",
+      "gender": "पुरुष",
+      "appointed_cj": "29 दिसम्बर 2024",
+      "retirement_date": "31 अक्टूबर 2027",
+      "parent_high_court": "पंजाब और हरियाणा",
+      "first_appointed_judge": "30 सितम्बर 2011"
+    },
+    {
+      "high_court": "जम्मू और कश्मीर उच्च न्यायालय",
+      "jurisdiction": "जम्मू और कश्मीर, लद्दाख",
+      "chief_justice": "पुष्पेंद्र सिंह भाटी",
+      "gender": "पुरुष",
+      "appointed_cj": "9 सितम्बर 2026",
+      "retirement_date": "20 सितम्बर 2032",
+      "parent_high_court": "राजस्थान उच्च न्यायालय",
+      "first_appointed_judge": "16 नवम्बर 2016"
+    },
+    {
+      "high_court": "झारखण्ड उच्च न्यायालय",
+      "jurisdiction": "झारखंड",
+      "chief_justice": "महेश शरदचंद्र सोनक",
+      "gender": "पुरुष",
+      "appointed_cj": "9 जनवरी 2026",
+      "retirement_date": "27 नवम्बर 2026",
+      "parent_high_court": "बॉम्बे",
+      "first_appointed_judge": "21 जून 2013"
+    },
+    {
+      "high_court": "कर्नाटक उच्च न्यायालय",
+      "jurisdiction": "कर्नाटक",
+      "chief_justice": "विभु बखरू",
+      "gender": "पुरुष",
+      "appointed_cj": "19 जुलाई 2025",
+      "retirement_date": "1 नवम्बर 2028",
+      "parent_high_court": "दिल्ली",
+      "first_appointed_judge": "17 अप्रैल 2013"
+    },
+    {
+      "high_court": "केरल उच्च न्यायालय",
+      "jurisdiction": "केरल, लक्षद्वीप",
+      "chief_justice": "सौमेन सेन",
+      "gender": "पुरुष",
+      "appointed_cj": "8 अक्टूबर 2025 (1 वर्ष, 34 दिन) वर्तमान उच्च न्यायालय में नियुक्ति की तारीख 10 जनवरी 2026",
+      "retirement_date": "26 जुलाई 2027",
+      "parent_high_court": "कलकत्ता",
+      "first_appointed_judge": "13 अप्रैल 2011"
+    },
+    {
+      "high_court": "मध्य प्रदेश उच्च न्यायालय",
+      "jurisdiction": "मध्य प्रदेश",
+      "chief_justice": "अल्पेश यशवंत कोगजे",
+      "gender": "पुरुष",
+      "appointed_cj": "10 सितम्बर 2026",
+      "retirement_date": "15 जुलाई 2031",
+      "parent_high_court": "गुजरात",
+      "first_appointed_judge": "6 अप्रैल 2016"
+    },
+    {
+      "high_court": "मद्रास उच्च न्यायालय",
+      "jurisdiction": "पुडुचेरी, तमिलनाडु",
+      "chief_justice": "सुश्रुत अरविंद धर्माधिकारी",
+      "gender": "पुरुष",
+      "appointed_cj": "6 मार्च 2026",
+      "retirement_date": "7 जुलाई 2028",
+      "parent_high_court": "मध्य प्रदेश",
+      "first_appointed_judge": "7 अप्रैल 2016"
+    },
+    {
+      "high_court": "मणिपुर उच्च न्यायालय",
+      "jurisdiction": "मणिपुर",
+      "chief_justice": "एम. सुंदर",
+      "gender": "पुरुष",
+      "appointed_cj": "15 सितम्बर 2025",
+      "retirement_date": "18 जुलाई 2028",
+      "parent_high_court": "मद्रास",
+      "first_appointed_judge": "5 अक्टूबर 2016"
+    },
+    {
+      "high_court": "मेघालय उच्च न्यायालय",
+      "jurisdiction": "मेघालय",
+      "chief_justice": "रेवती मोहिते देरे",
+      "gender": "महिला",
+      "appointed_cj": "10 जनवरी 2026",
+      "retirement_date": "16 अप्रैल 2027",
+      "parent_high_court": "बॉम्बे",
+      "first_appointed_judge": "21 जून 2013"
+    },
+    {
+      "high_court": "उड़ीसा उच्च न्यायालय",
+      "jurisdiction": "उड़ीसा",
+      "chief_justice": "हरीश टंडन",
+      "gender": "पुरुष",
+      "appointed_cj": "26 मार्च 2025",
+      "retirement_date": "15 नवम्बर 2026",
+      "parent_high_court": "कलकत्ता",
+      "first_appointed_judge": "13 अप्रैल 2010"
+    },
+    {
+      "high_court": "पटना उच्च न्यायालय",
+      "jurisdiction": "बिहार",
+      "chief_justice": "वी. कामेश्वर राव",
+      "gender": "पुरुष",
+      "appointed_cj": "13 सितम्बर 2026",
+      "retirement_date": "6 अगस्त 2027",
+      "parent_high_court": "दिल्ली",
+      "first_appointed_judge": "17 अप्रैल 2013"
+    },
+    {
+      "high_court": "पंजाब और हरियाणा उच्च न्यायालय",
+      "jurisdiction": "चंडीगढ़, हरियाणा, पंजाब",
+      "chief_justice": "अश्वनी कुमार मिश्रा",
+      "gender": "पुरुष",
+      "appointed_cj": "7 सितम्बर 2026",
+      "retirement_date": "15 नवम्बर 2030",
+      "parent_high_court": "इलाहाबाद",
+      "first_appointed_judge": "3 फ़रवरी 2014"
+    },
+    {
+      "high_court": "राजस्थान उच्च न्यायालय",
+      "jurisdiction": "राजस्थान",
+      "chief_justice": "संजय कुमार अग्रवाल",
+      "gender": "पुरुष",
+      "appointed_cj": "7 सितम्बर 2026",
+      "retirement_date": "14 जुलाई 2027",
+      "parent_high_court": "छत्तीसगढ़",
+      "first_appointed_judge": "16 सितम्बर 2013"
+    },
+    {
+      "high_court": "सिक्किम उच्च न्यायालय",
+      "jurisdiction": "सिक्किम",
+      "chief_justice": "मुहम्मद मुस्ताक आयुमंतकथ",
+      "gender": "पुरुष",
+      "appointed_cj": "4 जनवरी 2026",
+      "retirement_date": "31 मई 2029",
+      "parent_high_court": "केरल",
+      "first_appointed_judge": "23 जनवरी 2014"
+    },
+    {
+      "high_court": "तेलंगाना उच्च न्यायालय",
+      "jurisdiction": "तेलंगाना",
+      "chief_justice": "अपरेश कुमार सिंह",
+      "gender": "पुरुष",
+      "appointed_cj": "17 अप्रैल 2023 (3 वर्ष, 208 दिन) वर्तमान उच्च न्यायालय में नियुक्ति की तारीख 19 जुलाई 2025",
+      "retirement_date": "6 जुलाई 2027",
+      "parent_high_court": "झारखण्ड",
+      "first_appointed_judge": "24 जनवरी 2012"
+    },
+    {
+      "high_court": "त्रिपुरा उच्च न्यायालय",
+      "jurisdiction": "त्रिपुरा",
+      "chief_justice": "ममीदन्ना सत्यरत्न रामचंद्र राव",
+      "gender": "पुरुष",
+      "appointed_cj": "30 मई 2023 (3 वर्ष, 165 दिन) वर्तमान उच्च न्यायालय में नियुक्ति की तारीख 22 जुलाई 2025",
+      "retirement_date": "6 अगस्त 2028",
+      "parent_high_court": "तेलंगाना",
+      "first_appointed_judge": "29 जून 2012"
+    },
+    {
+      "high_court": "उत्तराखण्ड उच्च न्यायालय (सूची)",
+      "jurisdiction": "उत्तराखंड",
+      "chief_justice": "मनोज कुमार गुप्ता",
+      "gender": "पुरुष",
+      "appointed_cj": "10 जनवरी 2026",
+      "retirement_date": "8 अक्टूबर 2026",
+      "parent_high_court": "इलाहाबाद",
+      "first_appointed_judge": "12 अप्रैल 2013"
+    }
+  ],
+  "meta": {
+    "title": "भारत के उच्च न्यायालयों के वर्तमान मुख्य न्यायाधीश - Free Download",
+    "description": "भारत के सभी उच्च न्यायालयों के वर्तमान मुख्य न्यायाधीशों की सूची: न्यायक्षेत्र, नियुक्ति तिथि, सेवानिवृत्ति तिथि और मूल उच्च न्यायालय। Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के उच्च न्यायालयों के वर्तमान मुख्य न्यायाधीश | ListBase",
+    "seo_description": "Download भारत के उच्च न्यायालयों के वर्तमान मुख्य न्यायाधीश — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_वर्तमान_मुख्य_न्यायाधीशों_की_सूची"
+    ]
+  }
+}

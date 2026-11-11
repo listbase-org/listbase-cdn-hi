@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-11T02:19:23.936Z",
-  "total_datasets": 498,
-  "total_records": 2015093,
+  "generated": "2026-11-11T02:19:45.865Z",
+  "total_datasets": 499,
+  "total_records": 2015118,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -7314,6 +7314,35 @@
         "xlsx": {
           "name": "hi-samvidhan-sanshodhan_HI.xlsx",
           "size": 19375
+        }
+      }
+    },
+    {
+      "id": "hi-uchch-nyayalay-vartaman-mukhya-nyayadhish",
+      "name": "भारत के उच्च न्यायालयों के वर्तमान मुख्य न्यायाधीश",
+      "category": "law",
+      "record_count": 25,
+      "columns": [
+        "high_court",
+        "jurisdiction",
+        "chief_justice",
+        "gender",
+        "appointed_cj",
+        "retirement_date",
+        "parent_high_court",
+        "first_appointed_judge"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_वर्तमान_मुख्य_न्यायाधीशों_की_सूची",
+      "updated": "2026-11",
+      "size": 16338,
+      "files": {
+        "csv": {
+          "name": "hi-uchch-nyayalay-vartaman-mukhya-nyayadhish_HI.csv",
+          "size": 8049
+        },
+        "xlsx": {
+          "name": "hi-uchch-nyayalay-vartaman-mukhya-nyayadhish_HI.xlsx",
+          "size": 9421
         }
       }
     },

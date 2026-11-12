@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-12T02:16:59.415Z",
-  "total_datasets": 502,
-  "total_records": 2015188,
+  "generated": "2026-11-12T02:17:07.756Z",
+  "total_datasets": 503,
+  "total_records": 2015224,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -592,6 +592,31 @@
         "xlsx": {
           "name": "hi-rajya-berozgari-dar_HI.xlsx",
           "size": 7864
+        }
+      }
+    },
+    {
+      "id": "hi-rajya-ghar-bijli-uplabdhata",
+      "name": "घरों में बिजली उपलब्धता के आधार पर भारत के राज्य",
+      "category": "economy",
+      "record_count": 36,
+      "columns": [
+        "rank",
+        "state",
+        "electricity_lighting_households_pct_2001",
+        "electricity_lighting_households_pct_2011"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/घरों_मे_बिजली_उपलब्धता_के_आधार_पर_भारत_के_राज्य",
+      "updated": "2026-11",
+      "size": 9473,
+      "files": {
+        "csv": {
+          "name": "hi-rajya-ghar-bijli-uplabdhata_HI.csv",
+          "size": 1801
+        },
+        "xlsx": {
+          "name": "hi-rajya-ghar-bijli-uplabdhata_HI.xlsx",
+          "size": 8037
         }
       }
     },

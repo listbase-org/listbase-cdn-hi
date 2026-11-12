@@ -1,0 +1,262 @@
+{
+  "id": "hi-rajya-ghar-bijli-uplabdhata",
+  "name": "घरों में बिजली उपलब्धता के आधार पर भारत के राज्य",
+  "title": "घरों में बिजली उपलब्धता के आधार पर भारत के राज्य",
+  "description": "प्रकाश के लिए बिजली को मुख्य स्रोत के रूप में उपयोग करने वाले परिवारों का प्रतिशत, राज्यवार (जनगणना 2001 और 2011)।",
+  "category": "economy",
+  "source": "https://hi.wikipedia.org/wiki/घरों_मे_बिजली_उपलब्धता_के_आधार_पर_भारत_के_राज्य",
+  "source_url": "https://hi.wikipedia.org/wiki/घरों_मे_बिजली_उपलब्धता_के_आधार_पर_भारत_के_राज्य",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "electricity_lighting_households_pct_2001",
+      "label": "Electricity Lighting Households Pct 2001",
+      "type": "number"
+    },
+    {
+      "key": "electricity_lighting_households_pct_2011",
+      "label": "Electricity Lighting Households Pct 2011",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "state": "लक्षद्वीप",
+      "electricity_lighting_households_pct_2001": 99.7,
+      "electricity_lighting_households_pct_2011": 99.7
+    },
+    {
+      "rank": 2,
+      "state": "दिल्ली",
+      "electricity_lighting_households_pct_2001": 92.9,
+      "electricity_lighting_households_pct_2011": 99.1
+    },
+    {
+      "rank": 3,
+      "state": "दमन और दीव",
+      "electricity_lighting_households_pct_2001": 97.8,
+      "electricity_lighting_households_pct_2011": 99.1
+    },
+    {
+      "rank": 4,
+      "state": "चंडीगढ़",
+      "electricity_lighting_households_pct_2001": 96.8,
+      "electricity_lighting_households_pct_2011": 98.4
+    },
+    {
+      "rank": 5,
+      "state": "पुडुचेरी",
+      "electricity_lighting_households_pct_2001": 87.8,
+      "electricity_lighting_households_pct_2011": 97.7
+    },
+    {
+      "rank": 6,
+      "state": "गोआ",
+      "electricity_lighting_households_pct_2001": 93.6,
+      "electricity_lighting_households_pct_2011": 96.9
+    },
+    {
+      "rank": 7,
+      "state": "हिमाचल प्रदेश",
+      "electricity_lighting_households_pct_2001": 94.8,
+      "electricity_lighting_households_pct_2011": 96.8
+    },
+    {
+      "rank": 8,
+      "state": "पंजाब",
+      "electricity_lighting_households_pct_2001": 91.9,
+      "electricity_lighting_households_pct_2011": 96.6
+    },
+    {
+      "rank": 9,
+      "state": "दादरा और नगर हवेली",
+      "electricity_lighting_households_pct_2001": 86,
+      "electricity_lighting_households_pct_2011": 95.2
+    },
+    {
+      "rank": 10,
+      "state": "केरल",
+      "electricity_lighting_households_pct_2001": 70.2,
+      "electricity_lighting_households_pct_2011": 94.4
+    },
+    {
+      "rank": 11,
+      "state": "तमिलनाडु",
+      "electricity_lighting_households_pct_2001": 78.2,
+      "electricity_lighting_households_pct_2011": 93.4
+    },
+    {
+      "rank": 12,
+      "state": "सिक्किम",
+      "electricity_lighting_households_pct_2001": 77.8,
+      "electricity_lighting_households_pct_2011": 92.5
+    },
+    {
+      "rank": 13,
+      "state": "आंध्र प्रदेश",
+      "electricity_lighting_households_pct_2001": 67.2,
+      "electricity_lighting_households_pct_2011": 92.2
+    },
+    {
+      "rank": 14,
+      "state": "कर्णाटक",
+      "electricity_lighting_households_pct_2001": 78.5,
+      "electricity_lighting_households_pct_2011": 90.6
+    },
+    {
+      "rank": 15,
+      "state": "हरियाणा",
+      "electricity_lighting_households_pct_2001": 82.9,
+      "electricity_lighting_households_pct_2011": 90.5
+    },
+    {
+      "rank": 16,
+      "state": "गुजरात",
+      "electricity_lighting_households_pct_2001": 80.4,
+      "electricity_lighting_households_pct_2011": 90.4
+    },
+    {
+      "rank": 17,
+      "state": "उत्तराखंड",
+      "electricity_lighting_households_pct_2001": 60.3,
+      "electricity_lighting_households_pct_2011": 87
+    },
+    {
+      "rank": 18,
+      "state": "अंडमान और निकोबार द्वीपसमूह",
+      "electricity_lighting_households_pct_2001": 76.8,
+      "electricity_lighting_households_pct_2011": 86.1
+    },
+    {
+      "rank": 19,
+      "state": "जम्मू और कश्मीर",
+      "electricity_lighting_households_pct_2001": 80.6,
+      "electricity_lighting_households_pct_2011": 85.1
+    },
+    {
+      "rank": 20,
+      "state": "मिजोरम",
+      "electricity_lighting_households_pct_2001": 69.6,
+      "electricity_lighting_households_pct_2011": 84.2
+    },
+    {
+      "rank": 21,
+      "state": "महाराष्ट्र",
+      "electricity_lighting_households_pct_2001": 77.5,
+      "electricity_lighting_households_pct_2011": 83.9
+    },
+    {
+      "rank": 22,
+      "state": "नागालैंड",
+      "electricity_lighting_households_pct_2001": 63.6,
+      "electricity_lighting_households_pct_2011": 81.6
+    },
+    {
+      "rank": 23,
+      "state": "छत्तीसगढ़",
+      "electricity_lighting_households_pct_2001": 53.1,
+      "electricity_lighting_households_pct_2011": 75.3
+    },
+    {
+      "rank": 24,
+      "state": "त्रिपुरा",
+      "electricity_lighting_households_pct_2001": 41.8,
+      "electricity_lighting_households_pct_2011": 68.4
+    },
+    {
+      "rank": 25,
+      "state": "मणिपुर",
+      "electricity_lighting_households_pct_2001": 60,
+      "electricity_lighting_households_pct_2011": 68.3
+    },
+    {
+      "rank": "**",
+      "state": "पूर्ण भारत",
+      "electricity_lighting_households_pct_2001": 55.8,
+      "electricity_lighting_households_pct_2011": 67.2
+    },
+    {
+      "rank": 26,
+      "state": "मध्य प्रदेश",
+      "electricity_lighting_households_pct_2001": 70,
+      "electricity_lighting_households_pct_2011": 67.1
+    },
+    {
+      "rank": 27,
+      "state": "राजस्थान",
+      "electricity_lighting_households_pct_2001": 54.7,
+      "electricity_lighting_households_pct_2011": 67
+    },
+    {
+      "rank": 28,
+      "state": "अरुणाचल प्रदेश",
+      "electricity_lighting_households_pct_2001": 54.7,
+      "electricity_lighting_households_pct_2011": 65.7
+    },
+    {
+      "rank": 29,
+      "state": "मेघालय",
+      "electricity_lighting_households_pct_2001": 42.7,
+      "electricity_lighting_households_pct_2011": 60.9
+    },
+    {
+      "rank": 30,
+      "state": "पश्चिम बंगाल",
+      "electricity_lighting_households_pct_2001": 37.5,
+      "electricity_lighting_households_pct_2011": 54.5
+    },
+    {
+      "rank": 31,
+      "state": "झारखंड",
+      "electricity_lighting_households_pct_2001": 24.3,
+      "electricity_lighting_households_pct_2011": 45.8
+    },
+    {
+      "rank": 32,
+      "state": "ओड़िशा",
+      "electricity_lighting_households_pct_2001": 26.9,
+      "electricity_lighting_households_pct_2011": 43
+    },
+    {
+      "rank": 33,
+      "state": "असम",
+      "electricity_lighting_households_pct_2001": 24.9,
+      "electricity_lighting_households_pct_2011": 37
+    },
+    {
+      "rank": 34,
+      "state": "उत्तर प्रदेश",
+      "electricity_lighting_households_pct_2001": 31.9,
+      "electricity_lighting_households_pct_2011": 36.8
+    },
+    {
+      "rank": 35,
+      "state": "बिहार",
+      "electricity_lighting_households_pct_2001": 10.3,
+      "electricity_lighting_households_pct_2011": 16.4
+    }
+  ],
+  "meta": {
+    "title": "घरों में बिजली उपलब्धता के आधार पर भारत के राज्य - Free Download",
+    "description": "प्रकाश के लिए बिजली को मुख्य स्रोत के रूप में उपयोग करने वाले परिवारों का प्रतिशत, राज्यवार (जनगणना 2001 और 2011)। Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "घरों में बिजली उपलब्धता के आधार पर भारत के राज्य | ListBase",
+    "seo_description": "Download घरों में बिजली उपलब्धता के आधार पर भारत के राज्य — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/घरों_मे_बिजली_उपलब्धता_के_आधार_पर_भारत_के_राज्य"
+    ]
+  }
+}

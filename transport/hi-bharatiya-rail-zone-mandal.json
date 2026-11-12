@@ -1,0 +1,269 @@
+{
+  "id": "hi-bharatiya-rail-zone-mandal",
+  "name": "भारतीय रेलवे के ज़ोन और मंडल",
+  "title": "भारतीय रेलवे के ज़ोन और मंडल",
+  "description": "भारतीय रेलवे के ज़ोन, कोड, मुख्यालय, मार्ग लंबाई, स्टेशनों की संख्या, राजस्व और मंडल।",
+  "category": "transport",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_रेलवे_के_ज़ोन_और_मंडल",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_रेलवे_के_ज़ोन_और_मंडल",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "sr",
+      "label": "Sr",
+      "type": "number"
+    },
+    {
+      "key": "zone",
+      "label": "Zone",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "route_length_km_2011_12",
+      "label": "Route Length Km 2011 12",
+      "type": "number"
+    },
+    {
+      "key": "stations_2011_12",
+      "label": "Stations 2011 12",
+      "type": "number"
+    },
+    {
+      "key": "revenue_2011_12",
+      "label": "Revenue 2011 12",
+      "type": "string"
+    },
+    {
+      "key": "passengers_million_2011_12",
+      "label": "Passengers Million 2011 12",
+      "type": "number"
+    },
+    {
+      "key": "divisions",
+      "label": "Divisions",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sr": 1,
+      "zone": "मध्य रेलवे",
+      "code": "म.रे.",
+      "headquarters": "मुम्बई टर्मिनस",
+      "route_length_km_2011_12": 3905,
+      "stations_2011_12": 612,
+      "revenue_2011_12": "₹ 75,447 मिलियन (US$ 1,101.53 मिलियन)",
+      "passengers_million_2011_12": 1675,
+      "divisions": "मुंबई, भुसावल, पुणे, सोलापुर, नागपुर"
+    },
+    {
+      "sr": 2,
+      "zone": "उत्तर रेलवे",
+      "code": "उ.रे.",
+      "headquarters": "दिल्ली",
+      "route_length_km_2011_12": 6968,
+      "stations_2011_12": 1142,
+      "revenue_2011_12": "₹ 89,246 मिलियन (US$ 1,302.99 मिलियन)",
+      "passengers_million_2011_12": 685,
+      "divisions": "Delhi, अंबाला, फिरोजपुर, लखनऊ उरे, मुरादाबाद"
+    },
+    {
+      "sr": 3,
+      "zone": "पूर्वोत्तर रेलवे",
+      "code": "उपूरे",
+      "headquarters": "गोरखपुर",
+      "route_length_km_2011_12": 3667,
+      "stations_2011_12": 537,
+      "revenue_2011_12": "₹ 17,667 मिलियन (US$ 257.94 मिलियन)",
+      "passengers_million_2011_12": 250,
+      "divisions": "इज्जत नगर, लखनऊ उपूरे, वाराणासी"
+    },
+    {
+      "sr": 4,
+      "zone": "पूर्वोत्तर सीमांत रेलवे",
+      "code": "उसीरे",
+      "headquarters": "गुवाहाटी",
+      "route_length_km_2011_12": 3948,
+      "stations_2011_12": 753,
+      "revenue_2011_12": "₹ 21,079 मिलियन (US$ 307.75 मिलियन)",
+      "passengers_million_2011_12": 88,
+      "divisions": "अलीपुरद्वार, कटिहार, रंगिया, लामडिंग, तिनसुकिया"
+    },
+    {
+      "sr": 5,
+      "zone": "पूर्व रेलवे",
+      "code": "पूरे",
+      "headquarters": "फेयरली प्लेस, कोलकाता",
+      "route_length_km_2011_12": 2414,
+      "stations_2011_12": 576,
+      "revenue_2011_12": "₹ 37,254 मिलियन (US$ 543.91 मिलियन)",
+      "passengers_million_2011_12": 1173,
+      "divisions": "हावड़ा, सियालदेह, आसनसोल, माल्दा"
+    },
+    {
+      "sr": 6,
+      "zone": "दक्षिणपूर्व रेलवे",
+      "code": "दपूरे",
+      "headquarters": "गार्डन रीच, कोलकाता",
+      "route_length_km_2011_12": 2631,
+      "stations_2011_12": 353,
+      "revenue_2011_12": "₹ 73,721 मिलियन (US$ 1,076.33 मिलियन)",
+      "passengers_million_2011_12": 263,
+      "divisions": "आद्रा, चक्रधरपुर, खड़गपुर, रांची"
+    },
+    {
+      "sr": 7,
+      "zone": "दक्षिण मध्य रेलवे",
+      "code": "दमरे",
+      "headquarters": "सिकंदराबाद",
+      "route_length_km_2011_12": 3127,
+      "stations_2011_12": 883,
+      "revenue_2011_12": "₹ 89,114 मिलियन (US$ 1,301.06 मिलियन)",
+      "passengers_million_2011_12": 378,
+      "divisions": "सिकंदराबाद, हैदराबाद, नांदेड"
+    },
+    {
+      "sr": 8,
+      "zone": "दक्षिण रेलवे",
+      "code": "दरे",
+      "headquarters": "चेन्नई सेंट्रल",
+      "route_length_km_2011_12": 5079,
+      "stations_2011_12": 890,
+      "revenue_2011_12": "₹ 81,820 मिलियन (US$ 1,194.57 मिलियन)",
+      "passengers_million_2011_12": 406,
+      "divisions": "चेन्नई, तिरुचिरापल्ली, मदुरई, पलक्कड, सलेम, तिरुवनन्तपुरम"
+    },
+    {
+      "sr": 9,
+      "zone": "पश्चिम रेलवे",
+      "code": "परे",
+      "headquarters": "मुम्बई (चर्चगेट)",
+      "route_length_km_2011_12": 6182,
+      "stations_2011_12": 1046,
+      "revenue_2011_12": "₹ 82,167 मिलियन (US$ 1,199.64 मिलियन)",
+      "passengers_million_2011_12": 1654,
+      "divisions": "मुंबई परे, रतलाम, अहमदाबाद, राजकोट, भावनगर, वडोदरा"
+    },
+    {
+      "sr": 10,
+      "zone": "दक्षिण पश्चिम रेलवे",
+      "code": "दपरे",
+      "headquarters": "हुबली",
+      "route_length_km_2011_12": 3177,
+      "stations_2011_12": 456,
+      "revenue_2011_12": "₹ 26,384 मिलियन (US$ 385.21 मिलियन)",
+      "passengers_million_2011_12": 181,
+      "divisions": "हुबली, बंगलुरु, मैसूर,"
+    },
+    {
+      "sr": 11,
+      "zone": "उत्तर पश्चिम रेलवे",
+      "code": "उपरे",
+      "headquarters": "जयपुर",
+      "route_length_km_2011_12": 5459,
+      "stations_2011_12": 663,
+      "revenue_2011_12": "₹ 36,240 मिलियन (US$ 529.1 मिलियन)",
+      "passengers_million_2011_12": 157,
+      "divisions": "जयपुर, अज़मेर, बीकानेर, जोधपुर"
+    },
+    {
+      "sr": 12,
+      "zone": "पश्चिम मध्य रेलवे",
+      "code": "पमरे",
+      "headquarters": "जबलपुर",
+      "route_length_km_2011_12": 2965,
+      "stations_2011_12": 372,
+      "revenue_2011_12": "₹ 65,135 मिलियन (US$ 950.97 मिलियन)",
+      "passengers_million_2011_12": 138,
+      "divisions": "जबलपुर, भोपाल, कोटा"
+    },
+    {
+      "sr": 13,
+      "zone": "उत्तर मध्य रेलवे",
+      "code": "उमरे",
+      "headquarters": "इलाहाबाद",
+      "route_length_km_2011_12": 3151,
+      "stations_2011_12": 435,
+      "revenue_2011_12": "₹ 87,796 मिलियन (US$ 1,281.82 मिलियन)",
+      "passengers_million_2011_12": 182,
+      "divisions": "इलाहाबाद, आगरा, झांसी"
+    },
+    {
+      "sr": 14,
+      "zone": "दक्षिणपूर्व मध्य रेलवे",
+      "code": "दपूमरे",
+      "headquarters": "बिलासपुर",
+      "route_length_km_2011_12": 2447,
+      "stations_2011_12": 358,
+      "revenue_2011_12": "₹ 63,402 मिलियन (US$ 925.67 मिलियन)",
+      "passengers_million_2011_12": 126,
+      "divisions": "बिलासपुर, रायपुर, नागपुर दपूम"
+    },
+    {
+      "sr": 15,
+      "zone": "पूर्व तटीय रेलेवे",
+      "code": "पूतरे",
+      "headquarters": "भुवनेश्वर",
+      "route_length_km_2011_12": 2204,
+      "stations_2011_12": 342,
+      "revenue_2011_12": "₹ 87,884 मिलियन (US$ 1,283.11 मिलियन)",
+      "passengers_million_2011_12": 86,
+      "divisions": "खुर्दा रोड, सम्भलपुर, रायगड़ा"
+    },
+    {
+      "sr": 16,
+      "zone": "पूर्वमध्य रेलवे",
+      "code": "पूमरे",
+      "headquarters": "हाजीपुर",
+      "route_length_km_2011_12": 3628,
+      "stations_2011_12": 800,
+      "revenue_2011_12": "₹ 59,386 मिलियन (US$ 867.04 मिलियन)",
+      "passengers_million_2011_12": 222,
+      "divisions": "दानापुर, धनबाद, मुगलसराय, समस्तीपुर, सोनपुर"
+    },
+    {
+      "sr": 17,
+      "zone": "मेट्रो रेल",
+      "code": "एमटीपी",
+      "headquarters": "पार्क स्ट्रीट, कोलकाता",
+      "route_length_km_2011_12": 33.02,
+      "stations_2011_12": 30,
+      "revenue_2011_12": "₹ 1,648 मिलियन (US$ 24.06 मिलियन)",
+      "passengers_million_2011_12": 255.5,
+      "divisions": "लाइन 1, लाइन 2"
+    },
+    {
+      "sr": 18,
+      "zone": "दक्षिण तटीय रेलवे",
+      "code": "दतरे",
+      "headquarters": "विशाखापट्टनम",
+      "route_length_km_2011_12": 3496,
+      "stations_2011_12": "",
+      "revenue_2011_12": "₹ 1,30,000 मिलियन (US$ 1,898 मिलियन)",
+      "passengers_million_2011_12": "",
+      "divisions": "विजयवाड़ा, गुंटूर, गुंटाकल, विशाखापट्टनम"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय रेलवे के ज़ोन और मंडल - Free Download",
+    "description": "भारतीय रेलवे के ज़ोन, कोड, मुख्यालय, मार्ग लंबाई, स्टेशनों की संख्या, राजस्व और मंडल। Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय रेलवे के ज़ोन और मंडल | ListBase",
+    "seo_description": "Download भारतीय रेलवे के ज़ोन और मंडल — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_रेलवे_के_ज़ोन_और_मंडल"
+    ]
+  }
+}

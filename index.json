@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-12T02:16:35.625Z",
-  "total_datasets": 501,
-  "total_records": 2015170,
+  "generated": "2026-11-12T02:16:59.415Z",
+  "total_datasets": 502,
+  "total_records": 2015188,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 17
+      "dataset_count": 18
     },
     {
       "id": "units",
@@ -14114,6 +14114,36 @@
         "xlsx": {
           "name": "hi-west-bengal-unesco-world-heritage-sites_HI.xlsx",
           "size": 7361
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-rail-zone-mandal",
+      "name": "भारतीय रेलवे के ज़ोन और मंडल",
+      "category": "transport",
+      "record_count": 18,
+      "columns": [
+        "sr",
+        "zone",
+        "code",
+        "headquarters",
+        "route_length_km_2011_12",
+        "stations_2011_12",
+        "revenue_2011_12",
+        "passengers_million_2011_12",
+        "divisions"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_रेलवे_के_ज़ोन_और_मंडल",
+      "updated": "2026-11",
+      "size": 11457,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-rail-zone-mandal_HI.csv",
+          "size": 5096
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-rail-zone-mandal_HI.xlsx",
+          "size": 8959
         }
       }
     },

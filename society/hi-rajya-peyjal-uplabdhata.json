@@ -1,0 +1,221 @@
+{
+  "id": "hi-rajya-peyjal-uplabdhata",
+  "name": "पेयजल उपलब्धता के आधार पर भारत के राज्य",
+  "title": "पेयजल उपलब्धता के आधार पर भारत के राज्य",
+  "description": "भारत के राज्यों और केंद्रशासित प्रदेशों में पीने योग्य जल की उपलब्धता वाले घरों का प्रतिशत (2011)।",
+  "category": "society",
+  "source": "https://hi.wikipedia.org/wiki/पेयजल_उपलब्धता_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/पेयजल_उपलब्धता_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "households_with_drinking_water_pct_2011",
+      "label": "Households With Drinking Water Pct 2011",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": "1",
+      "state": "पंजाब",
+      "households_with_drinking_water_pct_2011": 97.6
+    },
+    {
+      "rank": "2",
+      "state": "उत्तर प्रदेश",
+      "households_with_drinking_water_pct_2011": 95.1
+    },
+    {
+      "rank": "3",
+      "state": "केरल",
+      "households_with_drinking_water_pct_2011": 94
+    },
+    {
+      "rank": "4",
+      "state": "हरियाणा",
+      "households_with_drinking_water_pct_2011": 93.8
+    },
+    {
+      "rank": "5",
+      "state": "हिमाचल प्रदेश",
+      "households_with_drinking_water_pct_2011": 93.7
+    },
+    {
+      "rank": "6",
+      "state": "तमिल नाडु",
+      "households_with_drinking_water_pct_2011": 92.5
+    },
+    {
+      "rank": "7",
+      "state": "उत्तराखण्ड",
+      "households_with_drinking_water_pct_2011": 92.2
+    },
+    {
+      "rank": "7",
+      "state": "पश्चिम बंगाल",
+      "households_with_drinking_water_pct_2011": 92.2
+    },
+    {
+      "rank": "8",
+      "state": "आन्ध्र प्रदेश",
+      "households_with_drinking_water_pct_2011": 90.5
+    },
+    {
+      "rank": "9",
+      "state": "गुजरात",
+      "households_with_drinking_water_pct_2011": 90.3
+    },
+    {
+      "rank": "10",
+      "state": "कर्णाटक",
+      "households_with_drinking_water_pct_2011": 87.5
+    },
+    {
+      "rank": "11",
+      "state": "छत्तीसगढ़",
+      "households_with_drinking_water_pct_2011": 86.3
+    },
+    {
+      "rank": "12",
+      "state": "गोवा",
+      "households_with_drinking_water_pct_2011": 85.7
+    },
+    {
+      "rank": "**",
+      "state": "राष्ट्रीय औसत",
+      "households_with_drinking_water_pct_2011": 85.5
+    },
+    {
+      "rank": "13",
+      "state": "सिक्किम",
+      "households_with_drinking_water_pct_2011": 85.1
+    },
+    {
+      "rank": "14",
+      "state": "महाराष्ट्र",
+      "households_with_drinking_water_pct_2011": 83.4
+    },
+    {
+      "rank": "15",
+      "state": "अरुणाचल प्रदेश",
+      "households_with_drinking_water_pct_2011": 78.6
+    },
+    {
+      "rank": "16",
+      "state": "राजस्थान",
+      "households_with_drinking_water_pct_2011": 78.1
+    },
+    {
+      "rank": "17",
+      "state": "मध्य प्रदेश",
+      "households_with_drinking_water_pct_2011": 78
+    },
+    {
+      "rank": "18",
+      "state": "जम्मू और कश्मीर",
+      "households_with_drinking_water_pct_2011": 76.8
+    },
+    {
+      "rank": "19",
+      "state": "उड़ीसा",
+      "households_with_drinking_water_pct_2011": 75.3
+    },
+    {
+      "rank": "20",
+      "state": "असम",
+      "households_with_drinking_water_pct_2011": 69.9
+    },
+    {
+      "rank": "21",
+      "state": "त्रिपुरा",
+      "households_with_drinking_water_pct_2011": 67.5
+    },
+    {
+      "rank": "22",
+      "state": "मिज़ोरम",
+      "households_with_drinking_water_pct_2011": 60.4
+    },
+    {
+      "rank": "23",
+      "state": "झारखण्ड",
+      "households_with_drinking_water_pct_2011": 60.1
+    },
+    {
+      "rank": "24",
+      "state": "नागालैण्ड",
+      "households_with_drinking_water_pct_2011": 53.8
+    },
+    {
+      "rank": "25",
+      "state": "मणिपुर",
+      "households_with_drinking_water_pct_2011": 45.4
+    },
+    {
+      "rank": "26",
+      "state": "मेघालय",
+      "households_with_drinking_water_pct_2011": 44.7
+    },
+    {
+      "rank": "27",
+      "state": "बिहार",
+      "households_with_drinking_water_pct_2011": 29.5
+    },
+    {
+      "rank": "संघ क्षेत्र",
+      "state": "चण्डीगढ़",
+      "households_with_drinking_water_pct_2011": 99.3
+    },
+    {
+      "rank": "संघ क्षेत्र",
+      "state": "दमन और दीव",
+      "households_with_drinking_water_pct_2011": 98.7
+    },
+    {
+      "rank": "संघ क्षेत्र",
+      "state": "पौण्डिचेरी",
+      "households_with_drinking_water_pct_2011": 97.8
+    },
+    {
+      "rank": "संघ क्षेत्र",
+      "state": "दिल्ली",
+      "households_with_drinking_water_pct_2011": 95
+    },
+    {
+      "rank": "संघ क्षेत्र",
+      "state": "दादर और नागर हवेली",
+      "households_with_drinking_water_pct_2011": 91.6
+    },
+    {
+      "rank": "संघ क्षेत्र",
+      "state": "अण्डमान और निकोबार द्वीपसमूह",
+      "households_with_drinking_water_pct_2011": 85.5
+    },
+    {
+      "rank": "संघ क्षेत्र",
+      "state": "लक्षद्वीप",
+      "households_with_drinking_water_pct_2011": 22.8
+    }
+  ],
+  "meta": {
+    "title": "पेयजल उपलब्धता के आधार पर भारत के राज्य - Free Download",
+    "description": "भारत के राज्यों और केंद्रशासित प्रदेशों में पीने योग्य जल की उपलब्धता वाले घरों का प्रतिशत (2011)। Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "पेयजल उपलब्धता के आधार पर भारत के राज्य | ListBase",
+    "seo_description": "Download पेयजल उपलब्धता के आधार पर भारत के राज्य — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/पेयजल_उपलब्धता_के_आधार_पर_भारत_के_राज्यों_की_सूची"
+    ]
+  }
+}

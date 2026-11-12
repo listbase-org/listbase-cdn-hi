@@ -1,0 +1,186 @@
+{
+  "id": "hi-rajya-griha-swamitva",
+  "name": "गृह स्वामित्व के आधार पर भारत के राज्य",
+  "title": "गृह स्वामित्व के आधार पर भारत के राज्य",
+  "description": "भारत के राज्यों में अपने घर के मालिक परिवारों का प्रतिशत।",
+  "category": "economy",
+  "source": "https://hi.wikipedia.org/wiki/गृह_स्वामित्व_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/गृह_स्वामित्व_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "home_owning_households_pct",
+      "label": "Home Owning Households Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "state": "केरल",
+      "home_owning_households_pct": 87.5
+    },
+    {
+      "rank": 2,
+      "state": "हरियाणा",
+      "home_owning_households_pct": 78.5
+    },
+    {
+      "rank": 3,
+      "state": "पंजाब",
+      "home_owning_households_pct": 77.2
+    },
+    {
+      "rank": 4,
+      "state": "गुजरात",
+      "home_owning_households_pct": 73.2
+    },
+    {
+      "rank": 5,
+      "state": "महाराष्ट्र",
+      "home_owning_households_pct": 67.2
+    },
+    {
+      "rank": 6,
+      "state": "पश्चिम बंगाल",
+      "home_owning_households_pct": 60.1
+    },
+    {
+      "rank": 7,
+      "state": "तमिल नाडु",
+      "home_owning_households_pct": 58.5
+    },
+    {
+      "rank": 8,
+      "state": "आन्ध्र प्रदेश",
+      "home_owning_households_pct": 56
+    },
+    {
+      "rank": 9,
+      "state": "कर्णाटक",
+      "home_owning_households_pct": 54.6
+    },
+    {
+      "rank": 10,
+      "state": "उड़ीसा",
+      "home_owning_households_pct": 53.5
+    },
+    {
+      "rank": 11,
+      "state": "हिमाचल प्रदेश",
+      "home_owning_households_pct": 52.2
+    },
+    {
+      "rank": 12,
+      "state": "सिक्किम",
+      "home_owning_households_pct": 50.9
+    },
+    {
+      "rank": 13,
+      "state": "जम्मू और कश्मीर",
+      "home_owning_households_pct": 50.2
+    },
+    {
+      "rank": 14,
+      "state": "उत्तराखण्ड",
+      "home_owning_households_pct": 48.8
+    },
+    {
+      "rank": 15,
+      "state": "राष्ट्रीय औसत",
+      "home_owning_households_pct": 55
+    },
+    {
+      "rank": 16,
+      "state": "राजस्थान",
+      "home_owning_households_pct": 40.4
+    },
+    {
+      "rank": 17,
+      "state": "पौण्डिचेरी",
+      "home_owning_households_pct": 39
+    },
+    {
+      "rank": 18,
+      "state": "मेघालय",
+      "home_owning_households_pct": 34.9
+    },
+    {
+      "rank": 19,
+      "state": "झारखण्ड",
+      "home_owning_households_pct": 28.1
+    },
+    {
+      "rank": 20,
+      "state": "उत्तर प्रदेश",
+      "home_owning_households_pct": 27.3
+    },
+    {
+      "rank": 21,
+      "state": "मध्य प्रदेश",
+      "home_owning_households_pct": 24.8
+    },
+    {
+      "rank": 22,
+      "state": "मणिपुर",
+      "home_owning_households_pct": 24.8
+    },
+    {
+      "rank": 23,
+      "state": "मिज़ोरम",
+      "home_owning_households_pct": 22.8
+    },
+    {
+      "rank": 24,
+      "state": "नागालैण्ड",
+      "home_owning_households_pct": 20.6
+    },
+    {
+      "rank": 25,
+      "state": "अरुणाचल प्रदेश",
+      "home_owning_households_pct": 20.4
+    },
+    {
+      "rank": 26,
+      "state": "बिहार",
+      "home_owning_households_pct": 20.1
+    },
+    {
+      "rank": 27,
+      "state": "असम",
+      "home_owning_households_pct": 19.7
+    },
+    {
+      "rank": 28,
+      "state": "छत्तीसगढ़",
+      "home_owning_households_pct": 17.2
+    },
+    {
+      "rank": 29,
+      "state": "त्रिपुरा",
+      "home_owning_households_pct": 11.9
+    }
+  ],
+  "meta": {
+    "title": "गृह स्वामित्व के आधार पर भारत के राज्य - Free Download",
+    "description": "भारत के राज्यों में अपने घर के मालिक परिवारों का प्रतिशत। Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "गृह स्वामित्व के आधार पर भारत के राज्य | ListBase",
+    "seo_description": "Download गृह स्वामित्व के आधार पर भारत के राज्य — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/गृह_स्वामित्व_के_आधार_पर_भारत_के_राज्यों_की_सूची"
+    ]
+  }
+}

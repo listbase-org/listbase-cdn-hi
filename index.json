@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-12T02:17:07.756Z",
-  "total_datasets": 503,
-  "total_records": 2015224,
+  "generated": "2026-11-12T02:17:15.595Z",
+  "total_datasets": 504,
+  "total_records": 2015253,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -617,6 +617,30 @@
         "xlsx": {
           "name": "hi-rajya-ghar-bijli-uplabdhata_HI.xlsx",
           "size": 8037
+        }
+      }
+    },
+    {
+      "id": "hi-rajya-griha-swamitva",
+      "name": "गृह स्वामित्व के आधार पर भारत के राज्य",
+      "category": "economy",
+      "record_count": 29,
+      "columns": [
+        "rank",
+        "state",
+        "home_owning_households_pct"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/गृह_स्वामित्व_के_आधार_पर_भारत_के_राज्यों_की_सूची",
+      "updated": "2026-11",
+      "size": 5563,
+      "files": {
+        "csv": {
+          "name": "hi-rajya-griha-swamitva_HI.csv",
+          "size": 1202
+        },
+        "xlsx": {
+          "name": "hi-rajya-griha-swamitva_HI.xlsx",
+          "size": 7589
         }
       }
     },

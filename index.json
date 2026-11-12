@@ -1,12 +1,12 @@
 {
   "lang": "hi",
-  "generated": "2026-11-11T02:19:54.853Z",
-  "total_datasets": 500,
-  "total_records": 2015125,
+  "generated": "2026-11-12T02:16:35.625Z",
+  "total_datasets": 501,
+  "total_records": 2015170,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -148,6 +148,31 @@
         "xlsx": {
           "name": "hi-bharat-ke-aam-ki-kismen_HI.xlsx",
           "size": 7737
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-bandh-jalashay",
+      "name": "भारत के बाँध एवं जलाशय",
+      "category": "agriculture",
+      "record_count": 45,
+      "columns": [
+        "sr",
+        "dam",
+        "river",
+        "state"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_बाँधों_एवं_जलाशयों_की_सूची",
+      "updated": "2026-11",
+      "size": 10003,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-bandh-jalashay_HI.csv",
+          "size": 4992
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-bandh-jalashay_HI.xlsx",
+          "size": 8615
         }
       }
     },

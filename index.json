@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-12T02:17:23.616Z",
-  "total_datasets": 505,
-  "total_records": 2015289,
+  "generated": "2026-11-13T02:12:37.763Z",
+  "total_datasets": 506,
+  "total_records": 2015337,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -11864,6 +11864,38 @@
         "xlsx": {
           "name": "hi-bharat-ekdivasiya-cricket-khiladi_HI.xlsx",
           "size": 21672
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-cricket-kaptan-ekdivasiya-t20",
+      "name": "भारतीय क्रिकेट टीम के एकदिवसीय और टी20 कप्तान (पुरुष व महिला)",
+      "category": "sports",
+      "record_count": 48,
+      "columns": [
+        "varg",
+        "praroop",
+        "kram",
+        "naam",
+        "varsh",
+        "khele",
+        "jeet",
+        "haar",
+        "tie",
+        "radd",
+        "jeet_pratishat"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_राष्ट्रीय_क्रिकेट_टीम_के_कप्तानों_की_सूची",
+      "updated": "2026-11",
+      "size": 18364,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-cricket-kaptan-ekdivasiya-t20_HI.csv",
+          "size": 6217
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-cricket-kaptan-ekdivasiya-t20_HI.xlsx",
+          "size": 10002
         }
       }
     },

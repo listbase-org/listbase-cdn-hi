@@ -1,0 +1,156 @@
+{
+  "id": "hi-uttarakhand-uchch-nyayalay-mukhya-nyayadhish",
+  "name": "उत्तराखण्ड उच्च न्यायालय के मुख्य न्यायाधीशों की सूची",
+  "title": "उत्तराखण्ड उच्च न्यायालय के मुख्य न्यायाधीशों की सूची",
+  "description": "उत्तराखण्ड उच्च न्यायालय के मुख्य न्यायाधीशों (बिना क्रम संख्या वाले कार्यवाहक) की सूची, उनके कार्यकाल के आरम्भ व समाप्ति की तिथि और अवधि सहित।",
+  "category": "law",
+  "source": "https://hi.wikipedia.org/wiki/उत्तराखण्ड_उच्च_न्यायालय_के_मुख्य_न्यायाधीशों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/उत्तराखण्ड_उच्च_न्यायालय_के_मुख्य_न्यायाधीशों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "string"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "karyakal_aarambh",
+      "label": "Karyakal Aarambh",
+      "type": "string"
+    },
+    {
+      "key": "karyakal_samapti",
+      "label": "Karyakal Samapti",
+      "type": "string"
+    },
+    {
+      "key": "karyakal_avadhi",
+      "label": "Karyakal Avadhi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "",
+      "naam": "अशोक ए॰ देसाई",
+      "karyakal_aarambh": "९ नवम्बर २०००",
+      "karyakal_samapti": "५ दिसंबर २०००",
+      "karyakal_avadhi": "२६ दिन"
+    },
+    {
+      "kram": "१",
+      "naam": "अशोक ए॰ देसाई",
+      "karyakal_aarambh": "६ दिसंबर २०००",
+      "karyakal_samapti": "३१ मार्च २००३",
+      "karyakal_avadhi": "८४५ दिन"
+    },
+    {
+      "kram": "",
+      "naam": "पी॰ सी॰ वर्मा",
+      "karyakal_aarambh": "१ अप्रैल २००३",
+      "karyakal_samapti": "४ अगस्त २००३",
+      "karyakal_avadhi": "१२५ दिन"
+    },
+    {
+      "kram": "२",
+      "naam": "एस एच कापड़िया",
+      "karyakal_aarambh": "५ अगस्त २००३",
+      "karyakal_samapti": "१७ दिसंबर २००३",
+      "karyakal_avadhi": "१३४ दिन"
+    },
+    {
+      "kram": "",
+      "naam": "पी॰ सी॰ वर्मा",
+      "karyakal_aarambh": "१८ दिसंबर २००३",
+      "karyakal_samapti": "२४ जुलाई २००४",
+      "karyakal_avadhi": "२१९ दिन"
+    },
+    {
+      "kram": "३",
+      "naam": "वी॰ एस॰ सिरपुरकर",
+      "karyakal_aarambh": "२४ जुलाई २००४",
+      "karyakal_samapti": "१९ मार्च २००५",
+      "karyakal_avadhi": "२३७ दिन"
+    },
+    {
+      "kram": "४",
+      "naam": "सीरिअस जोसफ",
+      "karyakal_aarambh": "२० मार्च २००५",
+      "karyakal_samapti": "७ जनवरी २००६",
+      "karyakal_avadhi": "२९३ दिन"
+    },
+    {
+      "kram": "",
+      "naam": "पी॰ सी॰ वर्मा",
+      "karyakal_aarambh": "८ जनवरी २००६",
+      "karyakal_samapti": "१३ जनवरी २००६",
+      "karyakal_avadhi": "५ दिन"
+    },
+    {
+      "kram": "५",
+      "naam": "राजीव गुप्ता",
+      "karyakal_aarambh": "१४ जनवरी २००६",
+      "karyakal_samapti": "१ फरवरी २००८",
+      "karyakal_avadhi": "७४८ दिन"
+    },
+    {
+      "kram": "६",
+      "naam": "वी॰ के॰ गुप्ता",
+      "karyakal_aarambh": "२ फरवरी २००८",
+      "karyakal_samapti": "९ सितम्बर २००९",
+      "karyakal_avadhi": "५८५ दिन"
+    },
+    {
+      "kram": "",
+      "naam": "बी॰ सी॰ काण्डपाल",
+      "karyakal_aarambh": "१० सितम्बर २००९",
+      "karyakal_samapti": "२८ नवंबर २००९",
+      "karyakal_avadhi": "७९ दिन"
+    },
+    {
+      "kram": "७",
+      "naam": "जगदीश सिंह खेहर",
+      "karyakal_aarambh": "२९ नवंबर २००९",
+      "karyakal_samapti": "७ अगस्त २०१०",
+      "karyakal_avadhi": "२५१ दिन"
+    },
+    {
+      "kram": "८",
+      "naam": "बरिन घोष",
+      "karyakal_aarambh": "८ अगस्त २०१०",
+      "karyakal_samapti": "३० जुलाई २०१४",
+      "karyakal_avadhi": "१,४५२ दिन"
+    },
+    {
+      "kram": "९",
+      "naam": "के॰ एम॰ जोसफ",
+      "karyakal_aarambh": "३१ जुलाई २०१४",
+      "karyakal_samapti": "०१ नवंबर २०१८",
+      "karyakal_avadhi": ""
+    },
+    {
+      "kram": "११",
+      "naam": "श्री विपिन सांघी",
+      "karyakal_aarambh": "सितंबर २०२२",
+      "karyakal_samapti": "-",
+      "karyakal_avadhi": "वर्तमान"
+    }
+  ],
+  "meta": {
+    "title": "उत्तराखण्ड उच्च न्यायालय के मुख्य न्यायाधीशों की सूची - Free Download",
+    "description": "उत्तराखण्ड उच्च न्यायालय के मुख्य न्यायाधीशों (बिना क्रम संख्या वाले कार्यवाहक) की सूची, उनके कार्यकाल के आरम्भ व समाप्ति की तिथि और अवधि सहित। Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "उत्तराखण्ड उच्च न्यायालय के मुख्य न्यायाधीशों की सूची | ListBase",
+    "seo_description": "Download उत्तराखण्ड उच्च न्यायालय के मुख्य न्यायाधीशों की सूची — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/उत्तराखण्ड_उच्च_न्यायालय_के_मुख्य_न्यायाधीशों_की_सूची"
+    ]
+  }
+}

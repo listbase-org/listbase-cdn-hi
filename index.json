@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-13T02:12:37.763Z",
-  "total_datasets": 506,
-  "total_records": 2015337,
+  "generated": "2026-11-13T02:12:48.394Z",
+  "total_datasets": 507,
+  "total_records": 2015352,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -7417,6 +7417,32 @@
         "xlsx": {
           "name": "hi-uchch-nyayalay-vartaman-mukhya-nyayadhish_HI.xlsx",
           "size": 9421
+        }
+      }
+    },
+    {
+      "id": "hi-uttarakhand-uchch-nyayalay-mukhya-nyayadhish",
+      "name": "उत्तराखण्ड उच्च न्यायालय के मुख्य न्यायाधीशों की सूची",
+      "category": "law",
+      "record_count": 15,
+      "columns": [
+        "kram",
+        "naam",
+        "karyakal_aarambh",
+        "karyakal_samapti",
+        "karyakal_avadhi"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/उत्तराखण्ड_उच्च_न्यायालय_के_मुख्य_न्यायाधीशों_की_सूची",
+      "updated": "2026-11",
+      "size": 7035,
+      "files": {
+        "csv": {
+          "name": "hi-uttarakhand-uchch-nyayalay-mukhya-nyayadhish_HI.csv",
+          "size": 2136
+        },
+        "xlsx": {
+          "name": "hi-uttarakhand-uchch-nyayalay-mukhya-nyayadhish_HI.xlsx",
+          "size": 7681
         }
       }
     },

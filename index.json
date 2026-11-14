@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-14T02:16:53.557Z",
-  "total_datasets": 509,
-  "total_records": 2015494,
+  "generated": "2026-11-14T02:17:04.792Z",
+  "total_datasets": 510,
+  "total_records": 2015566,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -7643,6 +7643,32 @@
         "xlsx": {
           "name": "hi-hindustani-rag_HI.xlsx",
           "size": 12042
+        }
+      }
+    },
+    {
+      "id": "hi-karnatak-sangeet-melakarta-rag",
+      "name": "कर्नाटक संगीत के 72 मेलकर्ता राग",
+      "category": "music",
+      "record_count": 72,
+      "columns": [
+        "rag_sankhya",
+        "rag",
+        "swar_scale",
+        "chakra",
+        "madhyam"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/मेलकर्ता",
+      "updated": "2026-11",
+      "size": 20246,
+      "files": {
+        "csv": {
+          "name": "hi-karnatak-sangeet-melakarta-rag_HI.csv",
+          "size": 10653
+        },
+        "xlsx": {
+          "name": "hi-karnatak-sangeet-melakarta-rag_HI.xlsx",
+          "size": 9574
         }
       }
     },

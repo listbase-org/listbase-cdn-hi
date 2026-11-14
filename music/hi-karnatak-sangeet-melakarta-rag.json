@@ -1,0 +1,555 @@
+{
+  "id": "hi-karnatak-sangeet-melakarta-rag",
+  "name": "कर्नाटक संगीत के 72 मेलकर्ता राग",
+  "title": "कर्नाटक संगीत के 72 मेलकर्ता राग",
+  "description": "कर्नाटक शास्त्रीय संगीत के सभी 72 मेलकर्ता (जनक) राग – राग संख्या, नाम, स्वर-सप्तक (स्केल), चक्र और शुद्ध/प्रति मध्यम वर्गीकरण।",
+  "category": "music",
+  "source": "https://hi.wikipedia.org/wiki/मेलकर्ता",
+  "source_url": "https://hi.wikipedia.org/wiki/मेलकर्ता",
+  "updated": "2026-11",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "rag_sankhya",
+      "label": "Rag Sankhya",
+      "type": "number"
+    },
+    {
+      "key": "rag",
+      "label": "Rag",
+      "type": "string"
+    },
+    {
+      "key": "swar_scale",
+      "label": "Swar Scale",
+      "type": "string"
+    },
+    {
+      "key": "chakra",
+      "label": "Chakra",
+      "type": "string"
+    },
+    {
+      "key": "madhyam",
+      "label": "Madhyam",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rag_sankhya": 1,
+      "rag": "कनकांगि",
+      "swar_scale": "स रि 1 ग 1 म 1 प ध 1 नि 1 स'",
+      "chakra": "इंदु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 2,
+      "rag": "रत्नांगि",
+      "swar_scale": "स रि 1 ग 1 म 1 प ध 1 नि 2 स'",
+      "chakra": "इंदु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 3,
+      "rag": "गानमूर्ति",
+      "swar_scale": "स रि 1 ग 1 म 1 प ध 1 नि 3 स'",
+      "chakra": "इंदु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 4,
+      "rag": "वनस्पति",
+      "swar_scale": "स रि 1 ग 1 म 1 प ध 2 नि 2 स'",
+      "chakra": "इंदु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 5,
+      "rag": "मानवति",
+      "swar_scale": "स रि 1 ग 1 म 1 प ध 2 नि 3 स'",
+      "chakra": "इंदु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 6,
+      "rag": "तानरूपि",
+      "swar_scale": "स रि 1 ग 1 म 1 प ध 3 नि 3 स'",
+      "chakra": "इंदु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 7,
+      "rag": "सेनावति",
+      "swar_scale": "स रि 1 ग 2 म 1 प ध 1 नि 1 स'",
+      "chakra": "नेत्र चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 8,
+      "rag": "हनुमतोडि",
+      "swar_scale": "स रि 1 ग 2 म 1 प ध 1 नि 2 स'",
+      "chakra": "नेत्र चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 9,
+      "rag": "धेनुक",
+      "swar_scale": "स रि 1 ग 2 म 1 प ध 1 नि 3 स'",
+      "chakra": "नेत्र चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 10,
+      "rag": "नाटकप्रिय",
+      "swar_scale": "स रि 1 ग 2 म 1 प ध 2 नि 2 स'",
+      "chakra": "नेत्र चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 11,
+      "rag": "कोकिलप्रिय",
+      "swar_scale": "स रि 1 ग 2 म 1 प ध 2 नि 3 स'",
+      "chakra": "नेत्र चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 12,
+      "rag": "रूपावति",
+      "swar_scale": "स रि 1 ग 2 म 1 प ध 3 नि 3 स'",
+      "chakra": "नेत्र चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 13,
+      "rag": "गायकप्रिय",
+      "swar_scale": "स रि 1 ग 3 म 1 प ध 1 नि 1 स'",
+      "chakra": "अग्नि चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 14,
+      "rag": "वकुळाभरणं",
+      "swar_scale": "स रि 1 ग 3 म 1 प ध 1 नि 2 स'",
+      "chakra": "अग्नि चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 15,
+      "rag": "मायामाळवगौळ",
+      "swar_scale": "स रि 1 ग 3 म 1 प ध 1 नि 3 स'",
+      "chakra": "अग्नि चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 16,
+      "rag": "चक्रवाकं",
+      "swar_scale": "स रि 1 ग 3 म 1 प ध 2 नि 2 स'",
+      "chakra": "अग्नि चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 17,
+      "rag": "सूर्यकांतं",
+      "swar_scale": "स रि 1 ग 3 म 1 प ध 2 नि 3 स'",
+      "chakra": "अग्नि चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 18,
+      "rag": "हटकांबरि",
+      "swar_scale": "स रि 1 ग 3 म 1 प ध 3 नि 3 स'",
+      "chakra": "अग्नि चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 19,
+      "rag": "झंकारध्वनि",
+      "swar_scale": "स रि 2 ग 2 म 1 प ध 1 नि 1 स'",
+      "chakra": "वेद चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 20,
+      "rag": "नाटभैरवि",
+      "swar_scale": "स रि 2 ग 2 म 1 प ध 1 नि 2 स'",
+      "chakra": "वेद चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 21,
+      "rag": "कीरवाणि",
+      "swar_scale": "स रि 2 ग 2 म 1 प ध 1 नि 3 स'",
+      "chakra": "वेद चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 22,
+      "rag": "खरहरप्रिय",
+      "swar_scale": "स रि 2 ग 2 म 1 प ध 2 नि 2 स'",
+      "chakra": "वेद चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 23,
+      "rag": "गौरीमनोहरि",
+      "swar_scale": "स रि 2 ग 2 म 1 प ध 2 नि 3 स'",
+      "chakra": "वेद चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 24,
+      "rag": "वरुणप्रिय",
+      "swar_scale": "स रि 2 ग 2 म 1 प ध 3 नि 3 स'",
+      "chakra": "वेद चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 25,
+      "rag": "माररंजनि",
+      "swar_scale": "स रि 2 ग 3 म 1 प ध 1 नि 1 स'",
+      "chakra": "बाण चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 26,
+      "rag": "चारुकेशि",
+      "swar_scale": "स रि 2 ग 3 म 1 प ध 1 नि 2 स'",
+      "chakra": "बाण चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 27,
+      "rag": "सरसांगि",
+      "swar_scale": "स रि 2 ग 3 म 1 प ध 1 नि 3 स'",
+      "chakra": "बाण चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 28,
+      "rag": "हरिकांभोजि",
+      "swar_scale": "स रि 2 ग 3 म 1 प ध 2 नि 2 स'",
+      "chakra": "बाण चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 29,
+      "rag": "धीरशंकराभरणं",
+      "swar_scale": "स रि 2 ग 3 म 1 प ध 2 नि 3 स'",
+      "chakra": "बाण चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 30,
+      "rag": "नागानंदिनि",
+      "swar_scale": "स रि 2 ग 3 म 1 प ध 3 नि 3 स'",
+      "chakra": "बाण चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 31,
+      "rag": "यागप्रिय",
+      "swar_scale": "स रि 3 ग 3 म 1 प ध 1 नि 1 स'",
+      "chakra": "ऋतु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 32,
+      "rag": "रागवर्धिनि",
+      "swar_scale": "स रि 3 ग 3 म 1 प ध 1 नि 2 स'",
+      "chakra": "ऋतु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 33,
+      "rag": "गांगेयभूषिणि",
+      "swar_scale": "स रि 3 ग 3 म 1 प ध 1 नि 3 स'",
+      "chakra": "ऋतु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 34,
+      "rag": "वागधीश्वरि",
+      "swar_scale": "स रि 3 ग 3 म 1 प ध 2 नि 2 स'",
+      "chakra": "ऋतु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 35,
+      "rag": "शूलिनि",
+      "swar_scale": "स रि 3 ग 3 म 1 प ध 2 नि 3 स'",
+      "chakra": "ऋतु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 36,
+      "rag": "चलनत",
+      "swar_scale": "स रि 3 ग 3 म 1 प ध 3 नि 3 स'",
+      "chakra": "ऋतु चक्र",
+      "madhyam": "शुद्ध मध्यम"
+    },
+    {
+      "rag_sankhya": 37,
+      "rag": "सालगं",
+      "swar_scale": "स रि 1 ग 1 म 2 प ध 1 नि 1 स'",
+      "chakra": "ऋषि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 38,
+      "rag": "जलार्णवं",
+      "swar_scale": "स रि 1 ग 1 म 2 प ध 1 नि 2 स'",
+      "chakra": "ऋषि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 39,
+      "rag": "झालवराळि",
+      "swar_scale": "स रि 1 ग 1 म 2 प ध 1 नि 3 स'",
+      "chakra": "ऋषि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 40,
+      "rag": "नवनीतं",
+      "swar_scale": "स रि 1 ग 1 म 2 प ध 2 नि 2 स'",
+      "chakra": "ऋषि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 41,
+      "rag": "पावनि",
+      "swar_scale": "स रि 1 ग 1 म 2 प ध 2 नि 3 स'",
+      "chakra": "ऋषि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 42,
+      "rag": "रघुप्रिय",
+      "swar_scale": "स रि 1 ग 1 म 2 प ध 3 नि 3 स'",
+      "chakra": "ऋषि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 43,
+      "rag": "गवांबोधि",
+      "swar_scale": "स रि 1 ग 2 म 2 प ध 1 नि 1 स'",
+      "chakra": "वसु चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 44,
+      "rag": "भवप्रिय",
+      "swar_scale": "स रि 1 ग 2 म 2 प ध 1 नि 2 स'",
+      "chakra": "वसु चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 45,
+      "rag": "शुभपंतुवराळि",
+      "swar_scale": "स रि 1 ग 2 म 2 प ध 1 नि 3 स'",
+      "chakra": "वसु चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 46,
+      "rag": "षड्विधमार्गिणि",
+      "swar_scale": "स रि 1 ग 2 म 2 प ध 2 नि 2 स'",
+      "chakra": "वसु चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 47,
+      "rag": "सुवर्णांगि",
+      "swar_scale": "स रि 1 ग 2 म 2 प ध 2 नि 3 स'",
+      "chakra": "वसु चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 48,
+      "rag": "दिव्यमणि",
+      "swar_scale": "स रि 1 ग 2 म 2 प ध 3 नि 3 स'",
+      "chakra": "वसु चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 49,
+      "rag": "धवळांबरि",
+      "swar_scale": "स रि 1 ग 3 म 2 प ध 1 नि 1 स'",
+      "chakra": "ब्रह्म चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 50,
+      "rag": "नामनारायणि",
+      "swar_scale": "स रि 1 ग 3 म 2 प ध 1 नि 2 स'",
+      "chakra": "ब्रह्म चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 51,
+      "rag": "कामवर्धनि",
+      "swar_scale": "स रि 1 ग 3 म 2 प ध 1 नि 3 स'",
+      "chakra": "ब्रह्म चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 52,
+      "rag": "रामप्रिय",
+      "swar_scale": "स रि 1 ग 3 म 2 प ध 2 नि 2 स'",
+      "chakra": "ब्रह्म चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 53,
+      "rag": "गमनाश्रम",
+      "swar_scale": "स रि 1 ग 3 म 2 प ध 2 नि 3 स'",
+      "chakra": "ब्रह्म चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 54,
+      "rag": "विश्वंबरि",
+      "swar_scale": "स रि 1 ग 3 म 2 प ध 3 नि 3 स'",
+      "chakra": "ब्रह्म चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 55,
+      "rag": "शामलांगि",
+      "swar_scale": "स रि 2 ग 2 म 2 प ध 1 नि 1 स'",
+      "chakra": "दिसि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 56,
+      "rag": "षण्मुखप्रिय",
+      "swar_scale": "स रि 2 ग 2 म 2 प ध 1 नि 2 स'",
+      "chakra": "दिसि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 57,
+      "rag": "सिंहेंद्रमध्यमं",
+      "swar_scale": "स रि 2 ग 2 म 2 प ध 1 नि 3 स'",
+      "chakra": "दिसि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 58,
+      "rag": "हेमावति",
+      "swar_scale": "स रि 2 ग 2 म 2 प ध 2 नि 2 स'",
+      "chakra": "दिसि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 59,
+      "rag": "धर्मावति",
+      "swar_scale": "स रि 2 ग 2 म 2 प ध 2 नि 3 स'",
+      "chakra": "दिसि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 60,
+      "rag": "नीतिमति",
+      "swar_scale": "स रि 2 ग 2 म 2 प ध 3 नि 3 स'",
+      "chakra": "दिसि चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 61,
+      "rag": "कांतामणि",
+      "swar_scale": "स रि 2 ग 3 म 2 प ध 1 नि 1 स'",
+      "chakra": "रुद्र चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 62,
+      "rag": "रिषभप्रिय",
+      "swar_scale": "स रि 2 ग 3 म 2 प ध 1 नि 2 स'",
+      "chakra": "रुद्र चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 63,
+      "rag": "लतांगि",
+      "swar_scale": "स रि 2 ग 3 म 2 प ध 1 नि 3 स'",
+      "chakra": "रुद्र चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 64,
+      "rag": "वाचस्पति",
+      "swar_scale": "स रि 2 ग 3 म 2 प ध 2 नि 2 स'",
+      "chakra": "रुद्र चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 65,
+      "rag": "मेचकळ्याणि",
+      "swar_scale": "स रि 2 ग 3 म 2 प ध 2 नि 3 स'",
+      "chakra": "रुद्र चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 66,
+      "rag": "चित्रांबरि",
+      "swar_scale": "स रि 2 ग 3 म 2 प ध 3 नि 3 स'",
+      "chakra": "रुद्र चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 67,
+      "rag": "सुचरित्र",
+      "swar_scale": "स रि 3 ग 3 म 2 प ध 1 नि 1 स'",
+      "chakra": "आदित्य चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 68,
+      "rag": "ज्योतिस्वरूपिणि",
+      "swar_scale": "स रि 3 ग 3 म 2 प ध 1 नि 2 स'",
+      "chakra": "आदित्य चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 69,
+      "rag": "धातुवर्धनि",
+      "swar_scale": "स रि 3 ग 3 म 2 प ध 1 नि 3 स'",
+      "chakra": "आदित्य चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 70,
+      "rag": "नासिकाभूषिणि",
+      "swar_scale": "स रि 3 ग 3 म 2 प ध 2 नि 2 स'",
+      "chakra": "आदित्य चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 71,
+      "rag": "कोसलं",
+      "swar_scale": "स रि 3 ग 3 म 2 प ध 2 नि 3 स'",
+      "chakra": "आदित्य चक्र",
+      "madhyam": "प्रति मध्यम"
+    },
+    {
+      "rag_sankhya": 72,
+      "rag": "रसिकप्रिय",
+      "swar_scale": "स रि 3 ग 3 म 2 प ध 3 नि 3 स'",
+      "chakra": "आदित्य चक्र",
+      "madhyam": "प्रति मध्यम"
+    }
+  ],
+  "meta": {
+    "title": "कर्नाटक संगीत के 72 मेलकर्ता राग - Free Download",
+    "description": "कर्नाटक शास्त्रीय संगीत के सभी 72 मेलकर्ता (जनक) राग – राग संख्या, नाम, स्वर-सप्तक (स्केल), चक्र और शुद्ध/प्रति मध्यम वर्गीकरण। Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "कर्नाटक संगीत के 72 मेलकर्ता राग | ListBase",
+    "seo_description": "Download कर्नाटक संगीत के 72 मेलकर्ता राग — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/मेलकर्ता"
+    ]
+  }
+}

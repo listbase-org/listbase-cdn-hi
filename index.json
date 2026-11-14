@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-14T02:16:41.418Z",
-  "total_datasets": 508,
-  "total_records": 2015423,
+  "generated": "2026-11-14T02:16:53.557Z",
+  "total_datasets": 509,
+  "total_records": 2015494,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -910,6 +910,30 @@
         "xlsx": {
           "name": "hi-filmfare-sarvashreshth-abhineta-puraskar_HI.xlsx",
           "size": 8991
+        }
+      }
+    },
+    {
+      "id": "hi-filmfare-sarvashreshth-nirdeshak-puraskar",
+      "name": "फ़िल्मफ़ेयर सर्वश्रेष्ठ निर्देशक पुरस्कार विजेता (1954–2024)",
+      "category": "entertainment",
+      "record_count": 71,
+      "columns": [
+        "varsh",
+        "nirdeshak",
+        "film"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_निर्देशक_पुरस्कार",
+      "updated": "2026-11",
+      "size": 12093,
+      "files": {
+        "csv": {
+          "name": "hi-filmfare-sarvashreshth-nirdeshak-puraskar_HI.csv",
+          "size": 5174
+        },
+        "xlsx": {
+          "name": "hi-filmfare-sarvashreshth-nirdeshak-puraskar_HI.xlsx",
+          "size": 9270
         }
       }
     },

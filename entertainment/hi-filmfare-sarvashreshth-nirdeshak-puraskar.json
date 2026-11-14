@@ -1,0 +1,396 @@
+{
+  "id": "hi-filmfare-sarvashreshth-nirdeshak-puraskar",
+  "name": "फ़िल्मफ़ेयर सर्वश्रेष्ठ निर्देशक पुरस्कार विजेता (1954–2024)",
+  "title": "फ़िल्मफ़ेयर सर्वश्रेष्ठ निर्देशक पुरस्कार विजेता (1954–2024)",
+  "description": "फ़िल्मफ़ेयर पुरस्कारों में सर्वश्रेष्ठ निर्देशक पुरस्कार के सभी विजेता, वर्ष और फ़िल्म सहित।",
+  "category": "entertainment",
+  "source": "https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_निर्देशक_पुरस्कार",
+  "source_url": "https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_निर्देशक_पुरस्कार",
+  "updated": "2026-11",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "varsh",
+      "label": "Varsh",
+      "type": "number"
+    },
+    {
+      "key": "nirdeshak",
+      "label": "Nirdeshak",
+      "type": "string"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "varsh": 1954,
+      "nirdeshak": "बिमल राय",
+      "film": "दो बीघा ज़मीन"
+    },
+    {
+      "varsh": 1955,
+      "nirdeshak": "बिमल राय",
+      "film": "बिराज बहू"
+    },
+    {
+      "varsh": 1956,
+      "nirdeshak": "बिमल राय",
+      "film": "परिणीता"
+    },
+    {
+      "varsh": 1957,
+      "nirdeshak": "वी शांताराम",
+      "film": "झनक झनक पायल बाजे"
+    },
+    {
+      "varsh": 1958,
+      "nirdeshak": "महबूब ख़ान",
+      "film": "मदर इण्डिया"
+    },
+    {
+      "varsh": 1959,
+      "nirdeshak": "बिमल राय",
+      "film": "मधुमती"
+    },
+    {
+      "varsh": 1960,
+      "nirdeshak": "बिमल राय",
+      "film": "सुजाता"
+    },
+    {
+      "varsh": 1961,
+      "nirdeshak": "बिमल राय",
+      "film": "परख"
+    },
+    {
+      "varsh": 1962,
+      "nirdeshak": "बी आर चोपड़ा",
+      "film": "कानून"
+    },
+    {
+      "varsh": 1963,
+      "nirdeshak": "अबरार अलवी",
+      "film": "साहिब बीबी और ग़ुलाम"
+    },
+    {
+      "varsh": 1964,
+      "nirdeshak": "बिमल राय",
+      "film": "बन्दिनी"
+    },
+    {
+      "varsh": 1965,
+      "nirdeshak": "राज कपूर",
+      "film": "संगम"
+    },
+    {
+      "varsh": 1966,
+      "nirdeshak": "यश चोपड़ा",
+      "film": "वक्त"
+    },
+    {
+      "varsh": 1967,
+      "nirdeshak": "विजय आनन्द",
+      "film": "गाइड"
+    },
+    {
+      "varsh": 1968,
+      "nirdeshak": "मनोज कुमार",
+      "film": "उपकार"
+    },
+    {
+      "varsh": 1969,
+      "nirdeshak": "रामानन्द सागर",
+      "film": "आँखें"
+    },
+    {
+      "varsh": 1970,
+      "nirdeshak": "यश चोपड़ा",
+      "film": "इत्तेफ़ाक़"
+    },
+    {
+      "varsh": 1971,
+      "nirdeshak": "असित सेन",
+      "film": "सफर"
+    },
+    {
+      "varsh": 1972,
+      "nirdeshak": "राज कपूर",
+      "film": "मेरा नाम जोकर"
+    },
+    {
+      "varsh": 1973,
+      "nirdeshak": "सोहनलाल कंवर",
+      "film": "बेईमान"
+    },
+    {
+      "varsh": 1974,
+      "nirdeshak": "यश चोपड़ा",
+      "film": "दाग"
+    },
+    {
+      "varsh": 1975,
+      "nirdeshak": "मनोज कुमार",
+      "film": "रोटी कपड़ा और मकान"
+    },
+    {
+      "varsh": 1976,
+      "nirdeshak": "यश चोपड़ा",
+      "film": "दीवार"
+    },
+    {
+      "varsh": 1977,
+      "nirdeshak": "गुलज़ार",
+      "film": "मौसम"
+    },
+    {
+      "varsh": 1978,
+      "nirdeshak": "बासु चटर्जी",
+      "film": "स्वामी"
+    },
+    {
+      "varsh": 1979,
+      "nirdeshak": "सत्यजित राय",
+      "film": "शतरंज के खिलाड़ी"
+    },
+    {
+      "varsh": 1980,
+      "nirdeshak": "श्याम बेनेगल",
+      "film": "जुनून"
+    },
+    {
+      "varsh": 1981,
+      "nirdeshak": "गोविन्द निहलानी",
+      "film": "आक्रोश"
+    },
+    {
+      "varsh": 1982,
+      "nirdeshak": "मुज़फ्फर अली",
+      "film": "उमराव जान"
+    },
+    {
+      "varsh": 1983,
+      "nirdeshak": "राज कपूर",
+      "film": "प्रेम रोग"
+    },
+    {
+      "varsh": 1984,
+      "nirdeshak": "गोविन्द निहलानी",
+      "film": "अर्द्ध सत्य"
+    },
+    {
+      "varsh": 1985,
+      "nirdeshak": "सई परांजपे",
+      "film": "स्पर्श"
+    },
+    {
+      "varsh": 1986,
+      "nirdeshak": "राज कपूर",
+      "film": "राम तेरी गंगा मैली"
+    },
+    {
+      "varsh": 1987,
+      "nirdeshak": "पुरस्कार नहीं",
+      "film": "पुरस्कार नहीं"
+    },
+    {
+      "varsh": 1988,
+      "nirdeshak": "पुरस्कार नहीं",
+      "film": "पुरस्कार नहीं"
+    },
+    {
+      "varsh": 1989,
+      "nirdeshak": "मंसूर ख़ान",
+      "film": "कयामत से कयामत तक"
+    },
+    {
+      "varsh": 1990,
+      "nirdeshak": "विधु विनोद चोपड़ा",
+      "film": "परिन्दा"
+    },
+    {
+      "varsh": 1991,
+      "nirdeshak": "राजकुमार सन्तोषी",
+      "film": "घायल"
+    },
+    {
+      "varsh": 1992,
+      "nirdeshak": "सुभाष घई",
+      "film": "सौदागर"
+    },
+    {
+      "varsh": 1993,
+      "nirdeshak": "मुकुल आनन्द",
+      "film": "ख़ुदागवाह"
+    },
+    {
+      "varsh": 1994,
+      "nirdeshak": "राजकुमार सन्तोषी",
+      "film": "दामिनी"
+    },
+    {
+      "varsh": 1995,
+      "nirdeshak": "सूरज बड़जात्या",
+      "film": "हम आपके हैं कौन"
+    },
+    {
+      "varsh": 1996,
+      "nirdeshak": "आदित्य चोपड़ा",
+      "film": "दिलवाले दुल्हनिया ले जायेंगे"
+    },
+    {
+      "varsh": 1997,
+      "nirdeshak": "शेखर कपूर",
+      "film": "बैन्डिट क्वीन"
+    },
+    {
+      "varsh": 1998,
+      "nirdeshak": "ज्योति प्रकाश दत्ता",
+      "film": "बॉर्डर"
+    },
+    {
+      "varsh": 1999,
+      "nirdeshak": "करण जौहर",
+      "film": "कुछ कुछ होता है"
+    },
+    {
+      "varsh": 2000,
+      "nirdeshak": "संजय लीला भंसाली",
+      "film": "हम दिल दे चुके सनम"
+    },
+    {
+      "varsh": 2001,
+      "nirdeshak": "राकेश रोशन",
+      "film": "कहो ना प्यार है"
+    },
+    {
+      "varsh": 2002,
+      "nirdeshak": "आशुतोष गोवरिकर",
+      "film": "लगान"
+    },
+    {
+      "varsh": 2003,
+      "nirdeshak": "संजय लीला भंसाली",
+      "film": "देवदास"
+    },
+    {
+      "varsh": 2004,
+      "nirdeshak": "राकेश रोशन",
+      "film": "कोई मिल गया"
+    },
+    {
+      "varsh": 2005,
+      "nirdeshak": "कुणाल कोहली",
+      "film": "हम तुम"
+    },
+    {
+      "varsh": 2006,
+      "nirdeshak": "संजय लीला भंसाली",
+      "film": "ब्लैक"
+    },
+    {
+      "varsh": 2007,
+      "nirdeshak": "राकेश ओमप्रकाश मेहरा",
+      "film": "रंग दे बसंती"
+    },
+    {
+      "varsh": 2008,
+      "nirdeshak": "आमिर ख़ान",
+      "film": "तारे ज़मीन पर"
+    },
+    {
+      "varsh": 2009,
+      "nirdeshak": "आशुतोष गोवरिकर",
+      "film": "जोधा अकबर"
+    },
+    {
+      "varsh": 2010,
+      "nirdeshak": "राजकुमार हिरानी",
+      "film": "३ ईडियट्स"
+    },
+    {
+      "varsh": 2011,
+      "nirdeshak": "करण जौहर",
+      "film": "माइ नेम इज़ ख़ान"
+    },
+    {
+      "varsh": 2012,
+      "nirdeshak": "ज़ोया अख़्तर",
+      "film": "ज़िन्दगी न मिलेगी दोबारा"
+    },
+    {
+      "varsh": 2013,
+      "nirdeshak": "सुजॉय घोष",
+      "film": "कहानी"
+    },
+    {
+      "varsh": 2014,
+      "nirdeshak": "राकेश ओमप्रकाश मेहरा",
+      "film": "भाग मिल्खा भाग"
+    },
+    {
+      "varsh": 2015,
+      "nirdeshak": "विकास बहल",
+      "film": "क्वीन"
+    },
+    {
+      "varsh": 2016,
+      "nirdeshak": "संजय लीला भंसाली",
+      "film": "बाजीराव मस्तानी"
+    },
+    {
+      "varsh": 2017,
+      "nirdeshak": "नितेश तिवारी",
+      "film": "दंगल"
+    },
+    {
+      "varsh": 2018,
+      "nirdeshak": "अश्विनी अय्यर तिवारी",
+      "film": "बरेली की बर्फी"
+    },
+    {
+      "varsh": 2019,
+      "nirdeshak": "मेघना गुलज़ार",
+      "film": "राज़ी"
+    },
+    {
+      "varsh": 2020,
+      "nirdeshak": "ज़ोया अख़्तर",
+      "film": "गली बॉय"
+    },
+    {
+      "varsh": 2021,
+      "nirdeshak": "ओम राउत",
+      "film": "ताण्हाजी"
+    },
+    {
+      "varsh": 2022,
+      "nirdeshak": "विष्णुवर्धन",
+      "film": "शेरशाह"
+    },
+    {
+      "varsh": 2023,
+      "nirdeshak": "संजय लीला भंसाली",
+      "film": "गंगूबाई काठियावाड़ी"
+    },
+    {
+      "varsh": 2024,
+      "nirdeshak": "विधु विनोद चोपड़ा",
+      "film": "12वीं फेल"
+    }
+  ],
+  "meta": {
+    "title": "फ़िल्मफ़ेयर सर्वश्रेष्ठ निर्देशक पुरस्कार विजेता (1954–2024) - Free Download",
+    "description": "फ़िल्मफ़ेयर पुरस्कारों में सर्वश्रेष्ठ निर्देशक पुरस्कार के सभी विजेता, वर्ष और फ़िल्म सहित। Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "फ़िल्मफ़ेयर सर्वश्रेष्ठ निर्देशक पुरस्कार विजेता (1954–2024) | ListBase",
+    "seo_description": "Download फ़िल्मफ़ेयर सर्वश्रेष्ठ निर्देशक पुरस्कार विजेता (1954–2024) — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_निर्देशक_पुरस्कार"
+    ]
+  }
+}

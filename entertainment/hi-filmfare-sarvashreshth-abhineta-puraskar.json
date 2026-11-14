@@ -1,0 +1,396 @@
+{
+  "id": "hi-filmfare-sarvashreshth-abhineta-puraskar",
+  "name": "फ़िल्मफ़ेयर सर्वश्रेष्ठ अभिनेता पुरस्कार विजेता (1954–2024)",
+  "title": "फ़िल्मफ़ेयर सर्वश्रेष्ठ अभिनेता पुरस्कार विजेता (1954–2024)",
+  "description": "फ़िल्मफ़ेयर पुरस्कारों में सर्वश्रेष्ठ अभिनेता पुरस्कार के सभी विजेता, वर्ष और फ़िल्म सहित।",
+  "category": "entertainment",
+  "source": "https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_अभिनेता_पुरस्कार",
+  "source_url": "https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_अभिनेता_पुरस्कार",
+  "updated": "2026-11",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "varsh",
+      "label": "Varsh",
+      "type": "number"
+    },
+    {
+      "key": "abhineta",
+      "label": "Abhineta",
+      "type": "string"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "varsh": 1954,
+      "abhineta": "दिलीप कुमार",
+      "film": "दाग"
+    },
+    {
+      "varsh": 1955,
+      "abhineta": "भारत भूषण",
+      "film": "श्री चैतन्य महाप्रभु"
+    },
+    {
+      "varsh": 1956,
+      "abhineta": "दिलीप कुमार",
+      "film": "आज़ाद"
+    },
+    {
+      "varsh": 1957,
+      "abhineta": "दिलीप कुमार",
+      "film": "देवदास"
+    },
+    {
+      "varsh": 1958,
+      "abhineta": "दिलीप कुमार",
+      "film": "नया दौर"
+    },
+    {
+      "varsh": 1959,
+      "abhineta": "देव आनंद",
+      "film": "काला पानी"
+    },
+    {
+      "varsh": 1960,
+      "abhineta": "राज कपूर",
+      "film": "अनाड़ी"
+    },
+    {
+      "varsh": 1961,
+      "abhineta": "दिलीप कुमार",
+      "film": "कोहिनूर"
+    },
+    {
+      "varsh": 1962,
+      "abhineta": "राज कपूर",
+      "film": "जिस देश में गंगा बहती है"
+    },
+    {
+      "varsh": 1963,
+      "abhineta": "अशोक कुमार",
+      "film": "राखी"
+    },
+    {
+      "varsh": 1964,
+      "abhineta": "सुनील दत्त",
+      "film": "मुझे जीने दो"
+    },
+    {
+      "varsh": 1965,
+      "abhineta": "दिलीप कुमार",
+      "film": "लीडर"
+    },
+    {
+      "varsh": 1966,
+      "abhineta": "सुनील दत्त",
+      "film": "खानदान"
+    },
+    {
+      "varsh": 1967,
+      "abhineta": "देव आनंद",
+      "film": "गाइड"
+    },
+    {
+      "varsh": 1968,
+      "abhineta": "दिलीप कुमार",
+      "film": "राम और श्याम"
+    },
+    {
+      "varsh": 1969,
+      "abhineta": "शम्मी कपूर",
+      "film": "ब्रह्मचारी"
+    },
+    {
+      "varsh": 1970,
+      "abhineta": "अशोक कुमार",
+      "film": "आशीर्वाद"
+    },
+    {
+      "varsh": 1972,
+      "abhineta": "राजेश खन्ना",
+      "film": "आनन्द"
+    },
+    {
+      "varsh": 1973,
+      "abhineta": "मनोज कुमार",
+      "film": "बेईमान"
+    },
+    {
+      "varsh": 1974,
+      "abhineta": "ऋषि कपूर",
+      "film": "बॉबी"
+    },
+    {
+      "varsh": 1975,
+      "abhineta": "राजेश खन्ना",
+      "film": "अविष्कार"
+    },
+    {
+      "varsh": 1976,
+      "abhineta": "संजीव कुमार",
+      "film": "आँधी"
+    },
+    {
+      "varsh": 1977,
+      "abhineta": "संजीव कुमार",
+      "film": "अर्जुन पंडित"
+    },
+    {
+      "varsh": 1977,
+      "abhineta": "राजेश खन्ना",
+      "film": "सच्चा झूठा"
+    },
+    {
+      "varsh": 1978,
+      "abhineta": "अमिताभ बच्चन",
+      "film": "अमर अकबर एन्थोनी"
+    },
+    {
+      "varsh": 1979,
+      "abhineta": "अमिताभ बच्चन",
+      "film": "डॉन"
+    },
+    {
+      "varsh": 1980,
+      "abhineta": "अमोल पालेकर",
+      "film": "गोल माल"
+    },
+    {
+      "varsh": 1981,
+      "abhineta": "नसीरुद्दीन शाह",
+      "film": "आक्रोश"
+    },
+    {
+      "varsh": 1982,
+      "abhineta": "नसीरुद्दीन शाह",
+      "film": "चक्र"
+    },
+    {
+      "varsh": 1983,
+      "abhineta": "दिलीप कुमार",
+      "film": "शक्ति"
+    },
+    {
+      "varsh": 1984,
+      "abhineta": "नसीरुद्दीन शाह",
+      "film": "मासूम"
+    },
+    {
+      "varsh": 1985,
+      "abhineta": "अनुपम खेर",
+      "film": "सारांश"
+    },
+    {
+      "varsh": 1986,
+      "abhineta": "कमल हसन",
+      "film": "सागर"
+    },
+    {
+      "varsh": 1987,
+      "abhineta": "पुरुस्कार समारोह आयोजित नहीं हुआ",
+      "film": ""
+    },
+    {
+      "varsh": 1988,
+      "abhineta": "पुरुस्कार समारोह आयोजित नहीं हुआ",
+      "film": ""
+    },
+    {
+      "varsh": 1989,
+      "abhineta": "अनिल कपूर",
+      "film": "तेज़ाब"
+    },
+    {
+      "varsh": 1990,
+      "abhineta": "जैकी श्रॉफ",
+      "film": "परिन्दा"
+    },
+    {
+      "varsh": 1991,
+      "abhineta": "सनी देओल",
+      "film": "घायल"
+    },
+    {
+      "varsh": 1992,
+      "abhineta": "अमिताभ बच्चन",
+      "film": "हम"
+    },
+    {
+      "varsh": 1993,
+      "abhineta": "अनिल कपूर",
+      "film": "बेटा"
+    },
+    {
+      "varsh": 1994,
+      "abhineta": "शाहरुख़ ख़ान",
+      "film": "बाज़ीगर"
+    },
+    {
+      "varsh": 1995,
+      "abhineta": "नाना पाटेकर",
+      "film": "क्रान्तिवीर"
+    },
+    {
+      "varsh": 1996,
+      "abhineta": "शाहरुख़ ख़ान",
+      "film": "दिलवाले दुल्हनिया ले जायेंगे"
+    },
+    {
+      "varsh": 1997,
+      "abhineta": "आमिर ख़ान",
+      "film": "राजा हिन्दुस्तानी"
+    },
+    {
+      "varsh": 1998,
+      "abhineta": "शाहरुख़ ख़ान",
+      "film": "दिल तो पागल है"
+    },
+    {
+      "varsh": 1999,
+      "abhineta": "शाहरुख़ ख़ान",
+      "film": "कुछ कुछ होता है"
+    },
+    {
+      "varsh": 2000,
+      "abhineta": "संजय दत्त",
+      "film": "वास्तव"
+    },
+    {
+      "varsh": 2001,
+      "abhineta": "ऋतिक रोशन",
+      "film": "कहो ना प्यार है"
+    },
+    {
+      "varsh": 2002,
+      "abhineta": "आमिर ख़ान",
+      "film": "लगान"
+    },
+    {
+      "varsh": 2003,
+      "abhineta": "शाहरुख़ ख़ान",
+      "film": "देवदास"
+    },
+    {
+      "varsh": 2004,
+      "abhineta": "ऋतिक रोशन",
+      "film": "कोई मिल गया"
+    },
+    {
+      "varsh": 2005,
+      "abhineta": "शाहरुख़ ख़ान",
+      "film": "स्वदेश"
+    },
+    {
+      "varsh": 2006,
+      "abhineta": "अमिताभ बच्चन",
+      "film": "ब्लैक"
+    },
+    {
+      "varsh": 2007,
+      "abhineta": "ऋतिक रोशन",
+      "film": "धूम 2"
+    },
+    {
+      "varsh": 2008,
+      "abhineta": "शाहरुख़ ख़ान",
+      "film": "चक दे इंडिया"
+    },
+    {
+      "varsh": 2009,
+      "abhineta": "ऋतिक रोशन",
+      "film": "जोधा अकबर"
+    },
+    {
+      "varsh": 2010,
+      "abhineta": "अमिताभ बच्चन",
+      "film": "पा"
+    },
+    {
+      "varsh": 2011,
+      "abhineta": "शाहरुख़ ख़ान",
+      "film": "माइ नेम इज़ ख़ान"
+    },
+    {
+      "varsh": 2012,
+      "abhineta": "रणबीर कपूर",
+      "film": "रॉकस्टार"
+    },
+    {
+      "varsh": 2013,
+      "abhineta": "रणबीर कपूर",
+      "film": "बर्फी!"
+    },
+    {
+      "varsh": 2014,
+      "abhineta": "फरहान अख्तर",
+      "film": "भाग मिल्खा भाग"
+    },
+    {
+      "varsh": 2015,
+      "abhineta": "शाहिद कपूर",
+      "film": "हैदर"
+    },
+    {
+      "varsh": 2016,
+      "abhineta": "रणवीर सिंह",
+      "film": "बाजीराव मस्तानी"
+    },
+    {
+      "varsh": 2017,
+      "abhineta": "आमिर ख़ान",
+      "film": "दंगल"
+    },
+    {
+      "varsh": 2018,
+      "abhineta": "इरफ़ान ख़ान",
+      "film": "हिंदी मीडियम"
+    },
+    {
+      "varsh": 2019,
+      "abhineta": "रणबीर कपूर",
+      "film": "संजू"
+    },
+    {
+      "varsh": 2020,
+      "abhineta": "रणवीर सिंह राणा",
+      "film": "गली बॉय"
+    },
+    {
+      "varsh": 2021,
+      "abhineta": "इरफ़ान ख़ान",
+      "film": "अंग्रेज़ी मीडियम"
+    },
+    {
+      "varsh": 2022,
+      "abhineta": "रणवीर सिंह",
+      "film": "83"
+    },
+    {
+      "varsh": 2023,
+      "abhineta": "राजकुमार राव",
+      "film": "बधाई दो"
+    },
+    {
+      "varsh": 2024,
+      "abhineta": "रणबीर कपूर",
+      "film": "एनिमल"
+    }
+  ],
+  "meta": {
+    "title": "फ़िल्मफ़ेयर सर्वश्रेष्ठ अभिनेता पुरस्कार विजेता (1954–2024) - Free Download",
+    "description": "फ़िल्मफ़ेयर पुरस्कारों में सर्वश्रेष्ठ अभिनेता पुरस्कार के सभी विजेता, वर्ष और फ़िल्म सहित। Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "फ़िल्मफ़ेयर सर्वश्रेष्ठ अभिनेता पुरस्कार विजेता (1954–2024) | ListBase",
+    "seo_description": "Download फ़िल्मफ़ेयर सर्वश्रेष्ठ अभिनेता पुरस्कार विजेता (1954–2024) — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/फ़िल्मफ़ेयर_सर्वश्रेष्ठ_अभिनेता_पुरस्कार"
+    ]
+  }
+}

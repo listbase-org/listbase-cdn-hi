@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-15T02:26:24.502Z",
-  "total_datasets": 511,
-  "total_records": 2015586,
+  "generated": "2026-11-15T02:26:36.616Z",
+  "total_datasets": 512,
+  "total_records": 2015840,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -7692,6 +7692,32 @@
         "xlsx": {
           "name": "hi-karnatak-sangeet-melakarta-rag_HI.xlsx",
           "size": 9574
+        }
+      }
+    },
+    {
+      "id": "hi-sangeet-natak-akademi-puraskar-prapt-kalakar",
+      "name": "संगीत नाटक अकादमी पुरस्कार प्राप्त कलाकार",
+      "category": "music",
+      "record_count": 254,
+      "columns": [
+        "naam",
+        "puraskar_varsh",
+        "vyavsay",
+        "janm_varsh",
+        "wikidata_id"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q7417921",
+      "updated": "2026-11",
+      "size": 66554,
+      "files": {
+        "csv": {
+          "name": "hi-sangeet-natak-akademi-puraskar-prapt-kalakar_HI.csv",
+          "size": 35811
+        },
+        "xlsx": {
+          "name": "hi-sangeet-natak-akademi-puraskar-prapt-kalakar_HI.xlsx",
+          "size": 19834
         }
       }
     },

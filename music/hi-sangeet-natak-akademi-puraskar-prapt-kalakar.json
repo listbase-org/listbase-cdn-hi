@@ -1,0 +1,1829 @@
+{
+  "id": "hi-sangeet-natak-akademi-puraskar-prapt-kalakar",
+  "name": "संगीत नाटक अकादमी पुरस्कार प्राप्त कलाकार",
+  "title": "संगीत नाटक अकादमी पुरस्कार प्राप्त कलाकार",
+  "description": "संगीत, नृत्य और रंगमंच के लिए भारत के राष्ट्रीय सम्मान संगीत नाटक अकादमी पुरस्कार से सम्मानित कलाकारों की सूची — पुरस्कार वर्ष (जहाँ उपलब्ध), व्यवसाय और जन्म वर्ष सहित (विकिडेटा से)।",
+  "category": "music",
+  "source": "https://www.wikidata.org/wiki/Q7417921",
+  "source_url": "https://www.wikidata.org/wiki/Q7417921",
+  "updated": "2026-11",
+  "record_count": 254,
+  "columns": [
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "puraskar_varsh",
+      "label": "Puraskar Varsh",
+      "type": "number"
+    },
+    {
+      "key": "vyavsay",
+      "label": "Vyavsay",
+      "type": "string"
+    },
+    {
+      "key": "janm_varsh",
+      "label": "Janm Varsh",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naam": "सेमंगुडी श्रीनिवास अय्यर",
+      "puraskar_varsh": 1953,
+      "vyavsay": "गायक",
+      "janm_varsh": 1908,
+      "wikidata_id": "Q3525273"
+    },
+    {
+      "naam": "निमाइंं चरण हरिचंदन",
+      "puraskar_varsh": 1954,
+      "vyavsay": "अभिनयशिल्पी, गायक",
+      "janm_varsh": 1901,
+      "wikidata_id": "Q15724412"
+    },
+    {
+      "naam": "बालासरस्वती",
+      "puraskar_varsh": 1955,
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1918,
+      "wikidata_id": "Q3522332"
+    },
+    {
+      "naam": "एम. एस. सुब्बुलक्ष्मी",
+      "puraskar_varsh": 1956,
+      "vyavsay": "गायक, फिल्म अभिनेता",
+      "janm_varsh": 1916,
+      "wikidata_id": "Q465067"
+    },
+    {
+      "naam": "जे भुधारदास भोजक",
+      "puraskar_varsh": 1957,
+      "vyavsay": "मंच अभिनेता, नाटक दिग्दर्शक",
+      "janm_varsh": 1889,
+      "wikidata_id": "Q2757515"
+    },
+    {
+      "naam": "देबाकी बॉस",
+      "puraskar_varsh": 1957,
+      "vyavsay": "पटकथा लेखक, अभिनयशिल्पी, लेखक, फ़िल्म निर्देशक, निदेशक, फिल्म अभिनेता",
+      "janm_varsh": 1898,
+      "wikidata_id": "Q961618"
+    },
+    {
+      "naam": "रुक्मिणी देवी अरुंडेल",
+      "puraskar_varsh": 1957,
+      "vyavsay": "राजनीतिज्ञ, नर्तक / नर्तकी",
+      "janm_varsh": 1904,
+      "wikidata_id": "Q465021"
+    },
+    {
+      "naam": "सी वैद्यनाथ भगवतार",
+      "puraskar_varsh": 1958,
+      "vyavsay": "गायक",
+      "janm_varsh": 1896,
+      "wikidata_id": "Q3537017"
+    },
+    {
+      "naam": "अशोक कुमार",
+      "puraskar_varsh": 1959,
+      "vyavsay": "अभिनयशिल्पी, गायक, फ़िल्म निर्देशक, फ़िल्म निर्माता",
+      "janm_varsh": 1911,
+      "wikidata_id": "Q3899724"
+    },
+    {
+      "naam": "सत्यजित राय",
+      "puraskar_varsh": 1959,
+      "vyavsay": "पत्रकार, फ़िल्म निर्माता, बच्चों के लेखक, फिल्म संपादक, पटकथा लेखक, लेखक, संगीत रचयिता, कवि, छायाकार, गीतकार, चित्रकार, फ़िल्म निर्देशक, फिल्म निर्माता",
+      "janm_varsh": 1921,
+      "wikidata_id": "Q8873"
+    },
+    {
+      "naam": "ललिता पवार",
+      "puraskar_varsh": 1961,
+      "vyavsay": "फिल्म अभिनेता",
+      "janm_varsh": 1916,
+      "wikidata_id": "Q6480391"
+    },
+    {
+      "naam": "वी। सत्यनारायण शर्मा",
+      "puraskar_varsh": 1961,
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q26502028"
+    },
+    {
+      "naam": "इब्राहीम अलकाजी",
+      "puraskar_varsh": 1962,
+      "vyavsay": "नाटक दिग्दर्शक, कला संग्राहक",
+      "janm_varsh": 1925,
+      "wikidata_id": "Q4561156"
+    },
+    {
+      "naam": "डी के पट्टम्माल",
+      "puraskar_varsh": 1962,
+      "vyavsay": "गायक",
+      "janm_varsh": 1919,
+      "wikidata_id": "Q464887"
+    },
+    {
+      "naam": "तृप्ति मित्रा",
+      "puraskar_varsh": 1962,
+      "vyavsay": "अभिनयशिल्पी",
+      "janm_varsh": 1925,
+      "wikidata_id": "Q7843807"
+    },
+    {
+      "naam": "रवि शंकर",
+      "puraskar_varsh": 1962,
+      "vyavsay": "संगीत रचयिता, गायक, राजनीतिज्ञ, संचालक, संगीतकार, फ़िल्म निर्देशक",
+      "janm_varsh": 1920,
+      "wikidata_id": "Q103774"
+    },
+    {
+      "naam": "ज़ोहरा सहगल",
+      "puraskar_varsh": 1963,
+      "vyavsay": "अभिनयशिल्पी, मंच अभिनेता, नृत्य-परिकल्पक, नर्तक / नर्तकी, टेलीविज़न अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1912,
+      "wikidata_id": "Q143896"
+    },
+    {
+      "naam": "बिरजू महाराज",
+      "puraskar_varsh": 1964,
+      "vyavsay": "संगीत रचयिता, गायक, नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q2723731"
+    },
+    {
+      "naam": "पुरुषोत्तम लक्षमण देशपांडे",
+      "puraskar_varsh": 1967,
+      "vyavsay": "पटकथा लेखक, लेखक, अभिनयशिल्पी, संगीत रचयिता, कवि, नाटककार, फ़िल्म निर्देशक",
+      "janm_varsh": 1919,
+      "wikidata_id": "Q3595161"
+    },
+    {
+      "naam": "दमयंती जोशी",
+      "puraskar_varsh": 1968,
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q5212067"
+    },
+    {
+      "naam": "सुधांग्शु सिंग डीओ",
+      "puraskar_varsh": 1968,
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q16346877"
+    },
+    {
+      "naam": "शांता राव",
+      "puraskar_varsh": 1970,
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q16017890"
+    },
+    {
+      "naam": "गिरीश कर्नाड",
+      "puraskar_varsh": 1972,
+      "vyavsay": "पटकथा लेखक, लेखक, अभिनयशिल्पी, नाटककार, मंच अभिनेता, फ़िल्म निर्देशक, फिल्म अभिनेता",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q3518444"
+    },
+    {
+      "naam": "गंगूबाई हंगल",
+      "puraskar_varsh": 1973,
+      "vyavsay": "गायक, गीतकार",
+      "janm_varsh": 1913,
+      "wikidata_id": "Q731422"
+    },
+    {
+      "naam": "विजया मेहता",
+      "puraskar_varsh": 1975,
+      "vyavsay": "पटकथा लेखक, अभिनयशिल्पी, मंच अभिनेता, फ़िल्म निर्देशक, निदेशक, टेलीविज़न अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1934,
+      "wikidata_id": "Q540297"
+    },
+    {
+      "naam": "के. वी. नारायणस्वामी",
+      "puraskar_varsh": 1976,
+      "vyavsay": "संगीत रचयिता",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q15493252"
+    },
+    {
+      "naam": "देबा प्रसाद दास",
+      "puraskar_varsh": 1977,
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q18811006"
+    },
+    {
+      "naam": "अमरीश पुरी",
+      "puraskar_varsh": 1979,
+      "vyavsay": "अभिनयशिल्पी, मंच अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q333443"
+    },
+    {
+      "naam": "दीना पाठक",
+      "puraskar_varsh": 1980,
+      "vyavsay": "अभिनयशिल्पी",
+      "janm_varsh": 1922,
+      "wikidata_id": "Q5277861"
+    },
+    {
+      "naam": "झिया मोहिउद्दीन डागर",
+      "puraskar_varsh": 1981,
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q8071293"
+    },
+    {
+      "naam": "उस्ताद अल्ला रक्खा",
+      "puraskar_varsh": 1982,
+      "vyavsay": "संगीत रचयिता, संगीतकार",
+      "janm_varsh": 1919,
+      "wikidata_id": "Q1392049"
+    },
+    {
+      "naam": "गंभीर सिंह मूरा",
+      "puraskar_varsh": 1982,
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q20684899"
+    },
+    {
+      "naam": "वैजयन्ती माला",
+      "puraskar_varsh": 1982,
+      "vyavsay": "अभिनयशिल्पी, राजनीतिज्ञ, नृत्य-परिकल्पक, फिल्म अभिनेता",
+      "janm_varsh": 1936,
+      "wikidata_id": "Q467977"
+    },
+    {
+      "naam": "शीला भाटिया",
+      "puraskar_varsh": 1982,
+      "vyavsay": "लेखक, कवि, नाटककार",
+      "janm_varsh": 1916,
+      "wikidata_id": "Q20065157"
+    },
+    {
+      "naam": "कोवलम नारायण पणिकर",
+      "puraskar_varsh": 1983,
+      "vyavsay": "कवि, नाटककार, गीतकार, नाटक दिग्दर्शक",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q3595318"
+    },
+    {
+      "naam": "पद्मा सुब्रह्मण्यम",
+      "puraskar_varsh": 1983,
+      "vyavsay": "नृत्य-परिकल्पक, संगीतशास्त्रज्ञ",
+      "janm_varsh": 1943,
+      "wikidata_id": "Q3360365"
+    },
+    {
+      "naam": "उत्तरा बाओकर",
+      "puraskar_varsh": 1984,
+      "vyavsay": "मंच अभिनेता, टेलीविज़न अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1944,
+      "wikidata_id": "Q7903368"
+    },
+    {
+      "naam": "किशोरी आमोनकर",
+      "puraskar_varsh": 1985,
+      "vyavsay": "गायक",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q2117321"
+    },
+    {
+      "naam": "मनोज मित्र",
+      "puraskar_varsh": 1985,
+      "vyavsay": "नाटककार, मंच अभिनेता, नाटक दिग्दर्शक, फिल्म अभिनेता",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q6751180"
+    },
+    {
+      "naam": "अनिल विश्वास",
+      "puraskar_varsh": 1986,
+      "vyavsay": "अभिनयशिल्पी, संगीत रचयिता",
+      "janm_varsh": 1914,
+      "wikidata_id": "Q3351806"
+    },
+    {
+      "naam": "एलेक पद्मसी",
+      "puraskar_varsh": 1986,
+      "vyavsay": "नाटक दिग्दर्शक, मंच अभिनेता",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q4738699"
+    },
+    {
+      "naam": "शरण रानी",
+      "puraskar_varsh": 1986,
+      "vyavsay": "संगीत अध्यापक",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q7489402"
+    },
+    {
+      "naam": "शिवकुमार शर्मा",
+      "puraskar_varsh": 1986,
+      "vyavsay": "संगीत रचयिता",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q1391960"
+    },
+    {
+      "naam": "साबरी खान",
+      "puraskar_varsh": 1986,
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q7396383"
+    },
+    {
+      "naam": "जसराज",
+      "puraskar_varsh": 1987,
+      "vyavsay": "गायक",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q2426558"
+    },
+    {
+      "naam": "सुरेश दत्ता",
+      "puraskar_varsh": 1987,
+      "vyavsay": "",
+      "janm_varsh": 1934,
+      "wikidata_id": "Q23762607"
+    },
+    {
+      "naam": "सुलभा देशपांडे",
+      "puraskar_varsh": 1987,
+      "vyavsay": "फ़िल्म निर्देशक, नाटक दिग्दर्शक, टेलीविज़न अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q3633188"
+    },
+    {
+      "naam": "धर्मवीर भारती",
+      "puraskar_varsh": 1988,
+      "vyavsay": "कवि, नाटककार, पत्रकार, शैक्षणिक व्यक्ती, उपन्यासकार, लघुकथा लेखक",
+      "janm_varsh": 1926,
+      "wikidata_id": "Q283267"
+    },
+    {
+      "naam": "वनराज भाटिया",
+      "puraskar_varsh": 1989,
+      "vyavsay": "संगीत रचयिता, सन्ग्गीत निर्देशक",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q15486048"
+    },
+    {
+      "naam": "सुरेखा सीकरी",
+      "puraskar_varsh": 1989,
+      "vyavsay": "मंच अभिनेता, टेलीविज़न अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1945,
+      "wikidata_id": "Q1290010"
+    },
+    {
+      "naam": "कलानिधि नारायणन",
+      "puraskar_varsh": 1990,
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q6350587"
+    },
+    {
+      "naam": "ज़ाकिर हुसैन (संगीतकार)",
+      "puraskar_varsh": 1990,
+      "vyavsay": "अभिनयशिल्पी, संगीत रचयिता, रिकार्ड निर्माता, संगीतकार, डीजे निर्माता, फिल्म अभिनेता, जैज संगीतकार",
+      "janm_varsh": 1951,
+      "wikidata_id": "Q144719"
+    },
+    {
+      "naam": "नसीरुद्दीन शाह",
+      "puraskar_varsh": 1990,
+      "vyavsay": "मंच अभिनेता, फ़िल्म निर्देशक, फिल्म अभिनेता",
+      "janm_varsh": 1950,
+      "wikidata_id": "Q469945"
+    },
+    {
+      "naam": "लक्ष्मीनारायण सुब्रह्मण्यम",
+      "puraskar_varsh": 1990,
+      "vyavsay": "संगीत रचयिता, संचालक, संगीतकार, फिल्म स्कोर संगीतकार",
+      "janm_varsh": 1947,
+      "wikidata_id": "Q571598"
+    },
+    {
+      "naam": "अन्नपूर्णा देवी",
+      "puraskar_varsh": 1991,
+      "vyavsay": "संगीतकार, संगीत अध्यापक",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q2440940"
+    },
+    {
+      "naam": "सुनील कोठारी",
+      "puraskar_varsh": 1995,
+      "vyavsay": "कला इतिहासकार, कला समीक्षक",
+      "janm_varsh": 1933,
+      "wikidata_id": "Q7640313"
+    },
+    {
+      "naam": "प्रियंवदा मोहंती हेजमादी",
+      "puraskar_varsh": 1996,
+      "vyavsay": "लेखक, प्राध्यापक, जीव विज्ञानी, चित्रकार, कला इतिहासकार, नर्तक / नर्तकी",
+      "janm_varsh": 1939,
+      "wikidata_id": "Q21598196"
+    },
+    {
+      "naam": "बलवंत गार्गी",
+      "puraskar_varsh": 1998,
+      "vyavsay": "लेखक, नाटककार, फ़िल्म निर्माता, नाटक दिग्दर्शक",
+      "janm_varsh": 1916,
+      "wikidata_id": "Q4853130"
+    },
+    {
+      "naam": "सौमित्र चटर्जी",
+      "puraskar_varsh": 1998,
+      "vyavsay": "अभिनयशिल्पी, लेखक, संगीत रचयिता, कवि, मंच अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q1968297"
+    },
+    {
+      "naam": "पंडित शंकर घोष",
+      "puraskar_varsh": 2000,
+      "vyavsay": "संगीत रचयिता, संगीतकार, संगीत अध्यापक",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q7488687"
+    },
+    {
+      "naam": "मल्लिका साराभाई",
+      "puraskar_varsh": 2000,
+      "vyavsay": "अभिनयशिल्पी, राजनीतिज्ञ, गायक, मानवाधिकार कार्यकर्ता, फ़िल्म निर्देशक, नर्तक / नर्तकी, कार्यकर्ता",
+      "janm_varsh": 1954,
+      "wikidata_id": "Q3518417"
+    },
+    {
+      "naam": "मिनति मिश्र",
+      "puraskar_varsh": 2000,
+      "vyavsay": "अभिनयशिल्पी, नर्तक / नर्तकी",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q15725027"
+    },
+    {
+      "naam": "दया प्रकाश सिन्हा",
+      "puraskar_varsh": 2001,
+      "vyavsay": "अभिनयशिल्पी, लेखक, नाटककार",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q12433307"
+    },
+    {
+      "naam": "गुलाम मुस्तफ़ा खान",
+      "puraskar_varsh": 2003,
+      "vyavsay": "संगीत रचयिता, गायक, कवि, संगीत अध्यापक",
+      "janm_varsh": 1931,
+      "wikidata_id": "Q5557645"
+    },
+    {
+      "naam": "रत्नाकर मटकरी",
+      "puraskar_varsh": 2003,
+      "vyavsay": "लेखक, नाटककार, फ़िल्म निर्देशक, निदेशक",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q7295860"
+    },
+    {
+      "naam": "शाओली मित्रा",
+      "puraskar_varsh": 2003,
+      "vyavsay": "अभिनयशिल्पी, नाटककार, नाटक दिग्दर्शक",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q7489164"
+    },
+    {
+      "naam": "शशधर आचार्य",
+      "puraskar_varsh": 2004,
+      "vyavsay": "",
+      "janm_varsh": 1960,
+      "wikidata_id": "Q83977528"
+    },
+    {
+      "naam": "hetal mehta",
+      "puraskar_varsh": 2007,
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1942,
+      "wikidata_id": "Q6963178"
+    },
+    {
+      "naam": "खय्याम",
+      "puraskar_varsh": 2007,
+      "vyavsay": "संगीत रचयिता, सन्ग्गीत निर्देशक",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q3632994"
+    },
+    {
+      "naam": "परासाला बी पोन्नममल",
+      "puraskar_varsh": 2009,
+      "vyavsay": "गायक, व्याख्याता",
+      "janm_varsh": 1924,
+      "wikidata_id": "Q16134032"
+    },
+    {
+      "naam": "आतमजीत",
+      "puraskar_varsh": 2010,
+      "vyavsay": "लेखक, नाटककार",
+      "janm_varsh": "",
+      "wikidata_id": "Q20605381"
+    },
+    {
+      "naam": "यू। श्रीनिवास",
+      "puraskar_varsh": 2010,
+      "vyavsay": "संगीत रचयिता, संगीतकार, संगीत अध्यापक",
+      "janm_varsh": 1969,
+      "wikidata_id": "Q2038634"
+    },
+    {
+      "naam": "गोपाल चंद्र पंडा",
+      "puraskar_varsh": 2011,
+      "vyavsay": "लेखक, संगीत रचयिता, कवि, गायक, संगीतकार, संगीतशास्त्रज्ञ",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q86952094"
+    },
+    {
+      "naam": "तनुश्री शंकर",
+      "puraskar_varsh": 2011,
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1956,
+      "wikidata_id": "Q7683926"
+    },
+    {
+      "naam": "विक्रम गोखले",
+      "puraskar_varsh": 2011,
+      "vyavsay": "मंच अभिनेता, फ़िल्म निर्देशक, टेलीविज़न अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1945,
+      "wikidata_id": "Q3633308"
+    },
+    {
+      "naam": "सुधाकर साहू",
+      "puraskar_varsh": 2014,
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q18943405"
+    },
+    {
+      "naam": "जन्मेजय साईबाबू",
+      "puraskar_varsh": 2017,
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q55496298"
+    },
+    {
+      "naam": "हेम चंद्र गोस्वामी",
+      "puraskar_varsh": 2018,
+      "vyavsay": "",
+      "janm_varsh": 1958,
+      "wikidata_id": "Q116452739"
+    },
+    {
+      "naam": "abdul halim jaffer khan",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q4665379"
+    },
+    {
+      "naam": "m. venkatesh kumar",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1953,
+      "wikidata_id": "Q7130672"
+    },
+    {
+      "naam": "अजय पोहनकर",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q1705928"
+    },
+    {
+      "naam": "अब्दुल रशीद खान",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, गायक",
+      "janm_varsh": 1908,
+      "wikidata_id": "Q4665670"
+    },
+    {
+      "naam": "अमजद अली ख़ान",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, संगीतकार",
+      "janm_varsh": 1945,
+      "wikidata_id": "Q2748525"
+    },
+    {
+      "naam": "अमल अल्लाना",
+      "puraskar_varsh": "",
+      "vyavsay": "नाटक दिग्दर्शक",
+      "janm_varsh": 1947,
+      "wikidata_id": "Q4739181"
+    },
+    {
+      "naam": "अरुणा मोहंती",
+      "puraskar_varsh": "",
+      "vyavsay": "चित्रकार, कलाकार, नर्तक / नर्तकी",
+      "janm_varsh": 1960,
+      "wikidata_id": "Q15723654"
+    },
+    {
+      "naam": "अरुन्दथि नाग",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, फ़िल्म निर्देशक, टेलीविज़न अभिनेता",
+      "janm_varsh": 1956,
+      "wikidata_id": "Q4802220"
+    },
+    {
+      "naam": "अरैकुडी रामानुज अयंगार",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1890,
+      "wikidata_id": "Q3530897"
+    },
+    {
+      "naam": "अलारमेल वल्ली",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक",
+      "janm_varsh": 1956,
+      "wikidata_id": "Q4708395"
+    },
+    {
+      "naam": "अल्लाह जिलाई बाई",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1902,
+      "wikidata_id": "Q4730300"
+    },
+    {
+      "naam": "असगरी बाई",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1918,
+      "wikidata_id": "Q4804268"
+    },
+    {
+      "naam": "असद अली खान",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q2744425"
+    },
+    {
+      "naam": "अस्ताद देबू",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1947,
+      "wikidata_id": "Q4810506"
+    },
+    {
+      "naam": "अहमद जान थिरकवा खान",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता",
+      "janm_varsh": 1892,
+      "wikidata_id": "Q401336"
+    },
+    {
+      "naam": "आशिष खान देबशर्मा",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, संगीतकार",
+      "janm_varsh": 1939,
+      "wikidata_id": "Q4662723"
+    },
+    {
+      "naam": "इंदिरा पार्थसारथी",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q6025066"
+    },
+    {
+      "naam": "इंदिरा पी. पी. बोरा",
+      "puraskar_varsh": "",
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1943,
+      "wikidata_id": "Q95719820"
+    },
+    {
+      "naam": "इंद्रानी रहमान",
+      "puraskar_varsh": "",
+      "vyavsay": "नर्तक / नर्तकी, संगीत अध्यापक, सौंदर्य प्रतियोगिता प्रतियोगी",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q6026939"
+    },
+    {
+      "naam": "इलैयाराजा",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, अभिनयशिल्पी, संगीत रचयिता, गायक, संगीतकार, सन्ग्गीत निर्देशक, फिल्म स्कोर संगीतकार",
+      "janm_varsh": 1943,
+      "wikidata_id": "Q2720141"
+    },
+    {
+      "naam": "ईचम्पति गायत्री",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1959,
+      "wikidata_id": "Q2117005"
+    },
+    {
+      "naam": "उत्पल दत्त",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, अभिनयशिल्पी, लेखक, नाटककार, फ़िल्म निर्देशक, निदेशक",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q2723876"
+    },
+    {
+      "naam": "उदय शंकर",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, अभिनयशिल्पी, नृत्य-परिकल्पक, फ़िल्म निर्देशक, नर्तक / नर्तकी",
+      "janm_varsh": 1900,
+      "wikidata_id": "Q3351708"
+    },
+    {
+      "naam": "उपेन्द्रनाथ अश्क",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, नाटककार",
+      "janm_varsh": 1910,
+      "wikidata_id": "Q2804726"
+    },
+    {
+      "naam": "उमा रामा राव",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q7881026"
+    },
+    {
+      "naam": "उस्ताद अमीर खान",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक, संगीतकार",
+      "janm_varsh": 1912,
+      "wikidata_id": "Q2843494"
+    },
+    {
+      "naam": "उस्ताद अलाउद्दीन खान",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, संगीतकार, संगीत अध्यापक",
+      "janm_varsh": 1881,
+      "wikidata_id": "Q2837826"
+    },
+    {
+      "naam": "उस्ताद नसीर अमीनुद्दीन डागर",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q4746480"
+    },
+    {
+      "naam": "उस्ताद बिस्मिल्ला ख़ाँन",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1916,
+      "wikidata_id": "Q379707"
+    },
+    {
+      "naam": "उस्ताद हाफिज़ अली खाँ",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत अध्यापक",
+      "janm_varsh": 1888,
+      "wikidata_id": "Q5638364"
+    },
+    {
+      "naam": "ऊषा गांगुली",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, फ़िल्म निर्देशक",
+      "janm_varsh": 1945,
+      "wikidata_id": "Q7901876"
+    },
+    {
+      "naam": "एन एस राजहंस बालगंधर्व",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक, अभिनयशिल्पी, संगीत रचयिता",
+      "janm_varsh": 1888,
+      "wikidata_id": "Q3629911"
+    },
+    {
+      "naam": "एम एस सथ्यू",
+      "puraskar_varsh": "",
+      "vyavsay": "कला निर्देशन, फ़िल्म निर्देशक",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q6713109"
+    },
+    {
+      "naam": "एम के रैना",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, निदेशक, टेलीविज़न अभिनेता",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q15215273"
+    },
+    {
+      "naam": "एम डी रामानाथन",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q6712517"
+    },
+    {
+      "naam": "एम. बालामुरलीकृष्ण",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, संगीत रचयिता, कवि, गायक, संगीतकार, पार्श्वगायक, सन्ग्गीत निर्देशक",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q2880506"
+    },
+    {
+      "naam": "एमानी संस्कारा सासत्रि",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1922,
+      "wikidata_id": "Q5369003"
+    },
+    {
+      "naam": "ओमकारनाथ ठाकुर",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक, संगीतशास्त्रज्ञ, संगीत अध्यापक",
+      "janm_varsh": 1897,
+      "wikidata_id": "Q3595296"
+    },
+    {
+      "naam": "कनक रेले",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q6360346"
+    },
+    {
+      "naam": "कलामंडलम सिवन नंबूदिरी",
+      "puraskar_varsh": "",
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1950,
+      "wikidata_id": "Q17466540"
+    },
+    {
+      "naam": "कलामण्डलम सत्यभामा",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q17495874"
+    },
+    {
+      "naam": "किशन महाराज",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q3634007"
+    },
+    {
+      "naam": "कुदुवायूर शिवराम नारायण स्वामी",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1914,
+      "wikidata_id": "Q6323948"
+    },
+    {
+      "naam": "कुम उमा शर्मा",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1942,
+      "wikidata_id": "Q6443349"
+    },
+    {
+      "naam": "कुमुदिनी लाखीया",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q6444075"
+    },
+    {
+      "naam": "के वी सुब्बण्ण",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q3536870"
+    },
+    {
+      "naam": "के. जे. येशुदास",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, गायक, पार्श्वगायक",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q2051849"
+    },
+    {
+      "naam": "केलुचरण महापात्र",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, फ़िल्म निर्देशक, नर्तक / नर्तकी",
+      "janm_varsh": 1926,
+      "wikidata_id": "Q3503124"
+    },
+    {
+      "naam": "केसरबाई केरकर",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1892,
+      "wikidata_id": "Q3630917"
+    },
+    {
+      "naam": "के॰पी॰ उदयभानु",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक, सन्ग्गीत निर्देशक",
+      "janm_varsh": 1936,
+      "wikidata_id": "Q13111490"
+    },
+    {
+      "naam": "खदीम हुसैन खान",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1907,
+      "wikidata_id": "Q6398912"
+    },
+    {
+      "naam": "गंगाधर प्रधान",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q5521023"
+    },
+    {
+      "naam": "गजानन दिगंबर माडगूलकर",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, अभिनयशिल्पी, लेखक, कवि",
+      "janm_varsh": 1919,
+      "wikidata_id": "Q882041"
+    },
+    {
+      "naam": "गिरिजा देवी",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q3107617"
+    },
+    {
+      "naam": "गीता महालिक",
+      "puraskar_varsh": "",
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q17627252"
+    },
+    {
+      "naam": "गुब्बी वीरन्ना",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, फ़िल्म निर्माता, फिल्म अभिनेता",
+      "janm_varsh": 1890,
+      "wikidata_id": "Q5614430"
+    },
+    {
+      "naam": "गोविंद पुरुषोत्तम देशपांडे",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, भाषाविद",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q5589858"
+    },
+    {
+      "naam": "घनकांत बोरा",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": "",
+      "wikidata_id": "Q5555485"
+    },
+    {
+      "naam": "चंद्रलेखा (नर्तकी)",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q539901"
+    },
+    {
+      "naam": "चंद्रवदन चिमनलाल मेहता",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, आत्मकथाकार",
+      "janm_varsh": 1901,
+      "wikidata_id": "Q2733275"
+    },
+    {
+      "naam": "चिंतामन रघुनाथ व्यास",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1924,
+      "wikidata_id": "Q5006796"
+    },
+    {
+      "naam": "छबि बिस्वास",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, मंच अभिनेता, निदेशक, फिल्म अभिनेता",
+      "janm_varsh": 1900,
+      "wikidata_id": "Q735081"
+    },
+    {
+      "naam": "ज़िया फ़रीदुद्दीन डागर",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक, संगीत अध्यापक",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q8071287"
+    },
+    {
+      "naam": "जितेंद्र अभिषेकी",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, संगीत रचयिता, गायक",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q6203251"
+    },
+    {
+      "naam": "ज्योत्सना केशव भोले",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, गायक",
+      "janm_varsh": 1914,
+      "wikidata_id": "Q13377728"
+    },
+    {
+      "naam": "टी वी गोपालकृष्णन",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q7668777"
+    },
+    {
+      "naam": "टी. वी. संकरनारायणं",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1945,
+      "wikidata_id": "Q4242886"
+    },
+    {
+      "naam": "डॉली आहलूवालिया",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, टेलीविज़न अभिनेता",
+      "janm_varsh": "",
+      "wikidata_id": "Q5289321"
+    },
+    {
+      "naam": "तीजनबाई",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1956,
+      "wikidata_id": "Q7694210"
+    },
+    {
+      "naam": "त्रिचूर वी। रामचंद्रन",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q1570444"
+    },
+    {
+      "naam": "त्रिप्पुनितुरा नारायण कृष्णन",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q2116984"
+    },
+    {
+      "naam": "दरशना झवेरी",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q5225538"
+    },
+    {
+      "naam": "दुर्गा खोटे",
+      "puraskar_varsh": "",
+      "vyavsay": "मंच अभिनेता, आत्मकथाकार, फिल्म अभिनेता",
+      "janm_varsh": 1905,
+      "wikidata_id": "Q3633274"
+    },
+    {
+      "naam": "दुर्गा लाल",
+      "puraskar_varsh": "",
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q5316381"
+    },
+    {
+      "naam": "दुर्गाचरण रणबीर",
+      "puraskar_varsh": "",
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1951,
+      "wikidata_id": "Q105882033"
+    },
+    {
+      "naam": "नादिरा बब्बर",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, फ़िल्म निर्देशक, फिल्म अभिनेता",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q3635980"
+    },
+    {
+      "naam": "नारायणराव व्यास",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1902,
+      "wikidata_id": "Q6965577"
+    },
+    {
+      "naam": "नौशाद",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, लेखक, संगीत रचयिता, फिल्म स्कोर संगीतकार, फ़िल्म निर्माता",
+      "janm_varsh": 1919,
+      "wikidata_id": "Q674337"
+    },
+    {
+      "naam": "पंडित बुद्धदेव दासगुप्ता",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, संगीतकार",
+      "janm_varsh": 1933,
+      "wikidata_id": "Q182605"
+    },
+    {
+      "naam": "पंडित विष्णु गोविंद जोग",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": 1922,
+      "wikidata_id": "Q2746687"
+    },
+    {
+      "naam": "पद्मनाभन नायर",
+      "puraskar_varsh": "",
+      "vyavsay": "कलाकार",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q7123852"
+    },
+    {
+      "naam": "पम्मल संबंद मुदलियार",
+      "puraskar_varsh": "",
+      "vyavsay": "नाटककार, निदेशक, नाट्य निर्माता, नाटक दिग्दर्शक",
+      "janm_varsh": 1873,
+      "wikidata_id": "Q7129353"
+    },
+    {
+      "naam": "परवीन सुल्ताना",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1950,
+      "wikidata_id": "Q3631779"
+    },
+    {
+      "naam": "पुट्टराज गावै",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1914,
+      "wikidata_id": "Q7262456"
+    },
+    {
+      "naam": "पुरुषोत्तम दास",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1907,
+      "wikidata_id": "Q7261643"
+    },
+    {
+      "naam": "प्रदीप गीतकार",
+      "puraskar_varsh": "",
+      "vyavsay": "कवि, गायक, गीतकार",
+      "janm_varsh": 1915,
+      "wikidata_id": "Q3595111"
+    },
+    {
+      "naam": "प्रभा अत्रे",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत अध्यापक",
+      "janm_varsh": 1969,
+      "wikidata_id": "Q7237212"
+    },
+    {
+      "naam": "प्रसन्ना",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, नाटककार, नाटक दिग्दर्शक",
+      "janm_varsh": 1951,
+      "wikidata_id": "Q7238452"
+    },
+    {
+      "naam": "बंशी कौल",
+      "puraskar_varsh": "",
+      "vyavsay": "नाटक दिग्दर्शक",
+      "janm_varsh": 1949,
+      "wikidata_id": "Q4857138"
+    },
+    {
+      "naam": "बड़े गुलाम अली खां",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1902,
+      "wikidata_id": "Q2745300"
+    },
+    {
+      "naam": "बशीर बद्र",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, कवि",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q196547"
+    },
+    {
+      "naam": "बहाउद्दीन डागर",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता",
+      "janm_varsh": 1970,
+      "wikidata_id": "Q4842501"
+    },
+    {
+      "naam": "बादल सरकार",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, लेखक, नाटककार, निदेशक",
+      "janm_varsh": 1925,
+      "wikidata_id": "Q4840539"
+    },
+    {
+      "naam": "बाल्वन्थराइ भत्त्",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, संगीत अध्यापक",
+      "janm_varsh": 1921,
+      "wikidata_id": "Q4853136"
+    },
+    {
+      "naam": "बी.वी. कारंत",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, अभिनयशिल्पी, संगीत रचयिता, सन्ग्गीत निर्देशक, फ़िल्म निर्देशक",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q3595279"
+    },
+    {
+      "naam": "बी॰ जयश्री",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, गायक, राजनीतिज्ञ",
+      "janm_varsh": 1950,
+      "wikidata_id": "Q16145324"
+    },
+    {
+      "naam": "बेगम अख्तर",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, गायक",
+      "janm_varsh": 1914,
+      "wikidata_id": "Q3595116"
+    },
+    {
+      "naam": "बैरी जॉन",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, नाटक दिग्दर्शक",
+      "janm_varsh": 1944,
+      "wikidata_id": "Q4864354"
+    },
+    {
+      "naam": "भक्ति बर्वे",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, टेलीविज़न अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q4900878"
+    },
+    {
+      "naam": "भजन सोपोरी",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q2900634"
+    },
+    {
+      "naam": "भानुमती देवी",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, मंच अभिनेता",
+      "janm_varsh": 1934,
+      "wikidata_id": "Q3202714"
+    },
+    {
+      "naam": "भास्कर चंदावरकर",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, संगीत रचयिता, संगीतकार, शैक्षणिक व्यक्ती",
+      "janm_varsh": 1936,
+      "wikidata_id": "Q2684290"
+    },
+    {
+      "naam": "भीमसेन जोशी",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, संगीत रचयिता, गायक, संगीतकार",
+      "janm_varsh": 1922,
+      "wikidata_id": "Q121077"
+    },
+    {
+      "naam": "भुपेन हजारिका",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, लेखक, संगीत रचयिता, गायक, राजनीतिज्ञ, सन्ग्गीत निर्देशक, फ़िल्म निर्देशक, निदेशक",
+      "janm_varsh": 1926,
+      "wikidata_id": "Q855128"
+    },
+    {
+      "naam": "मणि दामोदर चाक्यार",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, कलाकार, नर्तक / नर्तकी",
+      "janm_varsh": 1946,
+      "wikidata_id": "Q6749395"
+    },
+    {
+      "naam": "मनोरंजन दास",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, नाटककार",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q5312677"
+    },
+    {
+      "naam": "मनोहर सिंह",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, मंच अभिनेता, टेलीविज़न अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q15134222"
+    },
+    {
+      "naam": "महेश एलकुंचवार",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, नाटककार, डोसेंट",
+      "janm_varsh": 1939,
+      "wikidata_id": "Q12446167"
+    },
+    {
+      "naam": "माणि माधव चाक्यार",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, लेखक, मंच अभिनेता, नर्तक / नर्तकी, फिल्म अभिनेता",
+      "janm_varsh": 1899,
+      "wikidata_id": "Q1395441"
+    },
+    {
+      "naam": "माया राव",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, आत्मकथाकार",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q17466693"
+    },
+    {
+      "naam": "मायाधर राउत",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q11159236"
+    },
+    {
+      "naam": "मीनाक्षी चितरंजन",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक",
+      "janm_varsh": "",
+      "wikidata_id": "Q22958057"
+    },
+    {
+      "naam": "मुद्राराक्षस (पत्रकार)",
+      "puraskar_varsh": "",
+      "vyavsay": "नाटककार, पत्रकार",
+      "janm_varsh": 1933,
+      "wikidata_id": "Q12447170"
+    },
+    {
+      "naam": "मोहन आगाशे",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, मनोचिकित्सक, विश्वविद्यालय शिक्षक, मंच अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1947,
+      "wikidata_id": "Q475162"
+    },
+    {
+      "naam": "मोहन राकेश",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, नाटककार, अनुवादक, भाषाविद",
+      "janm_varsh": 1925,
+      "wikidata_id": "Q3631800"
+    },
+    {
+      "naam": "यमनी कृष्णमूर्ति",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक, संगीतकार, नर्तक / नर्तकी",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q7377129"
+    },
+    {
+      "naam": "रघुनाथ पाणिग्रही",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, संगीतकार, सन्ग्गीत निर्देशक",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q5886033"
+    },
+    {
+      "naam": "रसूलन बाई",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1902,
+      "wikidata_id": "Q7295154"
+    },
+    {
+      "naam": "रहीम फहीमुद्दीन डागर",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q7283409"
+    },
+    {
+      "naam": "राजन एवं साजन मिश्र",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": "",
+      "wikidata_id": "Q7285720"
+    },
+    {
+      "naam": "राधिका मोहन मैत्रा",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1917,
+      "wikidata_id": "Q7280242"
+    },
+    {
+      "naam": "राम गोपाल बजाज",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, अभिनयशिल्पी",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q7288472"
+    },
+    {
+      "naam": "राम दयाल मुंडा",
+      "puraskar_varsh": "",
+      "vyavsay": "राजनीतिज्ञ",
+      "janm_varsh": 1939,
+      "wikidata_id": "Q7288457"
+    },
+    {
+      "naam": "राम नारायण",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, संगीतकार",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q41074"
+    },
+    {
+      "naam": "रामंकुट्टी नायरभारतीय",
+      "puraskar_varsh": "",
+      "vyavsay": "कलाकार",
+      "janm_varsh": 1925,
+      "wikidata_id": "Q7288974"
+    },
+    {
+      "naam": "रायचन्द बोराल",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, फ़िल्म निर्देशक",
+      "janm_varsh": 1903,
+      "wikidata_id": "Q7283700"
+    },
+    {
+      "naam": "रुद्रपतना कृष्णाशास्त्री श्रीकांतन",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1920,
+      "wikidata_id": "Q7273767"
+    },
+    {
+      "naam": "रोहिणी भाटे",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1924,
+      "wikidata_id": "Q15057444"
+    },
+    {
+      "naam": "रोहिणी हट्टंगड़ी",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, टेलीविज़न अभिनेता",
+      "janm_varsh": 1955,
+      "wikidata_id": "Q1606036"
+    },
+    {
+      "naam": "लच्छू महाराज",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक",
+      "janm_varsh": 1901,
+      "wikidata_id": "Q6468389"
+    },
+    {
+      "naam": "लालगुडी जयरामन",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, सन्ग्गीत निर्देशक",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q3519943"
+    },
+    {
+      "naam": "लीला मजूमदार",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, अनुवादक, बच्चों के लेखक",
+      "janm_varsh": 1908,
+      "wikidata_id": "Q432714"
+    },
+    {
+      "naam": "लीला सैमसन",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, अभिनयशिल्पी, डोसेंट, नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1951,
+      "wikidata_id": "Q3530342"
+    },
+    {
+      "naam": "वडाली ब्रदर्स",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": "",
+      "wikidata_id": "Q7958944"
+    },
+    {
+      "naam": "वसंतराव देशपांडे",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, संगीत रचयिता, गायक",
+      "janm_varsh": 1920,
+      "wikidata_id": "Q7916376"
+    },
+    {
+      "naam": "वाहिद खान",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": "",
+      "wikidata_id": "Q7959785"
+    },
+    {
+      "naam": "विजय तेंडुलकर",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, लेखक, अनुवादक, पत्रकार, भाषाविद",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q55744"
+    },
+    {
+      "naam": "विमला मेनन",
+      "puraskar_varsh": "",
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1943,
+      "wikidata_id": "Q7931260"
+    },
+    {
+      "naam": "विश्व मोहन भट्ट",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": 1952,
+      "wikidata_id": "Q1398200"
+    },
+    {
+      "naam": "शर्मिला विश्वास",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक",
+      "janm_varsh": 1942,
+      "wikidata_id": "Q15731212"
+    },
+    {
+      "naam": "शशि साँखला",
+      "puraskar_varsh": "",
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q7490559"
+    },
+    {
+      "naam": "शांता गाँधी",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, नाटककार, नाटक दिग्दर्शक, नर्तक / नर्तकी",
+      "janm_varsh": 1917,
+      "wikidata_id": "Q7489023"
+    },
+    {
+      "naam": "शेख चिन्ना मौलाना",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार",
+      "janm_varsh": 1924,
+      "wikidata_id": "Q3032428"
+    },
+    {
+      "naam": "शोभा गुर्टू",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक, संगीतकार, फिल्म अभिनेता",
+      "janm_varsh": 1925,
+      "wikidata_id": "Q539711"
+    },
+    {
+      "naam": "शोभा सेन",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q7499791"
+    },
+    {
+      "naam": "शोवना नारायण",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1950,
+      "wikidata_id": "Q7502845"
+    },
+    {
+      "naam": "श्यामानन्द जालान",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, फ़िल्म निर्देशक, नाटक दिग्दर्शक",
+      "janm_varsh": 1934,
+      "wikidata_id": "Q7505971"
+    },
+    {
+      "naam": "संयुक्ता पाणिग्रही",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1944,
+      "wikidata_id": "Q5881427"
+    },
+    {
+      "naam": "सचिन देव बर्मन",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, संगीत रचयिता, गायक, सन्ग्गीत निर्देशक, फिल्म स्कोर संगीतकार",
+      "janm_varsh": 1906,
+      "wikidata_id": "Q2723913"
+    },
+    {
+      "naam": "सतीश अलेकर",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, नाटककार, नाटक दिग्दर्शक",
+      "janm_varsh": 1949,
+      "wikidata_id": "Q55682"
+    },
+    {
+      "naam": "सत्य राम रायंग",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": 1943,
+      "wikidata_id": "Q105077174"
+    },
+    {
+      "naam": "सत्यदेव दुबे",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, अभिनयशिल्पी, लेखक, फ़िल्म निर्देशक, नाटक दिग्दर्शक, टेलीविज़न अभिनेता, फिल्म अभिनेता",
+      "janm_varsh": 1936,
+      "wikidata_id": "Q3632273"
+    },
+    {
+      "naam": "सत्यव्रत राउत",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, नाटक दिग्दर्शक",
+      "janm_varsh": 1958,
+      "wikidata_id": "Q30075993"
+    },
+    {
+      "naam": "समता प्रसाद",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": 1921,
+      "wikidata_id": "Q7410644"
+    },
+    {
+      "naam": "सरोजा वैद्यनाथन",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q7424443"
+    },
+    {
+      "naam": "सलिल चौधरी",
+      "puraskar_varsh": "",
+      "vyavsay": "पटकथा लेखक, लेखक, अभिनयशिल्पी, संगीत रचयिता, कवि, नाटककार, संगीतकार, फ़िल्म निर्देशक, निदेशक",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q3349404"
+    },
+    {
+      "naam": "सावित्री चटर्जी",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, फिल्म अभिनेता",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q7396229"
+    },
+    {
+      "naam": "सिंग बंधू",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": "",
+      "wikidata_id": "Q16205246"
+    },
+    {
+      "naam": "सितारा देवी",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, नृत्य-परिकल्पक",
+      "janm_varsh": 1920,
+      "wikidata_id": "Q7531682"
+    },
+    {
+      "naam": "सिद्धेश्वरी देवी",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1908,
+      "wikidata_id": "Q3595120"
+    },
+    {
+      "naam": "सी. टी. खानोलकर",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, कवि, नाटककार",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q5101325"
+    },
+    {
+      "naam": "सीमा बिस्वास",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी",
+      "janm_varsh": 1965,
+      "wikidata_id": "Q2576856"
+    },
+    {
+      "naam": "सी। वी। चंद्रशेखर",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q5006901"
+    },
+    {
+      "naam": "सुचित्रा मित्र",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, संगीत रचयिता, गायक, संगीत अध्यापक",
+      "janm_varsh": 1924,
+      "wikidata_id": "Q3349745"
+    },
+    {
+      "naam": "सुचेता भिडे चापेकर",
+      "puraskar_varsh": "",
+      "vyavsay": "नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q17465794"
+    },
+    {
+      "naam": "सुधीर फड़के",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, अभिनयशिल्पी, गायक",
+      "janm_varsh": 1919,
+      "wikidata_id": "Q3633266"
+    },
+    {
+      "naam": "सुरिन्दर कौर",
+      "puraskar_varsh": "",
+      "vyavsay": "अभिनयशिल्पी, गायक, गायक-गीतकार, गीतकार, पार्श्वगायक",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q422838"
+    },
+    {
+      "naam": "सुरेन्द्र वर्मा",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, उपन्यासकार, भाषाविद",
+      "janm_varsh": 1941,
+      "wikidata_id": "Q7645691"
+    },
+    {
+      "naam": "सोनल मानसिंह",
+      "puraskar_varsh": "",
+      "vyavsay": "राजनीतिज्ञ, नृत्य-परिकल्पक, नर्तक / नर्तकी",
+      "janm_varsh": 1944,
+      "wikidata_id": "Q7560756"
+    },
+    {
+      "naam": "स्वपन चौधरी",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीतकार, संगीत अध्यापक",
+      "janm_varsh": 1945,
+      "wikidata_id": "Q7653791"
+    },
+    {
+      "naam": "हबीब तनवीर",
+      "puraskar_varsh": "",
+      "vyavsay": "लेखक, अभिनयशिल्पी, राजनीतिज्ञ, नाटककार, निदेशक",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q3535567"
+    },
+    {
+      "naam": "हरिद्वारमंगलम ए के पालनिवेल",
+      "puraskar_varsh": "",
+      "vyavsay": "",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q5657366"
+    },
+    {
+      "naam": "हरिप्रसाद चौरसिया",
+      "puraskar_varsh": "",
+      "vyavsay": "संगीत रचयिता, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q212512"
+    },
+    {
+      "naam": "हाओबाम ओंगबी निंगबी देवी",
+      "puraskar_varsh": "",
+      "vyavsay": "नर्तक / नर्तकी",
+      "janm_varsh": 1924,
+      "wikidata_id": "Q18658531"
+    },
+    {
+      "naam": "हीराभाई बादोडेकर",
+      "puraskar_varsh": "",
+      "vyavsay": "गायक",
+      "janm_varsh": 1905,
+      "wikidata_id": "Q3630868"
+    },
+    {
+      "naam": "हेस्नाम कन्हाईलाल",
+      "puraskar_varsh": "",
+      "vyavsay": "नाटक दिग्दर्शक",
+      "janm_varsh": 1941,
+      "wikidata_id": "Q5701082"
+    }
+  ],
+  "meta": {
+    "title": "संगीत नाटक अकादमी पुरस्कार प्राप्त कलाकार - Free Download",
+    "description": "संगीत, नृत्य और रंगमंच के लिए भारत के राष्ट्रीय सम्मान संगीत नाटक अकादमी पुरस्कार से सम्मानित कलाकारों की सूची — पुरस्कार वर्ष (जहाँ उपलब्ध), व्यवसाय और जन्म वर्ष सहित (विकिडेटा से)। Contains 254 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "संगीत नाटक अकादमी पुरस्कार प्राप्त कलाकार | ListBase",
+    "seo_description": "Download संगीत नाटक अकादमी पुरस्कार प्राप्त कलाकार — 254 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 254 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.wikidata.org/wiki/Q7417921"
+    ]
+  }
+}

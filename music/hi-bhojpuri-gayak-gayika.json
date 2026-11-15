@@ -1,0 +1,116 @@
+{
+  "id": "hi-bhojpuri-gayak-gayika",
+  "name": "भोजपुरी गायकों और गायिकाओं की सूची",
+  "title": "भोजपुरी गायकों और गायिकाओं की सूची",
+  "description": "भोजपुरी संगीत के प्रमुख गायकों और गायिकाओं की सूची।",
+  "category": "music",
+  "source": "https://hi.wikipedia.org/wiki/भोजपुरी_गायकों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भोजपुरी_गायकों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "varg",
+      "label": "Varg",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naam": "मनोज तिवारी",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "पवन सिंह",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "खेसारी लाल यादव",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "दिनेश लाल यादव",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "प्रवेश लाल यादव",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "भरत शर्मा व्यास",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "उदित नारायण",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "गोपाल राय",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "गुड्डू रंगीला",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "मदन राय",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "विष्णु ओझा",
+      "varg": "पुरुष गायक"
+    },
+    {
+      "naam": "ताराबानो फैजाबादी",
+      "varg": "महिला गायिका"
+    },
+    {
+      "naam": "शारदा सिन्हा",
+      "varg": "महिला गायिका"
+    },
+    {
+      "naam": "गीता रानी",
+      "varg": "महिला गायिका"
+    },
+    {
+      "naam": "अनुराधा पौडवाल",
+      "varg": "महिला गायिका"
+    },
+    {
+      "naam": "श्रेया घोषाल",
+      "varg": "महिला गायिका"
+    },
+    {
+      "naam": "कल्पना पटवारी",
+      "varg": "महिला गायिका"
+    },
+    {
+      "naam": "शिल्पी राज",
+      "varg": "महिला गायिका"
+    },
+    {
+      "naam": "नेहा सिंह राठौर",
+      "varg": "महिला गायिका"
+    },
+    {
+      "naam": "चंदन तिवारी",
+      "varg": "महिला गायिका"
+    }
+  ],
+  "meta": {
+    "title": "भोजपुरी गायकों और गायिकाओं की सूची - Free Download",
+    "description": "भोजपुरी संगीत के प्रमुख गायकों और गायिकाओं की सूची। Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भोजपुरी गायकों और गायिकाओं की सूची | ListBase",
+    "seo_description": "Download भोजपुरी गायकों और गायिकाओं की सूची — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भोजपुरी_गायकों_की_सूची"
+    ]
+  }
+}

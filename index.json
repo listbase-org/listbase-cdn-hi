@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-15T02:26:36.616Z",
-  "total_datasets": 512,
-  "total_records": 2015840,
+  "generated": "2026-11-15T02:26:46.784Z",
+  "total_datasets": 513,
+  "total_records": 2015967,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -11776,6 +11776,32 @@
         "xlsx": {
           "name": "hi-rajya-vriksh_HI.xlsx",
           "size": 10087
+        }
+      }
+    },
+    {
+      "id": "hi-shanti-swaroop-bhatnagar-puraskar-vijeta",
+      "name": "शांति स्वरूप भटनागर पुरस्कार विजेता वैज्ञानिक",
+      "category": "science",
+      "record_count": 127,
+      "columns": [
+        "naam",
+        "puraskar_varsh",
+        "vyavsay",
+        "janm_varsh",
+        "wikidata_id"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q372007",
+      "updated": "2026-11",
+      "size": 33171,
+      "files": {
+        "csv": {
+          "name": "hi-shanti-swaroop-bhatnagar-puraskar-vijeta_HI.csv",
+          "size": 16442
+        },
+        "xlsx": {
+          "name": "hi-shanti-swaroop-bhatnagar-puraskar-vijeta_HI.xlsx",
+          "size": 13249
         }
       }
     },

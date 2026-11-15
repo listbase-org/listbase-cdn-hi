@@ -1,0 +1,940 @@
+{
+  "id": "hi-shanti-swaroop-bhatnagar-puraskar-vijeta",
+  "name": "शांति स्वरूप भटनागर पुरस्कार विजेता वैज्ञानिक",
+  "title": "शांति स्वरूप भटनागर पुरस्कार विजेता वैज्ञानिक",
+  "description": "भारत के सर्वोच्च विज्ञान पुरस्कार शांति स्वरूप भटनागर विज्ञान एवं प्रौद्योगिकी पुरस्कार के विजेता वैज्ञानिकों की सूची — पुरस्कार वर्ष, व्यवसाय और जन्म वर्ष सहित (विकिडेटा से, हिंदी नाम वाले प्रविष्टियाँ)।",
+  "category": "science",
+  "source": "https://www.wikidata.org/wiki/Q372007",
+  "source_url": "https://www.wikidata.org/wiki/Q372007",
+  "updated": "2026-11",
+  "record_count": 127,
+  "columns": [
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "puraskar_varsh",
+      "label": "Puraskar Varsh",
+      "type": "number"
+    },
+    {
+      "key": "vyavsay",
+      "label": "Vyavsay",
+      "type": "string"
+    },
+    {
+      "key": "janm_varsh",
+      "label": "Janm Varsh",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naam": "के एस कृष्णन",
+      "puraskar_varsh": 1958,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1898,
+      "wikidata_id": "Q3351142"
+    },
+    {
+      "naam": "के. एस. चंद्रशेखरन",
+      "puraskar_varsh": 1959,
+      "vyavsay": "गणितज्ञ, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1920,
+      "wikidata_id": "Q1718182"
+    },
+    {
+      "naam": "एम गोविंद कुमार मेनन",
+      "puraskar_varsh": 1960,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q11179743"
+    },
+    {
+      "naam": "टी. आर. गोविंदाचारी",
+      "puraskar_varsh": 1960,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक",
+      "janm_varsh": 1915,
+      "wikidata_id": "Q27786162"
+    },
+    {
+      "naam": "तोप्पूर सेतुपति सदाशिवन",
+      "puraskar_varsh": 1960,
+      "vyavsay": "",
+      "janm_varsh": 1913,
+      "wikidata_id": "Q24298886"
+    },
+    {
+      "naam": "होमी सेठना",
+      "puraskar_varsh": 1960,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q910638"
+    },
+    {
+      "naam": "असीमा चैटर्जी",
+      "puraskar_varsh": 1961,
+      "vyavsay": "वैज्ञानिक, लेखक, रसायनशास्त्र वैज्ञानिक, विश्वविद्यालय शिक्षक, वनस्पतिशास्त्री",
+      "janm_varsh": 1917,
+      "wikidata_id": "Q7450"
+    },
+    {
+      "naam": "एम एस स्वामीनाथन",
+      "puraskar_varsh": 1961,
+      "vyavsay": "राजनीतिज्ञ, वनस्पतिशास्त्री",
+      "janm_varsh": 1925,
+      "wikidata_id": "Q982109"
+    },
+    {
+      "naam": "जी. एन. रामचंद्रन",
+      "puraskar_varsh": 1961,
+      "vyavsay": "भौतिक विज्ञानी, जैवरसायनज्ञ",
+      "janm_varsh": 1922,
+      "wikidata_id": "Q910690"
+    },
+    {
+      "naam": "राम बेहारी अरोरा",
+      "puraskar_varsh": 1961,
+      "vyavsay": "लेखक",
+      "janm_varsh": 1917,
+      "wikidata_id": "Q28777422"
+    },
+    {
+      "naam": "बिमल कुमार बछावत",
+      "puraskar_varsh": 1962,
+      "vyavsay": "जैवरसायनज्ञ",
+      "janm_varsh": 1925,
+      "wikidata_id": "Q12441819"
+    },
+    {
+      "naam": "विक्रम अंबालाल साराभाई",
+      "puraskar_varsh": 1962,
+      "vyavsay": "अभियन्ता, भौतिक विज्ञानी",
+      "janm_varsh": 1919,
+      "wikidata_id": "Q325470"
+    },
+    {
+      "naam": "बाल दत्तात्रेय तिलक",
+      "puraskar_varsh": 1963,
+      "vyavsay": "",
+      "janm_varsh": 1918,
+      "wikidata_id": "Q17901070"
+    },
+    {
+      "naam": "ब्रहम प्रकाश",
+      "puraskar_varsh": 1963,
+      "vyavsay": "अभियन्ता",
+      "janm_varsh": 1912,
+      "wikidata_id": "Q18921468"
+    },
+    {
+      "naam": "राजा रमन्ना",
+      "puraskar_varsh": 1963,
+      "vyavsay": "राजनीतिज्ञ, अभियन्ता, भौतिक विज्ञानी, संगीतशास्त्रज्ञ",
+      "janm_varsh": 1925,
+      "wikidata_id": "Q26370"
+    },
+    {
+      "naam": "सी। आर। राव",
+      "puraskar_varsh": 1963,
+      "vyavsay": "गणितज्ञ, अर्थशास्त्री, विश्वविद्यालय शिक्षक, सांख्यिकीविद्",
+      "janm_varsh": 1920,
+      "wikidata_id": "Q711237"
+    },
+    {
+      "naam": "अजीत राम वर्मा",
+      "puraskar_varsh": 1964,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1921,
+      "wikidata_id": "Q11179937"
+    },
+    {
+      "naam": "दिलबाग सिंह अठवाल",
+      "puraskar_varsh": 1964,
+      "vyavsay": "शैक्षणिक व्यक्ती",
+      "janm_varsh": 1928,
+      "wikidata_id": "Q24006401"
+    },
+    {
+      "naam": "सुख देव",
+      "puraskar_varsh": 1964,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q24852235"
+    },
+    {
+      "naam": "अय्यगिरी साम्बशिव राव",
+      "puraskar_varsh": 1965,
+      "vyavsay": "विद्युत इंजीनियर",
+      "janm_varsh": 1914,
+      "wikidata_id": "Q4648374"
+    },
+    {
+      "naam": "के. जी. रामनाथन",
+      "puraskar_varsh": 1965,
+      "vyavsay": "गणितज्ञ, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1920,
+      "wikidata_id": "Q10965844"
+    },
+    {
+      "naam": "निर्मल कुमार दत्ता",
+      "puraskar_varsh": 1965,
+      "vyavsay": "",
+      "janm_varsh": 1913,
+      "wikidata_id": "Q28777527"
+    },
+    {
+      "naam": "बैरी रामचंद्र राव",
+      "puraskar_varsh": 1965,
+      "vyavsay": "राजनीतिज्ञ, भौतिक विज्ञानी",
+      "janm_varsh": 1922,
+      "wikidata_id": "Q29249777"
+    },
+    {
+      "naam": "रामचरण मेहरोत्रा",
+      "puraskar_varsh": 1965,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक",
+      "janm_varsh": 1922,
+      "wikidata_id": "Q27825315"
+    },
+    {
+      "naam": "वुलिमिरि रामालिंगेस्वामी",
+      "puraskar_varsh": 1965,
+      "vyavsay": "वैज्ञानिक",
+      "janm_varsh": 1921,
+      "wikidata_id": "Q3764715"
+    },
+    {
+      "naam": "एस सी जैन",
+      "puraskar_varsh": 1966,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1926,
+      "wikidata_id": "Q29308633"
+    },
+    {
+      "naam": "जय कृष्ण",
+      "puraskar_varsh": 1966,
+      "vyavsay": "अभियन्ता",
+      "janm_varsh": 1912,
+      "wikidata_id": "Q6123415"
+    },
+    {
+      "naam": "नीलमराजू गंगा प्रसाद राव",
+      "puraskar_varsh": 1966,
+      "vyavsay": "",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q26828669"
+    },
+    {
+      "naam": "रुस्तम जाल वकील",
+      "puraskar_varsh": 1966,
+      "vyavsay": "चिकित्सक",
+      "janm_varsh": 1911,
+      "wikidata_id": "Q7382531"
+    },
+    {
+      "naam": "शिवराज रामाशीषन",
+      "puraskar_varsh": 1966,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1923,
+      "wikidata_id": "Q7387811"
+    },
+    {
+      "naam": "हरी कृष्ण जैन",
+      "puraskar_varsh": 1966,
+      "vyavsay": "वनस्पतिशास्त्री",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q26924418"
+    },
+    {
+      "naam": "अरुण कुमार शर्मा",
+      "puraskar_varsh": 1967,
+      "vyavsay": "वनस्पतिशास्त्री",
+      "janm_varsh": 1924,
+      "wikidata_id": "Q21608740"
+    },
+    {
+      "naam": "ऐशेज़ प्रसाद मित्रा",
+      "puraskar_varsh": 1968,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q4648232"
+    },
+    {
+      "naam": "सी॰ एन॰ आर॰ राव",
+      "puraskar_varsh": 1968,
+      "vyavsay": "भौतिक विज्ञानी, रसायनशास्त्र वैज्ञानिक, विश्वविद्यालय शिक्षक, शोधकर्ता",
+      "janm_varsh": 1934,
+      "wikidata_id": "Q1248892"
+    },
+    {
+      "naam": "वेणु बाप्पु",
+      "puraskar_varsh": 1970,
+      "vyavsay": "खगोल विज्ञानी",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q380446"
+    },
+    {
+      "naam": "पी॰ के॰ अयंगार",
+      "puraskar_varsh": 1971,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1931,
+      "wikidata_id": "Q3521462"
+    },
+    {
+      "naam": "मधु सूदन कानूनगो",
+      "puraskar_varsh": 1971,
+      "vyavsay": "",
+      "janm_varsh": 1927,
+      "wikidata_id": "Q6727429"
+    },
+    {
+      "naam": "अनदि शंकर गुप्ता",
+      "puraskar_varsh": 1972,
+      "vyavsay": "गणितज्ञ",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q4750757"
+    },
+    {
+      "naam": "कांजिवरम श्रीरंगचारी शेषाद्रि",
+      "puraskar_varsh": 1972,
+      "vyavsay": "प्राध्यापक, गणितज्ञ",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q4358527"
+    },
+    {
+      "naam": "कृष्णा जोशी",
+      "puraskar_varsh": 1972,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q7503808"
+    },
+    {
+      "naam": "गोविन्द स्वरुप",
+      "puraskar_varsh": 1972,
+      "vyavsay": "खगोल विज्ञानी, शोधकर्ता",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q5589862"
+    },
+    {
+      "naam": "शिवरामकॄष्णन चंद्रशेखर",
+      "puraskar_varsh": 1972,
+      "vyavsay": "भौतिक विज्ञानी, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1930,
+      "wikidata_id": "Q205782"
+    },
+    {
+      "naam": "मनमोहन शर्मा",
+      "puraskar_varsh": 1973,
+      "vyavsay": "",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q1522801"
+    },
+    {
+      "naam": "वीरेन्द्र सिंह",
+      "puraskar_varsh": 1973,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q29518576"
+    },
+    {
+      "naam": "कृत्तुनजै प्रसाद सिन्हा",
+      "puraskar_varsh": 1974,
+      "vyavsay": "भौतिक विज्ञानी, शैक्षणिक व्यक्ती",
+      "janm_varsh": 1929,
+      "wikidata_id": "Q29379562"
+    },
+    {
+      "naam": "रोद्दम नरसिंहा",
+      "puraskar_varsh": 1974,
+      "vyavsay": "",
+      "janm_varsh": 1933,
+      "wikidata_id": "Q4121995"
+    },
+    {
+      "naam": "अर्चना शर्मा",
+      "puraskar_varsh": 1975,
+      "vyavsay": "विश्वविद्यालय शिक्षक, वनस्पतिशास्त्री",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q16745047"
+    },
+    {
+      "naam": "उडिपी रामचंद्र राव",
+      "puraskar_varsh": 1975,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q7877236"
+    },
+    {
+      "naam": "उबैद सिद्दिकी",
+      "puraskar_varsh": 1975,
+      "vyavsay": "जीवविज्ञानी",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q7074581"
+    },
+    {
+      "naam": "बिस्वा रंजन नाग",
+      "puraskar_varsh": 1975,
+      "vyavsay": "भौतिक विज्ञानी, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q29401275"
+    },
+    {
+      "naam": "मुडुंबई शेषचालु नरसिंहन",
+      "puraskar_varsh": 1975,
+      "vyavsay": "गणितज्ञ",
+      "janm_varsh": 1932,
+      "wikidata_id": "Q1880793"
+    },
+    {
+      "naam": "खरग सिंह वल्दिया",
+      "puraskar_varsh": 1976,
+      "vyavsay": "भूवैज्ञानिक",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q19650149"
+    },
+    {
+      "naam": "चंचल कुमार मजूमदार",
+      "puraskar_varsh": 1976,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q29471544"
+    },
+    {
+      "naam": "राजिन्दर कुमार",
+      "puraskar_varsh": 1976,
+      "vyavsay": "",
+      "janm_varsh": 1934,
+      "wikidata_id": "Q28325135"
+    },
+    {
+      "naam": "वैद्येश्वरन राजारमन",
+      "puraskar_varsh": 1976,
+      "vyavsay": "कंप्यूटर वैज्ञानिक, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1933,
+      "wikidata_id": "Q24565774"
+    },
+    {
+      "naam": "ई। एस। राजा गोपाल",
+      "puraskar_varsh": 1978,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1936,
+      "wikidata_id": "Q29512608"
+    },
+    {
+      "naam": "गोवर्धन मेहता",
+      "puraskar_varsh": 1978,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक, शोधकर्ता",
+      "janm_varsh": 1943,
+      "wikidata_id": "Q17385986"
+    },
+    {
+      "naam": "जयन्त नार्लीकर",
+      "puraskar_varsh": 1978,
+      "vyavsay": "लेखक, खगोल विज्ञानी, विश्वविद्यालय शिक्षक, विज्ञान कथा लेखक",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q179201"
+    },
+    {
+      "naam": "पल्ले रामा राव",
+      "puraskar_varsh": 1979,
+      "vyavsay": "अभियन्ता",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q7127802"
+    },
+    {
+      "naam": "सुधांशु शेखर झा",
+      "puraskar_varsh": 1979,
+      "vyavsay": "शिक्षक, भौतिक विज्ञानी",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q29557135"
+    },
+    {
+      "naam": "आशीष दत्ता",
+      "puraskar_varsh": 1980,
+      "vyavsay": "जैवरसायनज्ञ",
+      "janm_varsh": 1944,
+      "wikidata_id": "Q22003857"
+    },
+    {
+      "naam": "रमैयेंगर श्रीधर",
+      "puraskar_varsh": 1980,
+      "vyavsay": "गणितज्ञ, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q7288777"
+    },
+    {
+      "naam": "वी श्रीनिवास राघवन अरुणाचलम",
+      "puraskar_varsh": 1980,
+      "vyavsay": "अभियन्ता",
+      "janm_varsh": 1935,
+      "wikidata_id": "Q1088650"
+    },
+    {
+      "naam": "जयंता कुमार घोष",
+      "puraskar_varsh": 1981,
+      "vyavsay": "गणितज्ञ, सांख्यिकीविद्",
+      "janm_varsh": 1937,
+      "wikidata_id": "Q16773201"
+    },
+    {
+      "naam": "दोराइराजन बालासुब्रमनिअन",
+      "puraskar_varsh": 1981,
+      "vyavsay": "जैवरसायनज्ञ",
+      "janm_varsh": 1939,
+      "wikidata_id": "Q18921382"
+    },
+    {
+      "naam": "रघुनाथ अनंत माशेलकर",
+      "puraskar_varsh": 1982,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1943,
+      "wikidata_id": "Q7283012"
+    },
+    {
+      "naam": "इन्दिरा नाथ",
+      "puraskar_varsh": 1983,
+      "vyavsay": "वैज्ञानिक",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q13637900"
+    },
+    {
+      "naam": "कृष्णास्वामी कस्तूरीरंगन",
+      "puraskar_varsh": 1983,
+      "vyavsay": "खगोल विज्ञानी, राजनीतिज्ञ, भौतिक विज्ञानी",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q735363"
+    },
+    {
+      "naam": "गोविंदराजन पद्मनाभन",
+      "puraskar_varsh": 1983,
+      "vyavsay": "जैवरसायनज्ञ",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q5589905"
+    },
+    {
+      "naam": "श्याम सुंदर कपूर",
+      "puraskar_varsh": 1983,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1938,
+      "wikidata_id": "Q29604372"
+    },
+    {
+      "naam": "डी.डी. भवाल्कर",
+      "puraskar_varsh": 1984,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q22003383"
+    },
+    {
+      "naam": "रमानाथ कौसिक",
+      "puraskar_varsh": 1984,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1940,
+      "wikidata_id": "Q18921580"
+    },
+    {
+      "naam": "प्रद्युम्न कृष्ण काव",
+      "puraskar_varsh": 1986,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q7239627"
+    },
+    {
+      "naam": "माधव गाडगीळ",
+      "puraskar_varsh": 1986,
+      "vyavsay": "प्राध्यापक, जीवविज्ञानी, विचार स्तंभकार",
+      "janm_varsh": 1942,
+      "wikidata_id": "Q6727256"
+    },
+    {
+      "naam": "रमन परिमला",
+      "puraskar_varsh": 1987,
+      "vyavsay": "प्राध्यापक, गणितज्ञ, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q450277"
+    },
+    {
+      "naam": "श्रीकांत लेले",
+      "puraskar_varsh": 1987,
+      "vyavsay": "अभियन्ता",
+      "janm_varsh": 1943,
+      "wikidata_id": "Q28382604"
+    },
+    {
+      "naam": "कल्याण बिधान सिन्हा",
+      "puraskar_varsh": 1988,
+      "vyavsay": "गणितज्ञ",
+      "janm_varsh": 1944,
+      "wikidata_id": "Q16866512"
+    },
+    {
+      "naam": "बी। डी। कुलकर्णी",
+      "puraskar_varsh": 1988,
+      "vyavsay": "",
+      "janm_varsh": 1949,
+      "wikidata_id": "Q28474399"
+    },
+    {
+      "naam": "गोपाल प्रसाद",
+      "puraskar_varsh": 1989,
+      "vyavsay": "गणितज्ञ",
+      "janm_varsh": 1945,
+      "wikidata_id": "Q5584189"
+    },
+    {
+      "naam": "प्रेम चंद पाण्डेय",
+      "puraskar_varsh": 1989,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1945,
+      "wikidata_id": "Q7240124"
+    },
+    {
+      "naam": "मंजू रे",
+      "puraskar_varsh": 1989,
+      "vyavsay": "प्राध्यापक, रसायनशास्त्र वैज्ञानिक, जैवरसायनज्ञ",
+      "janm_varsh": 1947,
+      "wikidata_id": "Q21293248"
+    },
+    {
+      "naam": "अजय के सूद",
+      "puraskar_varsh": 1990,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1951,
+      "wikidata_id": "Q18350628"
+    },
+    {
+      "naam": "समीर ब्रह्मचारी",
+      "puraskar_varsh": 1990,
+      "vyavsay": "जीवविज्ञानी",
+      "janm_varsh": 1952,
+      "wikidata_id": "Q7409509"
+    },
+    {
+      "naam": "अन्नामलै रामनाथन",
+      "puraskar_varsh": 1991,
+      "vyavsay": "गणितज्ञ, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1946,
+      "wikidata_id": "Q4767885"
+    },
+    {
+      "naam": "ज्येष्ठराज जोशी",
+      "puraskar_varsh": 1991,
+      "vyavsay": "शोधकर्ता",
+      "janm_varsh": 1949,
+      "wikidata_id": "Q17486541"
+    },
+    {
+      "naam": "झिल्लू सिंह यादव",
+      "puraskar_varsh": 1991,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक",
+      "janm_varsh": 1950,
+      "wikidata_id": "Q27917074"
+    },
+    {
+      "naam": "दीपक धर",
+      "puraskar_varsh": 1991,
+      "vyavsay": "सैद्धांतिक भौतिक विज्ञानी",
+      "janm_varsh": 1951,
+      "wikidata_id": "Q29995025"
+    },
+    {
+      "naam": "शशि वाधवा",
+      "puraskar_varsh": 1991,
+      "vyavsay": "चिकित्सक, विश्वविद्यालय शिक्षक, शोधकर्ता",
+      "janm_varsh": 1948,
+      "wikidata_id": "Q15972942"
+    },
+    {
+      "naam": "सुदीप्ता सेनगुप्ता",
+      "puraskar_varsh": 1991,
+      "vyavsay": "लेखक, प्राध्यापक, भूवैज्ञानिक",
+      "janm_varsh": 1946,
+      "wikidata_id": "Q7633856"
+    },
+    {
+      "naam": "नवीन माधवप्रसाद सिंघी",
+      "puraskar_varsh": 1993,
+      "vyavsay": "गणितज्ञ, शोधकर्ता",
+      "janm_varsh": 1949,
+      "wikidata_id": "Q6982476"
+    },
+    {
+      "naam": "राघवेंद्र गडगकर",
+      "puraskar_varsh": 1993,
+      "vyavsay": "जीवविज्ञानी",
+      "janm_varsh": 1953,
+      "wikidata_id": "Q7282949"
+    },
+    {
+      "naam": "अशोक सेन",
+      "puraskar_varsh": 1994,
+      "vyavsay": "भौतिक विज्ञानी, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1956,
+      "wikidata_id": "Q726244"
+    },
+    {
+      "naam": "एलुवाथिंगल देवासी जेमीस",
+      "puraskar_varsh": 1994,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक, शोधकर्ता",
+      "janm_varsh": 1951,
+      "wikidata_id": "Q5367969"
+    },
+    {
+      "naam": "जितेंद्र नाथ गोस्वामी",
+      "puraskar_varsh": 1994,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1950,
+      "wikidata_id": "Q21778028"
+    },
+    {
+      "naam": "अनिल कुमार त्यागी",
+      "puraskar_varsh": 1995,
+      "vyavsay": "वैज्ञानिक",
+      "janm_varsh": 1951,
+      "wikidata_id": "Q17319026"
+    },
+    {
+      "naam": "कमानियो चट्टोपाध्याय",
+      "puraskar_varsh": 1995,
+      "vyavsay": "वैज्ञानिक",
+      "janm_varsh": 1950,
+      "wikidata_id": "Q28528665"
+    },
+    {
+      "naam": "जयराम चंद्रशेखर",
+      "puraskar_varsh": 1995,
+      "vyavsay": "",
+      "janm_varsh": 1952,
+      "wikidata_id": "Q27926900"
+    },
+    {
+      "naam": "मुस्तानसिर बार्मा",
+      "puraskar_varsh": 1995,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1950,
+      "wikidata_id": "Q6943416"
+    },
+    {
+      "naam": "तनु पद्मनाभन",
+      "puraskar_varsh": 1996,
+      "vyavsay": "खगोल विज्ञानी, भौतिक विज्ञानी, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1957,
+      "wikidata_id": "Q2409133"
+    },
+    {
+      "naam": "विजयलक्ष्मी रविंद्रनाथ",
+      "puraskar_varsh": 1996,
+      "vyavsay": "वैज्ञानिक",
+      "janm_varsh": 1953,
+      "wikidata_id": "Q18211727"
+    },
+    {
+      "naam": "शिव कुमार सरीन",
+      "puraskar_varsh": 1996,
+      "vyavsay": "लेखक",
+      "janm_varsh": 1952,
+      "wikidata_id": "Q12454193"
+    },
+    {
+      "naam": "सुनील मुखी",
+      "puraskar_varsh": 1999,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": 1956,
+      "wikidata_id": "Q32782"
+    },
+    {
+      "naam": "जयंत बी. उदगांवकर",
+      "puraskar_varsh": 2000,
+      "vyavsay": "जैवरसायनज्ञ",
+      "janm_varsh": 1960,
+      "wikidata_id": "Q27663021"
+    },
+    {
+      "naam": "विश्वनाथन कुमारन",
+      "puraskar_varsh": 2000,
+      "vyavsay": "",
+      "janm_varsh": 1966,
+      "wikidata_id": "Q28549858"
+    },
+    {
+      "naam": "शाहिद जमील",
+      "puraskar_varsh": 2000,
+      "vyavsay": "शोधकर्ता",
+      "janm_varsh": 1957,
+      "wikidata_id": "Q29016703"
+    },
+    {
+      "naam": "उदय मैत्रा",
+      "puraskar_varsh": 2001,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक",
+      "janm_varsh": 1957,
+      "wikidata_id": "Q27942264"
+    },
+    {
+      "naam": "आशुतोष शर्मा (केमिकल इंजीनियर)",
+      "puraskar_varsh": 2002,
+      "vyavsay": "",
+      "janm_varsh": 1961,
+      "wikidata_id": "Q16885608"
+    },
+    {
+      "naam": "सुंदरम थंगावेलु",
+      "puraskar_varsh": 2002,
+      "vyavsay": "गणितज्ञ",
+      "janm_varsh": 1957,
+      "wikidata_id": "Q16885956"
+    },
+    {
+      "naam": "सुनील प्रधान",
+      "puraskar_varsh": 2002,
+      "vyavsay": "",
+      "janm_varsh": 1957,
+      "wikidata_id": "Q18386333"
+    },
+    {
+      "naam": "मणीन्द्र अग्रवाल",
+      "puraskar_varsh": 2003,
+      "vyavsay": "कंप्यूटर वैज्ञानिक, गणितज्ञ, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1966,
+      "wikidata_id": "Q93029"
+    },
+    {
+      "naam": "चेतन एकनाथ चिटणीस",
+      "puraskar_varsh": 2004,
+      "vyavsay": "",
+      "janm_varsh": 1961,
+      "wikidata_id": "Q5094149"
+    },
+    {
+      "naam": "सुजाता रामदोरै",
+      "puraskar_varsh": 2004,
+      "vyavsay": "गणितज्ञ",
+      "janm_varsh": 1962,
+      "wikidata_id": "Q7635640"
+    },
+    {
+      "naam": "शेखर सी. मांडे",
+      "puraskar_varsh": 2005,
+      "vyavsay": "वैज्ञानिक, जीवविज्ञानी",
+      "janm_varsh": 1962,
+      "wikidata_id": "Q7493257"
+    },
+    {
+      "naam": "रामा गोविंदराजन",
+      "puraskar_varsh": 2007,
+      "vyavsay": "अभियन्ता, प्राध्यापक",
+      "janm_varsh": 1962,
+      "wikidata_id": "Q15146786"
+    },
+    {
+      "naam": "चारुसीता चक्रवर्ती",
+      "puraskar_varsh": 2009,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक, विश्वविद्यालय शिक्षक",
+      "janm_varsh": 1964,
+      "wikidata_id": "Q15144922"
+    },
+    {
+      "naam": "मिताली मुखर्जी",
+      "puraskar_varsh": 2010,
+      "vyavsay": "वैज्ञानिक, जीवविज्ञानी",
+      "janm_varsh": 1967,
+      "wikidata_id": "Q15972945"
+    },
+    {
+      "naam": "शुभा तोले",
+      "puraskar_varsh": 2010,
+      "vyavsay": "वैज्ञानिक",
+      "janm_varsh": 1967,
+      "wikidata_id": "Q7504561"
+    },
+    {
+      "naam": "संघमित्रा बंद्योपाध्याय",
+      "puraskar_varsh": 2010,
+      "vyavsay": "कंप्यूटर वैज्ञानिक, गणितज्ञ, विश्वविद्यालय शिक्षक, शोधकर्ता",
+      "janm_varsh": 1968,
+      "wikidata_id": "Q18354700"
+    },
+    {
+      "naam": "Garikapati Narahari Sastry",
+      "puraskar_varsh": 2011,
+      "vyavsay": "रसायनशास्त्र वैज्ञानिक",
+      "janm_varsh": 1966,
+      "wikidata_id": "Q5523329"
+    },
+    {
+      "naam": "अमित प्रकाश शर्मा",
+      "puraskar_varsh": 2011,
+      "vyavsay": "जीवविज्ञानी, शोधकर्ता",
+      "janm_varsh": 1968,
+      "wikidata_id": "Q4746867"
+    },
+    {
+      "naam": "अरिंदम घोष",
+      "puraskar_varsh": 2012,
+      "vyavsay": "भौतिक विज्ञानी",
+      "janm_varsh": "",
+      "wikidata_id": "Q16977830"
+    },
+    {
+      "naam": "यमुना कृष्णन",
+      "puraskar_varsh": 2013,
+      "vyavsay": "वैज्ञानिक, प्राध्यापक, रसायनशास्त्र वैज्ञानिक",
+      "janm_varsh": 1974,
+      "wikidata_id": "Q15144906"
+    },
+    {
+      "naam": "डी. श्रीनिवास रेड्डी",
+      "puraskar_varsh": 2015,
+      "vyavsay": "वैज्ञानिक, आविष्कारक",
+      "janm_varsh": 1971,
+      "wikidata_id": "Q27973934"
+    },
+    {
+      "naam": "योगेश जोशी",
+      "puraskar_varsh": 2015,
+      "vyavsay": "",
+      "janm_varsh": 1974,
+      "wikidata_id": "Q25585373"
+    },
+    {
+      "naam": "विदिता वैद्य",
+      "puraskar_varsh": 2015,
+      "vyavsay": "शोधकर्ता, शैक्षणिक व्यक्ती",
+      "janm_varsh": 1970,
+      "wikidata_id": "Q16886275"
+    },
+    {
+      "naam": "अविनाश कुमार अग्रवाल",
+      "puraskar_varsh": 2016,
+      "vyavsay": "",
+      "janm_varsh": 1972,
+      "wikidata_id": "Q28756313"
+    },
+    {
+      "naam": "बुशरा अतीक",
+      "puraskar_varsh": 2020,
+      "vyavsay": "विश्वविद्यालय शिक्षक, शोधकर्ता",
+      "janm_varsh": 1976,
+      "wikidata_id": "Q42413779"
+    }
+  ],
+  "meta": {
+    "title": "शांति स्वरूप भटनागर पुरस्कार विजेता वैज्ञानिक - Free Download",
+    "description": "भारत के सर्वोच्च विज्ञान पुरस्कार शांति स्वरूप भटनागर विज्ञान एवं प्रौद्योगिकी पुरस्कार के विजेता वैज्ञानिकों की सूची — पुरस्कार वर्ष, व्यवसाय और जन्म वर्ष सहित (विकिडेटा से, हिंदी नाम वाले प्रविष्टियाँ)। Contains 127 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "शांति स्वरूप भटनागर पुरस्कार विजेता वैज्ञानिक | ListBase",
+    "seo_description": "Download शांति स्वरूप भटनागर पुरस्कार विजेता वैज्ञानिक — 127 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 127 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.wikidata.org/wiki/Q372007"
+    ]
+  }
+}

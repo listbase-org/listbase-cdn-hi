@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-16T02:29:31.075Z",
-  "total_datasets": 514,
-  "total_records": 2015980,
+  "generated": "2026-11-16T02:29:43.982Z",
+  "total_datasets": 515,
+  "total_records": 2015995,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 33
+      "dataset_count": 34
     },
     {
       "id": "tourism",
@@ -13756,6 +13756,38 @@
         "xlsx": {
           "name": "hi-rajasthan-rajya-avakash_HI.xlsx",
           "size": 84331
+        }
+      }
+    },
+    {
+      "id": "hi-sapeksh-samay-abhivyaktiyan",
+      "name": "हिन्दी में सापेक्ष समय अभिव्यक्तियाँ (कल, परसों, अगले सप्ताह, 3 दिन पहले…)",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "ikai_code",
+        "ikai",
+        "parson_beeta",
+        "pichhla",
+        "vartaman",
+        "agla",
+        "parson_aane_wala",
+        "bhavishya_ekvachan",
+        "bhavishya_bahuvachan",
+        "bhoot_ekvachan",
+        "bhoot_bahuvachan"
+      ],
+      "source": "https://github.com/unicode-org/cldr/blob/main/common/main/hi.xml",
+      "updated": "2026-11",
+      "size": 11501,
+      "files": {
+        "csv": {
+          "name": "hi-sapeksh-samay-abhivyaktiyan_HI.csv",
+          "size": 3987
+        },
+        "xlsx": {
+          "name": "hi-sapeksh-samay-abhivyaktiyan_HI.xlsx",
+          "size": 8123
         }
       }
     },

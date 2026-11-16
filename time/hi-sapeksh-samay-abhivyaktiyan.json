@@ -1,0 +1,276 @@
+{
+  "id": "hi-sapeksh-samay-abhivyaktiyan",
+  "name": "हिन्दी में सापेक्ष समय अभिव्यक्तियाँ (कल, परसों, अगले सप्ताह, 3 दिन पहले…)",
+  "title": "हिन्दी में सापेक्ष समय अभिव्यक्तियाँ (कल, परसों, अगले सप्ताह, 3 दिन पहले…)",
+  "description": "हिन्दी की सापेक्ष समय अभिव्यक्तियाँ — परसों, कल, आज, पिछला महीना, अगला सप्ताह, “{0} दिन में”, “{0} घंटे पहले” — हर समय इकाई और सप्ताह के दिनों के लिए, एकवचन व बहुवचन रूपों सहित, Unicode CLDR (hi) से।",
+  "category": "time",
+  "source": "https://github.com/unicode-org/cldr/blob/main/common/main/hi.xml",
+  "source_url": "https://github.com/unicode-org/cldr/blob/main/common/main/hi.xml",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "ikai_code",
+      "label": "Ikai Code",
+      "type": "string"
+    },
+    {
+      "key": "ikai",
+      "label": "Ikai",
+      "type": "string"
+    },
+    {
+      "key": "parson_beeta",
+      "label": "Parson Beeta",
+      "type": "string"
+    },
+    {
+      "key": "pichhla",
+      "label": "Pichhla",
+      "type": "string"
+    },
+    {
+      "key": "vartaman",
+      "label": "Vartaman",
+      "type": "string"
+    },
+    {
+      "key": "agla",
+      "label": "Agla",
+      "type": "string"
+    },
+    {
+      "key": "parson_aane_wala",
+      "label": "Parson Aane Wala",
+      "type": "string"
+    },
+    {
+      "key": "bhavishya_ekvachan",
+      "label": "Bhavishya Ekvachan",
+      "type": "string"
+    },
+    {
+      "key": "bhavishya_bahuvachan",
+      "label": "Bhavishya Bahuvachan",
+      "type": "string"
+    },
+    {
+      "key": "bhoot_ekvachan",
+      "label": "Bhoot Ekvachan",
+      "type": "string"
+    },
+    {
+      "key": "bhoot_bahuvachan",
+      "label": "Bhoot Bahuvachan",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ikai_code": "year",
+      "ikai": "वर्ष",
+      "parson_beeta": "",
+      "pichhla": "पिछला वर्ष",
+      "vartaman": "इस वर्ष",
+      "agla": "अगला वर्ष",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} वर्ष में",
+      "bhavishya_bahuvachan": "{0} वर्ष में",
+      "bhoot_ekvachan": "{0} वर्ष पहले",
+      "bhoot_bahuvachan": "{0} वर्ष पहले"
+    },
+    {
+      "ikai_code": "quarter",
+      "ikai": "तिमाही",
+      "parson_beeta": "",
+      "pichhla": "अंतिम तिमाही",
+      "vartaman": "इस तिमाही",
+      "agla": "अगली तिमाही",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} तिमाही में",
+      "bhavishya_bahuvachan": "{0} तिमाहियों में",
+      "bhoot_ekvachan": "{0} तिमाही पहले",
+      "bhoot_bahuvachan": "{0} तिमाही पहले"
+    },
+    {
+      "ikai_code": "month",
+      "ikai": "माह",
+      "parson_beeta": "",
+      "pichhla": "पिछला माह",
+      "vartaman": "इस माह",
+      "agla": "अगला माह",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} माह में",
+      "bhavishya_bahuvachan": "{0} माह में",
+      "bhoot_ekvachan": "{0} माह पहले",
+      "bhoot_bahuvachan": "{0} माह पहले"
+    },
+    {
+      "ikai_code": "week",
+      "ikai": "सप्ताह",
+      "parson_beeta": "",
+      "pichhla": "पिछला सप्ताह",
+      "vartaman": "इस सप्ताह",
+      "agla": "अगला सप्ताह",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} सप्ताह में",
+      "bhavishya_bahuvachan": "{0} सप्ताह में",
+      "bhoot_ekvachan": "{0} सप्ताह पहले",
+      "bhoot_bahuvachan": "{0} सप्ताह पहले"
+    },
+    {
+      "ikai_code": "day",
+      "ikai": "दिन",
+      "parson_beeta": "परसों",
+      "pichhla": "कल",
+      "vartaman": "आज",
+      "agla": "कल",
+      "parson_aane_wala": "परसों",
+      "bhavishya_ekvachan": "{0} दिन में",
+      "bhavishya_bahuvachan": "{0} दिन में",
+      "bhoot_ekvachan": "{0} दिन पहले",
+      "bhoot_bahuvachan": "{0} दिन पहले"
+    },
+    {
+      "ikai_code": "sun",
+      "ikai": "रविवार",
+      "parson_beeta": "",
+      "pichhla": "पिछला रविवार",
+      "vartaman": "इस रविवार",
+      "agla": "अगला रविवार",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} रविवार में",
+      "bhavishya_bahuvachan": "{0} रविवार में",
+      "bhoot_ekvachan": "{0} रविवार पूर्व",
+      "bhoot_bahuvachan": "{0} रविवार पूर्व"
+    },
+    {
+      "ikai_code": "mon",
+      "ikai": "सोमवार",
+      "parson_beeta": "",
+      "pichhla": "पिछला सोमवार",
+      "vartaman": "इस सोमवार",
+      "agla": "अगला सोमवार",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} सोमवार में",
+      "bhavishya_bahuvachan": "{0} सोमवार में",
+      "bhoot_ekvachan": "{0} सोमवार पूर्व",
+      "bhoot_bahuvachan": "{0} सोमवार पूर्व"
+    },
+    {
+      "ikai_code": "tue",
+      "ikai": "मंगलवार",
+      "parson_beeta": "",
+      "pichhla": "पिछला मंगलवार",
+      "vartaman": "इस मंगलवार",
+      "agla": "अगला मंगलवार",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} मंगलवार में",
+      "bhavishya_bahuvachan": "{0} मंगलवार में",
+      "bhoot_ekvachan": "{0} मंगलवार पूर्व",
+      "bhoot_bahuvachan": "{0} मंगलवार पूर्व"
+    },
+    {
+      "ikai_code": "wed",
+      "ikai": "बुधवार",
+      "parson_beeta": "",
+      "pichhla": "पिछला बुधवार",
+      "vartaman": "इस बुधवार",
+      "agla": "अगला बुधवार",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} बुधवार में",
+      "bhavishya_bahuvachan": "{0} बुधवार में",
+      "bhoot_ekvachan": "{0} बुधवार पूर्व",
+      "bhoot_bahuvachan": "{0} बुधवार पूर्व"
+    },
+    {
+      "ikai_code": "thu",
+      "ikai": "गुरुवार",
+      "parson_beeta": "",
+      "pichhla": "पिछला गुरुवार",
+      "vartaman": "इस गुरुवार",
+      "agla": "अगला गुरुवार",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} गुरुवार में",
+      "bhavishya_bahuvachan": "{0} गुरुवार में",
+      "bhoot_ekvachan": "{0} गुरुवार पूर्व",
+      "bhoot_bahuvachan": "{0} गुरुवार पूर्व"
+    },
+    {
+      "ikai_code": "fri",
+      "ikai": "शुक्रवार",
+      "parson_beeta": "",
+      "pichhla": "पिछला शुक्रवार",
+      "vartaman": "इस शुक्रवार",
+      "agla": "अगला शुक्रवार",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} शुक्रवार में",
+      "bhavishya_bahuvachan": "{0} शुक्रवार में",
+      "bhoot_ekvachan": "{0} शुक्रवार पूर्व",
+      "bhoot_bahuvachan": "{0} शुक्रवार पूर्व"
+    },
+    {
+      "ikai_code": "sat",
+      "ikai": "शनिवार",
+      "parson_beeta": "",
+      "pichhla": "पिछला शनिवार",
+      "vartaman": "इस शनिवार",
+      "agla": "अगला शनिवार",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} शनिवार में",
+      "bhavishya_bahuvachan": "{0} शनिवार में",
+      "bhoot_ekvachan": "{0} शनिवार पूर्व",
+      "bhoot_bahuvachan": "{0} शनिवार पूर्व"
+    },
+    {
+      "ikai_code": "hour",
+      "ikai": "घंटा",
+      "parson_beeta": "",
+      "pichhla": "",
+      "vartaman": "यह घंटा",
+      "agla": "",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} घंटे में",
+      "bhavishya_bahuvachan": "{0} घंटे में",
+      "bhoot_ekvachan": "{0} घंटे पहले",
+      "bhoot_bahuvachan": "{0} घंटे पहले"
+    },
+    {
+      "ikai_code": "minute",
+      "ikai": "मिनट",
+      "parson_beeta": "",
+      "pichhla": "",
+      "vartaman": "यह मिनट",
+      "agla": "",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} मिनट में",
+      "bhavishya_bahuvachan": "{0} मिनट में",
+      "bhoot_ekvachan": "{0} मिनट पहले",
+      "bhoot_bahuvachan": "{0} मिनट पहले"
+    },
+    {
+      "ikai_code": "second",
+      "ikai": "सेकंड",
+      "parson_beeta": "",
+      "pichhla": "",
+      "vartaman": "अब",
+      "agla": "",
+      "parson_aane_wala": "",
+      "bhavishya_ekvachan": "{0} सेकंड में",
+      "bhavishya_bahuvachan": "{0} सेकंड में",
+      "bhoot_ekvachan": "{0} सेकंड पहले",
+      "bhoot_bahuvachan": "{0} सेकंड पहले"
+    }
+  ],
+  "meta": {
+    "title": "हिन्दी में सापेक्ष समय अभिव्यक्तियाँ (कल, परसों, अगले सप्ताह, 3 दिन पहले…) - Free Download",
+    "description": "हिन्दी की सापेक्ष समय अभिव्यक्तियाँ — परसों, कल, आज, पिछला महीना, अगला सप्ताह, “{0} दिन में”, “{0} घंटे पहले” — हर समय इकाई और सप्ताह के दिनों के लिए, एकवचन व बहुवचन रूपों सहित, Unicode CLDR (hi) से। Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "हिन्दी में सापेक्ष समय अभिव्यक्तियाँ (कल, परसों, अगले सप्ताह, 3 दिन पहले…) | ListBase",
+    "seo_description": "Download हिन्दी में सापेक्ष समय अभिव्यक्तियाँ (कल, परसों, अगले सप्ताह, 3 दिन पहले…) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr/blob/main/common/main/hi.xml"
+    ]
+  }
+}

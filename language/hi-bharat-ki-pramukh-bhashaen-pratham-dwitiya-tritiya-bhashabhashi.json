@@ -1,0 +1,178 @@
+{
+  "id": "hi-bharat-ki-pramukh-bhashaen-pratham-dwitiya-tritiya-bhashabhashi",
+  "name": "भारत की प्रमुख भाषाएँ: प्रथम, द्वितीय और तृतीय भाषा के रूप में बोलने वाले (जनगणना 2011)",
+  "title": "भारत की प्रमुख भाषाएँ: प्रथम, द्वितीय और तृतीय भाषा के रूप में बोलने वाले (जनगणना 2011)",
+  "description": "भारत की प्रमुख भाषाओं (हिंदी, बंगाली, मराठी, तेलुगु, तमिल, अंग्रेज़ी आदि) को प्रथम भाषा, द्वितीय भाषा और तृतीय भाषा के रूप में बोलने वालों की संख्या तथा कुल जनसंख्या में उनका प्रतिशत, जनगणना 2011 पर आधारित (हिन्दी विकिपीडिया)। कुछ भाषाओं के लिए स्रोत में दी गई निरपेक्ष संख्याओं को करोड़ में बदला गया है।",
+  "category": "language",
+  "source": "https://hi.wikipedia.org/wiki/भारत_की_भाषाएँ",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_की_भाषाएँ",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "bhasha",
+      "label": "Bhasha",
+      "type": "string"
+    },
+    {
+      "key": "pratham_bhashabhashi",
+      "label": "Pratham Bhashabhashi",
+      "type": "number"
+    },
+    {
+      "key": "pratham_bhashabhashi_pratishat",
+      "label": "Pratham Bhashabhashi Pratishat",
+      "type": "number"
+    },
+    {
+      "key": "dwitiya_bhashabhashi_crore",
+      "label": "Dwitiya Bhashabhashi Crore",
+      "type": "number"
+    },
+    {
+      "key": "tritiya_bhashabhashi_crore",
+      "label": "Tritiya Bhashabhashi Crore",
+      "type": "number"
+    },
+    {
+      "key": "kul_bhashabhashi_crore",
+      "label": "Kul Bhashabhashi Crore",
+      "type": "number"
+    },
+    {
+      "key": "kul_jansankhya_ka_pratishat",
+      "label": "Kul Jansankhya Ka Pratishat",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bhasha": "हिंदी",
+      "pratham_bhashabhashi": 528347193,
+      "pratham_bhashabhashi_pratishat": 43.63,
+      "dwitiya_bhashabhashi_crore": 13.9,
+      "tritiya_bhashabhashi_crore": 2.4,
+      "kul_bhashabhashi_crore": 69.2,
+      "kul_jansankhya_ka_pratishat": 57.1
+    },
+    {
+      "bhasha": "अंग्रेज़ी",
+      "pratham_bhashabhashi": 259678,
+      "pratham_bhashabhashi_pratishat": 0.02,
+      "dwitiya_bhashabhashi_crore": 8.3,
+      "tritiya_bhashabhashi_crore": 4.6,
+      "kul_bhashabhashi_crore": 12.9,
+      "kul_jansankhya_ka_pratishat": 10.6
+    },
+    {
+      "bhasha": "बंगाली",
+      "pratham_bhashabhashi": 97237669,
+      "pratham_bhashabhashi_pratishat": 8.3,
+      "dwitiya_bhashabhashi_crore": 0.9,
+      "tritiya_bhashabhashi_crore": 0.1,
+      "kul_bhashabhashi_crore": 10.7,
+      "kul_jansankhya_ka_pratishat": 8.9
+    },
+    {
+      "bhasha": "मराठी",
+      "pratham_bhashabhashi": 83026680,
+      "pratham_bhashabhashi_pratishat": 7.09,
+      "dwitiya_bhashabhashi_crore": 1.3,
+      "tritiya_bhashabhashi_crore": 0.3,
+      "kul_bhashabhashi_crore": 9.9,
+      "kul_jansankhya_ka_pratishat": 8.2
+    },
+    {
+      "bhasha": "तेलुगू",
+      "pratham_bhashabhashi": 81127740,
+      "pratham_bhashabhashi_pratishat": 6.93,
+      "dwitiya_bhashabhashi_crore": 1.2,
+      "tritiya_bhashabhashi_crore": 0.1,
+      "kul_bhashabhashi_crore": 9.5,
+      "kul_jansankhya_ka_pratishat": 7.8
+    },
+    {
+      "bhasha": "तमिल",
+      "pratham_bhashabhashi": 69026881,
+      "pratham_bhashabhashi_pratishat": 5.89,
+      "dwitiya_bhashabhashi_crore": 0.7,
+      "tritiya_bhashabhashi_crore": 0.1,
+      "kul_bhashabhashi_crore": 7.7,
+      "kul_jansankhya_ka_pratishat": 6.3
+    },
+    {
+      "bhasha": "गुजराती",
+      "pratham_bhashabhashi": 55492554,
+      "pratham_bhashabhashi_pratishat": 4.74,
+      "dwitiya_bhashabhashi_crore": 0.4,
+      "tritiya_bhashabhashi_crore": 0.1,
+      "kul_bhashabhashi_crore": 6,
+      "kul_jansankhya_ka_pratishat": 5
+    },
+    {
+      "bhasha": "उर्दू",
+      "pratham_bhashabhashi": 50772631,
+      "pratham_bhashabhashi_pratishat": 4.34,
+      "dwitiya_bhashabhashi_crore": 1.1,
+      "tritiya_bhashabhashi_crore": 0.1,
+      "kul_bhashabhashi_crore": 6.3,
+      "kul_jansankhya_ka_pratishat": 5.2
+    },
+    {
+      "bhasha": "कन्नड़",
+      "pratham_bhashabhashi": 43706512,
+      "pratham_bhashabhashi_pratishat": 3.73,
+      "dwitiya_bhashabhashi_crore": 1.4,
+      "tritiya_bhashabhashi_crore": 0.1,
+      "kul_bhashabhashi_crore": 5.9,
+      "kul_jansankhya_ka_pratishat": 4.94
+    },
+    {
+      "bhasha": "ओड़िया",
+      "pratham_bhashabhashi": 37521324,
+      "pratham_bhashabhashi_pratishat": 3.2,
+      "dwitiya_bhashabhashi_crore": 0.5,
+      "tritiya_bhashabhashi_crore": 0.03,
+      "kul_bhashabhashi_crore": 4.3,
+      "kul_jansankhya_ka_pratishat": 3.56
+    },
+    {
+      "bhasha": "मलयालम",
+      "pratham_bhashabhashi": 34838819,
+      "pratham_bhashabhashi_pratishat": 2.97,
+      "dwitiya_bhashabhashi_crore": 0.05,
+      "tritiya_bhashabhashi_crore": 0.02,
+      "kul_bhashabhashi_crore": 3.38,
+      "kul_jansankhya_ka_pratishat": 3.28
+    },
+    {
+      "bhasha": "पंजाबी",
+      "pratham_bhashabhashi": 33124726,
+      "pratham_bhashabhashi_pratishat": 2.83,
+      "dwitiya_bhashabhashi_crore": 0.33,
+      "tritiya_bhashabhashi_crore": 0.03,
+      "kul_bhashabhashi_crore": 3.66,
+      "kul_jansankhya_ka_pratishat": 3.56
+    },
+    {
+      "bhasha": "संस्कृत",
+      "pratham_bhashabhashi": 24821,
+      "pratham_bhashabhashi_pratishat": "<0.01",
+      "dwitiya_bhashabhashi_crore": 0.12,
+      "tritiya_bhashabhashi_crore": 0.37,
+      "kul_bhashabhashi_crore": 0.5,
+      "kul_jansankhya_ka_pratishat": 0.49
+    }
+  ],
+  "meta": {
+    "title": "भारत की प्रमुख भाषाएँ: प्रथम, द्वितीय और तृतीय भाषा के रूप में बोलने वाले (जनगणना 2011) - Free Download",
+    "description": "भारत की प्रमुख भाषाओं (हिंदी, बंगाली, मराठी, तेलुगु, तमिल, अंग्रेज़ी आदि) को प्रथम भाषा, द्वितीय भाषा और तृतीय भाषा के रूप में बोलने वालों की संख्या तथा कुल जनसंख्या में उनका प्रतिशत, जनगणना 2011 पर आधारित (हिन्दी विकिपीडिया)। कुछ भाषाओं के लिए स्रोत में दी गई निरपेक्ष संख्याओं को करोड़ में बदला गया है। Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत की प्रमुख भाषाएँ: प्रथम, द्वितीय और तृतीय भाषा के रूप में बोलने वाले (जनगणना 2011) | ListBase",
+    "seo_description": "Download भारत की प्रमुख भाषाएँ: प्रथम, द्वितीय और तृतीय भाषा के रूप में बोलने वाले (जनगणना 2011) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_की_भाषाएँ"
+    ]
+  }
+}

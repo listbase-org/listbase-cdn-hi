@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-16T02:29:43.982Z",
-  "total_datasets": 515,
-  "total_records": 2015995,
+  "generated": "2026-11-17T02:26:13.503Z",
+  "total_datasets": 516,
+  "total_records": 2016002,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -778,6 +778,33 @@
         "xlsx": {
           "name": "hi-bharatiya-praudyogiki-sansthan_HI.xlsx",
           "size": 7955
+        }
+      }
+    },
+    {
+      "id": "hi-bharatiya-vigyan-shiksha-anusandhan-sansthan",
+      "name": "भारतीय विज्ञान शिक्षा एवं अनुसंधान संस्थानों (IISER) की सूची",
+      "category": "education",
+      "record_count": 7,
+      "columns": [
+        "naam",
+        "sankshipt_naam",
+        "sthapit",
+        "shahar",
+        "rajya",
+        "website"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारतीय_विज्ञान_शिक्षा_एवं_अनुसंधान_संस्थान",
+      "updated": "2026-11",
+      "size": 5138,
+      "files": {
+        "csv": {
+          "name": "hi-bharatiya-vigyan-shiksha-anusandhan-sansthan_HI.csv",
+          "size": 1279
+        },
+        "xlsx": {
+          "name": "hi-bharatiya-vigyan-shiksha-anusandhan-sansthan_HI.xlsx",
+          "size": 7262
         }
       }
     },

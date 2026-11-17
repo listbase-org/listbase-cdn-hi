@@ -1,0 +1,112 @@
+{
+  "id": "hi-bharatiya-vigyan-shiksha-anusandhan-sansthan",
+  "name": "भारतीय विज्ञान शिक्षा एवं अनुसंधान संस्थानों (IISER) की सूची",
+  "title": "भारतीय विज्ञान शिक्षा एवं अनुसंधान संस्थानों (IISER) की सूची",
+  "description": "भारत के सातों भारतीय विज्ञान शिक्षा एवं अनुसंधान संस्थानों (आईआईएसईआर) की सूची — नाम, संक्षिप्त नाम, स्थापना वर्ष, शहर, राज्य और वेबसाइट।",
+  "category": "education",
+  "source": "https://hi.wikipedia.org/wiki/भारतीय_विज्ञान_शिक्षा_एवं_अनुसंधान_संस्थान",
+  "source_url": "https://hi.wikipedia.org/wiki/भारतीय_विज्ञान_शिक्षा_एवं_अनुसंधान_संस्थान",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sankshipt_naam",
+      "label": "Sankshipt Naam",
+      "type": "string"
+    },
+    {
+      "key": "sthapit",
+      "label": "Sthapit",
+      "type": "number"
+    },
+    {
+      "key": "shahar",
+      "label": "Shahar",
+      "type": "string"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naam": "आईआईएसईआर पुणे",
+      "sankshipt_naam": "आईआईएसईआर-पी",
+      "sthapit": 2006,
+      "shahar": "पुणे",
+      "rajya": "महाराष्ट्र",
+      "website": "www.iiserpune.ac.in"
+    },
+    {
+      "naam": "आईआईएसईआर भोपाल",
+      "sankshipt_naam": "आईआईएसईआर-बी",
+      "sthapit": 2008,
+      "shahar": "भोपाल",
+      "rajya": "मध्य प्रदेश",
+      "website": "www.iiserb.ac.in"
+    },
+    {
+      "naam": "आईआईएसईआर मोहाली",
+      "sankshipt_naam": "आईआईएसईआर-एम",
+      "sthapit": 2007,
+      "shahar": "मोहाली",
+      "rajya": "पंजाब",
+      "website": "www.iisermohali.ac.in"
+    },
+    {
+      "naam": "आईआईएसईआर कोलकाता",
+      "sankshipt_naam": "आईआईएसईआर-के",
+      "sthapit": 2006,
+      "shahar": "कल्याणी",
+      "rajya": "पश्चिम बंगाल",
+      "website": "www.iiserkol.ac.in"
+    },
+    {
+      "naam": "आईआईएसईआर तिरुवनंतपुरम",
+      "sankshipt_naam": "आईआईएसईआर-टीवीएम",
+      "sthapit": 2008,
+      "shahar": "तिरुवनंतपुरम",
+      "rajya": "केरल",
+      "website": "www.iisertvm.ac.in"
+    },
+    {
+      "naam": "आईआईएसईआर तिरूपति",
+      "sankshipt_naam": "आईआईएसईआर-टी",
+      "sthapit": 2015,
+      "shahar": "तिरुपति",
+      "rajya": "आंध्र प्रदेश",
+      "website": "www.iisertirupati.ac.in"
+    },
+    {
+      "naam": "आईआईएसईआर बेरहामपुर",
+      "sankshipt_naam": "आईआईएसईआर-बीपीआर",
+      "sthapit": 2016,
+      "shahar": "बेरहामपुर",
+      "rajya": "ओडिशा",
+      "website": "www.iiserbpr.ac.in"
+    }
+  ],
+  "meta": {
+    "title": "भारतीय विज्ञान शिक्षा एवं अनुसंधान संस्थानों (IISER) की सूची - Free Download",
+    "description": "भारत के सातों भारतीय विज्ञान शिक्षा एवं अनुसंधान संस्थानों (आईआईएसईआर) की सूची — नाम, संक्षिप्त नाम, स्थापना वर्ष, शहर, राज्य और वेबसाइट। Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारतीय विज्ञान शिक्षा एवं अनुसंधान संस्थानों (IISER) की सूची | ListBase",
+    "seo_description": "Download भारतीय विज्ञान शिक्षा एवं अनुसंधान संस्थानों (IISER) की सूची — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारतीय_विज्ञान_शिक्षा_एवं_अनुसंधान_संस्थान"
+    ]
+  }
+}

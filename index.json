@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-17T02:26:25.171Z",
-  "total_datasets": 517,
-  "total_records": 2016113,
+  "generated": "2026-11-17T02:26:36.273Z",
+  "total_datasets": 518,
+  "total_records": 2016391,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "economy",
@@ -391,6 +391,32 @@
         "xlsx": {
           "name": "hi-padma-shri-2024-praptkarta_HI.xlsx",
           "size": 11334
+        }
+      }
+    },
+    {
+      "id": "hi-padma-vibhushan-dharak",
+      "name": "पद्म विभूषण सम्मान प्राप्तकर्ताओं की सूची (1954–2023)",
+      "category": "culture",
+      "record_count": 278,
+      "columns": [
+        "varsh",
+        "naam",
+        "kshetra",
+        "rajya",
+        "desh"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/पद्म_विभूषण_धारकों_की_सूची",
+      "updated": "2026-11",
+      "size": 65386,
+      "files": {
+        "csv": {
+          "name": "hi-padma-vibhushan-dharak_HI.csv",
+          "size": 37744
+        },
+        "xlsx": {
+          "name": "hi-padma-vibhushan-dharak_HI.xlsx",
+          "size": 17857
         }
       }
     },

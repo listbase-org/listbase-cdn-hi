@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-17T02:26:13.503Z",
-  "total_datasets": 516,
-  "total_records": 2016002,
+  "generated": "2026-11-17T02:26:25.171Z",
+  "total_datasets": 517,
+  "total_records": 2016113,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "economy",
@@ -366,6 +366,31 @@
         "xlsx": {
           "name": "hi-lok-nritya-rajya_HI.xlsx",
           "size": 12007
+        }
+      }
+    },
+    {
+      "id": "hi-padma-shri-2024-praptkarta",
+      "name": "पद्म श्री पुरस्कार 2024 प्राप्तकर्ताओं की सूची",
+      "category": "culture",
+      "record_count": 111,
+      "columns": [
+        "kramank",
+        "naam",
+        "kshetra",
+        "rajya_desh"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/वर्ष_२०२४_में_पद्म_श्री_पुरस्कार_प्राप्तकर्ताओं_की_सूची",
+      "updated": "2026-11",
+      "size": 23959,
+      "files": {
+        "csv": {
+          "name": "hi-padma-shri-2024-praptkarta_HI.csv",
+          "size": 11965
+        },
+        "xlsx": {
+          "name": "hi-padma-shri-2024-praptkarta_HI.xlsx",
+          "size": 11334
         }
       }
     },

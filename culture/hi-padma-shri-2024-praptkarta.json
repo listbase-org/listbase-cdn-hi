@@ -1,0 +1,712 @@
+{
+  "id": "hi-padma-shri-2024-praptkarta",
+  "name": "पद्म श्री पुरस्कार 2024 प्राप्तकर्ताओं की सूची",
+  "title": "पद्म श्री पुरस्कार 2024 प्राप्तकर्ताओं की सूची",
+  "description": "वर्ष 2024 में भारत सरकार द्वारा पद्म श्री सम्मान से सम्मानित व्यक्तियों की सूची — नाम, क्षेत्र (कला, साहित्य एवं शिक्षा, समाज सेवा, चिकित्सा आदि) और राज्य/देश।",
+  "category": "culture",
+  "source": "https://hi.wikipedia.org/wiki/वर्ष_२०२४_में_पद्म_श्री_पुरस्कार_प्राप्तकर्ताओं_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/वर्ष_२०२४_में_पद्म_श्री_पुरस्कार_प्राप्तकर्ताओं_की_सूची",
+  "updated": "2026-11",
+  "record_count": 111,
+  "columns": [
+    {
+      "key": "kramank",
+      "label": "Kramank",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "kshetra",
+      "label": "Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "rajya_desh",
+      "label": "Rajya Desh",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kramank": 1,
+      "naam": "खलील अहमद",
+      "kshetra": "कला",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 2,
+      "naam": "बदरप्पन एम",
+      "kshetra": "कला",
+      "rajya_desh": "तमिलनाडु"
+    },
+    {
+      "kramank": 3,
+      "naam": "कालूराम बामनिया",
+      "kshetra": "कला",
+      "rajya_desh": "मध्य प्रदेश"
+    },
+    {
+      "kramank": 4,
+      "naam": "रेज़वाना चौधरी",
+      "kshetra": "कला",
+      "rajya_desh": "बांग्लादेश"
+    },
+    {
+      "kramank": 5,
+      "naam": "नसीम बानो",
+      "kshetra": "कला",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 6,
+      "naam": "रामलाल बरेठ",
+      "kshetra": "कला",
+      "rajya_desh": "छत्तीसगढ़"
+    },
+    {
+      "kramank": 7,
+      "naam": "गीता रॉय बर्मन",
+      "kshetra": "कला",
+      "rajya_desh": "पश्चिम बंगाल"
+    },
+    {
+      "kramank": 8,
+      "naam": "पारबती बरुआ",
+      "kshetra": "सामाजिक कार्य",
+      "rajya_desh": "असम"
+    },
+    {
+      "kramank": 9,
+      "naam": "सरबेश्वर बसुमतारी",
+      "kshetra": "अन्य - कृषि",
+      "rajya_desh": "असम"
+    },
+    {
+      "kramank": 10,
+      "naam": "सोम दत्त बट्टू",
+      "kshetra": "कला",
+      "rajya_desh": "हिमाचल प्रदेश"
+    },
+    {
+      "kramank": 11,
+      "naam": "तकदीरा बेगम",
+      "kshetra": "कला",
+      "rajya_desh": "पश्चिम बंगाल"
+    },
+    {
+      "kramank": 12,
+      "naam": "सत्यनारायण बेलेरी",
+      "kshetra": "अन्य - कृषि",
+      "rajya_desh": "केरल"
+    },
+    {
+      "kramank": 13,
+      "naam": "द्रोण भुइयां",
+      "kshetra": "कला",
+      "rajya_desh": "असम"
+    },
+    {
+      "kramank": 14,
+      "naam": "अशोक कुमार विश्वास",
+      "kshetra": "कला",
+      "rajya_desh": "बिहार"
+    },
+    {
+      "kramank": 15,
+      "naam": "रोहन मचांदा बोपन्ना",
+      "kshetra": "स्पोर्ट्स",
+      "rajya_desh": "कर्नाटक"
+    },
+    {
+      "kramank": 16,
+      "naam": "स्मृति रेखा चकमा",
+      "kshetra": "कला",
+      "rajya_desh": "त्रिपुरा"
+    },
+    {
+      "kramank": 17,
+      "naam": "नारायण चक्रवर्ती",
+      "kshetra": "विज्ञान एवं इंजीनियरिंग",
+      "rajya_desh": "पश्चिम बंगाल"
+    },
+    {
+      "kramank": 18,
+      "naam": "ए वेलु आनंद चारी",
+      "kshetra": "कला",
+      "rajya_desh": "तेलंगाना"
+    },
+    {
+      "kramank": 19,
+      "naam": "राम चेत चौधरी",
+      "kshetra": "विज्ञान एवं इंजीनियरिंग",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 20,
+      "naam": "के चेल्लाम्मल",
+      "kshetra": "अन्य - कृषि",
+      "rajya_desh": "अंडमान और निकोबार द्वीप समूह"
+    },
+    {
+      "kramank": 21,
+      "naam": "जोशना चिनप्पा",
+      "kshetra": "स्पोर्ट्स",
+      "rajya_desh": "तमिलनाडु"
+    },
+    {
+      "kramank": 22,
+      "naam": "चार्लोट चोपिन",
+      "kshetra": "अन्य - योग",
+      "rajya_desh": "फ़्रांस"
+    },
+    {
+      "kramank": 23,
+      "naam": "रघुवीर चौधरी",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "गुजरात"
+    },
+    {
+      "kramank": 24,
+      "naam": "जो डी क्रूज़",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "तमिलनाडु"
+    },
+    {
+      "kramank": 25,
+      "naam": "गुलाम नबी डार",
+      "kshetra": "कला",
+      "rajya_desh": "जम्मू और कश्मीर"
+    },
+    {
+      "kramank": 26,
+      "naam": "चित्त रंजन देबबर्मा",
+      "kshetra": "अन्य - अध्यात्मवाद",
+      "rajya_desh": "त्रिपुरा"
+    },
+    {
+      "kramank": 27,
+      "naam": "उदय विश्वनाथ देशपांडे",
+      "kshetra": "खेल",
+      "rajya_desh": "महाराष्ट्र"
+    },
+    {
+      "kramank": 28,
+      "naam": "प्रेमा धनराज",
+      "kshetra": "मेडिसिन",
+      "rajya_desh": "कर्नाटक"
+    },
+    {
+      "kramank": 29,
+      "naam": "राधा कृष्ण धीमान",
+      "kshetra": "मेडिसिन",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 30,
+      "naam": "मनोहर कृष्ण डोले",
+      "kshetra": "मेडिसिन",
+      "rajya_desh": "महाराष्ट्र"
+    },
+    {
+      "kramank": 31,
+      "naam": "पियरे सिल्वेन फ़िलिओज़ैट",
+      "kshetra": "साहित्य और शिक्षा",
+      "rajya_desh": "फ़्रांस"
+    },
+    {
+      "kramank": 32,
+      "naam": "महाबीर सिंग गुड्डु",
+      "kshetra": "कला",
+      "rajya_desh": "हरियाणा"
+    },
+    {
+      "kramank": 33,
+      "naam": "अनुपमा होस्केरे",
+      "kshetra": "कला",
+      "rajya_desh": "कर्नाटक"
+    },
+    {
+      "kramank": 34,
+      "naam": "यज़्दी मानेकशा",
+      "kshetra": "मेडिसिन",
+      "rajya_desh": "गुजरात"
+    },
+    {
+      "kramank": 35,
+      "naam": "राजाराम जैन",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 36,
+      "naam": "जानकीलाल",
+      "kshetra": "कला",
+      "rajya_desh": "राजस्थान"
+    },
+    {
+      "kramank": 37,
+      "naam": "रतन कहार",
+      "kshetra": "कला",
+      "rajya_desh": "पश्चिम बंगाल"
+    },
+    {
+      "kramank": 38,
+      "naam": "यशवन्त सिंह कठोच",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "उत्तराखंड"
+    },
+    {
+      "kramank": 39,
+      "naam": "ज़हीर काज़ी",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "महाराष्ट्र"
+    },
+    {
+      "kramank": 40,
+      "naam": "गौरव खन्ना",
+      "kshetra": "स्पोर्ट्स",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 41,
+      "naam": "सुरेंद्र किशोर",
+      "kshetra": "साहित्य एवं शिक्षा - पत्रकारिता",
+      "rajya_desh": "बिहार"
+    },
+    {
+      "kramank": 42,
+      "naam": "दसारी कोंडप्पा",
+      "kshetra": "कला",
+      "rajya_desh": "तेलंगाना"
+    },
+    {
+      "kramank": 43,
+      "naam": "श्रीधर मकाम कृष्णमूर्ति",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "कर्नाटक"
+    },
+    {
+      "kramank": 44,
+      "naam": "यानुंग जमोह लेगो",
+      "kshetra": "अन्य - कृषि",
+      "rajya_desh": "अरुणाचल प्रदेश"
+    },
+    {
+      "kramank": 45,
+      "naam": "जॉर्डन लेप्चा",
+      "kshetra": "कला",
+      "rajya_desh": "सिक्किम"
+    },
+    {
+      "kramank": 46,
+      "naam": "सतेन्द्र सिंह लोहिया",
+      "kshetra": "खेल",
+      "rajya_desh": "मध्य प्रदेश"
+    },
+    {
+      "kramank": 47,
+      "naam": "बिनोद महाराणा",
+      "kshetra": "कला",
+      "rajya_desh": "ओडिशा"
+    },
+    {
+      "kramank": 48,
+      "naam": "पूर्णिमा महतो",
+      "kshetra": "स्पोर्ट्स",
+      "rajya_desh": "झारखंड"
+    },
+    {
+      "kramank": 49,
+      "naam": "उमा माहेश्वरी डी",
+      "kshetra": "आर्ट",
+      "rajya_desh": "आंध्र प्रदेश"
+    },
+    {
+      "kramank": 50,
+      "naam": "दुखु माझी",
+      "kshetra": "सामाजिक कार्य",
+      "rajya_desh": "पश्चिम बंगाल"
+    },
+    {
+      "kramank": 51,
+      "naam": "राम कुमार मल्लिक",
+      "kshetra": "कला",
+      "rajya_desh": "बिहार"
+    },
+    {
+      "kramank": 52,
+      "naam": "हेमचंद मांझी",
+      "kshetra": "चिकित्सा",
+      "rajya_desh": "छत्तीसगढ़"
+    },
+    {
+      "kramank": 53,
+      "naam": "चन्द्रशेखर महादेवराव",
+      "kshetra": "मेडिसिन",
+      "rajya_desh": "महाराष्ट्र"
+    },
+    {
+      "kramank": 54,
+      "naam": "मेश्राम",
+      "kshetra": "मेडिसिन",
+      "rajya_desh": "महाराष्ट्र"
+    },
+    {
+      "kramank": 55,
+      "naam": "सुरेंद्र मोहन मिश्र (मरणोपरांत)",
+      "kshetra": "कला",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 56,
+      "naam": "अली मोहम्मद एवं गनी मोहम्मद (Duo)",
+      "kshetra": "कला",
+      "rajya_desh": "राजस्थान"
+    },
+    {
+      "kramank": 57,
+      "naam": "कल्पना मोरपारिया",
+      "kshetra": "व्यापार एवं उद्योग",
+      "rajya_desh": "महाराष्ट्र"
+    },
+    {
+      "kramank": 58,
+      "naam": "चामी मुर्मू",
+      "kshetra": "सामाजिक कार्य",
+      "rajya_desh": "झारखंड"
+    },
+    {
+      "kramank": 59,
+      "naam": "ससींद्रन मुथुवेल",
+      "kshetra": "सार्वजनिक मामले",
+      "rajya_desh": "पापुआ न्यू गिनी"
+    },
+    {
+      "kramank": 60,
+      "naam": "जी नचियार",
+      "kshetra": "मेडिसिन",
+      "rajya_desh": "तमिलनाडु"
+    },
+    {
+      "kramank": 61,
+      "naam": "किरण नादर",
+      "kshetra": "कला",
+      "rajya_desh": "दिल्ली"
+    },
+    {
+      "kramank": 62,
+      "naam": "पकारावुर चित्रन नंबूदरीपाद (मरणोपरांत)",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "केरल"
+    },
+    {
+      "kramank": 63,
+      "naam": "नारायणन ई",
+      "kshetra": "आर्ट",
+      "rajya_desh": "केरल"
+    },
+    {
+      "kramank": 64,
+      "naam": "शैलेश नायक",
+      "kshetra": "विज्ञान एवं इंजीनियरिंग",
+      "rajya_desh": "दिल्ली"
+    },
+    {
+      "kramank": 65,
+      "naam": "हरीश नायक (मरणोपरांत)",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "गुजरात"
+    },
+    {
+      "kramank": 66,
+      "naam": "फ्रेड नेग्रिट",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "फ़्रांस"
+    },
+    {
+      "kramank": 67,
+      "naam": "हरिओम",
+      "kshetra": "विज्ञान एवं इंजीनियरिंग",
+      "rajya_desh": "हरियाणा"
+    },
+    {
+      "kramank": 68,
+      "naam": "भागवत पधान",
+      "kshetra": "कला",
+      "rajya_desh": "ओडिशा"
+    },
+    {
+      "kramank": 69,
+      "naam": "सनातन रूद्र पाल",
+      "kshetra": "कला",
+      "rajya_desh": "पश्चिम बंगाल"
+    },
+    {
+      "kramank": 70,
+      "naam": "शंकर बाबा पुंडलिकराव पापलकर",
+      "kshetra": "सामाजिक कार्य",
+      "rajya_desh": "महाराष्ट्र"
+    },
+    {
+      "kramank": 71,
+      "naam": "राधे श्याम पारीक",
+      "kshetra": "मेडिसिन",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 72,
+      "naam": "दयाल मावजीभाई परमार",
+      "kshetra": "मेडिसिन",
+      "rajya_desh": "गुजरात"
+    },
+    {
+      "kramank": 73,
+      "naam": "बिनोद कुमार पसायत",
+      "kshetra": "कला",
+      "rajya_desh": "ओडिशा"
+    },
+    {
+      "kramank": 74,
+      "naam": "सिल्बी पासाह",
+      "kshetra": "कला",
+      "rajya_desh": "मेघालय"
+    },
+    {
+      "kramank": 75,
+      "naam": "शांति देवी पासवान एवं शिवन पासवान* (डुओ)",
+      "kshetra": "कला",
+      "rajya_desh": "बिहार"
+    },
+    {
+      "kramank": 76,
+      "naam": "संजय अनंत पाटिल",
+      "kshetra": "अन्य - कृषि",
+      "rajya_desh": "गोवा"
+    },
+    {
+      "kramank": 77,
+      "naam": "मुनि नारायण प्रसाद",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "केरल"
+    },
+    {
+      "kramank": 78,
+      "naam": "के एस राजन्ना",
+      "kshetra": "सामाजिक कार्य",
+      "rajya_desh": "कर्नाटक"
+    },
+    {
+      "kramank": 79,
+      "naam": "चन्द्रशेखर चन्नापटना राजन्नाचार",
+      "kshetra": "चिकित्सा",
+      "rajya_desh": "कर्नाटक"
+    },
+    {
+      "kramank": 80,
+      "naam": "भगवतीलाल राजपुरोहित",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "मध्य प्रदेश"
+    },
+    {
+      "kramank": 81,
+      "naam": "रोमालो राम",
+      "kshetra": "कला",
+      "rajya_desh": "जम्मू और कश्मीर"
+    },
+    {
+      "kramank": 82,
+      "naam": "नवजीवन रस्तोगी",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 83,
+      "naam": "निर्मल ऋषि",
+      "kshetra": "कला",
+      "rajya_desh": "पंजाब"
+    },
+    {
+      "kramank": 84,
+      "naam": "प्राण सभरवाल",
+      "kshetra": "कला",
+      "rajya_desh": "पंजाब"
+    },
+    {
+      "kramank": 85,
+      "naam": "गद्दाम सम्मैया",
+      "kshetra": "कला",
+      "rajya_desh": "तेलंगाना"
+    },
+    {
+      "kramank": 86,
+      "naam": "संगथंकिमा",
+      "kshetra": "सामाजिक कार्य",
+      "rajya_desh": "मिजोरम"
+    },
+    {
+      "kramank": 87,
+      "naam": "मचिहान सासा",
+      "kshetra": "कला",
+      "rajya_desh": "मणिपुर"
+    },
+    {
+      "kramank": 88,
+      "naam": "ओमप्रकाश शर्मा",
+      "kshetra": "कला",
+      "rajya_desh": "मध्य प्रदेश"
+    },
+    {
+      "kramank": 89,
+      "naam": "एकलब्य शर्मा",
+      "kshetra": "विज्ञान एवं इंजीनियरिंग",
+      "rajya_desh": "पश्चिम बंगाल"
+    },
+    {
+      "kramank": 90,
+      "naam": "राम चंदर सिहाग",
+      "kshetra": "विज्ञान एवं इंजीनियरिंग",
+      "rajya_desh": "हरियाणा"
+    },
+    {
+      "kramank": 91,
+      "naam": "हरबिंदर सिंह",
+      "kshetra": "स्पोर्ट्स",
+      "rajya_desh": "दिल्ली"
+    },
+    {
+      "kramank": 92,
+      "naam": "गुरविंदर सिंह",
+      "kshetra": "सोशल वर्क",
+      "rajya_desh": "हरियाणा"
+    },
+    {
+      "kramank": 93,
+      "naam": "गोदावरी सिंह",
+      "kshetra": "कला",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 94,
+      "naam": "रवि प्रकाश सिंह",
+      "kshetra": "विज्ञान एवं इंजीनियरिंग",
+      "rajya_desh": "मेक्सिको"
+    },
+    {
+      "kramank": 95,
+      "naam": "शेषमपट्टी टी शिवलिंगम",
+      "kshetra": "कला",
+      "rajya_desh": "तमिलनाडु"
+    },
+    {
+      "kramank": 96,
+      "naam": "सोमन्ना",
+      "kshetra": "सामाजिक कार्य",
+      "rajya_desh": "कर्नाटक"
+    },
+    {
+      "kramank": 97,
+      "naam": "केथवथ सोमलाल",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "तेलंगाना"
+    },
+    {
+      "kramank": 98,
+      "naam": "शशि सोनी",
+      "kshetra": "व्यापार एवं उद्योग",
+      "rajya_desh": "कर्नाटक"
+    },
+    {
+      "kramank": 99,
+      "naam": "उर्मीला श्रीवास्तव",
+      "kshetra": "कला",
+      "rajya_desh": "उत्तर प्रदेश"
+    },
+    {
+      "kramank": 100,
+      "naam": "नेपाल चंद्र सूत्रधार",
+      "kshetra": "कला",
+      "rajya_desh": "पश्चिम बंगाल"
+    },
+    {
+      "kramank": 101,
+      "naam": "गोपीनाथ स्वैन",
+      "kshetra": "कला",
+      "rajya_desh": "ओडिशा"
+    },
+    {
+      "kramank": 102,
+      "naam": "लक्ष्मण भट्ट",
+      "kshetra": "तैलंग कला",
+      "rajya_desh": "राजस्थान"
+    },
+    {
+      "kramank": 103,
+      "naam": "माया टंडन",
+      "kshetra": "सामाजिक कार्य",
+      "rajya_desh": "राजस्थान"
+    },
+    {
+      "kramank": 104,
+      "naam": "अश्वथी थिरुनल गौरी लक्ष्मी बाई थंपुरट्टी",
+      "kshetra": "साहित्य और शिक्षा",
+      "rajya_desh": "केरल"
+    },
+    {
+      "kramank": 105,
+      "naam": "जगदीश लाभशंकर त्रिवेदी",
+      "kshetra": "कला",
+      "rajya_desh": "गुजरात"
+    },
+    {
+      "kramank": 106,
+      "naam": "सानो वामुज़ो",
+      "kshetra": "सोशल वर्क",
+      "rajya_desh": "नागालैंड"
+    },
+    {
+      "kramank": 107,
+      "naam": "बालकृष्णन सदनम पुथिया वीटिल",
+      "kshetra": "कला",
+      "rajya_desh": "केरल"
+    },
+    {
+      "kramank": 108,
+      "naam": "कुरेला विट्ठलाचार्य",
+      "kshetra": "साहित्य एवं शिक्षा",
+      "rajya_desh": "तेलंगाना"
+    },
+    {
+      "kramank": 109,
+      "naam": "किरण व्यास",
+      "kshetra": "अन्य - योग",
+      "rajya_desh": "फ़्रांस"
+    },
+    {
+      "kramank": 110,
+      "naam": "जागेश्वर यादव",
+      "kshetra": "सामाजिक कार्य",
+      "rajya_desh": "छत्तीसगढ़"
+    },
+    {
+      "kramank": 111,
+      "naam": "बाबू राम यादव",
+      "kshetra": "कला",
+      "rajya_desh": "उत्तर प्रदेश"
+    }
+  ],
+  "meta": {
+    "title": "पद्म श्री पुरस्कार 2024 प्राप्तकर्ताओं की सूची - Free Download",
+    "description": "वर्ष 2024 में भारत सरकार द्वारा पद्म श्री सम्मान से सम्मानित व्यक्तियों की सूची — नाम, क्षेत्र (कला, साहित्य एवं शिक्षा, समाज सेवा, चिकित्सा आदि) और राज्य/देश। Contains 111 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "पद्म श्री पुरस्कार 2024 प्राप्तकर्ताओं की सूची | ListBase",
+    "seo_description": "Download पद्म श्री पुरस्कार 2024 प्राप्तकर्ताओं की सूची — 111 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 111 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/वर्ष_२०२४_में_पद्म_श्री_पुरस्कार_प्राप्तकर्ताओं_की_सूची"
+    ]
+  }
+}

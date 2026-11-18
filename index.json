@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-18T02:23:44.243Z",
-  "total_datasets": 519,
-  "total_records": 2016434,
+  "generated": "2026-11-18T02:23:55.830Z",
+  "total_datasets": 520,
+  "total_records": 2016480,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -12369,6 +12369,30 @@
         "xlsx": {
           "name": "hi-fifa-vishwa-cup-footbal-muqable_HI.xlsx",
           "size": 87497
+        }
+      }
+    },
+    {
+      "id": "hi-major-dhyanchand-khel-ratna-vijeta",
+      "name": "मेजर ध्यानचंद खेल रत्न पुरस्कार विजेताओं की सूची",
+      "category": "sports",
+      "record_count": 46,
+      "columns": [
+        "varsh",
+        "praptakarta",
+        "khel"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/मेजर_ध्यानचंद_खेल_रत्न_पुरस्कार",
+      "updated": "2026-11",
+      "size": 9278,
+      "files": {
+        "csv": {
+          "name": "hi-major-dhyanchand-khel-ratna-vijeta_HI.csv",
+          "size": 3720
+        },
+        "xlsx": {
+          "name": "hi-major-dhyanchand-khel-ratna-vijeta_HI.xlsx",
+          "size": 8514
         }
       }
     },

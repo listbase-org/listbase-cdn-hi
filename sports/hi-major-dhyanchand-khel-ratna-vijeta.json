@@ -1,0 +1,271 @@
+{
+  "id": "hi-major-dhyanchand-khel-ratna-vijeta",
+  "name": "मेजर ध्यानचंद खेल रत्न पुरस्कार विजेताओं की सूची",
+  "title": "मेजर ध्यानचंद खेल रत्न पुरस्कार विजेताओं की सूची",
+  "description": "भारत के सर्वोच्च खेल सम्मान मेजर ध्यानचंद खेल रत्न (पूर्व में राजीव गांधी खेल रत्न) के 1991-92 से अब तक के प्राप्तकर्ता, वर्ष और खेल सहित।",
+  "category": "sports",
+  "source": "https://hi.wikipedia.org/wiki/मेजर_ध्यानचंद_खेल_रत्न_पुरस्कार",
+  "source_url": "https://hi.wikipedia.org/wiki/मेजर_ध्यानचंद_खेल_रत्न_पुरस्कार",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "varsh",
+      "label": "Varsh",
+      "type": "string"
+    },
+    {
+      "key": "praptakarta",
+      "label": "Praptakarta",
+      "type": "string"
+    },
+    {
+      "key": "khel",
+      "label": "Khel",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "varsh": "1991-92",
+      "praptakarta": "विश्वनाथन आनंद",
+      "khel": "शतरंज"
+    },
+    {
+      "varsh": "1992-93",
+      "praptakarta": "गीत सेठी",
+      "khel": "बिलियर्ड्स"
+    },
+    {
+      "varsh": "1993-94",
+      "praptakarta": "होमी मोतीवाला",
+      "khel": "नौकायन (समूह खेल)"
+    },
+    {
+      "varsh": "1993-94",
+      "praptakarta": "पुष्पेन्द्र कुमार गर्ग",
+      "khel": "नौकायन (समूह खेल)"
+    },
+    {
+      "varsh": "1994-95",
+      "praptakarta": "कर्णम मल्लेश्वरी",
+      "khel": "भारोत्तोलन"
+    },
+    {
+      "varsh": "1995-96",
+      "praptakarta": "कुंजरानी देवी",
+      "khel": "भारोत्तोलन"
+    },
+    {
+      "varsh": "1996-97",
+      "praptakarta": "लिएंडर पेस",
+      "khel": "टेनिस"
+    },
+    {
+      "varsh": "1997-98",
+      "praptakarta": "सचिन तेंदुलकर",
+      "khel": "क्रिकेट"
+    },
+    {
+      "varsh": "1998-99",
+      "praptakarta": "ज्योतिर्मोयी सिकदर",
+      "khel": "एथलेटिक्स"
+    },
+    {
+      "varsh": "1999-2000",
+      "praptakarta": "धनराज पिल्ले",
+      "khel": "मैदानी हॉकी"
+    },
+    {
+      "varsh": "2000-01",
+      "praptakarta": "पुल्लेला गोपीचंद",
+      "khel": "बैडमिंटन"
+    },
+    {
+      "varsh": "2001",
+      "praptakarta": "अभिनव बिंद्रा",
+      "khel": "निशानेबाजी"
+    },
+    {
+      "varsh": "2002",
+      "praptakarta": "के एम बीनमोल",
+      "khel": "एथलेटिक्स"
+    },
+    {
+      "varsh": "2002",
+      "praptakarta": "अंजली भगवत",
+      "khel": "निशानेबाजी"
+    },
+    {
+      "varsh": "2003",
+      "praptakarta": "अंजू बॉबी जॉर्ज",
+      "khel": "एथलेटिक्स"
+    },
+    {
+      "varsh": "2004",
+      "praptakarta": "राज्यवर्धन सिंह राठौड़",
+      "khel": "निशानेबाजी"
+    },
+    {
+      "varsh": "2005",
+      "praptakarta": "पंकज आडवाणी",
+      "khel": "बिलियर्ड्स और स्नूकर"
+    },
+    {
+      "varsh": "2006",
+      "praptakarta": "मानवजीत सिंह सन्धू",
+      "khel": "निशानेबाजी"
+    },
+    {
+      "varsh": "2007",
+      "praptakarta": "महेंद्र सिंह धोनी",
+      "khel": "क्रिकेट"
+    },
+    {
+      "varsh": "2008",
+      "praptakarta": "पुरस्कार नहीं",
+      "khel": "पुरस्कार नहीं"
+    },
+    {
+      "varsh": "2009",
+      "praptakarta": "मैरी कॉम",
+      "khel": "मुक्केबाज़ी"
+    },
+    {
+      "varsh": "2009",
+      "praptakarta": "विजेन्द्र सिंह",
+      "khel": "मुक्केबाज़ी"
+    },
+    {
+      "varsh": "2009",
+      "praptakarta": "सुशील कुमार",
+      "khel": "कुश्ती"
+    },
+    {
+      "varsh": "2010",
+      "praptakarta": "साइना नेहवाल",
+      "khel": "बैडमिंटन"
+    },
+    {
+      "varsh": "2011",
+      "praptakarta": "गगन नारंग",
+      "khel": "निशानेबाजी"
+    },
+    {
+      "varsh": "2012",
+      "praptakarta": "विजय कुमार",
+      "khel": "निशानेबाजी"
+    },
+    {
+      "varsh": "2012",
+      "praptakarta": "योगेश्वर दत्त",
+      "khel": "कुश्ती"
+    },
+    {
+      "varsh": "2013",
+      "praptakarta": "रंजन सोढी",
+      "khel": "निशानेबाजी"
+    },
+    {
+      "varsh": "2014",
+      "praptakarta": "पुरस्कार नहीं",
+      "khel": "पुरस्कार नहीं"
+    },
+    {
+      "varsh": "2015",
+      "praptakarta": "सानिया मिर्ज़ा",
+      "khel": "टेनिस"
+    },
+    {
+      "varsh": "2016",
+      "praptakarta": "पी॰वी॰ सिंधु",
+      "khel": "बैडमिंटन"
+    },
+    {
+      "varsh": "2016",
+      "praptakarta": "दीपा कर्मकार",
+      "khel": "जिम्नास्टिक्स"
+    },
+    {
+      "varsh": "2016",
+      "praptakarta": "जीतू राय",
+      "khel": "निशानेबाजी"
+    },
+    {
+      "varsh": "2016",
+      "praptakarta": "साक्षी मलिक",
+      "khel": "कुश्ती"
+    },
+    {
+      "varsh": "2017",
+      "praptakarta": "देवेन्द्र झाझड़िया",
+      "khel": "पैरालम्पिक खेल"
+    },
+    {
+      "varsh": "2017",
+      "praptakarta": "सरदार सिंह",
+      "khel": "मैदानी हॉकी"
+    },
+    {
+      "varsh": "2018",
+      "praptakarta": "साइखोम मीराबाई चानू",
+      "khel": "भारोत्तोलन"
+    },
+    {
+      "varsh": "2018",
+      "praptakarta": "विराट कोहली",
+      "khel": "क्रिकेट"
+    },
+    {
+      "varsh": "2019",
+      "praptakarta": "दीपा मलिक",
+      "khel": "पैरालम्पिक खेल"
+    },
+    {
+      "varsh": "2019",
+      "praptakarta": "बजरंग पूनिया",
+      "khel": "कुश्ती"
+    },
+    {
+      "varsh": "2020",
+      "praptakarta": "रोहित शर्मा",
+      "khel": "क्रिकेट"
+    },
+    {
+      "varsh": "2020",
+      "praptakarta": "मरियप्पम टी",
+      "khel": "पैरा एथलीट"
+    },
+    {
+      "varsh": "2020",
+      "praptakarta": "मनिका बत्रा",
+      "khel": "टेबल टेनिस"
+    },
+    {
+      "varsh": "2020",
+      "praptakarta": "विनेश फोगाट",
+      "khel": "कुश्ती"
+    },
+    {
+      "varsh": "2020",
+      "praptakarta": "रानी रामपाल",
+      "khel": "हॉकी"
+    },
+    {
+      "varsh": "2023",
+      "praptakarta": "चिराग चन्द्रशेखर शेट्टी और रंकीरेड्डी सात्विक साई राज",
+      "khel": "बैडमिंटन"
+    }
+  ],
+  "meta": {
+    "title": "मेजर ध्यानचंद खेल रत्न पुरस्कार विजेताओं की सूची - Free Download",
+    "description": "भारत के सर्वोच्च खेल सम्मान मेजर ध्यानचंद खेल रत्न (पूर्व में राजीव गांधी खेल रत्न) के 1991-92 से अब तक के प्राप्तकर्ता, वर्ष और खेल सहित। Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "मेजर ध्यानचंद खेल रत्न पुरस्कार विजेताओं की सूची | ListBase",
+    "seo_description": "Download मेजर ध्यानचंद खेल रत्न पुरस्कार विजेताओं की सूची — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/मेजर_ध्यानचंद_खेल_रत्न_पुरस्कार"
+    ]
+  }
+}

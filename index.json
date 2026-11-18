@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-17T02:26:36.273Z",
-  "total_datasets": 518,
-  "total_records": 2016391,
+  "generated": "2026-11-18T02:23:44.243Z",
+  "total_datasets": 519,
+  "total_records": 2016434,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -7378,6 +7378,33 @@
         "xlsx": {
           "name": "hi-vishwa-hindi-sammelan_HI.xlsx",
           "size": 8004
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-kanoon-nyay-mantri",
+      "name": "भारत के कानून एवं न्याय मंत्रियों की सूची",
+      "category": "law",
+      "record_count": 43,
+      "columns": [
+        "kram",
+        "naam",
+        "karyakal_aarambh",
+        "karyakal_samapti",
+        "pradhanmantri",
+        "dal"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_कानून_एवं_न्याय_मंत्री",
+      "updated": "2026-11",
+      "size": 17134,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-kanoon-nyay-mantri_HI.csv",
+          "size": 8832
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-kanoon-nyay-mantri_HI.xlsx",
+          "size": 9426
         }
       }
     },

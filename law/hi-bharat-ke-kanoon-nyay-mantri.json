@@ -1,0 +1,400 @@
+{
+  "id": "hi-bharat-ke-kanoon-nyay-mantri",
+  "name": "भारत के कानून एवं न्याय मंत्रियों की सूची",
+  "title": "भारत के कानून एवं न्याय मंत्रियों की सूची",
+  "description": "1947 से अब तक भारत सरकार के कानून एवं न्याय मंत्रियों की सूची — कार्यकाल, प्रधानमंत्री और राजनीतिक दल सहित।",
+  "category": "law",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_कानून_एवं_न्याय_मंत्री",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_कानून_एवं_न्याय_मंत्री",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "kram",
+      "label": "Kram",
+      "type": "number"
+    },
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "karyakal_aarambh",
+      "label": "Karyakal Aarambh",
+      "type": "string"
+    },
+    {
+      "key": "karyakal_samapti",
+      "label": "Karyakal Samapti",
+      "type": "string"
+    },
+    {
+      "key": "pradhanmantri",
+      "label": "Pradhanmantri",
+      "type": "string"
+    },
+    {
+      "key": "dal",
+      "label": "Dal",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kram": "1",
+      "naam": "डॉ. भीमराव अम्बेडकर",
+      "karyakal_aarambh": "15 अगस्त 1947",
+      "karyakal_samapti": "11 अक्तूबर 1951",
+      "pradhanmantri": "जवाहरलाल नेहरू",
+      "dal": "रिपब्लिकन पार्टी ऑफ इंडिया"
+    },
+    {
+      "kram": "2",
+      "naam": "कैलाश नाथ काटजू",
+      "karyakal_aarambh": "5 नवंबर 1951",
+      "karyakal_samapti": "13 मई 1952",
+      "pradhanmantri": "जवाहरलाल नेहरू",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "3",
+      "naam": "चारु चन्द्र बिस्वास",
+      "karyakal_aarambh": "13 मई 1952",
+      "karyakal_samapti": "17 अप्रैल 1957",
+      "pradhanmantri": "जवाहरलाल नेहरू",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "4",
+      "naam": "अशोक कुमार सेन",
+      "karyakal_aarambh": "12 मई 1957",
+      "karyakal_samapti": "24 जनवरी 1966",
+      "pradhanmantri": "जवाहरलाल नेहरू",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "4",
+      "naam": "अशोक कुमार सेन",
+      "karyakal_aarambh": "12 मई 1957",
+      "karyakal_samapti": "24 जनवरी 1966",
+      "pradhanmantri": "लाल बहादुर शास्त्री",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "5",
+      "naam": "गोपाल स्वरुप पाठक",
+      "karyakal_aarambh": "24 जनवरी 1966",
+      "karyakal_samapti": "13 मार्च 1967",
+      "pradhanmantri": "इंदिरा गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "6",
+      "naam": "पनांपल्ली गोविंदा मेनन",
+      "karyakal_aarambh": "13 मार्च 1967",
+      "karyakal_samapti": "23 मई 1970",
+      "pradhanmantri": "इंदिरा गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "7",
+      "naam": "केंगल हनुमानथाही",
+      "karyakal_aarambh": "26 जून 1970",
+      "karyakal_samapti": "18 मार्च 1971",
+      "pradhanmantri": "इंदिरा गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "8",
+      "naam": "एच आर गोखले",
+      "karyakal_aarambh": "18 मार्च 1971",
+      "karyakal_samapti": "24 मार्च 1977",
+      "pradhanmantri": "इंदिरा गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "9",
+      "naam": "शांति भूषण",
+      "karyakal_aarambh": "26 मार्च 1977",
+      "karyakal_samapti": "28 जुलाई 1979",
+      "pradhanmantri": "मोरारजी देसाई",
+      "dal": "जनता पार्टी"
+    },
+    {
+      "kram": "10",
+      "naam": "हंस राज खन्ना",
+      "karyakal_aarambh": "30 जुलाई 1979",
+      "karyakal_samapti": "3 अगस्त 1979",
+      "pradhanmantri": "चरण सिंह",
+      "dal": "जनता पार्टी (सेकुलर)"
+    },
+    {
+      "kram": "11",
+      "naam": "एस एन कांकेर",
+      "karyakal_aarambh": "3 अगस्त 1979",
+      "karyakal_samapti": "14 जनवरी 1980",
+      "pradhanmantri": "चरण सिंह",
+      "dal": "जनता पार्टी (सेकुलर)"
+    },
+    {
+      "kram": "12",
+      "naam": "पी शिव शंकर",
+      "karyakal_aarambh": "14 जनवरी 1980",
+      "karyakal_samapti": "15 जनवरी 1982",
+      "pradhanmantri": "इंदिरा गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "13",
+      "naam": "जगन्नाथ कौशल",
+      "karyakal_aarambh": "15 जनवरी 1982",
+      "karyakal_samapti": "31 दिसम्बर 1984",
+      "pradhanmantri": "इंदिरा गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "13",
+      "naam": "जगन्नाथ कौशल",
+      "karyakal_aarambh": "15 जनवरी 1982",
+      "karyakal_samapti": "31 दिसम्बर 1984",
+      "pradhanmantri": "राजीव गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "(4)",
+      "naam": "अशोक कुमार सेन",
+      "karyakal_aarambh": "31 दिसम्बर 1984",
+      "karyakal_samapti": "31 मार्च 1987",
+      "pradhanmantri": "राजीव गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "(12)",
+      "naam": "पी शिव शंकर",
+      "karyakal_aarambh": "25 जुलाई 1987",
+      "karyakal_samapti": "14 फरवरी 1988",
+      "pradhanmantri": "राजीव गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "14",
+      "naam": "बिन्देश्वरी दुबे",
+      "karyakal_aarambh": "14 फरवरी 1988",
+      "karyakal_samapti": "26 जून 1988",
+      "pradhanmantri": "राजीव गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "15",
+      "naam": "बी शंकरानन्द",
+      "karyakal_aarambh": "25 जून 1988",
+      "karyakal_samapti": "2 दिसम्बर 1989",
+      "pradhanmantri": "राजीव गांधी",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "16",
+      "naam": "दिनेश गोस्वामी",
+      "karyakal_aarambh": "6 दिसम्बर 1989",
+      "karyakal_samapti": "10 नवंबर 1990",
+      "pradhanmantri": "वी पी सिंह",
+      "dal": "असोम गाना परिषद"
+    },
+    {
+      "kram": "17",
+      "naam": "सुब्रमण्यम स्वामी",
+      "karyakal_aarambh": "21 नवंबर 1990",
+      "karyakal_samapti": "21 जून 1991",
+      "pradhanmantri": "चन्द्रशेखर",
+      "dal": "जनता पार्टी"
+    },
+    {
+      "kram": "18",
+      "naam": "कोटला विजया भास्कर रेड्डी",
+      "karyakal_aarambh": "21 जून 1991",
+      "karyakal_samapti": "9 अक्तूबर 1992",
+      "pradhanmantri": "पी वी नरसिम्हाराव",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "19",
+      "naam": "पी वी नरसिम्हा राव",
+      "karyakal_aarambh": "9 अक्तूबर 1992",
+      "karyakal_samapti": "16 मई 1996",
+      "pradhanmantri": "पी वी नरसिम्हाराव",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "20",
+      "naam": "राम जेठमलानी",
+      "karyakal_aarambh": "16 मई 1996",
+      "karyakal_samapti": "1 जून 1996",
+      "pradhanmantri": "अटल बिहारी वाजपेयी",
+      "dal": "स्वतंत्र"
+    },
+    {
+      "kram": "21",
+      "naam": "पी चिदंबरम",
+      "karyakal_aarambh": "1 जून 1996",
+      "karyakal_samapti": "29 जून 1996",
+      "pradhanmantri": "एच डी देवेगौड़ा",
+      "dal": "तमिल मनीला कांग्रेस"
+    },
+    {
+      "kram": "22",
+      "naam": "रमाकांत खलाप (स्वतंत्र प्रभार)",
+      "karyakal_aarambh": "29 जून 1996",
+      "karyakal_samapti": "19 मार्च 1998",
+      "pradhanmantri": "एच डी देवेगौड़ा",
+      "dal": "महाराष्ट्रवादी गोमंटक पार्टी"
+    },
+    {
+      "kram": "22",
+      "naam": "रमाकांत खलाप (स्वतंत्र प्रभार)",
+      "karyakal_aarambh": "29 जून 1996",
+      "karyakal_samapti": "19 मार्च 1998",
+      "pradhanmantri": "इंद्र कुमार गुजराल",
+      "dal": "महाराष्ट्रवादी गोमंटक पार्टी"
+    },
+    {
+      "kram": "23",
+      "naam": "एम थंबीदुरई",
+      "karyakal_aarambh": "19 मार्च 1998",
+      "karyakal_samapti": "8 अप्रैल 1999",
+      "pradhanmantri": "अटल बिहारी वाजपेयी",
+      "dal": "ऑल इंडिया अन्ना द्रविड़ मुनेत्रा काजंगम"
+    },
+    {
+      "kram": "24",
+      "naam": "पी आर कुमारमंगलम",
+      "karyakal_aarambh": "9 अप्रैल 1999",
+      "karyakal_samapti": "8 जून 1999",
+      "pradhanmantri": "अटल बिहारी वाजपेयी",
+      "dal": "भारतीय जनता पार्टी"
+    },
+    {
+      "kram": "(20)",
+      "naam": "राम जेठमलानी",
+      "karyakal_aarambh": "8 जून 1999",
+      "karyakal_samapti": "23 जुलाई 2000",
+      "pradhanmantri": "अटल बिहारी वाजपेयी",
+      "dal": "स्वतंत्र"
+    },
+    {
+      "kram": "25",
+      "naam": "अरुण जेटली (स्वतंत्र प्रभार)",
+      "karyakal_aarambh": "24 जुलाई 2000",
+      "karyakal_samapti": "1 जुलाई 2002",
+      "pradhanmantri": "अटल बिहारी वाजपेयी",
+      "dal": "भारतीय जनता पार्टी"
+    },
+    {
+      "kram": "26",
+      "naam": "जे कृष्णमूर्ति",
+      "karyakal_aarambh": "1 जुलाई 2002",
+      "karyakal_samapti": "29 जनवरी 2003",
+      "pradhanmantri": "अटल बिहारी वाजपेयी",
+      "dal": "भारतीय जनता पार्टी"
+    },
+    {
+      "kram": "(25)",
+      "naam": "अरुण जेटली",
+      "karyakal_aarambh": "29 जनवरी 2003",
+      "karyakal_samapti": "22 मई 2004",
+      "pradhanmantri": "अटल बिहारी वाजपेयी",
+      "dal": "भारतीय जनता पार्टी"
+    },
+    {
+      "kram": "27",
+      "naam": "हंस राज भारद्वाज",
+      "karyakal_aarambh": "23 मई 2004",
+      "karyakal_samapti": "22 मई 2009",
+      "pradhanmantri": "मनमोहन सिंह",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "28",
+      "naam": "वीरप्पा मोइली",
+      "karyakal_aarambh": "28 मई 2009",
+      "karyakal_samapti": "12 जुलाई 2011",
+      "pradhanmantri": "मनमोहन सिंह",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "29",
+      "naam": "सलमान खुर्शीद",
+      "karyakal_aarambh": "12 जुलाई 2011",
+      "karyakal_samapti": "28 अक्तूबर 2012",
+      "pradhanmantri": "मनमोहन सिंह",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "30",
+      "naam": "अश्विनी कुमार",
+      "karyakal_aarambh": "28 अक्तूबर 2012",
+      "karyakal_samapti": "11 मई 2013",
+      "pradhanmantri": "मनमोहन सिंह",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "31",
+      "naam": "कपिल सिब्बल",
+      "karyakal_aarambh": "11 मई 2013",
+      "karyakal_samapti": "26 मई 2014",
+      "pradhanmantri": "मनमोहन सिंह",
+      "dal": "भारतीय राष्ट्रीय कांग्रेस"
+    },
+    {
+      "kram": "32",
+      "naam": "रवि शंकर प्रसाद",
+      "karyakal_aarambh": "26 मई 2014",
+      "karyakal_samapti": "9 नवंबर 2014",
+      "pradhanmantri": "नरेन्द्र मोदी",
+      "dal": "भारतीय जनता पार्टी"
+    },
+    {
+      "kram": "33",
+      "naam": "डी वी सदानंद गौड़ा",
+      "karyakal_aarambh": "9 नवंबर 2014",
+      "karyakal_samapti": "5 जुलाई 2016",
+      "pradhanmantri": "नरेन्द्र मोदी",
+      "dal": "भारतीय जनता पार्टी"
+    },
+    {
+      "kram": "(32)",
+      "naam": "रवि शंकर प्रसाद",
+      "karyakal_aarambh": "5 जुलाई 2016",
+      "karyakal_samapti": "7 जुलाई 2021",
+      "pradhanmantri": "नरेन्द्र मोदी",
+      "dal": "भारतीय जनता पार्टी"
+    },
+    {
+      "kram": "34",
+      "naam": "किरेन रिजिजू",
+      "karyakal_aarambh": "7 जुलाई 2021",
+      "karyakal_samapti": "18 मई 2023",
+      "pradhanmantri": "नरेन्द्र मोदी",
+      "dal": "भारतीय जनता पार्टी"
+    },
+    {
+      "kram": "35",
+      "naam": "अर्जुन राम मेघवाल",
+      "karyakal_aarambh": "18 मई 2023",
+      "karyakal_samapti": "पदस्थ",
+      "pradhanmantri": "नरेन्द्र मोदी",
+      "dal": "भारतीय जनता पार्टी"
+    }
+  ],
+  "meta": {
+    "title": "भारत के कानून एवं न्याय मंत्रियों की सूची - Free Download",
+    "description": "1947 से अब तक भारत सरकार के कानून एवं न्याय मंत्रियों की सूची — कार्यकाल, प्रधानमंत्री और राजनीतिक दल सहित। Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के कानून एवं न्याय मंत्रियों की सूची | ListBase",
+    "seo_description": "Download भारत के कानून एवं न्याय मंत्रियों की सूची — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_कानून_एवं_न्याय_मंत्री"
+    ]
+  }
+}

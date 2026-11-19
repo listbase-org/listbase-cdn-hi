@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-19T02:34:08.284Z",
-  "total_datasets": 522,
-  "total_records": 2017709,
+  "generated": "2026-11-19T02:34:18.910Z",
+  "total_datasets": 523,
+  "total_records": 2017737,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -7376,6 +7376,32 @@
         "xlsx": {
           "name": "hi-rajya-hindi-bhashi_HI.xlsx",
           "size": 8103
+        }
+      }
+    },
+    {
+      "id": "hi-rajyon-ke-naam-ki-vyutpatti",
+      "name": "भारत के राज्यों के नामों की व्युत्पत्ति",
+      "category": "language",
+      "record_count": 28,
+      "columns": [
+        "rajya",
+        "sthaniya_bhasha_mein_naam",
+        "bhasha",
+        "shabdarth",
+        "bhavarth"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/नाम_की_व्युत्पत्ति_के_आधार_पर_भारत_के_राज्य",
+      "updated": "2026-11",
+      "size": 15062,
+      "files": {
+        "csv": {
+          "name": "hi-rajyon-ke-naam-ki-vyutpatti_HI.csv",
+          "size": 9099
+        },
+        "xlsx": {
+          "name": "hi-rajyon-ke-naam-ki-vyutpatti_HI.xlsx",
+          "size": 9820
         }
       }
     },

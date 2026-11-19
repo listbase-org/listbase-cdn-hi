@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-18T02:23:55.830Z",
-  "total_datasets": 520,
-  "total_records": 2016480,
+  "generated": "2026-11-19T02:33:57.013Z",
+  "total_datasets": 521,
+  "total_records": 2016536,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "environment",
@@ -938,6 +938,32 @@
         "xlsx": {
           "name": "hi-vishwavidyalaya_HI.xlsx",
           "size": 34646
+        }
+      }
+    },
+    {
+      "id": "hi-2026-ki-hindi-filmen",
+      "name": "2026 में प्रदर्शित हिंदी फ़िल्मों की सूची",
+      "category": "entertainment",
+      "record_count": 56,
+      "columns": [
+        "pradarshan_tithi",
+        "shirshak",
+        "nirdeshak",
+        "kalakar",
+        "studio"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/2026_की_हिंदी_फिल्मों_की_सूची",
+      "updated": "2026-11",
+      "size": 27258,
+      "files": {
+        "csv": {
+          "name": "hi-2026-ki-hindi-filmen_HI.csv",
+          "size": 18282
+        },
+        "xlsx": {
+          "name": "hi-2026-ki-hindi-filmen_HI.xlsx",
+          "size": 13298
         }
       }
     },

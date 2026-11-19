@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-19T02:33:57.013Z",
-  "total_datasets": 521,
-  "total_records": 2016536,
+  "generated": "2026-11-19T02:34:08.284Z",
+  "total_datasets": 522,
+  "total_records": 2017709,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "politics",
@@ -7851,6 +7851,33 @@
         "xlsx": {
           "name": "hi-karnatak-sangeet-melakarta-rag_HI.xlsx",
           "size": 9574
+        }
+      }
+    },
+    {
+      "id": "hi-lata-mangeshkar-ke-hindi-geet",
+      "name": "लता मंगेशकर के हिंदी गीतों की सूची",
+      "category": "music",
+      "record_count": 1173,
+      "columns": [
+        "varsh",
+        "film",
+        "geet",
+        "sangeetkar",
+        "geetkar",
+        "sah_gayak"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/लता_मंगेशकर_के_गानों_की_सूची",
+      "updated": "2026-11",
+      "size": 332998,
+      "files": {
+        "csv": {
+          "name": "hi-lata-mangeshkar-ke-hindi-geet_HI.csv",
+          "size": 195564
+        },
+        "xlsx": {
+          "name": "hi-lata-mangeshkar-ke-hindi-geet_HI.xlsx",
+          "size": 59419
         }
       }
     },

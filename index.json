@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-23T02:24:49.110Z",
-  "total_datasets": 524,
-  "total_records": 2017897,
+  "generated": "2026-11-23T02:25:01.752Z",
+  "total_datasets": 525,
+  "total_records": 2017947,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "units",
@@ -15144,6 +15144,34 @@
         "xlsx": {
           "name": "hi-rel-zones_HI.xlsx",
           "size": 519170
+        }
+      }
+    },
+    {
+      "id": "hi-sarvadhik-vyast-havai-adde-2024-25",
+      "name": "भारत के सर्वाधिक व्यस्त हवाई अड्डे (2024–25)",
+      "category": "transport",
+      "record_count": 50,
+      "columns": [
+        "kram",
+        "havai_adda",
+        "shahar",
+        "rajya",
+        "iata_code",
+        "yatri_2024_25",
+        "yatri_2023_24"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_सर्वाधिक_व्यस्त_हवाई_अड्डों_की_सूची",
+      "updated": "2026-11",
+      "size": 18714,
+      "files": {
+        "csv": {
+          "name": "hi-sarvadhik-vyast-havai-adde-2024-25_HI.csv",
+          "size": 8607
+        },
+        "xlsx": {
+          "name": "hi-sarvadhik-vyast-havai-adde-2024-25_HI.xlsx",
+          "size": 10414
         }
       }
     },

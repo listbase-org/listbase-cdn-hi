@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-19T02:34:18.910Z",
-  "total_datasets": 523,
-  "total_records": 2017737,
+  "generated": "2026-11-23T02:24:49.110Z",
+  "total_datasets": 524,
+  "total_records": 2017897,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "finance",
@@ -1232,6 +1232,31 @@
         "xlsx": {
           "name": "hi-bagh-abhayaranya-suchi_HI.xlsx",
           "size": 11495
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-paristhitik-kshetra",
+      "name": "भारत के पारिस्थितिक क्षेत्र (पारिक्षेत्र) राज्यवार",
+      "category": "environment",
+      "record_count": 160,
+      "columns": [
+        "paarikshetra",
+        "rajya_kendrashasit_pradesh",
+        "biome",
+        "praanikshetra"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_में_पारिस्थितिक_क्षेत्रों_की_सूची",
+      "updated": "2026-11",
+      "size": 66936,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-paristhitik-kshetra_HI.csv",
+          "size": 45846
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-paristhitik-kshetra_HI.xlsx",
+          "size": 10825
         }
       }
     },

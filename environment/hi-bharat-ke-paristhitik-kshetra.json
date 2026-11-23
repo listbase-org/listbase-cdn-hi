@@ -1,0 +1,1006 @@
+{
+  "id": "hi-bharat-ke-paristhitik-kshetra",
+  "name": "भारत के पारिस्थितिक क्षेत्र (पारिक्षेत्र) राज्यवार",
+  "title": "भारत के पारिस्थितिक क्षेत्र (पारिक्षेत्र) राज्यवार",
+  "description": "भारत के स्थलीय पारिस्थितिक क्षेत्रों (इकोरीजन) की राज्य/केंद्र शासित प्रदेश अनुसार सूची, उनके बायोम (जैसे उष्णकटिबंधीय आर्द्र पृथुपर्णी वन, मैंग्रोव, मरुस्थल) और प्राणिक्षेत्र (इंडो-हिमालय, पेलार्कटिक) सहित।",
+  "category": "environment",
+  "source": "https://hi.wikipedia.org/wiki/भारत_में_पारिस्थितिक_क्षेत्रों_की_सूची",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_में_पारिस्थितिक_क्षेत्रों_की_सूची",
+  "updated": "2026-11",
+  "record_count": 160,
+  "columns": [
+    {
+      "key": "paarikshetra",
+      "label": "Paarikshetra",
+      "type": "string"
+    },
+    {
+      "key": "rajya_kendrashasit_pradesh",
+      "label": "Rajya Kendrashasit Pradesh",
+      "type": "string"
+    },
+    {
+      "key": "biome",
+      "label": "Biome",
+      "type": "string"
+    },
+    {
+      "key": "praanikshetra",
+      "label": "Praanikshetra",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "paarikshetra": "अंडमान द्वीप समूह वर्षा वन",
+      "rajya_kendrashasit_pradesh": "अण्डमान और निकोबार द्वीपसमूह",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ब्रह्मपुत्र घाटी अर्ध-सदाबहार वन",
+      "rajya_kendrashasit_pradesh": "अरुणाचल प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ब्रह्मपुत्र घाटी अर्ध-सदाबहार वन",
+      "rajya_kendrashasit_pradesh": "असम",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ब्रह्मपुत्र घाटी अर्ध-सदाबहार वन",
+      "rajya_kendrashasit_pradesh": "मेघालय",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ब्रह्मपुत्र घाटी अर्ध-सदाबहार वन",
+      "rajya_kendrashasit_pradesh": "नागालैण्ड",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी पर्वतीय आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "आन्ध्र प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी पर्वतीय आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "छत्तीसगढ़",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी पर्वतीय आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "झारखण्ड",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी पर्वतीय आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "मध्य प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी पर्वतीय आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "महाराष्ट्र",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी पर्वतीय आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "ओडिशा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी पर्वतीय आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "तेलंगाना",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी पर्वतीय आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "हिमालयी उपोष्णकटिबंधीय पृथुपर्णी वन",
+      "rajya_kendrashasit_pradesh": "बिहार",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "हिमालयी उपोष्णकटिबंधीय पृथुपर्णी वन",
+      "rajya_kendrashasit_pradesh": "सिक्किम",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "हिमालयी उपोष्णकटिबंधीय पृथुपर्णी वन",
+      "rajya_kendrashasit_pradesh": "उत्तर प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "हिमालयी उपोष्णकटिबंधीय पृथुपर्णी वन",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "निचले गंगा के मैदानी आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "असम",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "निचले गंगा के मैदानी आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "बिहार",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "निचले गंगा के मैदानी आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "झारखण्ड",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "निचले गंगा के मैदानी आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "मध्य प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "निचले गंगा के मैदानी आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "ओडिशा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "निचले गंगा के मैदानी आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "त्रिपुरा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "निचले गंगा के मैदानी आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "उत्तर प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "निचले गंगा के मैदानी आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मालाबार तट आद्र वन",
+      "rajya_kendrashasit_pradesh": "गोवा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मालाबार तट आद्र वन",
+      "rajya_kendrashasit_pradesh": "कर्नाटक",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मालाबार तट आद्र वन",
+      "rajya_kendrashasit_pradesh": "केरल",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मालाबार तट आद्र वन",
+      "rajya_kendrashasit_pradesh": "महाराष्ट्र",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मालाबार तट आद्र वन",
+      "rajya_kendrashasit_pradesh": "तमिल नाडु",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मालदीव-लक्षद्वीप-चागोस द्वीपसमूह उष्णकटिबंधीय आद्र वन",
+      "rajya_kendrashasit_pradesh": "लक्षद्वीप",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मेघालय के उपोष्णकटिबंधीय वन",
+      "rajya_kendrashasit_pradesh": "असम",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मेघालय के उपोष्णकटिबंधीय वन",
+      "rajya_kendrashasit_pradesh": "मेघालय",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मेघालय के उपोष्णकटिबंधीय वन",
+      "rajya_kendrashasit_pradesh": "नागालैण्ड",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मिजोरम-मणिपुर-काचीन वर्षा वन",
+      "rajya_kendrashasit_pradesh": "असम",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मिजोरम-मणिपुर-काचीन वर्षा वन",
+      "rajya_kendrashasit_pradesh": "मणिपुर",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मिजोरम-मणिपुर-काचीन वर्षा वन",
+      "rajya_kendrashasit_pradesh": "मिज़ोरम",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मिजोरम-मणिपुर-काचीन वर्षा वन",
+      "rajya_kendrashasit_pradesh": "नागालैण्ड",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मिजोरम-मणिपुर-काचीन वर्षा वन",
+      "rajya_kendrashasit_pradesh": "त्रिपुरा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "निकोबार द्वीप समूह वर्षा वन",
+      "rajya_kendrashasit_pradesh": "अण्डमान और निकोबार द्वीपसमूह",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी घाट आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "दमन और दीव",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी घाट आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "दादरा और नगर हवेली",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी घाट आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "गोवा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी घाट आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "गुजरात",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी घाट आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "कर्नाटक",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी घाट आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "महाराष्ट्र",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तरी पश्चिमी घाट पर्वतीय वर्षा वन",
+      "rajya_kendrashasit_pradesh": "गोवा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तरी पश्चिमी घाट पर्वतीय वर्षा वन",
+      "rajya_kendrashasit_pradesh": "गुजरात",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तरी पश्चिमी घाट पर्वतीय वर्षा वन",
+      "rajya_kendrashasit_pradesh": "कर्नाटक",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तरी पश्चिमी घाट पर्वतीय वर्षा वन",
+      "rajya_kendrashasit_pradesh": "महाराष्ट्र",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ओडिशा के अर्द्ध सदाबहार वन",
+      "rajya_kendrashasit_pradesh": "आन्ध्र प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ओडिशा के अर्द्ध सदाबहार वन",
+      "rajya_kendrashasit_pradesh": "ओडिशा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्षिण पश्चिमी घाट के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "कर्नाटक",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्षिण पश्चिमी घाट के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "केरल",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्षिण पश्चिमी घाट के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "तमिल नाडु",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्षिण पश्चिमी घाटों के पर्वतीय वर्षा वन",
+      "rajya_kendrashasit_pradesh": "कर्नाटक",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्षिण पश्चिमी घाटों के पर्वतीय वर्षा वन",
+      "rajya_kendrashasit_pradesh": "केरल",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्षिण पश्चिमी घाटों के पर्वतीय वर्षा वन",
+      "rajya_kendrashasit_pradesh": "तमिल नाडु",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "सुंदरबन के ताजे पानी के दलदल वन",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ऊपरी गंगा के मैदान के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "बिहार",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ऊपरी गंगा के मैदान के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "दिल्ली",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ऊपरी गंगा के मैदान के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "हरियाणा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ऊपरी गंगा के मैदान के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "हिमाचल प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ऊपरी गंगा के मैदान के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "मध्य प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ऊपरी गंगा के मैदान के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "राजस्थान",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ऊपरी गंगा के मैदान के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "उत्तर प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "ऊपरी गंगा के मैदान के आद्र पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "उत्तराखंड",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण आर्द्र पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मध्य दक्कन पठार के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "आन्ध्र प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मध्य दक्कन पठार के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "छत्तीसगढ़",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मध्य दक्कन पठार के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "कर्नाटक",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मध्य दक्कन पठार के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "मध्य प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मध्य दक्कन पठार के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "महाराष्ट्र",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "मध्य दक्कन पठार के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "तेलंगाना",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "छोटा-नागपुर के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "बिहार",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "छोटा-नागपुर के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "छत्तीसगढ़",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "छोटा-नागपुर के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "झारखण्ड",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "छोटा-नागपुर के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "मध्य प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "छोटा-नागपुर के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "ओडिशा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "छोटा-नागपुर के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "उत्तर प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "छोटा-नागपुर के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी दक्कन के शुष्क सदाबहार वन",
+      "rajya_kendrashasit_pradesh": "आन्ध्र प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी दक्कन के शुष्क सदाबहार वन",
+      "rajya_kendrashasit_pradesh": "पुदुच्चेरी",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी दक्कन के शुष्क सदाबहार वन",
+      "rajya_kendrashasit_pradesh": "तमिल नाडु",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "काठियावाड़-गिर शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "दमन और दीव",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "काठियावाड़-गिर शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "गुजरात",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "काठियावाड़-गिर शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "हरियाणा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "काठियावाड़-गिर शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "मध्य प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "काठियावाड़-गिर शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "महाराष्ट्र",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "काठियावाड़-गिर शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "राजस्थान",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "काठियावाड़-गिर शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "उत्तर प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "नर्मदा घाटी शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "छत्तीसगढ़",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "नर्मदा घाटी शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "गुजरात",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "नर्मदा घाटी शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "कर्नाटक",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "नर्मदा घाटी शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "मध्य प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "नर्मदा घाटी शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "महाराष्ट्र",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "नर्मदा घाटी शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "उत्तर प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तरी शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "छत्तीसगढ़",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तरी शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "ओडिशा",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्षिणी दक्कन पठार के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "कर्नाटक",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्षिणी दक्कन पठार के शुष्क पर्णपाती वन",
+      "rajya_kendrashasit_pradesh": "तमिल नाडु",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शुष्क पृथुपर्णी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "हिमालयी उपोष्णकटिबन्धीय पाइन वन",
+      "rajya_kendrashasit_pradesh": "हिमाचल प्रदेश",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "हिमालयी उपोष्णकटिबन्धीय पाइन वन",
+      "rajya_kendrashasit_pradesh": "जम्मू और कश्मीर",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "हिमालयी उपोष्णकटिबन्धीय पाइन वन",
+      "rajya_kendrashasit_pradesh": "सिक्किम",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "हिमालयी उपोष्णकटिबन्धीय पाइन वन",
+      "rajya_kendrashasit_pradesh": "उत्तराखंड",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "हिमालयी उपोष्णकटिबन्धीय पाइन वन",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वोत्तर भारत-म्यांमार देवदार वन",
+      "rajya_kendrashasit_pradesh": "मणिपुर",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वोत्तर भारत-म्यांमार देवदार वन",
+      "rajya_kendrashasit_pradesh": "नागालैण्ड",
+      "biome": "उष्णकटिबन्धीय एवं उपोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी पृथुपर्णी वन",
+      "rajya_kendrashasit_pradesh": "अरुणाचल प्रदेश",
+      "biome": "शीतोष्ण पृथुपर्णी मिश्रित वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी पृथुपर्णी वन",
+      "rajya_kendrashasit_pradesh": "असम",
+      "biome": "शीतोष्ण पृथुपर्णी मिश्रित वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी पृथुपर्णी वन",
+      "rajya_kendrashasit_pradesh": "नागालैण्ड",
+      "biome": "शीतोष्ण पृथुपर्णी मिश्रित वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी पृथुपर्णी वन",
+      "rajya_kendrashasit_pradesh": "सिक्किम",
+      "biome": "शीतोष्ण पृथुपर्णी मिश्रित वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी पृथुपर्णी वन",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "शीतोष्ण पृथुपर्णी मिश्रित वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पश्चिम हिमालयी चौड़ी पत्ती वन",
+      "rajya_kendrashasit_pradesh": "हिमाचल प्रदेश",
+      "biome": "शीतोष्ण पृथुपर्णी मिश्रित वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पश्चिम हिमालयी चौड़ी पत्ती वन",
+      "rajya_kendrashasit_pradesh": "जम्मू और कश्मीर",
+      "biome": "शीतोष्ण पृथुपर्णी मिश्रित वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पश्चिम हिमालयी चौड़ी पत्ती वन",
+      "rajya_kendrashasit_pradesh": "पंजाब",
+      "biome": "शीतोष्ण पृथुपर्णी मिश्रित वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पश्चिम हिमालयी चौड़ी पत्ती वन",
+      "rajya_kendrashasit_pradesh": "उत्तराखंड",
+      "biome": "शीतोष्ण पृथुपर्णी मिश्रित वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी अर्ध-अल्पाइन शंकुधारी वन",
+      "rajya_kendrashasit_pradesh": "अरुणाचल प्रदेश",
+      "biome": "शीतोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी अर्ध-अल्पाइन शंकुधारी वन",
+      "rajya_kendrashasit_pradesh": "सिक्किम",
+      "biome": "शीतोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी अर्ध-अल्पाइन शंकुधारी वन",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "शीतोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पश्चिम हिमालयी उपअल्पाइन शंकुधर वन",
+      "rajya_kendrashasit_pradesh": "हिमाचल प्रदेश",
+      "biome": "शीतोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पश्चिम हिमालयी उपअल्पाइन शंकुधर वन",
+      "rajya_kendrashasit_pradesh": "जम्मू और कश्मीर",
+      "biome": "शीतोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पश्चिम हिमालयी उपअल्पाइन शंकुधर वन",
+      "rajya_kendrashasit_pradesh": "उत्तराखंड",
+      "biome": "शीतोष्ण शंकुधारी वन",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "तराई-दुआर सवाना और घासभूमि",
+      "rajya_kendrashasit_pradesh": "असम",
+      "biome": "उष्णकटिबंधीय और उपोष्णकटिबंधीय घास के मैदान, सवाना, और झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "तराई-दुआर सवाना और घासभूमि",
+      "rajya_kendrashasit_pradesh": "बिहार",
+      "biome": "उष्णकटिबंधीय और उपोष्णकटिबंधीय घास के मैदान, सवाना, और झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "तराई-दुआर सवाना और घासभूमि",
+      "rajya_kendrashasit_pradesh": "उत्तर प्रदेश",
+      "biome": "उष्णकटिबंधीय और उपोष्णकटिबंधीय घास के मैदान, सवाना, और झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "तराई-दुआर सवाना और घासभूमि",
+      "rajya_kendrashasit_pradesh": "उत्तराखंड",
+      "biome": "उष्णकटिबंधीय और उपोष्णकटिबंधीय घास के मैदान, सवाना, और झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "तराई-दुआर सवाना और घासभूमि",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "उष्णकटिबंधीय और उपोष्णकटिबंधीय घास के मैदान, सवाना, और झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "कच्छ के रण के मौसमी नमक के दलदल",
+      "rajya_kendrashasit_pradesh": "गुजरात",
+      "biome": "जलमग्न घास के मैदान और सवाना",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्कन कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "आन्ध्र प्रदेश",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्कन कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "कर्नाटक",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्कन कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "मध्य प्रदेश",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्कन कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "महाराष्ट्र",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "दक्कन कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "तमिल नाडु",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "चण्डीगढ़",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "दिल्ली",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "गुजरात",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "हरियाणा",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "हिमाचल प्रदेश",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "जम्मू और कश्मीर",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "पंजाब",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी कटिले झाड़ीदार वन",
+      "rajya_kendrashasit_pradesh": "राजस्थान",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "थार मरुस्थल",
+      "rajya_kendrashasit_pradesh": "गुजरात",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "थार मरुस्थल",
+      "rajya_kendrashasit_pradesh": "हरियाणा",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "थार मरुस्थल",
+      "rajya_kendrashasit_pradesh": "राजस्थान",
+      "biome": "मरुस्थली और शुष्क झाड़ीदार क्षेत्र",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "गोदावरी-कृष्णा मैन्ग्रोव",
+      "rajya_kendrashasit_pradesh": "आन्ध्र प्रदेश",
+      "biome": "मैन्ग्रोव",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "गोदावरी-कृष्णा मैन्ग्रोव",
+      "rajya_kendrashasit_pradesh": "ओडिशा",
+      "biome": "मैन्ग्रोव",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "गोदावरी-कृष्णा मैन्ग्रोव",
+      "rajya_kendrashasit_pradesh": "तमिल नाडु",
+      "biome": "मैन्ग्रोव",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "सिंधु नदी डेल्टा-अरब सागर मैन्ग्रोव",
+      "rajya_kendrashasit_pradesh": "दमन और दीव",
+      "biome": "मैन्ग्रोव",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "सिंधु नदी डेल्टा-अरब सागर मैन्ग्रोव",
+      "rajya_kendrashasit_pradesh": "गुजरात",
+      "biome": "मैन्ग्रोव",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "सिंधु नदी डेल्टा-अरब सागर मैन्ग्रोव",
+      "rajya_kendrashasit_pradesh": "महाराष्ट्र",
+      "biome": "मैन्ग्रोव",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "सुंदरबन मैन्ग्रोव",
+      "rajya_kendrashasit_pradesh": "पश्चिम बंगाल",
+      "biome": "मैन्ग्रोव",
+      "praanikshetra": "इंडो-हिमालय क्षेत्र"
+    },
+    {
+      "paarikshetra": "पूर्वोत्तर हिमालयी अर्ध अल्पाइन शंकुधारी वन",
+      "rajya_kendrashasit_pradesh": "अरुणाचल प्रदेश",
+      "biome": "शीतोष्ण शंकुधारी वन",
+      "praanikshetra": "पेलार्कटिक"
+    },
+    {
+      "paarikshetra": "मध्य तिब्बती पठार अल्पाइन मैदान",
+      "rajya_kendrashasit_pradesh": "जम्मू और कश्मीर",
+      "biome": "पर्वतीय घास के मैदान और झाड़ीदार क्षेत्र",
+      "praanikshetra": "पेलार्कटिक"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी अल्पाइन झाड़ी और घास के मैदान",
+      "rajya_kendrashasit_pradesh": "अरुणाचल प्रदेश",
+      "biome": "पर्वतीय घास के मैदान और झाड़ीदार क्षेत्र",
+      "praanikshetra": "पेलार्कटिक"
+    },
+    {
+      "paarikshetra": "पूर्वी हिमालयी अल्पाइन झाड़ी और घास के मैदान",
+      "rajya_kendrashasit_pradesh": "सिक्किम",
+      "biome": "पर्वतीय घास के मैदान और झाड़ीदार क्षेत्र",
+      "praanikshetra": "पेलार्कटिक"
+    },
+    {
+      "paarikshetra": "कराकोरम-पश्चिम तिब्बती पठार के अल्पाइन मैदान",
+      "rajya_kendrashasit_pradesh": "जम्मू और कश्मीर",
+      "biome": "पर्वतीय घास के मैदान और झाड़ीदार क्षेत्र",
+      "praanikshetra": "पेलार्कटिक"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी हिमालय के अल्पाइन झाड़ी और घास के मैदान",
+      "rajya_kendrashasit_pradesh": "हिमाचल प्रदेश",
+      "biome": "पर्वतीय घास के मैदान और झाड़ीदार क्षेत्र",
+      "praanikshetra": "पेलार्कटिक"
+    },
+    {
+      "paarikshetra": "उत्तर पश्चिमी हिमालय के अल्पाइन झाड़ी और घास के मैदान",
+      "rajya_kendrashasit_pradesh": "जम्मू और कश्मीर",
+      "biome": "पर्वतीय घास के मैदान और झाड़ीदार क्षेत्र",
+      "praanikshetra": "पेलार्कटिक"
+    },
+    {
+      "paarikshetra": "पश्चिमी हिमालयी अल्पाइन झाड़ी और घास के मैदान",
+      "rajya_kendrashasit_pradesh": "हिमाचल प्रदेश",
+      "biome": "पर्वतीय घास के मैदान और झाड़ीदार क्षेत्र",
+      "praanikshetra": "पेलार्कटिक"
+    },
+    {
+      "paarikshetra": "पश्चिमी हिमालयी अल्पाइन झाड़ी और घास के मैदान",
+      "rajya_kendrashasit_pradesh": "उत्तराखंड",
+      "biome": "पर्वतीय घास के मैदान और झाड़ीदार क्षेत्र",
+      "praanikshetra": "पेलार्कटिक"
+    }
+  ],
+  "meta": {
+    "title": "भारत के पारिस्थितिक क्षेत्र (पारिक्षेत्र) राज्यवार - Free Download",
+    "description": "भारत के स्थलीय पारिस्थितिक क्षेत्रों (इकोरीजन) की राज्य/केंद्र शासित प्रदेश अनुसार सूची, उनके बायोम (जैसे उष्णकटिबंधीय आर्द्र पृथुपर्णी वन, मैंग्रोव, मरुस्थल) और प्राणिक्षेत्र (इंडो-हिमालय, पेलार्कटिक) सहित। Contains 160 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के पारिस्थितिक क्षेत्र (पारिक्षेत्र) राज्यवार | ListBase",
+    "seo_description": "Download भारत के पारिस्थितिक क्षेत्र (पारिक्षेत्र) राज्यवार — 160 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 160 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_में_पारिस्थितिक_क्षेत्रों_की_सूची"
+    ]
+  }
+}

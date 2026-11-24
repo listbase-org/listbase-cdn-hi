@@ -1,0 +1,144 @@
+{
+  "id": "hi-bharat-ki-shastriya-bhashaen",
+  "name": "भारत की शास्त्रीय भाषाएँ",
+  "title": "भारत की शास्त्रीय भाषाएँ",
+  "description": "भारत सरकार द्वारा शास्त्रीय भाषा का दर्जा प्राप्त 11 भाषाएँ — तमिल, संस्कृत, कन्नड़, तेलुगु, मलयालम, ओड़िया, बंगाली, असमिया, मराठी, पालि और प्राकृत — भाषा परिवार, शाखा, सबसे पहले प्रमाणन और दर्जा मिलने की तिथि सहित।",
+  "category": "language",
+  "source": "https://hi.wikipedia.org/wiki/भारत_की_शास्त्रीय_भाषाएँ",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_की_शास्त्रीय_भाषाएँ",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "bhasha",
+      "label": "Bhasha",
+      "type": "string"
+    },
+    {
+      "key": "mool_lipi_mein",
+      "label": "Mool Lipi Mein",
+      "type": "string"
+    },
+    {
+      "key": "bhasha_parivar",
+      "label": "Bhasha Parivar",
+      "type": "string"
+    },
+    {
+      "key": "bhasha_shakha",
+      "label": "Bhasha Shakha",
+      "type": "string"
+    },
+    {
+      "key": "sabse_pehla_pramanan",
+      "label": "Sabse Pehla Pramanan",
+      "type": "string"
+    },
+    {
+      "key": "shastriya_darja_milne_ki_tithi",
+      "label": "Shastriya Darja Milne Ki Tithi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bhasha": "तमिल",
+      "mool_lipi_mein": "தமிழ்",
+      "bhasha_parivar": "द्रविड़",
+      "bhasha_shakha": "दक्षिण द्रविड़ मध्य तमिल",
+      "sabse_pehla_pramanan": "500 और 300 ईसा पूर्व के बीच",
+      "shastriya_darja_milne_ki_tithi": "12 अक्टूबर 2004"
+    },
+    {
+      "bhasha": "संस्कृत",
+      "mool_lipi_mein": "संस्कृतम्",
+      "bhasha_parivar": "हिंद-यूरोपीय",
+      "bhasha_shakha": "इंडो-आर्यन",
+      "sabse_pehla_pramanan": "ईसा पूर्व पहली सदी",
+      "shastriya_darja_milne_ki_tithi": "25 नवंबर 2005"
+    },
+    {
+      "bhasha": "कन्नड़",
+      "mool_lipi_mein": "ಕನ್ನಡ",
+      "bhasha_parivar": "द्रविड़",
+      "bhasha_shakha": "दक्षिण द्रविड़ कन्नड़ बोलियां",
+      "sabse_pehla_pramanan": "370 ईस्वी",
+      "shastriya_darja_milne_ki_tithi": "31 अक्टूबर 2008"
+    },
+    {
+      "bhasha": "तेलुगु",
+      "mool_lipi_mein": "తెలుగు",
+      "bhasha_parivar": "द्रविड़",
+      "bhasha_shakha": "दक्षिण-मध्य द्रविड़ प्रारंभिक तेलुगु",
+      "sabse_pehla_pramanan": "400 ईस्वी",
+      "shastriya_darja_milne_ki_tithi": "31 अक्टूबर 2008"
+    },
+    {
+      "bhasha": "मलयालम",
+      "mool_lipi_mein": "മലയാളം",
+      "bhasha_parivar": "द्रविड़",
+      "bhasha_shakha": "दक्षिण द्रविड़",
+      "sabse_pehla_pramanan": "830 ईस्वी",
+      "shastriya_darja_milne_ki_tithi": "23 मई 2013"
+    },
+    {
+      "bhasha": "ओड़िया",
+      "mool_lipi_mein": "ଓଡ଼ିଆ",
+      "bhasha_parivar": "हिंद-यूरोपीय",
+      "bhasha_shakha": "पूर्वी इंडो-आर्यन",
+      "sabse_pehla_pramanan": "1051 ईस्वी",
+      "shastriya_darja_milne_ki_tithi": "20 फरवरी 2014"
+    },
+    {
+      "bhasha": "बंगाली",
+      "mool_lipi_mein": "বাংলা",
+      "bhasha_parivar": "हिंद-यूरोपीय",
+      "bhasha_shakha": "पूर्वी इंडो-आर्यन",
+      "sabse_pehla_pramanan": "10वीं सदी ईस्वी",
+      "shastriya_darja_milne_ki_tithi": "3 अक्टूबर 2024"
+    },
+    {
+      "bhasha": "असमिया",
+      "mool_lipi_mein": "অসমীয়া",
+      "bhasha_parivar": "हिंद-यूरोपीय",
+      "bhasha_shakha": "पूर्वी इंडो-आर्यन",
+      "sabse_pehla_pramanan": "9वीं सदी ईस्वी",
+      "shastriya_darja_milne_ki_tithi": "3 अक्टूबर 2024"
+    },
+    {
+      "bhasha": "मराठी",
+      "mool_lipi_mein": "मोड़ी: 𑘦𑘨𑘰𑘙𑘲, देवनागरी: मराठी",
+      "bhasha_parivar": "हिंद-यूरोपीय",
+      "bhasha_shakha": "दक्षिणी इंडो-आर्यन",
+      "sabse_pehla_pramanan": "739 ईस्वी",
+      "shastriya_darja_milne_ki_tithi": "3 अक्टूबर 2024"
+    },
+    {
+      "bhasha": "पालि",
+      "mool_lipi_mein": "खरोष्ठी: 𐨤𐨫𐨁, देवनागरी: पालि",
+      "bhasha_parivar": "हिंद-यूरोपीय",
+      "bhasha_shakha": "मध्य इंडो-आर्यन",
+      "sabse_pehla_pramanan": "तीसरी सदी ईसा पूर्व",
+      "shastriya_darja_milne_ki_tithi": "3 अक्टूबर 2024"
+    },
+    {
+      "bhasha": "प्राकृत",
+      "mool_lipi_mein": "ब्राह्मी: 𑀧𑁆𑀭𑀸𑀓𑀾𑀢, सिद्धं: 𑖢𑖿𑖨𑖯𑖎𑖴𑖝, देवनागरी: प्राकृत",
+      "bhasha_parivar": "हिंद-यूरोपीय",
+      "bhasha_shakha": "मध्य इंडो-आर्यन",
+      "sabse_pehla_pramanan": "तीसरी सदी ईसा पूर्व",
+      "shastriya_darja_milne_ki_tithi": "3 अक्टूबर 2024"
+    }
+  ],
+  "meta": {
+    "title": "भारत की शास्त्रीय भाषाएँ - Free Download",
+    "description": "भारत सरकार द्वारा शास्त्रीय भाषा का दर्जा प्राप्त 11 भाषाएँ — तमिल, संस्कृत, कन्नड़, तेलुगु, मलयालम, ओड़िया, बंगाली, असमिया, मराठी, पालि और प्राकृत — भाषा परिवार, शाखा, सबसे पहले प्रमाणन और दर्जा मिलने की तिथि सहित। Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत की शास्त्रीय भाषाएँ | ListBase",
+    "seo_description": "Download भारत की शास्त्रीय भाषाएँ — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_की_शास्त्रीय_भाषाएँ"
+    ]
+  }
+}

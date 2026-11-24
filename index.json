@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-24T02:26:28.455Z",
-  "total_datasets": 526,
-  "total_records": 2017965,
+  "generated": "2026-11-24T02:26:40.401Z",
+  "total_datasets": 527,
+  "total_records": 2017976,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "law",
@@ -7305,6 +7305,33 @@
         "xlsx": {
           "name": "hi-bharat-ki-pramukh-bhashaen-pratham-dwitiya-tritiya-bhashabhashi_HI.xlsx",
           "size": 7539
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ki-shastriya-bhashaen",
+      "name": "भारत की शास्त्रीय भाषाएँ",
+      "category": "language",
+      "record_count": 11,
+      "columns": [
+        "bhasha",
+        "mool_lipi_mein",
+        "bhasha_parivar",
+        "bhasha_shakha",
+        "sabse_pehla_pramanan",
+        "shastriya_darja_milne_ki_tithi"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_की_शास्त्रीय_भाषाएँ",
+      "updated": "2026-11",
+      "size": 7335,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ki-shastriya-bhashaen_HI.csv",
+          "size": 2529
+        },
+        "xlsx": {
+          "name": "hi-bharat-ki-shastriya-bhashaen_HI.xlsx",
+          "size": 7765
         }
       }
     },

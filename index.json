@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-23T02:25:01.752Z",
-  "total_datasets": 525,
-  "total_records": 2017947,
+  "generated": "2026-11-24T02:26:28.455Z",
+  "total_datasets": 526,
+  "total_records": 2017965,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "finance",
@@ -1257,6 +1257,34 @@
         "xlsx": {
           "name": "hi-bharat-ke-paristhitik-kshetra_HI.xlsx",
           "size": 10825
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ke-sanrakshit-jaivmandal",
+      "name": "भारत के संरक्षित जैवमंडल (बायोस्फीयर रिज़र्व)",
+      "category": "environment",
+      "record_count": 18,
+      "columns": [
+        "naam",
+        "sthapna_varsh",
+        "rajya",
+        "kshetra_vivaran",
+        "prakar_jaiv_bhugolik_kshetra",
+        "pramukh_jeev",
+        "kshetrafal_varg_km"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_संरक्षित_जैवमंडल",
+      "updated": "2026-11",
+      "size": 13044,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ke-sanrakshit-jaivmandal_HI.csv",
+          "size": 6861
+        },
+        "xlsx": {
+          "name": "hi-bharat-ke-sanrakshit-jaivmandal_HI.xlsx",
+          "size": 9290
         }
       }
     },

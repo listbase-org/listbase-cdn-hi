@@ -1,0 +1,223 @@
+{
+  "id": "hi-bharat-ke-sanrakshit-jaivmandal",
+  "name": "भारत के संरक्षित जैवमंडल (बायोस्फीयर रिज़र्व)",
+  "title": "भारत के संरक्षित जैवमंडल (बायोस्फीयर रिज़र्व)",
+  "description": "भारत के 18 संरक्षित जैवमंडल (बायोस्फीयर रिज़र्व) की सूची — स्थापना वर्ष, राज्य, क्षेत्र का विवरण, जैव-भौगोलिक प्रकार, प्रमुख वन्यजीव और क्षेत्रफल (वर्ग किमी)।",
+  "category": "environment",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_संरक्षित_जैवमंडल",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_संरक्षित_जैवमंडल",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "naam",
+      "label": "Naam",
+      "type": "string"
+    },
+    {
+      "key": "sthapna_varsh",
+      "label": "Sthapna Varsh",
+      "type": "number"
+    },
+    {
+      "key": "rajya",
+      "label": "Rajya",
+      "type": "string"
+    },
+    {
+      "key": "kshetra_vivaran",
+      "label": "Kshetra Vivaran",
+      "type": "string"
+    },
+    {
+      "key": "prakar_jaiv_bhugolik_kshetra",
+      "label": "Prakar Jaiv Bhugolik Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "pramukh_jeev",
+      "label": "Pramukh Jeev",
+      "type": "string"
+    },
+    {
+      "key": "kshetrafal_varg_km",
+      "label": "Kshetrafal Varg Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "naam": "नीलगिरि संरक्षित जैवमंडल",
+      "sthapna_varsh": 1986,
+      "rajya": "तमिलनाडु, केरल और कर्नाटक",
+      "kshetra_vivaran": "वायनाड, नागरहोल, बांदीपुर और मुदुमलाई, निलम्बूर, साइलेंट वैली का हिस्सा",
+      "prakar_jaiv_bhugolik_kshetra": "पश्चिमी घाट",
+      "pramukh_jeev": "नीलगिरि तहर, टाइगर, लायन-टेल्ड मकाक",
+      "kshetrafal_varg_km": 5520
+    },
+    {
+      "naam": "नन्दा देवी राष्ट्रीय उद्यान",
+      "sthapna_varsh": 1988,
+      "rajya": "उत्तराखंड",
+      "kshetra_vivaran": "चमोली जिला, पिथौरागढ़ जिला और बागेश्वर जिला के भाग",
+      "prakar_jaiv_bhugolik_kshetra": "पश्चिमी हिमालय",
+      "pramukh_jeev": "हिम तेंदुआ, हिमालयी काला भालू",
+      "kshetrafal_varg_km": 5860
+    },
+    {
+      "naam": "मन्नार की खाड़ी",
+      "sthapna_varsh": 1989,
+      "rajya": "तमिलनाडु",
+      "kshetra_vivaran": "मन्नार की खाड़ी का भारतीय हिस्सा उत्तर में रामेश्वरम द्वीप से तमिलनाडु और श्रीलंका के दक्षिण में कन्याकुमारी तक फैला हुआ है।",
+      "prakar_jaiv_bhugolik_kshetra": "तट",
+      "pramukh_jeev": "डुगोंग",
+      "kshetrafal_varg_km": 10500
+    },
+    {
+      "naam": "नोकरेक",
+      "sthapna_varsh": 1988,
+      "rajya": "मेघालय",
+      "kshetra_vivaran": "पश्चिम गारो हिल्स में",
+      "prakar_jaiv_bhugolik_kshetra": "ईस्टर्न हिल्स",
+      "pramukh_jeev": "लाल पांडा",
+      "kshetrafal_varg_km": 820
+    },
+    {
+      "naam": "सुंदरबन",
+      "sthapna_varsh": 1989,
+      "rajya": "पश्चिम बंगाल",
+      "kshetra_vivaran": "गंगा और ब्रह्मपुत्र नदी तंत्र के डेल्टा का हिस्सा",
+      "prakar_jaiv_bhugolik_kshetra": "गंगा का डेल्टा",
+      "pramukh_jeev": "रॉयल बंगाल टाइगर",
+      "kshetrafal_varg_km": 9630
+    },
+    {
+      "naam": "मानस",
+      "sthapna_varsh": 1989,
+      "rajya": "असम",
+      "kshetra_vivaran": "कोकराझार, बोंगाईगांव, बारपेटा, नलबाड़ी, कामरूप और दरंग जिला",
+      "prakar_jaiv_bhugolik_kshetra": "ईस्टर्न हिल्स",
+      "pramukh_jeev": "एशियाई हाथी, बाघ, असम रूफ्ड टर्टल, हिसपिड खरगोश, गोल्डन लंगूर, पिग्मी हॉग",
+      "kshetrafal_varg_km": 2837
+    },
+    {
+      "naam": "सिमलिपाल",
+      "sthapna_varsh": 1994,
+      "rajya": "ओडिशा",
+      "kshetra_vivaran": "मयूरभंज जिला का हिस्सा",
+      "prakar_jaiv_bhugolik_kshetra": "दक्कन प्रायद्वीप",
+      "pramukh_jeev": "गौर, रॉयल बंगाल टाइगर, एशियाई हाथी",
+      "kshetrafal_varg_km": 4374
+    },
+    {
+      "naam": "दिहांग-दिबांग",
+      "sthapna_varsh": 1998,
+      "rajya": "अरुणाचल प्रदेश",
+      "kshetra_vivaran": "सियांग और दिबांग घाटी का हिस्सा",
+      "prakar_jaiv_bhugolik_kshetra": "पूर्वी हिमालय",
+      "pramukh_jeev": "मिश्मी ताकिन, कस्तूरी मृग",
+      "kshetrafal_varg_km": 5112
+    },
+    {
+      "naam": "पचमढ़ी बायोस्फीयर रिजर्व",
+      "sthapna_varsh": 1999,
+      "rajya": "मध्य प्रदेश",
+      "kshetra_vivaran": "बैतूल जिला, होशंगाबाद जिला और छिंदवाड़ा जिला के भाग",
+      "prakar_jaiv_bhugolik_kshetra": "अर्ध-शुष्क",
+      "pramukh_jeev": "विशालकाय गिलहरी, उड़ने वाली गिलहरी",
+      "kshetrafal_varg_km": 4981.72
+    },
+    {
+      "naam": "अचानकमार-अमरकंटक",
+      "sthapna_varsh": 2005,
+      "rajya": "मध्य प्रदेश, छत्तीसगढ़",
+      "kshetra_vivaran": "अन्नूपुर, डिंडोरी और बिलासपुर जिलों का हिस्सा",
+      "prakar_jaiv_bhugolik_kshetra": "मैकाल हिल्स",
+      "pramukh_jeev": "चार सींग वाला मृग, भारतीय जंगली कुत्ता, सारस क्रेन, सफेद पृष्ठ वाला गिद्ध, पवित्र ग्रोव बुश मेंढक",
+      "kshetrafal_varg_km": 3835
+    },
+    {
+      "naam": "कच्छ का रण",
+      "sthapna_varsh": 2008,
+      "rajya": "गुजरात",
+      "kshetra_vivaran": "कच्छ, मोरबी, सुरेंद्रनगर और पाटन जिले का हिस्सा; भारत में सबसे बड़ा बायोस्फीयर रिजर्व.",
+      "prakar_jaiv_bhugolik_kshetra": "रेगिस्तान",
+      "pramukh_jeev": "भारतीय जंगली गधा",
+      "kshetrafal_varg_km": 12454
+    },
+    {
+      "naam": "कोल्ड डेज़र्ट संरक्षित जैवमंडल",
+      "sthapna_varsh": 2009,
+      "rajya": "हिमाचल प्रदेश",
+      "kshetra_vivaran": "पिन वैली नेशनल पार्क और परिवेश; चंद्रताल और सरचू और किब्बर वन्यजीव अभयारण्य",
+      "prakar_jaiv_bhugolik_kshetra": "पश्चिमी हिमालय",
+      "pramukh_jeev": "हिम तेंदुआ",
+      "kshetrafal_varg_km": 7770
+    },
+    {
+      "naam": "कंचनजंघा",
+      "sthapna_varsh": 2000,
+      "rajya": "सिक्किम",
+      "kshetra_vivaran": "कंचनजंगा के भाग",
+      "prakar_jaiv_bhugolik_kshetra": "पूर्वी हिमालय",
+      "pramukh_jeev": "हिम तेंदुआ, लाल पांडा",
+      "kshetrafal_varg_km": 2620
+    },
+    {
+      "naam": "अगसत्यमला संरक्षित जैवमंडल",
+      "sthapna_varsh": 2001,
+      "rajya": "केरल, तमिलनाडु",
+      "kshetra_vivaran": "नेय्यर, पेप्पारा और शेंदुरुनी वन्यजीव अभयारण्य और उनके आसपास के क्षेत्र",
+      "prakar_jaiv_bhugolik_kshetra": "पश्चिमी घाट",
+      "pramukh_jeev": "नीलगिरि तहर, एशियाई हाथी",
+      "kshetrafal_varg_km": 3500.08
+    },
+    {
+      "naam": "बड़ा निकोबार जैवमण्डल आरक्षित क्षेत्र",
+      "sthapna_varsh": 1989,
+      "rajya": "अंडमान और निकोबार द्वीप समूह",
+      "kshetra_vivaran": "अंडमान और निकोबार द्वीप समूह का सबसे दक्षिणी भाग",
+      "prakar_jaiv_bhugolik_kshetra": "द्वीपसमूह",
+      "pramukh_jeev": "खारे पानी का मगरमच्छ",
+      "kshetrafal_varg_km": 885
+    },
+    {
+      "naam": "डिब्रू-सैखोवा",
+      "sthapna_varsh": 1997,
+      "rajya": "असम",
+      "kshetra_vivaran": "डिब्रूगढ़ और तिनसुकिया जिला का हिस्सा",
+      "prakar_jaiv_bhugolik_kshetra": "ईस्टर्न हिल्स",
+      "pramukh_jeev": "सफेद पंखों वाली लकड़ी की बत्तख, जल भैंस, ब्लैक-ब्रेस्टेड पैरटबिल, बाघ, कैप्ड लंगूर",
+      "kshetrafal_varg_km": 765
+    },
+    {
+      "naam": "शेषचलम पहाड़ियाँ",
+      "sthapna_varsh": 2010,
+      "rajya": "आंध्र प्रदेश",
+      "kshetra_vivaran": "चित्तूर और कडप्पा जिलों के कुछ हिस्सों को कवर करने वाली शेषचलम पहाड़ी श्रृंखलाएं",
+      "prakar_jaiv_bhugolik_kshetra": "ईस्टर्न हिल्स",
+      "pramukh_jeev": "पतला लोरिस",
+      "kshetrafal_varg_km": 4755.997
+    },
+    {
+      "naam": "पन्ना",
+      "sthapna_varsh": 2011,
+      "rajya": "मध्य प्रदेश",
+      "kshetra_vivaran": "मध्य प्रदेश में पन्ना और छतरपुर जिलों का हिस्सा",
+      "prakar_jaiv_bhugolik_kshetra": "नम पर्णपाती वन",
+      "pramukh_jeev": "बंगाल टाइगर, चिंकारा, नीलगाय, सांभर सांभर हिरण, और स्लॉथ भालू",
+      "kshetrafal_varg_km": 2998.98
+    }
+  ],
+  "meta": {
+    "title": "भारत के संरक्षित जैवमंडल (बायोस्फीयर रिज़र्व) - Free Download",
+    "description": "भारत के 18 संरक्षित जैवमंडल (बायोस्फीयर रिज़र्व) की सूची — स्थापना वर्ष, राज्य, क्षेत्र का विवरण, जैव-भौगोलिक प्रकार, प्रमुख वन्यजीव और क्षेत्रफल (वर्ग किमी)। Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के संरक्षित जैवमंडल (बायोस्फीयर रिज़र्व) | ListBase",
+    "seo_description": "Download भारत के संरक्षित जैवमंडल (बायोस्फीयर रिज़र्व) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_संरक्षित_जैवमंडल"
+    ]
+  }
+}

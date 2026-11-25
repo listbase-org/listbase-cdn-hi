@@ -1,0 +1,275 @@
+{
+  "id": "hi-rajyon-ke-uchchatam-bindu",
+  "name": "भारत के राज्यों और संघ क्षेत्रों के उच्चतम बिंदु",
+  "title": "भारत के राज्यों और संघ क्षेत्रों के उच्चतम बिंदु",
+  "description": "भारत के प्रत्येक राज्य और संघ क्षेत्र का सबसे ऊँचा बिंदु (शिखर), उसकी पर्वत श्रेणी या क्षेत्र तथा मीटर और फुट में ऊँचाई। सूची पुरानी प्रशासनिक संरचना के अनुसार है (2014 में तेलंगाना के गठन से पहले; जम्मू और कश्मीर पूर्व राज्य के रूप में; दादरा और नगर हवेली तथा दमन और दीव अलग संघ क्षेत्र); असर्वेक्षित बिंदु शामिल नहीं हैं।",
+  "category": "geography",
+  "source": "https://hi.wikipedia.org/wiki/उच्चतम_बिन्दु_के_आधार_पर_भारत_के_राज्य_और_संघ_क्षेत्र",
+  "source_url": "https://hi.wikipedia.org/wiki/उच्चतम_बिन्दु_के_आधार_पर_भारत_के_राज्य_और_संघ_क्षेत्र",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "rajya_ya_sangh_kshetra",
+      "label": "Rajya Ya Sangh Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "uchchatam_bindu",
+      "label": "Uchchatam Bindu",
+      "type": "string"
+    },
+    {
+      "key": "parvat_shrenee_ya_kshetra",
+      "label": "Parvat Shrenee Ya Kshetra",
+      "type": "string"
+    },
+    {
+      "key": "oonchai_meter",
+      "label": "Oonchai Meter",
+      "type": "number"
+    },
+    {
+      "key": "oonchai_foot",
+      "label": "Oonchai Foot",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rajya_ya_sangh_kshetra": "सिक्किम",
+      "uchchatam_bindu": "कंचनजंगा",
+      "parvat_shrenee_ya_kshetra": "सिक्किम हिमालय",
+      "oonchai_meter": 8597,
+      "oonchai_foot": 28205
+    },
+    {
+      "rajya_ya_sangh_kshetra": "उत्तराखंड",
+      "uchchatam_bindu": "नन्दा देवी",
+      "parvat_shrenee_ya_kshetra": "गढ़वाल हिमालय",
+      "oonchai_meter": 7817,
+      "oonchai_foot": 25646
+    },
+    {
+      "rajya_ya_sangh_kshetra": "जम्मू और कश्मीर",
+      "uchchatam_bindu": "सल्तोरो काँग्ड़ी १",
+      "parvat_shrenee_ya_kshetra": "पश्चिमी हिमालय",
+      "oonchai_meter": 7742,
+      "oonchai_foot": 25400
+    },
+    {
+      "rajya_ya_sangh_kshetra": "हिमाचल प्रदेश",
+      "uchchatam_bindu": "शिल्ला",
+      "parvat_shrenee_ya_kshetra": "पश्चिमी हिमालय",
+      "oonchai_meter": 7025,
+      "oonchai_foot": 23045
+    },
+    {
+      "rajya_ya_sangh_kshetra": "अरुणाचल प्रदेश",
+      "uchchatam_bindu": "गोरिचेन",
+      "parvat_shrenee_ya_kshetra": "पूर्वी हिमालय",
+      "oonchai_meter": 6858,
+      "oonchai_foot": 22500
+    },
+    {
+      "rajya_ya_sangh_kshetra": "नागालैंड",
+      "uchchatam_bindu": "सरामति",
+      "parvat_shrenee_ya_kshetra": "नागालैंड की पहाड़ियाँ",
+      "oonchai_meter": 3841,
+      "oonchai_foot": 12602
+    },
+    {
+      "rajya_ya_sangh_kshetra": "पश्चिम बंगाल",
+      "uchchatam_bindu": "सांडक्फू",
+      "parvat_shrenee_ya_kshetra": "हिमालय",
+      "oonchai_meter": 3636,
+      "oonchai_foot": 11929
+    },
+    {
+      "rajya_ya_sangh_kshetra": "मणिपुर",
+      "uchchatam_bindu": "खायंग",
+      "parvat_shrenee_ya_kshetra": "उख्रुल",
+      "oonchai_meter": 3114,
+      "oonchai_foot": 10216
+    },
+    {
+      "rajya_ya_sangh_kshetra": "केरल",
+      "uchchatam_bindu": "अनमुड़ि",
+      "parvat_shrenee_ya_kshetra": "पश्चिमी घाट",
+      "oonchai_meter": 2695,
+      "oonchai_foot": 8842
+    },
+    {
+      "rajya_ya_sangh_kshetra": "तमिल नाडु",
+      "uchchatam_bindu": "डोड्डा बेट्टा",
+      "parvat_shrenee_ya_kshetra": "नीलगिरि",
+      "oonchai_meter": 2636,
+      "oonchai_foot": 8648
+    },
+    {
+      "rajya_ya_sangh_kshetra": "मिज़ोरम",
+      "uchchatam_bindu": "फौंग्पुइ",
+      "parvat_shrenee_ya_kshetra": "च्चिम्टूइपूइ",
+      "oonchai_meter": 2165,
+      "oonchai_foot": 7103
+    },
+    {
+      "rajya_ya_sangh_kshetra": "मेघालय",
+      "uchchatam_bindu": "शिलाँग शिखर",
+      "parvat_shrenee_ya_kshetra": "शिलाँग",
+      "oonchai_meter": 1965,
+      "oonchai_foot": 6447
+    },
+    {
+      "rajya_ya_sangh_kshetra": "कर्णाटक",
+      "uchchatam_bindu": "मुल्ल्यानगिरि",
+      "parvat_shrenee_ya_kshetra": "चिकमंगलूर",
+      "oonchai_meter": 1925,
+      "oonchai_foot": 6317
+    },
+    {
+      "rajya_ya_sangh_kshetra": "असम",
+      "uchchatam_bindu": "झिंगतुबुम",
+      "parvat_shrenee_ya_kshetra": "असम की पहाड़ियाँ",
+      "oonchai_meter": 1867,
+      "oonchai_foot": 6125
+    },
+    {
+      "rajya_ya_sangh_kshetra": "राजस्थान",
+      "uchchatam_bindu": "गुरु शिखर",
+      "parvat_shrenee_ya_kshetra": "अरावली श्रृंखला",
+      "oonchai_meter": 1722,
+      "oonchai_foot": 5650
+    },
+    {
+      "rajya_ya_sangh_kshetra": "उडी़सा",
+      "uchchatam_bindu": "देओमाली",
+      "parvat_shrenee_ya_kshetra": "पूर्वी घाट",
+      "oonchai_meter": 1672,
+      "oonchai_foot": 5486
+    },
+    {
+      "rajya_ya_sangh_kshetra": "महाराष्ट्र",
+      "uchchatam_bindu": "कल्सुबाई",
+      "parvat_shrenee_ya_kshetra": "पश्चिमी घाट",
+      "oonchai_meter": 1646,
+      "oonchai_foot": 5400
+    },
+    {
+      "rajya_ya_sangh_kshetra": "आंध्र प्रदेश",
+      "uchchatam_bindu": "महेन्द्रगिरि",
+      "parvat_shrenee_ya_kshetra": "पूर्वी घाट",
+      "oonchai_meter": 1501,
+      "oonchai_foot": 4925
+    },
+    {
+      "rajya_ya_sangh_kshetra": "झारखंड",
+      "uchchatam_bindu": "पारसनाथ",
+      "parvat_shrenee_ya_kshetra": "पारसनाथ पहाड़ियाँ",
+      "oonchai_meter": 1366,
+      "oonchai_foot": 4431
+    },
+    {
+      "rajya_ya_sangh_kshetra": "मध्य प्रदेश",
+      "uchchatam_bindu": "धूपगढ़",
+      "parvat_shrenee_ya_kshetra": "सतपुड़ा",
+      "oonchai_meter": 1350,
+      "oonchai_foot": 4429
+    },
+    {
+      "rajya_ya_sangh_kshetra": "हरियाणा",
+      "uchchatam_bindu": "मोर्नी",
+      "parvat_shrenee_ya_kshetra": "मोर्नी पहाड़ियाँ",
+      "oonchai_meter": 1220,
+      "oonchai_foot": 4003
+    },
+    {
+      "rajya_ya_sangh_kshetra": "त्रिपुरा",
+      "uchchatam_bindu": "बेटालोंग्च्चिप",
+      "parvat_shrenee_ya_kshetra": "जम्पुइ पर्वत श्रृंखला",
+      "oonchai_meter": 1097,
+      "oonchai_foot": 3600
+    },
+    {
+      "rajya_ya_sangh_kshetra": "छत्तीसगढ़",
+      "uchchatam_bindu": "देओगढ़",
+      "parvat_shrenee_ya_kshetra": "सतपुड़ा पर्वत श्रृंखला",
+      "oonchai_meter": 1027,
+      "oonchai_foot": 3369
+    },
+    {
+      "rajya_ya_sangh_kshetra": "गोआ",
+      "uchchatam_bindu": "सोसोगाद",
+      "parvat_shrenee_ya_kshetra": "साह्यद्रि श्रृंखला",
+      "oonchai_meter": 1019,
+      "oonchai_foot": 3343
+    },
+    {
+      "rajya_ya_sangh_kshetra": "पंजाब",
+      "uchchatam_bindu": "सिलाइ धार",
+      "parvat_shrenee_ya_kshetra": "गुरदासपुर",
+      "oonchai_meter": 959,
+      "oonchai_foot": 3146
+    },
+    {
+      "rajya_ya_sangh_kshetra": "गुजरात",
+      "uchchatam_bindu": "गिरनार",
+      "parvat_shrenee_ya_kshetra": "जूनागढ़",
+      "oonchai_meter": 945,
+      "oonchai_foot": 3100
+    },
+    {
+      "rajya_ya_sangh_kshetra": "अंडमान और निकोबार द्वीप समूह",
+      "uchchatam_bindu": "सैडल शिखर",
+      "parvat_shrenee_ya_kshetra": "उत्तरी अंडमान",
+      "oonchai_meter": 732,
+      "oonchai_foot": 2402
+    },
+    {
+      "rajya_ya_sangh_kshetra": "बिहार",
+      "uchchatam_bindu": "अनामित बिन्दु",
+      "parvat_shrenee_ya_kshetra": "राजगिर पहाड़ियाँ",
+      "oonchai_meter": 488,
+      "oonchai_foot": 1601
+    },
+    {
+      "rajya_ya_sangh_kshetra": "चंडीगढ़",
+      "uchchatam_bindu": "अनामित बिन्दु",
+      "parvat_shrenee_ya_kshetra": "कैपिटोल क्षेत्र",
+      "oonchai_meter": 383,
+      "oonchai_foot": 1257
+    },
+    {
+      "rajya_ya_sangh_kshetra": "दिल्ली",
+      "uchchatam_bindu": "अनामित बिन्दु",
+      "parvat_shrenee_ya_kshetra": "तुगलकाबाद",
+      "oonchai_meter": 319,
+      "oonchai_foot": 1047
+    },
+    {
+      "rajya_ya_sangh_kshetra": "दमन और दीव",
+      "uchchatam_bindu": "अनामित बिन्दु",
+      "parvat_shrenee_ya_kshetra": "दीव",
+      "oonchai_meter": 30,
+      "oonchai_foot": 66
+    },
+    {
+      "rajya_ya_sangh_kshetra": "पाण्डिचेरी",
+      "uchchatam_bindu": "ले मोंटाज़ रुज़",
+      "parvat_shrenee_ya_kshetra": "लाल पहाड़ियाँ",
+      "oonchai_meter": 30,
+      "oonchai_foot": 66
+    }
+  ],
+  "meta": {
+    "title": "भारत के राज्यों और संघ क्षेत्रों के उच्चतम बिंदु - Free Download",
+    "description": "भारत के प्रत्येक राज्य और संघ क्षेत्र का सबसे ऊँचा बिंदु (शिखर), उसकी पर्वत श्रेणी या क्षेत्र तथा मीटर और फुट में ऊँचाई। सूची पुरानी प्रशासनिक संरचना के अनुसार है (2014 में तेलंगाना के गठन से पहले; जम्मू और कश्मीर पूर्व राज्य के रूप में; दादरा और नगर हवेली तथा दमन और दीव अलग संघ क्षेत्र); असर्वेक्षित बिंदु शामिल नहीं हैं। Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के राज्यों और संघ क्षेत्रों के उच्चतम बिंदु | ListBase",
+    "seo_description": "Download भारत के राज्यों और संघ क्षेत्रों के उच्चतम बिंदु — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/उच्चतम_बिन्दु_के_आधार_पर_भारत_के_राज्य_और_संघ_क्षेत्र"
+    ]
+  }
+}

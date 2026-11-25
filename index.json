@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-24T02:26:40.401Z",
-  "total_datasets": 527,
-  "total_records": 2017976,
+  "generated": "2026-11-25T02:26:27.994Z",
+  "total_datasets": 528,
+  "total_records": 2018008,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 41
+      "dataset_count": 42
     },
     {
       "id": "health",
@@ -6090,6 +6090,32 @@
         "xlsx": {
           "name": "hi-rajasthan-shahar_HI.xlsx",
           "size": 127070
+        }
+      }
+    },
+    {
+      "id": "hi-rajyon-ke-uchchatam-bindu",
+      "name": "भारत के राज्यों और संघ क्षेत्रों के उच्चतम बिंदु",
+      "category": "geography",
+      "record_count": 32,
+      "columns": [
+        "rajya_ya_sangh_kshetra",
+        "uchchatam_bindu",
+        "parvat_shrenee_ya_kshetra",
+        "oonchai_meter",
+        "oonchai_foot"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/उच्चतम_बिन्दु_के_आधार_पर_भारत_के_राज्य_और_संघ_क्षेत्र",
+      "updated": "2026-11",
+      "size": 12328,
+      "files": {
+        "csv": {
+          "name": "hi-rajyon-ke-uchchatam-bindu_HI.csv",
+          "size": 3647
+        },
+        "xlsx": {
+          "name": "hi-rajyon-ke-uchchatam-bindu_HI.xlsx",
+          "size": 8656
         }
       }
     },

@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-25T02:26:27.994Z",
-  "total_datasets": 528,
-  "total_records": 2018008,
+  "generated": "2026-11-26T02:11:05.667Z",
+  "total_datasets": 529,
+  "total_records": 2018074,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 42
+      "dataset_count": 43
     },
     {
       "id": "health",
@@ -5245,6 +5245,31 @@
         "xlsx": {
           "name": "hi-assam-shahar_HI.xlsx",
           "size": 30583
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ki-pramukh-nadiyan-lambai",
+      "name": "भारत की प्रमुख नदियाँ — लंबाई और मुहाना (300 किमी से अधिक)",
+      "category": "geography",
+      "record_count": 66,
+      "columns": [
+        "river",
+        "length_km",
+        "flows_into",
+        "wikidata_id"
+      ],
+      "source": "https://query.wikidata.org/#SELECT%20%3Fr%20%3Frl%20%28MAX%28%3Flen%29%20AS%20%3FL%29%20%28SAMPLE%28%3Fml%29%20AS%20%3Fmouth%29%20WHERE%20%7B%20%3Fr%20wdt%3AP31/wdt%3AP279%2A%20wd%3AQ4022%3B%20wdt%3AP17%20wd%3AQ668%3B%20wdt%3AP2043%20%3Flen.%20%3Fr%20rdfs%3Alabel%20%3Frl%20FILTER%28lang%28%3Frl%29%3D%27hi%27%29%20OPTIONAL%7B%3Fr%20wdt%3AP403%20%3Fm.%20%3Fm%20rdfs%3Alabel%20%3Fml%20FILTER%28lang%28%3Fml%29%3D%27hi%27%29%7D%20%7D%20GROUP%20BY%20%3Fr%20%3Frl%20ORDER%20BY%20DESC%28%3FL%29",
+      "updated": "2026-11",
+      "size": 15130,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ki-pramukh-nadiyan-lambai_HI.csv",
+          "size": 5225
+        },
+        "xlsx": {
+          "name": "hi-bharat-ki-pramukh-nadiyan-lambai_HI.xlsx",
+          "size": 9277
         }
       }
     },

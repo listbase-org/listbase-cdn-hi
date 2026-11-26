@@ -1,0 +1,442 @@
+{
+  "id": "hi-bharat-ki-pramukh-nadiyan-lambai",
+  "name": "भारत की प्रमुख नदियाँ — लंबाई और मुहाना (300 किमी से अधिक)",
+  "title": "भारत की प्रमुख नदियाँ — लंबाई और मुहाना (300 किमी से अधिक)",
+  "description": "भारत से होकर बहने वाली 300 किलोमीटर से अधिक लंबी नदियों की सूची — कुल लंबाई (किमी) और वह नदी या सागर जिसमें वे मिलती हैं, लंबाई के घटते क्रम में। स्रोत: विकिडेटा (हिन्दी लेबल)।",
+  "category": "geography",
+  "source": "https://query.wikidata.org/#SELECT%20%3Fr%20%3Frl%20%28MAX%28%3Flen%29%20AS%20%3FL%29%20%28SAMPLE%28%3Fml%29%20AS%20%3Fmouth%29%20WHERE%20%7B%20%3Fr%20wdt%3AP31/wdt%3AP279%2A%20wd%3AQ4022%3B%20wdt%3AP17%20wd%3AQ668%3B%20wdt%3AP2043%20%3Flen.%20%3Fr%20rdfs%3Alabel%20%3Frl%20FILTER%28lang%28%3Frl%29%3D%27hi%27%29%20OPTIONAL%7B%3Fr%20wdt%3AP403%20%3Fm.%20%3Fm%20rdfs%3Alabel%20%3Fml%20FILTER%28lang%28%3Fml%29%3D%27hi%27%29%7D%20%7D%20GROUP%20BY%20%3Fr%20%3Frl%20ORDER%20BY%20DESC%28%3FL%29",
+  "source_url": "https://query.wikidata.org/#SELECT%20%3Fr%20%3Frl%20%28MAX%28%3Flen%29%20AS%20%3FL%29%20%28SAMPLE%28%3Fml%29%20AS%20%3Fmouth%29%20WHERE%20%7B%20%3Fr%20wdt%3AP31/wdt%3AP279%2A%20wd%3AQ4022%3B%20wdt%3AP17%20wd%3AQ668%3B%20wdt%3AP2043%20%3Flen.%20%3Fr%20rdfs%3Alabel%20%3Frl%20FILTER%28lang%28%3Frl%29%3D%27hi%27%29%20OPTIONAL%7B%3Fr%20wdt%3AP403%20%3Fm.%20%3Fm%20rdfs%3Alabel%20%3Fml%20FILTER%28lang%28%3Fml%29%3D%27hi%27%29%7D%20%7D%20GROUP%20BY%20%3Fr%20%3Frl%20ORDER%20BY%20DESC%28%3FL%29",
+  "updated": "2026-11",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "river",
+      "label": "River",
+      "type": "string"
+    },
+    {
+      "key": "length_km",
+      "label": "Length Km",
+      "type": "number"
+    },
+    {
+      "key": "flows_into",
+      "label": "Flows Into",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "river": "सिन्धु नदी",
+      "length_km": 3180,
+      "flows_into": "अरब सागर",
+      "wikidata_id": "Q7348"
+    },
+    {
+      "river": "ब्रह्मपुत्र नदी",
+      "length_km": 2900,
+      "flows_into": "गंगा नदी",
+      "wikidata_id": "Q45403"
+    },
+    {
+      "river": "गंगा नदी",
+      "length_km": 2525,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q5089"
+    },
+    {
+      "river": "चनाब नदी",
+      "length_km": 1974,
+      "flows_into": "पानजनाद नदी",
+      "wikidata_id": "Q216875"
+    },
+    {
+      "river": "सतलुज नदी",
+      "length_km": 1500,
+      "flows_into": "पानजनाद नदी",
+      "wikidata_id": "Q171675"
+    },
+    {
+      "river": "गोदावरी नदी",
+      "length_km": 1465,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q191314"
+    },
+    {
+      "river": "कृष्णा नदी",
+      "length_km": 1400,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q193499"
+    },
+    {
+      "river": "यमुना नदी",
+      "length_km": 1376,
+      "flows_into": "गंगा नदी",
+      "wikidata_id": "Q132726"
+    },
+    {
+      "river": "नर्मदा नदी",
+      "length_km": 1315,
+      "flows_into": "अरब सागर",
+      "wikidata_id": "Q234004"
+    },
+    {
+      "river": "घाघरा नदी",
+      "length_km": 1080,
+      "flows_into": "गंगा नदी",
+      "wikidata_id": "Q390232"
+    },
+    {
+      "river": "चम्बल नदी",
+      "length_km": 960,
+      "flows_into": "यमुना नदी",
+      "wikidata_id": "Q1060631"
+    },
+    {
+      "river": "गोमती नदी",
+      "length_km": 900,
+      "flows_into": "गंगा नदी",
+      "wikidata_id": "Q477676"
+    },
+    {
+      "river": "बराक नदी",
+      "length_km": 900,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q1709169"
+    },
+    {
+      "river": "सूरमा नदी",
+      "length_km": 900,
+      "flows_into": "मेघना नदी",
+      "wikidata_id": "Q2985860"
+    },
+    {
+      "river": "भीमा नदी",
+      "length_km": 861,
+      "flows_into": "कृष्णा नदी",
+      "wikidata_id": "Q854999"
+    },
+    {
+      "river": "महानदी",
+      "length_km": 860,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q271044"
+    },
+    {
+      "river": "ब्राह्मणी नदी",
+      "length_km": 799,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q2639171"
+    },
+    {
+      "river": "सोन नदी",
+      "length_km": 780,
+      "flows_into": "गंगा नदी",
+      "wikidata_id": "Q1418174"
+    },
+    {
+      "river": "झेलम नदी",
+      "length_km": 774,
+      "flows_into": "चनाब नदी",
+      "wikidata_id": "Q214874"
+    },
+    {
+      "river": "कावेरी नदी",
+      "length_km": 765,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q216239"
+    },
+    {
+      "river": "कोसी नदी",
+      "length_km": 729,
+      "flows_into": "गंगा नदी",
+      "wikidata_id": "Q695610"
+    },
+    {
+      "river": "रावी नदी",
+      "length_km": 720,
+      "flows_into": "चनाब नदी",
+      "wikidata_id": "Q317899"
+    },
+    {
+      "river": "ताप्ती नदी",
+      "length_km": 720,
+      "flows_into": "खंभात की खाड़ी",
+      "wikidata_id": "Q707056"
+    },
+    {
+      "river": "तुंगभद्रा नदी",
+      "length_km": 710,
+      "flows_into": "कृष्णा नदी",
+      "wikidata_id": "Q949183"
+    },
+    {
+      "river": "गंडक नदी",
+      "length_km": 630,
+      "flows_into": "गंगा नदी",
+      "wikidata_id": "Q849494"
+    },
+    {
+      "river": "राप्ती नदी",
+      "length_km": 600,
+      "flows_into": "घाघरा नदी",
+      "wikidata_id": "Q2869013"
+    },
+    {
+      "river": "पेन्नार नदी",
+      "length_km": 597,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q1877489"
+    },
+    {
+      "river": "दामोदर नदी",
+      "length_km": 592,
+      "flows_into": "हुगली नदी",
+      "wikidata_id": "Q1971511"
+    },
+    {
+      "river": "बेतवा नदी",
+      "length_km": 590,
+      "flows_into": "यमुना नदी",
+      "wikidata_id": "Q1334522"
+    },
+    {
+      "river": "वैनगंगा नदी",
+      "length_km": 580,
+      "flows_into": "प्राणहिता नदी",
+      "wikidata_id": "Q3132789"
+    },
+    {
+      "river": "सई नदी",
+      "length_km": 563,
+      "flows_into": "गोमती नदी",
+      "wikidata_id": "Q2212097"
+    },
+    {
+      "river": "माही नदी",
+      "length_km": 550,
+      "flows_into": "अरब सागर",
+      "wikidata_id": "Q542539"
+    },
+    {
+      "river": "श्योक नदी",
+      "length_km": 550,
+      "flows_into": "सिन्धु नदी",
+      "wikidata_id": "Q1587234"
+    },
+    {
+      "river": "बनास नदी",
+      "length_km": 512,
+      "flows_into": "चम्बल नदी",
+      "wikidata_id": "Q2722701"
+    },
+    {
+      "river": "बूढ़ी गण्डक",
+      "length_km": 500,
+      "flows_into": "गंगा नदी",
+      "wikidata_id": "Q3630468"
+    },
+    {
+      "river": "लूनी नदी",
+      "length_km": 495,
+      "flows_into": "रन ऑफ कच्छ",
+      "wikidata_id": "Q289273"
+    },
+    {
+      "river": "पैनगंगा नदी",
+      "length_km": 495,
+      "flows_into": "वर्धा नदी",
+      "wikidata_id": "Q3269735"
+    },
+    {
+      "river": "सुवर्णरेखा नदी",
+      "length_km": 470,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q3822918"
+    },
+    {
+      "river": "टिस्टा नदी",
+      "length_km": 470,
+      "flows_into": "ब्रह्मपुत्र नदी",
+      "wikidata_id": "Q907883"
+    },
+    {
+      "river": "सिंद",
+      "length_km": 470,
+      "flows_into": "यमुना नदी",
+      "wikidata_id": "Q3308162"
+    },
+    {
+      "river": "ब्यास नदी",
+      "length_km": 470,
+      "flows_into": "सतलुज नदी",
+      "wikidata_id": "Q319590"
+    },
+    {
+      "river": "कलादान नदी",
+      "length_km": 450,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q3182712"
+    },
+    {
+      "river": "लोहित नदी",
+      "length_km": 450,
+      "flows_into": "ब्रह्मपुत्र नदी",
+      "wikidata_id": "Q1083286"
+    },
+    {
+      "river": "सुबनसिरी नदी",
+      "length_km": 442,
+      "flows_into": "ब्रह्मपुत्र नदी",
+      "wikidata_id": "Q1709162"
+    },
+    {
+      "river": "पार्वती नदी",
+      "length_km": 436,
+      "flows_into": "चम्बल नदी",
+      "wikidata_id": "Q2173757"
+    },
+    {
+      "river": "केन नदी",
+      "length_km": 427,
+      "flows_into": "यमुना नदी",
+      "wikidata_id": "Q3322395"
+    },
+    {
+      "river": "साबरी नदी",
+      "length_km": 418,
+      "flows_into": "गोदावरी नदी",
+      "wikidata_id": "Q7395907"
+    },
+    {
+      "river": "मानस नदी",
+      "length_km": 400,
+      "flows_into": "ब्रह्मपुत्र नदी",
+      "wikidata_id": "Q2015702"
+    },
+    {
+      "river": "हिण्डन नदी",
+      "length_km": 400,
+      "flows_into": "यमुना नदी",
+      "wikidata_id": "Q2723150"
+    },
+    {
+      "river": "इंद्रावती नदी",
+      "length_km": 386,
+      "flows_into": "गोदावरी नदी",
+      "wikidata_id": "Q1661830"
+    },
+    {
+      "river": "शिवनाथ नदी",
+      "length_km": 380,
+      "flows_into": "महानदी",
+      "wikidata_id": "Q7499414"
+    },
+    {
+      "river": "साबरमती",
+      "length_km": 371,
+      "flows_into": "अरब सागर",
+      "wikidata_id": "Q630397"
+    },
+    {
+      "river": "रायडाक नदी",
+      "length_km": 370,
+      "flows_into": "ब्रह्मपुत्र नदी",
+      "wikidata_id": "Q3647339"
+    },
+    {
+      "river": "दिहिंग नदी",
+      "length_km": 362,
+      "flows_into": "ब्रह्मपुत्र नदी",
+      "wikidata_id": "Q5276409"
+    },
+    {
+      "river": "महानंदा नदी",
+      "length_km": 360,
+      "flows_into": "गंगा नदी",
+      "wikidata_id": "Q2428539"
+    },
+    {
+      "river": "धनसीरी नदी",
+      "length_km": 354,
+      "flows_into": "ब्रह्मपुत्र नदी",
+      "wikidata_id": "Q1755951"
+    },
+    {
+      "river": "मोरा धनसीरी नदी",
+      "length_km": 352,
+      "flows_into": "धनसीरी नदी",
+      "wikidata_id": "Q609157"
+    },
+    {
+      "river": "काली सिन्ध नदी",
+      "length_km": 351,
+      "flows_into": "चम्बल नदी",
+      "wikidata_id": "Q6352448"
+    },
+    {
+      "river": "पलार नदी",
+      "length_km": 350,
+      "flows_into": "बंगाल की खाड़ी",
+      "wikidata_id": "Q609625"
+    },
+    {
+      "river": "काली नदी",
+      "length_km": 350,
+      "flows_into": "घाघरा नदी",
+      "wikidata_id": "Q2095324"
+    },
+    {
+      "river": "सरयू",
+      "length_km": 350,
+      "flows_into": "काली नदी",
+      "wikidata_id": "Q3241461"
+    },
+    {
+      "river": "पूर्ण",
+      "length_km": 334,
+      "flows_into": "ताप्ती नदी",
+      "wikidata_id": "Q982731"
+    },
+    {
+      "river": "तोर्षा नदी",
+      "length_km": 330,
+      "flows_into": "ब्रह्मपुत्र नदी",
+      "wikidata_id": "Q2066287"
+    },
+    {
+      "river": "हसदेव नदी",
+      "length_km": 330,
+      "flows_into": "महानदी",
+      "wikidata_id": "Q5678705"
+    },
+    {
+      "river": "कमला नदी",
+      "length_km": 328,
+      "flows_into": "बागमती",
+      "wikidata_id": "Q6355608"
+    },
+    {
+      "river": "संकोश नदी",
+      "length_km": 320,
+      "flows_into": "ब्रह्मपुत्र नदी",
+      "wikidata_id": "Q629894"
+    }
+  ],
+  "meta": {
+    "title": "भारत की प्रमुख नदियाँ — लंबाई और मुहाना (300 किमी से अधिक) - Free Download",
+    "description": "भारत से होकर बहने वाली 300 किलोमीटर से अधिक लंबी नदियों की सूची — कुल लंबाई (किमी) और वह नदी या सागर जिसमें वे मिलती हैं, लंबाई के घटते क्रम में। स्रोत: विकिडेटा (हिन्दी लेबल)। Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत की प्रमुख नदियाँ — लंबाई और मुहाना (300 किमी से अधिक) | ListBase",
+    "seo_description": "Download भारत की प्रमुख नदियाँ — लंबाई और मुहाना (300 किमी से अधिक) — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://query.wikidata.org/#SELECT%20%3Fr%20%3Frl%20%28MAX%28%3Flen%29%20AS%20%3FL%29%20%28SAMPLE%28%3Fml%29%20AS%20%3Fmouth%29%20WHERE%20%7B%20%3Fr%20wdt%3AP31/wdt%3AP279%2A%20wd%3AQ4022%3B%20wdt%3AP17%20wd%3AQ668%3B%20wdt%3AP2043%20%3Flen.%20%3Fr%20rdfs%3Alabel%20%3Frl%20FILTER%28lang%28%3Frl%29%3D%27hi%27%29%20OPTIONAL%7B%3Fr%20wdt%3AP403%20%3Fm.%20%3Fm%20rdfs%3Alabel%20%3Fml%20FILTER%28lang%28%3Fml%29%3D%27hi%27%29%7D%20%7D%20GROUP%20BY%20%3Fr%20%3Frl%20ORDER%20BY%20DESC%28%3FL%29"
+    ]
+  }
+}

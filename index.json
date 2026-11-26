@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-26T02:11:05.667Z",
-  "total_datasets": 529,
-  "total_records": 2018074,
+  "generated": "2026-11-26T02:11:17.696Z",
+  "total_datasets": 530,
+  "total_records": 2018086,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "economy",
@@ -317,6 +317,32 @@
         "xlsx": {
           "name": "hi-bharat-ratna-vijeta_HI.xlsx",
           "size": 12949
+        }
+      }
+    },
+    {
+      "id": "hi-dwadash-jyotirling",
+      "name": "द्वादश ज्योतिर्लिंग — स्थान और राज्य",
+      "category": "culture",
+      "record_count": 12,
+      "columns": [
+        "number",
+        "jyotirlinga",
+        "state",
+        "location",
+        "description"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/द्वादश_ज्योतिर्लिंग",
+      "updated": "2026-11",
+      "size": 12477,
+      "files": {
+        "csv": {
+          "name": "hi-dwadash-jyotirling_HI.csv",
+          "size": 8831
+        },
+        "xlsx": {
+          "name": "hi-dwadash-jyotirling_HI.xlsx",
+          "size": 9115
         }
       }
     },

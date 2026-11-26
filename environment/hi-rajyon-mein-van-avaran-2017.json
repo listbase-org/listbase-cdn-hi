@@ -1,0 +1,436 @@
+{
+  "id": "hi-rajyon-mein-van-avaran-2017",
+  "name": "भारत के राज्यों में वन आवरण (भारत वन स्थिति रिपोर्ट 2017)",
+  "title": "भारत के राज्यों में वन आवरण (भारत वन स्थिति रिपोर्ट 2017)",
+  "description": "भारतीय वन सर्वेक्षण की भारत वन स्थिति रिपोर्ट 2017 के अनुसार राज्यों और केंद्र शासित प्रदेशों में वन आवरण (वर्ग किमी) — बहुत घना, मध्यम घना और खुला वन, कुल वन क्षेत्र, भौगोलिक क्षेत्र का प्रतिशत और 2015 के बाद का परिवर्तन। (2017 की प्रशासनिक संरचना के अनुसार।)",
+  "category": "environment",
+  "source": "https://hi.wikipedia.org/wiki/भारत_के_राज्यों_में_वनों_का_आवरण",
+  "source_url": "https://hi.wikipedia.org/wiki/भारत_के_राज्यों_में_वनों_का_आवरण",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "geographic_area_km2",
+      "label": "Geographic Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "very_dense_forest_km2",
+      "label": "Very Dense Forest Km2",
+      "type": "number"
+    },
+    {
+      "key": "moderately_dense_forest_km2",
+      "label": "Moderately Dense Forest Km2",
+      "type": "number"
+    },
+    {
+      "key": "open_forest_km2",
+      "label": "Open Forest Km2",
+      "type": "number"
+    },
+    {
+      "key": "total_forest_cover_km2",
+      "label": "Total Forest Cover Km2",
+      "type": "number"
+    },
+    {
+      "key": "forest_cover_pct",
+      "label": "Forest Cover Pct",
+      "type": "number"
+    },
+    {
+      "key": "change_since_2015_pct",
+      "label": "Change Since 2015 Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "state": "आंध्र प्रदेश",
+      "geographic_area_km2": 162968,
+      "very_dense_forest_km2": 1957,
+      "moderately_dense_forest_km2": 14051,
+      "open_forest_km2": 12139,
+      "total_forest_cover_km2": 28147,
+      "forest_cover_pct": 17.27,
+      "change_since_2015_pct": 1.31
+    },
+    {
+      "state": "अरुणाचल प्रदेश",
+      "geographic_area_km2": 83743,
+      "very_dense_forest_km2": 20721,
+      "moderately_dense_forest_km2": 30955,
+      "open_forest_km2": 15288,
+      "total_forest_cover_km2": 66964,
+      "forest_cover_pct": 79.96,
+      "change_since_2015_pct": -0.23
+    },
+    {
+      "state": "असम",
+      "geographic_area_km2": 78438,
+      "very_dense_forest_km2": 2797,
+      "moderately_dense_forest_km2": 10192,
+      "open_forest_km2": 15116,
+      "total_forest_cover_km2": 28105,
+      "forest_cover_pct": 35.83,
+      "change_since_2015_pct": 0.72
+    },
+    {
+      "state": "बिहार",
+      "geographic_area_km2": 94163,
+      "very_dense_forest_km2": 332,
+      "moderately_dense_forest_km2": 3260,
+      "open_forest_km2": 3707,
+      "total_forest_cover_km2": 7299,
+      "forest_cover_pct": 7.75,
+      "change_since_2015_pct": 0.05
+    },
+    {
+      "state": "छत्तीसगढ़",
+      "geographic_area_km2": 135192,
+      "very_dense_forest_km2": 7064,
+      "moderately_dense_forest_km2": 32215,
+      "open_forest_km2": 16268,
+      "total_forest_cover_km2": 55547,
+      "forest_cover_pct": 41.09,
+      "change_since_2015_pct": -0.01
+    },
+    {
+      "state": "दिल्ली",
+      "geographic_area_km2": 1483,
+      "very_dense_forest_km2": 7,
+      "moderately_dense_forest_km2": 56,
+      "open_forest_km2": 129,
+      "total_forest_cover_km2": 192,
+      "forest_cover_pct": 12.97,
+      "change_since_2015_pct": 0.25
+    },
+    {
+      "state": "गोवा",
+      "geographic_area_km2": 3702,
+      "very_dense_forest_km2": 538,
+      "moderately_dense_forest_km2": 576,
+      "open_forest_km2": 1115,
+      "total_forest_cover_km2": 2229,
+      "forest_cover_pct": 60.21,
+      "change_since_2015_pct": 0.51
+    },
+    {
+      "state": "गुजरात",
+      "geographic_area_km2": 196244,
+      "very_dense_forest_km2": 378,
+      "moderately_dense_forest_km2": 5200,
+      "open_forest_km2": 9179,
+      "total_forest_cover_km2": 14757,
+      "forest_cover_pct": 7.52,
+      "change_since_2015_pct": 0.02
+    },
+    {
+      "state": "हरियाणा",
+      "geographic_area_km2": 44212,
+      "very_dense_forest_km2": 28,
+      "moderately_dense_forest_km2": 452,
+      "open_forest_km2": 1108,
+      "total_forest_cover_km2": 1588,
+      "forest_cover_pct": 3.59,
+      "change_since_2015_pct": 0.02
+    },
+    {
+      "state": "हिमाचल प्रदेश",
+      "geographic_area_km2": 55673,
+      "very_dense_forest_km2": 3110,
+      "moderately_dense_forest_km2": 6705,
+      "open_forest_km2": 5285,
+      "total_forest_cover_km2": 15100,
+      "forest_cover_pct": 27.12,
+      "change_since_2015_pct": 0.71
+    },
+    {
+      "state": "जम्मू और कश्मीर",
+      "geographic_area_km2": 222236,
+      "very_dense_forest_km2": 4075,
+      "moderately_dense_forest_km2": 8579,
+      "open_forest_km2": 10587,
+      "total_forest_cover_km2": 23241,
+      "forest_cover_pct": 10.46,
+      "change_since_2015_pct": 0.11
+    },
+    {
+      "state": "झारखंड",
+      "geographic_area_km2": 79716,
+      "very_dense_forest_km2": 2598,
+      "moderately_dense_forest_km2": 9686,
+      "open_forest_km2": 11269,
+      "total_forest_cover_km2": 23553,
+      "forest_cover_pct": 29.55,
+      "change_since_2015_pct": 0.04
+    },
+    {
+      "state": "कर्नाटक",
+      "geographic_area_km2": 191791,
+      "very_dense_forest_km2": 4502,
+      "moderately_dense_forest_km2": 20444,
+      "open_forest_km2": 12604,
+      "total_forest_cover_km2": 37550,
+      "forest_cover_pct": 19.58,
+      "change_since_2015_pct": 0.57
+    },
+    {
+      "state": "केरल",
+      "geographic_area_km2": 38852,
+      "very_dense_forest_km2": 1663,
+      "moderately_dense_forest_km2": 9407,
+      "open_forest_km2": 8251,
+      "total_forest_cover_km2": 20321,
+      "forest_cover_pct": 52.3,
+      "change_since_2015_pct": 2.68
+    },
+    {
+      "state": "मध्य प्रदेश",
+      "geographic_area_km2": 308252,
+      "very_dense_forest_km2": 6563,
+      "moderately_dense_forest_km2": 34571,
+      "open_forest_km2": 36280,
+      "total_forest_cover_km2": 77414,
+      "forest_cover_pct": 25.11,
+      "change_since_2015_pct": 0
+    },
+    {
+      "state": "महाराष्ट्र",
+      "geographic_area_km2": 307713,
+      "very_dense_forest_km2": 8736,
+      "moderately_dense_forest_km2": 20652,
+      "open_forest_km2": 21294,
+      "total_forest_cover_km2": 50682,
+      "forest_cover_pct": 16.47,
+      "change_since_2015_pct": -0.01
+    },
+    {
+      "state": "मणिपुर",
+      "geographic_area_km2": 22327,
+      "very_dense_forest_km2": 908,
+      "moderately_dense_forest_km2": 6510,
+      "open_forest_km2": 9928,
+      "total_forest_cover_km2": 17346,
+      "forest_cover_pct": 77.69,
+      "change_since_2015_pct": 1.18
+    },
+    {
+      "state": "मेघालय",
+      "geographic_area_km2": 22429,
+      "very_dense_forest_km2": 453,
+      "moderately_dense_forest_km2": 9386,
+      "open_forest_km2": 7307,
+      "total_forest_cover_km2": 17146,
+      "forest_cover_pct": 76.76,
+      "change_since_2015_pct": -0.52
+    },
+    {
+      "state": "मिजोरम",
+      "geographic_area_km2": 21081,
+      "very_dense_forest_km2": 131,
+      "moderately_dense_forest_km2": 5861,
+      "open_forest_km2": 12194,
+      "total_forest_cover_km2": 18186,
+      "forest_cover_pct": 86.27,
+      "change_since_2015_pct": -2.52
+    },
+    {
+      "state": "नागालैंड",
+      "geographic_area_km2": 16579,
+      "very_dense_forest_km2": 1279,
+      "moderately_dense_forest_km2": 4587,
+      "open_forest_km2": 6623,
+      "total_forest_cover_km2": 12489,
+      "forest_cover_pct": 75.33,
+      "change_since_2015_pct": -2.71
+    },
+    {
+      "state": "ओडिशा",
+      "geographic_area_km2": 155707,
+      "very_dense_forest_km2": 6967,
+      "moderately_dense_forest_km2": 21370,
+      "open_forest_km2": 23008,
+      "total_forest_cover_km2": 51345,
+      "forest_cover_pct": 32.98,
+      "change_since_2015_pct": 0.57
+    },
+    {
+      "state": "पंजाब",
+      "geographic_area_km2": 50362,
+      "very_dense_forest_km2": 8,
+      "moderately_dense_forest_km2": 806,
+      "open_forest_km2": 1023,
+      "total_forest_cover_km2": 1837,
+      "forest_cover_pct": 3.65,
+      "change_since_2015_pct": 0.13
+    },
+    {
+      "state": "राजस्थान",
+      "geographic_area_km2": 342239,
+      "very_dense_forest_km2": 78,
+      "moderately_dense_forest_km2": 4340,
+      "open_forest_km2": 12154,
+      "total_forest_cover_km2": 16572,
+      "forest_cover_pct": 4.84,
+      "change_since_2015_pct": 0.14
+    },
+    {
+      "state": "सिक्किम",
+      "geographic_area_km2": 7096,
+      "very_dense_forest_km2": 1081,
+      "moderately_dense_forest_km2": 1575,
+      "open_forest_km2": 688,
+      "total_forest_cover_km2": 3344,
+      "forest_cover_pct": 47.13,
+      "change_since_2015_pct": -0.13
+    },
+    {
+      "state": "तमिलनाडु",
+      "geographic_area_km2": 130060,
+      "very_dense_forest_km2": 3672,
+      "moderately_dense_forest_km2": 10979,
+      "open_forest_km2": 11630,
+      "total_forest_cover_km2": 26281,
+      "forest_cover_pct": 20.21,
+      "change_since_2015_pct": 0.06
+    },
+    {
+      "state": "तेलंगाना",
+      "geographic_area_km2": 112077,
+      "very_dense_forest_km2": 1596,
+      "moderately_dense_forest_km2": 8738,
+      "open_forest_km2": 10085,
+      "total_forest_cover_km2": 20419,
+      "forest_cover_pct": 18.22,
+      "change_since_2015_pct": 0.5
+    },
+    {
+      "state": "त्रिपुरा",
+      "geographic_area_km2": 10486,
+      "very_dense_forest_km2": 656,
+      "moderately_dense_forest_km2": 5246,
+      "open_forest_km2": 1824,
+      "total_forest_cover_km2": 7726,
+      "forest_cover_pct": 73.68,
+      "change_since_2015_pct": -1.56
+    },
+    {
+      "state": "उत्तर प्रदेश",
+      "geographic_area_km2": 240928,
+      "very_dense_forest_km2": 2617,
+      "moderately_dense_forest_km2": 4069,
+      "open_forest_km2": 7993,
+      "total_forest_cover_km2": 14679,
+      "forest_cover_pct": 6.09,
+      "change_since_2015_pct": 0.12
+    },
+    {
+      "state": "उत्तराखंड",
+      "geographic_area_km2": 53483,
+      "very_dense_forest_km2": 4969,
+      "moderately_dense_forest_km2": 12884,
+      "open_forest_km2": 6442,
+      "total_forest_cover_km2": 24295,
+      "forest_cover_pct": 45.43,
+      "change_since_2015_pct": 0.04
+    },
+    {
+      "state": "पश्चिम बंगाल",
+      "geographic_area_km2": 88752,
+      "very_dense_forest_km2": 2994,
+      "moderately_dense_forest_km2": 4147,
+      "open_forest_km2": 9706,
+      "total_forest_cover_km2": 16847,
+      "forest_cover_pct": 18.98,
+      "change_since_2015_pct": 0.02
+    },
+    {
+      "state": "अंडमान और निकोबार द्वीपसमूह",
+      "geographic_area_km2": 8249,
+      "very_dense_forest_km2": 5678,
+      "moderately_dense_forest_km2": 684,
+      "open_forest_km2": 380,
+      "total_forest_cover_km2": 6742,
+      "forest_cover_pct": 81.73,
+      "change_since_2015_pct": -0.11
+    },
+    {
+      "state": "चण्डीगढ़",
+      "geographic_area_km2": 114,
+      "very_dense_forest_km2": 1,
+      "moderately_dense_forest_km2": 14,
+      "open_forest_km2": 6,
+      "total_forest_cover_km2": 22,
+      "forest_cover_pct": 18.91,
+      "change_since_2015_pct": -0.09
+    },
+    {
+      "state": "दादरा और नगर हवेली",
+      "geographic_area_km2": 491,
+      "very_dense_forest_km2": 0,
+      "moderately_dense_forest_km2": 80,
+      "open_forest_km2": 127,
+      "total_forest_cover_km2": 207,
+      "forest_cover_pct": 42.16,
+      "change_since_2015_pct": 0.2
+    },
+    {
+      "state": "दमन और दीव",
+      "geographic_area_km2": 111,
+      "very_dense_forest_km2": 1,
+      "moderately_dense_forest_km2": 6,
+      "open_forest_km2": 13,
+      "total_forest_cover_km2": 20,
+      "forest_cover_pct": 18.46,
+      "change_since_2015_pct": 0.79
+    },
+    {
+      "state": "लक्षद्वीप",
+      "geographic_area_km2": 30,
+      "very_dense_forest_km2": 0,
+      "moderately_dense_forest_km2": 17,
+      "open_forest_km2": 10,
+      "total_forest_cover_km2": 27,
+      "forest_cover_pct": 90.33,
+      "change_since_2015_pct": 0.13
+    },
+    {
+      "state": "पुडुचेरी",
+      "geographic_area_km2": 490,
+      "very_dense_forest_km2": 0,
+      "moderately_dense_forest_km2": 18,
+      "open_forest_km2": 36,
+      "total_forest_cover_km2": 54,
+      "forest_cover_pct": 10.95,
+      "change_since_2015_pct": -0.67
+    },
+    {
+      "state": "कुल (भारत)",
+      "geographic_area_km2": 3287469,
+      "very_dense_forest_km2": 98158,
+      "moderately_dense_forest_km2": 308318,
+      "open_forest_km2": 301797,
+      "total_forest_cover_km2": 708273,
+      "forest_cover_pct": 21.54,
+      "change_since_2015_pct": 0.21
+    }
+  ],
+  "meta": {
+    "title": "भारत के राज्यों में वन आवरण (भारत वन स्थिति रिपोर्ट 2017) - Free Download",
+    "description": "भारतीय वन सर्वेक्षण की भारत वन स्थिति रिपोर्ट 2017 के अनुसार राज्यों और केंद्र शासित प्रदेशों में वन आवरण (वर्ग किमी) — बहुत घना, मध्यम घना और खुला वन, कुल वन क्षेत्र, भौगोलिक क्षेत्र का प्रतिशत और 2015 के बाद का परिवर्तन। (2017 की प्रशासनिक संरचना के अनुसार।) Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "भारत के राज्यों में वन आवरण (भारत वन स्थिति रिपोर्ट 2017) | ListBase",
+    "seo_description": "Download भारत के राज्यों में वन आवरण (भारत वन स्थिति रिपोर्ट 2017) — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/भारत_के_राज्यों_में_वनों_का_आवरण"
+    ]
+  }
+}

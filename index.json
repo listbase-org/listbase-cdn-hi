@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-26T02:11:17.696Z",
-  "total_datasets": 530,
-  "total_records": 2018086,
+  "generated": "2026-11-26T02:11:28.772Z",
+  "total_datasets": 531,
+  "total_records": 2018123,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "finance",
@@ -1484,6 +1484,35 @@
         "xlsx": {
           "name": "hi-rajya-pashu_HI.xlsx",
           "size": 10491
+        }
+      }
+    },
+    {
+      "id": "hi-rajyon-mein-van-avaran-2017",
+      "name": "भारत के राज्यों में वन आवरण (भारत वन स्थिति रिपोर्ट 2017)",
+      "category": "environment",
+      "record_count": 37,
+      "columns": [
+        "state",
+        "geographic_area_km2",
+        "very_dense_forest_km2",
+        "moderately_dense_forest_km2",
+        "open_forest_km2",
+        "total_forest_cover_km2",
+        "forest_cover_pct",
+        "change_since_2015_pct"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_के_राज्यों_में_वनों_का_आवरण",
+      "updated": "2026-11",
+      "size": 15374,
+      "files": {
+        "csv": {
+          "name": "hi-rajyon-mein-van-avaran-2017_HI.csv",
+          "size": 3103
+        },
+        "xlsx": {
+          "name": "hi-rajyon-mein-van-avaran-2017_HI.xlsx",
+          "size": 9175
         }
       }
     },

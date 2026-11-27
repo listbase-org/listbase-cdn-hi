@@ -1,0 +1,313 @@
+{
+  "id": "hi-sahitya-akademi-anuvad-puraskar-hindi",
+  "name": "साहित्य अकादमी अनुवाद पुरस्कार (हिन्दी)",
+  "title": "साहित्य अकादमी अनुवाद पुरस्कार (हिन्दी)",
+  "description": "हिन्दी में अनुवाद के लिए साहित्य अकादमी अनुवाद पुरस्कार से सम्मानित कृतियाँ — वर्ष, अनुवादक, हिन्दी कृति, विधा, मूल लेखक, मूल कृति और मूल भाषा।",
+  "category": "language",
+  "source": "https://hi.wikipedia.org/wiki/साहित्य_अकादमी_पुरस्कार_हिन्दी",
+  "source_url": "https://hi.wikipedia.org/wiki/साहित्य_अकादमी_पुरस्कार_हिन्दी",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "translator",
+      "label": "Translator",
+      "type": "string"
+    },
+    {
+      "key": "hindi_title",
+      "label": "Hindi Title",
+      "type": "string"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "original_author",
+      "label": "Original Author",
+      "type": "string"
+    },
+    {
+      "key": "original_title",
+      "label": "Original Title",
+      "type": "string"
+    },
+    {
+      "key": "original_language",
+      "label": "Original Language",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1989,
+      "translator": "नूर नबी अब्बासी",
+      "hindi_title": "मालाबार से मास्को तक",
+      "genre": "आत्मकथा",
+      "original_author": "कुमार पद्म शिव शंकर मेनन",
+      "original_title": "मेनी वर्ल्डस",
+      "original_language": "अंग्रेज़ी"
+    },
+    {
+      "year": 1990,
+      "translator": "मोरेश्वर तपस्वी",
+      "hindi_title": "ययाती",
+      "genre": "उपन्यास",
+      "original_author": "वी. एस. खांडेकर",
+      "original_title": "ययाती",
+      "original_language": "मराठी"
+    },
+    {
+      "year": 1991,
+      "translator": "भीमसेन निर्मल",
+      "hindi_title": "विश्वम्भरा",
+      "genre": "महाकाव्य",
+      "original_author": "सी॰ नारायण रेड्डी",
+      "original_title": "विश्वम्भरा",
+      "original_language": "तेलुगू"
+    },
+    {
+      "year": 1992,
+      "translator": "कांति देब",
+      "hindi_title": "मृत्युंजय",
+      "genre": "उपन्यास",
+      "original_author": "निरंजना",
+      "original_title": "मृत्युंजय",
+      "original_language": "कन्नड़"
+    },
+    {
+      "year": 1993,
+      "translator": "नंदिनी डी॰ मेहता",
+      "hindi_title": "देवरोंसे पार आकाश",
+      "genre": "उपन्यास",
+      "original_author": "कुंदनिका कापडीआ",
+      "original_title": "सात पगलान आकाशमान",
+      "original_language": "गुजराती"
+    },
+    {
+      "year": 1994,
+      "translator": "बी आर नारायण",
+      "hindi_title": "क्षितिज",
+      "genre": "उपन्यास",
+      "original_author": "शांतिनाथ देसाई",
+      "original_title": "क्षितिज",
+      "original_language": "कन्नड़"
+    },
+    {
+      "year": 1995,
+      "translator": "सुधांशु चतुर्वेदी",
+      "hindi_title": "रस्सी",
+      "genre": "उपन्यास",
+      "original_author": "तकाजी शिवशंकरा पिल्लै",
+      "original_title": "केयर",
+      "original_language": "मलयालम"
+    },
+    {
+      "year": 1996,
+      "translator": "एन ई विश्वनाथ अय्यर",
+      "hindi_title": "दवा",
+      "genre": "उपन्यास",
+      "original_author": "पनाथिल कुंहाब्दुल्ला",
+      "original_title": "मरुन्नू",
+      "original_language": "मलयालम"
+    },
+    {
+      "year": 1997,
+      "translator": "जे एल रेड्डी",
+      "hindi_title": "मिट्टी का आदमी",
+      "genre": "उपन्यास",
+      "original_author": "वासीरेड्डी सीतादेवी",
+      "original_title": "मट्टी मनीशी",
+      "original_language": "तेलुगू"
+    },
+    {
+      "year": 1998,
+      "translator": "राजेंद्र प्रसाद मिश्रा",
+      "hindi_title": "वर्षा की सुबाह",
+      "genre": "कविता",
+      "original_author": "सताकांत महापात्र",
+      "original_title": "वर्षा सकल",
+      "original_language": "ओड़िया"
+    },
+    {
+      "year": 1999,
+      "translator": "प्रयाग शुक्ला",
+      "hindi_title": "बंकिमचंद्र प्रतीनिधी निबंध",
+      "genre": "निबंध",
+      "original_author": "बंकिम चंद्र चट्टोपाध्याय",
+      "original_title": "कलेक्शन औफ एसेज बाय बंकिम चंद्र",
+      "original_language": "बंगाली"
+    },
+    {
+      "year": 2000,
+      "translator": "रति सक्सेना",
+      "hindi_title": "अयाप्पा पाणिकर की कविताएं",
+      "genre": "कविता",
+      "original_author": "के अयाप्पा पाणिकर",
+      "original_title": "अयाप्पा पाणिकरुदे क्रितीकल",
+      "original_language": "मलयालम"
+    },
+    {
+      "year": 2001,
+      "translator": "चमन लाल",
+      "hindi_title": "समया ओ भाई समया",
+      "genre": "कविता",
+      "original_author": "पाश",
+      "original_title": "कलेक्शन",
+      "original_language": "पंजाबी"
+    },
+    {
+      "year": 2002,
+      "translator": "कृष्णमोहन",
+      "hindi_title": "कामयोगी",
+      "genre": "उपन्यास",
+      "original_author": "सुधीर ककर",
+      "original_title": "द ऐसेटिक ऑफ डिज़ायर",
+      "original_language": "अंग्रेज़ी"
+    },
+    {
+      "year": 2003,
+      "translator": "देवेश",
+      "hindi_title": "संरचनावाद, उत्तर-संरचनावाद एवं प्राच्य काव्यशास्त्र",
+      "genre": "साहित्यिक आलोचना",
+      "original_author": "गोपी चंद नारंग",
+      "original_title": "सखतियाट, पास-ससखतियाट और मशरिकी शेरियत",
+      "original_language": "उर्दू"
+    },
+    {
+      "year": 2004,
+      "translator": "रामशंकर द्विवेदी",
+      "hindi_title": "झांसी की रानी",
+      "genre": "उपन्यास",
+      "original_author": "महाश्वेता देवी",
+      "original_title": "झांसीर रानी",
+      "original_language": "बंगाली"
+    },
+    {
+      "year": 2005,
+      "translator": "निर्मला जैन",
+      "hindi_title": "सच, प्यार और थाडी सी शारारत",
+      "genre": "आत्मकथा",
+      "original_author": "खुशवंत सिंह",
+      "original_title": "ट्रुथ, लव औन्ड लिटिल मलिस",
+      "original_language": "अंग्रेज़ी"
+    },
+    {
+      "year": 2006,
+      "translator": "वाई॰ बालशोहरी रेड्डी",
+      "hindi_title": "कालतीत व्यक्ति",
+      "genre": "उपन्यास",
+      "original_author": "श्रीदेवी",
+      "original_title": "कालतीत व्यक्तुलू",
+      "original_language": "तेलुगू"
+    },
+    {
+      "year": 2007,
+      "translator": "बच्चन सिंह",
+      "hindi_title": "महाभारत की कथा",
+      "genre": "आलोचना",
+      "original_author": "बुद्धदेव बोस",
+      "original_title": "महाभारतेर कथा",
+      "original_language": "बंगाली"
+    },
+    {
+      "year": 2008,
+      "translator": "नीलाभ अश्क",
+      "hindi_title": "ममूली चीजों का देवता",
+      "genre": "उपन्यास",
+      "original_author": "अरुंधती राय",
+      "original_title": "द गॉड ऑफ स्मॉल थिंग्स",
+      "original_language": "अंग्रेज़ी"
+    },
+    {
+      "year": 2009,
+      "translator": "भालचंद्र जयशेट्टी",
+      "hindi_title": "काव्यार्थ चिंतन",
+      "genre": "कविता",
+      "original_author": "जी एस शिवारुद्रप्पा",
+      "original_title": "काव्यार्थ चिंतन",
+      "original_language": "कन्नड़"
+    },
+    {
+      "year": 2010,
+      "translator": "शंकर लाल पुरोहित",
+      "hindi_title": "परजा",
+      "genre": "उपन्यास",
+      "original_author": "गोपीनाथ मोहंती",
+      "original_title": "परजा",
+      "original_language": "ओड़िया"
+    },
+    {
+      "year": 2011,
+      "translator": "एस॰ शेषरत्नम",
+      "hindi_title": "गीफ्ट पैकेट",
+      "genre": "उपन्यास",
+      "original_author": "जयंती पापाराव",
+      "original_title": "वेदुकुतु, वेंतदुतु, वेतादुतु",
+      "original_language": "तेलुगू"
+    },
+    {
+      "year": 2012,
+      "translator": "रामजी तिवारी",
+      "hindi_title": "संभाजी",
+      "genre": "उपन्यास",
+      "original_author": "विश्वास पाटिल",
+      "original_title": "संभाजी",
+      "original_language": "मराठी"
+    },
+    {
+      "year": 2013,
+      "translator": "बुद्धदेब चटर्जी",
+      "hindi_title": "अहीरन",
+      "genre": "उपन्यास",
+      "original_author": "इंदिरा गोस्वामी",
+      "original_title": "अहीरन",
+      "original_language": "असमिया"
+    },
+    {
+      "year": 2014,
+      "translator": "फूलचन्द मानव",
+      "hindi_title": "अन्नदाता",
+      "genre": "उपन्यास",
+      "original_author": "बलदेव सिंह",
+      "original_title": "अन्नदाता",
+      "original_language": "पंजाबी"
+    },
+    {
+      "year": 2015,
+      "translator": "दामोदर खडसे",
+      "hindi_title": "बारोमास",
+      "genre": "उपन्यास",
+      "original_author": "सदानंद देशमुख",
+      "original_title": "बारोमास",
+      "original_language": "मराठी"
+    },
+    {
+      "year": 2016,
+      "translator": "पी॰ जयरामन",
+      "hindi_title": "सन्त वाणी (खन्ड ३ और ४)",
+      "genre": "कविता",
+      "original_author": "अलवर संत",
+      "original_title": "संत वाणी - नलयीरा दिव्या प्रबन्धम",
+      "original_language": "तामिल"
+    }
+  ],
+  "meta": {
+    "title": "साहित्य अकादमी अनुवाद पुरस्कार (हिन्दी) - Free Download",
+    "description": "हिन्दी में अनुवाद के लिए साहित्य अकादमी अनुवाद पुरस्कार से सम्मानित कृतियाँ — वर्ष, अनुवादक, हिन्दी कृति, विधा, मूल लेखक, मूल कृति और मूल भाषा। Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "साहित्य अकादमी अनुवाद पुरस्कार (हिन्दी) | ListBase",
+    "seo_description": "Download साहित्य अकादमी अनुवाद पुरस्कार (हिन्दी) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://hi.wikipedia.org/wiki/साहित्य_अकादमी_पुरस्कार_हिन्दी"
+    ]
+  }
+}

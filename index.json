@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-26T02:11:28.772Z",
-  "total_datasets": 531,
-  "total_records": 2018123,
+  "generated": "2026-11-27T02:14:01.818Z",
+  "total_datasets": 532,
+  "total_records": 2018229,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 43
+      "dataset_count": 44
     },
     {
       "id": "health",
@@ -5300,6 +5300,29 @@
         "xlsx": {
           "name": "hi-assam-shahar_HI.xlsx",
           "size": 30583
+        }
+      }
+    },
+    {
+      "id": "hi-bharat-ki-jheelen-rajyavar",
+      "name": "भारत की झीलें — राज्यवार सूची",
+      "category": "geography",
+      "record_count": 106,
+      "columns": [
+        "lake",
+        "state"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/भारत_की_झीलों_की_सूची",
+      "updated": "2026-11",
+      "size": 14393,
+      "files": {
+        "csv": {
+          "name": "hi-bharat-ki-jheelen-rajyavar_HI.csv",
+          "size": 7167
+        },
+        "xlsx": {
+          "name": "hi-bharat-ki-jheelen-rajyavar_HI.xlsx",
+          "size": 9167
         }
       }
     },

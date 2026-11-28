@@ -1,12 +1,12 @@
 {
   "lang": "hi",
-  "generated": "2026-11-27T02:14:13.345Z",
-  "total_datasets": 533,
-  "total_records": 2018257,
+  "generated": "2026-11-28T02:18:19.717Z",
+  "total_datasets": 534,
+  "total_records": 2018274,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -219,6 +219,38 @@
         "xlsx": {
           "name": "hi-bharatiya-govansh-naslen_HI.xlsx",
           "size": 8036
+        }
+      }
+    },
+    {
+      "id": "hi-kharif-faslon-ka-msp-2026-27",
+      "name": "खरीफ फसलों का न्यूनतम समर्थन मूल्य (एमएसपी) 2026-27",
+      "category": "agriculture",
+      "record_count": 17,
+      "columns": [
+        "crop_group",
+        "crop",
+        "variety",
+        "msp_2026_27",
+        "cost_of_production_2026_27",
+        "margin_over_cost_pct",
+        "msp_2025_26",
+        "msp_2013_14",
+        "increase_over_2025_26",
+        "increase_over_2013_14",
+        "increase_over_2013_14_pct"
+      ],
+      "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2260659&lang=2&reg=3",
+      "updated": "2026-11",
+      "size": 10020,
+      "files": {
+        "csv": {
+          "name": "hi-kharif-faslon-ka-msp-2026-27_HI.csv",
+          "size": 1893
+        },
+        "xlsx": {
+          "name": "hi-kharif-faslon-ka-msp-2026-27_HI.xlsx",
+          "size": 8087
         }
       }
     },

@@ -1,0 +1,302 @@
+{
+  "id": "hi-kharif-faslon-ka-msp-2026-27",
+  "name": "खरीफ फसलों का न्यूनतम समर्थन मूल्य (एमएसपी) 2026-27",
+  "title": "खरीफ फसलों का न्यूनतम समर्थन मूल्य (एमएसपी) 2026-27",
+  "description": "विपणन सीजन 2026-27 के लिए 14 खरीफ फसलों का न्यूनतम समर्थन मूल्य (रुपये प्रति क्विंटल), उत्पादन लागत, लागत पर मार्जिन तथा 2025-26 और 2013-14 की तुलना में वृद्धि (पत्र सूचना कार्यालय, 13 मई 2026)।",
+  "category": "agriculture",
+  "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2260659&lang=2&reg=3",
+  "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2260659&lang=2&reg=3",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "crop_group",
+      "label": "Crop Group",
+      "type": "string"
+    },
+    {
+      "key": "crop",
+      "label": "Crop",
+      "type": "string"
+    },
+    {
+      "key": "variety",
+      "label": "Variety",
+      "type": "string"
+    },
+    {
+      "key": "msp_2026_27",
+      "label": "Msp 2026 27",
+      "type": "number"
+    },
+    {
+      "key": "cost_of_production_2026_27",
+      "label": "Cost Of Production 2026 27",
+      "type": "number"
+    },
+    {
+      "key": "margin_over_cost_pct",
+      "label": "Margin Over Cost Pct",
+      "type": "number"
+    },
+    {
+      "key": "msp_2025_26",
+      "label": "Msp 2025 26",
+      "type": "number"
+    },
+    {
+      "key": "msp_2013_14",
+      "label": "Msp 2013 14",
+      "type": "number"
+    },
+    {
+      "key": "increase_over_2025_26",
+      "label": "Increase Over 2025 26",
+      "type": "number"
+    },
+    {
+      "key": "increase_over_2013_14",
+      "label": "Increase Over 2013 14",
+      "type": "number"
+    },
+    {
+      "key": "increase_over_2013_14_pct",
+      "label": "Increase Over 2013 14 Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "crop_group": "अनाज",
+      "crop": "धान",
+      "variety": "सामान्य",
+      "msp_2026_27": 2441,
+      "cost_of_production_2026_27": 1627,
+      "margin_over_cost_pct": 50,
+      "msp_2025_26": 2369,
+      "msp_2013_14": 1310,
+      "increase_over_2025_26": 72,
+      "increase_over_2013_14": 1131,
+      "increase_over_2013_14_pct": 86
+    },
+    {
+      "crop_group": "अनाज",
+      "crop": "धान",
+      "variety": "ग्रेड ए",
+      "msp_2026_27": 2461,
+      "cost_of_production_2026_27": "",
+      "margin_over_cost_pct": "",
+      "msp_2025_26": 2389,
+      "msp_2013_14": 1345,
+      "increase_over_2025_26": 72,
+      "increase_over_2013_14": 1116,
+      "increase_over_2013_14_pct": 83
+    },
+    {
+      "crop_group": "अनाज",
+      "crop": "ज्वार",
+      "variety": "हाइब्रिड",
+      "msp_2026_27": 4023,
+      "cost_of_production_2026_27": 2682,
+      "margin_over_cost_pct": 50,
+      "msp_2025_26": 3699,
+      "msp_2013_14": 1500,
+      "increase_over_2025_26": 324,
+      "increase_over_2013_14": 2523,
+      "increase_over_2013_14_pct": 168
+    },
+    {
+      "crop_group": "अनाज",
+      "crop": "ज्वार",
+      "variety": "मालदंडी",
+      "msp_2026_27": 4073,
+      "cost_of_production_2026_27": "",
+      "margin_over_cost_pct": "",
+      "msp_2025_26": 3749,
+      "msp_2013_14": 1520,
+      "increase_over_2025_26": 324,
+      "increase_over_2013_14": 2553,
+      "increase_over_2013_14_pct": 168
+    },
+    {
+      "crop_group": "अनाज",
+      "crop": "बाजरा",
+      "variety": "",
+      "msp_2026_27": 2900,
+      "cost_of_production_2026_27": 1858,
+      "margin_over_cost_pct": 56,
+      "msp_2025_26": 2775,
+      "msp_2013_14": 1250,
+      "increase_over_2025_26": 125,
+      "increase_over_2013_14": 1650,
+      "increase_over_2013_14_pct": 132
+    },
+    {
+      "crop_group": "अनाज",
+      "crop": "रागी",
+      "variety": "",
+      "msp_2026_27": 5205,
+      "cost_of_production_2026_27": 3470,
+      "margin_over_cost_pct": 50,
+      "msp_2025_26": 4886,
+      "msp_2013_14": 1500,
+      "increase_over_2025_26": 319,
+      "increase_over_2013_14": 3705,
+      "increase_over_2013_14_pct": 247
+    },
+    {
+      "crop_group": "अनाज",
+      "crop": "मक्का",
+      "variety": "",
+      "msp_2026_27": 2410,
+      "cost_of_production_2026_27": 1544,
+      "margin_over_cost_pct": 56,
+      "msp_2025_26": 2400,
+      "msp_2013_14": 1310,
+      "increase_over_2025_26": 10,
+      "increase_over_2013_14": 1100,
+      "increase_over_2013_14_pct": 84
+    },
+    {
+      "crop_group": "दलहन",
+      "crop": "तुर / अरहर",
+      "variety": "",
+      "msp_2026_27": 8450,
+      "cost_of_production_2026_27": 5496,
+      "margin_over_cost_pct": 54,
+      "msp_2025_26": 8000,
+      "msp_2013_14": 4300,
+      "increase_over_2025_26": 450,
+      "increase_over_2013_14": 4150,
+      "increase_over_2013_14_pct": 97
+    },
+    {
+      "crop_group": "दलहन",
+      "crop": "मूंग",
+      "variety": "",
+      "msp_2026_27": 8780,
+      "cost_of_production_2026_27": 5438,
+      "margin_over_cost_pct": 61,
+      "msp_2025_26": 8768,
+      "msp_2013_14": 4500,
+      "increase_over_2025_26": 12,
+      "increase_over_2013_14": 4280,
+      "increase_over_2013_14_pct": 95
+    },
+    {
+      "crop_group": "दलहन",
+      "crop": "उरद",
+      "variety": "",
+      "msp_2026_27": 8200,
+      "cost_of_production_2026_27": 5418,
+      "margin_over_cost_pct": 51,
+      "msp_2025_26": 7800,
+      "msp_2013_14": 4300,
+      "increase_over_2025_26": 400,
+      "increase_over_2013_14": 3900,
+      "increase_over_2013_14_pct": 91
+    },
+    {
+      "crop_group": "तिलहन",
+      "crop": "मूंगफली",
+      "variety": "",
+      "msp_2026_27": 7517,
+      "cost_of_production_2026_27": 5011,
+      "margin_over_cost_pct": 50,
+      "msp_2025_26": 7263,
+      "msp_2013_14": 4000,
+      "increase_over_2025_26": 254,
+      "increase_over_2013_14": 3517,
+      "increase_over_2013_14_pct": 88
+    },
+    {
+      "crop_group": "तिलहन",
+      "crop": "सूरजमुखी के बीज",
+      "variety": "",
+      "msp_2026_27": 8343,
+      "cost_of_production_2026_27": 5562,
+      "margin_over_cost_pct": 50,
+      "msp_2025_26": 7721,
+      "msp_2013_14": 3700,
+      "increase_over_2025_26": 622,
+      "increase_over_2013_14": 4643,
+      "increase_over_2013_14_pct": 125
+    },
+    {
+      "crop_group": "तिलहन",
+      "crop": "पीली सोयाबीन",
+      "variety": "",
+      "msp_2026_27": 5708,
+      "cost_of_production_2026_27": 3805,
+      "margin_over_cost_pct": 50,
+      "msp_2025_26": 5328,
+      "msp_2013_14": 2560,
+      "increase_over_2025_26": 380,
+      "increase_over_2013_14": 3148,
+      "increase_over_2013_14_pct": 123
+    },
+    {
+      "crop_group": "तिलहन",
+      "crop": "तिल",
+      "variety": "",
+      "msp_2026_27": 10346,
+      "cost_of_production_2026_27": 6897,
+      "margin_over_cost_pct": 50,
+      "msp_2025_26": 9846,
+      "msp_2013_14": 4500,
+      "increase_over_2025_26": 500,
+      "increase_over_2013_14": 5846,
+      "increase_over_2013_14_pct": 130
+    },
+    {
+      "crop_group": "तिलहन",
+      "crop": "नाइजरसीड",
+      "variety": "",
+      "msp_2026_27": 10052,
+      "cost_of_production_2026_27": 6701,
+      "margin_over_cost_pct": 50,
+      "msp_2025_26": 9537,
+      "msp_2013_14": 3500,
+      "increase_over_2025_26": 515,
+      "increase_over_2013_14": 6552,
+      "increase_over_2013_14_pct": 187
+    },
+    {
+      "crop_group": "व्यावसायिक",
+      "crop": "कपास",
+      "variety": "मध्यम रेशा",
+      "msp_2026_27": 8267,
+      "cost_of_production_2026_27": 5511,
+      "margin_over_cost_pct": 50,
+      "msp_2025_26": 7710,
+      "msp_2013_14": 3700,
+      "increase_over_2025_26": 557,
+      "increase_over_2013_14": 4567,
+      "increase_over_2013_14_pct": 123
+    },
+    {
+      "crop_group": "व्यावसायिक",
+      "crop": "कपास",
+      "variety": "लंबा रेशा",
+      "msp_2026_27": 8667,
+      "cost_of_production_2026_27": "",
+      "margin_over_cost_pct": "",
+      "msp_2025_26": 8110,
+      "msp_2013_14": 4000,
+      "increase_over_2025_26": 557,
+      "increase_over_2013_14": 4667,
+      "increase_over_2013_14_pct": 117
+    }
+  ],
+  "meta": {
+    "title": "खरीफ फसलों का न्यूनतम समर्थन मूल्य (एमएसपी) 2026-27 - Free Download",
+    "description": "विपणन सीजन 2026-27 के लिए 14 खरीफ फसलों का न्यूनतम समर्थन मूल्य (रुपये प्रति क्विंटल), उत्पादन लागत, लागत पर मार्जिन तथा 2025-26 और 2013-14 की तुलना में वृद्धि (पत्र सूचना कार्यालय, 13 मई 2026)। Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "खरीफ फसलों का न्यूनतम समर्थन मूल्य (एमएसपी) 2026-27 | ListBase",
+    "seo_description": "Download खरीफ फसलों का न्यूनतम समर्थन मूल्य (एमएसपी) 2026-27 — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2260659&lang=2&reg=3"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "hi",
-  "generated": "2026-11-28T02:18:19.717Z",
-  "total_datasets": 534,
-  "total_records": 2018274,
+  "generated": "2026-11-28T02:18:31.324Z",
+  "total_datasets": 535,
+  "total_records": 2018319,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "law",
@@ -7671,6 +7671,31 @@
         "xlsx": {
           "name": "hi-sahitya-akademi-anuvad-puraskar-hindi_HI.xlsx",
           "size": 9412
+        }
+      }
+    },
+    {
+      "id": "hi-sahitya-akademi-puraskar-rajasthani",
+      "name": "राजस्थानी भाषा के लिए साहित्य अकादमी पुरस्कार विजेता",
+      "category": "language",
+      "record_count": 45,
+      "columns": [
+        "year",
+        "author",
+        "work",
+        "genre"
+      ],
+      "source": "https://hi.wikipedia.org/wiki/राजस्थानी_के_लिए_साहित्य_अकादमी_पुरस्कार_विजेताओं_की_सूची",
+      "updated": "2026-11",
+      "size": 11020,
+      "files": {
+        "csv": {
+          "name": "hi-sahitya-akademi-puraskar-rajasthani_HI.csv",
+          "size": 4950
+        },
+        "xlsx": {
+          "name": "hi-sahitya-akademi-puraskar-rajasthani_HI.xlsx",
+          "size": 9076
         }
       }
     },
